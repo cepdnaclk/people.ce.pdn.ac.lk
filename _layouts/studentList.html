@@ -37,7 +37,7 @@ cards:
     <div class="row g-4 px-5  row-cols-1 row-cols-lg-2">
 
         {% for student in page.cards %}
-                <div class="card" style="width: 11rem;">
+                <div class="card text-center" style="width: 11rem;">
                     <img src="{{ student.image_path| relative_url }}" class="card-img-top p-1" alt="...">
                     <div class="card-body">
                         <h6 class="card-title">{{student.name}}</h6>
