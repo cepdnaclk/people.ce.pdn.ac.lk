@@ -1,21 +1,10 @@
-.vh-50{
-    min-height: 50vh!important;
+.vh-50 {
+  min-height: 50vh !important;
 }
-.vh-75{
-    min-height: 75vh!important;
+.vh-75 {
+  min-height: 75vh !important;
 }
 
 html {
-    scroll-behavior: smooth;
-}
-
-footer {
-  /* padding: 2.5rem 0;
-  color: #999;
-  text-align: center;
-  background-color: #cdcdcd;
-  border-top: .05rem solid #bfbfbf; */
-}
-footer p:last-child {
-  /* margin-bottom: 0; */
+  scroll-behavior: smooth;
 }
