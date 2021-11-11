@@ -1,0 +1,54 @@
+---
+layout: default
+---
+{%- comment -%}
+This layout is for creating the list of students in each batch
+
+sameple frontmatter,
+
+---START---
+title_in_breadcrumb: E18 Batch
+students_or_staff: Students
+cards:
+    -
+        name: Ishan Fernando
+        reg_no: E/18/098
+        image_path: /images/students/e18/e18098.jpg
+        student_page_path: /students/e18/e18098.html
+    -
+        name: Second Name
+        reg_no: E/18/555
+        image_path: /images/students/e18/e18555.jpg
+        student_page_path: /students/e18/e18555.html
+---END---
+
+{%- endcomment -%}
+
+<div class="bg-secondary p-3 pb-1 rounded">
+    <h1 class="text-white">{{page.title_in_breadcrumb}}</h1>
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item active text-white" aria-current="page">Home / {{page.students_or_staff}} / {{page.title_in_breadcrumb}}</li>
+        </ol>
+    </nav>
+</div>
+
+<div class="container px-5 py-4" id="featured-3">
+    <div class="row g-4 px-5  row-cols-1 row-cols-lg-2">
+
+        {% for student in page.cards %}
+                <div class="card" style="width: 11rem;">
+                    <img src="{{ student.image_path| relative_url }}" class="card-img-top p-1" alt="...">
+                    <div class="card-body">
+                        <h6 class="card-title">{{student.name}}</h6>
+                        <p class="card-text">{{student.reg_no}}</p>
+                        <a class="btn btn-outline-primary w-100" href="{{ student.student_page_path | relative_url }}">View</a>
+                    </div>
+                </div>
+        {% endfor %}
+
+
+
+    </div>
+</div>
+
