@@ -42,9 +42,17 @@ sample content,
 
 <div class="container py-4 px-lg-5">
     <div class="row justify-content-center">
-
-        {{content}}
-
+        {% assign folder1 = site.pages | where: "batch", page.batch | sort: "reg_no" %}
+        {% for item in folder1 %}
+        <div class="card text-center p-2 " style="width: 11rem;">
+            <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
+                alt="{{item.student_name}}">
+            <div class="card-body">
+                <h6 class="card-title">{{item.name_with_initials}}</h6>
+                <p class="card-text">{{item.reg_no}}</p>
+                <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
+            </div>
+        </div>
+        {% endfor %}
     </div>
 </div>
-
