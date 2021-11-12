@@ -29,15 +29,16 @@ sample content,
 
 
 {%- endcomment -%}
-
-<div class="bg-secondary p-3 pb-1 rounded">
-    <h1 class="text-white">{{page.title_in_breadcrumb}}</h1>
-    <nav aria-label="breadcrumb">
-        <ol class="breadcrumb">
-            <li class="breadcrumb-item active text-white" aria-current="page">Home / {{page.students_or_staff}} / {{page.title_in_breadcrumb}}</li>
-        </ol>
-    </nav>
-</div>
+<main class="container">
+    <div class="bg-secondary p-3 pb-1 rounded">
+        <h1 class="text-white">{{page.title_in_breadcrumb}}</h1>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item active text-white" aria-current="page">Home / {{page.students_or_staff}} / {{page.title_in_breadcrumb}}</li>
+            </ol>
+        </nav>
+    </div>
+</main>
 
 <div class="container py-4 px-lg-5">
     <div class="row justify-content-center">
