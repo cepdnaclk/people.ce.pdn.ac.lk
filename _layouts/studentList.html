@@ -9,18 +9,24 @@ sameple frontmatter,
 ---START---
 title_in_breadcrumb: E18 Batch
 students_or_staff: Students
-cards:
-    -
-        name: Ishan Fernando
-        reg_no: E/18/098
-        image_path: /images/students/e18/e18098.jpg
-        student_page_path: /students/e18/e18098/
-    -
-        name: Second Name
-        reg_no: E/18/555
-        image_path: /images/students/e18/e18555.jpg
-        student_page_path: /students/e18/e18555/
 ---END---
+
+
+sample content,
+
+{% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'students/e18/students'"%}
+{% for item in folder1 %}
+<div class="card text-center p-2 " style="width: 11rem;">
+    <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
+        alt="{{item.student_name}}">
+    <div class="card-body">
+        <h6 class="card-title">{{item.name_with_initials}}</h6>
+        <p class="card-text">{{item.reg_no}}</p>
+        <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
+    </div>
+</div>
+{% endfor %}
+
 
 {%- endcomment -%}
 
@@ -35,21 +41,8 @@ cards:
 
 <div class="container py-4 px-lg-5">
     <div class="row justify-content-center">
-        {%- comment -%}
-        TODO: change this to the other method
-        {%- endcomment -%}
-        {% for student in page.cards %}
-                <div class="card text-center p-2 " style="width: 11rem;">
-                    <img src="{{ student.image_path| relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{page.student_name}}" >
-                    <div class="card-body">
-                        <h6 class="card-title">{{student.name}}</h6>
-                        <p class="card-text">{{student.reg_no}}</p>
-                        <a class="btn btn-outline-primary w-100" href="{{ student.student_page_path | relative_url }}">View</a>
-                    </div>
-                </div>
-        {% endfor %}
 
-
+        {{content}}
 
     </div>
 </div>
