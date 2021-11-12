@@ -14,7 +14,7 @@ students_or_staff: Students
 
 sample content,
 
-{% assign folder1 = site.pages | where_exp: "item" , "item.path contains 'students/e18/students'"%}
+{% assign folder1 = site.pages | where: "batch", page.batch  | where: "studentDetails", page.layout | sort: "reg_no" %}
 {% for item in folder1 %}
 <div class="card text-center p-2 " style="width: 11rem;">
     <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
@@ -42,7 +42,9 @@ sample content,
 
 <div class="container py-4 px-lg-5">
     <div class="row justify-content-center">
-        {% assign folder1 = site.pages | where: "batch", page.batch | sort: "reg_no" %}
+        {% assign profilePages = site.pages | where: "layout", "studentDetails"  %}
+        {% assign folder1 = profilePages | where: "batch", page.batch | sort: "reg_no" %}
+
         {% for item in folder1 %}
         <div class="card text-center p-2 " style="width: 11rem;">
             <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
