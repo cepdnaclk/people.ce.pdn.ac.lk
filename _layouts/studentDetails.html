@@ -78,7 +78,7 @@ NOTES:
                 <ul class="list-group list-group-flush">
                     <!-- CV -->
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <img src="{{'/images/icons/cv.png' | relative_url}}" alt="" style="width:25px;" /> CV</h6>
+                        <h6 class="mb-0"> <i class="fas fa-address-card"></i> CV</h6>
                         {% if page.url_cv != "N/A" %}
                         <span class="text-secondary"> <a href="{{page.url_cv}}" target="_blank"><button type="button"
                                     class="btn btn-outline-primary btn-sm">View</button></a></span>
@@ -89,16 +89,7 @@ NOTES:
 
                     <!-- Website -->
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                stroke-linecap="round" stroke-linejoin="round"
-                                class="feather feather-globe mr-2 icon-inline">
-                                <circle cx="12" cy="12" r="10"></circle>
-                                <line x1="2" y1="12" x2="22" y2="12"></line>
-                                <path
-                                    d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z">
-                                </path>
-                            </svg> Website</h6>
+                        <h6 class="mb-0"> <i class="fas fa-globe"></i> Website</h6>
                             {% if page.url_website != "N/A"%}
                             <span class="text-secondary"> <a href="{{page.url_website}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                             {% else %}
@@ -107,7 +98,7 @@ NOTES:
                     </li>
 
                     <!-- LinkedIN -->
-                    
+
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <img src="{{'/images/icons/linkedIn.png' | relative_url}}" alt="" style="width:25px;" /> LinkedIn</h6>
                         {% if page.url_linkedin != "N/A" %}
@@ -219,7 +210,9 @@ NOTES:
                             <span class="mb-0" style="font-weight: 500">Email</span>
                         </div>
                         <div class="col-sm-9 text-secondary">
-                            {{page.email_faculty}} , {{page.email_personal}}
+                            {{page.email_faculty}}
+                            <br>
+                            {{page.email_personal}}
                         </div>
                     </div>
                     <hr>
@@ -244,7 +237,10 @@ NOTES:
                             <small>• {{eachProject}}</small>
                             <br>
                             {% endfor %}
+                        </div>
 
+                        <div class="card-body">
+                            {{ content }}
                         </div>
                     </div>
                 </div>
