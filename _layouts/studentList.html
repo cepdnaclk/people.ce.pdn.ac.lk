@@ -33,12 +33,11 @@ cards:
     </nav>
 </div>
 
-<div class="container px-5 py-4" id="featured-3">
-    <div class="row g-4 px-5  row-cols-1 row-cols-lg-2">
-
+<div class="container px-5 py-4">
+    <div class="row justify-content-center">
         {% for student in page.cards %}
-                <div class="card text-center" style="width: 11rem;">
-                    <img src="{{ student.image_path| relative_url }}" class="card-img-top p-1" alt="...">
+                <div class="card text-center p-2 " style="width: 11rem;">
+                    <img src="{{ student.image_path| relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{page.student_name}}" >
                     <div class="card-body">
                         <h6 class="card-title">{{student.name}}</h6>
                         <p class="card-text">{{student.reg_no}}</p>
