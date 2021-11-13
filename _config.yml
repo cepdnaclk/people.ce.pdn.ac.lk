@@ -43,7 +43,6 @@ exclude:
     "*.yml",
   ]
 
-  
 kramdown:
   syntax_highlighter_opts:
     block:
@@ -59,3 +58,5 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+timezone: Asia/Colombo
