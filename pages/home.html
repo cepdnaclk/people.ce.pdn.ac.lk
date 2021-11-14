@@ -29,7 +29,7 @@ TODO: create cards for Staff, Students, Alumni etc
                 alt="Staff">
             <div class="card-body">
                 <ul class="list-group list-group-flush">
-                    <a class="btn btn-outline-primary w-100 " href="{% link pages/staff/indexPages/academicStaff.html %}">Academic Staff</a>
+                    <a class="btn btn-outline-primary w-100 " href="{{ 'staff/academic' | relative_url }}">Academic Staff</a>
                     {%- comment -%}
                     TODO: put the links here after creating the pages
                     {%- endcomment -%}
@@ -47,10 +47,10 @@ TODO: create cards for Staff, Students, Alumni etc
             <img src="{{ 'images/homepage/studentsLogo.png'| relative_url }}" style="border-radius: 7%" class="card-img-top p-5"
                 alt="Students">
             <div class="card-body">
-                <a class="btn btn-outline-primary w-100 " href="{% link pages/students/indexPages/e18.html %}">E18 Batch</a>
-                <a class="btn btn-outline-primary w-100 " href="{% link pages/students/indexPages/e17.html %}">E17 Batch</a>
-                <a class="btn btn-outline-primary w-100 " href="{% link pages/students/indexPages/e16.html %}">E16 Batch</a>
-                <a class="btn btn-outline-primary w-100 " href="{% link pages/students/indexPages/e15.html %}">E15 Batch</a>
+                <a class="btn btn-outline-primary w-100 " href="{{ 'students/e18' | relative_url }}">E18 Batch</a>
+                <a class="btn btn-outline-primary w-100 " href="{{ 'students/e17' | relative_url }}">E17 Batch</a>
+                <a class="btn btn-outline-primary w-100 " href="{{ 'students/e16' | relative_url }}">E16 Batch</a>
+                <a class="btn btn-outline-primary w-100 " href="{{ 'students/e15' | relative_url }}">E15 Batch</a>
             </div>
         </div>
         <div class="card text-center p-2 " style="width:20rem;">
