@@ -6,6 +6,14 @@ permalink: /
 TODO: create cards for Staff, Students, Alumni etc 
 {%- endcomment -%}
 
+<style>
+.bottomMargin { margin-bottom:5px; }
+.cardSpacing {
+    margin-left: 7px;
+    margin-right: 7px;
+    }
+</style>
+
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         <h1 class="text-white">Home</h1>
@@ -21,7 +29,7 @@ TODO: create cards for Staff, Students, Alumni etc
 
 <div class="container py-4 px-lg-5">
     <div class="row justify-content-center">
-        <div class="card text-center p-2 " style="width:20rem;">
+        <div class="card text-center p-2 cardSpacing" style="width:20rem;">
             <div class="card-header">
                 <h5>Staff</h5>
             </div>
@@ -29,31 +37,31 @@ TODO: create cards for Staff, Students, Alumni etc
                 alt="Staff">
             <div class="card-body">
                 <ul class="list-group list-group-flush">
-                    <a class="btn btn-outline-primary w-100 " href="{{ 'staff/academic' | relative_url }}">Academic Staff</a>
+                    <a class="btn btn-outline-primary w-100 bottomMargin" href="{{ 'staff/academic' | relative_url }}">Academic Staff</a>
                     {%- comment -%}
                     TODO: put the links here after creating the pages
                     {%- endcomment -%}
-                    <a class="btn btn-outline-primary w-100 " href="#">Past Heads of the Department</a>
-                    <a class="btn btn-outline-primary w-100 " href="#">Temporary Academic Staff</a>
-                    <a class="btn btn-outline-primary w-100 " href="#">Academic Support Staff</a>
+                    <a class="btn btn-outline-primary w-100 bottomMargin" href="#">Past Heads of the Department</a>
+                    <a class="btn btn-outline-primary w-100 bottomMargin" href="#">Temporary Academic Staff</a>
+                    <a class="btn btn-outline-primary w-100 bottomMargin" href="#">Academic Support Staff</a>
 
                 </ul>
             </div>
         </div>
-        <div class="card text-center p-2 " style="width:20rem;">
+        <div class="card text-center p-2 cardSpacing" style="width:20rem;">
             <div class="card-header">
                 <h5>Students</h5>
             </div>
             <img src="{{ 'images/homepage/studentsLogo.png'| relative_url }}" style="border-radius: 7%" class="card-img-top p-5"
                 alt="Students">
             <div class="card-body">
-                <a class="btn btn-outline-primary w-100 " href="{{ 'students/e18' | relative_url }}">E18 Batch</a>
-                <a class="btn btn-outline-primary w-100 " href="{{ 'students/e17' | relative_url }}">E17 Batch</a>
-                <a class="btn btn-outline-primary w-100 " href="{{ 'students/e16' | relative_url }}">E16 Batch</a>
-                <a class="btn btn-outline-primary w-100 " href="{{ 'students/e15' | relative_url }}">E15 Batch</a>
+                <a class="btn btn-outline-primary w-100 bottomMargin " href="{{ 'students/e18' | relative_url }}">E18 Batch</a>
+                <a class="btn btn-outline-primary w-100 bottomMargin" href="{{ 'students/e17' | relative_url }}">E17 Batch</a>
+                <a class="btn btn-outline-primary w-100 bottomMargin" href="{{ 'students/e16' | relative_url }}">E16 Batch</a>
+                <a class="btn btn-outline-primary w-100 bottomMargin" href="{{ 'students/e15' | relative_url }}">E15 Batch</a>
             </div>
         </div>
-        <div class="card text-center p-2 " style="width:20rem;">
+        <div class="card text-center p-2 cardSpacing" style="width:20rem;">
             <div class="card-header">
                 <h5>Alumni</h5>
             </div>
