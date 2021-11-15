@@ -19,6 +19,13 @@ students_or_staff: Students
 
 
 {%- endcomment -%}
+<style>
+    .cardSpacing {
+    margin-left: 3px;
+    margin-right: 3px;
+    }
+</style>
+
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         <h1 class="text-white">{{page.title_in_breadcrumb}}</h1>
@@ -36,7 +43,7 @@ students_or_staff: Students
         {% assign folder1 = profilePages | where: "batch", page.batch | sort: "reg_no" %}
 
         {% for item in folder1 %}
-        <div class="card text-center p-2 " style="width: 11rem;">
+        <div class="card text-center p-2 cardSpacing" style="width: 11rem;">
             <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
                 alt="{{item.student_name}}">
             <div class="card-body">
