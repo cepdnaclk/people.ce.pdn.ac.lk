@@ -8,3 +8,15 @@
 html {
   scroll-behavior: smooth;
 }
+
+.cardSpacingHome {
+  margin: 7px;
+}
+
+.cardSpacingStudentsList {
+  margin: 3px;
+}
+
+.buttonBottomMargin {
+  margin-bottom: 5px;
+}
