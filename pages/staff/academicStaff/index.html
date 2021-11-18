@@ -19,7 +19,7 @@ permalink: /staff/academic/
     <ul class="nav nav-pills mb-3  nav-fill"  id="pills-tab" role="tablist">
         <li class="nav-item" role="presentation">
             <button class="nav-link active" id="pills-hod-tab" data-bs-toggle="pill" data-bs-target="#pills-hod"
-                type="button" role="tab" aria-controls="pills-hod" aria-selected="true">Head Of the Department</button>
+                type="button" role="tab" aria-controls="pills-hod" aria-selected="true">Head of Department</button>
         </li>
         <li class="nav-item" role="presentation">
             <button class="nav-link" id="pills-professors-tab" data-bs-toggle="pill" data-bs-target="#pills-professors"
@@ -48,15 +48,14 @@ permalink: /staff/academic/
             {%- comment -%}
             Professors Tab
             {%- endcomment -%}
-            
-            {% include staff_academic_cards.html filter_var="group" if_equal_to_this="professor" %}
+            {% include staff_academic_cards.html filter_var="group" if_equal_to_this="Professors" %}
         </div>
 
         <div class="tab-pane fade" id="pills-s-lecturers" role="tabpanel" aria-labelledby="pills-s-lecturers-tab">
             {%- comment -%}
             Senior Lecturers Tab
             {%- endcomment -%}
-            {% include staff_academic_cards.html filter_var="group" if_equal_to_this="senior_lecturer" %}
+            {% include staff_academic_cards.html filter_var="group" if_equal_to_this="Senior_Lecturers" %}
 
         </div>
 
@@ -64,8 +63,8 @@ permalink: /staff/academic/
             {%- comment -%}
             Lecturers tab
             {%- endcomment -%}
-            {% include staff_academic_cards.html filter_var="group" if_equal_to_this="lecturer" %}
-            
+            {% include staff_academic_cards.html filter_var="group" if_equal_to_this="Lecturers" %}
+
         </div>
     </div>
 </div>
