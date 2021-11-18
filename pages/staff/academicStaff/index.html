@@ -40,7 +40,9 @@ permalink: /staff/academic/
             {%- comment -%}
             Head of Department Tab
             {%- endcomment -%}
-            {% include staff_academic_cards.html filter_var="is_hod" if_equal_to_this=true %}
+            <div class="row justify-content-center">
+                {% include staff_academic_cards.html filter_var="is_hod" if_equal_to_this=true %}
+            </div>
 
         </div>
 
@@ -48,23 +50,27 @@ permalink: /staff/academic/
             {%- comment -%}
             Professors Tab
             {%- endcomment -%}
-            {% include staff_academic_cards.html filter_var="group" if_equal_to_this="Professors" %}
+            <div class="row justify-content-center">
+                {% include staff_academic_cards.html filter_var="group" if_equal_to_this="Professors" %}
+            </div>
         </div>
 
         <div class="tab-pane fade" id="pills-s-lecturers" role="tabpanel" aria-labelledby="pills-s-lecturers-tab">
             {%- comment -%}
             Senior Lecturers Tab
             {%- endcomment -%}
-            {% include staff_academic_cards.html filter_var="group" if_equal_to_this="Senior_Lecturers" %}
-
+            <div class="row justify-content-center">
+                {% include staff_academic_cards.html filter_var="group" if_equal_to_this="Senior_Lecturers" %}
+            </div>
         </div>
 
         <div class="tab-pane fade" id="pills-lecturers" role="tabpanel" aria-labelledby="pills-lecturers-tab">
             {%- comment -%}
             Lecturers tab
             {%- endcomment -%}
-            {% include staff_academic_cards.html filter_var="group" if_equal_to_this="Lecturers" %}
-
+            <div class="row justify-content-center">
+                {% include staff_academic_cards.html filter_var="group" if_equal_to_this="Lecturers" %}
+            </div>
         </div>
     </div>
 </div>
