@@ -1,0 +1,20 @@
+{%- comment -%}
+Only used in pages/staff/academicStaff/index.html to generate the cards in respective tabs
+{%- endcomment -%}
+
+<div class="tab-pane fade show active" id="pills-hod" role="tabpanel" aria-labelledby="pills-hod-tab">
+    {% assign profilePages = site.pages | where: "layout", "staffDetails" %}
+    {% assign folder1 = profilePages | where: {{include.filter_var}}, {{include.if_equal_to_this}} %}
+
+    {% for item in folder1 %}
+    <div class="container card text-center p-2 border-primary" style="width: 17rem;">
+        <img src="{{ item.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
+            alt="{{item.student_name}}">
+        <div class="card-body">
+            <h6 class="card-title">{{item.name_below_image}}</h6>
+            <p class="card-text text-muted">{{item.text_below_name}}</p>
+            <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
+        </div>
+    </div>
+    {% endfor %}
+</div>

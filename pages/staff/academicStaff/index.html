@@ -40,67 +40,32 @@ permalink: /staff/academic/
             {%- comment -%}
             Head of Department Tab
             {%- endcomment -%}
-            {% assign profilePages = site.pages | where: "layout", "staffDetails" %}
-            {% assign folder1 = profilePages | where: "is_hod", true %}
-            
-            {% for item in folder1 %}
-            <div class="container card text-center p-2 border-primary" style="width: 17rem;">
-                <img src="{{ item.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
-                    alt="{{item.student_name}}">
-                <div class="card-body">
-                    <h6 class="card-title">{{item.name_below_image}}</h6>
-                    <p class="card-text text-muted">{{item.text_below_name}}</p>
-                    <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
-                </div>
-            </div>
-            {% endfor %}
+            {% include staff_academic_cards.html filter_var="is_hod" if_equal_to_this=true %}
+
         </div>
 
         <div class="tab-pane fade" id="pills-professors" role="tabpanel" aria-labelledby="pills-professors-tab">
             {%- comment -%}
             Professors Tab
             {%- endcomment -%}
-            {% assign profilePages = site.pages | where: "layout", "staffDetails" %}
-            {% assign folder1 = profilePages | where: "group", "professor" %}
             
-            {% for item in folder1 %}
-            <div class="container card text-center p-2 border-primary" style="width: 17rem;">
-                <img src="{{ item.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
-                    alt="{{item.student_name}}">
-                <div class="card-body">
-                    <h6 class="card-title">{{item.name_below_image}}</h6>
-                    <p class="card-text text-muted">{{item.text_below_name}}</p>
-                    <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
-                </div>
-            </div>
-            {% endfor %}
+            {% include staff_academic_cards.html filter_var="group" if_equal_to_this="professor" %}
         </div>
 
         <div class="tab-pane fade" id="pills-s-lecturers" role="tabpanel" aria-labelledby="pills-s-lecturers-tab">
             {%- comment -%}
             Senior Lecturers Tab
             {%- endcomment -%}
-            {% assign profilePages = site.pages | where: "layout", "staffDetails" %}
-            {% assign folder1 = profilePages | where: "group", "senior_lecturer" %}
-            
-            {% for item in folder1 %}
-            <div class="container card text-center p-2 border-primary" style="width: 17rem;">
-                <img src="{{ item.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
-                    alt="{{item.student_name}}">
-                <div class="card-body">
-                    <h6 class="card-title">{{item.name_below_image}}</h6>
-                    <p class="card-text text-muted">{{item.text_below_name}}</p>
-                    <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
-                </div>
-            </div>
-            {% endfor %}
+            {% include staff_academic_cards.html filter_var="group" if_equal_to_this="senior_lecturer" %}
+
         </div>
 
         <div class="tab-pane fade" id="pills-lecturers" role="tabpanel" aria-labelledby="pills-lecturers-tab">
             {%- comment -%}
             Lecturers tab
             {%- endcomment -%}
-            Empty
+            {% include staff_academic_cards.html filter_var="group" if_equal_to_this="lecturer" %}
+            
         </div>
     </div>
 </div>
