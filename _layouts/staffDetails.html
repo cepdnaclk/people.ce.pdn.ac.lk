@@ -85,65 +85,63 @@ sample content,
             <div class="card mt-3">
                 <ul class="list-group list-group-flush">
                     <!-- Number -->
+                    {% if page.contact_number %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fas fa-phone"></i> Contact Number</h6>
                         <a href="tel:{{page.contact_number}}">{{page.contact_number}}</a>
                     </li>
+                    {% endif %} 
 
                     <!-- E-mail -->
+                    {% if page.email %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fas fa-at"></i> E-mail</h6>
                         <a href="mailto:{{page.email}}">{{page.email}}</a>
                     </li>
-
+                    {% endif %}
 
                     <!-- Location -->
                     {%- comment -%}
                     TODO: need a better name than location 😥
                     {%- endcomment -%}
+                    {% if page.location %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fas fa-map-marker"></i> Location</h6>
                         <a>{{page.location}}</a>
                     </li>
+                    {% endif %}
 
                     <!-- Google Scholar -->
+                    {% if page.url_google_scholar %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-google"></i> Google Scholar</h6>
-                        {% if page.url_linkedin != "N/A" %}
                         <span class="text-secondary"> <a
                                 href="{{page.url_google_scholar}}"
                                 target="_blank"><button type="button"
                                     class="btn btn-outline-primary btn-sm">View</button></a></span>
-                        {% else %}
-                        <span class="text-secondary"> N/A</span>
-                        {% endif %}
                     </li>
+                    {% endif %}
 
                     <!-- Website -->
+                    {% if page.url_website %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fas fa-globe"></i> Website</h6>
-                        {% if page.url_website != "N/A"%}
                         <span class="text-secondary"> <a href="{{page.url_website}}"
                                 target="_blank"><button type="button"
                                     class="btn btn-outline-primary btn-sm">View</button></a></span>
-                        {% else %}
-                        <span class="text-secondary"> N/A</span>
-                        {% endif %}
                     </li>
+                    {% endif %}
 
                     <!-- LinkedIN -->
-
+                    {% if page.url_linkedin %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-linkedin"></i> LinkedIn</h6>
-                        {% if page.url_linkedin != "N/A" %}
                         <span class="text-secondary"> <a
                                 href="{{page.url_linkedin}}"
                                 target="_blank"><button type="button"
                                     class="btn btn-outline-primary btn-sm">View</button></a></span>
-                        {% else %}
-                        <span class="text-secondary"> N/A</span>
-                        {% endif %}
                     </li>
+                    {% endif %}
 
 
 
