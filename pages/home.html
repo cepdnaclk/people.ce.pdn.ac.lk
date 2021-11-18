@@ -2,9 +2,6 @@
 layout: default 
 permalink: / 
 --- 
-{%- comment -%}
-TODO: create cards for Staff, Students, Alumni etc 
-{%- endcomment -%}
 
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
@@ -18,4 +15,54 @@ TODO: create cards for Staff, Students, Alumni etc
 </main>
 
 <!-- Current path END-->
-<div class="container p-5"><a> click students > E18 for now 🤣</a></div>
+
+<div class="container py-4 px-lg-5">
+    <div class="row justify-content-center">
+        <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
+            <div class="card-header">
+                <h5>Staff</h5>
+            </div>
+            <img src="{{ 'images/homepage/staffLogo.png'| relative_url }}" style="border-radius: 7%;" class="card-img-top p-3" 
+                alt="Staff">
+            <div class="card-body">
+                <ul class="list-group list-group-flush">
+                    <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ 'staff/academic' | relative_url }}">Academic Staff</a>
+                    {%- comment -%}
+                    TODO: put the links here after creating the pages
+                    {%- endcomment -%}
+                    <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="#">Past Heads of the Department</a>
+                    <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="#">Temporary Academic Staff</a>
+                    <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="#">Academic Support Staff</a>
+
+                </ul>
+            </div>
+        </div>
+        <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
+            <div class="card-header">
+                <h5>Students</h5>
+            </div>
+            <img src="{{ 'images/homepage/studentsLogo.png'| relative_url }}" style="border-radius: 7%;" class="card-img-top p-5"
+                alt="Students">
+            <div class="card-body">
+                <a class="btn btn-outline-primary w-100 buttonBottomMargin " href="{{ 'students/e18' | relative_url }}">E18 Batch</a>
+                <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ 'students/e17' | relative_url }}">E17 Batch</a>
+                <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ 'students/e16' | relative_url }}">E16 Batch</a>
+                <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ 'students/e15' | relative_url }}">E15 Batch</a>
+            </div>
+        </div>
+        <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
+            <div class="card-header">
+                <h5>Alumni</h5>
+            </div>
+            <img src="{{ 'images/homepage/alumniLogo.png'| relative_url }}" style="border-radius: 7%" class="card-img-top p-5"
+                alt="Students">
+            <div class="card-body">
+                {%- comment -%}
+                TODO: update alumni link
+                {%- endcomment -%}
+                <a class="btn btn-outline-primary w-100 " href="#">View</a>
+
+            </div>
+        </div>
+    </div>
+</div>

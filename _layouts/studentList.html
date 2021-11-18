@@ -7,12 +7,13 @@ This layout is for creating the list of students in each batch
 sameple frontmatter,
 
 ---START---
-title_in_breadcrumb: E18 Batch
+
+layout: studentList
+permalink: /students/e15/
+
+batch: E15
+title_in_breadcrumb: E15 Batch
 students_or_staff: Students
----END---
-
-
-sample content,
 
 {% assign folder1 = site.pages | where: "batch", page.batch  | where: "studentDetails", page.layout | sort: "reg_no" %}
 {% for item in folder1 %}
@@ -29,6 +30,13 @@ sample content,
 
 
 {%- endcomment -%}
+<style>
+    .cardSpacing {
+    margin-left: 3px;
+    margin-right: 3px;
+    }
+</style>
+
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         <h1 class="text-white">{{page.title_in_breadcrumb}}</h1>
