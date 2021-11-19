@@ -48,7 +48,8 @@ NOTES:
         <!-- <h1 class="text-white">Student Details</h1> -->
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item active text-white" aria-current="page">Home / Students / {{page.batch | capitalize}} Batch / {{page.name_with_initials}}</li>
+                <li class="breadcrumb-item active text-white" aria-current="page">Home / Students / {{page.batch |
+                    capitalize}} Batch / {{page.name_with_initials}}</li>
             </ol>
         </nav>
     </div>
@@ -62,7 +63,8 @@ NOTES:
             <div class="card">
                 <div class="card-body">
                     <div class="d-flex flex-column align-items-center text-center">
-                        <img src="{{ page.image_url | relative_url}}" alt="Admin" style="border-radius: 10%" width="175">
+                        <img src="{{ page.image_url | relative_url}}" alt="Admin" style="border-radius: 10%"
+                            width="175">
                         <div class="mt-2">
                             <h4>{{page.name_with_initials}}</h4>
                             <!-- <p class="text-secondary mb-1">{{page.text_below_name}}</p>
@@ -89,11 +91,12 @@ NOTES:
                     <!-- Website -->
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fas fa-globe"></i> Website</h6>
-                            {% if page.url_website != "N/A"%}
-                            <span class="text-secondary"> <a href="{{page.url_website}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                            {% else %}
-                            <span class="text-secondary"> N/A</span>
-                            {% endif %}
+                        {% if page.url_website != "N/A"%}
+                        <span class="text-secondary"> <a href="{{page.url_website}}" target="_blank"><button
+                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        {% else %}
+                        <span class="text-secondary"> N/A</span>
+                        {% endif %}
                     </li>
 
                     <!-- LinkedIN -->
@@ -101,8 +104,8 @@ NOTES:
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-linkedin"></i> LinkedIn</h6>
                         {% if page.url_linkedin != "N/A" %}
-                        <span class="text-secondary"> <a href="{{page.url_linkedin}}" target="_blank"><button type="button"
-                                    class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_linkedin}}" target="_blank"><button
+                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
                         <span class="text-secondary"> N/A</span>
                         {% endif %}
@@ -112,8 +115,8 @@ NOTES:
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-github"></i> Github</h6>
                         {% if page.url_github != "N/A" %}
-                        <span class="text-secondary"> <a href="{{page.url_github}}" target="_blank"><button type="button"
-                                    class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_github}}" target="_blank"><button
+                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
                         <span class="text-secondary"> N/A</span>
                         {% endif %}
@@ -123,8 +126,8 @@ NOTES:
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-facebook"></i> Facebook</h6>
                         {% if page.url_facebook != "N/A" %}
-                        <span class="text-secondary"> <a href="{{page.url_facebook}}" target="_blank"><button type="button"
-                                    class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_facebook}}" target="_blank"><button
+                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
                         <span class="text-secondary"> N/A</span>
                         {% endif %}
@@ -134,8 +137,8 @@ NOTES:
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-researchgate"></i> ResearchGate</h6>
                         {% if page.url_researchgate != "N/A" %}
-                        <span class="text-secondary"> <a href="{{page.url_researchgate}}" target="_blank"><button type="button"
-                                    class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_researchgate}}" target="_blank"><button
+                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
                         <span class="text-secondary"> N/A</span>
                         {% endif %}
@@ -145,8 +148,8 @@ NOTES:
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-twitter"></i> Twitter</h6>
                         {% if page.url_twitter != "N/A" %}
-                        <span class="text-secondary"> <a href="{{page.url_twitter}}" target="_blank"><button type="button"
-                                    class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_twitter}}" target="_blank"><button
+                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
                         <span class="text-secondary"> N/A</span>
                         {% endif %}

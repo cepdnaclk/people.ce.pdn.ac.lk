@@ -7,7 +7,7 @@ This is the basic layout of the page containg the head, navbar and footer
 
 
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
 
 <head>
     {% include meta.html %}
@@ -25,7 +25,8 @@ This is the basic layout of the page containg the head, navbar and footer
     {%- comment -%}
     scroll to top button
     {%- endcomment -%}
-    <a href="#" id="toTopBtn" class="cd-top text-replace js-cd-top cd-top cd-top--fade-out" data-abc="true" style="display: none;"></a>
+    <a href="#" id="toTopBtn" class="cd-top text-replace js-cd-top cd-top cd-top--fade-out" data-abc="true"
+        style="display: none;"></a>
 
     {% include navbar.html %}
 
@@ -36,4 +37,5 @@ This is the basic layout of the page containg the head, navbar and footer
     {% include footer.html %}
 
 </body>
+
 </html>
