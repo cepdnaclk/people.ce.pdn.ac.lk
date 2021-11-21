@@ -58,7 +58,8 @@ sample content,
         <h1 class="text-white">{{page.name_below_image}}</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item active text-white" aria-current="page"> Home / Staff / Academic Staff / {{page.group | replace: "_"," "}} / {{page.name_below_image}}</li>
+                <li class="breadcrumb-item active text-white" aria-current="page"> Home / Staff / Academic Staff /
+                    {{page.group | replace: "_"," "}} / {{page.name_below_image}}</li>
             </ol>
         </nav>
     </div>
@@ -90,7 +91,7 @@ sample content,
                         <h6 class="mb-0"> <i class="fas fa-phone"></i> Contact Number</h6>
                         <a href="tel:{{page.contact_number}}">{{page.contact_number}}</a>
                     </li>
-                    {% endif %} 
+                    {% endif %}
 
                     <!-- E-mail -->
                     {% if page.email %}
@@ -115,10 +116,8 @@ sample content,
                     {% if page.url_google_scholar %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-google"></i> Google Scholar</h6>
-                        <span class="text-secondary"> <a
-                                href="{{page.url_google_scholar}}"
-                                target="_blank"><button type="button"
-                                    class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_google_scholar}}" target="_blank"><button
+                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                     </li>
                     {% endif %}
 
@@ -126,9 +125,8 @@ sample content,
                     {% if page.url_website %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fas fa-globe"></i> Website</h6>
-                        <span class="text-secondary"> <a href="{{page.url_website}}"
-                                target="_blank"><button type="button"
-                                    class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_website}}" target="_blank"><button
+                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                     </li>
                     {% endif %}
 
@@ -136,10 +134,8 @@ sample content,
                     {% if page.url_linkedin %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-linkedin"></i> LinkedIn</h6>
-                        <span class="text-secondary"> <a
-                                href="{{page.url_linkedin}}"
-                                target="_blank"><button type="button"
-                                    class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_linkedin}}" target="_blank"><button
+                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                     </li>
                     {% endif %}
 

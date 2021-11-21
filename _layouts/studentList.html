@@ -32,8 +32,8 @@ students_or_staff: Students
 {%- endcomment -%}
 <style>
     .cardSpacing {
-    margin-left: 3px;
-    margin-right: 3px;
+        margin-left: 3px;
+        margin-right: 3px;
     }
 </style>
 
@@ -42,7 +42,8 @@ students_or_staff: Students
         <h1 class="text-white">{{page.title_in_breadcrumb}}</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item active text-white" aria-current="page">Home / {{page.students_or_staff}} / {{page.title_in_breadcrumb}}</li>
+                <li class="breadcrumb-item active text-white" aria-current="page">Home / {{page.students_or_staff}} /
+                    {{page.title_in_breadcrumb}}</li>
             </ol>
         </nav>
     </div>
@@ -50,7 +51,7 @@ students_or_staff: Students
 
 <div class="container py-4 px-lg-5">
     <div class="row justify-content-center">
-        {% assign profilePages = site.pages | where: "layout", "studentDetails"  %}
+        {% assign profilePages = site.pages | where: "layout", "studentDetails" %}
         {% assign folder1 = profilePages | where: "batch", page.batch | sort: "reg_no" %}
 
         {% for item in folder1 %}
