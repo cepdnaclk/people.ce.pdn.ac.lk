@@ -24,7 +24,7 @@ def writeHTML(permalink,enum,batch,full_name,name_initial,pref_short_name,pref_l
 
     s = """---
 layout: project_page
-permalink: """ + permalink + """
+permalink: \"""" +  permalink + """"\"
 
 reg_no: """ + enum + """
 batch: """ + batch + """
