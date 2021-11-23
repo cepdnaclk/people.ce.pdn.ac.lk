@@ -51,9 +51,10 @@ NOTES:
         <!-- <h1 class="text-white">Student Details</h1> -->
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item active text-white" aria-current="page">Home / Students / {{page.batch |
-                    capitalize}} Batch /
-
+                <li class="breadcrumb-item"><a href="../../../" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="../../../" class="link-light">Students</a></li>
+                <li class="breadcrumb-item"><a href="../" class="link-light">{{page.batch | capitalize}} Batch</a></li>
+                <li class="breadcrumb-item text-white">
                     {%- if page.preferred_long_name -%}
                         {{page.preferred_long_name}}
                     {%- else if page.preferred_short_name -%}
@@ -63,7 +64,6 @@ NOTES:
                     {%- else -%}
                         {{page.reg_no}}
                     {%- endif -%}
-
                 </li>
             </ol>
         </nav>
