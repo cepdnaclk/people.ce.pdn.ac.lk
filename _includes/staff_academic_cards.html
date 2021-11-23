@@ -7,7 +7,7 @@ Only used in pages/staff/academicStaff/index.html to generate the cards in respe
 {% assign folder1 = profilePages | where: {{include.filter_var}}, {{include.if_equal_to_this}} %}
 
 {% for item in folder1 %}
-<div class="container card text-center p-2 border-primary m-1" style="width: 17rem;">
+<div class="container card text-center p-2 border-primary m-1" style="width: 13rem;">
     <img src="{{ item.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
         alt="{{item.student_name}}">
     <div class="card-body">
