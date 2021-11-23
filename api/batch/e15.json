@@ -1,0 +1,11 @@
+---
+layout: null
+batch: E15
+---
+{%- assign student_list = site.html_pages | where: "layout", "studentDetails" -%}
+{%- assign batch_student_list = student_list | where: "batch", page.batch -%}
+[
+    {% for student in batch_student_list -%}
+    {% include api_student.html student=student %}{% if forloop.last %}{% else %},{% endif %}
+    {% endfor -%}
+]
