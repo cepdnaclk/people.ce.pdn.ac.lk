@@ -46,14 +46,9 @@ permalink: /
             <img src="{{ 'images/homepage/studentsLogo.png'| relative_url }}" style="border-radius: 7%;"
                 class="card-img-top p-5" alt="Students">
             <div class="card-body">
-                <a class="btn btn-outline-primary w-100 buttonBottomMargin "
-                    href="{{ 'students/e18' | relative_url }}">E18 Batch</a>
-                <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                    href="{{ 'students/e17' | relative_url }}">E17 Batch</a>
-                <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                    href="{{ 'students/e16' | relative_url }}">E16 Batch</a>
-                <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                    href="{{ 'students/e15' | relative_url }}">E15 Batch</a>
+                {%- for batch in site.data.students -%}
+                <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{ batch.title }}</a>
+                {%- endfor -%}
             </div>
         </div>
         <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
@@ -63,12 +58,9 @@ permalink: /
             <img src="{{ 'images/homepage/alumniLogo.png'| relative_url }}" style="border-radius: 7%"
                 class="card-img-top p-5" alt="Students">
             <div class="card-body">
-                {%- comment -%}
-                TODO: update alumni link
-                {%- endcomment -%}
-                <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                    href="{{ 'students/e14' | relative_url }}">E14 Batch</a>
-
+                {%- for batch in site.data.alumini -%}
+                <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{ batch.title }}</a>
+                {%- endfor -%}
             </div>
         </div>
     </div>
