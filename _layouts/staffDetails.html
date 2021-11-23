@@ -50,6 +50,7 @@ sample content,
 </p>
 
 {%- endcomment -%}
+
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         {%- comment -%}
@@ -58,8 +59,11 @@ sample content,
         <h1 class="text-white">{{page.name_below_image}}</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item active text-white" aria-current="page"> Home / Staff / Academic Staff /
-                    {{page.group | replace: "_"," "}} / {{page.name_below_image}}</li>
+                <li class="breadcrumb-item"><a href="../../" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="../" class="link-light">Staff</a></li>
+                <li class="breadcrumb-item"><a href="../" class="link-light">Academic Staff</a></li>
+                <li class="breadcrumb-item"><a href="../" class="link-light">{{page.group | replace: "_"," "}}</a></li>
+                <li class="breadcrumb-item text-white">{{page.name_below_image}}</li>
             </ol>
         </nav>
     </div>

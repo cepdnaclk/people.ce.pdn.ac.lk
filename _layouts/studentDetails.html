@@ -48,8 +48,10 @@ NOTES:
         <!-- <h1 class="text-white">Student Details</h1> -->
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item active text-white" aria-current="page">Home / Students / {{page.batch |
-                    capitalize}} Batch / {{page.name_with_initials}}</li>
+                <li class="breadcrumb-item"><a href="../../../" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="../../../" class="link-light">Students</a></li>
+                <li class="breadcrumb-item"><a href="../" class="link-light">{{page.batch | capitalize}} Batch</a></li>
+                <li class="breadcrumb-item text-white">{{page.name_with_initials}}</li>
             </ol>
         </nav>
     </div>
