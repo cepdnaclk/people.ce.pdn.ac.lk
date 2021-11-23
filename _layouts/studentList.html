@@ -15,7 +15,7 @@ batch: E15
 title_in_breadcrumb: E15 Batch
 students_or_staff: Students
 
-{% assign folder1 = site.pages | where: "batch", page.batch  | where: "studentDetails", page.layout | sort: "reg_no" %}
+{% assign folder1 = site.pages | where: "batch", page.batch | where: "studentDetails", page.layout | sort: "reg_no" %}
 {% for item in folder1 %}
 <div class="card text-center p-2 " style="width: 11rem;">
     <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
@@ -27,8 +27,6 @@ students_or_staff: Students
     </div>
 </div>
 {% endfor %}
-
-test commit to PR
 
 {%- endcomment -%}
 <style>
