@@ -66,7 +66,13 @@ students_or_staff: Students
             {% endif %}
 
             <div class="card-body">
-                <h6 class="card-title">{{item.name_with_initials}}</h6>
+                <h6 class="card-title">
+                    {% if item.name_with_initials %}
+                    {{item.name_with_initials}}
+                    {% else if item.preferred_long_name %}
+                    {{item.preferred_long_name}}
+                    {%- endif -%}
+                </h6>
                 <p class="card-text">{{item.reg_no}}</p>
                 <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
             </div>

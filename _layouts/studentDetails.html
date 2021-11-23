@@ -18,7 +18,7 @@ full_name: Kurukulasuriya Anton Ishan Fernando
 name_with_initials: K. A. I. Fernando
 preferred_short_name: Ishan
 preferred_long_name: Ishan Fernando
-honorific: Ishan Fernando
+honorific: Mr.
 
 email_faculty: e18098@eng.pdn.ac.lk
 email_personal: personalMail@gmail.com
@@ -38,9 +38,12 @@ image_url: "images/students/e18/e18098.jpg"
 ---END---
 
 NOTES:
-1) if url = N/A it will show N/A, for everything else it will show the View button
+1) if url = # it will show N/A, for everything else it will show the View button
+2) Social Media links, location are optional
 
 {%- endcomment -%}
+
+
 
 <!-- Current path START-->
 <main class="container">
@@ -49,7 +52,19 @@ NOTES:
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item active text-white" aria-current="page">Home / Students / {{page.batch |
-                    capitalize}} Batch / {{page.preferred_short_name}}</li>
+                    capitalize}} Batch /
+
+                    {%- if page.preferred_long_name -%}
+                        {{page.preferred_long_name}}
+                    {%- else if page.preferred_short_name -%}
+                        {{page.preferred_short_name}}
+                    {%- else if page.name_with_initials -%}
+                        {{page.name_with_initials}}
+                    {%- else -%}
+                        {{page.reg_no}}
+                    {%- endif -%}
+
+                </li>
             </ol>
         </nav>
     </div>
@@ -116,8 +131,7 @@ NOTES:
                         {% endif %}
                     </li>
 
-                    <!-- LinkedIN -->
-
+                    <!-- LinkedIn -->
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-linkedin"></i> LinkedIn</h6>
                         {% if page.url_linkedin %}
@@ -140,39 +154,31 @@ NOTES:
                     </li>
 
                     <!-- Facebook -->
+                    {% if page.url_facebook %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-facebook"></i> Facebook</h6>
-                        {% if page.url_facebook %}
                         <span class="text-secondary"> <a href="{{page.url_facebook}}" target="_blank"><button
                                     type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                        {% else %}
-                        <span class="text-secondary"> N/A</span>
-                        {% endif %}
                     </li>
-
-                    <!-- ResearchGate -->
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fab fa-researchgate"></i> ResearchGate</h6>
-                        {% if page.url_researchgate %}
-                        <span class="text-secondary"> <a href="{{page.url_researchgate}}" target="_blank"><button
-                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                        {% else %}
-                        <span class="text-secondary"> N/A</span>
-                        {% endif %}
-                    </li>
+                    {% endif %}
 
                     <!-- Twitter -->
+                    {% if page.url_twitter %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-twitter"></i> Twitter</h6>
-                        {% if page.url_twitter %}
                         <span class="text-secondary"> <a href="{{page.url_twitter}}" target="_blank"><button
-                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                        {% else %}
-                        <span class="text-secondary"> N/A</span>
+                            type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        </li>
                         {% endif %}
+
+                    <!-- ResearchGate -->
+                    {% if page.url_researchgate %}
+                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
+                        <h6 class="mb-0"> <i class="fab fa-researchgate"></i> ResearchGate</h6>
+                        <span class="text-secondary"> <a href="{{page.url_researchgate}}" target="_blank"><button
+                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                     </li>
-
-
+                    {% endif %}
                 </ul>
             </div>
         </div>
@@ -218,9 +224,8 @@ NOTES:
                             <span class="mb-0" style="font-weight: 500">Email</span>
                         </div>
                         <div class="col-sm-9 text-secondary">
-                            {%- if page.email_personal -%}{{page.email_faculty}}{%- endif -%}
-                            <br>
-                            {%- if page.email_personal -%}{{page.email_personal}}{%- endif -%}
+                            {%- if page.email_personal -%}{{page.email_personal}}<br>{%- endif -%}
+                            {%- if page.email_faculty -%}{{page.email_faculty}}{%- endif -%}
                         </div>
                     </div>
                     <hr>

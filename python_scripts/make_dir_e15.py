@@ -11,16 +11,15 @@ if not already available.
 #import modules
 import csv
 import os
- 
+
 # assign directory
-src_path = '../csv'
+src_path = '../_csv'
 dest_path= '../pages/students/'
 
 
-def writeHTML(permalink,enum,batch,full_name,name_initial,pref_short_name,pref_long_name,honor,fac_email,per_email,location,url_cv,url_website,url_linked,url_github,url_fb,url_research,twitter):
+def writeHTML(permalink,enum,batch,full_name,name_initial,pref_short_name,pref_long_name,honor,fac_email,per_email,location,url_cv,url_website,url_linked,url_github,url_fb,url_research,twitter,image_url):
 
 #Note change parameters to required changes in the template
-
 
     s = """---
 layout: studentDetails
@@ -49,7 +48,7 @@ url_researchgate: """ + url_research + """
 url_twitter: """ +twitter+ """
 
 projects_done: []
-image_url: #
+image_url: """ +image_url+ """
 ---
 """
     return s
@@ -66,8 +65,7 @@ for filename in os.scandir(src_path):
         with open(filename.path, mode ='r')as file:
           # reading the CSV file
             csvFile = csv.reader(file)
- 
-        
+
             for lines in csvFile:
                 temp = lines[0].split('/')
 
@@ -75,21 +73,22 @@ for filename in os.scandir(src_path):
                 if(len(temp)!=3):
                     continue
 
-            
                 batch = 'e' + temp[1]
                 enum = batch + temp[2]
                 file_name = enum +'.html'
-                
+
                 permalink = "/students/" + batch + "/" +temp[2]
 
-                
+                long_name = lines[2]
+                short_name = long_name.split(' ')[0]
+                image_url = "images/students/"+batch+"/"+ enum +".jpg"
+
+                email_faculty = enum + '@ce.pdn.ac.lk'
                 print(enum,file_name,dest_path+batch)
 
                 if(os.path.isdir(dest_path+batch)==False):
                     os.mkdir(dest_path+batch)
 
                 with open(os.path.join(dest_path+batch, file_name), 'w') as fp:
-
-                 #enum+"@eng.pdn.ac.lk" can use this for future faculty emails
-                 
-                    fp.write(writeHTML(permalink,lines[0],temp[0]+temp[1],lines[2],"N/A",lines[3],"N/A","N/A",lines[1],lines[5],"N/A","N/A","N/A","N/A","https://github.com/"+lines[4],"N/A","N/A","N/A"))
+                    # permalink,enum,batch,full_name,name_initial,pref_short_name,pref_long_name,honor,fac_email,per_email,location,url_cv,url_website,url_linked,url_github,url_fb,url_research,twitter
+                    fp.write(writeHTML(permalink,lines[0],temp[0]+temp[1],lines[2],"#",short_name,long_name,"#",email_faculty,"#","#","#","#","#","https://github.com/"+lines[4],"#","#","#",image_url))
