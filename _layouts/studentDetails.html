@@ -25,15 +25,15 @@ email_personal: personalMail@gmail.com
 
 location: Negombo
 
-url_cv: N/A
-url_website: N/A
-url_linkedin: N/A
+url_cv: #
+url_website: #
+url_linkedin: #
 url_github: https://github.com/ishanfdo18098
 url_facebook: https://facebook.com/ishanfdo
-url_researchgate: N/A
-url_twitter: N/A
+url_researchgate: #
+url_twitter: #
 
-projects_done: N/A
+projects_done: []
 image_url: "images/students/e18/e18098.jpg"
 ---END---
 
@@ -49,7 +49,7 @@ NOTES:
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item active text-white" aria-current="page">Home / Students / {{page.batch |
-                    capitalize}} Batch / {{page.name_with_initials}}</li>
+                    capitalize}} Batch / {{page.preferred_short_name}}</li>
             </ol>
         </nav>
     </div>
@@ -63,10 +63,27 @@ NOTES:
             <div class="card">
                 <div class="card-body">
                     <div class="d-flex flex-column align-items-center text-center">
+                        {% if page.image_url %}
                         <img src="{{ page.image_url | relative_url}}" alt="Admin" style="border-radius: 10%"
                             width="175">
+                        {% else %}
+                        <img src="{{ 'images/students/default.jpg' | relative_url}}" alt="Admin" style="border-radius: 10%"
+                            width="175">
+                        {% endif %}
+
                         <div class="mt-2">
-                            <h4>{{page.name_with_initials}}</h4>
+                            {%- comment -%}
+                                In case a student didn't fill all the name parameters,
+                            {%- endcomment -%}
+                            <h4>
+                            {%- if page.preferred_short_name -%}
+                                {{page.preferred_short_name}}
+                            {%- else if page.preferred_long_name -%}
+                                {{page.preferred_long_name}}
+                            {%- else if page.name_with_initials -%}
+                                {{page.name_with_initials}}
+                            {%- endif -%}
+                        </h4>
                             <!-- <p class="text-secondary mb-1">{{page.text_below_name}}</p>
                             <p class="text-muted font-size-sm">{{page.location}}</p> -->
                             <!-- <button class="btn btn-primary">Follow</button>
@@ -80,7 +97,7 @@ NOTES:
                     <!-- CV -->
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fas fa-address-card"></i> CV</h6>
-                        {% if page.url_cv != "N/A" %}
+                        {% if page.url_cv %}
                         <span class="text-secondary"> <a href="{{page.url_cv}}" target="_blank"><button type="button"
                                     class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
@@ -91,7 +108,7 @@ NOTES:
                     <!-- Website -->
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fas fa-globe"></i> Website</h6>
-                        {% if page.url_website != "N/A"%}
+                        {% if page.url_website %}
                         <span class="text-secondary"> <a href="{{page.url_website}}" target="_blank"><button
                                     type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
@@ -103,7 +120,7 @@ NOTES:
 
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-linkedin"></i> LinkedIn</h6>
-                        {% if page.url_linkedin != "N/A" %}
+                        {% if page.url_linkedin %}
                         <span class="text-secondary"> <a href="{{page.url_linkedin}}" target="_blank"><button
                                     type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
@@ -114,7 +131,7 @@ NOTES:
                     <!-- GitHub -->
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-github"></i> Github</h6>
-                        {% if page.url_github != "N/A" %}
+                        {% if page.url_github %}
                         <span class="text-secondary"> <a href="{{page.url_github}}" target="_blank"><button
                                     type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
@@ -125,7 +142,7 @@ NOTES:
                     <!-- Facebook -->
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-facebook"></i> Facebook</h6>
-                        {% if page.url_facebook != "N/A" %}
+                        {% if page.url_facebook %}
                         <span class="text-secondary"> <a href="{{page.url_facebook}}" target="_blank"><button
                                     type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
@@ -136,7 +153,7 @@ NOTES:
                     <!-- ResearchGate -->
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-researchgate"></i> ResearchGate</h6>
-                        {% if page.url_researchgate != "N/A" %}
+                        {% if page.url_researchgate %}
                         <span class="text-secondary"> <a href="{{page.url_researchgate}}" target="_blank"><button
                                     type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
@@ -147,7 +164,7 @@ NOTES:
                     <!-- Twitter -->
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-twitter"></i> Twitter</h6>
-                        {% if page.url_twitter != "N/A" %}
+                        {% if page.url_twitter %}
                         <span class="text-secondary"> <a href="{{page.url_twitter}}" target="_blank"><button
                                     type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
@@ -162,6 +179,7 @@ NOTES:
         <div class="col-md-8">
             <div class="card mb-3">
                 <div class="card-body">
+                    {% if page.full_name %}
                     <div class="row">
                         <div class="col-sm-3">
                             <span class="mb-0" style="font-weight: 500">Full Name</span>
@@ -171,6 +189,9 @@ NOTES:
                         </div>
                     </div>
                     <hr>
+                    {% endif %}
+
+                    {% if page.preferred_long_name %}
                     <div class="row">
                         <div class="col-sm-3">
                             <span class="mb-0" style="font-weight: 500">Preferred Name</span>
@@ -180,6 +201,8 @@ NOTES:
                         </div>
                     </div>
                     <hr>
+                    {% endif %}
+
                     <div class="row">
                         <div class="col-sm-3">
                             <span class="mb-0" style="font-weight: 500">Registration Number</span>
@@ -189,17 +212,20 @@ NOTES:
                         </div>
                     </div>
                     <hr>
+
                     <div class="row">
                         <div class="col-sm-3">
                             <span class="mb-0" style="font-weight: 500">Email</span>
                         </div>
                         <div class="col-sm-9 text-secondary">
-                            {{page.email_faculty}}
+                            {%- if page.email_personal -%}{{page.email_faculty}}{%- endif -%}
                             <br>
-                            {{page.email_personal}}
+                            {%- if page.email_personal -%}{{page.email_personal}}{%- endif -%}
                         </div>
                     </div>
                     <hr>
+
+                    {% if page.location %}
                     <div class="row">
                         <div class="col-sm-3">
                             <span class="mb-0" style="font-weight: 500">Location</span>
@@ -208,6 +234,7 @@ NOTES:
                             {{page.location}}
                         </div>
                     </div>
+                    {% endif %}
                 </div>
             </div>
 

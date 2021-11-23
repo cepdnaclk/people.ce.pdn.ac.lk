@@ -48,8 +48,8 @@ url_facebook: """ + url_fb+ """
 url_researchgate: """ + url_research + """
 url_twitter: """ +twitter+ """
 
-projects_done: N/A
-image_url: N/A
+projects_done: []
+image_url: #
 ---
 """
     return s
