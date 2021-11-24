@@ -57,10 +57,23 @@ students_or_staff: Students
 
         {% for item in folder1 %}
         <div class="card text-center p-2 cardSpacing" style="width: 11rem;">
+
+            {% if item.image_url %}
             <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
                 alt="{{item.student_name}}">
+            {% else %}
+            <img src="{{ 'images/students/default.jpg' | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
+                alt="{{item.student_name}}">
+            {% endif %}
+
             <div class="card-body">
-                <h6 class="card-title">{{item.name_with_initials}}</h6>
+                <h6 class="card-title">
+                    {% if item.name_with_initials %}
+                    {{item.name_with_initials}}
+                    {% else if item.preferred_long_name %}
+                    {{item.preferred_long_name}}
+                    {%- endif -%}
+                </h6>
                 <p class="card-text">{{item.reg_no}}</p>
                 <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
             </div>
