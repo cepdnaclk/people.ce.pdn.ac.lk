@@ -51,18 +51,18 @@ NOTES:
         <!-- <h1 class="text-white">Student Details</h1> -->
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{../../../}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="../../../" class="link-light">Home</a></li>
                 <li class="breadcrumb-item"><a href="../../../" class="link-light">Students</a></li>
                 <li class="breadcrumb-item"><a href="../" class="link-light">{{page.batch | capitalize}} Batch</a></li>
                 <li class="breadcrumb-item text-white">
                     {%- if page.preferred_long_name -%}
-                        {{page.preferred_long_name}}
+                    {{page.preferred_long_name}}
                     {%- else if page.preferred_short_name -%}
-                        {{page.preferred_short_name}}
+                    {{page.preferred_short_name}}
                     {%- else if page.name_with_initials -%}
-                        {{page.name_with_initials}}
+                    {{page.name_with_initials}}
                     {%- else -%}
-                        {{page.reg_no}}
+                    {{page.reg_no}}
                     {%- endif -%}
                 </li>
             </ol>
@@ -82,23 +82,23 @@ NOTES:
                         <img src="{{ page.image_url | relative_url}}" alt="Admin" style="border-radius: 10%"
                             width="175">
                         {% else %}
-                        <img src="{{ 'images/students/default.jpg' | relative_url}}" alt="Admin" style="border-radius: 10%"
-                            width="175">
+                        <img src="{{ 'images/students/default.jpg' | relative_url}}" alt="Admin"
+                            style="border-radius: 10%" width="175">
                         {% endif %}
 
                         <div class="mt-2">
                             {%- comment -%}
-                                In case a student didn't fill all the name parameters,
+                            In case a student didn't fill all the name parameters,
                             {%- endcomment -%}
                             <h4>
-                            {%- if page.preferred_short_name -%}
+                                {%- if page.preferred_short_name -%}
                                 {{page.preferred_short_name}}
-                            {%- else if page.preferred_long_name -%}
+                                {%- else if page.preferred_long_name -%}
                                 {{page.preferred_long_name}}
-                            {%- else if page.name_with_initials -%}
+                                {%- else if page.name_with_initials -%}
                                 {{page.name_with_initials}}
-                            {%- endif -%}
-                        </h4>
+                                {%- endif -%}
+                            </h4>
                             <!-- <p class="text-secondary mb-1">{{page.text_below_name}}</p>
                             <p class="text-muted font-size-sm">{{page.location}}</p> -->
                             <!-- <button class="btn btn-primary">Follow</button>
@@ -167,9 +167,9 @@ NOTES:
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-twitter"></i> Twitter</h6>
                         <span class="text-secondary"> <a href="{{page.url_twitter}}" target="_blank"><button
-                            type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                        </li>
-                        {% endif %}
+                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                    </li>
+                    {% endif %}
 
                     <!-- ResearchGate -->
                     {% if page.url_researchgate %}
