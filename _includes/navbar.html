@@ -34,26 +34,13 @@
                 <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown"
                     aria-expanded="false">Students</a>
                 <ul class="dropdown-menu" aria-labelledby="dropdown01">
+                    {%- for batch in site.data.students -%}
                     <li><a class="dropdown-item d-flex align-items-center gap-2 py-2"
-                            href="{{ '/students/e18/' | relative_url }}"><span
+                            href="{{ batch.url | relative_url }}"><span
                                 class="d-inline-block bg-primary rounded-circle"
-                                style="width: .5em; height: .5em;"></span>E18 Batch</a>
+                                style="width: .5em; height: .5em;"></span>{{ batch.title }}</a>
                     </li>
-                    <li><a class="dropdown-item d-flex align-items-center gap-2 py-2"
-                            href="{{ '/students/e17/' | relative_url }}"><span
-                                class="d-inline-block bg-primary rounded-circle"
-                                style="width: .5em; height: .5em;"></span>E17 Batch</a>
-                    </li>
-                    <li><a class="dropdown-item d-flex align-items-center gap-2 py-2"
-                            href="{{ '/students/e16/' | relative_url }}"><span
-                                class="d-inline-block bg-primary rounded-circle"
-                                style="width: .5em; height: .5em;"></span>E16 Batch</a>
-                    </li>
-                    <li><a class="dropdown-item d-flex align-items-center gap-2 py-2"
-                            href="{{ '/students/e15/' | relative_url }}"><span
-                                class="d-inline-block bg-primary rounded-circle"
-                                style="width: .5em; height: .5em;"></span>E15 Batch</a>
-                    </li>
+                    {%- endfor -%}
                 </ul>
             </li>
             <li class="nav-item"><a href="#" class="nav-link">Alumni</a></li>

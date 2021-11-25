@@ -29,20 +29,15 @@ students_or_staff: Students
 {% endfor %}
 
 {%- endcomment -%}
-<style>
-    .cardSpacing {
-        margin-left: 3px;
-        margin-right: 3px;
-    }
-</style>
 
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         <h1 class="text-white">{{page.title_in_breadcrumb}}</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item active text-white" aria-current="page">Home / {{page.students_or_staff}} /
-                    {{page.title_in_breadcrumb}}</li>
+                <li class="breadcrumb-item"><a href="../../" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="../../" class="link-light">{{page.students_or_staff}}</a></li>
+                <li class="breadcrumb-item text-white">{{page.title_in_breadcrumb}}</li>
             </ol>
         </nav>
     </div>
@@ -54,13 +49,28 @@ students_or_staff: Students
         {% assign folder1 = profilePages | where: "batch", page.batch | sort: "reg_no" %}
 
         {% for item in folder1 %}
-        <div class="card text-center p-2 " style="width: 11rem;">
+        <div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">
+
+            {% if item.image_url %}
             <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
                 alt="{{item.student_name}}">
-            <div class="card-body">
-                <h6 class="card-title">{{item.name_with_initials}}</h6>
+            {% else %}
+            <img src="{{ 'images/students/default.jpg' | relative_url }}" style="border-radius: 7%"
+                class="card-img-top p-1" alt="{{item.student_name}}">
+            {% endif %}
+
+            <div class="card-body d-flex flex-column">
+                <h6 class="card-title">
+                    {% if item.name_with_initials %}
+                    {{item.name_with_initials}}
+                    {% else if item.preferred_long_name %}
+                    {{item.preferred_long_name}}
+                    {%- endif -%}
+                </h6>
                 <p class="card-text">{{item.reg_no}}</p>
-                <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
+                <div class="d-flex flex-row justify-content-center mt-auto">
+                    <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
+                </div>
             </div>
         </div>
         {% endfor %}
