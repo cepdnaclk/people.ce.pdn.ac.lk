@@ -1,0 +1,9 @@
+---
+layout: null
+---
+{%- assign student_list = site.html_pages | where: "layout", "studentDetails" -%}
+{
+    {% for student in student_list -%}
+    {%- include api_student.html student=student -%}{% if forloop.last %}{% else %},{% endif %}
+    {% endfor -%}
+}
