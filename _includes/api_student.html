@@ -1,23 +1,23 @@
 "{{ student.reg_no }}" : {
-    "eNumber": "{{ student.reg_no }}",
-    "batch": "{{ student.batch }}",
-    "honorific": "{{ student.honorific }}",
-    "full_name": "{{ student.full_name }}",
-    "name_with_initials": "{{ student.name_with_initials }}",
-    "preferred_short_name": "{{ student.preferred_short_name }}",
-    "preferred_long_name": "{{ student.preferred_long_name }}",
-    "emails":{
-        "personal": "{{ student.description }}",
-        "faculty": "{{ student.email_faculty }}"
-    },
-    "location": "{{ student.location }}",
-    "profile_image": "{{ student.image_url }}",
-    "urls":{
-        "cv":"{{ student.url_cv }}",
-        "website":"{{ student.url_website }}",
-        "linkedin":"{{ student.url_linkedin }}",
-        "github":"{{ student.url_github }}",
-        "facebook":"{{ student.url_facebook }}",
-        "researchgate":"{{ student.url_researchgate }}",
-        "twitter":"{{ student.url_twitter }}"
-    }}
+"eNumber": "{{ student.reg_no }}",
+"batch": "{{ student.batch }}",
+"honorific": "{{ student.honorific }}",
+"full_name": "{{ student.full_name }}",
+"name_with_initials": "{{ student.name_with_initials }}",
+"preferred_short_name": "{{ student.preferred_short_name }}",
+"preferred_long_name": "{{ student.preferred_long_name }}",
+"emails":{
+"personal": "{{ student.description }}",
+"faculty": "{{ student.email_faculty }}"
+},
+"location": "{{ student.location }}",
+"profile_image": "{{ student.image_url || absolute_url}}",
+"urls":{
+"cv":"{{ student.url_cv }}",
+"website":"{{ student.url_website }}",
+"linkedin":"{{ student.url_linkedin }}",
+"github":"{{ student.url_github }}",
+"facebook":"{{ student.url_facebook }}",
+"researchgate":"{{ student.url_researchgate }}",
+"twitter":"{{ student.url_twitter }}"
+}}
