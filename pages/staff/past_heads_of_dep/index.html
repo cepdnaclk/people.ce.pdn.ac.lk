@@ -1,0 +1,41 @@
+---
+layout: default
+permalink: /staff/past_heads_of_dep/
+
+---
+{%- comment -%}
+TODO: fill past heads of the dep in _data
+{%- endcomment -%}
+
+<main class="container">
+    <div class="bg-secondary p-3 pb-1 rounded">
+        <h1 class="text-white">Past Heads of the Department</h1>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="../../" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="../../" class="link-light">Staff</a></li>
+                <li class="breadcrumb-item text-white">Past Heads of the Department</li>
+            </ol>
+        </nav>
+    </div>
+</main>
+
+<div class="container py-4 px-lg-5">
+    <div class="row justify-content-center">
+        {%- for each in site.data.past_heads_of_dep -%}
+
+        <div class="container card text-center p-2 border-primary m-1" style="width: 13rem;">
+            <img src="{{ each.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
+                alt="{{each.staff_name}}">
+            <div class="card-body">
+                <h6 class="card-title">{{each.staff_name}}</h6>
+                <p class="card-text text-muted">{{each.text_below_name}}</p>
+                {% if each.permalink %}
+                <a class="btn btn-outline-primary w-100" href="{{ each.permalink | relative_url }}">View</a>
+                {% endif %}
+            </div>
+        </div>
+
+        {%- endfor -%}
+    </div>
+</div>

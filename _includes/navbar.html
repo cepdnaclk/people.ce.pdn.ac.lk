@@ -16,7 +16,8 @@
                                 class="d-inline-block bg-primary rounded-circle"
                                 style="width: .5em; height: .5em;"></span>Academic Staff</a>
                     </li>
-                    <li><a class="dropdown-item d-flex align-items-center gap-2 py-2" href="#"><span
+                    <li><a class="dropdown-item d-flex align-items-center gap-2 py-2"
+                            href="{{'staff/past_heads_of_dep' || relative_url}}"><span
                                 class="d-inline-block bg-primary rounded-circle"
                                 style="width: .5em; height: .5em;"></span>Past Heads of the Department</a>
                     </li>
@@ -36,8 +37,7 @@
                 <ul class="dropdown-menu" aria-labelledby="dropdown01">
                     {%- for batch in site.data.students -%}
                     <li><a class="dropdown-item d-flex align-items-center gap-2 py-2"
-                            href="{{ batch.url | relative_url }}"><span
-                                class="d-inline-block bg-primary rounded-circle"
+                            href="{{ batch.url | relative_url }}"><span class="d-inline-block bg-primary rounded-circle"
                                 style="width: .5em; height: .5em;"></span>{{ batch.title }}</a>
                     </li>
                     {%- endfor -%}
