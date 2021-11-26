@@ -29,7 +29,7 @@ TODO: fill past heads of the dep in _data
                 alt="{{each.staff_name}}">
             <div class="card-body">
                 <h6 class="card-title">{{each.staff_name}}</h6>
-                <p class="card-text text-muted">{{each.text_below_name}}</p>
+                <p class="card-text text-muted">From {{each.text_below_name}}</p>
                 {% if each.permalink %}
                 <a class="btn btn-outline-primary w-100" href="{{ each.permalink | relative_url }}">View</a>
                 {% endif %}
