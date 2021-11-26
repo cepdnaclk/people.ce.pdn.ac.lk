@@ -13,7 +13,6 @@ permalink: /students/e15/
 
 batch: E15
 title_in_breadcrumb: E15 Batch
-students_or_staff: Students
 
 {% assign folder1 = site.pages | where: "batch", page.batch | where: "studentDetails", page.layout | sort: "reg_no" %}
 {% for item in folder1 %}
@@ -36,7 +35,7 @@ students_or_staff: Students
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="../../" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="../../" class="link-light">{{page.students_or_staff}}</a></li>
+                <li class="breadcrumb-item"><a href="../../" class="link-light">Students</a></li>
                 <li class="breadcrumb-item text-white">{{page.title_in_breadcrumb}}</li>
             </ol>
         </nav>
@@ -45,10 +44,10 @@ students_or_staff: Students
 
 <div class="container py-4 px-lg-5">
     <div class="row justify-content-center">
-        {% assign profilePages = site.pages | where: "layout", "studentDetails" %}
-        {% assign folder1 = profilePages | where: "batch", page.batch | sort: "reg_no" %}
+        {% assign profilePages = site.pages | where: "layout", "studentDetails" | where: "batch", page.batch | sort:
+        "reg_no"%}
 
-        {% for item in folder1 %}
+        {% for item in profilePages %}
         <div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">
 
             {% if item.image_url %}
