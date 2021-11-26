@@ -1,0 +1,15 @@
+[
+    {
+        "staff_name" : "Priyangani Samaratunge",
+        "text_below_name" : "Computer Operator",
+        "url_image" : "images/staff/academic_support_staff/priyangi_samaratunge.jpg",
+        "contact_number" : "+94 81 2393471",
+        "email" : "priyangani@eng.pdn.ac.lk"
+    },
+    {
+        "staff_name" : "UB Weebadda",
+        "text_below_name" : "Staff Assistant",
+        "url_image" : "images/staff/academic_support_staff/ub_weebadda.jpg",
+        "contact_number" : "+94 81 2393471"
+    }
+]

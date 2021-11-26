@@ -1,0 +1,47 @@
+---
+layout: default
+permalink: /staff/academic_support_staff/
+
+---
+{%- comment -%}
+TODO: fill Temporary Academic Staff details, resize images to be square, do we need profile pages ?
+{%- endcomment -%}
+
+<main class="container">
+    <div class="bg-secondary p-3 pb-1 rounded">
+        <h1 class="text-white">Academic Support Staff</h1>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="../../" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="../../" class="link-light">Staff</a></li>
+                <li class="breadcrumb-item text-white">Academic Support Staff</li>
+            </ol>
+        </nav>
+    </div>
+</main>
+
+<div class="container py-4 px-lg-5">
+    <div class="row justify-content-center">
+        {%- for each in site.data.academic_support_staff -%}
+
+        <div class="container card text-center p-2 border-primary m-1" style="width: 13rem;">
+            <img src="{{ each.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
+                alt="{{each.staff_name}}">
+            <div class="card-body">
+                <h6 class="card-title">{{each.staff_name}}</h6>
+                <p class="card-text text-muted">{{each.text_below_name}}</p>
+
+                {% if each.contact_number %}
+                <a href="tel:{{each.contact_number}}">{{each.contact_number}}</a>
+                {% endif %}
+                <br> <br>
+                {% if each.email %}
+                <a href="mailto:{{each.email}}">{{each.email}}</a>
+                {% endif %}
+
+            </div>
+        </div>
+
+        {%- endfor -%}
+    </div>
+</div>
