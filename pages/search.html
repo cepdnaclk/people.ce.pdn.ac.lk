@@ -1,0 +1,37 @@
+---
+layout: default
+permalink : /search.html
+---
+<main class="container">
+    <div class="bg-secondary p-3 pb-1 rounded">
+        <h1 class="text-white">Search</h1>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item active text-white" aria-current="page"> <a href="{{'/' |
+                                        relative_url}}" class="link-light"> Home</a>
+                </li>
+                <li class="breadcrumb-item active text-white" aria-current="page"> Search</li>
+            </ol>
+        </nav>
+    </div>
+</main>
+
+<div class="container p-3">
+    <!-- Html Elements for Search -->
+    <div id="search-container">
+        <input type="text" id="search-input" placeholder="search...">
+        <ul id="results-container"></ul>
+    </div>
+
+    <!-- Script pointing to search-script.js -->
+    <script src="assets/js/search-script.js" type="text/javascript"></script>
+
+    <!-- Configuration -->
+    <script>
+        SimpleJekyllSearch({
+            searchInput: document.getElementById('search-input'),
+            resultsContainer: document.getElementById('results-container'),
+            json: '{{ '/search.json' | relative_url}}'
+        })
+    </script>
+</div>

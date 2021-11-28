@@ -1,0 +1,46 @@
+---
+permalink : /search.json
+---
+[
+
+  {% for post in site.pages %}
+    {
+      {% if post.full_name %}
+        "title" : "{{post.full_name}} - {{post.batch}}",
+      {% endif %}
+      {% if post.name_below_image %}
+        "title" : "{{post.name_below_image}}",
+      {% endif %}
+      {% if post.title_in_breadcrumb %}
+        "title" : "{{post.title_in_breadcrumb}}",
+      {% endif %}
+
+        "url" : "{{ site.baseurl }}{{ post.url }}"
+    } ,
+  {% endfor %}
+
+  {% for post in site.data.temporary_academic_staff %}
+    {
+        "title" : "{{ post.staff_name }} - Temporary Academic Staff",
+        "url"      : "{{ '/staff/temporary_academic_staff/' | relative_url }}"
+    } 
+    ,
+  {% endfor %}
+
+  {% for post in site.data.academic_support_staff %}
+    {
+        "title" : "{{ post.staff_name }} - Academic Support Staff",
+        "url"      : "{{ '/staff/academic_support_staff/' | relative_url }}"
+    } 
+    ,
+  {% endfor %}
+
+  {% for post in site.data.past_heads_of_dep %}
+    {
+        "title" : "{{ post.staff_name }} - Past Heads of the Department",
+        "url"      : "{{ '/staff/past_heads_of_dep/' | relative_url }}"
+    } 
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+
+]
