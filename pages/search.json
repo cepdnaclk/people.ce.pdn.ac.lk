@@ -1,0 +1,17 @@
+---
+permalink : /search.json
+---
+[
+  {% for post in site.pages %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "name1" : "{{post.name_below_image}}",
+      "name2" : "{{post.full_name}}",
+      "name3" : "{{post.name_with_initials}}",
+      "name4" : "{{post.preferred_short_name}}",
+      "name5" : "{{post.preferred_long_name}}"
+
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
