@@ -4,22 +4,21 @@ permalink : /search/search.json
 [
 
   {% for post in site.pages %}
-    
       {% if post.full_name %}
         {
         "title" : "{{post.full_name}} - {{post.batch}}",
         "url" : "{{ site.baseurl }}{{ post.url }}"
         },
       {% elsif post.name_below_image %}
-      {
-        "title" : "{{post.name_below_image}}",
-        "url" : "{{ site.baseurl }}{{ post.url }}"
-      },
+        {
+          "title" : "{{post.name_below_image}}",
+          "url" : "{{ site.baseurl }}{{ post.url }}"
+        },
       {% elsif post.title_in_breadcrumb %}
-      {
-        "title" : "{{post.title_in_breadcrumb}}",
-        "url" : "{{ site.baseurl }}{{ post.url }}"
-      },
+        {
+          "title" : "{{post.title_in_breadcrumb}}",
+          "url" : "{{ site.baseurl }}{{ post.url }}"
+        },
       {% else %}
         {% continue %}
       {% endif %}
@@ -30,16 +29,14 @@ permalink : /search/search.json
     {
         "title" : "{{ post.staff_name }} - Temporary Academic Staff",
         "url"      : "{{ '/staff/temporary_academic_staff/' | relative_url }}"
-    } 
-    ,
+    },
   {% endfor %}
 
   {% for post in site.data.academic_support_staff %}
     {
         "title" : "{{ post.staff_name }} - Academic Support Staff",
         "url"      : "{{ '/staff/academic_support_staff/' | relative_url }}"
-    } 
-    ,
+    },
   {% endfor %}
 
   {% for post in site.data.past_heads_of_dep %}
