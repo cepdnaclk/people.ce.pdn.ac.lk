@@ -16,22 +16,42 @@ permalink : /search/
     </div>
 </main>
 
-<div class="container p-3">
-    <!-- Html Elements for Search -->
-    <div id="search-container">
-        <input type="text" id="search-input" placeholder="search...">
+<div class="container" style="height: 400px;">
+    <br />
+    <div class="row justify-content-center">
+        <div class="col-12 col-md-10 col-lg-8 ">
+            <form class="card card-sm ">
+                <div class="card-body row no-gutters align-items-center">
+                    <div class="col-auto">
+                        <i class="fas fa-search h4 text-body"></i>
+                    </div>
+                    <!--end of col-->
+                    <div class="col">
+                        <input class="form-control" type="search" placeholder="Search people.ce.pdn.ac.lk"
+                            id="search-input">
+                    </div>
+
+
+                </div>
+            </form>
+        </div>
+        <!--end of col-->
+    </div>
+
+    <div class="container p-5 ">
         <ul id="results-container"></ul>
     </div>
 
+
     <!-- Script pointing to search-script.js -->
     <script src="{{ 'assets/js/search-script.js' | relative_url}}" type="text/javascript"></script>
-
     <!-- Configuration -->
     <script>
         SimpleJekyllSearch({
             searchInput: document.getElementById('search-input'),
             resultsContainer: document.getElementById('results-container'),
-            json: '{{ '/search/search.json' | relative_url}}'
+            json: '{{ ' / search / search.json' | remove:" " | relative_url}}'
         })
     </script>
+
 </div>
