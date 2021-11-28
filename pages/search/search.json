@@ -4,19 +4,26 @@ permalink : /search/search.json
 [
 
   {% for post in site.pages %}
-    {
+    
       {% if post.full_name %}
+        {
         "title" : "{{post.full_name}} - {{post.batch}}",
-      {% endif %}
-      {% if post.name_below_image %}
+        "url" : "{{ site.baseurl }}{{ post.url }}"
+        },
+      {% elsif post.name_below_image %}
+      {
         "title" : "{{post.name_below_image}}",
-      {% endif %}
-      {% if post.title_in_breadcrumb %}
+        "url" : "{{ site.baseurl }}{{ post.url }}"
+      },
+      {% elsif post.title_in_breadcrumb %}
+      {
         "title" : "{{post.title_in_breadcrumb}}",
+        "url" : "{{ site.baseurl }}{{ post.url }}"
+      },
+      {% else %}
+        {% continue %}
       {% endif %}
 
-        "url" : "{{ site.baseurl }}{{ post.url }}"
-    } ,
   {% endfor %}
 
   {% for post in site.data.temporary_academic_staff %}
