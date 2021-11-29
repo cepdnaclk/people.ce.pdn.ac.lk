@@ -1,0 +1,42 @@
+[
+    {
+        "staff_name" : "Arjuna Thennakoon",
+        "text_below_name" : "Temporary Instructor",
+        "url_image" : "images/staff/temporary_academic_staff/arjuna.jpg"
+    },
+    {
+        "staff_name" : "Kanchana Jayasinghe",
+        "text_below_name" : "Temporary Instructor",
+        "url_image" : "images/staff/temporary_academic_staff/kanchana.jpg"
+    },
+    {
+        "staff_name" : "Anjalee Wanigarathne",
+        "text_below_name" : "Temporary Instructor",
+        "url_image" : "images/staff/temporary_academic_staff/anjalee.jpg"
+    },
+    {
+        "staff_name" : "Kalani Hansima",
+        "text_below_name" : "Temporary Instructor",
+        "url_image" : "images/staff/temporary_academic_staff/kalani.jpeg"
+    },
+    {
+        "staff_name" : "Thushara Bandara",
+        "text_below_name" : "Temporary Instructor",
+        "url_image" : "images/staff/temporary_academic_staff/thushara.jpeg"
+    },
+    {
+        "staff_name" : "Dilshani Karunarathna",
+        "text_below_name" : "Temporary Instructor",
+        "url_image" : "images/staff/temporary_academic_staff/dilshani.jpg"
+    },
+    {
+        "staff_name" : "Amila Indika",
+        "text_below_name" : "Temporary Instructor / System Administrator",
+        "url_image" : "images/staff/temporary_academic_staff/amila.jpg"
+    },
+    {
+        "staff_name" : "Chathuri Aththanayake",
+        "text_below_name" : "Temporary Instructor",
+        "url_image" : "images/staff/temporary_academic_staff/chathuri.jpg"
+    }
+]

@@ -31,11 +31,13 @@ permalink: /
                     {%- comment -%}
                     TODO: put the links here after creating the pages
                     {%- endcomment -%}
-                    <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="#">Past Heads of the
+                    <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                        href="{{ '/staff/past_heads_of_dep' | relative_url }}">Past Heads of the
                         Department</a>
-                    <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="#">Temporary Academic Staff</a>
-                    <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="#">Academic Support Staff</a>
-
+                    <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                        href="{{ '/staff/temporary_academic_staff/' | relative_url}}">Temporary Academic Staff</a>
+                    <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                        href="{{ '/staff/academic_support_staff/' | relative_url}}">Academic Support Staff</a>
                 </ul>
             </div>
         </div>
@@ -47,7 +49,8 @@ permalink: /
                 class="card-img-top p-5" alt="Students">
             <div class="card-body">
                 {%- for batch in site.data.students -%}
-                <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{ batch.title }}</a>
+                <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
+                    batch.title }}</a>
                 {%- endfor -%}
             </div>
         </div>
@@ -59,7 +62,8 @@ permalink: /
                 class="card-img-top p-5" alt="Students">
             <div class="card-body">
                 {%- for batch in site.data.alumini -%}
-                <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{ batch.title }}</a>
+                <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
+                    batch.title }}</a>
                 {%- endfor -%}
             </div>
         </div>
