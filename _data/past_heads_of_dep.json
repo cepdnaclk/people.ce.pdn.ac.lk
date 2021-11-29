@@ -1,0 +1,59 @@
+[
+    {
+        "staff_name" : "Dr Dhammika Elkaduwe",
+        "text_below_name" : "02/01/2013 to 31/03/2019",
+        "permalink" : "/staff/academic/dhammika-elkaduwe/",
+        "url_image" : "images/staff/academicStaff/dhammika-elkaduwe.png"
+    },
+    {
+        "staff_name" : "Dr P.M.T.B Sandirigama",
+        "text_below_name" : "01/03/2006 to 01/01/2013",
+        "url_image" : "images/staff/academicStaff/manjula-sandirigama.png"
+    },
+    {
+        "staff_name" : "Prof. K.S Walgama",
+        "text_below_name" : "14/01/2003 to 28/02/2006",
+        "url_image" : "images/staff/past_heads_of_dep/Profwalgama.jpeg"
+    },
+    {
+        "staff_name" : "Dr K.B.N Rathnayake",
+        "text_below_name" : "17/10/2001 to 31/12/2002",
+        "url_image" : "images/staff/past_heads_of_dep/Dr.Nimal_.jpg"
+    },
+    {
+        "staff_name" : "Dr I.M Ikram",
+        "text_below_name" : "01/07/2001 to 30/09/2001",
+        "url_image" : "images/students/default.jpg"
+    },
+    {
+        "staff_name" : "Prof S.P.H Hoole",
+        "text_below_name" : "25/01/2000 to 30/06/2001",
+        "url_image" : "images/students/default.jpg"
+    },
+    {
+        "staff_name" : "Prof E.M.N Ekanayake",
+        "text_below_name" : "04/05/1998 to 24/01/1999",
+        "url_image" : "images/staff/past_heads_of_dep/Prof.Ekanayake.jpg"
+    },
+    {
+        "staff_name" : " Prof Noel Fernando",
+        "text_below_name" : "01/02/1995 to 03/05/1998",
+        "url_image" : "images/staff/past_heads_of_dep/profNoel.png"
+    },
+    {
+        "staff_name" : "Prof J.A Gunawardana",
+        "text_below_name" : "01/09/1992 to 31/01/1995",
+        "url_image" : "images/staff/past_heads_of_dep/Prof.Gunawardana.jpeg"
+    },
+    {
+        "staff_name" : "Prof E.M.N Ekanayake",
+        "text_below_name" : "01/05/1990 to 31/08/1992",
+        "url_image" : "images/staff/past_heads_of_dep/Prof.Ekanayake.jpg"
+    },
+    {
+        "staff_name" : "Prof J.A Gunawardana",
+        "text_below_name" : "01/01/1985 to 30/04/1990",
+        "url_image" : "images/staff/past_heads_of_dep/Prof.Gunawardana.jpeg"
+    }
+
+]
