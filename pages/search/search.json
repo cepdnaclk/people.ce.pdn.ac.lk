@@ -8,6 +8,7 @@ permalink : /search/search.json
         {
         "title" : "{{post.full_name}} - {{post.reg_no}}",
         "regNo" : "{{ post.reg_no | remove: "/"}}",
+        "location" : "{{post.location}}",
         "url" : "{{ site.baseurl }}{{ post.url }}"
         },
       {% elsif post.name_below_image %}
