@@ -6,12 +6,13 @@ permalink : /search/search.json
   {% for post in site.pages %}
       {% if post.full_name %}
         {
-        "title" : "{{post.full_name}} - {{post.batch}}",
+        "title" : "{{post.full_name}} - {{post.reg_no}}",
+        "regNo" : "{{ post.reg_no | remove: "/"}}",
         "url" : "{{ site.baseurl }}{{ post.url }}"
         },
       {% elsif post.name_below_image %}
         {
-          "title" : "{{post.name_below_image}}",
+          "title" : "{{post.name_below_image}} ",
           "url" : "{{ site.baseurl }}{{ post.url }}"
         },
       {% elsif post.title_in_breadcrumb %}
