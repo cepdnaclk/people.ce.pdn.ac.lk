@@ -54,7 +54,7 @@ permalink: /staff/academic/
             Professors Tab
             {%- endcomment -%}
             <div class="row justify-content-center">
-                {% include staff_academic_cards.html filter_var="group" if_equal_to_this="Professors" %}
+                {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Professor" %}
             </div>
         </div>
 
@@ -63,16 +63,16 @@ permalink: /staff/academic/
             Senior Lecturers Tab
             {%- endcomment -%}
             <div class="row justify-content-center">
-                {% include staff_academic_cards.html filter_var="group" if_equal_to_this="Senior_Lecturers" %}
+                {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Senior Lecturer" %}
             </div>
         </div>
 
-        <div class="tab-pane fade" id="pills-lecturers" role="tabpanel" aria-labelledby="pills-lecturers-tab">
+        <div class="tab-pane fade" id="pills-lecturers" style="min-height: 50vh;" role="tabpanel" aria-labelledby="pills-lecturers-tab">
             {%- comment -%}
             Lecturers tab
             {%- endcomment -%}
             <div class="row justify-content-center">
-                {% include staff_academic_cards.html filter_var="group" if_equal_to_this="Lecturers" %}
+                {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Lecturer" %}
             </div>
         </div>
     </div>
