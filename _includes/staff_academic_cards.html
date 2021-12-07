@@ -3,11 +3,9 @@ Only used in pages/staff/academic_staff/index.html to generate the cards in resp
 {%- endcomment -%}
 
 
-{% assign profilePages = site.pages | where: "layout", "staffDetails" %}
+{% assign profilePages = site.pages | where: "layout", "staffDetails" | where: "on_duty", true%}
 {% assign folder1 = profilePages | where: {{include.filter_var}}, {{include.if_equal_to_this}} %}
-
 {% for item in folder1 %}
-{% if item.on_duty %}
 {%- comment -%}
 Only lecturers on duty rendered in the site. However kept date on others for API records
 {%- endcomment -%}
@@ -22,5 +20,4 @@ Only lecturers on duty rendered in the site. However kept date on others for API
         </div>
     </div>
 </div>
-{% endif %}
 {% endfor %}
