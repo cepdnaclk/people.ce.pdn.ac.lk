@@ -39,24 +39,24 @@
         "staff_name" : "Dilshani Karunarathna",
         "text_below_name" : "Temporary Instructor",
         "url_image" : "images/staff/temporary_academic_staff/dilshani.jpg",
-        "url_profile" : ""
+        "url_profile" : "students/e15/173"
     },
     {
         "staff_name" : "Nuwan Jaliyagoda",
         "text_below_name" : "Temporary Instructor",
         "url_image" : "images/staff/temporary_academic_staff/nuwan.jpg",
-        "url_profile" : "/students/e15/e15140.html"
+        "url_profile" : "/students/e15/140"
     },
     {
         "staff_name" : "Imesh Ekanayake",
         "text_below_name" : "Temporary Instructor",
         "url_image" : "images/staff/temporary_academic_staff/imesh.png",
-        "url_profile" : "/students/e15/e15092.html"
+        "url_profile" : "/students/e15/092"
     },
     {
         "staff_name" : "Keshara Weerasinghe",
         "text_below_name" : "Temporary Instructor",
         "url_image" : "images/staff/temporary_academic_staff/keshara.jpg",
-        "url_profile" : "/students/e15/e15383.html"
+        "url_profile" : "/students/e15/383"
     }
 ]
