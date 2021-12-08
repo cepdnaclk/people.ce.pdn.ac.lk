@@ -14,22 +14,19 @@ email: kamalanath@eng.pdn.ac.lk
 location: Computer Engineering, G-06
 
 text_below_name: HoD - Senior Lecturer Gr I
-url_image: images/staff/academicStaff/samarakoon.png
-url_website: http://kamalanath.samarakoon.info/
-url_google_scholar: https://scholar.google.com/citations?user=DsG-K0sAAAAJ&hl=en
-url_linkedin: https://www.linkedin.com/in/kamalanath-samarakoon-7188549/
+
+url_image: #
+url_website: #
+url_google_scholar: #
+url_researchgate: #
+url_linkedin: #
 
 group: professors
 is_hod: true
+
+research_interests: [  ]
 ---
 
-
-sample content,
-<p>
-    DATA GOES HERE
-
-    <br><br>
-    Testing
 <ul class="nav nav-pills" id="myTab" role="tablist">
     <li class="nav-item" role="presentation">
         <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button"
@@ -47,14 +44,12 @@ sample content,
     <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">.tab2..
     </div>
 </div>
-</p>
-
 {%- endcomment -%}
 
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         {%- comment -%}
-        TODO: instead of writing the name here, what else can we print ? same name is written 3times in a small space
+        TODO: instead of writing the name here, what else can we print ? same name is written times in a small space
         {%- endcomment -%}
         <h1 class="text-white">{{page.name_below_image}}</h1>
         <nav aria-label="breadcrumb">
@@ -62,7 +57,7 @@ sample content,
                 <li class="breadcrumb-item"><a href="../../" class="link-light">Home</a></li>
                 <li class="breadcrumb-item"><a href="../" class="link-light">Staff</a></li>
                 <li class="breadcrumb-item"><a href="../" class="link-light">Academic Staff</a></li>
-                <li class="breadcrumb-item"><a href="../" class="link-light">{{page.group | replace: "_"," "}}</a></li>
+                <li class="breadcrumb-item"><a href="../" class="link-light">{{page.designation | replace: "_"," "}}</a></li>
                 <li class="breadcrumb-item text-white">{{page.name_below_image}}</li>
             </ol>
         </nav>
@@ -107,20 +102,29 @@ sample content,
 
                     <!-- Location -->
                     {%- comment -%}
-                    TODO: need a better name than location 😥
-                    {%- endcomment -%}
+                    TODO: Locations changed recently, so will hide until new locations were updated here
                     {% if page.location %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fas fa-map-marker"></i> Location</h6>
                         <a>{{page.location}}</a>
                     </li>
                     {% endif %}
+                    {%- endcomment -%}
 
                     <!-- Google Scholar -->
                     {% if page.url_google_scholar %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-google"></i> Google Scholar</h6>
                         <span class="text-secondary"> <a href="{{page.url_google_scholar}}" target="_blank"><button
+                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                    </li>
+                    {% endif %}
+
+                    <!-- Researchgate -->
+                    {% if page.url_researchgate %}
+                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
+                        <h6 class="mb-0"> <i class="fab fa-researchgate"></i> Researchgate</h6>
+                        <span class="text-secondary"> <a href="{{page.url_researchgate}}" target="_blank"><button
                                     type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                     </li>
                     {% endif %}
@@ -151,6 +155,11 @@ sample content,
         <div class="col-md-8">
             <div class="card mb-3">
                 <div class="card-body">
+                    <style>
+                        p {
+                            text-align: justify;
+                        }
+                    </style>
                     {{content}}
                 </div>
             </div>

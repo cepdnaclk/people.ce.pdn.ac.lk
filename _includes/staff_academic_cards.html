@@ -1,12 +1,14 @@
 {%- comment -%}
-Only used in pages/staff/academicStaff/index.html to generate the cards in respective tabs
+Only used in pages/staff/academic_staff/index.html to generate the cards in respective tabs
 {%- endcomment -%}
 
 
-{% assign profilePages = site.pages | where: "layout", "staffDetails" %}
+{% assign profilePages = site.pages | where: "layout", "staffDetails" | where: "on_duty", true%}
 {% assign folder1 = profilePages | where: {{include.filter_var}}, {{include.if_equal_to_this}} %}
-
 {% for item in folder1 %}
+{%- comment -%}
+Only lecturers on duty rendered in the site. However kept date on others for API records
+{%- endcomment -%}
 <div class="container card text-center p-2 border-primary m-1" style="width: 13rem;">
     <img src="{{ item.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
         alt="{{item.student_name}}">
