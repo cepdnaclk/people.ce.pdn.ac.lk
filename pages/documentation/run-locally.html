@@ -1,0 +1,62 @@
+---
+layout: documentation
+permalink: /documentation/run-locally/
+
+question: How to run this website locally ?
+index: 100
+---
+
+<div class="container p-3">
+    <ol>
+        <li>Install Jekyll using this <a href="https://jekyllrb.com/docs/installation/" target="_blank">link</a>.
+            Detailed instructions are given under "Guides"</li>
+        <ul>
+            <li>
+                Note: If you are installing Jekyll to WSL Ubuntu, choose "<a
+                    href="https://jekyllrb.com/docs/installation/ubuntu/" target="_blank">Ubuntu</a>"from the above
+                link.
+            </li>
+            <li>TLDR; run these command in order on Ubuntu or WSL Ubuntu</li>
+            <ul>
+                <li><code>
+                    sudo apt-get install ruby-full build-essential zlib1g-dev  ; 
+            </code></li>
+                <li><code>echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc ; <br>
+            echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc ; <br>
+            echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc ; <br>
+            source ~/.bashrc ;</code></li>
+                <li><code>gem install jekyll bundler;</code></li>
+            </ul>
+        </ul>
+        <br>
+        <li>Clone the GitHub repo of this site,</li>
+        <ul>
+            <li><code>git clone https://github.com/cepdnaclk/people.ce.pdn.ac.lk.git</code></li>
+            <li><code>cd people.ce.pdn.ac.lk</code></li>
+        </ul><br>
+        <li>Install plugins for Jekyll</li>
+        <ul>
+            <li><code>
+                bundle install
+        </code></li>
+        </ul><br>
+        <li>Start the webserver</li>
+        <ul>
+            <li>
+                <code>bundle exec jekyll serve</code>
+            </li>
+            <li>Note: On WSL you may need to add these options</li>
+            <ul>
+                <li>
+                    <code>bundle exec jekyll serve --livereload --force_polling</code>
+                </li>
+            </ul>
+        </ul><br>
+        <li>Go to the link given in the command line. It should look like this,</li>
+        <ul>
+            <li><a href="http://127.0.0.1:4000/people.ce.pdn.ac.lk/"
+                    target="blank">http://127.0.0.1:4000/people.ce.pdn.ac.lk/</a></li>
+        </ul><br>
+        <li>Edit your local files and you may can the output using the about link</li>
+    </ol>
+</div>
