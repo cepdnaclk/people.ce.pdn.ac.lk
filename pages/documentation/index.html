@@ -3,6 +3,19 @@ layout: default
 permalink: /documentation/
 
 ---
+{%- comment -%}
+TODO: add documentation pages to search.json
+{%- endcomment -%}
+<style>
+    a {
+        color: #2c84fa;
+        text-decoration: none
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+</style>
 
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
@@ -13,5 +26,22 @@ permalink: /documentation/
                 <li class="breadcrumb-item active text-white">Documentation</li>
             </ol>
         </nav>
+    </div>
+</main>
+
+<main class="pb-5 px-1 pt-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 col-sm-12 col-lg-8">
+                <div class="container p-3">
+                    {% assign docPages = site.pages | where: "layout", "documentation" | sort: "index"%}
+                    {% for item in docPages %}
+                    <ul style="font-size: 1.1rem;">
+                        <li><a href="{{item.permalink | relative_url}}">{{item.question}}</a></li>
+                    </ul>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
     </div>
 </main>

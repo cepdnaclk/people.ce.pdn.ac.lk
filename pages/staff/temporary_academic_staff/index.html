@@ -28,6 +28,11 @@ permalink: /staff/temporary_academic_staff/
                 <h6 class="card-title">{{each.staff_name}}</h6>
                 <p class="card-text text-muted">{{each.text_below_name}}</p>
             </div>
+            {% if each.url_profile != "" %}
+            <div class="d-flex flex-row justify-content-center mt-auto pb-1">
+                <a class="btn btn-outline-primary w-75" href=" {{ each.url_profile | relative_url}}">View</a>
+            </div>
+            {% endif %}
         </div>
 
         {%- endfor -%}
