@@ -5,25 +5,25 @@
         <p class="text-xl-left text-muted" style="font-size:80%;">
             {% if page.layout == "studentDetails" or page.layout == "staffDetails" or page.permalink contains "documentation" %}
             <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/{{page.path}}" rel="noreferrer" target="_blank">
-                <i class="fab fa-github"></i> Edit this page on GitHub</a>
+                <i class="fab fa-github"></i> Edit this page on GitHub</a> |
             {% endif %}
 
             {% if page.type == "Academic Support" %}
                 <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/_data/academic_support_staff.json" rel="noreferrer" target="_blank">
-                    <i class="fab fa-github"></i> Edit this page on GitHub</a>
+                    <i class="fab fa-github"></i> Edit this page on GitHub</a> |
             {% endif %}
 
             {% if page.type == "Temporary Academic" %}
             <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/_data/temporary_academic_staff.json" rel="noreferrer" target="_blank">
-                <i class="fab fa-github"></i> Edit this page on GitHub</a>
+                <i class="fab fa-github"></i> Edit this page on GitHub</a> |
             {% endif %}
 
             {% if page.type == "Past Heads of Dept" %}
             <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/_data/past_heads_of_dep.json" rel="noreferrer" target="_blank">
-                <i class="fab fa-github"></i> Edit this page on GitHub</a>
+                <i class="fab fa-github"></i> Edit this page on GitHub</a> |
             {% endif %}
-            
-            | Last Update : {{site.time | date: "%m/%d/%Y" }}
+
+            Last Update : {{site.time | date: "%m/%d/%Y" }}
         </p>
     </footer>
 </div>
