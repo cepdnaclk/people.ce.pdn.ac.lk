@@ -54,10 +54,17 @@ research_interests: [  ]
         <h1 class="text-white">{{page.name_below_image}}</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="../../" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="../" class="link-light">Staff</a></li>
-                <li class="breadcrumb-item"><a href="../" class="link-light">Academic Staff</a></li>
-                <li class="breadcrumb-item"><a href="../" class="link-light">{{page.designation | replace: "_"," "}}</a></li>
+                <li class="breadcrumb-item"><a href="{% link pages/home.html %}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><span class="link-light">Academic Staff</span></li>
+
+                {% if page.designation=="Professor" %}
+                <li class="breadcrumb-item"><a href="{% link pages/staff/professors.html %}" class="link-light">Professors</a></li>
+                {% else if page.designation == "Senior Lecturer" %}
+                <li class="breadcrumb-item"><a href="{% link pages/staff/senior_lecturers.html %}" class="link-light">Senior Lecturers</a></li>
+                {% else if page.designation == "Lecturer" %}
+                <li class="breadcrumb-item"><a href="{% link pages/staff/lecturers.html %}" class="link-light">Lecturers</a></li>
+                {% endif %}
+
                 <li class="breadcrumb-item text-white">{{page.name_below_image}}</li>
             </ol>
         </nav>

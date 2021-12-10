@@ -1,16 +1,20 @@
 ---
 layout: default
 permalink: /staff/past_heads_of_dep/
-
 ---
+
+{%- comment -%}
+
+Update the JSON, _data/past_heads_of_dep.json, and it will add the profiles into here.
+
+{%- endcomment -%}
 
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         <h1 class="text-white">Past Heads of the Department</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="../../" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="../../" class="link-light">Staff</a></li>
+                <li class="breadcrumb-item"><a href="{% link pages/home.html %}" class="link-light">Home</a></li>
                 <li class="breadcrumb-item text-white">Past Heads of the Department</li>
             </ol>
         </nav>

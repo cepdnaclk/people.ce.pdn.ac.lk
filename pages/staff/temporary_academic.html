@@ -1,16 +1,20 @@
 ---
 layout: default
 permalink: /staff/temporary_academic_staff/
-
 ---
+
+{%- comment -%}
+
+Update the JSON, _data/temporary_academic_staff.json, and it will add the profiles into here.
+
+{%- endcomment -%}
 
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         <h1 class="text-white">Temporary Academic Staff</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="../../" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="../../" class="link-light">Staff</a></li>
+                <li class="breadcrumb-item"><a href="{% link pages/home.html %}" class="link-light">Home</a></li>
                 <li class="breadcrumb-item text-white">Temporary Academic Staff</li>
             </ol>
         </nav>
