@@ -9,7 +9,7 @@ permalink: /staff/academic/professors/
         <h1 class="text-white">Academic Staff</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{% link pages/home.html %}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">Home</a></li>
                 <li class="breadcrumb-item text-white">Academic Staff</li>
                 <li class="breadcrumb-item text-white">Professors</li>
             </ol>
@@ -20,16 +20,16 @@ permalink: /staff/academic/professors/
 <div class="container p-3">
     <ul class="nav nav-pills mb-3  nav-fill" id="pills-tab" role="tablist">
         <li class="nav-item" role="presentation">
-            <a class="nav-link" id="pills-hod-tab" href="{% link pages/staff/head_of_department.html %}">Head of Department</a>
+            <a class="nav-link" id="pills-hod-tab" href="{{ '/staff/academic/' | relative_url }}">Head of Department</a>
         </li>
         <li class="nav-item" role="presentation">
-            <a class="nav-link active" id="pills-professors-tab" href="{% link pages/staff/professors.html %}">Professors</a>
+            <a class="nav-link active" id="pills-professors-tab" href="{{ '/staff/academic/professors/' | relative_url }}">Professors</a>
         </li>
         <li class="nav-item active" role="presentation">
-            <a class="nav-link" id="pills-s-lecturers-tab"  href="{% link pages/staff/senior_lecturers.html %}">Senior Lecturers</a>
+            <a class="nav-link" id="pills-s-lecturers-tab"  href="{{ '/staff/academic/senior_lecturers/' | relative_url }}">Senior Lecturers</a>
         </li>
         <li class="nav-item" role="presentation">
-            <a class="nav-link" id="pills-lecturers-tab" href="{% link pages/staff/lecturers.html %}">Lecturers</a>
+            <a class="nav-link" id="pills-lecturers-tab" href="{{ '/staff/academic/lecturers/' | relative_url }}">Lecturers</a>
         </li>
     </ul>
     <div class="tab-content" id="pills-tabContent">
