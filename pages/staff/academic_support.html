@@ -1,16 +1,21 @@
 ---
 layout: default
 permalink: /staff/academic_support_staff/
-
+type: "Academic Support"
 ---
+
+{%- comment -%}
+
+Update the JSON, _data/academic_support_staff.json, and it will add the profiles into here.
+
+{%- endcomment -%}
 
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         <h1 class="text-white">Academic Support Staff</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="../../" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="../../" class="link-light">Staff</a></li>
+                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">Home</a></li>
                 <li class="breadcrumb-item text-white">Academic Support Staff</li>
             </ol>
         </nav>
@@ -23,7 +28,7 @@ permalink: /staff/academic_support_staff/
 
         <div class="container card text-center p-2 border-primary m-1" style="width: 14rem;">
             <img src="{{ each.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-3"
-                alt="{{each.staff_name}}">
+            alt="{{each.staff_name}}">
             <div class="card-body">
                 <h6 class="card-title">{{each.staff_name}}</h6>
                 <p class="card-text text-muted">{{each.text_below_name}}</p>
