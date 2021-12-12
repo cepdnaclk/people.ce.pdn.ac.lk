@@ -127,6 +127,15 @@ research_interests: [  ]
                     </li>
                     {% endif %}
 
+                    <!-- Orcid -->
+                    {% if page.url_orcid %}
+                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
+                        <h6 class="mb-0"> <i class="fab fa-orcid"></i> Orcid</h6>
+                        <span class="text-secondary"> <a href="{{page.url_orcid}}" target="_blank"><button
+                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                    </li>
+                    {% endif %}
+
                     <!-- Researchgate -->
                     {% if page.url_researchgate %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
