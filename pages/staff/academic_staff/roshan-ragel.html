@@ -62,10 +62,15 @@ TODO: not the final. update this
 
 <a><b><u>Research Interests:</u></b></a>
 <ul>
+    {% for item in page.research_interests %}
+    <li>{{item}}</li>
+    {% endfor %}
+    {%- comment -%}
     <li>Micro-architectural Aspects of Embedded Systems Design &amp; Security</li>
     <li>Side-Channel Attacks and Countermeasures</li>
     <li>Application-Specific Processor Design</li>
     <li>Hardware/Software Acceleration of Bioinformatics Algorithms</li>
+    {%- endcomment -%}
 </ul>
 
 <a><b><u>Educational Qualifications:</u></b></a>

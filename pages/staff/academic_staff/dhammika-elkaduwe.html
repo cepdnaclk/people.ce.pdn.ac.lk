@@ -37,9 +37,14 @@ research_interests: [ 'Operating Systems', 'Embedded Systems', 'Formal Verificat
 <a><b><u>Research Interests:</u></b></a>
 
 <ul>
+    {% for item in page.research_interests %}
+    <li>{{item}}</li>
+    {% endfor %}
+    {%- comment -%}
     <li>Operating systems</li>
     <li>Formal verification</li>
     <li>GPU programming</li>
+    {%- endcomment -%}
 </ul>
 
 <a><b><u>Educational Qualifications:</u></b></a>

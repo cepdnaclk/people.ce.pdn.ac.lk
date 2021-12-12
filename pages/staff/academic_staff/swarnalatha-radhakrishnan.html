@@ -33,10 +33,15 @@ research_interests: [ 'Computer Architecture', 'Embedded Systems', 'Computer Int
 
 <a><b><u> Research interests:</u></b></a>
 <ul>
+    {% for item in page.research_interests %}
+    <li>{{item}}</li>
+    {% endfor %}
+    {%- comment -%}
     <li>Computer Architecture</li>
     <li>Embedded Systems</li>
     <li>Computer Interfacing</li>
     <li>Memory Hierarchy Design</li>
+    {%- endcomment -%}
 </ul>
 
 <a><b><u> Educational Qualifications:</b></u></a>

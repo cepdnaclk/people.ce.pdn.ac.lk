@@ -33,9 +33,14 @@ research_interests: [ 'Data Science', 'Machine Learning', 'Data Mining' ]
 
 <a><b><u> Research interests:</u></b></a>
 <ul>
+    {% for item in page.research_interests %}
+    <li>{{item}}</li>
+    {% endfor %}
+    {%- comment -%}
     <li>Data Science</li>
     <li>Data Mining</li>
     <li>Machine Learning</li>
+    {%- endcomment -%}
 </ul>
 
 <a><b><u>Educational Qualifications:</b></u></a>
@@ -43,21 +48,21 @@ research_interests: [ 'Data Science', 'Machine Learning', 'Data Mining' ]
     <li>B.Sc. Eng. in Computer Engineering (Peradeniya)</li>
     <li>Ph.Lic. in Computer and
         Systems Sciences (Stockholm)</li>
-    </ul>
+</ul>
 
-    <a><b><u> Awards and Honours:</b></u></a>
-    <ol>
-        <li class="freebirdFormviewerViewItemsTextLongText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput">
-            Big Data Workshop Scholarships (ICIIS 2017) to attend Joint Indo &#8211; Sri Lanka Workshop on Big Data
-            Analytics: Recent Trends and Applications workshop, 2017</li>
-            <li class="freebirdFormviewerViewItemsTextLongText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput">
-                Travel Grant to participate TEIN4Workshop on Next Generation Sequencing and Big Data Analysis, 2015</li>
-                <li>NSF International Travel Grant, 2012</li>
-                <li> Sida-Split Ph.D. Award, 2004
-                </li>
-            </ol>
+<a><b><u> Awards and Honours:</b></u></a>
+<ol>
+    <li class="freebirdFormviewerViewItemsTextLongText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput">
+        Big Data Workshop Scholarships (ICIIS 2017) to attend Joint Indo &#8211; Sri Lanka Workshop on Big Data
+        Analytics: Recent Trends and Applications workshop, 2017</li>
+    <li class="freebirdFormviewerViewItemsTextLongText freebirdFormviewerViewItemsTextDisabledText freebirdThemedInput">
+        Travel Grant to participate TEIN4Workshop on Next Generation Sequencing and Big Data Analysis, 2015</li>
+    <li>NSF International Travel Grant, 2012</li>
+    <li> Sida-Split Ph.D. Award, 2004
+    </li>
+</ol>
 
-            <a><b><u>Available for Supervision:</b></u></a>
-            <ul>
-                <li>Yes</li>
-            </ul>
+<a><b><u>Available for Supervision:</b></u></a>
+<ul>
+    <li>Yes</li>
+</ul>
