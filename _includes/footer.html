@@ -37,3 +37,13 @@
         </p>
     </footer>
 </div>
+
+{%- if page.layout=="documentation" -%}
+    {%- comment -%}
+    Add the syntax highlighter for the documentation pages
+    {%- endcomment -%}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+    <script>
+    hljs.initHighlightingOnLoad();
+    </script>
+{%- endif -%}
