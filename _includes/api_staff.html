@@ -1,16 +1,25 @@
-"{{staff.name_below_image}}" : {
-"name": "{{staff.name_below_image}}",
-"designation": "{{staff.designation}}",
-"link" : "{{staff.permalink || absolute_url }}",
-"contact_number" : "{{staff.contact_number}}",
-"email": "{{staff.email}}",
-"location": "{{staff.location}}",
-"text_below_name" : "{{staff.text_below_name}}",
-"url_image" : "{{staff.url_image || absolute_url}}",
-"url_website" : "{{staff.url_website}}",
-"url_google_scholar" : "{{staff.url_google_scholar}}",
-"url_researchgate" : "{{staff.url_researchgate}}",
-"url_linkedin": "{{staff.url_linkedin}}",
-"url_orcid": "{{staff.url_orcid}}",
-"research_interests": "{{staff.research_interests | join: ", "}}"
+"{{staff.email}}" : {
+    "name": "{{staff.name_below_image}}",
+    "designation": "{{staff.designation}}",
+    "link" : "{{staff.permalink || absolute_url }}",
+    "contact_number" : "{{staff.contact_number}}",
+    "email": "{{staff.email}}",
+    "location": "{{staff.location}}",
+    "profile_image" : "{{staff.url_image || absolute_url}}",
+    "urls":{
+        "linkedin": "{{staff.url_linkedin}}",
+        "google_scholar" : "{{staff.url_google_scholar}}",
+        "researchgate" : "{{staff.url_researchgate}}",
+        "website" : "{{staff.url_website}}",
+        "orcid": "{{staff.url_orcid}}"
+    },
+    "research_interests": [
+        {%- for interest in staff.research_interests -%}
+            {%- if forloop.last == true -%}
+            "{{interest}}"
+            {%- else -%}
+            "{{interest}}",
+            {%- endif -%}
+            {%- endfor -%}
+    ]
 }
