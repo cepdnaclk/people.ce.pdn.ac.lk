@@ -17,18 +17,22 @@ index: 200
             link.
         </li>
         <li>TLDR; run these command in order on Ubuntu or WSL Ubuntu</li>
-        <ul>
-            <li><code>sudo apt update;</code></li>
-            <li><code>
-                    sudo apt-get install ruby-full build-essential zlib1g-dev  ; 
-            </code></li>
-            <li><code>echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc ; </code><br>
-            <li><code>echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc ; </code><br>
-            <li><code>echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc ;</code> <br>
-            <li><code>source ~/.bashrc ;</code></li>
-            <li><code>gem install jekyll bundler;</code></li>
-        </ul>
-    </ul>
+
+        <div class="language-bash highlighter-rouge">
+            <div class="highlight">
+                <pre class="highlight">
+                    <code>
+sudo apt update;
+sudo apt-get install ruby-full build-essential zlib1g-dev ;
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc ;
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc ;
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc ;
+source ~/.bashrc ;
+gem install jekyll bundler;
+                    </code>
+                </pre>
+            </div>
+        </div>
     <br>
 
     <li>Create a fork of the repository</li>
