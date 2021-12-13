@@ -41,12 +41,17 @@ Defined Networking' ]
 
 <a><b><u> Research interests:</u></b></a>
 <ul>
+    {% for item in page.research_interests %}
+    <li>{{item}}</li>
+    {% endfor %}
+    {%- comment -%}
     <li>Network Security</li>
     <li>Mobility Management</li>
     <li>Software Defined Networks</li>
     <li>Authentication</li>
     <li>Internet of Things (IoT)</li>
     <li>Virtualization</li>
+    {%- endcomment -%}
 </ul>
 
 <a><b><u> Educational Qualifications:</b></u></a>

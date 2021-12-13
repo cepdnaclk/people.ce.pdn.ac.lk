@@ -27,6 +27,10 @@ research_interests: [ 'Verification of Complex Reactive Systems', 'Distributed S
 <a><b><u>Research Interests:</u></b></a>
 
 <ul>
+    {% for item in page.research_interests %}
+    <li>{{item}}</li>
+    {% endfor %}
+    {%- comment -%}
     <li>Discrete Event Dynamic Systems (DES)</li>
     <li>Distributed Systems: Modelling, Design &amp; Control of Complex Reactive Systems</li>
     <li>Formal Verification &amp; Validation</li>
@@ -35,6 +39,7 @@ research_interests: [ 'Verification of Complex Reactive Systems', 'Distributed S
     <li>Enterprise Modelling/Integration</li>
     <li>Shop Floor Control Systems</li>
     <li>Industrial/Process Automation: PLC and PLD based</li>
+    {%- endcomment -%}
 </ul>
 
 <a><b><u>Educational Qualifications:</u></b></a>

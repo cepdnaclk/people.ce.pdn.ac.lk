@@ -24,10 +24,6 @@ research_interests: [ 'Embedded Systems', 'IoT', 'Accelerated Computing', 'Relia
 
 ---
 
-{%- comment -%}
-TODO: not the final. update this
-{%- endcomment -%}
-
 <i class="fas fa-user"></i>
 <a><b><u>BIO</u></b></a>
 
@@ -62,10 +58,15 @@ TODO: not the final. update this
 
 <a><b><u>Research Interests:</u></b></a>
 <ul>
+    {% for item in page.research_interests %}
+    <li>{{item}}</li>
+    {% endfor %}
+    {%- comment -%}
     <li>Micro-architectural Aspects of Embedded Systems Design &amp; Security</li>
     <li>Side-Channel Attacks and Countermeasures</li>
     <li>Application-Specific Processor Design</li>
     <li>Hardware/Software Acceleration of Bioinformatics Algorithms</li>
+    {%- endcomment -%}
 </ul>
 
 <a><b><u>Educational Qualifications:</u></b></a>
@@ -166,7 +167,7 @@ TODO: not the final. update this
 <div class="tab-content" id="pills-tabContent">
     <div class="tab-pane fade show active" id="first" role="tabpanel" aria-labelledby="pills-home-tab">
         {%- comment -%}
-        TODO: fill research done roshan ragel
+        Research done goes here
         {%- endcomment -%}
     </div>
 </div> -->

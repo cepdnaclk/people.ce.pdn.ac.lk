@@ -48,10 +48,13 @@ research_interests: [ 'Data Engineering', 'Machine Learning', 'Metagenomics', 'C
 
 <a><b><u>Research Interests:</u></b></a>
 <ul>
-    <li>Computational Biology : Explore her work at <a
-            href="http://www.ce.pdn.ac.lk/computational-biology-research-group-compbio-group" target="_blank"
-            rel="noopener noreferrer">CompBio Research Group</a></li>
+    {% for item in page.research_interests %}
+    <li>{{item}}</li>
+    {% endfor %}
+    {%- comment -%}
+    <li>Computational Biology : Explore her work at <a href="http://www.ce.pdn.ac.lk/computational-biology-research-group-compbio-group" target="_blank" rel="noopener noreferrer">CompBio Research Group</a></li>
     <li>Data Engineering</li>
+    {%- endcomment -%}
 </ul>
 
 <a><b><u>Educational Qualifications:</u></b></a>

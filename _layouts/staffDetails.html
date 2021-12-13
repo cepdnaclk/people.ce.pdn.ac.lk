@@ -48,9 +48,6 @@ research_interests: [  ]
 
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
-        {%- comment -%}
-        TODO: instead of writing the name here, what else can we print ? same name is written times in a small space
-        {%- endcomment -%}
         <h1 class="text-white">{{page.name_below_image}}</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
@@ -123,6 +120,15 @@ research_interests: [  ]
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-google"></i> Google Scholar</h6>
                         <span class="text-secondary"> <a href="{{page.url_google_scholar}}" target="_blank"><button
+                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                    </li>
+                    {% endif %}
+
+                    <!-- Orcid -->
+                    {% if page.url_orcid %}
+                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
+                        <h6 class="mb-0"> <i class="fab fa-orcid"></i> Orcid</h6>
+                        <span class="text-secondary"> <a href="{{page.url_orcid}}" target="_blank"><button
                                     type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                     </li>
                     {% endif %}

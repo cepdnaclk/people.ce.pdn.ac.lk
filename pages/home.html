@@ -14,54 +14,98 @@ permalink: /
     </div>
 </main>
 
-<!-- Current path END-->
-
-<div class="container py-4 px-lg-5">
+<div class="container" style="min-height: 500px;">
+    <br />
     <div class="row justify-content-center">
-        <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
-            <div class="card-header">
-                <h5>Staff</h5>
-            </div>
-            <img src="{{ 'images/homepage/staffLogo.png'| relative_url }}" style="border-radius: 7%;"
-                class="card-img-top p-3" alt="Staff">
-            <div class="card-body">
-                <ul class="list-group list-group-flush">
-                    <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                        href="{{ '/staff/academic/' | relative_url }}">Academic Staff</a>
-                    <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                        href="{{ '/staff/past_heads_of_dep/' | relative_url }}">Past Heads of the Department</a>
-                    <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                        href="{{ '/staff/temporary_academic_staff/' | relative_url }}">Temporary Academic Staff</a>
-                    <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                        href="{{ '/staff/academic_support_staff/' | relative_url }}">Academic Support Staff</a>
-                </ul>
-            </div>
+        <div class="col-12 col-md-10 col-lg-9">
+            <form class="card card-sm ">
+                <div class="card-body row no-gutters align-items-center">
+                    <div class="col-auto pt-2" style="margin-left: 0.5rem;">
+                        <i class="fas fa-search h4 text-body"></i>
+                    </div>
+                    <div class="col">
+                        <input class="form-control" type="search" placeholder="Search people.ce.pdn.ac.lk"
+                            id="search-input" autofocus>
+                    </div>
+                </div>
+            </form>
         </div>
-        <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
-            <div class="card-header">
-                <h5>Students</h5>
+    </div>
+
+    <div id="results-container" class="container pt-2 px-5">
+        <div class="row justify-content-center">
+            <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
+                <div class="card-header">
+                    <h5>Staff</h5>
+                </div>
+                <img src="{{ 'images/homepage/staffLogo.png'| relative_url }}" style="border-radius: 7%;"
+                    class="card-img-top p-3" alt="Staff">
+                <div class="card-body">
+                    <ul class="list-group list-group-flush">
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                            href="{{ '/staff/academic/' | relative_url }}">Academic Staff</a>
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                            href="{{ '/staff/past_heads_of_dep/' | relative_url }}">Past Heads of the
+                            Department</a>
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                            href="{{ '/staff/temporary_academic_staff/' | relative_url }}">Temporary Academic
+                            Staff</a>
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                            href="{{ '/staff/academic_support_staff/' | relative_url }}">Academic Support
+                            Staff</a>
+                    </ul>
+                </div>
             </div>
-            <img src="{{ 'images/homepage/studentsLogo.png'| relative_url }}" style="border-radius: 7%;"
-                class="card-img-top p-5" alt="Students">
-            <div class="card-body">
-                {%- for batch in site.data.students -%}
-                <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
-                    batch.title }}</a>
-                {%- endfor -%}
+            <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
+                <div class="card-header">
+                    <h5>Students</h5>
+                </div>
+                <img src="{{ 'images/homepage/studentsLogo.png'| relative_url }}" style="border-radius: 7%;"
+                    class="card-img-top p-5" alt="Students">
+                <div class="card-body">
+                    {%- for batch in site.data.students -%}
+                    <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
+                        batch.title }}</a>
+                    {%- endfor -%}
+                </div>
             </div>
-        </div>
-        <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
-            <div class="card-header">
-                <h5>Alumni</h5>
-            </div>
-            <img src="{{ 'images/homepage/alumniLogo.png'| relative_url }}" style="border-radius: 7%"
-                class="card-img-top p-5" alt="Students">
-            <div class="card-body">
-                {%- for batch in site.data.alumini -%}
-                <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
-                    batch.title }}</a>
-                {%- endfor -%}
+            <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
+                <div class="card-header">
+                    <h5>Alumni</h5>
+                </div>
+                <img src="{{ 'images/homepage/alumniLogo.png'| relative_url }}" style="border-radius: 7%"
+                    class="card-img-top p-5" alt="Students">
+                <div class="card-body">
+                    {%- for batch in site.data.alumini -%}
+                    <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
+                        batch.title }}</a>
+                    {%- endfor -%}
+                </div>
             </div>
         </div>
     </div>
+</div>
+
+
+<!-- Script pointing to search-script.js -->
+<script src="{{ 'assets/js/search-script.js' | relative_url}}" type="text/javascript"></script>
+<!-- Configuration -->
+<script>
+    //prevent submit by pressing enter
+    $(document).ready(function () {
+        $(window).keydown(function (event) {
+            if (event.keyCode == 13) {
+                event.preventDefault();
+                return false;
+            }
+        });
+    });
+
+    SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '{{ ' / search / search.json' | remove:" " | relative_url}}'
+        })
+</script>
+
 </div>

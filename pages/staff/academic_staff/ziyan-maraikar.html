@@ -26,9 +26,14 @@ research_interests: [ 'Cloud Computing', 'Software Engineering', 'Distributed Sy
 
 <a><b><u> Research interests:</u></b></a>
 <ul>
+    {% for item in page.research_interests %}
+    <li>{{item}}</li>
+    {% endfor %}
+    {%- comment -%}
     <li>Distributed Systems</li>
     <li>Cloud Computing</li>
     <li>Data Science</li>
+    {%- endcomment -%}
 </ul>
 
 <a><b><u>Educational Qualifications</b></u></a>
