@@ -23,11 +23,12 @@
 
 
 {%- if page.layout=="documentation" -%}
-    {%- comment -%}
-    Add the syntax highlighter for the documentation pages
-    {%- endcomment -%}
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/atom-one-light.min.css" />
-    <link rel="stylesheet" href="{{ '/assets/css/dracula.css' | relative_url }}" />
+{%- comment -%}
+Add the syntax highlighter for the documentation pages
+{%- endcomment -%}
+<link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/atom-one-light.min.css" />
+<link rel="stylesheet" href="{{ '/assets/css/dracula.css' | relative_url }}" />
 {%- endif -%}
 
 {%- comment -%}
@@ -38,3 +39,15 @@ Prevent the page from shifting a bit when there is no scrollbar
         overflow-y: scroll;
     }
 </style>
+
+{%- comment -%}
+Wrap the code block around the command in documentation pages
+{%- endcomment -%}
+{% if page.layout == "documentation" %}
+<style>
+    pre {
+        display: flex;
+        flex-wrap: wrap;
+    }
+</style>
+{% endif %}
