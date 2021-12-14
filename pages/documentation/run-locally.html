@@ -6,6 +6,12 @@ question: How to run this website locally ?
 index: 200
 ---
 
+<style>
+    pre {
+        display: flex;
+        flex-wrap: wrap;
+    }
+</style>
 
 <ol>
     <li>Install Jekyll using this <a href="https://jekyllrb.com/docs/installation/" target="_blank">link</a>.
@@ -18,28 +24,22 @@ index: 200
         </li>
         <li>TLDR; run these command in order on Ubuntu or WSL Ubuntu</li>
 
-        <div class="language-bash highlighter-rouge">
-            <div class="highlight">
-                <pre class="highlight">
-                    <code>
-sudo apt update;
+        <pre>
+                    <code>sudo apt update ;
 sudo apt-get install ruby-full build-essential zlib1g-dev ;
 echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc ;
 echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc ;
 echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc ;
 source ~/.bashrc ;
-gem install jekyll bundler;
-                    </code>
-                </pre>
-            </div>
-        </div>
-    <br>
+gem install jekyll bundler ;</code></pre>
+    </ul>
 
     <li>Create a fork of the repository</li>
     <ul>
         <li>Login to <a href="https://github.com/login" target="_blank">GitHub</a> </li>
-        <li>Go to <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk"
-                target="_blank">https://github.com/cepdnaclk/people.ce.pdn.ac.lk</a></li>
+        <li>Go to the <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk" target="_blank">GitHub Repo</a> of
+            this
+            site</li>
         <li>Click <a href="{{ 'images/docs/click_fork.png' | relative_url }}" target="_blank">"Fork"</a> </li>
         <li>Copy the link from your <a href="{{ 'images/docs/get_clone_url.png' | relative_url }}"
                 target="_blank">forked
@@ -51,42 +51,48 @@ gem install jekyll bundler;
 
     <li>Clone your forked repository of this site,</li>
     <ul>
-        <li>For WSL Ubuntu, <kbd>SHIFT+RightClick</kbd> inside any folder. <a
+        <li class="p-1">For WSL Ubuntu, <kbd>SHIFT+RightClick</kbd> inside any folder. <a
                 href="{{ 'images/docs/shift_right_click_open_linux.png' | relative_url }} " target="_blank"> Click
                 "Open linux
                 shell
                 here"</a></li>
 
 
-        <li> <code> git clone **your copied URL here**</code></li>
+        <li>
+            <pre><code>git clone **your copied URL here**</code></pre>
+        </li>
         <ul>
-            <li>Example: <code> git clone https://github.com/myGitHubUsername/people.ce.pdn.ac.lk.git</code></li>
+            <li>Example,
+                <pre><code class="language-bash">git clone https://github.com/myGitHubUsername/people.ce.pdn.ac.lk.git</code></pre>
+            </li>
         </ul>
-        <li> <code> cd people.ce.pdn.ac.lk</code></li>
+        <li>
+            <pre><code class="language-bash">cd people.ce.pdn.ac.lk</code></pre>
+        </li>
 
     </ul><br>
 
 
     <li>Install plugins for Jekyll</li>
     <ul>
-        <li> <code>
-                 bundle install
-        </code></li>
-    </ul><br>
+        <li>
+            <pre><code class="language-bash">bundle install</code></pre>
+        </li>
+    </ul>
 
 
     <li>Start the webserver</li>
     <ul>
         <li>
-            <code> bundle exec jekyll serve</code>
+            <pre><code class="language-bash">bundle exec jekyll serve</code></pre>
         </li>
         <li>Note: On WSL you may need to add these options</li>
         <ul>
             <li>
-                <code>bundle exec jekyll serve --livereload --force_polling</code>
+                <pre><code  class="language-bash">bundle exec jekyll serve --livereload --force_polling</code></pre>
             </li>
         </ul>
-    </ul><br>
+    </ul>
 
     <li>Open the link given in the command line on your webbrowser. It should look like this,</li>
     <ul>
