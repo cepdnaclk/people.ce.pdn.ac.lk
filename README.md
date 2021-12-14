@@ -1,6 +1,6 @@
 # people.ce.pdn.ac.lk
 
-This is the repository contains the source code for [https://cepdnaclk.github.io/people.ce.pdn.ac.lk/](https://cepdnaclk.github.io/people.ce.pdn.ac.lk/). The site is built by Jekyll Builder and hosted on GitHub pages.
+This repository contains the source code for [https://cepdnaclk.github.io/people.ce.pdn.ac.lk/](https://cepdnaclk.github.io/people.ce.pdn.ac.lk/). The site is built by Jekyll Builder and hosted on GitHub pages.
 
 ## Build Instructions
 
