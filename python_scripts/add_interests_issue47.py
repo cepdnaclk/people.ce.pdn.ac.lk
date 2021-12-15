@@ -4,7 +4,7 @@
 
 import os
 
-filesPath = "../pages/students/e16/"
+filesPath = "../pages/students/e15/"
 
 
 allFiles = os.listdir(filesPath)
