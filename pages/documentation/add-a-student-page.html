@@ -1,0 +1,90 @@
+---
+layout: documentation
+permalink: /documentation/add-student-page/
+
+question: How to add a new student profile page ?
+index: 101
+---
+{%- comment -%}
+TODO: add target="_blank" to all links
+{%- endcomment -%}
+<ol>
+    <li><a href="https://github.com/login" target="_blank">Login</a> to your GitHub account. If you don't have an
+        account. Please <a href="https://github.com/signup" target="_blank">sign up</a>.</li><br>
+
+    <li>Go to <a href="{{'https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/pages/students'}}"
+            target="_blank">this</a> link. </li><br>
+
+    <li>Select your <a href="{{ 'images/docs/click_your_batch.PNG' | relative_url }}" target="_blank">batch</a>.</li><br>
+
+    <li>Click "Add File" then <a href="{{ 'images/docs/create_new_file.PNG' | relative_url}}" target="_blank">"Create new file"</a>.
+    </li><br>
+
+    <li>Write the file name in the given textbox.</li>
+    <ul>
+        <li>It should be in "e18596.html" format. Please replace "18596" with your registration number.
+        </li>
+        <li><a href="{{ 'images/docs/file_name.PNG' | relative_url}}" target="_blank">Example</a></li>
+    </ul><br>
+
+    <li>Copy and paste the code below into the <a
+            href="{{ 'images/docs/copy_paste_text.PNG' | relative_url}}">textbox</a> in the opened webpage</li>
+    <pre><code>---
+layout: studentDetails
+permalink: "/students/e18/596/"
+
+reg_no: E/18/596
+batch: E18
+
+full_name: #
+name_with_initials: #
+preferred_short_name: #
+preferred_long_name: #
+honorific: #
+
+email_faculty: #
+email_personal: #
+
+location: #
+
+url_cv: #
+url_website: #
+url_linkedin: #
+url_github: #
+url_facebook: #
+url_researchgate: #
+url_twitter: #
+
+interests: #
+projects_done: []
+image_url: "images/students/default.jpg"
+---
+</code></pre>
+    <li>Edit the following lines</li>
+    <ul>
+        <li> permalink: Replace 18 with your batch number, and 596 with your reg number. The result should look like if
+            you are E/14/154,
+            <pre><code>permalink: "/students/e14/154/"</code></pre>
+        </li>
+        <li>reg_no: Type your registration number in the given format</li>
+        <li>batch: Type your batch number in the given format</li>
+        <li>from "full_name:" to "projects_done:" please read step 4 of <a
+                href="{{ '/documentation/edit-student-page/' | relative_url }}">this</a> documentation</li>
+        <li>Do no change "image_url:" for now. It will be done later.</li>
+    </ul><br>
+
+    <li>Click "Propose new file" at the <a href="{{ 'images/docs/propose_new_file.PNG' | relative_url }}">end</a> of the
+        page.</li><br>
+
+    <li>Click "Create pull request" <a href="{{ 'images/docs/create_pull_req.png' | relative_url}}">button</a></li><br>
+    <li>Click "Create pull request" <a href="{{ 'images/docs/create_pull_req2.png' | relative_url}}">button</a> again
+    </li><br>
+
+    <li>Now an admin will approve these changes within 48hrs.</li><br>
+
+    <li>After it its approved, Please go to this
+        page to change your profile image. <- under construction</li>
+            {%- comment -%}
+            TODO: add link to edit change photo
+            {%- endcomment -%}
+</ol>
