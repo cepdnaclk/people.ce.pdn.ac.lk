@@ -4,25 +4,36 @@ permalink : /search/search.json
 [
 
   {% for post in site.pages %}
-      {% if post.full_name %}
+      {% if post.layout == "studentDetails" %}
         {
         "title" : "{{post.full_name}} - {{post.reg_no}}",
+        "name_with_initials": "{{post.name_with_initials}}",
+        "preferred_short_name": "{{post.preferred_short_name}}",
+        "preferred_long_name": "{{post.preferred_long_name}}",
         "regNo" : "{{ post.reg_no | remove: "/"}}",
         "location" : "{{post.location}}",
+        "interests" : "{{post.interests}}",
         "url" : "{{ site.baseurl }}{{ post.url }}"
         },
-      {% elsif post.name_below_image %}
+      {% elsif post.layout == "staffDetails" %}
         {
-          "title" : "{{post.name_below_image}} ",
-          "url" : "{{ site.baseurl }}{{ post.url }}"
+        "title" : "{{post.name_below_image}} ",
+        "designation" : "{{post.designation}}",
+        "email": "{{post.email}}",
+        "url" : "{{ site.baseurl }}{{ post.url }}"
         },
-      {% elsif post.title_in_breadcrumb %}
+      {% elsif post.layout == "studentsList" %}
         {
-          "title" : "{{post.title_in_breadcrumb}}",
-          "url" : "{{ site.baseurl }}{{ post.url }}"
+        "title" : "{{post.title_in_breadcrumb}}",
+        "url" : "{{ site.baseurl }}{{ post.url }}"
         },
+      {% elsif post.layout == "documentation" %}
+          {
+          "title" : "{{post.question}}",
+          "url" : "{{ site.baseurl }}{{ post.url }}"
+          },
       {% else %}
-        {% continue %}
+        {% continue %}   
       {% endif %}
 
   {% endfor %}
