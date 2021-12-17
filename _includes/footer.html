@@ -39,11 +39,30 @@
 </div>
 
 {%- if page.layout=="documentation" -%}
-    {%- comment -%}
-    Add the syntax highlighter for the documentation pages
-    {%- endcomment -%}
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
-    <script>
+{%- comment -%}
+Add the syntax highlighter for the documentation pages
+{%- endcomment -%}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+<script>
     hljs.initHighlightingOnLoad();
-    </script>
+</script>
+
+{%- comment -%}PhotoSwipe 5.0 beta{%- endcomment -%}
+<script type="module">
+    // Include Lightbox 
+    import PhotoSwipeLightbox from "{{'assets / js / photoswipe - lightbox.esm.js' | remove:" " | relative_url}}";
+
+    const lightbox = new PhotoSwipeLightbox({
+        // may select multiple "galleries"
+        gallery: '#gallery--simple',
+
+        // Elements within gallery (slides)
+        children: 'a',
+
+        // Include PhotoSwipe Core
+        // and use absolute path (that starts with http(s)://)
+        pswpModule: "{{'assets/js/photoswipe.esm.js' | remove:" " | relative_url}}"
+    });
+    lightbox.init();
+</script>
 {%- endif -%}

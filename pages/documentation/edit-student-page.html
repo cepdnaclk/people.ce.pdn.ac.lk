@@ -1,6 +1,6 @@
 ---
 layout: documentation
-permalink: /documentation/add-student-page/
+permalink: /documentation/edit-student-page/
 
 question: How to edit a student profile page ?
 index: 100
@@ -16,10 +16,8 @@ index: 100
                     target="_blank">type</a> your
                 registration number </li>
         </ul>
-        <li>If your profile page is missing, please click here <- page under constrcution</li>
-                {%- comment -%}
-                TODO: add link here after writing create new profile page docs
-                {%- endcomment -%}
+        <li>If your profile page is missing, please click <a href="{{ '/documentation/add-student-page/' |
+                relative_url}}">here</a></li>
     </ul><br>
 
     <li>Click "Edit this page on GitHub" link at the <a
@@ -61,10 +59,6 @@ index: 100
                     <tr>
                         <th scope="row">batch</th>
                         <td>Your batch number. Used internally. Do not change</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">reg_no</th>
-                        <td>Your registration number</td>
                     </tr>
                     <tr>
                         <th scope="row">full_name</th>
@@ -124,15 +118,20 @@ index: 100
                         <td>Link to your Twitter profile</td>
                     </tr>
                     <tr>
+                        <th scope="row">interests</th>
+                        <td>List your interests in comma seperated format. Eg: IoT, Machine Learning, Embedded Systems
+                        </td>
+                    </tr>
+                    <tr>
                         <th scope="row">projects_done</th>
                         <td>This will be filed automatically. Do not change</td>
                     </tr>
                     <tr>
                         <th scope="row">image_url</th>
-                        <td>This is the image in your profile page. Do not change for now.</td>
-                        {%- comment -%}
-                        TODO: add docs how to change profile pic
-                        {%- endcomment -%}
+                        <td>This is the image in your profile page. Do not change for now.
+                            If you want to change the profile picture. Follow <a href="{{'/documentation/change-add-student-profile-pic/
+'|relative_url}}">these</a> instructions seperately.
+                        </td>
                     </tr>
                 </tbody>
             </table>
@@ -141,17 +140,38 @@ index: 100
         <!-- Add an example in here -->
 
         Example:
-<div class="language-md highlighter-rouge">
-    <div class="highlight">
-        <pre class="highlight">
-            <code>
+        <pre>
+            <code class="language-yml">---
+layout: studentDetails
+permalink: "/students/e18/098/"
+
+reg_no: E/18/098
+batch: E18
+
+full_name: Kurukulasuriya Anton Ishan Fernando
+name_with_initials: K.A.I. Fernando
+preferred_short_name: Ishan
+preferred_long_name: Ishan Fernando
+honorific: Mr.
+
+email_faculty: e18098@eng.pdn.ac.lk
+email_personal: #
+
+location: Negombo
+
+url_cv: #
+url_website: #
+url_linkedin: #
+url_github: https://github.com/ishanfdo18098
+url_facebook: https://facebook.com/ishanfdo
+url_researchgate: #
+url_twitter: #
+
+interests: interest1, interest2
+projects_done: []
+image_url: "images/students/e18/e18098.jpg"
 ---
-layout: 
----
-            </code>
-        </pre>
-    </div>
-</div>
+</code></pre>
 
     </li><br>
 

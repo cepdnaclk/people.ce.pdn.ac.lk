@@ -7,7 +7,7 @@ This layout is for creating the single page containing the details of each stude
 
 
 sample frontmatter,
----START---
+---
 layout: studentDetails
 permalink: "/students/e18/098/"
 
@@ -15,13 +15,13 @@ reg_no: E/18/098
 batch: E18
 
 full_name: Kurukulasuriya Anton Ishan Fernando
-name_with_initials: K. A. I. Fernando
+name_with_initials: K.A.I. Fernando
 preferred_short_name: Ishan
 preferred_long_name: Ishan Fernando
 honorific: Mr.
 
 email_faculty: e18098@eng.pdn.ac.lk
-email_personal: personalMail@gmail.com
+email_personal: #
 
 location: Negombo
 
@@ -33,9 +33,10 @@ url_facebook: https://facebook.com/ishanfdo
 url_researchgate: #
 url_twitter: #
 
+interests: #
 projects_done: []
 image_url: "images/students/e18/e18098.jpg"
----END---
+---
 
 NOTES:
 1) if url = # it will show N/A, for everything else it will show the View button
@@ -239,6 +240,18 @@ NOTES:
                         </div>
                         <div class="col-sm-9 text-secondary">
                             {{page.location}}
+                        </div>
+                    </div>
+                    {% endif %}
+
+                    {% if page.interests %}
+                    <hr>
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <span class="mb-0" style="font-weight: 500">Interests</span>
+                        </div>
+                        <div class="col-sm-9 text-secondary">
+                            {{page.interests}}
                         </div>
                     </div>
                     {% endif %}

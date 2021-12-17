@@ -6,7 +6,7 @@ directory_list = os.listdir(path)
 
 for filename in directory_list:
     src = filename
-    dst = filename.split('-')[0].replace('_','').lower() + ".jpg"
+    dst = filename.split('-')[0].replace('_', '').lower() + ".jpg"
     print(dst)
 
     if(dst[0] == 'e'):

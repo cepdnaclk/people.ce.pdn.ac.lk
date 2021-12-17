@@ -11,6 +11,12 @@
 "faculty": "{{ student.email_faculty }}"
 },
 "location": "{{ student.location }}",
+"interests": [
+{% assign interests_1 = student.interests | split: "," %}
+{% for member in interests_1 %}
+"{{ member | strip }}"{% if forloop.last %}{% else %},{% endif %}
+{% endfor %}
+],
 "profile_image": "{{ student.image_url || absolute_url}}",
 "urls":{
 "cv":"{{ student.url_cv }}",
