@@ -33,10 +33,10 @@ gem install jekyll bundler ;</code></pre>
         <li>Go to the <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk" target="_blank">GitHub Repo</a> of
             this
             site</li>
-        <li>Click <a href="{{ 'images/docs/click_fork.png' | relative_url }}" target="_blank">"Fork"</a> </li>
-        <li>Copy the link from your <a href="{{ 'images/docs/get_clone_url.png' | relative_url }}"
-                target="_blank">forked
-                repo</a>
+        <li>Click {% include documentation_image.html url_image='/images/docs/click_fork.png' text='"Fork"' width='749'
+            height='766' %} </li>
+        <li>Copy the link from your {% include documentation_image.html url_image='/images/docs/get_clone_url.png'
+            text='forked repo' width='1866' height='657' %}
         </li>
     </ul>
     <br>
@@ -44,13 +44,9 @@ gem install jekyll bundler ;</code></pre>
 
     <li>Clone your forked repository of this site,</li>
     <ul>
-        <li class="p-1">For WSL Ubuntu, <kbd>SHIFT+RightClick</kbd> inside any folder. <a
-                href="{{ 'images/docs/shift_right_click_open_linux.png' | relative_url }} " target="_blank"> Click
-                "Open linux
-                shell
-                here"</a></li>
-
-
+        <li class="p-1">For WSL Ubuntu, <kbd>SHIFT+RightClick</kbd> inside any folder. {% include
+            documentation_image.html url_image='/images/docs/shift_right_click_open_linux.png' text='Click
+            "Open linux shell here"' width='503' height='670' %}</li>
         <li>
             <pre><code>git clone **your copied URL here**</code></pre>
         </li>
