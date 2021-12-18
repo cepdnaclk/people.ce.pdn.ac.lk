@@ -16,7 +16,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-image-size
 
 # Google Analytics Tracking (optional)
 ga_tracking:
