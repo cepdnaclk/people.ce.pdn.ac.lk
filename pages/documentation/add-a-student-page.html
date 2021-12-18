@@ -13,24 +13,25 @@ index: 101
         <li>Go to <a href="{{'https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/pages/students'}}"
                         target="_blank">this</a> link. </li><br>
 
-        <li>Select your <a href="{{ 'images/docs/click_your_batch.PNG' | relative_url }}" target="_blank">batch</a>.
+        <li>Select your {% include documentation_image.html url_image='/images/docs/click_your_batch.PNG'
+                text='batch'%}.
         </li>
         <br>
 
-        <li>Click "Add File" then <a href="{{ 'images/docs/create_new_file.PNG' | relative_url}}"
-                        target="_blank">"Create
-                        new file"</a>.
+        <li>Click "Add File" then {% include documentation_image.html url_image='/images/docs/create_new_file.PNG'
+                text='"Create new File""' %}.
         </li><br>
 
         <li>Write the file name in the given textbox.</li>
         <ul>
                 <li>It should be in "e18596.html" format. Please replace "18596" with your registration number.
                 </li>
-                <li><a href="{{ 'images/docs/file_name.PNG' | relative_url}}" target="_blank">Example</a></li>
+                <li>{% include documentation_image.html url_image='/images/docs/file_name.PNG' text='Example'
+                        %}</li>
         </ul><br>
 
-        <li>Copy and paste the code below into the <a href="{{ 'images/docs/copy_paste_text.PNG' | relative_url}}"
-                        target="_blank">textbox</a> in the opened webpage</li>
+        <li>Copy and paste the code below into the {% include documentation_image.html
+                url_image='/images/docs/copy_paste_text.PNG' text='textbox'%} in the opened webpage</li>
         <pre><code>---
 layout: studentDetails
 permalink: "/students/e18/596/"
@@ -78,14 +79,14 @@ image_url: "images/students/default.jpg"
                 <li>Do not change "image_url:" for now. It will be done later.</li>
         </ul><br>
 
-        <li>Click "Propose new file" at the <a href="{{ 'images/docs/propose_new_file.PNG' | relative_url }}"
-                        target="_blank">end</a> of the
+        <li>Click "Propose new file" at the {% include documentation_image.html
+                url_image='/images/docs/propose_new_file.PNG' text='end' %} of the
                 page.</li><br>
 
-        <li>Click "Create pull request" <a href="{{ 'images/docs/create_pull_req.png' | relative_url}}"
-                        target="_blank">button</a></li><br>
-        <li>Click "Create pull request" <a href="{{ 'images/docs/create_pull_req2.png' | relative_url}}"
-                        target="_blank">button</a> again
+        <li>Click "Create pull request" {% include documentation_image.html url_image='/images/docs/create_pull_req.png'
+                text='button'%}</li><br>
+        <li>Click "Create pull request" {% include documentation_image.html
+                url_image='/images/docs/create_pull_req2.png' text='button'%} again
         </li><br>
 
         <li>Now an admin will approve these changes within 48hrs.</li><br>

@@ -1,6 +1,6 @@
 <span class="pswp-gallery pswp-gallery--single-column" id="gallery--simple">
-    <a href="{{ include.url_image | relative_url}}" data-pswp-width="{{include.width}}"
-        data-pswp-height="{{include.height}}" target="_blank">
+    <a href="{{ include.url_image | relative_url}}" data-pswp-width="{% imagesize include.url_image:width %}"
+        data-pswp-height="{% imagesize include.url_image:height %}" target="_blank">
         {{include.text}}
     </a>
 </span>
@@ -9,6 +9,6 @@
 
 Eg:
 
-{% include documentation_image.html url_image='images/docs/create_pull_req.png' text='hi' width='500' height='500' %}
+{% include documentation_image.html url_image='images/docs/create_pull_req.png' text='hi' %}
 
 {%- endcomment -%}
