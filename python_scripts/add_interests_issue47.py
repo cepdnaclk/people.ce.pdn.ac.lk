@@ -1,6 +1,7 @@
 # Inserts interests into profile pages to solve issue47
 # https://github.com/cepdnaclk/people.ce.pdn.ac.lk/issues/47
 
+## Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 
 import os
 

@@ -1,3 +1,6 @@
+# get all users from FEeLS
+# Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
+
 import requests
 from urllib.parse import urlparse
 
@@ -9,6 +12,7 @@ s.headers.update({
     'Referer': url
 })
 r = s.get(url)
+# add your cookie here
 s.cookies['MoodleSessionfeels'] = '######Login and copy your cookie here########'
 for x in range(3000, 5000):
     url = f'https://feels.pdn.ac.lk/user/profile.php?id={x}'
