@@ -1,6 +1,8 @@
 # Adds "/" at the end of permalink to solve issue46
 # https://github.com/cepdnaclk/people.ce.pdn.ac.lk/issues/46
 
+## Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
+
 
 import os
 
@@ -31,3 +33,5 @@ for each in allFiles:
 
     thisFile = open(filePath, "w")
     thisFile.write(newContent)
+
+

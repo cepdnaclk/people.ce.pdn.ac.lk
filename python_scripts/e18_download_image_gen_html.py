@@ -1,3 +1,6 @@
+## Download images from FEeLS and generate E18 profile pages html
+## Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
+
 import urllib.request
 
 e18_CO = open("./_csv/e18_CO.txt", "r")
