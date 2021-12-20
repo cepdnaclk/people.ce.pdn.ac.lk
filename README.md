@@ -6,7 +6,7 @@ This repository contains the source code for [https://cepdnaclk.github.io/people
 
 Currently, the site is built by GitHub Pages itself once there is commit to the _main_ branch.
 
-If you are interested in build the site in a local environment, info on how to build can be found [here](https://cepdnaclk.github.io/people.ce.pdn.ac.lk/documentation/run-locally/). 
+If you are interested in build the site in a local environment, info on how to build can be found [here](https://cepdnaclk.github.io/people.ce.pdn.ac.lk/documentation/run-locally/).
 
 ## Contact Info
 
