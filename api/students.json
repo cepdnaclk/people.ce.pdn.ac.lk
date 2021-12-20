@@ -2,6 +2,12 @@
 layout: null
 permalink: "/api/students/"
 ---
+
+{%- comment -%}
+This works only with the layout, 'studentDetails'
+Information from the older batches will not consider for the API due to lack of information
+{%- endcomment -%}
+
 {%- assign student_list = site.html_pages | where: "layout", "studentDetails" -%}
 {
     {% for student in student_list -%}
