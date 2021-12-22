@@ -28,15 +28,62 @@ permalink : /search/search.json
         "url" : "{{ site.baseurl }}{{ post.url }}"
         },
       {% elsif post.layout == "documentation" %}
-          {
-          "title" : "{{post.question}}",
-          "url" : "{{ site.baseurl }}{{ post.url }}"
-          },
+        {
+        "title" : "{{post.question}}",
+        "url" : "{{ site.baseurl }}{{ post.url }}"
+        },
       {% else %}
         {% continue %}   
       {% endif %}
 
   {% endfor %}
+
+  {% assign batch = site.data.stud.e09  %}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "reg_no" : "{{item[1].reg_no}}",
+        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
+        "url" : "{{ site.baseurl }}/students/e09/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e10  %}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "reg_no" : "{{item[1].reg_no}}",
+        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
+        "url" : "{{ site.baseurl }}/students/e10/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e11  %}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "reg_no" : "{{item[1].reg_no}}",
+        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
+        "url" : "{{ site.baseurl }}/students/e11/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e12  %}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "reg_no" : "{{item[1].reg_no}}",
+        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
+        "url" : "{{ site.baseurl }}/students/e12/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e13  %}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "reg_no" : "{{item[1].reg_no}}",
+        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
+        "url" : "{{ site.baseurl }}/students/e13/"
+      },
+  {% endfor %}
+
 
   {% for post in site.data.temporary_academic_staff %}
     {
