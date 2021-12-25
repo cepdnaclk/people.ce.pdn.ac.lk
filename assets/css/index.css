@@ -9,6 +9,10 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+    transition:all 3s;
+}
+
 .cardSpacingHome {
   margin: 7px;
 }
