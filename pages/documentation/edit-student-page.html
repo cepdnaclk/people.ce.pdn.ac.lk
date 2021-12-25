@@ -13,7 +13,7 @@ index: 100
         <li>Or, Use the search page to find it</li>
         <ul>
             <li>On the search page {% include documentation_image.html url_image='/images/docs/search_reg_no.PNG'
-                text='your' width='1706' height='553'%} your
+                text='your'%}
                 registration number </li>
         </ul>
         <li>If your profile page is missing, please click <a href="{{ '/documentation/add-student-page/' |
@@ -21,18 +21,18 @@ index: 100
     </ul><br>
 
     <li>Click "Edit this page on GitHub" link at the{% include documentation_image.html
-        url_image='/images/docs/edit_this_on_github.png' text='bottom' width='1348' height='772' %} of the page.
+        url_image='/images/docs/edit_this_on_github.png' text='bottom' %} of the page.
     </li><br>
 
     <li>Click on "Edit" {% include documentation_image.html url_image='/images/docs/click_edit_inside_github.png'
-        text='icon' width='1904' height='802'%}
+        text='icon'%}
         .</li><br>
 
     <li>Make your changes to the file <br><br>
         Listed below are the variables that are used to edit your profile page. <br>
         Note: If you want to keep a value as empty. Type # next to the variable<br>
         Click {% include documentation_image.html url_image='/images/docs/studentDetails_description.png' text='here'
-        width='1643' height='870'%}
+        %}
         to
         view
         the locations
@@ -64,13 +64,21 @@ index: 100
                         <td>Your batch number. Used internally. Do not change</td>
                     </tr>
                     <tr>
+                        <th scope="row">department</th>
+                        <td>Your department. It should be either "Computer" or "Mechanical"</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">current_affiliation</th>
+                        <td>Change this if you're working for a company</td>
+                    </tr>
+                    <tr>
                         <th scope="row">full_name</th>
                         <td>Your full name that is displayed in the page</td>
                     </tr>
                     <tr>
                         <th scope="row">name_with_initials</th>
                         <td>This is displayed in the {% include documentation_image.html
-                            url_image='/images/docs/name_with_intials.png' text='batch' width='1677' height='762'%}
+                            url_image='/images/docs/name_with_intials.png' text='batch'%}
                             page.</td>
                     </tr>
                     <tr>
@@ -150,6 +158,9 @@ permalink: "/students/e18/098/"
 reg_no: E/18/098
 batch: E18
 
+department: Computer
+current_affiliation: Department of Computer Engineering, University of Peradeniya
+
 full_name: Kurukulasuriya Anton Ishan Fernando
 name_with_initials: K.A.I. Fernando
 preferred_short_name: Ishan
@@ -178,13 +189,13 @@ image_url: "images/students/e18/e18098.jpg"
     </li><br>
 
     <li>Scroll down then click "Propose Changes" {% include documentation_image.html
-        url_image='/images/docs/propose_changes.png' text='button' width='715' height='403'%}.</li><br>
+        url_image='/images/docs/propose_changes.png' text='button' %}.</li><br>
 
     <li>Click "Create Pull Request" {% include documentation_image.html url_image='/images/docs/create_pull_req.png'
-        text='button' width='1848' height='686'%}.</li><br>
+        text='button'%}.</li><br>
 
     <li>Click "Create Pull Request" {% include documentation_image.html url_image='/images/docs/create_pull_req2.png'
-        text='button' width='1399' height='701'%} again.
+        text='button'%} again.
     </li><br>
 
     <li>Now an admin will approve these changes within 48hrs.</li>

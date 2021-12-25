@@ -220,6 +220,17 @@ NOTES:
                     </div>
                     <hr>
 
+                    <!-- department -->
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <span class="mb-0" style="font-weight: 500">Department</span>
+                        </div>
+                        <div class="col-sm-9 text-secondary">
+                            {{page.department}}
+                        </div>
+                    </div>
+                    <hr>
+
                     <div class="row">
                         <div class="col-sm-3">
                             <span class="mb-0" style="font-weight: 500">Email</span>
@@ -252,6 +263,18 @@ NOTES:
                         </div>
                         <div class="col-sm-9 text-secondary">
                             {{page.interests}}
+                        </div>
+                    </div>
+                    {% endif %}
+
+                    {% if page.current_affiliation %}
+                    <hr>
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <span class="mb-0" style="font-weight: 500">Current affiliation</span>
+                        </div>
+                        <div class="col-sm-9 text-secondary">
+                            {{page.current_affiliation}}
                         </div>
                     </div>
                     {% endif %}
