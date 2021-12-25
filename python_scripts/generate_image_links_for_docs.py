@@ -4,8 +4,13 @@
 
 import os
 from PIL import Image
+import json
 
 filesPath = "../images/docs/"
+
+data_images = "../_data/images.json"
+data_imagesFile = open(data_images, "w")
+dataDict = {}
 
 
 allFiles = os.listdir(filesPath)
@@ -15,7 +20,9 @@ for each in allFiles:
     width, height = image.size
     print("""{% include documentation_image.html url_image='""" +
           filePath[2:]+"""' text='hi' width='"""+str(width)+"""' height='""" + str(height)+"""' %}""")
+    dataDict[each] = {"width": width, "height": height}
 
+data_imagesFile.write(json.dumps(dataDict, indent=4))
 
 """
 Output,

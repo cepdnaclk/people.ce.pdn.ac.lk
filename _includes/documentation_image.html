@@ -1,12 +1,16 @@
 <span class="pswp-gallery pswp-gallery--single-column" id="gallery--simple">
-    <a href="{{ include.url_image | relative_url}}" data-pswp-width="{{include.width}}"
-        data-pswp-height="{{include.height}}" target="_blank">{{include.text}}</a>
+    {% assign imageName = include.url_image | split: "/" %}
+    {% assign imageName = imageName[-1] %}
+    <a href="{{ include.url_image | relative_url}}" data-pswp-width="{{site.data.images[imageName].width}}"
+        data-pswp-height="{{site.data.images[imageName].height}}" target="_blank">{{include.text}}</a>
 </span>
 
 {%- comment -%}
 
 Eg:
 
-{% include documentation_image.html url_image='images/docs/create_pull_req.png' text='hi' width='500' height='500' %}
+{% include documentation_image.html url_image='images/docs/create_pull_req.png' text='hi' %}
+
+run python_scripts/generate_image_links_for_docs.py after uploading images to generate the images.json in _data
 
 {%- endcomment -%}
