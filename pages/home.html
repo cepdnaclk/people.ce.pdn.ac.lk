@@ -77,9 +77,13 @@ permalink: /
                     class="card-img-top p-5" alt="Students">
                 <div class="card-body">
                     {%- for batch in site.data.alumini -%}
-                    <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
+                    {% if forloop.index < 4 %} <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                        href="{{ batch.url | relative_url }}">{{
                         batch.title }}</a>
-                    {%- endfor -%}
+                        {% endif %}
+                        {%- endfor -%}
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                            href="{{ '/alumni/' | relative_url }}">View more</a>
                 </div>
             </div>
         </div>
