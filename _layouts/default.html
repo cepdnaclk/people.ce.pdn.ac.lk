@@ -12,7 +12,6 @@ This is the basic layout of the page containg the head, navbar and footer
 <head>
     {% include meta.html %}
 
-    {%- feed_meta -%}
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include analytics.html -%}
     {%- endif -%}

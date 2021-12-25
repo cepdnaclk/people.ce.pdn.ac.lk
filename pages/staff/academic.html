@@ -1,0 +1,57 @@
+---
+layout: default
+permalink: /staff/academic/
+---
+
+<main class="container">
+    <div class="bg-secondary p-3 pb-1 rounded">
+
+        <h1 class="text-white">Academic Staff</h1>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item text-white">Academic Staff</li>
+            </ol>
+        </nav>
+    </div>
+</main>
+
+<div class="container p-3">
+    <div class="container">
+        <ul class="nav nav-pills mb-3 nav-fill">
+            <li class="nav-item"><a class="nav-link filter-button active" data-filter="all" href="#">All</a></li>
+            <li class="nav-item"><a class="nav-link filter-button" data-filter="hod" href="#">Head of Department</a></li>
+            <li class="nav-item"><a class="nav-link filter-button" data-filter="professor" href="#">Professors</a></li>
+            <li class="nav-item"><a class="nav-link filter-button" data-filter="senior_lecturer" href="#">Senior Lecturers</a></li>
+            <li class="nav-item"><a class="nav-link filter-button" data-filter="lecturer" href="#">Lecturers</a></li>
+            <!-- <li class="nav-item"><a class="nav-link filter-button" data-filter="past" href="#">Past Staff</a></li> -->
+        </ul>
+
+        <div class="row justify-content-left">
+            {% include staff_academic_cards.html filter_var="is_hod" if_equal_to_this=true %}
+
+            {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Professor" %}
+
+            {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Senior Lecturer" %}
+
+            {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Lecturer" %}
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $(".filter-button").click(function(){
+            var value = $(this).attr('data-filter');
+            $('.filter-button').removeClass('active');
+            $(this).addClass('active');
+
+            if(value == "all"){
+                $('.filter').fadeIn('3000');
+            }else{
+                $(".filter").not('.'+value).fadeOut('3000');
+                $('.filter').filter('.'+value).fadeIn('3000');
+            }
+        });
+    });
+</script>

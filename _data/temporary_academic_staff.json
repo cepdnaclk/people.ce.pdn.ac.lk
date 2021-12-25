@@ -3,60 +3,88 @@
         "staff_name" : "Amila Indika",
         "text_below_name" : "Temporary Instructor / System Administrator",
         "url_image" : "images/staff/temporary_academic_staff/amila.jpg",
-        "url_profile" : "students/e14/142"
+        "url_profile" : "students/e14/142",
+        "joined_date": "",
+        "leaved_date": ""
     },
     {
         "staff_name" : "Chathuri Aththanayake",
         "text_below_name" : "Temporary Instructor",
         "url_image" : "images/staff/temporary_academic_staff/chathuri.jpg",
-        "url_profile" : ""
+        "url_profile" : "",
+        "joined_date": "",
+        "leaved_date": "2021-11-31"
     },
     {
         "staff_name" : "Arjuna Thennakoon",
         "text_below_name" : "Temporary Instructor",
         "url_image" : "images/staff/temporary_academic_staff/arjuna.jpg",
-        "url_profile" : ""
+        "url_profile" : "",
+        "joined_date": "",
+        "leaved_date": ""
+    },
+    {
+        "staff_name" : "Kanchana Jayasinghe",
+        "text_below_name" : "Temporary Instructor",
+        "url_image" : "images/staff/temporary_academic_staff/kanchana.jpg",
+        "url_profile" : "",
+        "joined_date": "",
+        "leaved_date": "2021-11-01"
     },
     {
         "staff_name" : "Anjalee Wanigarathne",
         "text_below_name" : "Temporary Instructor",
         "url_image" : "images/staff/temporary_academic_staff/anjalee.jpg",
-        "url_profile" : ""
+        "url_profile" : "",
+        "joined_date": "",
+        "leaved_date": ""
     },
     {
         "staff_name" : "Thushara Bandara",
         "text_below_name" : "Temporary Instructor",
         "url_image" : "images/staff/temporary_academic_staff/thushara.jpeg",
-        "url_profile" : ""
+        "url_profile" : "",
+        "joined_date": "",
+        "leaved_date": ""
     },
     {
         "staff_name" : "Kalani Hansima",
         "text_below_name" : "Temporary Instructor",
         "url_image" : "images/staff/temporary_academic_staff/kalani.jpeg",
-        "url_profile" : ""
+        "url_profile" : "",
+        "joined_date": "",
+        "leaved_date": ""
     },
     {
         "staff_name" : "Dilshani Karunarathna",
         "text_below_name" : "Temporary Instructor",
         "url_image" : "images/staff/temporary_academic_staff/dilshani.jpg",
-        "url_profile" : "students/e15/173"
+        "url_profile" : "students/e15/173",
+        "joined_date": "2021-10-21",
+        "leaved_date": ""
     },
     {
         "staff_name" : "Nuwan Jaliyagoda",
         "text_below_name" : "Temporary Instructor",
         "url_image" : "images/staff/temporary_academic_staff/nuwan.jpg",
-        "url_profile" : "/students/e15/140"
+        "url_profile" : "/students/e15/140",
+        "joined_date": "2021-10-21",
+        "leaved_date": ""
     },
     {
         "staff_name" : "Imesh Ekanayake",
         "text_below_name" : "Temporary Instructor",
         "url_image" : "images/staff/temporary_academic_staff/imesh.png",
-        "url_profile" : "/students/e15/092"
+        "url_profile" : "/students/e15/092",
+        "joined_date": "2021-10-21",
+        "leaved_date": ""
     },
     {
         "staff_name" : "Keshara Weerasinghe",
         "text_below_name" : "Temporary Instructor",
         "url_image" : "images/staff/temporary_academic_staff/keshara.jpg",
-        "url_profile" : "/students/e15/383"
+        "url_profile" : "/students/e15/383",
+        "joined_date": "2021-10-21",
+        "leaved_date": ""
     }
 ]
