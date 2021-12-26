@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: /staff/academic/
+
+title: Academic Staff
 ---
 
 <main class="container">
@@ -20,9 +22,11 @@ permalink: /staff/academic/
     <div class="container">
         <ul class="nav nav-pills mb-3 nav-fill">
             <li class="nav-item"><a class="nav-link filter-button active" data-filter="all" href="#">All</a></li>
-            <li class="nav-item"><a class="nav-link filter-button" data-filter="hod" href="#">Head of Department</a></li>
+            <li class="nav-item"><a class="nav-link filter-button" data-filter="hod" href="#">Head of Department</a>
+            </li>
             <li class="nav-item"><a class="nav-link filter-button" data-filter="professor" href="#">Professors</a></li>
-            <li class="nav-item"><a class="nav-link filter-button" data-filter="senior_lecturer" href="#">Senior Lecturers</a></li>
+            <li class="nav-item"><a class="nav-link filter-button" data-filter="senior_lecturer" href="#">Senior
+                    Lecturers</a></li>
             <li class="nav-item"><a class="nav-link filter-button" data-filter="lecturer" href="#">Lecturers</a></li>
             <!-- <li class="nav-item"><a class="nav-link filter-button" data-filter="past" href="#">Past Staff</a></li> -->
         </ul>
@@ -40,17 +44,17 @@ permalink: /staff/academic/
 </div>
 
 <script type="text/javascript">
-    $(document).ready(function(){
-        $(".filter-button").click(function(){
+    $(document).ready(function () {
+        $(".filter-button").click(function () {
             var value = $(this).attr('data-filter');
             $('.filter-button').removeClass('active');
             $(this).addClass('active');
 
-            if(value == "all"){
+            if (value == "all") {
                 $('.filter').fadeIn('3000');
-            }else{
-                $(".filter").not('.'+value).fadeOut('3000');
-                $('.filter').filter('.'+value).fadeIn('3000');
+            } else {
+                $(".filter").not('.' + value).fadeOut('3000');
+                $('.filter').filter('.' + value).fadeIn('3000');
             }
         });
     });

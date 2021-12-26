@@ -1,6 +1,7 @@
 ---
 permalink : /search/search.json
 ---
+
 [
 
   {% for post in site.pages %}
