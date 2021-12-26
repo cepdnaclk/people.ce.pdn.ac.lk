@@ -37,5 +37,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add --all
-          git commit -m "Student page titles were updated by GitHub Actions" || echo "No changes to commit on People API"
+          git commit -m "Student page titles were updated by GitHub Actions" || echo "No changes on Titles"
           git push
