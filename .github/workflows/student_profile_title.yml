@@ -2,8 +2,8 @@ name: Update student profile page titles
 
 on:
   # schedule:
-    # # At 18:30 UTC on everyday (12.00 mid night in Sri Lanka)
-    # - cron: "30 18 * * *"
+  # # At 18:30 UTC on everyday (12.00 mid night in Sri Lanka)
+  # - cron: "30 18 * * *"
 
   # Enables a button on Actions tab
   workflow_dispatch:
@@ -37,5 +37,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add --all
-          git commit -m "People API was updated by GitHub Actions" || echo "No changes to commit on People API"
+          git commit -m "Student page titles were updated by GitHub Actions" || echo "No changes to commit on People API"
           git push
