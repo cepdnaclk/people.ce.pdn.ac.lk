@@ -5,24 +5,15 @@ layout: default
 This layout is for creating the list of students in each batch, WITHOUT profile page link
 
 sample frontmatter,
-    layout: studentList
-    permalink: /students/e15/
+---
+layout: studentList_no_prof_link
+permalink: /students/e09/
 
-    batch: E15
-    title_in_breadcrumb: E15 Batch
+batch: E09
+title_in_breadcrumb: E09 Batch
 
-
-{% assign folder1 = site.pages | where: "batch", page.batch | where: "studentDetails", page.layout | sort: "reg_no" %}
-{% for item in folder1 %}
-<div class="card text-center p-2 " style="width: 11rem;">
-    <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
-        alt="{{item.student_name}}">
-    <div class="card-body">
-        <h6 class="card-title">{{item.name_with_initials}}</h6>
-        <p class="card-text">{{item.reg_no}}</p>
-    </div>
-</div>
-{% endfor %}
+title: E09 Batch
+---
 
 {%- endcomment -%}
 
@@ -41,8 +32,8 @@ sample frontmatter,
 
 <div class="container py-4 px-lg-5">
     <div class="row justify-content-center">
-        {% assign batch_lower = page.batch | downcase  %}
-        {% assign batch = site.data.stud[batch_lower]  %}
+        {% assign batch_lower = page.batch | downcase %}
+        {% assign batch = site.data.stud[batch_lower] %}
 
         {% for item in batch %}
         <div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">

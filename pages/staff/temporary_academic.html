@@ -14,6 +14,7 @@ Update the JSON, _data/temporary_academic_staff.json, and it will add the profil
 
 {% assign today_date = 'now' | date: '%s' %}
 
+<!-- breadcrumb -->
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         <h1 class="text-white">Temporary Academic Staff</h1>
@@ -28,6 +29,7 @@ Update the JSON, _data/temporary_academic_staff.json, and it will add the profil
 
 <div class="container py-4 px-lg-5">
     <div class="row justify-content-center">
+        <!-- curent temp academic staff -->
         {%- for each in site.data.temporary_academic_staff -%}
         {%- assign leaved_date = each.leaved_date | date: '%s' -%}
 
@@ -53,7 +55,7 @@ Update the JSON, _data/temporary_academic_staff.json, and it will add the profil
     <div class="row justify-content-center pt-5">
         <h3 class="text-center">Past Temporary Academic Staff</h3>
         <hr>
-
+        <!-- past academic staff -->
         {%- for each in site.data.temporary_academic_staff -%}
 
         {%- if each.leaved_date != "" -%}

@@ -5,14 +5,17 @@ layout: default
 {%- comment -%}
 This layout is for creating the single page containing the details of each student
 
-
 sample frontmatter,
 ---
 layout: studentDetails
 permalink: "/students/e18/098/"
+title: K.A.I. Fernando
 
 reg_no: E/18/098
 batch: E18
+
+department: Computer
+current_affiliation: Department of Computer Engineering, University of Peradeniya
 
 full_name: Kurukulasuriya Anton Ishan Fernando
 name_with_initials: K.A.I. Fernando
@@ -34,19 +37,22 @@ url_researchgate: #
 url_twitter: #
 
 interests: #
-projects_done: []
+
 image_url: "images/students/e18/e18098.jpg"
 ---
 
 NOTES:
 1) if url = # it will show N/A, for everything else it will show the View button
 2) Social Media links, location are optional
+3) title can be automatically updated using github action (uses python_scripts/student_profile_page_titles.py)
 
 {%- endcomment -%}
 
 
 
-<!-- Current path START-->
+{%- comment -%}
+breadcrumb
+{%- endcomment -%}
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         <!-- <h1 class="text-white">Student Details</h1> -->
@@ -70,7 +76,7 @@ NOTES:
         </nav>
     </div>
 </main>
-<!-- Current path END-->
+
 
 
 <div class="container pt-4">
@@ -79,11 +85,14 @@ NOTES:
             <div class="card">
                 <div class="card-body">
                     <div class="d-flex flex-column align-items-center text-center">
+                        {%- comment -%}
+                        Image
+                        {%- endcomment -%}
                         {% if page.image_url %}
-                        <img src="{{ page.image_url | relative_url}}" alt="Admin" style="border-radius: 10%"
+                        <img src="{{ page.image_url | relative_url}}" alt="image" style="border-radius: 10%"
                             width="175">
                         {% else %}
-                        <img src="{{ 'images/students/default.jpg' | relative_url}}" alt="Admin"
+                        <img src="{{ 'images/students/default.jpg' | relative_url}}" alt="image"
                             style="border-radius: 10%" width="175">
                         {% endif %}
 
@@ -186,6 +195,7 @@ NOTES:
         <div class="col-md-8">
             <div class="card mb-3">
                 <div class="card-body">
+                    <!-- full name -->
                     {% if page.full_name %}
                     <div class="row">
                         <div class="col-sm-3">
@@ -198,6 +208,7 @@ NOTES:
                     <hr>
                     {% endif %}
 
+                    <!-- preferred long name -->
                     {% if page.preferred_long_name %}
                     <div class="row">
                         <div class="col-sm-3">
@@ -210,6 +221,7 @@ NOTES:
                     <hr>
                     {% endif %}
 
+                    <!-- reg number -->
                     <div class="row">
                         <div class="col-sm-3">
                             <span class="mb-0" style="font-weight: 500">Registration Number</span>
@@ -231,6 +243,7 @@ NOTES:
                     </div>
                     <hr>
 
+                    <!-- email -->
                     <div class="row">
                         <div class="col-sm-3">
                             <span class="mb-0" style="font-weight: 500">Email</span>
@@ -243,6 +256,7 @@ NOTES:
                         </div>
                     </div>
 
+                    <!-- location -->
                     {% if page.location %}
                     <hr>
                     <div class="row">
@@ -255,6 +269,7 @@ NOTES:
                     </div>
                     {% endif %}
 
+                    <!-- interests -->
                     {% if page.interests %}
                     <hr>
                     <div class="row">
@@ -267,6 +282,7 @@ NOTES:
                     </div>
                     {% endif %}
 
+                    <!-- current affiliation -->
                     {% if page.current_affiliation %}
                     <hr>
                     <div class="row">

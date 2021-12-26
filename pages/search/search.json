@@ -1,11 +1,15 @@
 ---
 permalink : /search/search.json
 ---
-
+{%- comment -%}
+This is used by the searchbox in pages/home.html
+Permalinks should be changed in sync with the link inside pages/home.html
+{%- endcomment -%}
 [
 
   {% for post in site.pages %}
       {% if post.layout == "studentDetails" %}
+      {%- comment -%}Student profile page{%- endcomment -%}
         {
         "title" : "{{post.full_name}} - {{post.reg_no}}",
         "name_with_initials": "{{post.name_with_initials}}",
@@ -17,6 +21,7 @@ permalink : /search/search.json
         "url" : "{{ site.baseurl }}{{ post.url }}"
         },
       {% elsif post.layout == "staffDetails" %}
+      {%- comment -%}Staff profile page{%- endcomment -%}
         {
         "title" : "{{post.name_below_image}} ",
         "designation" : "{{post.designation}}",
@@ -24,11 +29,13 @@ permalink : /search/search.json
         "url" : "{{ site.baseurl }}{{ post.url }}"
         },
       {% elsif post.layout == "studentsList" %}
+      {%- comment -%}Studnets card list page{%- endcomment -%}
         {
         "title" : "{{post.title_in_breadcrumb}}",
         "url" : "{{ site.baseurl }}{{ post.url }}"
         },
       {% elsif post.layout == "documentation" %}
+      {%- comment -%}Documenation pages{%- endcomment -%}
         {
         "title" : "{{post.question}}",
         "url" : "{{ site.baseurl }}{{ post.url }}"
@@ -40,6 +47,7 @@ permalink : /search/search.json
   {% endfor %}
 
   {% assign batch = site.data.stud.e09  %}
+  {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
   {% for item in batch %}
       {
         "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
@@ -87,6 +95,7 @@ permalink : /search/search.json
 
 
   {% for post in site.data.temporary_academic_staff %}
+  {%- comment -%}temporary academic staff pages{%- endcomment -%}
     {
         "title" : "{{ post.staff_name }} - Temporary Academic Staff",
         "url"      : "{{ '/staff/temporary_academic_staff/' | relative_url }}"
@@ -94,6 +103,7 @@ permalink : /search/search.json
   {% endfor %}
 
   {% for post in site.data.academic_support_staff %}
+  {%- comment -%}academic support staff pages{%- endcomment -%}
     {
         "title" : "{{ post.staff_name }} - Academic Support Staff",
         "url"      : "{{ '/staff/academic_support_staff/' | relative_url }}"
@@ -101,6 +111,7 @@ permalink : /search/search.json
   {% endfor %}
 
   {% for post in site.data.past_heads_of_dep %}
+  {%- comment -%}past heads of the department page{%- endcomment -%}
     {
         "title" : "{{ post.staff_name }} - Past Heads of the Department",
         "url"      : "{{ '/staff/past_heads_of_dep/' | relative_url }}"

@@ -4,6 +4,7 @@ permalink: /
 title: Home
 ---
 
+<!-- breadcrumb -->
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         <h1 class="text-white">Home</h1>
@@ -17,6 +18,7 @@ title: Home
 
 <div class="container" style="min-height: 500px;">
     <br />
+    <!-- search box -->
     <div class="row justify-content-center">
         <div class="col-12 col-md-10 col-lg-9">
             <form class="card card-sm ">
@@ -32,6 +34,8 @@ title: Home
             </form>
         </div>
     </div>
+
+    <!-- results container -->
     <div class="container">
         <div class="row">
             <div class="col-lg-2"></div>
@@ -39,9 +43,10 @@ title: Home
         </div>
     </div>
 
-
+    <!-- 3 cards in home -->
     <div id="main-container" class="container pt-2 px-5">
         <div class="row justify-content-center">
+            <!-- staff -->
             <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
                 <div class="card-header">
                     <h5>Staff</h5>
@@ -69,6 +74,8 @@ title: Home
                     </ul>
                 </div>
             </div>
+
+            <!-- students -->
             <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
                 <div class="card-header">
                     <h5>Students</h5>
@@ -76,12 +83,15 @@ title: Home
                 <img src="{{ 'images/homepage/studentsLogo.png'| relative_url }}" style="border-radius: 7%;"
                     class="card-img-top p-5" alt="Students">
                 <div class="card-body">
+                    <!-- content is taken from _data/students.json -->
                     {%- for batch in site.data.students -%}
                     <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
                         batch.title }}</a>
                     {%- endfor -%}
                 </div>
             </div>
+
+            <!-- alumni -->
             <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
                 <div class="card-header">
                     <h5>Alumni</h5>
@@ -89,6 +99,7 @@ title: Home
                 <img src="{{ 'images/homepage/alumniLogo.png'| relative_url }}" style="border-radius: 7%"
                     class="card-img-top p-5" alt="Students">
                 <div class="card-body">
+                    <!-- content is taken from _data/alumni.json -->
                     {%- for batch in site.data.alumini -%}
                     {% if forloop.index < 4 %} <a class="btn btn-outline-primary w-100 buttonBottomMargin"
                         href="{{ batch.url | relative_url }}">{{

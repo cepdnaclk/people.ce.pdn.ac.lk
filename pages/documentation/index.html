@@ -16,6 +16,7 @@ title: Documentation
     }
 </style>
 
+<!-- breadcrumb -->
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         <h1 class="text-white">Documentation</h1>
@@ -33,6 +34,7 @@ title: Documentation
         <div class="row">
             <div class="col-md-10 col-sm-12 col-lg-8">
                 <div class="container p-3">
+                    <!-- Add new files to pages/documentation/ then it will be added here automatically, and sorted according to value -->
                     {% assign docPages = site.pages | where: "layout", "documentation" | sort: "index"%}
                     {% for item in docPages %}
                     <ul style="font-size: 1.1rem;">
@@ -46,7 +48,7 @@ title: Documentation
 </main>
 
 <main class="container px-3">
-
+    <!-- contact us section -->
     <p>If you have any questions, Please contact any of the developers.</p>
     <ul>
         <li> Nuwan Jaliyagoda (<a href="mailto:nuwanjaliyagoda@eng.pdn.ac.lk"> nuwanjaliyagoda@eng.pdn.ac.lk</a> | <a
