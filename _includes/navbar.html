@@ -1,11 +1,21 @@
+{%- comment -%}
+Navbar used in every page.
+Contains the logo, home staff students alumni links
+{%- endcomment -%}
 <div class="container">
     <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+        {%- comment -%}
+        logo
+        {%- endcomment -%}
         <a href="{{ '/' | relative_url }}"
             class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
             <span class="fs-4"><img src="{{ '/assets/img/header-logo.png' | relative_url }}" alt=""></span>
         </a>
 
         <ul class="nav nav-pills">
+            {%- comment -%}
+            Home
+            {%- endcomment -%}
             <li class="nav-item"><a href="{{ '/' | relative_url }}" class="nav-link">Home</a></li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown"
@@ -33,6 +43,10 @@
                     </li>
                 </ul>
             </li>
+
+            {%- comment -%}
+            students
+            {%- endcomment -%}
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown"
                     aria-expanded="false">Students</a>
@@ -45,7 +59,12 @@
                     {%- endfor -%}
                 </ul>
             </li>
+
+            {%- comment -%}
+            Alumni
+            {%- endcomment -%}
             <li class="nav-item"><a href="{{ '/alumni' | relative_url}}" class="nav-link">Alumni</a></li>
+            
             {%- comment -%}
             <li class="nav-item"><a href="{{ '/search/' | relative_url }}" class="nav-link">Search</a></li>
             <li class="nav-item"><a href="{{ '/documentation/' | relative_url }}" class="nav-link">Documentation</a>

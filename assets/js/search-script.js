@@ -185,7 +185,7 @@
         json: [],
         success: Function.prototype,
         searchResultTemplate:
-          '<li><a href="{url}" title="{desc}">{title}</a></li>',
+          '<a href="{url}" class="list-group-item list-group-item-action">{title}</a>',
         templateMiddleware: Function.prototype,
         sortMiddleware: function () {
           return 0;

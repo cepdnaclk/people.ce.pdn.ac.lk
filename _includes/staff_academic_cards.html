@@ -2,12 +2,18 @@
 Only used in pages/staff/academic_staff/index.html to generate the cards in respective tabs
 {%- endcomment -%}
 
+{%- comment -%}
+Is this for past academic staff or current
+{%- endcomment -%}
 {%- if include.past == true -%}
 {% assign profilePages = site.pages | where: "layout", "staffDetails" | where: "on_duty", false %}
 {%- else -%}
 {% assign profilePages = site.pages | where: "layout", "staffDetails" | where: "on_duty", true %}
 {%- endif -%}
 
+{%- comment -%}
+select all the staff pages according to given criteria
+{%- endcomment -%}
 {% assign folder1 = profilePages | where: {{include.filter_var}}, {{include.if_equal_to_this}} %}
 
 {% for item in folder1 %}
@@ -32,7 +38,7 @@ First render the HoD, so afterward, he will be excluded
     </div>
 </div>
 
-{% elsif item.is_hod != true  %}
+{% elsif item.is_hod != true %}
 <div class="container card text-center p-2 border-primary m-1 filter
     {{ item.designation | replace: " ", "_" | downcase }}" style="width: 13rem; "
     >

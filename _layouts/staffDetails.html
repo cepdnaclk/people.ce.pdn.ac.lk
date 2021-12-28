@@ -3,49 +3,42 @@ layout: default
 ---
 {%- comment -%}
 
+Layout used to generate a single staff profile page
+
 sample frontmatter,
 ---
 layout: staffDetails
-permalink: /staff/academic/
+permalink: /staff/academic/asitha-bandaranayake/
+title: Dr. Asitha Bandaranayake
 
-name_below_image: Dr. Eng. Kamalanath Samarakoon
-contact_number: +94 71 227 7994
-email: kamalanath@eng.pdn.ac.lk
-location: Computer Engineering, G-06
+name_below_image: Dr. Asitha Bandaranayake
+email: asithab@eng.pdn.ac.lk
+contact_number: #
+location: #
 
-text_below_name: HoD - Senior Lecturer Gr I
+text_below_name: Senior Lecturer
 
-url_image: #
+url_image: images/staff/academic_staff/asitha-bandaranayake.jpg
 url_website: #
-url_google_scholar: #
-url_researchgate: #
-url_linkedin: #
+url_google_scholar: https://scholar.google.com/citations?hl=en&user=sf6MaF4AAAAJ
+url_researchgate: https://www.researchgate.net/profile/Asitha-Bandaranayake-3
+url_linkedin: https://www.linkedin.com/in/asithab/
+url_orcid: https://orcid.org/0000-0002-9737-1574
 
-group: professors
-is_hod: true
+designation: Senior Lecturer
+is_hod: false
+on_duty: true
 
-research_interests: [ ]
+research_interests: [ 'Computer Networking', 'Wireless Networking', 'IoT', 'Artificial Intelligence', 'Bioinformatics' ]
+
 ---
 
-<ul class="nav nav-pills" id="myTab" role="tablist">
-    <li class="nav-item" role="presentation">
-        <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button"
-            role="tab" aria-controls="home" aria-selected="true">2015-2020</button>
-    </li>
-    <li class="nav-item" role="presentation">
-        <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button"
-            role="tab" aria-controls="profile" aria-selected="false">2010-2015</button>
-    </li>
-
-</ul>
-<div class="tab-content" id="myTabContent">
-    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-        .tab1..</div>
-    <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">.tab2..
-    </div>
-</div>
 {%- endcomment -%}
 
+
+{%- comment -%}
+breadcrumbs
+{%- endcomment -%}
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         <h1 class="text-white">{{page.name_below_image}}</h1>
@@ -85,6 +78,9 @@ research_interests: [ ]
             <div class="card">
                 <div class="card-body">
                     <div class="d-flex flex-column align-items-center text-center">
+                        {%- comment -%}
+                        Image
+                        {%- endcomment -%}
                         <img src="{{ page.url_image | relative_url}}" alt="Admin" class="img-fluid p-2"
                             style="border-radius: 10%" width="">
                         <div class="mt-2">

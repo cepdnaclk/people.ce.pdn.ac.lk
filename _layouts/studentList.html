@@ -2,17 +2,18 @@
 layout: default
 ---
 {%- comment -%}
-This layout is for creating the list of students in each batch
+This layout is for creating the list of students cards in each batch, has links to view profile page
 
 sameple frontmatter,
-
----START---
-
+---
 layout: studentList
-permalink: /students/e15/
+permalink: /students/e18/
 
-batch: E15
-title_in_breadcrumb: E15 Batch
+batch: E18
+title_in_breadcrumb: E18 Batch
+
+title: E18 Batch
+---
 
 {% assign folder1 = site.pages | where: "batch", page.batch | where: "studentDetails", page.layout | sort: "reg_no" %}
 {% for item in folder1 %}
@@ -29,6 +30,8 @@ title_in_breadcrumb: E15 Batch
 
 {%- endcomment -%}
 
+
+<!-- breadcrumb -->
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         <h1 class="text-white">{{page.title_in_breadcrumb}}</h1>
@@ -42,6 +45,7 @@ title_in_breadcrumb: E15 Batch
     </div>
 </main>
 
+<!-- cards -->
 <div class="container py-4 px-lg-5">
     <div class="row justify-content-center">
         {% assign profilePages = site.pages | where: "layout", "studentDetails" | where: "batch", page.batch | sort:
@@ -49,7 +53,7 @@ title_in_breadcrumb: E15 Batch
 
         {% for item in profilePages %}
         <div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">
-
+            <!-- card image -->
             {% if item.image_url %}
             <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
                 alt="{{item.student_name}}">
@@ -57,7 +61,7 @@ title_in_breadcrumb: E15 Batch
             <img src="{{ 'images/students/default.jpg' | relative_url }}" style="border-radius: 7%"
                 class="card-img-top p-1" alt="{{item.student_name}}">
             {% endif %}
-
+            <!-- card name -->
             <div class="card-body d-flex flex-column">
                 <h6 class="card-title">
                     {% if item.name_with_initials %}
@@ -66,7 +70,9 @@ title_in_breadcrumb: E15 Batch
                     {{item.preferred_long_name}}
                     {%- endif -%}
                 </h6>
+                <!-- card reg number -->
                 <p class="card-text">{{item.reg_no}}</p>
+                <!-- card button -->
                 <div class="d-flex flex-row justify-content-center mt-auto">
                     <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
                 </div>
