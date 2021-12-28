@@ -39,8 +39,13 @@ Update the JSON, _data/temporary_academic_staff.json, and it will add the profil
             alt="{{each.staff_name}}">
             <div class="card-body">
                 <h6 class="card-title">{{each.staff_name}}</h6>
-                <p class="card-text text-muted">{{each.text_below_name}} {{ leaved_date }}</p>
+                <p class="card-text text-muted">{{each.text_below_name}}</p>
+
+                {% if each.email != "" %}
+                <p class="card-text text-muted small">{{ each.email }}</p>
+                {% endif %}
             </div>
+
             {% if each.url_profile != "" %}
             <div class="d-flex flex-row justify-content-center mt-auto pb-1">
                 <a class="btn btn-sm btn-outline-primary w-75" href=" {{ each.url_profile | relative_url}}">More</a>
@@ -67,6 +72,9 @@ Update the JSON, _data/temporary_academic_staff.json, and it will add the profil
             <div class="card-body">
                 <h6 class="card-title">{{each.staff_name}}</h6>
                 <p class="card-text text-muted">{{each.text_below_name}}</p>
+                {% if each.email != "" %}
+                <p class="card-text text-muted small">{{ each.email }}</p>
+                {% endif %}
             </div>
             {% if each.url_profile != "" %}
             <div class="d-flex flex-row justify-content-center mt-auto pb-1">
