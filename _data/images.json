@@ -1,0 +1,118 @@
+{
+    "change_image_url.PNG": {
+        "width": 814,
+        "height": 876
+    },
+    "click_edit_inside_github.png": {
+        "width": 1904,
+        "height": 802
+    },
+    "click_fork.png": {
+        "width": 749,
+        "height": 766
+    },
+    "click_images.PNG": {
+        "width": 678,
+        "height": 900
+    },
+    "click_on_commit_msg.PNG": {
+        "width": 1038,
+        "height": 646
+    },
+    "click_students.PNG": {
+        "width": 814,
+        "height": 795
+    },
+    "click_your_batch.PNG": {
+        "width": 715,
+        "height": 761
+    },
+    "commit_changes.PNG": {
+        "width": 911,
+        "height": 591
+    },
+    "copy_new_file_path.PNG": {
+        "width": 844,
+        "height": 817
+    },
+    "copy_paste_text.PNG": {
+        "width": 1825,
+        "height": 864
+    },
+    "create_new_file.PNG": {
+        "width": 1875,
+        "height": 677
+    },
+    "create_pull_req.png": {
+        "width": 1848,
+        "height": 686
+    },
+    "create_pull_req2.png": {
+        "width": 1399,
+        "height": 701
+    },
+    "drag_and_drop.PNG": {
+        "width": 1777,
+        "height": 833
+    },
+    "edit_file.PNG": {
+        "width": 1817,
+        "height": 768
+    },
+    "edit_this_on_github.png": {
+        "width": 1348,
+        "height": 772
+    },
+    "file_name.PNG": {
+        "width": 1112,
+        "height": 566
+    },
+    "get_clone_url.png": {
+        "width": 1866,
+        "height": 657
+    },
+    "name_with_intials.png": {
+        "width": 1677,
+        "height": 762
+    },
+    "open_pull_request.PNG": {
+        "width": 1284,
+        "height": 781
+    },
+    "pages.PNG": {
+        "width": 856,
+        "height": 855
+    },
+    "propose_changes.png": {
+        "width": 715,
+        "height": 403
+    },
+    "propose_new_file.PNG": {
+        "width": 865,
+        "height": 661
+    },
+    "pull_req_title.PNG": {
+        "width": 1412,
+        "height": 880
+    },
+    "search_reg_no.PNG": {
+        "width": 1706,
+        "height": 553
+    },
+    "shift_right_click_open_linux.png": {
+        "width": 503,
+        "height": 670
+    },
+    "studentDetails_description.png": {
+        "width": 1643,
+        "height": 870
+    },
+    "students.PNG": {
+        "width": 825,
+        "height": 790
+    },
+    "upload_files.PNG": {
+        "width": 1260,
+        "height": 723
+    }
+}

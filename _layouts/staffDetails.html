@@ -24,7 +24,7 @@ url_linkedin: #
 group: professors
 is_hod: true
 
-research_interests: [  ]
+research_interests: [ ]
 ---
 
 <ul class="nav nav-pills" id="myTab" role="tablist">
@@ -52,14 +52,25 @@ research_interests: [  ]
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><span class="link-light">Academic Staff</span></li>
+                {% if page.on_duty %}
+                <li class="breadcrumb-item"><a href="{{ '/staff/academic/' | relative_url }}"
+                        class="link-light">Academic Staff</a></li>
+                {% else %}
+                <li class="breadcrumb-item"><a href="{{ '/staff/academic/past/' | relative_url }}"
+                        class="link-light">Past
+                        Academic Staff</a></li>
+                {% endif %}
+
+                <!-- <li class="breadcrumb-item"><a href="{{ '/staff/academic/' | relative_url }}"
+                        class="link-light">Academic Staff</a></li> -->
+                <!-- <li class="breadcrumb-item"><span class="link-light">Academic Staff</span></li> -->
 
                 {% if page.designation=="Professor" %}
-                <li class="breadcrumb-item"><a href="{{ '/staff/academic/professors/' | relative_url }}" class="link-light">Professors</a></li>
+                <li class="breadcrumb-item"><span class="link-light">Professors</span></li>
                 {% else if page.designation == "Senior Lecturer" %}
-                <li class="breadcrumb-item"><a href="{{ '/staff/academic/senior_lecturers/' | relative_url }}" class="link-light">Senior Lecturers</a></li>
+                <li class="breadcrumb-item"><span class="link-light">Senior Lecturers</span></li>
                 {% else if page.designation == "Lecturer" %}
-                <li class="breadcrumb-item"><a href="{{ '/staff/academic/lecturers/' | relative_url }}" class="link-light">Lecturers</a></li>
+                <li class="breadcrumb-item"><span class="link-light">Lecturers</span></li>
                 {% endif %}
 
                 <li class="breadcrumb-item text-white">{{page.name_below_image}}</li>
@@ -128,8 +139,8 @@ research_interests: [  ]
                     {% if page.url_orcid %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-orcid"></i> Orcid</h6>
-                        <span class="text-secondary"> <a href="{{page.url_orcid}}" target="_blank"><button
-                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_orcid}}" target="_blank"><button type="button"
+                                    class="btn btn-outline-primary btn-sm">View</button></a></span>
                     </li>
                     {% endif %}
 
