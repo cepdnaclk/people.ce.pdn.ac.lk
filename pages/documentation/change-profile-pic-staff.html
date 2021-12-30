@@ -1,11 +1,11 @@
 ---
 layout: documentation
-permalink: /documentation/change-add-student-profile-pic/
+permalink: /documentation/change-add-staff-profile-pic/
 
-question: How to change/add a new student profile image ?
-index: 120
+question: How to change/add a new staff profile image ?
+index: 130
 
-title: How to change/add a new student profile image ?
+title: How to change/add a new staff profile image ?
 ---
 
 <ol>
@@ -16,12 +16,14 @@ title: How to change/add a new student profile image ?
 
     <li>Click {% include documentation_image.html url_image='/images/docs/click_images.PNG' text='"images"' %}</li><br>
 
-    <li>Click{% include documentation_image.html url_image='/images/docs/click_students.PNG' text='"students"' %}</li>
+    <li>Click {% include documentation_image.html url_image='/images/docs/click_staff.PNG' text='"staff"' %}</li>
     <br>
 
-    <li>Click on your batch number</li><br>
+    <li>Click {% include documentation_image.html url_image='/images/docs/click_academic_staff.PNG'
+        text='"academic_staff"' %}</li><br>
 
-    <li>Click on {% include documentation_image.html url_image='/images/docs/upload_files.PNG' text='"Upload files"'
+    <li>Click on "Add file" then on {% include documentation_image.html url_image='/images/docs/upload_files.PNG'
+        text='"Upload files"'
         %}</li><br>
 
     <li>Drag and drop your files to the {% include documentation_image.html url_image='/images/docs/drag_and_drop.PNG'
@@ -48,17 +50,20 @@ title: How to change/add a new student profile image ?
     <li>Now go to the student page that you want to change the profile picture of.</li>
     <ul>
         <li>Click {% include documentation_image.html url_image='/images/docs/pages.PNG' text='pages' %}</li>
-        <li>Click {% include documentation_image.html url_image='/images/docs/students.PNG' text='students' %}</li>
-        <li>Click your batch number</li>
-        <li>Click on your registration number file name. Eg. e18568.html</li>
+        <li>Click {% include documentation_image.html url_image='/images/docs/click_pages_staff.PNG' text='staff' %}
+        </li>
+        <li>Click {% include documentation_image.html url_image='/images/docs/click_academic_staff_2.PNG'
+            text='"academic_staff"' %}</li>
+        <li>Click on the profile that you want to change the image of</li>
     </ul><br>
 
     <li>Click on{% include documentation_image.html url_image='/images/docs/edit_file.PNG' text='edit' %}</li><br>
 
-    <li>Add the end of that page, change the path of the "image_url" to the new path that was copied in step 10</li>
+    <li>Around {% include documentation_image.html url_image='/images/docs/edit_url_image_staff.PNG' text='line' %} 13
+        of the text, change the path of the "url_image" to the new path that was copied in step 10</li>
     <ul>
         <li>Example,
-            <pre><code>image_url: "images/students/e18/e18098.jpg"</code></pre>
+            <pre><code class="language-yaml">url_image: images/staff/academic_staff/damayanthi-herath.jpg</code></pre>
         </li>
     </ul><br>
 
@@ -75,7 +80,7 @@ title: How to change/add a new student profile image ?
     <li>For the {% include documentation_image.html url_image='/images/docs/pull_req_title.PNG' text='Title' %}, write
         "Update
         profile image -
-        E18456" replace 18456 with your registration number</li><br>
+        name1-name2" replace 18456 with your registration number</li><br>
 
     <li>Click {% include documentation_image.html url_image='/images/docs/create_pull_req2.png' text='"Create pull
         request"' %}
