@@ -1,4 +1,12 @@
 {
+    "below_frontmatter.PNG": {
+        "width": 1421,
+        "height": 907
+    },
+    "between_frontmatter.PNG": {
+        "width": 1233,
+        "height": 791
+    },
     "change_image_url.PNG": {
         "width": 814,
         "height": 876
@@ -63,6 +71,10 @@
         "width": 1348,
         "height": 772
     },
+    "edit_this_on_github_staff.PNG": {
+        "width": 1151,
+        "height": 776
+    },
     "file_name.PNG": {
         "width": 1112,
         "height": 566
@@ -70,6 +82,10 @@
     "get_clone_url.png": {
         "width": 1866,
         "height": 657
+    },
+    "go_to_academic_staff_page.PNG": {
+        "width": 735,
+        "height": 853
     },
     "name_with_intials.png": {
         "width": 1677,
@@ -94,6 +110,10 @@
     "pull_req_title.PNG": {
         "width": 1412,
         "height": 880
+    },
+    "right_of_profile_page.PNG": {
+        "width": 1307,
+        "height": 819
     },
     "search_reg_no.PNG": {
         "width": 1706,
