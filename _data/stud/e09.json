@@ -22,7 +22,7 @@
     "E/09/021": {
         "reg_no": "E/09/021",
         "name_with_initials": " A.L.J. Bagum",
-        "image_url": "images/students/e09/e09021.jpg"
+        "image_url": "images/students/default.jpg"
     },
     "E/09/025": {
         "reg_no": "E/09/025",
@@ -37,7 +37,7 @@
     "E/09/031": {
         "reg_no": "E/09/031",
         "name_with_initials": " A.H.F.I Banu",
-        "image_url": "images/students/e09/e09031.jpg"
+        "image_url": "images/students/default.jpg"
     },
     "E/09/035": {
         "reg_no": "E/09/035",
@@ -222,7 +222,7 @@
     "E/09/334": {
         "reg_no": "E/09/334",
         "name_with_initials": " M.R.F Shahila",
-        "image_url": "images/students/e09/e09334.jpg"
+        "image_url": "images/students/default.jpg"
     },
     "E/09/339": {
         "reg_no": "E/09/339",
@@ -247,7 +247,7 @@
     "E/09/361": {
         "reg_no": "E/09/361",
         "name_with_initials": " P. Thashmitha",
-        "image_url": "images/students/e09/e09361.jpg"
+        "image_url": "images/students/default.jpg"
     },
     "E/09/365": {
         "reg_no": "E/09/365",
