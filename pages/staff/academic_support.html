@@ -27,7 +27,7 @@ Update the JSON, _data/academic_support_staff.json, and it will add the profiles
 <div class="container py-4 px-lg-5">
     <div class="row justify-content-center">
         {%- for each in site.data.academic_support_staff -%}
-
+        {%- if each.on_duty == "true" -%}
         <div class="container card text-center p-2 border-primary m-1" style="width: 14rem;">
             <img src="{{ each.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-3"
             alt="{{each.staff_name}}">
@@ -45,7 +45,34 @@ Update the JSON, _data/academic_support_staff.json, and it will add the profiles
 
             </div>
         </div>
-
+        {%- endif -%}
         {%- endfor -%}
     </div>
+
+    <div class="row justify-content-center pt-5">
+        <h3 class="text-center">Past Temporary Academic Staff</h3>
+        <hr>
+        {%- for each in site.data.academic_support_staff -%}
+        {%- if each.on_duty == "false" -%}
+        <div class="container card text-center p-2 border-primary m-1" style="width: 14rem;">
+            <img src="{{ each.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-3"
+            alt="{{each.staff_name}}">
+            <div class="card-body">
+                <h6 class="card-title">{{each.staff_name}}</h6>
+                <p class="card-text text-muted">{{each.text_below_name}}</p>
+
+                {% if each.contact_number %}
+                <a href="tel:{{each.contact_number}}">{{each.contact_number}}</a>
+                {% endif %}
+                <br>
+                {% if each.email %}
+                <a href="mailto:{{each.email}}">{{each.email}}</a>
+                {% endif %}
+
+            </div>
+        </div>
+        {%- endif -%}
+        {%- endfor -%}
+    </div>
+
 </div>

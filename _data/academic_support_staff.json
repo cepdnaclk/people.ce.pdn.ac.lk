@@ -4,26 +4,44 @@
         "text_below_name" : "Computer Operator",
         "url_image" : "images/staff/academic_support_staff/priyangi_samaratunge.jpg",
         "contact_number" : "+94 81 2393471",
+        "on_duty": "true",
         "email" : "priyangani@eng.pdn.ac.lk"
     },
     {
-        "staff_name" : "Bandara Vasundara",
+        "staff_name" : "Bandara Wasundara",
         "text_below_name" : "Technical Officer",
         "url_image" : "images/staff/academic_support_staff/bandara.jpg",
         "contact_number" : "+94 81 2393470",
-        "email" : "bandara@eng.pdn.ac.lk"
+        "on_duty": "true",
+        "email" : "bandaraw@eng.pdn.ac.lk"
     },
     {
         "staff_name" : "Kelum Gunarathne",
         "text_below_name" : "Technical Officer",
         "url_image" : "images/staff/academic_support_staff/kelum.jpg",
         "contact_number" : "+94 81 2393470",
+        "on_duty": "true",
         "email" : "kalumg@eng.pdn.ac.lk"
     },
     {
         "staff_name" : "Hemantha Kumara",
         "text_below_name" : "Staff Assistant",
         "url_image" : "images/staff/academic_support_staff/hemantha.jpg",
-        "contact_number" : "+94 81 2393471"
+        "contact_number" : "",
+        "on_duty": "true"
+    },
+    {
+        "staff_name" : "U.B. Weebadda",
+        "text_below_name" : "Staff Assistant",
+        "url_image" : "images/staff/academic_support_staff/weebadda.jpg",
+        "contact_number" : "",
+        "on_duty": "false"
+    },
+    {
+        "staff_name" : "Sarojini Madahapola",
+        "text_below_name" : "Computer Operator",
+        "url_image" : "images/staff/academic_support_staff/sarojini.jpg",
+        "contact_number" : "",
+        "on_duty": "false"
     },
 ]
