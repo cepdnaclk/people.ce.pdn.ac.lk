@@ -6,7 +6,18 @@ This is used by the searchbox in pages/home.html
 Permalinks should be changed in sync with the link inside pages/home.html
 {%- endcomment -%}
 [
-
+  {% for post in site.pages %}
+  {%- comment -%}Add staff first so that it comes up at the top of search results{%- endcomment -%}
+    {% if post.layout == "staffDetails" %}
+      {%- comment -%}Staff profile page{%- endcomment -%}
+        {
+        "title" : "{{post.name_below_image}} ",
+        "designation" : "{{post.designation}}",
+        "email": "{{post.email}}",
+        "url" : "{{ site.baseurl }}{{ post.url }}"
+        },
+    {% endif %}
+  {% endfor %}
   {% for post in site.pages %}
       {% if post.layout == "studentDetails" %}
       {%- comment -%}Student profile page{%- endcomment -%}
@@ -18,14 +29,6 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "regNo" : "{{ post.reg_no | remove: "/"}}",
         "location" : "{{post.location}}",
         "interests" : "{{post.interests}}",
-        "url" : "{{ site.baseurl }}{{ post.url }}"
-        },
-      {% elsif post.layout == "staffDetails" %}
-      {%- comment -%}Staff profile page{%- endcomment -%}
-        {
-        "title" : "{{post.name_below_image}} ",
-        "designation" : "{{post.designation}}",
-        "email": "{{post.email}}",
         "url" : "{{ site.baseurl }}{{ post.url }}"
         },
       {% elsif post.layout == "studentsList" %}
@@ -46,6 +49,84 @@ Permalinks should be changed in sync with the link inside pages/home.html
 
   {% endfor %}
 
+  {% for post in site.data.academic_support_staff %}
+  {%- comment -%}academic support staff pages{%- endcomment -%}
+    {
+        "title" : "{{ post.staff_name }} - Academic Support Staff",
+        "url"      : "{{ '/staff/academic_support_staff/' | relative_url }}"
+    },
+  {% endfor %}
+
+  {% assign batch = site.data.stud.e02  %}
+  {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "reg_no" : "{{item[1].reg_no}}",
+        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
+        "url" : "{{ site.baseurl }}/students/e09/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e03  %}
+  {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "reg_no" : "{{item[1].reg_no}}",
+        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
+        "url" : "{{ site.baseurl }}/students/e09/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e04  %}
+  {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "reg_no" : "{{item[1].reg_no}}",
+        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
+        "url" : "{{ site.baseurl }}/students/e09/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e05  %}
+  {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "reg_no" : "{{item[1].reg_no}}",
+        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
+        "url" : "{{ site.baseurl }}/students/e09/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e06  %}
+  {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "reg_no" : "{{item[1].reg_no}}",
+        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
+        "url" : "{{ site.baseurl }}/students/e09/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e07  %}
+  {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "reg_no" : "{{item[1].reg_no}}",
+        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
+        "url" : "{{ site.baseurl }}/students/e09/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e08  %}
+  {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "reg_no" : "{{item[1].reg_no}}",
+        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
+        "url" : "{{ site.baseurl }}/students/e09/"
+      },
+  {% endfor %}
   {% assign batch = site.data.stud.e09  %}
   {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
   {% for item in batch %}
@@ -99,14 +180,6 @@ Permalinks should be changed in sync with the link inside pages/home.html
     {
         "title" : "{{ post.staff_name }} - Temporary Academic Staff",
         "url"      : "{{ '/staff/temporary_academic_staff/' | relative_url }}"
-    },
-  {% endfor %}
-
-  {% for post in site.data.academic_support_staff %}
-  {%- comment -%}academic support staff pages{%- endcomment -%}
-    {
-        "title" : "{{ post.staff_name }} - Academic Support Staff",
-        "url"      : "{{ '/staff/academic_support_staff/' | relative_url }}"
     },
   {% endfor %}
 
