@@ -1,6 +1,7 @@
 ---
 layout: null
 permalink: "/api/staff/"
+sitemap: false
 ---
 {%- assign staff_list = site.html_pages | where: "layout", "staffDetails" -%}
 {
