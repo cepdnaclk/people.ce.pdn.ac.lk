@@ -1,6 +1,7 @@
 ---
 layout: null
 permalink: "/api/students/"
+sitemap: false
 ---
 
 {%- comment -%}
