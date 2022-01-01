@@ -1,0 +1,41 @@
+---
+layout: staffDetails
+permalink: /staff/academic/amila-indika/
+title: Mr. Amila Indika
+
+name_below_image: Mr. Amila Indika
+contact_number:
+email: namilaindika@eng.pdn.ac.lk
+location: #
+
+text_below_name: Lecturer
+
+url_image: images/staff/academic_staff/amila-indika.jpg
+url_website: #
+url_google_scholar: #
+url_researchgate: #
+url_linkedin: #
+url_orcid: #
+
+designation: Lecturer
+is_hod: false
+on_duty: true
+
+research_interests: [ 'Applied Machine Learning', 'Time-series Analysis', 'Mathematics' ]
+
+---
+
+<i class="fas fa-user"></i>
+<a><b><u>BIO</u></b></a>
+
+<p>
+    Mr. Amila Indika graduated with a B.Sc. (Hons) in Computer Engineering, University of Peradeniya, Sri Lanka,
+    in 2020. He joined the Department of Computer Engineering, University of Peradeniya as a Lecturer on contract in 2021.
+</p>
+
+<a><b><u>Research Interests:</u></b></a>
+<ul>
+    {% for item in page.research_interests %}
+    <li>{{item}}</li>
+    {% endfor %}
+</ul>
