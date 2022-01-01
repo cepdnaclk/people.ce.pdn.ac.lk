@@ -25,26 +25,30 @@
     },
     {
         "title": "E08 Batch",
-        "url": "http://www.ce.pdn.ac.lk/e-08-batch"
+        "url": "/students/e08"
+    },
+    {
+        "title": "E07 Batch",
+        "url": "/students/e07"
     },
     {
         "title": "E06 Batch",
-        "url": "http://www.ce.pdn.ac.lk/e-06-batch"
+        "url": "/students/e06"
     },
     {
         "title": "E05 Batch",
-        "url": "http://www.ce.pdn.ac.lk/e-05-batch"
+        "url": "/students/e05"
     },
     {
         "title": "E04 Batch",
-        "url": "http://www.ce.pdn.ac.lk/e-04-batch"
+        "url": "/students/e04"
     },
     {
         "title": "E03 Batch",
-        "url": "http://www.ce.pdn.ac.lk/e-03-students"
+        "url": "/students/e03"
     },
     {
         "title": "E02A Batch",
-        "url": "http://www.ce.pdn.ac.lk/e-02-a-final-results"
-    },
+        "url": "/students/e02a"
+    }
 ]

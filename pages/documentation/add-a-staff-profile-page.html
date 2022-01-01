@@ -1,0 +1,150 @@
+---
+layout: documentation
+permalink: /documentation/add-staff-page/
+
+question: How to add a new staff profile page ?
+index: 150
+
+title: How to add a new staff profile page ?
+---
+
+<ol>
+    <li><a href="https://github.com/login" target="_blank">Login</a> to your GitHub account. If you don't have an
+        account. Please <a href="https://github.com/signup" target="_blank">sign up</a>.</li><br>
+
+    <li>Go to <a href='https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/pages/staff/academic_staff'
+            target="_blank">this</a> link. </li><br>
+
+    <li>Click "Add file" then click {% include documentation_image.html
+        url_image='/images/docs/add_file_then_new_file.PNG' text='"Create new file"' %}</li><br>
+
+    <li>Write the file name (in 'name1-name2.html' format) in the given {% include documentation_image.html
+        url_image='/images/docs/staff_page_html_name.PNG' text='textbox' %} </li><br>
+
+    <li>Copy and paste the below template to the {% include documentation_image.html
+        url_image='/images/docs/copy_paste_template_staff.PNG' text='content' %} below the file name</li>
+    <pre><code>---
+layout: staffDetails
+permalink: /staff/academic/name1-name2/
+title: Mr. Name1 Name2
+
+name_below_image: Mr. Name1 Name2
+email: name1name2@somesite.com
+contact_number: +94 12 3456789
+location: 25th floor CE
+
+text_below_name: Senior Lecturer
+
+url_image: images/staff/academic_staff/default.jpg
+url_website: https://some.example.site
+url_google_scholar: #
+url_researchgate: #
+url_linkedin: #
+url_orcid: #
+
+designation: Senior Lecturer
+is_hod: false
+on_duty: true
+
+research_interests: ['interest1','interest2']
+---
+</code></pre>
+    <li>Edit these variables,</li>
+    <div class="col-lg-5 col-md-12">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Variable</th>
+                    <th scope="col">Description</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">layout</th>
+                    <td>Used internally. Do not change.</td>
+                </tr>
+                <tr>
+                    <th scope="row">permalink</th>
+                    <td>This is the link of the profile page. Change name1-name2 into the persons name. No spaces
+                        allowed and it should end with "/". </td>
+                </tr>
+                <tr>
+                    <th scope="row">title</th>
+                    <td>The title of the webpage</td>
+                </tr>
+                <tr>
+                    <th scope="row">name_below_image</th>
+                    <td>Name of the person</td>
+                </tr>
+                <tr>
+                    <th scope="row">contact_number</th>
+                    <td>Contact number of the person</td>
+                </tr>
+                <tr>
+                    <th scope="row">email</th>
+                    <td>Email address of the person</td>
+                </tr>
+                <tr>
+                    <th scope="row">location</th>
+                    <td>Location of the person inside the faculty</td>
+                </tr>
+                <tr>
+                    <th scope="row">text_below_name</th>
+                    <td>Text that will be shown below the name</td>
+                </tr>
+                <tr>
+                    <th scope="row">url_image</th>
+                    <td>Path to the image of the person in the gihub repo. This wil be updated later. Skip this
+                        for now.</td>
+                </tr>
+                <tr>
+                    <th scope="row">url_*site*</th>
+                    <td>URL of the profile pages in other *sites*</td>
+                </tr>
+                <tr>
+                    <th scope="row">designation</th>
+                    <td>Designation of the person. This is used to group the profiles in academic staff listing page.
+                        Only "Professor", "Senior Lecturer" and "Lecturer" are valid</td>
+                </tr>
+                <tr>
+                    <th scope="row">is_hod</th>
+                    <td>Used to determine if this is the Head of the Department. Only valid entries are "true" and
+                        "false"</td>
+                </tr>
+                <tr>
+                    <th scope="row">on_duty</th>
+                    <td>Is this person on duty ? Only valid entries are "true" and "false" </td>
+                </tr>
+                <tr>
+                    <th scope="row">research_interests</th>
+                    <td>Research interests of the person. Must be written as an array similar to a python list. Eg:
+                        ["interest1","interest2"]</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <li>Make your changes to the text {% include documentation_image.html url_image='/images/docs/below_frontmatter.PNG'
+        text='below' %} the second "---". This must be written in HTML and will be displayed to the
+        {% include documentation_image.html url_image='/images/docs/right_of_profile_page.PNG' text='right' %} of the
+        image in profile page</li>
+    <br>
+
+    <li>Scroll down then click "Propose Changes" {% include documentation_image.html
+        url_image='/images/docs/propose_changes.png' text='button' %}.</li><br>
+
+    <li>Click "Create Pull Request" {% include documentation_image.html url_image='/images/docs/create_pull_req.png'
+        text='button'%}.</li><br>
+
+    <li>Click "Create Pull Request" {% include documentation_image.html url_image='/images/docs/create_pull_req2.png'
+        text='button'%} again.
+    </li><br>
+
+    <li>Now an admin will approve these changes within 48hrs.</li><br>
+
+    <li>After its is approved. Follow <a
+            href="{{ '/documentation/change-add-staff-profile-pic/' | relative_url }}">these</a> instructions to
+        add
+        the profile image</li>
+</ol>
