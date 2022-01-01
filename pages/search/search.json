@@ -57,7 +57,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
     },
   {% endfor %}
 
-  {% assign batch = site.data.stud.e02  %}
+  {% assign batch = site.data.stud.e13  %}
   {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
   {% for item in batch %}
       {
@@ -67,7 +67,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "url" : "{{ site.baseurl }}/students/e09/"
       },
   {% endfor %}
-  {% assign batch = site.data.stud.e03  %}
+  {% assign batch = site.data.stud.e12  %}
   {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
   {% for item in batch %}
       {
@@ -77,7 +77,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "url" : "{{ site.baseurl }}/students/e09/"
       },
   {% endfor %}
-  {% assign batch = site.data.stud.e04  %}
+  {% assign batch = site.data.stud.e11  %}
   {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
   {% for item in batch %}
       {
@@ -87,37 +87,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "url" : "{{ site.baseurl }}/students/e09/"
       },
   {% endfor %}
-  {% assign batch = site.data.stud.e05  %}
-  {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
-  {% for item in batch %}
-      {
-        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
-        "reg_no" : "{{item[1].reg_no}}",
-        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
-        "url" : "{{ site.baseurl }}/students/e09/"
-      },
-  {% endfor %}
-  {% assign batch = site.data.stud.e06  %}
-  {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
-  {% for item in batch %}
-      {
-        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
-        "reg_no" : "{{item[1].reg_no}}",
-        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
-        "url" : "{{ site.baseurl }}/students/e09/"
-      },
-  {% endfor %}
-  {% assign batch = site.data.stud.e07  %}
-  {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
-  {% for item in batch %}
-      {
-        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
-        "reg_no" : "{{item[1].reg_no}}",
-        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
-        "url" : "{{ site.baseurl }}/students/e09/"
-      },
-  {% endfor %}
-  {% assign batch = site.data.stud.e08  %}
+  {% assign batch = site.data.stud.e10  %}
   {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
   {% for item in batch %}
       {
@@ -137,7 +107,37 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "url" : "{{ site.baseurl }}/students/e09/"
       },
   {% endfor %}
-  {% assign batch = site.data.stud.e10  %}
+  {% assign batch = site.data.stud.e08  %}
+  {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "reg_no" : "{{item[1].reg_no}}",
+        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
+        "url" : "{{ site.baseurl }}/students/e09/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e07  %}
+  {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "reg_no" : "{{item[1].reg_no}}",
+        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
+        "url" : "{{ site.baseurl }}/students/e09/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e06  %}
+  {%- comment -%}Alumni pages that does not have studnent profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "reg_no" : "{{item[1].reg_no}}",
+        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
+        "url" : "{{ site.baseurl }}/students/e09/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e05  %}
   {% for item in batch %}
       {
         "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
@@ -146,7 +146,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "url" : "{{ site.baseurl }}/students/e10/"
       },
   {% endfor %}
-  {% assign batch = site.data.stud.e11  %}
+  {% assign batch = site.data.stud.e04  %}
   {% for item in batch %}
       {
         "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
@@ -155,7 +155,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "url" : "{{ site.baseurl }}/students/e11/"
       },
   {% endfor %}
-  {% assign batch = site.data.stud.e12  %}
+  {% assign batch = site.data.stud.e03  %}
   {% for item in batch %}
       {
         "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
@@ -164,7 +164,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "url" : "{{ site.baseurl }}/students/e12/"
       },
   {% endfor %}
-  {% assign batch = site.data.stud.e13  %}
+  {% assign batch = site.data.stud.e02  %}
   {% for item in batch %}
       {
         "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
