@@ -32,6 +32,7 @@ URL_RESEARCHGATE = 16
 URL_TWITTER = 17
 INTERESTS = 18
 URL_IMAGE = 19
+REG_NO = 20
 
 if __name__ == "__main__":
     for eachLine in googleFromCSV:
@@ -41,10 +42,10 @@ if __name__ == "__main__":
             # if there is no data in this line or this is the header line
             continue
 
-        print("Processing: " + studentData[EMAIL])
+        print("Processing: " + studentData[REG_NO])
         # get batch and regNo
-        batch = studentData[EMAIL][1:3]  # 18
-        regNo = studentData[EMAIL][3:6]  # 098
+        batch = studentData[REG_NO][2:4]  # 18
+        regNo = studentData[REG_NO][5:].strip()  # 098
 
         permalink = f"/students/e{batch}/{regNo}"
 
