@@ -83,7 +83,7 @@ reg_no: E/{batch}/{regNo}
 batch: E{batch}
 
 department: {deparment}
-current_affiliation: Department of Computer Engineering, University of Peradeniya
+current_affiliation: {studentData[DEPARTMENT]}, University of Peradeniya
 
 full_name: {studentData[FULL_NAME]}
 name_with_initials: {studentData[NAME_WITH_INITIALS]}
