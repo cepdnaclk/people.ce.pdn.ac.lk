@@ -58,19 +58,12 @@ if __name__ == "__main__":
         elif studentData[DEPARTMENT] == "Department of Manufacturing & Industrial Engineering":
             department = "Manufacturing"
 
-        # current affiliation
-        current_affiliation = "Department of Computer Engineering, University of Peradeniya"
 
         # interests
         interests = ",".join(studentData[INTERESTS].split(";"))
 
         # image
         image_path = f"images/students/e{batch}/e{batch}{regNo}.jpg"
-        try:  # delete if image exists
-            os.remove("../"+image_url)
-            print("Existing image deleted")
-        except:
-            pass
         gdown.download("https://drive.google.com/uc?id=" +
                        studentData[URL_IMAGE].split("=")[1], "../"+image_path, quiet=False)
 
