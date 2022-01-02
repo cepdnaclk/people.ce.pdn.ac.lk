@@ -1,10 +1,11 @@
 # Update student profile pictures using the data taken from Google Form
+# Form URL - https://forms.gle/s2otrv1ifh7kQ3oD9 Owned by: e18098@eng.pdn.ac.lk
 
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 
 import requests
 import os
-import gdown # pip install gdown
+import gdown  # pip install gdown
 
 googleFromCSV = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRItS_wC2tPxeUxXgI_C-5a5HCn4_sFFTRnG1MVnQgnWIy126Afa2e1oKt-_Z5HO17zq2tHoqwDLQVb/pub?output=csv"
 googleFromCSV = requests.get(googleFromCSV, headers={
@@ -69,8 +70,8 @@ if __name__ == "__main__":
             print("Existing image deleted")
         except:
             pass
-        # TODO: implement image downloading
-        gdown.download("https://drive.google.com/uc?id="+studentData[URL_IMAGE].split("=")[1], "../"+image_path, quiet=False)
+        gdown.download("https://drive.google.com/uc?id=" +
+                       studentData[URL_IMAGE].split("=")[1], "../"+image_path, quiet=False)
 
         outputString = f"""---
 layout: studentDetails
