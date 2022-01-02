@@ -249,9 +249,8 @@ breadcrumb
                             <span class="mb-0" style="font-weight: 500">Email</span>
                         </div>
                         <div class="col-sm-9 text-secondary">
-                            {%- if page.email_personal -%}<a>{{page.email_personal}}</a><br>{%- endif -%}
-                            {%- if page.email_faculty -%}<a
-                                href="mailto:{{page.email_faculty}}">{{page.email_faculty}}</a>{%- endif -%}
+                            {%- if page.email_faculty -%}{{page.email_faculty}}<br>{%- endif -%}
+                            {%- if page.email_personal -%}{{page.email_personal}}{%- endif -%}
                         </div>
                     </div>
 
