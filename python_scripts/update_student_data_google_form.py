@@ -70,7 +70,8 @@ if __name__ == "__main__":
         # image
         image_path = f"images/students/e{batch}/e{batch}{regNo}.jpg"
         print(f"Downloading image to {image_path}")
-        gdown.download("https://drive.google.com/uc?id=" +
+        if studentData[URL_IMAGE] != "":
+            gdown.download("https://drive.google.com/uc?id=" +
                        studentData[URL_IMAGE].split("=")[1], "../"+image_path, quiet=True)
 
         # add # to all empty fields
@@ -118,3 +119,6 @@ image_url: {image_path}
             "../"+f"pages/students/e{batch}/e{batch}{regNo}.html", "w")
         htmlFile.write(outputString)
         htmlFile.close()
+
+
+import student_profile_page_titles
