@@ -69,10 +69,14 @@ if __name__ == "__main__":
 
         # image
         image_path = f"images/students/e{batch}/e{batch}{regNo}.jpg"
-        print(f"Downloading image to {image_path}")
         if studentData[URL_IMAGE] != "":
+            print(f"Downloading image to {image_path}")
             gdown.download("https://drive.google.com/uc?id=" +
-                       studentData[URL_IMAGE].split("=")[1], "../"+image_path, quiet=True)
+                           studentData[URL_IMAGE].split("=")[1].strip(), "../"+image_path, quiet=True)
+            # os.system(
+            #     f"wget https://drive.google.com/uc?id={studentData[URL_IMAGE].split('=')[1].strip()} -O ../{image_path}")
+        else:
+            print("Image not specified")
 
         # add # to all empty fields
         for i in range(0, URL_IMAGE+1):
@@ -120,5 +124,4 @@ image_url: {image_path}
         htmlFile.write(outputString)
         htmlFile.close()
 
-
-import student_profile_page_titles
+        print("-------------")
