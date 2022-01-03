@@ -1,5 +1,5 @@
 # Update student profile pictures using the data taken from Google Form
-# Form URL - https://forms.gle/s2otrv1ifh7kQ3oD9 Owned by: e18098@eng.pdn.ac.lk
+# Form URL - https://forms.gle/eor3v3nuf1752DGn7 Owned by: e18098@eng.pdn.ac.lk
 
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 
@@ -7,32 +7,32 @@ import requests
 import os
 import gdown  # pip install gdown
 
-googleFromCSV = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRItS_wC2tPxeUxXgI_C-5a5HCn4_sFFTRnG1MVnQgnWIy126Afa2e1oKt-_Z5HO17zq2tHoqwDLQVb/pub?output=csv"
+googleFromCSV = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSFydisugm8TssaGPMhfqq0rS25mADtYUOxIlWc7cg_xvW8XRZAjl0d4G0I7DaC24939qepVBH-EzHX/pub?output=csv"
 googleFromCSV = requests.get(googleFromCSV, headers={
                              'Cache-Control': 'no-cache'}).text.split("\n")
 
 # Index of the CSV parameters
 TIMESTAMP = 0
 EMAIL = 1
-DEPARTMENT = 2
-FULL_NAME = 3
-NAME_WITH_INITIALS = 4
-PREFERRED_SHORT_NAME = 5
-PREFERRED_LONG_NAME = 6
-HONORIFIC = 7
-FACULTY_EMAIL = 8
-PERSONAL_EMAIL = 9
-LOCATION = 10
-URL_CV = 11
-URL_PERSONAL = 12
-URL_LINKEDIN = 13
-URL_GITHUB = 14
-URL_FB = 15
-URL_RESEARCHGATE = 16
-URL_TWITTER = 17
-INTERESTS = 18
-URL_IMAGE = 19
-REG_NO = 20
+REG_NO = 2
+DEPARTMENT = 3
+FULL_NAME = 4
+NAME_WITH_INITIALS = 5
+PREFERRED_SHORT_NAME = 6
+PREFERRED_LONG_NAME = 7
+HONORIFIC = 8
+FACULTY_EMAIL = 9
+PERSONAL_EMAIL = 10
+LOCATION = 11
+URL_CV = 12
+URL_PERSONAL = 13
+URL_LINKEDIN = 14
+URL_GITHUB = 15
+URL_FB = 16
+URL_RESEARCHGATE = 17
+URL_TWITTER = 18
+INTERESTS = 19
+URL_IMAGE = 20
 
 if __name__ == "__main__":
     for eachLine in googleFromCSV:
@@ -57,7 +57,6 @@ if __name__ == "__main__":
             deparment = "Mechanical"
         elif studentData[DEPARTMENT] == "Department of Manufacturing & Industrial Engineering":
             department = "Manufacturing"
-
 
         # interests
         interests = ",".join(studentData[INTERESTS].split(";"))
