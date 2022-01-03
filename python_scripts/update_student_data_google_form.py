@@ -38,6 +38,10 @@ if __name__ == "__main__":
     for eachLine in googleFromCSV:
         studentData = eachLine.split(",")
 
+        if len(studentData) != 21:
+            print("Splitted csv is longer than it should be!")
+            quit()
+
         if ":" not in studentData[0]:
             # if there is no data in this line or this is the header line
             continue
@@ -60,11 +64,19 @@ if __name__ == "__main__":
 
         # interests
         interests = ",".join(studentData[INTERESTS].split(";"))
+        # location
+        location = ",".join(studentData[LOCATION].split(";"))
 
         # image
         image_path = f"images/students/e{batch}/e{batch}{regNo}.jpg"
+        print(f"Downloading image to {image_path}")
         gdown.download("https://drive.google.com/uc?id=" +
-                       studentData[URL_IMAGE].split("=")[1], "../"+image_path, quiet=False)
+                       studentData[URL_IMAGE].split("=")[1], "../"+image_path, quiet=True)
+
+        # add # to all empty fields
+        for i in range(0, URL_IMAGE+1):
+            if studentData[i] == "":
+                studentData[i] = "#"
 
         outputString = f"""---
 layout: studentDetails
@@ -86,7 +98,7 @@ honorific: {studentData[HONORIFIC]}
 email_faculty: {studentData[FACULTY_EMAIL]}
 email_personal: {studentData[PERSONAL_EMAIL]}
 
-location: {studentData[LOCATION]}
+location: {location}
 
 url_cv: {studentData[URL_CV]}
 url_website: {studentData[URL_PERSONAL]}
