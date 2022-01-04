@@ -101,7 +101,7 @@ title: Abeywickrama A.K.D.A.S.
 reg_no: E/18/{int(regNo):03d}
 batch: E18
 
-department: Mechatronics
+department: Mechanical
 current_affiliation: Department of Mechanical Engineering, University of Peradeniya
 
 full_name: {regNoNameDICT[each].title()}

@@ -48,9 +48,47 @@ title: E18 Batch
 <!-- cards -->
 <div class="container py-4 px-lg-5">
     <div class="row justify-content-center">
-        {% assign profilePages = site.pages | where: "layout", "studentDetails" | where: "batch", page.batch | sort:
+        <!-- Computer Students -->
+        {% assign profilePages = site.pages | where: "layout", "studentDetails" | where: "batch", page.batch | where:
+        "department", "Computer" |sort:
         "reg_no"%}
 
+        {% for item in profilePages %}
+        <div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">
+            <!-- card image -->
+            {% if item.image_url %}
+            <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
+                alt="{{item.student_name}}">
+            {% else %}
+            <img src="{{ 'images/students/default.jpg' | relative_url }}" style="border-radius: 7%"
+                class="card-img-top p-1" alt="{{item.student_name}}">
+            {% endif %}
+            <!-- card name -->
+            <div class="card-body d-flex flex-column">
+                <h6 class="card-title">
+                    {% if item.name_with_initials %}
+                    {{item.name_with_initials}}
+                    {% else if item.preferred_long_name %}
+                    {{item.preferred_long_name}}
+                    {%- endif -%}
+                </h6>
+                <!-- card reg number -->
+                <p class="card-text">{{item.reg_no}}</p>
+                <!-- card button -->
+                <div class="d-flex flex-row justify-content-center mt-auto">
+                    <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+
+        <!-- Mechanical Students -->
+        <h3 class="text-center pt-3">External Students - Department of Mechanical Engineering</h3>
+        <hr>
+
+        {% assign profilePages = site.pages | where: "layout", "studentDetails" | where: "batch", page.batch | where:
+        "department", "Mechanical" |sort:
+        "reg_no"%}
         {% for item in profilePages %}
         <div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">
             <!-- card image -->
