@@ -21,3 +21,4 @@ ehthumbs.db
 Thumbs.db
 
 personalNotes.txt
+*.pyc

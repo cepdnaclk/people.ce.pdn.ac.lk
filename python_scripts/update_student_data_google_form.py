@@ -6,6 +6,7 @@
 import requests
 import os
 import gdown  # pip install gdown
+import student_profile_page_titles
 
 googleFromCSV = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSFydisugm8TssaGPMhfqq0rS25mADtYUOxIlWc7cg_xvW8XRZAjl0d4G0I7DaC24939qepVBH-EzHX/pub?output=csv"
 googleFromCSV = requests.get(googleFromCSV, headers={
@@ -125,3 +126,5 @@ image_url: {image_path}
         htmlFile.close()
 
         print("-------------")
+print("Updating student page titles")
+student_profile_page_titles.run()
