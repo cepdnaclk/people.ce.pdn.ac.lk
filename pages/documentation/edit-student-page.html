@@ -16,11 +16,13 @@ There are 2 methods of edit a student profile page.
             Form.</li>
         <li>E14 and above, use this <a href="{{ '/form/student/' | relative_url }}">form.</a></li>
         <li>E13 and below, use this <a href="{{ '/form/alumni/' | relative_url }}">form.</a></li>
+        <li>Cannot add custom HTML to the page using google form</li>
         <li>Note: Do not update using Pull Requests if you fill the google form.</li>
     </ul>
     <li>Update using GitHub Pull Request</li>
     <ul>
         <li>Easier if you are familiar with pull requests and you want to make a small change.</li>
+        <li>To add custom HTML to the page, use this method.</li>
         <li>Follow the steps below to update using pull request</li>
     </ul>
 </ol>
@@ -123,7 +125,7 @@ There are 2 methods of edit a student profile page.
                     </tr>
                     <tr>
                         <th scope="row">email_personal</th>
-                        <td>Your personal email address</td>
+                        <td>Your personal email address. This is optional.</td>
                     </tr>
                     <tr>
                         <th scope="row">location</th>
@@ -212,6 +214,8 @@ image_url: "images/students/e18/e18098.jpg"
 </code></pre>
 
     </li><br>
+    <li>To Add custom HTML to the page. Write the HTML content {% include documentation_image.html
+        url_image='/images/docs/add_custom_html.PNG' text='below' %} the triple dashes ("---") at the bottom.</li><br>
 
     <li>Scroll down then click "Propose Changes" {% include documentation_image.html
         url_image='/images/docs/propose_changes.png' text='button' %}.</li><br>
