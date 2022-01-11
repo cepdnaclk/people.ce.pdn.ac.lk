@@ -7,7 +7,7 @@ This is the footer used in every page
         {%- comment -%}
         copyright text
         {%- endcomment -%}
-        <p class="col-md-7 mb-1 text-muted" style="font-size:80%;">&copy; COPYRIGHT 2021 DEPARTMENT OF COMPUTER
+        <p class="col-md-6 mb-1 text-muted" style="font-size:80%;">&copy; COPYRIGHT 2021 DEPARTMENT OF COMPUTER
             ENGINEERING, UOP </p>
         <p class="text-xl-left text-muted" style="font-size:80%;">
 
@@ -47,6 +47,18 @@ This is the footer used in every page
             <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/_data/past_heads_of_dep.json"
                 rel="noreferrer" target="_blank">
                 <i class="fab fa-github"></i> Edit this page on GitHub</a> |
+            {% endif %}
+
+            {%- comment -%}
+            Google form links to update page
+            {%- endcomment -%}
+            {% if page.layout == "studentDetails" %}
+            <a href="{{ '/form/student/' | relative_url }}" rel="noreferrer" target="_blank">
+                Update this info by Google Form </a> |
+            {% endif %}
+            {% if page.layout == "studentList_no_prof_link" %}
+            <a href="{{ '/form/alumni/' | relative_url }}" rel="noreferrer" target="_blank">
+                Update your info by Google Form </a> |
             {% endif %}
 
 
