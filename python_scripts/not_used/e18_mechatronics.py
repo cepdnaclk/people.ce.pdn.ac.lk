@@ -1,3 +1,4 @@
+## Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 import urllib.request
 co224All = """E/18/009 ABEYWEERA P.S. MISS	Student	No groups	20 mins 36 secs
 E/18/010 ABEYWICKRAMA A.K.D.A.S. MISS	Student	No groups	7 hours 53 mins

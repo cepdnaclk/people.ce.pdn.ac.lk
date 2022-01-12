@@ -1,3 +1,4 @@
+## Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 input = """E/02A/002		P.A.C. Abeywicrama		2nd class honours (Upper)
 E/02A/004		B.A.S.P. Abeysekara		2nd class honours (Lower)
 E/02A/006		M.S.A. Ahamed		1st class honours

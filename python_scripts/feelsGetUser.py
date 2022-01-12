@@ -1,4 +1,5 @@
 # get all users from FEeLS
+# you need to copy the cookie value in order for this to wrok
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 
 import requests
@@ -14,7 +15,7 @@ s.headers.update({
 r = s.get(url)
 # add your cookie here
 s.cookies['MoodleSessionfeels'] = '######Login and copy your cookie here########'
-for x in range(3000, 5000):
+for x in range(0, 10000):
     url = f'https://feels.pdn.ac.lk/user/profile.php?id={x}'
     r = s.get(url, headers={'X-Requested-With': 'XMLHttpRequest'})
     text = r.text
