@@ -2,55 +2,54 @@
 layout: documentation
 permalink: /documentation/add-student-page/
 
-question: How to add a new student profile page ?
+question: How to add a new Student Profile page?
 index: 140
 
-title: How to add a new student profile page ?
+title: How to add a new Student Profile page?
 ---
-There are 2 methods of add a new student profile page.
+
+There are 2 methods of adding a new Student Profile page.
 <ol>
-        <li>Update using the Google Form</li>
-        <ul>
-                <li>This is the easiest method to add a new profile page.</li>
-                <li>E14 and above, use this <a href="{{ '/form/student/' | relative_url }}">form.</a></li>
-                <li>E13 and below, use this <a href="{{ '/form/alumni/' | relative_url }}">form.</a></li>
-                <li>Note: Do not update using Pull Requests if you fill the google form.</li>
-        </ul>
-        <li>Update using GitHub Pull Request</li>
-        <ul>
-                <li>This method is comparatively harder.</li>
-                <li>Follow the steps below to add a new profile page using pull request</li>
-        </ul>
+    <li>Update using the <i>Google Form</i></li>
+    <ul>
+        <li>This is the easiest method to add a new profile page.</li>
+        <li>The batches, E14 and after, use this <a href="{{ '/form/student/' | relative_url }}">Form.</a></li>
+        <li>For previous batches, use this <a href="{{ '/form/alumni/' | relative_url }}">Form.</a></li>
+    </ul>
+    <ul>
+        <b>Note:</b>
+        <li> Do not update using Pull Requests if you already fill the <i>Google Form</i>.</li>
+    </ul>
+    <li>Update using <i>GitHub Pull Request</i></li>
+    <ul>
+        <li>This method is comparatively harder.</li>
+        <li>Follow the steps below to add a new profile page using <i>Pull Request</i></li>
+    </ul>
 </ol>
-<h5>Update using GitHub Pull Request</h5>
+<h5>Update using <i>GitHub Pull Request</i></h5>
 <ol>
-        <li><a href="https://github.com/login" target="_blank">Login</a> to your GitHub account. If you don't have an
-                account. Please <a href="https://github.com/signup" target="_blank">sign up</a>.</li><br>
+    <li><a href="https://github.com/login" target="_blank">Login</a> to your GitHub account. If you don't have an account. Please <a href="https://github.com/signup" target="_blank">Sign up</a>.</li><br>
 
-        <li>Go to <a href="{{'https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/pages/students'}}"
-                        target="_blank">this</a> link. </li><br>
+    <li>Go to <a href="{{'https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/pages/students'}}" target="_blank">this</a> link. </li><br>
 
-        <li>Select your {% include documentation_image.html url_image='/images/docs/click_your_batch.PNG'
-                text='batch'%}.
+    <li>Select your {% include documentation_image.html url_image='/images/docs/click_your_batch.PNG' text='batch'%}.
+    </li>
+    <br>
+
+    <li>Click "Add File" then {% include documentation_image.html url_image='/images/docs/create_new_file.PNG' text='"Create new File""' %}.
+    </li><br>
+
+    <li>Write the file name in the given textbox.</li>
+    <ul>
+        <li>It should be in "e18596.html" format. Please replace "18596" with your registration number.
         </li>
-        <br>
+        <li>{% include documentation_image.html url_image='/images/docs/file_name.PNG' text='Example' %}</li>
+    </ul>
+    <br>
 
-        <li>Click "Add File" then {% include documentation_image.html url_image='/images/docs/create_new_file.PNG'
-                text='"Create new File""' %}.
-        </li><br>
-
-        <li>Write the file name in the given textbox.</li>
-        <ul>
-                <li>It should be in "e18596.html" format. Please replace "18596" with your registration number.
-                </li>
-                <li>{% include documentation_image.html url_image='/images/docs/file_name.PNG' text='Example'
-                        %}</li>
-        </ul><br>
-
-        <li>Copy and paste the code below into the {% include documentation_image.html
-                url_image='/images/docs/copy_paste_text.PNG' text='textbox'%} in the opened
-                webpage</li>
-        <pre><code>---
+    <li>Copy and paste the code below into the {% include documentation_image.html url_image='/images/docs/copy_paste_text.PNG' text='textbox'%} in the opened webpage</li>
+    <br>
+    <pre><code>---
 layout: studentDetails
 permalink: "/students/e18/596/"
 title: #
@@ -84,37 +83,28 @@ interests: #
 
 image_url: "images/students/default.jpg"
 ---
-</code></pre>
-        <li>Edit the following lines</li>
-        <ul>
-                <li> permalink: Replace 18 with your batch number, and 596 with your reg number. The result should look
-                        like if
-                        you are E/14/154,
-                        <pre><code>permalink: "/students/e14/154/"</code></pre>
-                </li>
-                <li>reg_no: Type your registration number in the given format</li>
-                <li>batch: Type your batch number in the given format</li>
-                <li>from "full_name:" to "projects_done:" please read step 4 of <a
-                                href="{{ '/documentation/edit-student-page/' | relative_url }}" target="_blank">this</a>
-                        documentation
-                </li>
-                <li>Do not change "image_url:" for now. It will be done later.</li>
-        </ul><br>
+    </code></pre>
 
-        <li>Click "Propose new file" at the {% include documentation_image.html
-                url_image='/images/docs/propose_new_file.PNG' text='end' %} of the
-                page.</li><br>
+    <li>Edit the following lines</li>
+    <ul>
+        <li> permalink: Replace 18 with your batch number, and 596 with your reg number. The result should look like if you are E/14/154,
+            <pre><code>permalink: "/students/e14/154/"</code></pre>
+        </li>
+        <li>reg_no: Type your registration number in the given format</li>
+        <li>batch: Type your batch number in the given format</li>
+        <li>from "full_name:" to "projects_done:" please read step 4 of <a href="{{ '/documentation/edit-student-page/' | relative_url }}" target="_blank">this</a> documentation
+        </li>
+        <li>Do not change "image_url:" for now. It will be done later.</li>
+    </ul><br>
 
-        <li>Click "Create pull request" {% include documentation_image.html url_image='/images/docs/create_pull_req.png'
-                text='button'%}</li><br>
-        <li>Click "Create pull request" {% include documentation_image.html
-                url_image='/images/docs/create_pull_req2.png' text='button'%} again
-        </li><br>
+    <li>Click the "Propose new file" at the {% include documentation_image.html url_image='/images/docs/propose_new_file.PNG' text='end' %} of the page.</li><br>
 
-        <li>Now an admin will approve these changes within 48hrs.</li><br>
+    <li>Click the "Create pull request" {% include documentation_image.html url_image='/images/docs/create_pull_req.png' text='button'%}</li><br>
 
-        <li>After it its approved, Please go to <a href="{{'/documentation/change-add-student-profile-pic/
-'|relative_url}}">this</a>
-                page to add your profile picture.</li>
+    <li>Click the "Create pull request" {% include documentation_image.html url_image='/images/docs/create_pull_req2.png' text='button'%} again </li><br>
+
+    <li>Now an admin/a maintainer will approve these changes within 48hrs.</li><br>
+
+    <li>After it its approved, Please follow <a href="{{'/documentation/change-add-student-profile pic/'|relative_url}}">these</a> instructions to add your profile picture.</li>
 
 </ol>

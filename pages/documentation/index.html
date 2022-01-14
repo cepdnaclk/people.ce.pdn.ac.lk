@@ -35,35 +35,48 @@ title: Documentation
             <div class="col-md-10 col-sm-12 col-lg-8">
                 <div class="container p-3">
                     <!-- Add new files to pages/documentation/ then it will be added here automatically, and sorted according to value -->
-                    {% assign docPages = site.pages | where: "layout", "documentation" | sort: "index"%}
-                    {% for item in docPages %}
+                    <!-- {% assign docPages = site.pages | where: "layout", "documentation" | sort: "index"%} -->
+                    <!-- {% for item in docPages %} -->
+                    <!-- <ul style="font-size: 1.1rem;"> -->
+                    <!-- <li><a href="{{item.permalink | relative_url}}">{{item.question}}</a></li> -->
+                    <!-- </ul> -->
+                    <!-- {% endfor %} -->
+
+                    <h3>Student Profile Pages</h3>
                     <ul style="font-size: 1.1rem;">
-                        <li><a href="{{item.permalink | relative_url}}">{{item.question}}</a></li>
+                        <li><a href="./add-student-page/">How to add a new Student Profile page ?</a></li>
+                        <li><a href="./edit-student-page/">How to edit a Student Profile page ?</a></li>
+                        <li><a href="./change-add-student-profile-pic/">How to add/change a Student Profile image ?</a></li>
                     </ul>
-                    {% endfor %}
+                    <br>
+
+                    <h3>Staff Profile Pages</h3>
+                    <ul style="font-size: 1.1rem;">
+                        <li><a href="./add-academic-staff-page/">How to add a new Academic Staff Profile page ?</a></li>
+                        <li><a href="./edit-academic-staff-page/">How to edit an Academic Staff Profile page ?</a></li>
+                        <li><a href="./change-add-staff-profile-pic/">How to add/change an Academic Staff Profile image ?</a></li>
+                    </ul>
+
+                    <ul style="font-size: 1.1rem;">
+                        <li><a href="./update-temporary-academic-staff/">How to update Temporary Academic Support Staff page ?</a></li>
+                        <li><a href="./update-academic-support-staff/">How to update Academic Support Staff page ?</a></li>
+                    </ul>
+                </div>
+
+                <div class="container">
+                    <!-- contact us section -->
+                    <p>If you have any questions, Please contact any of the developers.</p>
+                    <ul style="font-size: 1rem;">
+                        <li> Nuwan Jaliyagoda (nuwanjaliyagoda@eng.pdn.ac.lk | <a href="{{ '/students/e15/140/' | relative_url}}">more info</a>)</li>
+
+                        <li> Akila Karunanayake (e17154@eng.pdn.ac.lk | <a href="{{ '/students/e17/154/' | relative_url }}">more info</a>)</li>
+
+                        <li> Ishan Fernando (e18098@eng.pdn.ac.lk | <a href="{{ '/students/e18/098/' | relative_url }}">more info</a> )</li>
+
+                        <li> Piumal Rathnayake (e18297@eng.pdn.ac.lk | <a href="{{ '/students/e18/297/' | relative_url }}">more info</a> )</li>
+                    </ul>
                 </div>
             </div>
         </div>
     </div>
-</main>
-
-<main class="container px-3">
-    <!-- contact us section -->
-    <p>If you have any questions, Please contact any of the developers.</p>
-    <ul>
-        <li> Nuwan Jaliyagoda (<a href="mailto:nuwanjaliyagoda@eng.pdn.ac.lk"> nuwanjaliyagoda@eng.pdn.ac.lk</a> | <a
-                href="{{ '/students/e15/140/' | relative_url}}">more info</a>)</li>
-        <li> Akila Karunanayake (<a href="mailto:
-            e17154@eng.pdn.ac.lk">
-                e17154@eng.pdn.ac.lk</a> | <a href="{{ '/students/e17/154/' | relative_url }}">more
-                info</a>)</li>
-        <li> Ishan Fernando (<a href="mailto:e18098@eng.pdn.ac.lk"> e18098@eng.pdn.ac.lk</a> | <a
-                href="{{ '/students/e18/098/' | relative_url }}">more info</a> )</li>
-        <li> Piumal Rathnayake (<a href="mailto:
-            e18297@eng.pdn.ac.lk">
-                e18297@eng.pdn.ac.lk</a> | <a href="{{ '/students/e18/297/' | relative_url }}">more
-                info</a>
-            )</li>
-    </ul>
-
 </main>
