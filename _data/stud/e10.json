@@ -2,306 +2,367 @@
     "E/10/002": {
         "reg_no": "E/10/002",
         "name_with_initials": " O.M.T.N.Abeyratne",
-        "image_url": "images/students/e10/e10002.jpg"
+        "image_url": "images/students/e10/e10002.jpg",
+        "current_affliation": "#"
     },
     "E/10/004": {
         "reg_no": "E/10/004",
         "name_with_initials": " A.M.L.A.S.Abeysinghe",
-        "image_url": "images/students/e10/e10004.jpg"
+        "image_url": "images/students/e10/e10004.jpg",
+        "current_affliation": "#"
     },
     "E/10/009": {
         "reg_no": "E/10/009",
         "name_with_initials": " A.M.M.B.Adhikari",
-        "image_url": "images/students/e10/e10009.jpg"
+        "image_url": "images/students/e10/e10009.jpg",
+        "current_affliation": "#"
     },
     "E/10/023": {
         "reg_no": "E/10/023",
         "name_with_initials": " A.A.N.W.S.Amarasinghe",
-        "image_url": "images/students/e10/e10023.jpg"
+        "image_url": "images/students/e10/e10023.jpg",
+        "current_affliation": "#"
     },
     "E/10/025": {
         "reg_no": "E/10/025",
         "name_with_initials": " A.R.M.A.E.B.Amunugama",
-        "image_url": "images/students/e10/e10025.jpg"
+        "image_url": "images/students/e10/e10025.jpg",
+        "current_affliation": "#"
     },
     "E/10/030": {
         "reg_no": "E/10/030",
         "name_with_initials": " K.H.M.R.Arunod",
-        "image_url": "images/students/e10/e10030.jpg"
+        "image_url": "images/students/e10/e10030.jpg",
+        "current_affliation": "#"
     },
     "E/10/038": {
         "reg_no": "E/10/038",
         "name_with_initials": " B.A.D.C.K.Bamunusingha",
-        "image_url": "images/students/e10/e10038.jpg"
+        "image_url": "images/students/e10/e10038.jpg",
+        "current_affliation": "#"
     },
     "E/10/043": {
         "reg_no": "E/10/043",
         "name_with_initials": " M.G.C.M.Bandara",
-        "image_url": "images/students/e10/e10043.jpg"
+        "image_url": "images/students/e10/e10043.jpg",
+        "current_affliation": "#"
     },
     "E/10/046": {
         "reg_no": "E/10/046",
         "name_with_initials": " S.M.L.K.Bandara",
-        "image_url": "images/students/e10/e10046.jpg"
+        "image_url": "images/students/e10/e10046.jpg",
+        "current_affliation": "#"
     },
     "E/10/049": {
         "reg_no": "E/10/049",
         "name_with_initials": " W.G.N.Bandara",
-        "image_url": "images/students/e10/e10049.jpg"
+        "image_url": "images/students/e10/e10049.jpg",
+        "current_affliation": "#"
     },
     "E/10/064": {
         "reg_no": "E/10/064",
         "name_with_initials": " N.J.A.W.Chandimal",
-        "image_url": "images/students/e10/e10064.jpg"
+        "image_url": "images/students/e10/e10064.jpg",
+        "current_affliation": "#"
     },
     "E/10/071": {
         "reg_no": "E/10/071",
         "name_with_initials": " P.A.Darshanie",
-        "image_url": "images/students/e10/e10071.jpg"
+        "image_url": "images/students/e10/e10071.jpg",
+        "current_affliation": "#"
     },
     "E/10/072": {
         "reg_no": "E/10/072",
         "name_with_initials": " T.S.Dasanayake",
-        "image_url": "images/students/e10/e10072.jpg"
+        "image_url": "images/students/e10/e10072.jpg",
+        "current_affliation": "#"
     },
     "E/10/082": {
         "reg_no": "E/10/082",
         "name_with_initials": " D.M.A.M.Dissanayake",
-        "image_url": "images/students/e10/e10082.jpg"
+        "image_url": "images/students/e10/e10082.jpg",
+        "current_affliation": "#"
     },
     "E/10/083": {
         "reg_no": "E/10/083",
         "name_with_initials": " D.M.P.A.Dissanayake",
-        "image_url": "images/students/e10/e10083.jpg"
+        "image_url": "images/students/e10/e10083.jpg",
+        "current_affliation": "#"
     },
     "E/10/095": {
         "reg_no": "E/10/095",
         "name_with_initials": " J.F.Fasna",
-        "image_url": "images/students/e10/e10095.jpg"
+        "image_url": "images/students/e10/e10095.jpg",
+        "current_affliation": "#"
     },
     "E/10/087": {
         "reg_no": "E/10/087",
         "name_with_initials": " K.C.Dodanduwa",
-        "image_url": "images/students/e10/e10087.jpg"
+        "image_url": "images/students/e10/e10087.jpg",
+        "current_affliation": "#"
     },
     "E/10/096": {
         "reg_no": "E/10/096",
         "name_with_initials": " M.M.M.Fawsan",
-        "image_url": "images/students/e10/e10096.jpg"
+        "image_url": "images/students/e10/e10096.jpg",
+        "current_affliation": "#"
     },
     "E/10/100": {
         "reg_no": "E/10/100",
         "name_with_initials": " R.I.W.Fernando",
-        "image_url": "images/students/e10/e10100.jpg"
+        "image_url": "images/students/e10/e10100.jpg",
+        "current_affliation": "#"
     },
     "E/10/102": {
         "reg_no": "E/10/102",
         "name_with_initials": " H.M.Gamaarachchi",
-        "image_url": "images/students/e10/e10102.jpg"
+        "image_url": "images/students/e10/e10102.jpg",
+        "current_affliation": "#"
     },
     "E/10/104": {
         "reg_no": "E/10/104",
         "name_with_initials": " P.B.H.B.B.Ganegoda",
-        "image_url": "images/students/e10/e10104.jpg"
+        "image_url": "images/students/e10/e10104.jpg",
+        "current_affliation": "#"
     },
     "E/10/111": {
         "reg_no": "E/10/111",
         "name_with_initials": " P.Gowsykan",
-        "image_url": "#"
+        "image_url": "#",
+        "current_affliation": "#"
     },
     "E/10/119": {
         "reg_no": "E/10/119",
         "name_with_initials": " H.P.D.B.Handunpathirana",
-        "image_url": "images/students/e10/e10119.jpg"
+        "image_url": "images/students/e10/e10119.jpg",
+        "current_affliation": "#"
     },
     "E/10/130": {
         "reg_no": "E/10/130",
         "name_with_initials": " I.H.K.A.B.Ihalagedara",
-        "image_url": "images/students/e10/e10130.jpg"
+        "image_url": "images/students/e10/e10130.jpg",
+        "current_affliation": "#"
     },
     "E/10/133": {
         "reg_no": "E/10/133",
         "name_with_initials": " S.W.Imbuldeniya",
-        "image_url": "images/students/e10/e10133.jpg"
+        "image_url": "images/students/e10/e10133.jpg",
+        "current_affliation": "#"
     },
     "E/10/134": {
         "reg_no": "E/10/134",
         "name_with_initials": " M.A.M.Irfan",
-        "image_url": "images/students/e10/e10134.jpg"
+        "image_url": "images/students/e10/e10134.jpg",
+        "current_affliation": "#"
     },
     "E/10/138": {
         "reg_no": "E/10/138",
         "name_with_initials": " N.Jasotharan",
-        "image_url": "#"
+        "image_url": "#",
+        "current_affliation": "#"
     },
     "E/10/143": {
         "reg_no": "E/10/143",
         "name_with_initials": " H.P.T.N.K.Jayarathna",
-        "image_url": "images/students/e10/e10143.jpg"
+        "image_url": "images/students/e10/e10143.jpg",
+        "current_affliation": "#"
     },
     "E/10/146": {
         "reg_no": "E/10/146",
         "name_with_initials": " J.M.D.D.Jayashani",
-        "image_url": "images/students/e10/e10146.jpg"
+        "image_url": "images/students/e10/e10146.jpg",
+        "current_affliation": "#"
     },
     "E/10/148": {
         "reg_no": "E/10/148",
         "name_with_initials": " J.P.L.H.Jayasinghe",
-        "image_url": "images/students/e10/e10148.jpg"
+        "image_url": "images/students/e10/e10148.jpg",
+        "current_affliation": "#"
     },
     "E/10/170": {
         "reg_no": "E/10/170",
         "name_with_initials": " H.A.G.M.Kanchana",
-        "image_url": "images/students/e10/e10170.jpg"
+        "image_url": "images/students/e10/e10170.jpg",
+        "current_affliation": "#"
     },
     "E/10/163": {
         "reg_no": "E/10/163",
         "name_with_initials": " T.Kabil",
-        "image_url": "#"
+        "image_url": "#",
+        "current_affliation": "#"
     },
     "E/10/169": {
         "reg_no": "E/10/169",
         "name_with_initials": " S.T.D.Kaluhendiwala",
-        "image_url": "images/students/e10/e10169.jpg"
+        "image_url": "images/students/e10/e10169.jpg",
+        "current_affliation": "#"
     },
     "E/10/188": {
         "reg_no": "E/10/188",
         "name_with_initials": " V.Kiritharan",
-        "image_url": "#"
+        "image_url": "#",
+        "current_affliation": "#"
     },
     "E/10/189": {
         "reg_no": "E/10/189",
         "name_with_initials": " R.U.Kithuldeniya",
-        "image_url": "images/students/e10/e10189.jpg"
+        "image_url": "images/students/e10/e10189.jpg",
+        "current_affliation": "#"
     },
     "E/10/194": {
         "reg_no": "E/10/194",
         "name_with_initials": " K.R.D.S.Koswatte",
-        "image_url": "images/students/e10/e10194.jpg"
+        "image_url": "images/students/e10/e10194.jpg",
+        "current_affliation": "#"
     },
     "E/10/199": {
         "reg_no": "E/10/199",
         "name_with_initials": " K.M.G.P.Kulathunga",
-        "image_url": "images/students/e10/e10199.jpg"
+        "image_url": "images/students/e10/e10199.jpg",
+        "current_affliation": "#"
     },
     "E/10/203": {
         "reg_no": "E/10/203",
         "name_with_initials": " K.M.P.I.S.Kumara",
-        "image_url": "images/students/e10/e10203.jpg"
+        "image_url": "images/students/e10/e10203.jpg",
+        "current_affliation": "#"
     },
     "E/10/228": {
         "reg_no": "E/10/228",
         "name_with_initials": " M.Mokeepan",
-        "image_url": "#"
+        "image_url": "#",
+        "current_affliation": "#"
     },
     "E/10/244": {
         "reg_no": "E/10/244",
         "name_with_initials": " P.H.R.Pathirana",
-        "image_url": "#"
+        "image_url": "#",
+        "current_affliation": "#"
     },
     "E/10/255": {
         "reg_no": "E/10/255",
         "name_with_initials": " W.M.L.I.Prasanna",
-        "image_url": "images/students/e10/e10255.jpg"
+        "image_url": "images/students/e10/e10255.jpg",
+        "current_affliation": "#"
     },
     "E/10/265": {
         "reg_no": "E/10/265",
         "name_with_initials": " S.Pulojan",
-        "image_url": "images/students/e10/e10265.jpg"
+        "image_url": "images/students/e10/e10265.jpg",
+        "current_affliation": "#"
     },
     "E/10/287": {
         "reg_no": "E/10/287",
         "name_with_initials": " R.M.S.T.Rathnayake",
-        "image_url": "images/students/e10/e10287.jpg"
+        "image_url": "images/students/e10/e10287.jpg",
+        "current_affliation": "#"
     },
     "E/10/288": {
         "reg_no": "E/10/288",
         "name_with_initials": " R.M.U.J.D.Rathnayake",
-        "image_url": "images/students/e10/e10288.jpg"
+        "image_url": "images/students/e10/e10288.jpg",
+        "current_affliation": "#"
     },
     "E/10/293": {
         "reg_no": "E/10/293",
         "name_with_initials": " M.J.M.Rishadhy",
-        "image_url": "#"
+        "image_url": "#",
+        "current_affliation": "#"
     },
     "E/10/297": {
         "reg_no": "E/10/297",
         "name_with_initials": " M.J.S.Sadhna",
-        "image_url": "images/students/e10/e10297.jpg"
+        "image_url": "images/students/e10/e10297.jpg",
+        "current_affliation": "#"
     },
     "E/10/301": {
         "reg_no": "E/10/301",
         "name_with_initials": " K.D.B.Samarawickrama",
-        "image_url": "images/students/e10/e10301.jpg"
+        "image_url": "images/students/e10/e10301.jpg",
+        "current_affliation": "#"
     },
     "E/10/314": {
         "reg_no": "E/10/314",
         "name_with_initials": " G.A.J.M.Senadeera",
-        "image_url": "images/students/e10/e10314.jpg"
+        "image_url": "images/students/e10/e10314.jpg",
+        "current_affliation": "#"
     },
     "E/10/312": {
         "reg_no": "E/10/312",
         "name_with_initials": " K.Sayanthan",
-        "image_url": "#"
+        "image_url": "#",
+        "current_affliation": "#"
     },
     "E/10/315": {
         "reg_no": "E/10/315",
         "name_with_initials": " W.H.M.U.P.Senadheera",
-        "image_url": "images/students/e10/e10315.jpg"
+        "image_url": "images/students/e10/e10315.jpg",
+        "current_affliation": "#"
     },
     "E/10/333": {
         "reg_no": "E/10/333",
         "name_with_initials": " S.Kopalakirushnan",
-        "image_url": "images/students/e10/e10333.jpg"
+        "image_url": "images/students/e10/e10333.jpg",
+        "current_affliation": "#"
     },
     "E/10/334": {
         "reg_no": "E/10/334",
         "name_with_initials": " K.Sinthujan",
-        "image_url": "images/students/e10/e10334.jpg"
+        "image_url": "images/students/e10/e10334.jpg",
+        "current_affliation": "#"
     },
     "E/10/354": {
         "reg_no": "E/10/354",
         "name_with_initials": " J.A.D.N.Thanura",
-        "image_url": "images/students/e10/e10354.jpg"
+        "image_url": "images/students/e10/e10354.jpg",
+        "current_affliation": "#"
     },
     "E/10/357": {
         "reg_no": "E/10/357",
         "name_with_initials": " S.Thipakar",
-        "image_url": "images/students/e10/e10357.jpg"
+        "image_url": "images/students/e10/e10357.jpg",
+        "current_affliation": "#"
     },
     "E/10/376": {
         "reg_no": "E/10/376",
         "name_with_initials": " E.D.M.D.Wanigasooriya",
-        "image_url": "images/students/e10/e10376.jpg"
+        "image_url": "images/students/e10/e10376.jpg",
+        "current_affliation": "#"
     },
     "E/10/384": {
         "reg_no": "E/10/384",
         "name_with_initials": " W.A.S.I.Weerasekara",
-        "image_url": "images/students/e10/e10384.jpg"
+        "image_url": "images/students/e10/e10384.jpg",
+        "current_affliation": "#"
     },
     "E/10/389": {
         "reg_no": "E/10/389",
         "name_with_initials": " J.L.M.N.Weerawardhana",
-        "image_url": "images/students/e10/e10389.jpg"
+        "image_url": "images/students/e10/e10389.jpg",
+        "current_affliation": "#"
     },
     "E/10/395": {
         "reg_no": "E/10/395",
         "name_with_initials": " W.M.S.N.Wickramasinghe",
-        "image_url": "#"
+        "image_url": "#",
+        "current_affliation": "#"
     },
     "E/10/401": {
         "reg_no": "E/10/401",
         "name_with_initials": " W.M.D.A.Wijethunga",
-        "image_url": "images/students/e10/e10401.jpg"
+        "image_url": "images/students/e10/e10401.jpg",
+        "current_affliation": "#"
     },
     "E/10/406": {
         "reg_no": "E/10/406",
         "name_with_initials": " G.W.R.Yasaranga",
-        "image_url": "images/students/e10/e10406.jpg"
+        "image_url": "images/students/e10/e10406.jpg",
+        "current_affliation": "#"
     },
     "E/10/409": {
         "reg_no": "E/10/409",
         "name_with_initials": " P.G.M.Prasanga",
-        "image_url": "#"
+        "image_url": "#",
+        "current_affliation": "#"
     }
 }

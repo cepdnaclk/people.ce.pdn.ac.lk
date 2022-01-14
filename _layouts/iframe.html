@@ -1,0 +1,25 @@
+---
+---
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>{{ page.title }}</title>
+
+    <style>
+        body {
+            padding: 0 !important;
+            margin: 0 !important;
+        }
+
+        iframe {
+            margin: 0 auto !important;
+            display: block;
+            border-style: none;
+        }
+    </style>
+</head>
+
+<body>
+    <iframe style="width:100vw; height:100vh;" class="mx-auto" src="{{ page.iframe_url }}"></iframe>
+</body>

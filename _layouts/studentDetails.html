@@ -244,6 +244,7 @@ breadcrumb
                     <hr>
 
                     <!-- email -->
+                    {% if page.email_faculty or page.email_personal %}
                     <div class="row">
                         <div class="col-sm-3">
                             <span class="mb-0" style="font-weight: 500">Email</span>
@@ -253,10 +254,11 @@ breadcrumb
                             {%- if page.email_personal -%}{{page.email_personal}}{%- endif -%}
                         </div>
                     </div>
+                    <hr>
+                    {% endif %}
 
                     <!-- location -->
                     {% if page.location %}
-                    <hr>
                     <div class="row">
                         <div class="col-sm-3">
                             <span class="mb-0" style="font-weight: 500">Location</span>
@@ -265,11 +267,11 @@ breadcrumb
                             {{page.location}}
                         </div>
                     </div>
+                    <hr>
                     {% endif %}
 
                     <!-- interests -->
                     {% if page.interests %}
-                    <hr>
                     <div class="row">
                         <div class="col-sm-3">
                             <span class="mb-0" style="font-weight: 500">Interests</span>
@@ -278,11 +280,11 @@ breadcrumb
                             {{page.interests}}
                         </div>
                     </div>
+                    <hr>
                     {% endif %}
 
                     <!-- current affiliation -->
                     {% if page.current_affiliation %}
-                    <hr>
                     <div class="row">
                         <div class="col-sm-3">
                             <span class="mb-0" style="font-weight: 500">Current Affiliation</span>
@@ -295,24 +297,7 @@ breadcrumb
                 </div>
             </div>
 
-            <!-- <div class="row gutters-sm">
-                <div class="col-sm-5 mb-3">
-                    <div class="card h-100">
-                        <div class="card-body">
-                            <h6 class="d-flex align-items-center mb-3">Projects done</h6>
-
-                            {% for eachProject in page.projects_done %}
-                            <small>• {{eachProject}}</small>
-                            <br>
-                            {% endfor %}
-                        </div>
-
-                        <div class="card-body">
-                            {{ content }}
-                        </div>
-                    </div>
-                </div>
-            </div> -->
+            {{content}}
         </div>
     </div>
 </div>

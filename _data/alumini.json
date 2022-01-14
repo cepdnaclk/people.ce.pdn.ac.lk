@@ -1,54 +1,67 @@
 [
     {
         "title": "E14 Batch",
-        "url": "/students/e14"
+        "url": "/students/e14",
+        "graduation_year": "#"
     },
     {
         "title": "E13 Batch",
-        "url": "/students/e13"
+        "url": "/students/e13",
+        "graduation_year": "#"
     },
     {
         "title": "E12 Batch",
-        "url": "/students/e12"
+        "url": "/students/e12",
+        "graduation_year": "#"
     },
     {
         "title": "E11 Batch",
-        "url": "/students/e11"
+        "url": "/students/e11",
+        "graduation_year": "#"
     },
     {
         "title": "E10 Batch",
-        "url": "/students/e10"
+        "url": "/students/e10",
+        "graduation_year": "#"
     },
     {
         "title": "E09 Batch",
-        "url": "/students/e09"
+        "url": "/students/e09",
+        "graduation_year": "#"
     },
     {
         "title": "E08 Batch",
-        "url": "/students/e08"
+        "url": "/students/e08",
+        "graduation_year": "#"
     },
     {
         "title": "E07 Batch",
-        "url": "/students/e07"
+        "url": "/students/e07",
+        "graduation_year": "#"
     },
     {
         "title": "E06 Batch",
-        "url": "/students/e06"
+        "url": "/students/e06",
+        "graduation_year": "#"
     },
     {
         "title": "E05 Batch",
-        "url": "/students/e05"
+        "url": "/students/e05",
+        "graduation_year": "#"
     },
     {
         "title": "E04 Batch",
-        "url": "/students/e04"
+        "url": "/students/e04",
+        "graduation_year": "#"
     },
     {
         "title": "E03 Batch",
-        "url": "/students/e03"
+        "url": "/students/e03",
+        "graduation_year": "#"
     },
     {
         "title": "E02A Batch",
-        "url": "/students/e02a"
+        "url": "/students/e02a",
+        "graduation_year": "#"
     }
 ]

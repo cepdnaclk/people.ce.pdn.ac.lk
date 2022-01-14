@@ -1,3 +1,4 @@
+## Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 import os
 
 dataFile = open("./_csv/e16_e17.txt", 'r')
