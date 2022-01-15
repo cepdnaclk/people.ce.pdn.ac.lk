@@ -33,13 +33,13 @@ URL_FB = 16
 URL_TWITTER = 17
 URL_RESEARCHGATE = 18
 INTERESTS = 19
-URL_IMAGE = 20
+URL_IMAGE = 21
 
 if __name__ == "__main__":
     for eachLine in googleFromCSV:
         studentData = eachLine.split(",")
 
-        if len(studentData) != 21:
+        if len(studentData) != 22:
             print("Splitted csv is longer than it should be!")
             quit()
 
@@ -57,9 +57,9 @@ if __name__ == "__main__":
         # get department
         deparment = ""
         if studentData[DEPARTMENT] == "Department of Computer Engineering":
-            deparment = "Computer"
+            deparment = "Computer Engineering"
         elif studentData[DEPARTMENT] == "Department of Mechanical Engineering":
-            deparment = "Mechanical"
+            deparment = "Mechanical Engineering"
         elif studentData[DEPARTMENT] == "Department of Manufacturing & Industrial Engineering":
             department = "Manufacturing"
 
