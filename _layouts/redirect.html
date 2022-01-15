@@ -1,15 +1,24 @@
+---
+layout: default
+---
 {%- comment -%}
-Page used to handle redirects. Not used anywhere I think
+Page used to handle redirects.
 {%- endcomment -%}
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Redirecting...</title>
-</head>
-<body style="padding: 25px 100px;">
-    <meta http-equiv = "refresh" content = "0; url = {{ page.forward_url}}" />
-    <p>Redirecting...<br><br>Please click <a href="{{ page.forward_url}}">here</a> if the browser is not automatically redirected.</p>
-    <br><br>
-</body>
 
-</html>
+<!-- 
+<body style="padding: 25px 100px;">
+    <meta http-equiv="refresh" content="0; url = {{ page.forward_url}}" />
+    <p>Redirecting...<br><br>Please click <a href="{{ page.forward_url}}">here</a> if the browser is not automatically
+        redirected.</p>
+    <br><br>
+</body> -->
+<meta http-equiv="refresh" content="0; url = {{ page.forward_url}}" />
+<div class="d-flex align-self-center text-center">
+    <div class="container pb-4">
+        <br><br>
+        <h1 class="pb-5">Redirecting</h1>
+        <p>Please click <a href="{{ page.forward_url}}">here</a> if the browser is not
+            automatically
+            redirected.</p>
+    </div>
+</div>
