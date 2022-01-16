@@ -2,8 +2,8 @@ name: Update profiles from Google Form details
 
 on:
   schedule:
-  # At 18:30 UTC on everyday (12.00 mid night in Sri Lanka)
-   - cron: "30 18 * * *"
+  # # At 18:30 UTC on everyday (12.00 mid night in Sri Lanka)
+    - cron: "30 18 * * *"
 
   # Enables a button on Actions tab
   workflow_dispatch:
@@ -29,7 +29,7 @@ jobs:
           pip install requests
 
       - name: Update Student Details
-          run: |
+        run: |
           cd ./python_scripts
           python3 update_student_data_google_form.py
           cd ../
