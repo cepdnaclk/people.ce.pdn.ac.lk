@@ -50,7 +50,7 @@ title: E18 Batch
     <div class="row justify-content-center">
         <!-- Computer Students -->
         {% assign profilePages = site.pages | where: "layout", "studentDetails" | where: "batch", page.batch | where:
-        "department", "Computer" |sort:
+        "department", "Computer Engineering" |sort:
         "reg_no"%}
 
         {% for item in profilePages %}
@@ -92,7 +92,7 @@ title: E18 Batch
         <hr>
 
         {% assign profilePages = site.pages | where: "layout", "studentDetails" | where: "batch", page.batch | where:
-        "department", "Mechanical" |sort:
+        "department", "Mechanical Engineering" |sort:
         "reg_no"%}
         {% for item in profilePages %}
         <div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">
