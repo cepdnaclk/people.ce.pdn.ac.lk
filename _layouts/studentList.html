@@ -47,7 +47,7 @@ title: E18 Batch
 
 <!-- cards -->
 <div class="container py-4 px-lg-5">
-    <div class="row justify-content-center">
+    <div class="row justify-content-center pb-5">
         <!-- Computer Students -->
         {% assign profilePages = site.pages | where: "layout", "studentDetails" | where: "batch", page.batch | where:
         "department", "Computer Engineering" |sort:
@@ -82,12 +82,13 @@ title: E18 Batch
         </div>
         {% endfor %}
 
-        <!-- Mechanical Students -->
+    </div>
 
-        <!-- mechanical is only in E17 and upper -->
-        {% assign batchNumber = page.batch | slice: 1,2 | plus: 0 %}
-        {% if batchNumber >= 17 %}
-
+    <!-- Mechanical Students -->
+    <!-- mechanical is only in E17 and upper -->
+    {% assign batchNumber = page.batch | slice: 1,2 | plus: 0 %}
+    {% if batchNumber >= 17 %}
+    <div class="row justify-content-center pb-5">
         <h3 class="text-center pt-3">External Students - Department of Mechanical Engineering</h3>
         <hr>
 
