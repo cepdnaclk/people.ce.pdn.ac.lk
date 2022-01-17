@@ -1,4 +1,5 @@
 # Generate all image links for docs because theres no time to go into properties of each image and get the dimensions.
+# Creates the json for image height,width in _data
 
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 
