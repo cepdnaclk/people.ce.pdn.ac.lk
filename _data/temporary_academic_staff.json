@@ -6,7 +6,7 @@
         "email": "amilaindika@eng.pdn.ac.lk ",
         "url_profile" : "students/e14/142",
         "joined_date": "",
-        "leaved_date": ""
+        "left_date": ""
     },
     {
         "staff_name" : "Chathuri Aththanayake",
@@ -15,7 +15,7 @@
         "email": "chathurimalee@eng.pdn.ac.lk",
         "url_profile" : "",
         "joined_date": "",
-        "leaved_date": "2021-11-31"
+        "left_date": "2021-11-31"
     },
     {
         "staff_name" : "Arjuna Thennakoon",
@@ -24,7 +24,7 @@
         "email": "arjunat@eng.pdn.ac.lk",
         "url_profile" : "",
         "joined_date": "",
-        "leaved_date": ""
+        "left_date": ""
     },
     {
         "staff_name" : "Kanchana Jayasinghe",
@@ -33,7 +33,7 @@
         "email": "kc43224jayasinghe@eng.pdn.ac.lk",
         "url_profile" : "",
         "joined_date": "",
-        "leaved_date": "2021-11-01"
+        "left_date": "2021-11-01"
     },
     {
         "staff_name" : "Anjalee Wanigarathne",
@@ -42,7 +42,7 @@
         "email": "anj.wanigarathne@eng.pdn.ac.lk",
         "url_profile" : "",
         "joined_date": "",
-        "leaved_date": ""
+        "left_date": ""
     },
     {
         "staff_name" : "Thushara Bandara",
@@ -51,7 +51,7 @@
         "email": "thusharab@eng.pdn.ac.lk",
         "url_profile" : "",
         "joined_date": "",
-        "leaved_date": ""
+        "left_date": ""
     },
     {
         "staff_name" : "Kalani Hansima",
@@ -60,7 +60,7 @@
         "email": "kalaniu@eng.pdn.ac.lk",
         "url_profile" : "",
         "joined_date": "",
-        "leaved_date": ""
+        "left_date": ""
     },
     {
         "staff_name" : "Dilshani Karunarathna",
@@ -69,7 +69,7 @@
         "email": "dilshanik@eng.pdn.ac.lk",
         "url_profile" : "students/e15/173",
         "joined_date": "2021-10-21",
-        "leaved_date": ""
+        "left_date": ""
     },
     {
         "staff_name" : "Nuwan Jaliyagoda",
@@ -78,7 +78,7 @@
         "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
         "url_profile" : "/students/e15/140",
         "joined_date": "2021-10-21",
-        "leaved_date": ""
+        "left_date": ""
     },
     {
         "staff_name" : "Imesh Ekanayake",
@@ -87,7 +87,7 @@
         "email": "imeshuek@eng.pdn.ac.lk",
         "url_profile" : "/students/e15/092",
         "joined_date": "2021-10-21",
-        "leaved_date": ""
+        "left_date": ""
     },
     {
         "staff_name" : "Keshara Weerasinghe",
@@ -96,6 +96,6 @@
         "email": "kesharaw@eng.pdn.ac.lk",
         "url_profile" : "/students/e15/383",
         "joined_date": "2021-10-21",
-        "leaved_date": ""
+        "left_date": ""
     }
 ]

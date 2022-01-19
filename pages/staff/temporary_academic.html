@@ -31,12 +31,11 @@ Update the JSON, _data/temporary_academic_staff.json, and it will add the profil
     <div class="row justify-content-center">
         <!-- curent temp academic staff -->
         {%- for each in site.data.temporary_academic_staff -%}
-        {%- assign leaved_date = each.leaved_date | date: '%s' -%}
+        {%- assign left_date = each.left_date | date: '%s' -%}
 
-        {%- if each.leaved_date == "" or leaved_date > today_date  -%}
+        {%- if each.left_date == "" or left_date > today_date -%}
         <div class="container card text-center p-2 border-primary m-1" style="width: 13rem;">
-            <img src="{{ each.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
-            alt="{{each.staff_name}}">
+            <img src="{{ each.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{each.staff_name}}">
             <div class="card-body">
                 <h6 class="card-title">{{each.staff_name}}</h6>
                 <p class="card-text text-muted">{{each.text_below_name}}</p>
@@ -63,12 +62,10 @@ Update the JSON, _data/temporary_academic_staff.json, and it will add the profil
         <!-- past academic staff -->
         {%- for each in site.data.temporary_academic_staff -%}
 
-        {%- if each.leaved_date != "" -%}
-        {%- assign leaved_date = each.leaved_date | date: '%s' -%}
-        {%- if leaved_date < today_date  -%}
-        <div class="container card text-center p-2 border-primary m-1" style="width: 13rem;">
-            <img src="{{ each.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
-            alt="{{each.staff_name}}">
+        {%- if each.left_date != "" -%}
+        {%- assign left_date = each.left_date | date: '%s' -%}
+        {%- if left_date < today_date -%} <div class="container card text-center p-2 border-primary m-1" style="width: 13rem;">
+            <img src="{{ each.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{each.staff_name}}">
             <div class="card-body">
                 <h6 class="card-title">{{each.staff_name}}</h6>
                 <p class="card-text text-muted">{{each.text_below_name}}</p>
@@ -81,9 +78,9 @@ Update the JSON, _data/temporary_academic_staff.json, and it will add the profil
                 <a class="btn btn-sm btn-outline-primary w-75" href=" {{ each.url_profile | relative_url}}">More</a>
             </div>
             {% endif %}
-        </div>
-        {%- endif -%}
-        {%- endif -%}
-        {%- endfor -%}
     </div>
+    {%- endif -%}
+    {%- endif -%}
+    {%- endfor -%}
+</div>
 </div>

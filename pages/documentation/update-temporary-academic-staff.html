@@ -7,5 +7,72 @@ index: 160
 
 title: How to update Temporary Academic Staff page ?
 ---
+<ol>
+    <li>Login to <a href="https://github.com/login" target="_blank">GitHub</a></li>
+    <br>
 
-<h4>This page is under development. Please come back later.</h4>
+    <li>Go to <a href="{{'/staff/temporary_academic_staff/'| relative_url}}" target="_blank">Temporary Academic Staff</a> page</li>
+    <br>
+
+    <li>At the bottom of the page, click {% include documentation_image.html url_image='/images/docs/edit_this_on_github_staff.PNG' text='"Edit this page on GitHub"' %}</li>
+    <br>
+
+    <li>Click the {% include documentation_image.html url_image='/images/docs/click_edit_inside_github.png' text='"Edit"' %} icon</li>
+    <br>
+
+    <li>Make your changes to the file</li>
+    <div class="col-lg-6 col-md-12 col-sm-12">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Variable</th>
+                    <th scope="col">Description</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">staff_name</th>
+                    <td>Name of the person</td>
+                </tr>
+                <tr>
+                    <th scope="row">text_below_name</th>
+                    <td>Text thats written below the name</td>
+                </tr>
+                <tr>
+                    <th scope="row">url_image</th>
+                    <td>Path to the image. It should be uploaded to "images/staff/temporary_academic_staff/name1_name2.jpg"</td>
+                </tr>
+                <tr>
+                    <th scope="row">email</th>
+                    <td>Email address of the person</td>
+                </tr>
+                <tr>
+                    <th scope="row">url_profile</th>
+                    <td>Permalink of the student profile page if they have one</td>
+                </tr>
+                <tr>
+                    <th scope="row">joined_date</th>
+                    <td>The date of joining</td>
+                </tr>
+                <tr>
+                    <th scope="row">left_date</th>
+                    <td>The date of leaving</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <br>
+
+
+    <li>Click the {% include documentation_image.html url_image='/images/docs/propose_changes.png' text='"Propose changes"' %} at the bottom of the page</li>
+    <br>
+
+    <li>Click the {% include documentation_image.html url_image='/images/docs/create_pull_req.png' text='"Create pull request"' %} button</li>
+    <br>
+
+    <li>Click the {% include documentation_image.html url_image='/images/docs/create_pull_req2.png' text='"Create pull request"' %} button again</li>
+    <br>
+
+    <li>Now an admin/a maintainer will approve these changes within 48hrs.</li>
+</ol>
