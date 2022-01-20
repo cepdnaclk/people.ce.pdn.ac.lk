@@ -28,7 +28,8 @@
         "text_below_name" : "Staff Assistant",
         "url_image" : "images/staff/academic_support_staff/hemantha.jpg",
         "contact_number" : "",
-        "on_duty": "true"
+        "on_duty": "true",
+        "email": "hemanthak@eng.pdn.ac.lk"
     },
     {
         "staff_name" : "U.B. Weebadda",
