@@ -32,7 +32,7 @@ URL_FB = 16
 URL_TWITTER = 17
 URL_RESEARCHGATE = 18
 INTERESTS = 19
-URL_IMAGE = 21
+URL_IMAGE = 20
 
 if __name__ == "__main__":
     for eachLine in googleFromCSV:
