@@ -50,6 +50,12 @@ title: E09 Batch
                 </h6>
                 <p class="card-text">{{ item[1].reg_no }}</p>
             </div>
+            {% if item[1].page_url %}
+            <!-- card button -->
+            <div class="d-flex flex-row justify-content-center mt-auto">
+                <a class="btn btn-outline-primary w-100" href="{{ item[1].page_url | relative_url }}">View</a>
+            </div>
+            {% endif %}
         </div>
         {% endfor %}
     </div>
