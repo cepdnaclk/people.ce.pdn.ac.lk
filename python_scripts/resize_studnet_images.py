@@ -2,7 +2,7 @@
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 
 import os
-from PIL import Image
+from PIL import Image # pip install pillow
 
 def run():
     imagesPath = "../images/students/"
