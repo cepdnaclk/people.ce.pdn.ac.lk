@@ -14,11 +14,13 @@
     {
         "staff_name" : "Prof. K.S Walgama",
         "text_below_name" : "14/01/2003 to 28/02/2006",
+        "permalink": "http://eng.pdn.ac.lk/old/engmath/staff/Prof-walgama.html",
         "url_image" : "images/staff/past_heads_of_dep/Profwalgama.jpeg"
     },
     {
         "staff_name" : "Dr K.B.N Rathnayake",
         "text_below_name" : "17/10/2001 to 31/12/2002",
+        "permalink": "http://eng.pdn.ac.lk/deee/staff/academic/dr.kbn.ratnayake/profile.php",
         "url_image" : "images/staff/past_heads_of_dep/Dr.Nimal_.jpg"
     },
     {
@@ -34,6 +36,7 @@
     {
         "staff_name" : "Prof E.M.N Ekanayake",
         "text_below_name" : "04/05/1998 to 24/01/1999",
+        "permalink": "http://eng.pdn.ac.lk/deee/staff/academic/prof.emn.ekanayake/profile.php",
         "url_image" : "images/staff/past_heads_of_dep/Prof.Ekanayake.jpg"
     },
     {
@@ -49,6 +52,7 @@
     {
         "staff_name" : "Prof E.M.N Ekanayake",
         "text_below_name" : "01/05/1990 to 31/08/1992",
+        "permalink": "http://eng.pdn.ac.lk/deee/staff/academic/prof.emn.ekanayake/profile.php",
         "url_image" : "images/staff/past_heads_of_dep/Prof.Ekanayake.jpg"
     },
     {
