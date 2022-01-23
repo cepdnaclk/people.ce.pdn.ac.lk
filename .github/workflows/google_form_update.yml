@@ -27,6 +27,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install gdown
           pip install requests
+          pip install pillow
 
       - name: Update Student Details
         run: |
