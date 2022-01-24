@@ -5,7 +5,7 @@ import os
 from PIL import Image # pip install pillow
 
 def run():
-    imagesPath = "../images/students/"
+    imagesPath = "../images/students"
     directory_list = os.listdir(imagesPath)
 
     for eachFolder in directory_list:
