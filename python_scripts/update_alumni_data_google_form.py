@@ -12,7 +12,7 @@ import requests
 import os
 import gdown  # pip install gdown
 import student_profile_page_titles
-import resize_studnet_images
+import resize_student_images
 
 googleFromCSV_link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6vtkNtEmxBOW3kAe_8OtJGF4Vcr-BglZgRYF2xvHDwXpLd1yUpzU4Wudxbi4G1WUYT3E-4sVhamjo/pub?output=csv"
 googleFromCSV = requests.get(googleFromCSV_link, headers={'Cache-Control': 'no-cache'}).text.split("\n")
@@ -133,4 +133,4 @@ image_url: {image_path}
 print("Updating Student page titles")
 student_profile_page_titles.run()
 print("Resizing Images")
-resize_studnet_images.run()
+resize_student_images.run()
