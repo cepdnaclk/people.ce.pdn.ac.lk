@@ -5,7 +5,7 @@ import os
 from PIL import Image # pip install pillow
 
 def run():
-    imagesPath = "../images/students/"
+    imagesPath = "../images/students"
     directory_list = os.listdir(imagesPath)
 
     for eachFolder in directory_list:
@@ -21,7 +21,11 @@ def run():
                     print(f"{imagePath}, width = {width:5}, height = {height:5}, size = {size:4.4}kb")
                     resizeValue = 300/width
                     new_image = image.resize((int(width*resizeValue), int(height*resizeValue)))
-                    new_image.save(imagePath)
+
+                    if(not (int(width*resizeValue) == width and int(height*resizeValue) == height)):
+                        new_image.save(imagePath)
+                    else:
+                        print("No resize required")
             except:
                 print(f"Failed to resize image {imagePath}")
 
