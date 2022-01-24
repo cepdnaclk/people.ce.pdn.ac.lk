@@ -55,8 +55,8 @@ if __name__ == "__main__":
         # print(studentData)
         print("Processing: " + studentData[REG_NO])
         # get batch and regNo
-        batch = studentData[REG_NO][2:4]  # 18
-        regNo = studentData[REG_NO][5:].strip()  # 098
+        batch = studentData[REG_NO].split("/")[1][0:2]  # 18
+        regNo = studentData[REG_NO].split("/")[2]  # 098
 
         permalink = f"/students/e{batch}/{regNo}"
 
