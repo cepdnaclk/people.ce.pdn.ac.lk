@@ -60,7 +60,7 @@ breadcrumb
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">Home</a></li>
                 <li class="breadcrumb-item"><a href="../../.." class="link-light">Students</a></li>
-                <li class="breadcrumb-item"><a href="../" class="link-light">{{page.batch | capitalize}} Batch</a></li>
+                <li class="breadcrumb-item"><a href="../" class="link-light">{{page.batch | upcase}} Batch</a></li>
                 <li class="breadcrumb-item text-white">
                     {%- if page.preferred_long_name -%}
                     {{page.preferred_long_name}}
@@ -89,11 +89,9 @@ breadcrumb
                         Image
                         {%- endcomment -%}
                         {% if page.image_url %}
-                        <img src="{{ page.image_url | relative_url}}" alt="image" style="border-radius: 10%"
-                            width="175">
+                        <img src="{{ page.image_url | relative_url}}" alt="image" style="border-radius: 10%" width="250">
                         {% else %}
-                        <img src="{{ 'images/students/default.jpg' | relative_url}}" alt="image"
-                            style="border-radius: 10%" width="175">
+                        <img src="{{ 'images/students/default.jpg' | relative_url}}" alt="image" style="border-radius: 10%" width="175">
                         {% endif %}
 
                         <div class="mt-2">
@@ -123,8 +121,7 @@ breadcrumb
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fas fa-address-card"></i> CV</h6>
                         {% if page.url_cv %}
-                        <span class="text-secondary"> <a href="{{page.url_cv}}" target="_blank"><button type="button"
-                                    class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_cv}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
                         <span class="text-secondary"> N/A</span>
                         {% endif %}
@@ -135,8 +132,7 @@ breadcrumb
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fas fa-globe"></i> Website</h6>
                         {% if page.url_website %}
-                        <span class="text-secondary"> <a href="{{page.url_website}}" target="_blank"><button
-                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_website}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
                         <span class="text-secondary"> N/A</span>
                         {% endif %}
@@ -147,8 +143,7 @@ breadcrumb
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-linkedin"></i> LinkedIn</h6>
                         {% if page.url_linkedin %}
-                        <span class="text-secondary"> <a href="{{page.url_linkedin}}" target="_blank"><button
-                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_linkedin}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
                         <span class="text-secondary"> N/A</span>
                         {% endif %}
@@ -158,8 +153,7 @@ breadcrumb
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-github"></i> Github</h6>
                         {% if page.url_github %}
-                        <span class="text-secondary"> <a href="{{page.url_github}}" target="_blank"><button
-                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_github}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
                         <span class="text-secondary"> N/A</span>
                         {% endif %}
@@ -169,8 +163,7 @@ breadcrumb
                     {% if page.url_facebook %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-facebook"></i> Facebook</h6>
-                        <span class="text-secondary"> <a href="{{page.url_facebook}}" target="_blank"><button
-                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_facebook}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                     </li>
                     {% endif %}
 
@@ -178,8 +171,7 @@ breadcrumb
                     {% if page.url_twitter %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-twitter"></i> Twitter</h6>
-                        <span class="text-secondary"> <a href="{{page.url_twitter}}" target="_blank"><button
-                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_twitter}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                     </li>
                     {% endif %}
 
@@ -187,8 +179,7 @@ breadcrumb
                     {% if page.url_researchgate %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-researchgate"></i> ResearchGate</h6>
-                        <span class="text-secondary"> <a href="{{page.url_researchgate}}" target="_blank"><button
-                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_researchgate}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                     </li>
                     {% endif %}
                 </ul>
@@ -273,7 +264,7 @@ breadcrumb
                     {% endif %}
 
                     <!-- interests -->
-                    {% if page.interests %}
+                    {% if page.interests and page.interests != "" %}
                     <div class="row">
                         <div class="col-sm-3">
                             <span class="mb-0" style="font-weight: 500">Interests</span>

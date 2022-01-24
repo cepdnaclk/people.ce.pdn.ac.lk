@@ -18,8 +18,7 @@ title: E18 Batch
 {% assign folder1 = site.pages | where: "batch", page.batch | where: "studentDetails", page.layout | sort: "reg_no" %}
 {% for item in folder1 %}
 <div class="card text-center p-2 " style="width: 11rem;">
-    <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
-        alt="{{item.student_name}}">
+    <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{item.student_name}}">
     <div class="card-body">
         <h6 class="card-title">{{item.name_with_initials}}</h6>
         <p class="card-text">{{item.reg_no}}</p>
@@ -57,11 +56,9 @@ title: E18 Batch
         <div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">
             <!-- card image -->
             {% if item.image_url %}
-            <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
-                alt="{{item.student_name}}">
+            <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%; height:158px;object-fit: cover;" class="card-img-top p-1" alt="{{item.student_name}}">
             {% else %}
-            <img src="{{ 'images/students/default.jpg' | relative_url }}" style="border-radius: 7%"
-                class="card-img-top p-1" alt="{{item.student_name}}">
+            <img src="{{ 'images/students/default.jpg' | relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{item.student_name}}">
             {% endif %}
             <!-- card name -->
             <div class="card-body d-flex flex-column">
@@ -99,11 +96,9 @@ title: E18 Batch
         <div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">
             <!-- card image -->
             {% if item.image_url %}
-            <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
-                alt="{{item.student_name}}">
+            <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%;height:158px;object-fit: cover;" class="card-img-top p-1" alt="{{item.student_name}}">
             {% else %}
-            <img src="{{ 'images/students/default.jpg' | relative_url }}" style="border-radius: 7%"
-                class="card-img-top p-1" alt="{{item.student_name}}">
+            <img src="{{ 'images/students/default.jpg' | relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{item.student_name}}">
             {% endif %}
             <!-- card name -->
             <div class="card-body d-flex flex-column">

@@ -230,8 +230,9 @@
     "E/02A/320": {
         "reg_no": "E/02A/320",
         "name_with_initials": "G.L.I.M.K. Kahanda",
-        "image_url": "images/students/default.jpg",
-        "current_affliation": "#"
+        "image_url": "images/students/e02/e02320.jpg",
+        "current_affliation": "#",
+        "page_url": "/students/e02/320/"
     },
     "E/02A/326": {
         "reg_no": "E/02A/326",
