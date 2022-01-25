@@ -63,5 +63,9 @@
         "title": "E02A Batch",
         "url": "/students/e02a",
         "graduation_year": "#"
+    },{
+        "title": "E02 Batch",
+        "url": "/students/e02",
+        "graduation_year": "#"
     }
 ]

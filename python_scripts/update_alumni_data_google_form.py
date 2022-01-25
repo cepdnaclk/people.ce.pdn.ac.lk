@@ -15,7 +15,8 @@ import student_profile_page_titles
 import resize_student_images
 
 googleFromCSV_link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6vtkNtEmxBOW3kAe_8OtJGF4Vcr-BglZgRYF2xvHDwXpLd1yUpzU4Wudxbi4G1WUYT3E-4sVhamjo/pub?output=csv"
-googleFromCSV = requests.get(googleFromCSV_link, headers={'Cache-Control': 'no-cache'}).text.split("\n")
+googleFromCSV = requests.get(googleFromCSV_link, headers={
+                             'Cache-Control': 'no-cache'}).text.split("\n")
 
 # Index of the CSV parameters
 TIMESTAMP = 0
@@ -45,7 +46,8 @@ if __name__ == "__main__":
         studentData = eachLine.replace('\r', '').split(",")
 
         if len(studentData) != 21:
-            print(f"Splitted csv is longer/shorter than it should be! {len(studentData)}")
+            print(
+                f"Splitted csv is longer/shorter than it should be! {len(studentData)}")
             quit()
 
         if ":" not in studentData[0]:
@@ -55,7 +57,7 @@ if __name__ == "__main__":
         # print(studentData)
         print("Processing: " + studentData[REG_NO])
         # get batch and regNo
-        batch = studentData[REG_NO].split("/")[1][0:2]  # 18
+        batch = studentData[REG_NO].split("/")[1].lower()  # 18 or 02A
         regNo = studentData[REG_NO].split("/")[2]  # 098
 
         permalink = f"/students/e{batch}/{regNo}"
@@ -71,7 +73,7 @@ if __name__ == "__main__":
 
         # image
         image_path = f"images/students/e{batch}/e{batch}{regNo}.jpg"
-        if studentData[URL_IMAGE]!="" and len(studentData[URL_IMAGE])>1:
+        if studentData[URL_IMAGE] != "" and len(studentData[URL_IMAGE]) > 1:
             print(f"Downloading image to {image_path}")
             # print(len(studentData[URL_IMAGE]))
             gdown.download("https://drive.google.com/uc?id=" +
@@ -88,11 +90,11 @@ if __name__ == "__main__":
 
         outputString = f"""---
 layout: studentDetails
-permalink: "/students/e{batch}/{regNo}/"
+permalink: "/students/e{batch.lower()}/{regNo}/"
 title: {studentData[NAME_WITH_INITIALS]}
 
-reg_no: E/{batch}/{regNo}
-batch: E{batch}
+reg_no: E/{batch.upper()}/{regNo}
+batch: E{batch.upper()}
 
 department: {deparment}
 current_affiliation: \"{studentData[CURRENT_AFFILIATION]}\"
