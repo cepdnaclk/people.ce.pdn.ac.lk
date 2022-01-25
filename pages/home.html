@@ -21,15 +21,16 @@ title: Home
     <!-- search box -->
     <div class="row justify-content-center">
         <div class="col-12 col-md-10 col-lg-9">
-            <form class="card card-sm ">
+            <form class="card card-sm text-center">
                 <div class="card-body row no-gutters align-items-center">
                     <div class="col-auto pt-2" style="margin-left: 0.5rem;">
                         <i class="fas fa-search h4 text-body"></i>
                     </div>
-                    <div class="col">
-                        <input class="form-control" type="search" placeholder="Search people.ce.pdn.ac.lk"
-                            id="search-input" autofocus>
+                    <div class="col-9">
+                        <input class="form-control" type="search" placeholder="Search people.ce.pdn.ac.lk" id="search-input" autofocus>
                     </div>
+                    <!-- <br class="d-md-none"> -->
+                    <div class="col-auto "><a type="button" class="btn btn-outline-primary" href="/advanced-search/">Advanced Search</a></div>
                 </div>
             </form>
         </div>
@@ -57,22 +58,17 @@ title: Home
                 <img src="{{ 'images/homepage/staff.jpg'| relative_url }}" class="card-img-top p-3" alt="Staff">
                 <div class="card-body">
                     <ul class="list-group list-group-flush">
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                            href="{{ '/staff/academic/' | relative_url }}">Academic Staff</a>
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                            href="{{ '/staff/temporary_academic_staff/' | relative_url }}">Temporary Academic
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic/' | relative_url }}">Academic Staff</a>
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/temporary_academic_staff/' | relative_url }}">Temporary Academic
                             Staff</a>
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                            href="{{ '/staff/academic_support_staff/' | relative_url }}">Academic Support
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic_support_staff/' | relative_url }}">Academic Support
                             Staff</a>
 
                         <br>
 
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                            href="{{ '/staff/past_heads_of_dep/' | relative_url }}">Past Heads of the
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/past_heads_of_dep/' | relative_url }}">Past Heads of the
                             Department</a>
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                            href="{{ '/staff/academic/past/' | relative_url }}">Past Academic Staff</a>
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic/past/' | relative_url }}">Past Academic Staff</a>
                     </ul>
                 </div>
             </div>
@@ -101,13 +97,11 @@ title: Home
                 <div class="card-body">
                     <!-- content is taken from _data/alumni.json -->
                     {%- for batch in site.data.alumini -%}
-                    {% if forloop.index < 4 %} <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                        href="{{ batch.url | relative_url }}">{{
+                    {% if forloop.index < 4 %} <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
                         batch.title }}</a>
                         {% endif %}
                         {%- endfor -%}
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                            href="{{ '/alumni/' | relative_url }}">View more</a>
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/alumni/' | relative_url }}">View more</a>
                 </div>
             </div>
         </div>

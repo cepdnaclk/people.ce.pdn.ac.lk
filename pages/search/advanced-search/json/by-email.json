@@ -1,0 +1,47 @@
+---
+permalink : /search/advanced-search/by-email.json
+---
+[
+  {% for post in site.pages %}
+  {%- comment -%}Add staff first so that it comes up at the top of search results{%- endcomment -%}
+    {% if post.layout == "staffDetails" %}
+      {%- comment -%}Staff profile page{%- endcomment -%}
+        {
+        "title" : "{{post.name_below_image}} ",
+        "email": "{{post.email}}",
+        "url" : "{{ post.url | relative_url }}"
+        },
+    {% endif %}
+  {% endfor %}
+  {% for post in site.pages %}
+      {% if post.layout == "studentDetails" %}
+      {%- comment -%}Student profile page{%- endcomment -%}
+        {
+        "title" : "{{post.full_name}} - {{post.reg_no}}",
+        "email" : "{{post.email_faculty}} {{post.email_personal}}",
+        "url" : "{{ post.url | relative_url }}"
+        },
+      {% endif %}
+  {% endfor %}
+
+  {% for post in site.data.academic_support_staff %}
+  {%- comment -%}academic support staff pages{%- endcomment -%}
+    {
+        "title" : "{{ post.staff_name }} - Academic Support Staff",
+        "email": "{{post.email}}",
+        "url"      : "{{ '/staff/academic_support_staff/' | relative_url }}"
+    },
+  {% endfor %}
+
+  {% for post in site.data.temporary_academic_staff %}
+  {%- comment -%}temporary academic staff pages{%- endcomment -%}
+    {
+        "title" : "{{ post.staff_name }} - Temporary Academic Staff",
+        "email": "{{post.email}}",
+        "url"      : "{{ '/staff/temporary_academic_staff/' | relative_url }}"
+    },
+  {% endfor %}
+
+    {"justFillerData":"toFixCommaAtLastIteration"}
+
+]
