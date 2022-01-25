@@ -117,7 +117,8 @@
         "reg_no": "E/10/102",
         "name_with_initials": " H.M.Gamaarachchi",
         "image_url": "images/students/e10/e10102.jpg",
-        "current_affliation": "#"
+        "current_affliation": "#",
+        "page_url": "/students/e10/102/"
     },
     "E/10/104": {
         "reg_no": "E/10/104",
@@ -163,9 +164,10 @@
     },
     "E/10/143": {
         "reg_no": "E/10/143",
-        "name_with_initials": " H.P.T.N.K.Jayarathna",
+        "name_with_initials": "H.P.T.N.K. Jayarathna",
         "image_url": "images/students/e10/e10143.jpg",
-        "current_affliation": "#"
+        "current_affliation": "#",
+        "page_url": "/students/e10/143/"
     },
     "E/10/146": {
         "reg_no": "E/10/146",

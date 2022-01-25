@@ -272,9 +272,10 @@
     },
     "E/11/313": {
         "reg_no": "E/11/313",
-        "name_with_initials": " M.P.Prematilake",
+        "name_with_initials": " M.P. Prematilake",
         "image_url": "images/students/e11/e11313.jpg",
-        "current_affliation": "#"
+        "current_affliation": "#",
+        "page_url": "/students/e11/313/"
     },
     "E/11/315": {
         "reg_no": "E/11/315",
