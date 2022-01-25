@@ -1,0 +1,154 @@
+---
+permalink : /search/advaned-search/by-name.json
+---
+{%- comment -%}
+This is used by the searchbox in pages/home.html
+Permalinks should be changed in sync with the link inside pages/home.html
+{%- endcomment -%}
+[
+  {% for post in site.pages %}
+  {%- comment -%}Add staff first so that it comes up at the top of search results{%- endcomment -%}
+    {% if post.layout == "staffDetails" %}
+      {%- comment -%}Staff profile page{%- endcomment -%}
+        {
+        "title" : "{{post.name_below_image}} ",
+        "url" : "{{ post.url | relative_url }}"
+        },
+    {% endif %}
+  {% endfor %}
+  {% for post in site.pages %}
+      {% if post.layout == "studentDetails" %}
+      {%- comment -%}Student profile page{%- endcomment -%}
+        {
+        "title" : "{{post.full_name}} - {{post.reg_no}}",
+        "name_with_initials": "{{post.name_with_initials}}",
+        "preferred_short_name": "{{post.preferred_short_name}}",
+        "preferred_long_name": "{{post.preferred_long_name}}",
+        "url" : "{{ post.url | relative_url }}"
+        },
+      {% else %}
+        {% continue %}
+      {% endif %}
+
+  {% endfor %}
+
+  {% for post in site.data.academic_support_staff %}
+  {%- comment -%}academic support staff pages{%- endcomment -%}
+    {
+        "title" : "{{ post.staff_name }} - Academic Support Staff",
+        "url"      : "{{ '/staff/academic_support_staff/' | relative_url }}"
+    },
+  {% endfor %}
+
+  {% assign batch = site.data.stud.e13  %}
+  {%- comment -%}Alumni pages that does not have student profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e13/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e12  %}
+  {%- comment -%}Alumni pages that does not have student profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e12/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e11  %}
+  {%- comment -%}Alumni pages that does not have student profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e11/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e10  %}
+  {%- comment -%}Alumni pages that does not have student profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e10/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e09  %}
+  {%- comment -%}Alumni pages that does not have student profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e09/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e08  %}
+  {%- comment -%}Alumni pages that does not have student profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e08/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e07  %}
+  {%- comment -%}Alumni pages that does not have student profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e07/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e06  %}
+  {%- comment -%}Alumni pages that does not have student profile pages{%- endcomment -%}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e06/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e05  %}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e05/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e04  %}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e04/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e03  %}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e03/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e02  %}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e02/"
+      },
+  {% endfor %}
+
+
+  {% for post in site.data.temporary_academic_staff %}
+  {%- comment -%}temporary academic staff pages{%- endcomment -%}
+    {
+        "title" : "{{ post.staff_name }} - Temporary Academic Staff",
+        "url"      : "{{ '/staff/temporary_academic_staff/' | relative_url }}"
+    },
+  {% endfor %}
+
+  {% for post in site.data.past_heads_of_dep %}
+  {%- comment -%}past heads of the department page{%- endcomment -%}
+    {
+        "title" : "{{ post.staff_name }} - Past Heads of the Department",
+        "url"      : "{{ '/staff/past_heads_of_dep/' | relative_url }}"
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+
+]
