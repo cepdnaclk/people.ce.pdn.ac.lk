@@ -153,7 +153,9 @@
         "reg_no": "E/13/181",
         "name_with_initials": " S.L.B.Karunarathne",
         "image_url": "images/students/e13/e13181.jpg",
-        "current_affliation": "#"
+        "current_affliation": "#",
+        "page_url": "/students/e13/181/"
+
     },
     "E/13/183": {
         "reg_no": "E/13/183",
@@ -189,7 +191,8 @@
         "reg_no": "E/13/206",
         "name_with_initials": " L.K.R.Liyanage",
         "image_url": "images/students/e13/e13206.jpg",
-        "current_affliation": "#"
+        "current_affliation": "#",
+        "page_url": "/students/e13/206/"
     },
     "E/13/216": {
         "reg_no": "E/13/216",
@@ -243,7 +246,8 @@
         "reg_no": "E/13/274",
         "name_with_initials": " Y.N.Rajapaksha",
         "image_url": "images/students/e13/e13274.jpg",
-        "current_affliation": "#"
+        "current_affliation": "#",
+        "page_url": "/students/e13/274/"
     },
     "E/13/276": {
         "reg_no": "E/13/276",
