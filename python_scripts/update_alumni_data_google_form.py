@@ -140,7 +140,7 @@ image_url: {image_path}
             # select student from json file
             jsonPath = f"../_data/stud/e{batch.lower()}.json"
             dataInJSON = json.load(open(jsonPath))
-            thisStudent = dataInJSON[studentData[REG_NO]]
+            thisStudent = dataInJSON[studentData[REG_NO].upper()]
 
             # change data
             thisStudent["page_url"] = f"/students/e{batch.lower()}/{regNo}/"
