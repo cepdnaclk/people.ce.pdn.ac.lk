@@ -11,6 +11,7 @@
 import requests
 import os
 import gdown  # pip install gdown
+import json  # to edit _data/exx.json
 import student_profile_page_titles
 import resize_student_images
 
@@ -73,8 +74,10 @@ if __name__ == "__main__":
 
         # image
         image_path = f"images/students/e{batch}/e{batch}{regNo}.jpg"
+        isImageDownloaded = False
         if studentData[URL_IMAGE] != "" and len(studentData[URL_IMAGE]) > 1:
             print(f"Downloading image to {image_path}")
+            isImageDownloaded = True
             # print(len(studentData[URL_IMAGE]))
             gdown.download("https://drive.google.com/uc?id=" +
                            studentData[URL_IMAGE].split("=")[1].strip(), "../"+image_path, quiet=True)
@@ -123,12 +126,27 @@ interests: \"{interests}\"
 image_url: {image_path}
 ---"""
 
-        # write to file
+        # write to html file
         file_url = "../"+f"pages/students/e{batch}/e{batch}{regNo}.html"
         os.makedirs(os.path.dirname(file_url), exist_ok=True)
         htmlFile = open(file_url, "w")
         htmlFile.write(outputString)
         htmlFile.close()
+
+        # update json if below E14
+        if int(batch[0:2]) < 14:
+            print("Updating JSON in _data folder")
+            jsonPath = f"../_data/stud/e{batch.lower()}.json"
+            dataInJSON = json.load(open(jsonPath))
+            thisStudent = dataInJSON[studentData[REG_NO]]
+
+            # change data
+            thisStudent["page_url"] = f"/students/e{batch.lower()}/{regNo}/"
+            thisStudent["name_with_initials"] = f"{studentData[NAME_WITH_INITIALS]}"
+            if isImageDownloaded:
+                thisStudent["image_url"] = image_path
+            jsonFile = open(jsonPath, "w")
+            jsonFile.write(json.dumps(dataInJSON, indent=4))
 
         print("-------------")
 
