@@ -24,19 +24,22 @@ title: Home
             <form class="card card-sm text-center">
                 <div class="card-body row no-gutters align-items-center">
                     <div class="col">
-                        <div class="input-group mb-3">
-                            <span class="input-group-text" id="basic-addon1">
+                        <div class="input-group">
+                            <span class="input-group-text text-primary" id="basic-addon1">
                                 <i class="fas fa-search"></i>
                             </span>
                             <input class="form-control" type="search" placeholder="Search people.ce.pdn.ac.lk" id="search-input" autofocus>
-                            <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">Advance</button>
+                            <!-- advance dropdown -->
+                            <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">Advance</button>
                             <ul class="dropdown-menu dropdown-menu-end">
                                 <li><a class="dropdown-item" href="/search/by-name">by Name</a></li>
                                 <li><a class="dropdown-item" href="/search/by-reg-no">by Registration Number</a></li>
                                 <li><a class="dropdown-item" href="/search/by-contact-number">by Contact Number</a></li>
                                 <li><a class="dropdown-item" href="/search/by-current-affiliation">by Current Affiliation</a></li>
                                 <li><a class="dropdown-item" href="/search/by-location">by Location</a></li>
-                                <li><hr class="dropdown-divider"></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
                                 <li><a class="dropdown-item" href="/search/by-interests">by Interests (Students)</a></li>
                                 <li><a class="dropdown-item" href="/advanced-search/by-research-interests">by Research Interest (Staff)</a></li>
                                 <li><a class="dropdown-item" href="#"></a></li>
@@ -75,73 +78,73 @@ title: Home
                             <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic/' | relative_url }}">Academic Staff</a>
                             <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/temporary_academic_staff/' | relative_url }}">Temporary Academic
                                 Staff</a>
-                                <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic_support_staff/' | relative_url }}">Academic Support
-                                    Staff</a>
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic_support_staff/' | relative_url }}">Academic Support
+                                Staff</a>
 
-                                    <br>
+                            <br>
 
-                                    <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/past_heads_of_dep/' | relative_url }}">Past Heads of the
-                                        Department</a>
-                                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic/past/' | relative_url }}">Past Academic Staff</a>
-                                    </ul>
-                                </div>
-                            </div>
-
-                            <!-- students -->
-                            <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
-                                <div class="card-header">
-                                    <h5>Students</h5>
-                                </div>
-                                <img src="{{ 'images/homepage/student.jpg'| relative_url }}" class="card-img-top p-3" alt="Students">
-                                <div class="card-body">
-                                    <!-- content is taken from _data/students.json -->
-                                    {%- for batch in site.data.students -%}
-                                    <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
-                                        batch.title }}</a>
-                                        {%- endfor -%}
-                                    </div>
-                                </div>
-
-                                <!-- alumni -->
-                                <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
-                                    <div class="card-header">
-                                        <h5>Alumni</h5>
-                                    </div>
-                                    <img src="{{ 'images/homepage/alumni.jpg'| relative_url }}" class="card-img-top p-3" alt="Students">
-                                    <div class="card-body">
-                                        <!-- content is taken from _data/alumni.json -->
-                                        {%- for batch in site.data.alumini -%}
-                                        {% if forloop.index < 4 %} <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
-                                            batch.title }}</a>
-                                            {% endif %}
-                                            {%- endfor -%}
-                                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/alumni/' | relative_url }}">View more</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                        <!-- Script pointing to search-script.js -->
-                        <script src="{{ 'assets/js/search-script.js' | relative_url}}" type="text/javascript"></script>
-                        <!-- Configuration -->
-                        <script>
-                            //prevent submit by pressing enter
-                            $(document).ready(function () {
-                                $(window).keydown(function (event) {
-                                    if (event.keyCode == 13) {
-                                        event.preventDefault();
-                                        return false;
-                                    }
-                                });
-                            });
-
-                            SimpleJekyllSearch({
-                                searchInput: document.getElementById('search-input'),
-                                resultsContainer: document.getElementById('results-container'),
-                                json: '{{ ' / search / search.json' | remove:" " | relative_url}}'
-                            })
-                        </script>
-
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/past_heads_of_dep/' | relative_url }}">Past Heads of the
+                                Department</a>
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic/past/' | relative_url }}">Past Academic Staff</a>
+                        </ul>
                     </div>
+                </div>
+
+                <!-- students -->
+                <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
+                    <div class="card-header">
+                        <h5>Students</h5>
+                    </div>
+                    <img src="{{ 'images/homepage/student.jpg'| relative_url }}" class="card-img-top p-3" alt="Students">
+                    <div class="card-body">
+                        <!-- content is taken from _data/students.json -->
+                        {%- for batch in site.data.students -%}
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
+                            batch.title }}</a>
+                        {%- endfor -%}
+                    </div>
+                </div>
+
+                <!-- alumni -->
+                <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
+                    <div class="card-header">
+                        <h5>Alumni</h5>
+                    </div>
+                    <img src="{{ 'images/homepage/alumni.jpg'| relative_url }}" class="card-img-top p-3" alt="Students">
+                    <div class="card-body">
+                        <!-- content is taken from _data/alumni.json -->
+                        {%- for batch in site.data.alumini -%}
+                        {% if forloop.index < 4 %} <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
+                            batch.title }}</a>
+                            {% endif %}
+                            {%- endfor -%}
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/alumni/' | relative_url }}">View more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Script pointing to search-script.js -->
+    <script src="{{ 'assets/js/search-script.js' | relative_url}}" type="text/javascript"></script>
+    <!-- Configuration -->
+    <script>
+        //prevent submit by pressing enter
+        $(document).ready(function () {
+            $(window).keydown(function (event) {
+                if (event.keyCode == 13) {
+                    event.preventDefault();
+                    return false;
+                }
+            });
+        });
+
+        SimpleJekyllSearch({
+            searchInput: document.getElementById('search-input'),
+            resultsContainer: document.getElementById('results-container'),
+            json: '{{ ' / search / search.json' | remove:" " | relative_url}}'
+                            })
+    </script>
+
+</div>
