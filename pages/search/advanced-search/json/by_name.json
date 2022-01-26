@@ -1,5 +1,5 @@
 ---
-permalink : /search/advanced-search/by-name.json
+permalink : /search/by-name.json
 ---
 [
   {% for post in site.pages %}

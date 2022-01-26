@@ -1,5 +1,5 @@
 ---
-permalink : /search/advanced-search/by-reg-no.json
+permalink : /search/by-reg-no.json
 ---
 [
   {% for post in site.pages %}
