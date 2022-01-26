@@ -23,14 +23,26 @@ title: Home
         <div class="col-12 col-md-10 col-lg-9">
             <form class="card card-sm text-center">
                 <div class="card-body row no-gutters align-items-center">
-                    <div class="col-auto pt-2" style="margin-left: 0.5rem;">
-                        <i class="fas fa-search h4 text-body"></i>
+                    <div class="col">
+                        <div class="input-group mb-3">
+                            <span class="input-group-text" id="basic-addon1">
+                                <i class="fas fa-search"></i>
+                            </span>
+                            <input class="form-control" type="search" placeholder="Search people.ce.pdn.ac.lk" id="search-input" autofocus>
+                            <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">Advance</button>
+                            <ul class="dropdown-menu dropdown-menu-end">
+                                <li><a class="dropdown-item" href="/search/by-name">by Name</a></li>
+                                <li><a class="dropdown-item" href="/search/by-reg-no">by Registration Number</a></li>
+                                <li><a class="dropdown-item" href="/search/by-contact-number">by Contact Number</a></li>
+                                <li><a class="dropdown-item" href="/search/by-current-affiliation">by Current Affiliation</a></li>
+                                <li><a class="dropdown-item" href="/search/by-location">by Location</a></li>
+                                <li><hr class="dropdown-divider"></li>
+                                <li><a class="dropdown-item" href="/search/by-interests">by Interests (Students)</a></li>
+                                <li><a class="dropdown-item" href="/advanced-search/by-research-interests">by Research Interest (Staff)</a></li>
+                                <li><a class="dropdown-item" href="#"></a></li>
+                            </ul>
+                        </div>
                     </div>
-                    <div class="col-9">
-                        <input class="form-control" type="search" placeholder="Search people.ce.pdn.ac.lk" id="search-input" autofocus>
-                    </div>
-                    <!-- <br class="d-md-none"> -->
-                    <div class="col-auto "><a type="button" class="btn btn-outline-primary" href="/advanced-search/">Advanced Search</a></div>
                 </div>
             </form>
         </div>
@@ -41,93 +53,95 @@ title: Home
         <div class="row">
             <div class="col-lg-2"></div>
             <div class="list-group col p-2">
-                <div id="results-container"></div>
-            </div>
-            <div class="col-lg-2"></div>
-        </div>
-    </div>
-
-    <!-- 3 cards in home -->
-    <div id="main-container" class="container pt-2 px-5">
-        <div class="row justify-content-center">
-            <!-- staff -->
-            <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
-                <div class="card-header">
-                    <h5>Staff</h5>
-                </div>
-                <img src="{{ 'images/homepage/staff.jpg'| relative_url }}" class="card-img-top p-3" alt="Staff">
-                <div class="card-body">
-                    <ul class="list-group list-group-flush">
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic/' | relative_url }}">Academic Staff</a>
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/temporary_academic_staff/' | relative_url }}">Temporary Academic
-                            Staff</a>
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic_support_staff/' | relative_url }}">Academic Support
-                            Staff</a>
-
-                        <br>
-
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/past_heads_of_dep/' | relative_url }}">Past Heads of the
-                            Department</a>
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic/past/' | relative_url }}">Past Academic Staff</a>
-                    </ul>
+                <div id="results-container">
                 </div>
             </div>
+            <div class="col-lg-2">
 
-            <!-- students -->
-            <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
-                <div class="card-header">
-                    <h5>Students</h5>
-                </div>
-                <img src="{{ 'images/homepage/student.jpg'| relative_url }}" class="card-img-top p-3" alt="Students">
-                <div class="card-body">
-                    <!-- content is taken from _data/students.json -->
-                    {%- for batch in site.data.students -%}
-                    <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
-                        batch.title }}</a>
-                    {%- endfor -%}
-                </div>
-            </div>
-
-            <!-- alumni -->
-            <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
-                <div class="card-header">
-                    <h5>Alumni</h5>
-                </div>
-                <img src="{{ 'images/homepage/alumni.jpg'| relative_url }}" class="card-img-top p-3" alt="Students">
-                <div class="card-body">
-                    <!-- content is taken from _data/alumni.json -->
-                    {%- for batch in site.data.alumini -%}
-                    {% if forloop.index < 4 %} <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
-                        batch.title }}</a>
-                        {% endif %}
-                        {%- endfor -%}
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/alumni/' | relative_url }}">View more</a>
-                </div>
             </div>
         </div>
-    </div>
-</div>
+
+        <!-- 3 cards in home -->
+        <div id="main-container" class="container pt-2 px-5">
+            <div class="row justify-content-center">
+                <!-- staff -->
+                <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
+                    <div class="card-header">
+                        <h5>Staff</h5>
+                    </div>
+                    <img src="{{ 'images/homepage/staff.jpg'| relative_url }}" class="card-img-top p-3" alt="Staff">
+                    <div class="card-body">
+                        <ul class="list-group list-group-flush">
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic/' | relative_url }}">Academic Staff</a>
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/temporary_academic_staff/' | relative_url }}">Temporary Academic
+                                Staff</a>
+                                <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic_support_staff/' | relative_url }}">Academic Support
+                                    Staff</a>
+
+                                    <br>
+
+                                    <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/past_heads_of_dep/' | relative_url }}">Past Heads of the
+                                        Department</a>
+                                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic/past/' | relative_url }}">Past Academic Staff</a>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <!-- students -->
+                            <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
+                                <div class="card-header">
+                                    <h5>Students</h5>
+                                </div>
+                                <img src="{{ 'images/homepage/student.jpg'| relative_url }}" class="card-img-top p-3" alt="Students">
+                                <div class="card-body">
+                                    <!-- content is taken from _data/students.json -->
+                                    {%- for batch in site.data.students -%}
+                                    <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
+                                        batch.title }}</a>
+                                        {%- endfor -%}
+                                    </div>
+                                </div>
+
+                                <!-- alumni -->
+                                <div class="card text-center p-2 cardSpacingHome border-primary" style="width:20rem;">
+                                    <div class="card-header">
+                                        <h5>Alumni</h5>
+                                    </div>
+                                    <img src="{{ 'images/homepage/alumni.jpg'| relative_url }}" class="card-img-top p-3" alt="Students">
+                                    <div class="card-body">
+                                        <!-- content is taken from _data/alumni.json -->
+                                        {%- for batch in site.data.alumini -%}
+                                        {% if forloop.index < 4 %} <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
+                                            batch.title }}</a>
+                                            {% endif %}
+                                            {%- endfor -%}
+                                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/alumni/' | relative_url }}">View more</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
 
 
-<!-- Script pointing to search-script.js -->
-<script src="{{ 'assets/js/search-script.js' | relative_url}}" type="text/javascript"></script>
-<!-- Configuration -->
-<script>
-    //prevent submit by pressing enter
-    $(document).ready(function () {
-        $(window).keydown(function (event) {
-            if (event.keyCode == 13) {
-                event.preventDefault();
-                return false;
-            }
-        });
-    });
+                        <!-- Script pointing to search-script.js -->
+                        <script src="{{ 'assets/js/search-script.js' | relative_url}}" type="text/javascript"></script>
+                        <!-- Configuration -->
+                        <script>
+                            //prevent submit by pressing enter
+                            $(document).ready(function () {
+                                $(window).keydown(function (event) {
+                                    if (event.keyCode == 13) {
+                                        event.preventDefault();
+                                        return false;
+                                    }
+                                });
+                            });
 
-    SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: '{{ ' / search / search.json' | remove:" " | relative_url}}'
-        })
-</script>
+                            SimpleJekyllSearch({
+                                searchInput: document.getElementById('search-input'),
+                                resultsContainer: document.getElementById('results-container'),
+                                json: '{{ ' / search / search.json' | remove:" " | relative_url}}'
+                            })
+                        </script>
 
-</div>
+                    </div>
