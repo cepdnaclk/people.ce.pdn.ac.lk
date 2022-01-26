@@ -9,7 +9,7 @@ layout: default
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">Home</a></li>
                 <li class="breadcrumb-item"><a href="/search/" class="link-light">Advanced Search</a></li>
-                <li class="breadcrumb-item text-white">Search by {{page.search_by}}</li>
+                <li class="breadcrumb-item text-white">Search {{page.search_by}}</li>
             </ol>
         </nav>
     </div>
@@ -18,7 +18,7 @@ layout: default
 <div class="container" style="min-height: 500px;">
     <br />
     <!-- search box -->
-    {% include search-box.html %}
+    {% include search-box.html search_by_text=page.search_by%}
 
     <!-- results container -->
     <div class="container">
