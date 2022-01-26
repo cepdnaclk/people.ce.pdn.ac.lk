@@ -136,6 +136,8 @@ image_url: {image_path}
         # update json if below E14
         if int(batch[0:2]) < 14:
             print("Updating JSON in _data folder")
+
+            # select student from json file
             jsonPath = f"../_data/stud/e{batch.lower()}.json"
             dataInJSON = json.load(open(jsonPath))
             thisStudent = dataInJSON[studentData[REG_NO]]
@@ -145,6 +147,8 @@ image_url: {image_path}
             thisStudent["name_with_initials"] = f"{studentData[NAME_WITH_INITIALS]}"
             if isImageDownloaded:
                 thisStudent["image_url"] = image_path
+
+            # write data back into json file
             jsonFile = open(jsonPath, "w")
             jsonFile.write(json.dumps(dataInJSON, indent=4))
 
