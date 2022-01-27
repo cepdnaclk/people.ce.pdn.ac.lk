@@ -94,7 +94,7 @@ if __name__ == "__main__":
         outputString = f"""---
 layout: studentDetails
 permalink: "/students/e{batch.lower()}/{regNo}/"
-title: {studentData[NAME_WITH_INITIALS]}
+title: {studentData[NAME_WITH_INITIALS].title()}
 
 reg_no: E/{batch.upper()}/{regNo}
 batch: E{batch.upper()}
@@ -102,10 +102,10 @@ batch: E{batch.upper()}
 department: {deparment}
 current_affiliation: \"{studentData[CURRENT_AFFILIATION]}\"
 
-full_name: {studentData[FULL_NAME]}
-name_with_initials: {studentData[NAME_WITH_INITIALS]}
-preferred_short_name: {studentData[PREFERRED_SHORT_NAME]}
-preferred_long_name: {studentData[PREFERRED_LONG_NAME]}
+full_name: {studentData[FULL_NAME].title()}
+name_with_initials: {studentData[NAME_WITH_INITIALS].title()}
+preferred_short_name: {studentData[PREFERRED_SHORT_NAME].title()}
+preferred_long_name: {studentData[PREFERRED_LONG_NAME].title()}
 honorific: {studentData[HONORIFIC]}
 
 email_faculty: {studentData[FACULTY_EMAIL]}
