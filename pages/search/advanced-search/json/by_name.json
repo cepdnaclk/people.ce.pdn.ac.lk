@@ -32,7 +32,7 @@ permalink : /search/by-name.json
   {%- comment -%}academic support staff pages{%- endcomment -%}
     {
         "title" : "{{ post.staff_name }} - Academic Support Staff",
-        "url"      : "{{ '/staff/academic_support_staff/' | relative_url }}"
+        "url"      : "{% link pages/staff/academic_support.html %}"
     },
   {% endfor %}
 
@@ -134,7 +134,7 @@ permalink : /search/by-name.json
   {%- comment -%}temporary academic staff pages{%- endcomment -%}
     {
         "title" : "{{ post.staff_name }} - Temporary Academic Staff",
-        "url"      : "{{ '/staff/temporary_academic_staff/' | relative_url }}"
+        "url"      : "{% link pages/staff/temporary_academic.html %}"
     },
   {% endfor %}
 
@@ -142,7 +142,7 @@ permalink : /search/by-name.json
   {%- comment -%}past heads of the department page{%- endcomment -%}
     {
         "title" : "{{ post.staff_name }} - Past Heads of the Department",
-        "url"      : "{{ '/staff/past_heads_of_dep/' | relative_url }}"
+        "url"      : "{% link pages/staff/past_heads_of_dep.html %}"
     }
     {% unless forloop.last %},{% endunless %}
   {% endfor %}

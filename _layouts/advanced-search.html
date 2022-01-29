@@ -7,8 +7,8 @@ layout: default
         <h1 class="text-white">Search {{page.search_by}}</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="/search/" class="link-light">Advanced Search</a></li>
+                <li class="breadcrumb-item"><a href="{% link pages/home.html %}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="{% link pages/search/advanced-search.html %}" class="link-light">Advanced Search</a></li>
                 <li class="breadcrumb-item text-white">Search {{page.search_by}}</li>
             </ol>
         </nav>

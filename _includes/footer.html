@@ -8,10 +8,10 @@ This is the footer used in every page
         copyright text
         {%- endcomment -%}
         <p class="col-md-6 mb-1 text-muted" style="font-size:80%;">&copy; COPYRIGHT {{site.time | date: "%Y" }} DEPARTMENT OF COMPUTER ENGINEERING, UOP<br>
-        {%- comment -%}
-        Last updated text
-        {%- endcomment -%}
-        Last Update : {{site.time | date: "%d/%m/%Y" }}
+            {%- comment -%}
+            Last updated text
+            {%- endcomment -%}
+            Last Update : {{site.time | date: "%d/%m/%Y" }}
         </p>
         <p class="text-xl-left text-muted" style="font-size:80%;">
 
@@ -22,33 +22,29 @@ This is the footer used in every page
             {%- comment -%}
             Documentation link
             {%- endcomment -%}
-            <a href="{{ '/documentation/' | relative_url }}">Documentation</a>
+            <a href="{% link pages/documentation/index.html %}">Documentation</a>
 
 
             {%- comment -%}
             Edit this page on github link
             {%- endcomment -%}
             {% if page.layout == "studentDetails" or page.layout == "staffDetails" or page.permalink contains "documentation" %}
-            | <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/{{page.path}}" rel="noreferrer"
-                target="_blank">
+            | <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/{{page.path}}" rel="noreferrer" target="_blank">
                 <i class="fab fa-github"></i> Edit this page on GitHub</a>
             {% endif %}
 
             {% if page.type == "Academic Support" %}
-            | <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/_data/academic_support_staff.json"
-                rel="noreferrer" target="_blank">
+            | <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/_data/academic_support_staff.json" rel="noreferrer" target="_blank">
                 <i class="fab fa-github"></i> Edit this page on GitHub</a>
             {% endif %}
 
             {% if page.type == "Temporary Academic" %}
-            | <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/_data/temporary_academic_staff.json"
-                rel="noreferrer" target="_blank">
+            | <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/_data/temporary_academic_staff.json" rel="noreferrer" target="_blank">
                 <i class="fab fa-github"></i> Edit this page on GitHub</a>
             {% endif %}
 
             {% if page.type == "Past Heads of Dept" %}
-            <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/_data/past_heads_of_dep.json"
-                rel="noreferrer" target="_blank">
+            <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/_data/past_heads_of_dep.json" rel="noreferrer" target="_blank">
                 <i class="fab fa-github"></i> Edit this page on GitHub</a>
             {% endif %}
 
@@ -56,11 +52,11 @@ This is the footer used in every page
             Google form links to update page
             {%- endcomment -%}
             {% if page.layout == "studentDetails" %}
-            | <a href="{{ '/form/student/' | relative_url }}" rel="noreferrer" target="_blank">
+            | <a href="{% link pages/forms/student.html %}" rel="noreferrer" target="_blank">
                 Update via Google Form </a>
             {% endif %}
             {% if page.layout == "studentList_no_prof_link" %}
-            | <a href="{{ '/form/alumni/' | relative_url }}" rel="noreferrer" target="_blank">
+            | <a href="{% link pages/forms/alumni.html %}" rel="noreferrer" target="_blank">
                 Update via Google Form </a>
             {% endif %}
         </p>

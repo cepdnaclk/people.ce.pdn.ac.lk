@@ -10,9 +10,8 @@ Basic layout for the documentation pages
         <h1 class="text-white">{{page.question}}</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href=" {{ '/' | relative_url }}" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href=" {{ '/documentation/' | relative_url }}"
-                        class="link-light">Documentation</a></li>
+                <li class="breadcrumb-item"><a href=" {% link pages/home.html %}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="{% link pages/documentation/index.html %}" class="link-light">Documentation</a></li>
                 <li class="breadcrumb-item active text-white">{{page.question}}</li>
             </ol>
         </nav>

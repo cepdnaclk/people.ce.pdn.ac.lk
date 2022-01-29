@@ -12,23 +12,23 @@ Used to create the search box in home page and in advanced search pages
                         <span class="input-group-text text-primary border-primary" id="basic-addon1">
                             <i class="fas fa-search"></i>
                         </span>
-                        
+
                         <!-- textbox -->
                         <input class="form-control border-primary" type="search" placeholder="Search people.ce.pdn.ac.lk {{include.search_by_text}}" id="search-input" autofocus>
-                        
+
                         <!-- advance dropdown -->
                         <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">Advanced</button>
                         <ul class="dropdown-menu dropdown-menu-end">
-                            <li><a class="dropdown-item" href="/search/by-name">by Name</a></li>
-                            <li><a class="dropdown-item" href="/search/by-reg-no">by Registration Number</a></li>
-                            <li><a class="dropdown-item" href="/search/by-contact-number">by Contact Number</a></li>
-                            <li><a class="dropdown-item" href="/search/by-current-affiliation">by Current Affiliation</a></li>
-                            <li><a class="dropdown-item" href="/search/by-location">by Location</a></li>
+                            <li><a class="dropdown-item" href="{% link pages/search/advanced-search/by-name.html %}">by Name</a></li>
+                            <li><a class="dropdown-item" href="{% link pages/search/advanced-search/by-reg-number.html %}">by Registration Number</a></li>
+                            <li><a class="dropdown-item" href="{% link pages/search/advanced-search/by-contact-number.html %}">by Contact Number</a></li>
+                            <li><a class="dropdown-item" href="{% link pages/search/advanced-search/by-current-affliation.html %}">by Current Affiliation</a></li>
+                            <li><a class="dropdown-item" href="{% link pages/search/advanced-search/by-location.html %}">by Location</a></li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="/search/by-interests">by Interests (Students)</a></li>
-                            <li><a class="dropdown-item" href="/search/by-research-interests">by Research Interest (Staff)</a></li>
+                            <li><a class="dropdown-item" href="{% link pages/search/advanced-search/by-interests.html %}"">by Interests (Students)</a></li>
+                            <li><a class=" dropdown-item" href="{% link pages/search/advanced-search/by-research-interests.html %}">by Research Interest (Staff)</a></li>
                         </ul>
                     </div>
                 </div>
