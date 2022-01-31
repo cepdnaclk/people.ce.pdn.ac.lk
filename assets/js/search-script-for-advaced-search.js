@@ -4,7 +4,7 @@
  * Licensed under the MIT License.
  */
 
-// number of results is not limited to 10 in this one
+// number of results is not limited to 10 in this one (line 197)
 !(function () {
   "use strict";
   var f = {
@@ -194,7 +194,7 @@
         },
         noResultsText: "No results found",
         // number of results is not limited to 10 in this one
-        limit: 999,
+        limit: 75,
         fuzzy: !1,
         debounceTime: null,
         exclude: [],
