@@ -27,6 +27,8 @@ for x in range(0, 10000):
                       74:text.find('''class=''', text.find('''<div class="page-context-header"><div class="page-header-image"><img src="''') +
                       74)-2]
         name = text[text.find("<title>")+7:text.find("</title>")-14]
+        if len(name+link) > 200:
+            continue
         print(name, link)
         fileOpened.write(name + link + "\n")
 fileOpened.close()
