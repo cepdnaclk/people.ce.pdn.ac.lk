@@ -2,7 +2,7 @@
     {
         "staff_name" : "Amila Indika",
         "text_below_name" : "System Administrator",
-        "url_image" : "images/staff/temporary_academic_staff/amila.jpg",
+        "url_image" : "images/staff/temporary-academic-staff/amila.jpg",
         "email": "amilaindika@eng.pdn.ac.lk ",
         "url_profile" : "students/e14/142",
         "joined_date": "",
@@ -11,7 +11,7 @@
     {
         "staff_name" : "Chathuri Aththanayake",
         "text_below_name" : "Temporary Instructor",
-        "url_image" : "images/staff/temporary_academic_staff/chathuri.jpg",
+        "url_image" : "images/staff/temporary-academic-staff/chathuri.jpg",
         "email": "chathurimalee@eng.pdn.ac.lk",
         "url_profile" : "",
         "joined_date": "",
@@ -20,7 +20,7 @@
     {
         "staff_name" : "Arjuna Thennakoon",
         "text_below_name" : "Temporary Instructor",
-        "url_image" : "images/staff/temporary_academic_staff/arjuna.jpg",
+        "url_image" : "images/staff/temporary-academic-staff/arjuna.jpg",
         "email": "arjunat@eng.pdn.ac.lk",
         "url_profile" : "",
         "joined_date": "",
@@ -29,7 +29,7 @@
     {
         "staff_name" : "Kanchana Jayasinghe",
         "text_below_name" : "Temporary Instructor",
-        "url_image" : "images/staff/temporary_academic_staff/kanchana.jpg",
+        "url_image" : "images/staff/temporary-academic-staff/kanchana.jpg",
         "email": "kc43224jayasinghe@eng.pdn.ac.lk",
         "url_profile" : "",
         "joined_date": "",
@@ -38,7 +38,7 @@
     {
         "staff_name" : "Anjalee Wanigarathne",
         "text_below_name" : "Temporary Instructor",
-        "url_image" : "images/staff/temporary_academic_staff/anjalee.jpg",
+        "url_image" : "images/staff/temporary-academic-staff/anjalee.jpg",
         "email": "anj.wanigarathne@eng.pdn.ac.lk",
         "url_profile" : "",
         "joined_date": "",
@@ -47,7 +47,7 @@
     {
         "staff_name" : "Thushara Bandara",
         "text_below_name" : "Temporary Instructor",
-        "url_image" : "images/staff/temporary_academic_staff/thushara.jpeg",
+        "url_image" : "images/staff/temporary-academic-staff/thushara.jpeg",
         "email": "thusharab@eng.pdn.ac.lk",
         "url_profile" : "",
         "joined_date": "",
@@ -56,7 +56,7 @@
     {
         "staff_name" : "Kalani Hansima",
         "text_below_name" : "Temporary Instructor",
-        "url_image" : "images/staff/temporary_academic_staff/kalani.jpeg",
+        "url_image" : "images/staff/temporary-academic-staff/kalani.jpeg",
         "email": "kalaniu@eng.pdn.ac.lk",
         "url_profile" : "",
         "joined_date": "",
@@ -65,7 +65,7 @@
     {
         "staff_name" : "Dilshani Karunarathna",
         "text_below_name" : "Temporary Instructor",
-        "url_image" : "images/staff/temporary_academic_staff/dilshani.jpg",
+        "url_image" : "images/staff/temporary-academic-staff/dilshani.jpg",
         "email": "dilshanik@eng.pdn.ac.lk",
         "url_profile" : "students/e15/173",
         "joined_date": "2021-10-21",
@@ -74,7 +74,7 @@
     {
         "staff_name" : "Nuwan Jaliyagoda",
         "text_below_name" : "Temporary Instructor",
-        "url_image" : "images/staff/temporary_academic_staff/nuwan.jpg",
+        "url_image" : "images/staff/temporary-academic-staff/nuwan.jpg",
         "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
         "url_profile" : "/students/e15/140",
         "joined_date": "2021-10-21",
@@ -83,7 +83,7 @@
     {
         "staff_name" : "Imesh Ekanayake",
         "text_below_name" : "Temporary Instructor",
-        "url_image" : "images/staff/temporary_academic_staff/imesh.png",
+        "url_image" : "images/staff/temporary-academic-staff/imesh.png",
         "email": "imeshuek@eng.pdn.ac.lk",
         "url_profile" : "/students/e15/092",
         "joined_date": "2021-10-21",
@@ -92,7 +92,7 @@
     {
         "staff_name" : "Keshara Weerasinghe",
         "text_below_name" : "Temporary Instructor",
-        "url_image" : "images/staff/temporary_academic_staff/keshara.jpg",
+        "url_image" : "images/staff/temporary-academic-staff/keshara.jpg",
         "email": "kesharaw@eng.pdn.ac.lk",
         "url_profile" : "/students/e15/383",
         "joined_date": "2021-10-21",
