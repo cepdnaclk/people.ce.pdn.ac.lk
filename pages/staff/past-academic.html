@@ -32,7 +32,7 @@ title: Past Academic Staff
         </ul>
 
         <div class="row justify-content-center">
-            <!-- add profile page to pages/staff/academic_staff. it will be added here automatically if on_duty = false -->
+            <!-- add profile page to pages/staff/academic-staff. it will be added here automatically if on_duty = false -->
             {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Professor" past=true %}
 
             {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Senior Lecturer" past=true
