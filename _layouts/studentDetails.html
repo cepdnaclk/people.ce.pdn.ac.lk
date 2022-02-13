@@ -290,6 +290,21 @@ breadcrumb
                 </div>
             </div>
 
+            <!-- Projects -->
+            {%- assign projects = site.data.student_projects[page.reg_no] -%}
+            {%- assign project_count = projects | size -%}
+            {% if project_count > 0 %}
+            <div class="card mt-3">
+                <div class="card-header" style="font-weight: 500">Projects</div>
+                <div class="card-body mx-2">
+                    <div class="row">
+                        {%- for p in projects -%}
+                        {%- include projectCard.html title=p.title thumb=p.thumbnail_url url=p.project_url cat=p.category.title -%}
+                        {%- endfor -%}
+                    </div>
+                </div>
+            </div>
+            {%- endif -%}
             {{content}}
         </div>
     </div>
