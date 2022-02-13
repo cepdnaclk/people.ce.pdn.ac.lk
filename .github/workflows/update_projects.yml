@@ -28,7 +28,7 @@ jobs:
           pip install requests
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Generate Student HTML files with new Titles
+      - name: Update Student Project Details
         run: |
           cd ./python_scripts
           python3 update_projects.py
