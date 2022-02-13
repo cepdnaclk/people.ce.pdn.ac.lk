@@ -1,11 +1,9 @@
 name: Update Student Project Details
 
 on:
-  # # At 18:30 UTC on Sunday (12.00 mid night in Sri Lanka)
-  - cron: "30 18 * * 0"
-
+  schedule:
   # # At 18:30 UTC on everyday (12.00 mid night in Sri Lanka)
-  # - cron: "0 0 * * 0"
+    - cron: "30 18 * * *"
 
   # Enables a button on Actions tab
   workflow_dispatch:
