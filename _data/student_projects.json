@@ -3211,6 +3211,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-E-Parking-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/E-Parking-System/"
+        },
+        {
+            "title": "Skim Sequencing Analysis",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Skim-Sequencing-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-Skim-Sequencing-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-Skim-Sequencing-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Skim-Sequencing-Analysis/"
         }
     ],
     "E/17/027": [
@@ -3602,6 +3615,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-maker-mate",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/maker-mate/"
+        },
+        {
+            "title": "Skim Sequencing Analysis",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Skim-Sequencing-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-Skim-Sequencing-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-Skim-Sequencing-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Skim-Sequencing-Analysis/"
         }
     ],
     "E/17/201": [
@@ -3881,6 +3907,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-E-Parking-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/E-Parking-System/"
+        },
+        {
+            "title": "Skim Sequencing Analysis",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Skim-Sequencing-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-Skim-Sequencing-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-Skim-Sequencing-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Skim-Sequencing-Analysis/"
         }
     ],
     "E/17/297": [
