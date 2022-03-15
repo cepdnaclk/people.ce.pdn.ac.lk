@@ -46,11 +46,9 @@ breadcrumbs
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="{% link pages/home.html %}" class="link-light">Home</a></li>
                 {% if page.on_duty %}
-                <li class="breadcrumb-item"><a href="{% link pages/staff/academic.html %}"
-                        class="link-light">Academic Staff</a></li>
+                <li class="breadcrumb-item"><a href="{% link pages/staff/academic.html %}" class="link-light">Academic Staff</a></li>
                 {% else %}
-                <li class="breadcrumb-item"><a href="{% link pages/staff/past-academic.html %}"
-                        class="link-light">Past
+                <li class="breadcrumb-item"><a href="{% link pages/staff/past-academic.html %}" class="link-light">Past
                         Academic Staff</a></li>
                 {% endif %}
 
@@ -81,8 +79,7 @@ breadcrumbs
                         {%- comment -%}
                         Image
                         {%- endcomment -%}
-                        <img src="{{ page.url_image | relative_url}}" alt="Admin" class="img-fluid p-2"
-                            style="border-radius: 10%" width="">
+                        <img src="{{ page.url_image | relative_url}}" alt="Admin" class="img-fluid p-2" style="border-radius: 10%" width="">
                         <div class="mt-2">
                             <h4>{{page.name_below_image}}</h4>
                             <p class="text-secondary mb-1" style="text-align: center;">{{page.text_below_name}}</p>
@@ -126,8 +123,7 @@ breadcrumbs
                     {% if page.url_google_scholar %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-google"></i> Google Scholar</h6>
-                        <span class="text-secondary"> <a href="{{page.url_google_scholar}}" target="_blank"><button
-                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_google_scholar}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                     </li>
                     {% endif %}
 
@@ -135,8 +131,7 @@ breadcrumbs
                     {% if page.url_orcid %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-orcid"></i> ORCID</h6>
-                        <span class="text-secondary"> <a href="{{page.url_orcid}}" target="_blank"><button type="button"
-                                    class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_orcid}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                     </li>
                     {% endif %}
 
@@ -144,8 +139,7 @@ breadcrumbs
                     {% if page.url_researchgate %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-researchgate"></i> ResearchGate</h6>
-                        <span class="text-secondary"> <a href="{{page.url_researchgate}}" target="_blank"><button
-                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_researchgate}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                     </li>
                     {% endif %}
 
@@ -153,8 +147,7 @@ breadcrumbs
                     {% if page.url_website %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fas fa-globe"></i> Website</h6>
-                        <span class="text-secondary"> <a href="{{page.url_website}}" target="_blank"><button
-                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_website}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                     </li>
                     {% endif %}
 
@@ -162,11 +155,17 @@ breadcrumbs
                     {% if page.url_linkedin %}
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fab fa-linkedin"></i> LinkedIn</h6>
-                        <span class="text-secondary"> <a href="{{page.url_linkedin}}" target="_blank"><button
-                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_linkedin}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                     </li>
                     {% endif %}
 
+                    <!-- AD scientific index -->
+                    {% if page.url_ad_scientific_index %}
+                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
+                        <h6 class="mb-0"> <img src="https://www.adscientificindex.com/favicon.ico?v=1" width="14" height="16.8"> AD Scientific Index</h6>
+                        <span class="text-secondary"> <a href="{{page.url_ad_scientific_index}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                    </li>
+                    {% endif %}
 
 
                 </ul>
