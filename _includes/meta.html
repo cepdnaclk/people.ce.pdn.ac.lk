@@ -2,4 +2,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
 
-{% seo %}
+{%- if page.title -%}
+<title>{{ page.title }} | people.ce.pdn.ac.lk</title>
+{%- else -%}
+<title>People - Department of Computer Engineering, UoP</title>
+{%- endif -%}
+
+{% seo title=false %}
