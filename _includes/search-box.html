@@ -19,16 +19,16 @@ Used to create the search box in home page and in advanced search pages
                         <!-- advance dropdown -->
                         <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">Advanced</button>
                         <ul class="dropdown-menu dropdown-menu-end">
-                            <li><a class="dropdown-item" href="{% link pages/search/advanced-search/by-name.html %}">by Name</a></li>
-                            <li><a class="dropdown-item" href="{% link pages/search/advanced-search/by-reg-number.html %}">by Registration Number</a></li>
-                            <li><a class="dropdown-item" href="{% link pages/search/advanced-search/by-contact-number.html %}">by Contact Number</a></li>
-                            <li><a class="dropdown-item" href="{% link pages/search/advanced-search/by-current-affliation.html %}">by Current Affiliation</a></li>
-                            <li><a class="dropdown-item" href="{% link pages/search/advanced-search/by-location.html %}">by Location</a></li>
+                            <li><a class="dropdown-item" href="{{ '/search/advanced-search/by-name/' | relative_url }}">by Name</a></li>
+                            <li><a class="dropdown-item" href="{{ '/search/advanced-search/by-reg-number/' | relative_url }}">by Registration Number</a></li>
+                            <li><a class="dropdown-item" href="{{ '/search/advanced-search/by-contact-number/' | relative_url }}">by Contact Number</a></li>
+                            <li><a class="dropdown-item" href="{{ '/search/advanced-search/by-current-affliation/' | relative_url }}">by Current Affiliation</a></li>
+                            <li><a class="dropdown-item" href="{{ '/search/advanced-search/by-location/' | relative_url }}">by Location</a></li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="{% link pages/search/advanced-search/by-interests.html %}"">by Interests (Students)</a></li>
-                            <li><a class=" dropdown-item" href="{% link pages/search/advanced-search/by-research-interests.html %}">by Research Interest (Staff)</a></li>
+                            <li><a class="dropdown-item" href="{{ '/search/advanced-search/by-interests/' relative_url }}"">by Interests (Students)</a></li>
+                            <li><a class=" dropdown-item" href="{{ '/search/advanced-search/by-research-interests/' relative_url }}">by Research Interest (Staff)</a></li>
                         </ul>
                     </div>
                 </div>

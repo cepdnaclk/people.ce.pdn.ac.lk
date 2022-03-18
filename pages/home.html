@@ -41,17 +41,17 @@ title: Home
                     <img src="{{ '/images/homepage/staff.jpg'| relative_url }}" class="card-img-top p-3" alt="Staff">
                     <div class="card-body">
                         <ul class="list-group list-group-flush">
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{% link pages/staff/academic.html %}">Academic Staff</a>
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{% link pages/staff/temporary-academic.html %}">Temporary Academic
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic/' | relative_url }}">Academic Staff</a>
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/temporary-academic-staff/' | relative_url }}">Temporary Academic
                                 Staff</a>
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{% link pages/staff/academic-support.html %}">Academic Support
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic-support-staff/' | relative_url }}">Academic Support
                                 Staff</a>
 
                             <br>
 
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{% link pages/staff/past-heads-of-dep.html %}">Past Heads of the
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/past-heads-of-dep/' | relative_url }}">Past Heads of the
                                 Department</a>
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{% link pages/staff/past-academic.html %}">Past Academic Staff</a>
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic/past/' | relative_url }}">Past Academic Staff</a>
                         </ul>
                     </div>
                 </div>
@@ -84,7 +84,7 @@ title: Home
                             batch.title }}</a>
                             {% endif %}
                             {%- endfor -%}
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{% link pages/alumni.html %}">View more</a>
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/pages/alumni.' | relative_url }}">View more</a>
                     </div>
                 </div>
             </div>

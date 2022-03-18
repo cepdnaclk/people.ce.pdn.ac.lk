@@ -9,7 +9,7 @@ permalink: /search/
         <h1 class="text-white">Advanced Search</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{% link pages/home.html %}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">Home</a></li>
                 <li class="breadcrumb-item text-white"><a>Advanced Search</a></li>
             </ol>
         </nav>
@@ -19,12 +19,12 @@ permalink: /search/
 <!-- buttons for pages -->
 <div class="container py-4 px-lg-5">
     <div class="row justify-content-center">
-        <a class="btn btn-outline-primary w-25  m-2" href="{% link pages/search/advanced-search/by-name.html %}">By Name</a>
-        <a class="btn btn-outline-primary w-25  m-2" href="{% link pages/search/advanced-search/by-contact-number.html %}">By Contact Number</a>
-        <a class="btn btn-outline-primary w-25  m-2" href="{% link pages/search/advanced-search/by-current-affliation.html %}">By Current Affiliation</a>
-        <a class="btn btn-outline-primary w-25  m-2" href="{% link pages/search/advanced-search/by-interests.html %}">By Interest (Student)</a>
-        <a class="btn btn-outline-primary w-25  m-2" href="{% link pages/search/advanced-search/by-location.html %}">By Location</a>
-        <a class="btn btn-outline-primary w-25  m-2" href="{% link pages/search/advanced-search/by-reg-number.html %}">By Registration Number</a>
-        <a class="btn btn-outline-primary w-25  m-2" href="{% link pages/search/advanced-search/by-research-interests.html %}">By Research Interests (Staff)</a>
+        <a class="btn btn-outline-primary w-25  m-2" href="{{ '/search/advanced-search/by-name/ ' | relative_url }}">By Name</a>
+        <a class="btn btn-outline-primary w-25  m-2" href="{{ '/search/advanced-search/by-contact-number/ ' | relative_url }}">By Contact Number</a>
+        <a class="btn btn-outline-primary w-25  m-2" href="{{ '/search/advanced-search/by-current-affliation/ ' | relative_url }}">By Current Affiliation</a>
+        <a class="btn btn-outline-primary w-25  m-2" href="{{ '/search/advanced-search/by-interests/ ' | relative_url }}">By Interest (Student)</a>
+        <a class="btn btn-outline-primary w-25  m-2" href="{{ '/search/advanced-search/by-location/ ' | relative_url }}">By Location</a>
+        <a class="btn btn-outline-primary w-25  m-2" href="{{ '/search/advanced-search/by-reg-number/ ' | relative_url }}">By Registration Number</a>
+        <a class="btn btn-outline-primary w-25  m-2" href="{{ '/search/advanced-search/by-research-interests/ ' | relative_url }}">By Research Interests (Staff)</a>
     </div>
 </div>

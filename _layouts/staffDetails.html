@@ -44,11 +44,11 @@ breadcrumbs
         <h1 class="text-white">{{page.name_below_image}}</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{% link pages/home.html %}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">Home</a></li>
                 {% if page.on_duty %}
-                <li class="breadcrumb-item"><a href="{% link pages/staff/academic.html %}" class="link-light">Academic Staff</a></li>
+                <li class="breadcrumb-item"><a href="{{ '/staff/academic/' | relative_url }}" class="link-light">Academic Staff</a></li>
                 {% else %}
-                <li class="breadcrumb-item"><a href="{% link pages/staff/past-academic.html %}" class="link-light">Past
+                <li class="breadcrumb-item"><a href="{{ '/staff/academic/past/' | relative_url }}" class="link-light">Past
                         Academic Staff</a></li>
                 {% endif %}
 
