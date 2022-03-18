@@ -8,7 +8,7 @@ layout: default
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="{{ '/search/advanced-search' | relative_url }}" class="link-light">Advanced Search</a></li>
+                <li class="breadcrumb-item"><a href="{{ '/search/' | relative_url }}" class="link-light">Advanced Search</a></li>
                 <li class="breadcrumb-item text-white">Search {{page.search_by}}</li>
             </ol>
         </nav>
@@ -33,7 +33,7 @@ layout: default
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="{{ 'assets/js/search-script-for-advaced-search.js' | relative_url}}" type="text/javascript"></script>
+<script src="{{ '/assets/js/search-script-for-advaced-search.js' | relative_url}}" type="text/javascript"></script>
 <!-- Configuration -->
 <script>
     //prevent submit by pressing enter
@@ -49,6 +49,6 @@ layout: default
     SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        json: '{{ page.json_link }}'
+        json: '{{ site.baseurl }}{{ page.json_link }}'
     })
 </script>
