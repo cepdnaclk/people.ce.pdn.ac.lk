@@ -29,7 +29,7 @@ permalink : /search/by-email.json
     {
         "title" : "{{ post.staff_name }} - Academic Support Staff",
         "email": "{{post.email}}",
-        "url"      : "{{ '/staff/academic-support/' | relative_url }}"
+        "url"      : "{{ '/staff/academic-support-staff/' | relative_url }}"
     },
   {% endfor %}
 

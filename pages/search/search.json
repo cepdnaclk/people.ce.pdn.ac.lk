@@ -53,7 +53,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
   {%- comment -%}academic support staff pages{%- endcomment -%}
     {
         "title" : "{{ post.staff_name }} - Academic Support Staff",
-        "url"      : "{{ '/staff/academic-support/' | relative_url }}"
+        "url"      : "{{ '/staff/academic-support-staff/' | relative_url }}"
     },
   {% endfor %}
 
@@ -179,7 +179,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
   {%- comment -%}temporary academic staff pages{%- endcomment -%}
     {
         "title" : "{{ post.staff_name }} - Temporary Academic Staff",
-        "url"      : "{{ '/staff/temporary-academic/' | relative_url }}"
+        "url"      : "{{ '/staff/temporary-academic-staff/' | relative_url }}"
     },
   {% endfor %}
 
