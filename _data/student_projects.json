@@ -3549,6 +3549,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/apparel-industry-performance-analyser/"
         }
     ],
+    "E/17/148": [
+        {
+            "title": "Greenhouse Monitoring System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Greenhouse-Monitoring-System/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-Greenhouse-Monitoring-System",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-Greenhouse-Monitoring-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Greenhouse-Monitoring-System/"
+        }
+    ],
     "E/17/153": [
         {
             "title": "Smart Pour",
@@ -3719,6 +3734,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-Landmine-Detector",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Landmine-Detector/"
+        },
+        {
+            "title": "Greenhouse Monitoring System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Greenhouse-Monitoring-System/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-Greenhouse-Monitoring-System",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-Greenhouse-Monitoring-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Greenhouse-Monitoring-System/"
         }
     ],
     "E/17/207": [
@@ -4074,6 +4102,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-Landmine-Detector",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Landmine-Detector/"
+        },
+        {
+            "title": "Greenhouse Monitoring System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Greenhouse-Monitoring-System/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-Greenhouse-Monitoring-System",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-Greenhouse-Monitoring-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Greenhouse-Monitoring-System/"
         }
     ],
     "E/17/312": [
