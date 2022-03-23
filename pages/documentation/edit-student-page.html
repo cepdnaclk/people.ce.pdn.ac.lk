@@ -14,9 +14,7 @@ There are 2 methods of editing a Student Profile page.
     <ul>
         <li>Easier if you are making a lot of changes.</li>
         <li>If you want to just change one variable. You will have to copy the rest of the existing values to the Google Form.</li>
-        <!-- <li>The batches, E14 and after, use this <a href="{% link pages/forms/student.html %}">Form.</a></li>
-        <li>For previous batches, use this <a href="{% link pages/forms/alumni.html %}">Form.</a></li> -->
-        <li>View Google <a href="{% link pages/forms/unified.html %}">Form.</a></li>
+        <li>View Google <a href="{{ '/forms/unified.html' | relative_url }}">Form.</a></li>
     </ul>
     <b>Notes:</b>
     <ul>
@@ -38,7 +36,7 @@ There are 2 methods of editing a Student Profile page.
     <ul>
         <li>Manually navigate to the page</li>
         <li>Or, use the search page to find it (On the search page {% include documentation_image.html url_image='/images/docs/search_reg_no.PNG' text='your'%} registration number)</li>
-        <li>If your profile page is missing, please click <a href="{% link pages/documentation/edit-student-page.html %}">here</a>, and upload it</li>
+        <li>If your profile page is missing, please click <a href="{{ '/documentation/edit-student-page/'| relative_url }}">here</a>, and upload it</li>
     </ul>
     <br>
 
@@ -158,7 +156,7 @@ There are 2 methods of editing a Student Profile page.
                     <tr>
                         <th scope="row">image_url</th>
                         <td>This is the image on your profile page. Do not change for now.
-                            If you want to change the profile picture. Follow <a href="{% link pages/documentation/change-profile-pic-student.html %}">these</a> instructions separately.
+                            If you want to change the profile picture. Follow <a href="{{ '/documentation/change-add-student-profile-pic/' | relative_url }}">these</a> instructions separately.
                         </td>
                     </tr>
                 </tbody>

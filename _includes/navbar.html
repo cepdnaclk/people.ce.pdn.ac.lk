@@ -7,7 +7,7 @@ Contains the logo, home staff students alumni links
         {%- comment -%}
         logo
         {%- endcomment -%}
-        <a href="{% link pages/home.html %}"
+        <a href="{{ '/' | relative_url }}"
             class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
             <span class="fs-4"><img src="{{ '/assets/img/header-logo.png' | relative_url }}" alt=""></span>
         </a>
@@ -16,28 +16,28 @@ Contains the logo, home staff students alumni links
             {%- comment -%}
             Home
             {%- endcomment -%}
-            <li class="nav-item"><a href="{% link pages/home.html %}" class="nav-link">Home</a></li>
+            <li class="nav-item"><a href="{{ '/' | relative_url }}" class="nav-link">Home</a></li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown"
                     aria-expanded="false">Staff</a>
                 <ul class="dropdown-menu" aria-labelledby="dropdown01">
                     <li><a class="dropdown-item d-flex align-items-center gap-2 py-2"
-                            href="{% link pages/staff/academic.html %}"><span
+                            href="{{ '/staff/academic/' | relative_url }}"><span
                                 class="d-inline-block bg-primary rounded-circle"
                                 style="width: .5em; height: .5em;"></span>Academic Staff</a>
                     </li>
                     <li><a class="dropdown-item d-flex align-items-center gap-2 py-2"
-                            href="{% link pages/staff/past-heads-of-dep.html %}"><span
+                            href="{{ '/staff/past-heads-of-dep/' | relative_url }}"><span
                                 class="d-inline-block bg-primary rounded-circle"
                                 style="width: .5em; height: .5em;"></span>Past Heads of the Department</a>
                     </li>
                     <li><a class="dropdown-item d-flex align-items-center gap-2 py-2"
-                            href="{% link pages/staff/temporary-academic.html %}"><span
+                            href="{{ '/staff/temporary-academic-staff/' | relative_url }}"><span
                                 class="d-inline-block bg-primary rounded-circle"
                                 style="width: .5em; height: .5em;"></span>Temporary Academic staff</a>
                     </li>
                     <li><a class="dropdown-item d-flex align-items-center gap-2 py-2"
-                            href="{% link pages/staff/academic-support.html %}"><span
+                            href="{{ '/staff/academic-support-staff/' | relative_url }}"><span
                                 class="d-inline-block bg-primary rounded-circle"
                                 style="width: .5em; height: .5em;"></span>Academic Support Staff</a>
                     </li>
@@ -63,8 +63,8 @@ Contains the logo, home staff students alumni links
             {%- comment -%}
             Alumni
             {%- endcomment -%}
-            <li class="nav-item"><a href="{% link pages/alumni.html %}" class="nav-link">Alumni</a></li>
-            
+            <li class="nav-item"><a href="{{ '/alumni/' | relative_url }}" class="nav-link">Alumni</a></li>
+
             {%- comment -%}
             <li class="nav-item"><a href="{{ '/search/' | relative_url }}" class="nav-link">Search</a></li>
             <li class="nav-item"><a href="{{ '/documentation/' | relative_url }}" class="nav-link">Documentation</a>

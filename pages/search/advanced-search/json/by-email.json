@@ -29,7 +29,7 @@ permalink : /search/by-email.json
     {
         "title" : "{{ post.staff_name }} - Academic Support Staff",
         "email": "{{post.email}}",
-        "url"      : "{% link pages/staff/academic-support.html %}"
+        "url"      : "{{ '/staff/academic-support-staff/' | relative_url }}"
     },
   {% endfor %}
 
@@ -38,7 +38,7 @@ permalink : /search/by-email.json
     {
         "title" : "{{ post.staff_name }} - Temporary Academic Staff",
         "email": "{{post.email}}",
-        "url"      : "{% link pages/staff/temporary-academic.html %}"
+        "url"      : "{{ '/staff/temporary-academic/' | relative_url }}"
     },
   {% endfor %}
 
