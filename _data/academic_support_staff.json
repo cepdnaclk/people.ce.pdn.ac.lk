@@ -24,12 +24,28 @@
         "email" : "kalumg@eng.pdn.ac.lk"
     },
     {
+        "staff_name" : "Umega Rathnayake",
+        "text_below_name" : "Technical Officer",
+        "url_image" : "images/staff/academic-support-staff/umega.jpg",
+        "contact_number" : "",
+        "on_duty": "true",
+        "email" : "urathnayake@eng.pdn.ac.lk"
+    },
+    {
         "staff_name" : "Hemantha Kumara",
         "text_below_name" : "Staff Assistant",
         "url_image" : "images/staff/academic-support-staff/hemantha.jpg",
         "contact_number" : "",
         "on_duty": "true",
         "email": "hemanthak@eng.pdn.ac.lk"
+    },
+    {
+        "staff_name" : "Anuradha Bandara",
+        "text_below_name" : "Staff Assistant",
+        "url_image" : "images/staff/academic-support-staff/anuradha.jpg",
+        "contact_number" : "",
+        "on_duty": "true",
+        "email": "anuradhasb@eng.pdn.ac.lk"
     },
     {
         "staff_name" : "U.B. Weebadda",
@@ -43,6 +59,7 @@
         "text_below_name" : "Computer Operator",
         "url_image" : "images/staff/academic-support-staff/sarojini.jpg",
         "contact_number" : "",
-        "on_duty": "false"
+        "on_duty": "false",
+        "email": "sarojinim@eng.pdn.ac.lk"
     },
 ]
