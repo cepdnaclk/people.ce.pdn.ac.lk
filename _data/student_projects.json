@@ -87,6 +87,19 @@
     ],
     "E/14/018": [
         {
+            "title": "Automated Attendance system",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Automated-Attendance-system/",
+            "repo_url": "https://github.com/cepdnaclk/e14-3yp-Automated-Attendance-system",
+            "page_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Attendance-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Automated-Attendance-system/"
+        },
+        {
             "title": "Automated Electricity Billing System",
             "category": {
                 "code": "3yp",
@@ -176,6 +189,19 @@
         }
     ],
     "E/14/068": [
+        {
+            "title": "Automated Attendance system",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Automated-Attendance-system/",
+            "repo_url": "https://github.com/cepdnaclk/e14-3yp-Automated-Attendance-system",
+            "page_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Attendance-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Automated-Attendance-system/"
+        },
         {
             "title": "Automated Electricity Billing System",
             "category": {
@@ -443,6 +469,21 @@
             "page_url": "https://cepdnaclk.github.io/e14-3yp-River-water-level-and-speed-monitoring-and-alert-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/River-water-level-and-speed-monitoring-and-alert-system/"
+        }
+    ],
+    "E/14/243": [
+        {
+            "title": "Automated Attendance system",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Automated-Attendance-system/",
+            "repo_url": "https://github.com/cepdnaclk/e14-3yp-Automated-Attendance-system",
+            "page_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Attendance-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Automated-Attendance-system/"
         }
     ],
     "E/14/243 ": [
@@ -887,6 +928,19 @@
     ],
     "E/15/043": [
         {
+            "title": "Safer Travel Utility SaVy",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Safer-Travel-Utility-SaVy/",
+            "repo_url": "https://github.com/cepdnaclk/e15-3yp-Safer-Travel-Utility-SaVy",
+            "page_url": "https://cepdnaclk.github.io/e15-3yp-Safer-Travel-Utility-SaVy",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Safer-Travel-Utility-SaVy/"
+        },
+        {
             "title": "Hand Gesture Recognition using sEMG",
             "category": {
                 "code": "4yp",
@@ -898,6 +952,21 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-Hand-Gesture-Recognition-using-sEMG",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Hand-Gesture-Recognition-using-sEMG/"
+        }
+    ],
+    "E/15/048": [
+        {
+            "title": "Safer Travel Utility SaVy",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Safer-Travel-Utility-SaVy/",
+            "repo_url": "https://github.com/cepdnaclk/e15-3yp-Safer-Travel-Utility-SaVy",
+            "page_url": "https://cepdnaclk.github.io/e15-3yp-Safer-Travel-Utility-SaVy",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Safer-Travel-Utility-SaVy/"
         }
     ],
     "E/15/059": [
@@ -2299,6 +2368,19 @@
         }
     ],
     "E/15/363": [
+        {
+            "title": "Safer Travel Utility SaVy",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Safer-Travel-Utility-SaVy/",
+            "repo_url": "https://github.com/cepdnaclk/e15-3yp-Safer-Travel-Utility-SaVy",
+            "page_url": "https://cepdnaclk.github.io/e15-3yp-Safer-Travel-Utility-SaVy",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Safer-Travel-Utility-SaVy/"
+        },
         {
             "title": "Real Time Data processing and AI for Distributed IoT",
             "category": {
