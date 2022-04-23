@@ -34,14 +34,14 @@
         "name_with_initials": "HANGILIPOLA R.M.B.C.H.K.",
         "image_url": "images/students/default.jpg"
     },
-    "E/00/258": {
-        "reg_no": "E/00/258",
-        "name_with_initials": "HEWAGE D.S",
-        "image_url": "images/students/default.jpg"
-    },
     "E/00/098": {
         "reg_no": "E/00/098",
         "name_with_initials": "JAYAKODY J.A.R.P.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/00/108": {
+        "reg_no": "E/00/108",
+        "name_with_initials": "JOSEPH JEGANATHAN P.",
         "image_url": "images/students/default.jpg"
     },
     "E/00/112": {
@@ -52,11 +52,6 @@
     "E/00/116": {
         "reg_no": "E/00/116",
         "name_with_initials": "JEYANTHINE T.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/00/108": {
-        "reg_no": "E/00/108",
-        "name_with_initials": "JOSEPH JEGANATHAN P.",
         "image_url": "images/students/default.jpg"
     },
     "E/00/159": {
@@ -102,6 +97,11 @@
     "E/00/257": {
         "reg_no": "E/00/257",
         "name_with_initials": "SUBASINGHE N.D.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/00/258": {
+        "reg_no": "E/00/258",
+        "name_with_initials": "HEWAGE D.S",
         "image_url": "images/students/default.jpg"
     },
     "E/00/260": {

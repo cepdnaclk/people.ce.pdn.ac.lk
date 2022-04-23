@@ -1,4 +1,9 @@
 {
+    "E/97/307": {
+        "reg_no": "E/97/307",
+        "name_with_initials": "Silva R.L.",
+        "image_url": "images/students/default.jpg"
+    },
     "E/98/009": {
         "reg_no": "E/98/009",
         "name_with_initials": "Alahakoon A.A.R.D.",
@@ -82,11 +87,6 @@
     "E/98/241": {
         "reg_no": "E/98/241",
         "name_with_initials": "Senthilkumar S.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/97/307": {
-        "reg_no": "E/97/307",
-        "name_with_initials": "Silva R.L.",
         "image_url": "images/students/default.jpg"
     },
     "E/98/258": {

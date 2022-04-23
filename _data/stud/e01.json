@@ -44,11 +44,6 @@
         "name_with_initials": "Gunathilake A.G.S.S.",
         "image_url": "images/students/default.jpg"
     },
-    "E/01/323": {
-        "reg_no": "E/01/323",
-        "name_with_initials": "Heendaliya H.K.L.N.",
-        "image_url": "images/students/default.jpg"
-    },
     "E/01/083": {
         "reg_no": "E/01/083",
         "name_with_initials": "Herath S.K.W.",
@@ -79,11 +74,6 @@
         "name_with_initials": "Ketheesh S.",
         "image_url": "images/students/default.jpg"
     },
-    "E/01/326": {
-        "reg_no": "E/01/326",
-        "name_with_initials": "Kulasekara K.M.T.",
-        "image_url": "images/students/default.jpg"
-    },
     "E/01/139": {
         "reg_no": "E/01/139",
         "name_with_initials": "Kumarasingha K.T.D.",
@@ -109,11 +99,6 @@
         "name_with_initials": "Muthuthanthri N.C.",
         "image_url": "images/students/default.jpg"
     },
-    "E/01/264": {
-        "reg_no": "E/01/264",
-        "name_with_initials": "Nagarajah S.",
-        "image_url": "images/students/default.jpg"
-    },
     "E/01/200": {
         "reg_no": "E/01/200",
         "name_with_initials": "Premarathne L.K.P.K.",
@@ -127,6 +112,11 @@
     "E/01/256": {
         "reg_no": "E/01/256",
         "name_with_initials": "Senevirathne K.S.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/01/264": {
+        "reg_no": "E/01/264",
+        "name_with_initials": "Nagarajah S.",
         "image_url": "images/students/default.jpg"
     },
     "E/01/281": {
@@ -147,6 +137,16 @@
     "E/01/300": {
         "reg_no": "E/01/300",
         "name_with_initials": "Wickramaarachchi A.R.K.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/01/323": {
+        "reg_no": "E/01/323",
+        "name_with_initials": "Heendaliya H.K.L.N.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/01/326": {
+        "reg_no": "E/01/326",
+        "name_with_initials": "Kulasekara K.M.T.",
         "image_url": "images/students/default.jpg"
     }
 }
