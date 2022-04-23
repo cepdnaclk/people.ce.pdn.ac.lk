@@ -128,7 +128,42 @@ permalink : /search/by-name.json
         "url" : "/students/e02/"
       },
   {% endfor %}
+  {% assign batch = site.data.stud.e2a  %}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e2a/"
+      },
+  {% endfor %}
 
+  {% assign batch = site.data.stud.e01  %}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e01/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e00  %}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e00/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e99  %}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e99/"
+      },
+  {% endfor %}
+  {% assign batch = site.data.stud.e98  %}
+  {% for item in batch %}
+      {
+        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
+        "url" : "/students/e98/"
+      },
+  {% endfor %}
 
   {% for post in site.data.temporary_academic_staff %}
   {%- comment -%}temporary academic staff pages{%- endcomment -%}
