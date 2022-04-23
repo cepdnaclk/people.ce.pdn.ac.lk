@@ -1,5 +1,10 @@
 [
     {
+        "title": "E15 Batch",
+        "url": "/students/e15",
+        "graduation_year": "#"
+    },
+    {
         "title": "E14 Batch",
         "url": "/students/e14",
         "graduation_year": "#"
@@ -60,12 +65,33 @@
         "graduation_year": "#"
     },
     {
-        "title": "E02A Batch",
-        "url": "/students/e02a",
+        "title": "E2A Batch",
+        "url": "/students/e2a",
         "graduation_year": "#"
-    },{
+    },
+    {
         "title": "E02 Batch",
         "url": "/students/e02",
+        "graduation_year": "#"
+    },
+    {
+        "title": "E01 Batch",
+        "url": "/students/e01",
+        "graduation_year": "#"
+    },
+    {
+        "title": "E00 Batch",
+        "url": "/students/e00",
+        "graduation_year": "#"
+    },
+    {
+        "title": "E99 Batch",
+        "url": "/students/e99",
+        "graduation_year": "#"
+    },
+    {
+        "title": "E98 Batch",
+        "url": "/students/e98",
         "graduation_year": "#"
     }
 ]
