@@ -1,8 +1,152 @@
 {
+    "E/02/006": {
+        "reg_no": "E/02/006",
+        "name_with_initials": "Abeyratne A.W.S.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/007": {
+        "reg_no": "E/02/007",
+        "name_with_initials": "Abeysinghe A.H.M.S.S.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/026": {
+        "reg_no": "E/02/026",
+        "name_with_initials": "Athukarala S.A.D.S.K.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/038": {
+        "reg_no": "E/02/038",
+        "name_with_initials": "Bandara S.N.B.G.N.I",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/039": {
+        "reg_no": "E/02/039",
+        "name_with_initials": "Bandara T.M.S.P.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/053": {
+        "reg_no": "E/02/053",
+        "name_with_initials": "De Almeida P.D.N.N.A.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/059": {
+        "reg_no": "E/02/059",
+        "name_with_initials": "Deniyage C.R.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/082": {
+        "reg_no": "E/02/082",
+        "name_with_initials": "Gunalathas A.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/095": {
+        "reg_no": "E/02/095",
+        "name_with_initials": "Herath H.M.I.P.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/099": {
+        "reg_no": "E/02/099",
+        "name_with_initials": "Idamekorala N.D.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/100": {
+        "reg_no": "E/02/100",
+        "name_with_initials": "Ihalagedara I.A.B.M.S.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/116": {
+        "reg_no": "E/02/116",
+        "name_with_initials": "Jayathilaka M.D.N.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/118": {
+        "reg_no": "E/02/118",
+        "name_with_initials": "Jayathilake M.T.D.A.",
+        "image_url": "images/students/default.jpg"
+    },
     "E/02/314": {
         "reg_no": "E/02/314",
-        "name_with_initials": "U.G. Kanewala",
-        "image_url": "images/students/e02/e02314.jpg",
-        "page_url": "/students/e02/314/"
+        "name_with_initials": "Kanewala N.G.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/173": {
+        "reg_no": "E/02/173",
+        "name_with_initials": "Lokumarambage M.U.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/166": {
+        "reg_no": "E/02/166",
+        "name_with_initials": "Maduranga A.G.L.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/178": {
+        "reg_no": "E/02/178",
+        "name_with_initials": "Medagama D.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/190": {
+        "reg_no": "E/02/190",
+        "name_with_initials": "Nishanthan S.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/193": {
+        "reg_no": "E/02/193",
+        "name_with_initials": "Pathirana K.P.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/196": {
+        "reg_no": "E/02/196",
+        "name_with_initials": "Perera W.M.M.J.M.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/205": {
+        "reg_no": "E/02/205",
+        "name_with_initials": "Pitakotuwa M.E.I.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/215": {
+        "reg_no": "E/02/215",
+        "name_with_initials": "Rajapaksha R.P.I.U.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/252": {
+        "reg_no": "E/02/252",
+        "name_with_initials": "Siriwardana D.L.N.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/257": {
+        "reg_no": "E/02/257",
+        "name_with_initials": "Sooriyamudalige O.L.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/262": {
+        "reg_no": "E/02/262",
+        "name_with_initials": "Sugathadasa A.G.M.L.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/269": {
+        "reg_no": "E/02/269",
+        "name_with_initials": "Swarnapali K.G.U.D.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/212": {
+        "reg_no": "E/02/212",
+        "name_with_initials": "Vaithiyanathasarma P.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/159": {
+        "reg_no": "E/02/159",
+        "name_with_initials": "Vithyaharan K.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/306": {
+        "reg_no": "E/02/306",
+        "name_with_initials": "Wijerathe H.M.S.D.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/02/313": {
+        "reg_no": "E/02/313",
+        "name_with_initials": "Yogeswararajah S.",
+        "image_url": "images/students/default.jpg"
     }
 }
