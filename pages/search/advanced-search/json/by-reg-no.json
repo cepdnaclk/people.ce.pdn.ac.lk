@@ -127,8 +127,7 @@ permalink : /search/by-reg-no.json
         "reg_no" : "{{item[1].reg_no}}",
         "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
         "url" : "/students/e02/"
-      }
-      {% unless forloop.last %},{% endunless %}
+      },
   {% endfor %}
     {% assign batch = site.data.stud.e2a  %}
   {% for item in batch %}
@@ -173,6 +172,6 @@ permalink : /search/by-reg-no.json
         "reg_no" : "{{item[1].reg_no}}",
         "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
         "url" : "/students/e02/"
-      },
+      }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
