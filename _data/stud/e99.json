@@ -4,11 +4,6 @@
         "name_with_initials": "ANGELO A.J.",
         "image_url": "images/students/default.jpg"
     },
-    "E/99/320": {
-        "reg_no": "E/99/320",
-        "name_with_initials": "ARIYASINGHE A.K.I.P",
-        "image_url": "images/students/default.jpg"
-    },
     "E/99/015": {
         "reg_no": "E/99/015",
         "name_with_initials": "BAGESWARAN B.",
@@ -29,16 +24,6 @@
         "name_with_initials": "DISSANAYAKE D.M.H.B.",
         "image_url": "images/students/default.jpg"
     },
-    "E/99/334": {
-        "reg_no": "E/99/334",
-        "name_with_initials": "GAJENDRANATAN R.I.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/99/317": {
-        "reg_no": "E/99/317",
-        "name_with_initials": "JAYATHILAKE K.R.N.H.",
-        "image_url": "images/students/default.jpg"
-    },
     "E/99/108": {
         "reg_no": "E/99/108",
         "name_with_initials": "JAYAWEERA H.D.M.P.",
@@ -47,6 +32,11 @@
     "E/99/111": {
         "reg_no": "E/99/111",
         "name_with_initials": "JENENTHINE T.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/99/112": {
+        "reg_no": "E/99/112",
+        "name_with_initials": "JESMIN M.A.M.",
         "image_url": "images/students/default.jpg"
     },
     "E/99/116": {
@@ -109,11 +99,6 @@
         "name_with_initials": "SANGEETHA N.",
         "image_url": "images/students/default.jpg"
     },
-    "E/99/331": {
-        "reg_no": "E/99/331",
-        "name_with_initials": "SAYNTHAN J.",
-        "image_url": "images/students/default.jpg"
-    },
     "E/99/256": {
         "reg_no": "E/99/256",
         "name_with_initials": "SIVAKOSARAN M.",
@@ -144,9 +129,24 @@
         "name_with_initials": "YAALINI B.",
         "image_url": "images/students/default.jpg"
     },
-    "E/99/112": {
-        "reg_no": "E/99/112",
-        "name_with_initials": "JESMIN M.A.M.",
+    "E/99/317": {
+        "reg_no": "E/99/317",
+        "name_with_initials": "JAYATHILAKE K.R.N.H.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/99/320": {
+        "reg_no": "E/99/320",
+        "name_with_initials": "ARIYASINGHE A.K.I.P",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/99/331": {
+        "reg_no": "E/99/331",
+        "name_with_initials": "SAYNTHAN J.",
+        "image_url": "images/students/default.jpg"
+    },
+    "E/99/334": {
+        "reg_no": "E/99/334",
+        "name_with_initials": "GAJENDRANATAN R.I.",
         "image_url": "images/students/default.jpg"
     }
 }
