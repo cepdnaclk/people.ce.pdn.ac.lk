@@ -116,6 +116,35 @@ breadcrumb
                 </div>
             </div>
 
+            {%- if site.data.badges.members[page.reg_no] -%}
+            <div class="card mt-3 d-flex flex-row">
+                {%- assign badge_list = site.data.badges.members[page.reg_no] -%}
+
+                {% for badge in badge_list %}
+                {%- assign badge_details = site.data.badges.badges[badge.tag] -%}
+                <img class="badge-image" src="{{ badge_details.image | relative_url }}" data-bs-toggle-tooltip="tooltip" data-bs-placement="bottom" title="{{ badge_details.title }}"
+                alt="{{ badge_details.description }}" data-bs-toggle="modal" data-bs-target="#{{ badge.tag }}">
+
+                <!-- Modal -->
+                <div class="modal fade" id="{{ badge.tag }}" tabindex="-1" aria-labelledby="{{ badge_details.title }}" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">{{ badge_details.title }}</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                {{ badge_details.description }}
+                            </div>
+                            <div class="modal-footer">
+                                <a href="{{ badge_details.page | relative_url }}" type="button" class="btn btn-primary">See more...</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {%- endfor -%}
+            </div>
+            {%- endif -%}
 
             <div class="card mt-3">
                 <ul class="list-group list-group-flush">

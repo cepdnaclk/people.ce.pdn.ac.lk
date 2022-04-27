@@ -1,0 +1,24 @@
+{
+    "title": "Web Consultation Team",
+    "tag": "web-consultation-team",
+    "description": "",
+    "image": "",
+    "students":[
+        {
+            "eNumber": "E/17/058",
+            "name": "Isuri Devindi"
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/17/197",
+            "name": "Madushan Ramalingam"
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/17/369",
+            "name": "Savindu Wannigama "
+            "position": "Member"
+        },
+
+    ]
+}

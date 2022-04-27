@@ -1,0 +1,34 @@
+{
+    "badges": {
+        "web-consultation-team":{
+            "title": "Web Consultation Team",
+            "image": "images/badges/web-consultation-team.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "page": "/badges/web-consultation-team/"
+        },
+        "causal-instructor-2021":{
+            "title": "Casual Instructor - 2021",
+            "image": "images/badges/causal-instructors-2021.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "page": "/badges/causal-instructors-2021/"
+        }
+    },
+    "members":{
+        "E/17/058": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member"
+            },
+            {
+                "tag": "causal-instructor-2021",
+                "position": "CO222"
+            }
+        ],
+        "E/17/197": [
+            "web-consultation-team": "Member"
+        ],
+        "E/17/369": [
+            "web-consultation-team": "Member"
+        ]
+    }
+}
