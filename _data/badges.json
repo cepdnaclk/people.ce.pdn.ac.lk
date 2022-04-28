@@ -1,34 +1,48 @@
 {
     "badges": {
-        "web-consultation-team":{
+        "casual-instructors-2021": {
+            "title": "Casual Instructors - 2021",
+            "image": "images/badges/causal-instructors-2021.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "page": "/badges/casual-instructors-2021/"
+        },
+        "web-consultation-team": {
             "title": "Web Consultation Team",
             "image": "images/badges/web-consultation-team.png",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "page": "/badges/web-consultation-team/"
-        },
-        "causal-instructor-2021":{
-            "title": "Casual Instructor - 2021",
-            "image": "images/badges/causal-instructors-2021.png",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "page": "/badges/causal-instructors-2021/"
         }
     },
-    "members":{
+    "members": {
         "E/17/058": [
             {
-                "tag": "web-consultation-team",
+                "tag": "casual-instructors-2021",
                 "position": "Member"
             },
             {
-                "tag": "causal-instructor-2021",
-                "position": "CO222"
+                "tag": "web-consultation-team",
+                "position": "Member"
             }
         ],
-        "E/17/197": [
-            "web-consultation-team": "Member"
+        "E/17/194": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "Member"
+            },
+            {
+                "tag": "web-consultation-team",
+                "position": "Member"
+            }
         ],
         "E/17/369": [
-            "web-consultation-team": "Member"
+            {
+                "tag": "casual-instructors-2021",
+                "position": "Member"
+            },
+            {
+                "tag": "web-consultation-team",
+                "position": "Member"
+            }
         ]
     }
 }

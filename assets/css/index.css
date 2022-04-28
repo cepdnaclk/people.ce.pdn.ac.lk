@@ -101,7 +101,7 @@ body {
     height: 84px !important;
     cursor: pointer!important;
     transition: transform .2s;
-    padding: 10px;
+    padding: 4px;
 }
 
 .badge-image:hover{
