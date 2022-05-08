@@ -21,11 +21,12 @@ def getStud_profile(data):
         name = data["honorific"] + " " + name
 
     profile_img = "/assets/images/profile_default.jpg" if (data["profile_image"] == "") else data["profile_image"]
-
+    profile_url = data["profile_page"].replace("https://people.ce.pdn.ac.lk", "")
+    
     return {
         "name": name,
         "affiliation": data["current_affiliation"],
-        "profile_url": data["profile_page"],
+        "profile_url": profile_url,
         "profile_image": profile_img
     }
 
@@ -50,7 +51,7 @@ def create_page(data):
     page_content = """---
 layout: badge_page
 title: """ + data['title'] + """
-permalink: \"/badges/""" + data['tag'] + """\"
+permalink: \"/badges/""" + data['tag'] + """\/"
 badge_image: \"""" + data['image'] + """\"
 badge_description: \"""" + data['description'] + """\"
 
