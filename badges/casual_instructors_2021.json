@@ -1,23 +1,59 @@
 {
-    "title": "Casual Instructors - 2021",
+    "title": "Casual Instructors - 2021/2022",
     "tag": "casual-instructors-2021",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "images/badges/causal-instructors-2021.png",
+    "description": "The casual Instructor program in the Department of Computer Engineering is to allow undergraduate students to get an opportunity to be an instructor/teaching assistant in the courses offered for their junior badges.",
+    "image": "images/badges/causal-instructors.png",
+    "show_in_profile": "true",
     "students":[
         {
             "eNumber": "E/17/058",
             "name": "Isuri Devindi",
-            "position": "Member"
-        },
-        {
-            "eNumber": "E/17/194",
-            "name": "Madushan Ramalingam",
-            "position": "Member"
+            "position": "CO225, CO253"
         },
         {
             "eNumber": "E/17/369",
             "name": "Savindu Wannigama",
-            "position": "Member"
+            "position": "CO224"
+        },
+        {
+            "eNumber": "E/17/190",
+            "name": "Sashini Liyanage ",
+            "position": "CO224"
+        },
+        {
+            "eNumber": "E/17/044",
+            "name": "Deanna Coralage ",
+            "position": "CO224"
+        },
+        {
+            "eNumber": "E/17/018",
+            "name": "Imesh Balasuriya",
+            "position": "CO224"
+        },
+        {
+            "eNumber": "E/17/134",
+            "name": "Kavindu Jayasooriya",
+            "position": "CO253"
+        },
+        {
+            "eNumber": "E/17/194",
+            "name": "Madushan Ramalingam",
+            "position": "CO253"
+        },
+        {
+            "eNumber": "E/17/072",
+            "name": "Dinura Dissanayake",
+            "position": "CO253"
+        },
+        {
+            "eNumber": "E/17/380",
+            "name": "Shamal Weerasooriya",
+            "position": "CO253"
+        },
+        {
+            "eNumber": "E/17/144",
+            "name": "Denuka Jayaweera",
+            "position": "CO253"
         }
     ]
 }

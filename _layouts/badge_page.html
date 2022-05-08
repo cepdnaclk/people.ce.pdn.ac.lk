@@ -20,7 +20,7 @@ layout: default
 <div class="container py-4 px-lg-5">
     <div class="row pb-5">
         <div class="col-sm-3 d-flex justify-content-end">
-            <img src="{{ page.badge_image | relative_url}}" alt="page.title" class="img-fluid">
+            <img src="{{ page.badge_image | relative_url}}" alt="{{ page.title }}" class="img-fluid">
         </div>
         <div class="col-sm-9 d-flex align-items-center">
             {{ page.badge_description }}
@@ -45,9 +45,7 @@ layout: default
                 <h6 class="card-title">
                     {{item.name}}
                 </h6>
-                <!-- card reg number -->
-                <p class="card-text">{{item.reg_no}}</p>
-                <!-- card button -->
+                <p class="card-text">{{item.position}}</p>
                 <div class="d-flex flex-row justify-content-center mt-auto">
                     <a class="btn btn-outline-primary w-100" href="{{ item.profile_url | relative_url }}">View</a>
                 </div>

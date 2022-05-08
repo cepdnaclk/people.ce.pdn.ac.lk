@@ -122,8 +122,10 @@ breadcrumb
 
                 {% for badge in badge_list %}
                 {%- assign badge_details = site.data.badges.badges[badge.tag] -%}
+
+                {%- if badge_details.show == "true" -%}
                 <img class="badge-image" src="{{ badge_details.image | relative_url }}" data-bs-toggle-tooltip="tooltip" data-bs-placement="bottom" title="{{ badge_details.title }}"
-                alt="{{ badge_details.description }}" data-bs-toggle="modal" data-bs-target="#{{ badge.tag }}">
+                alt="{{ badge_details.title }}" data-bs-toggle="modal" data-bs-target="#{{ badge.tag }}">
 
                 <!-- Modal -->
                 <div class="modal fade" id="{{ badge.tag }}" tabindex="-1" aria-labelledby="{{ badge_details.title }}" aria-hidden="true">
@@ -134,7 +136,14 @@ breadcrumb
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
-                                {{ badge_details.description }}
+                                <div class="row ">
+                                    <div class="col-3 d-flex align-items-center">
+                                        <img class="img-fluid" src="{{ badge_details.image | relative_url }}"
+                                        alt="{{ badge_details.title }}">
+                                    </div>
+                                    <div class="col-9 d-flex align-items-center">{{ badge_details.description }}</div>
+                                </div>
+
                             </div>
                             <div class="modal-footer">
                                 <a href="{{ badge_details.page | relative_url }}" type="button" class="btn btn-primary">See more...</a>
@@ -142,6 +151,7 @@ breadcrumb
                         </div>
                     </div>
                 </div>
+                {%- endif -%}
                 {%- endfor -%}
             </div>
             {%- endif -%}

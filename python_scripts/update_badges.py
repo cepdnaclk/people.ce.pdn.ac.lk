@@ -39,11 +39,13 @@ def create_page(data):
 
     for s in data['students']:
         student_eNumber = s['eNumber']
-        print(student_eNumber)
-        print(students[student_eNumber])
-        student = getStud_profile(students[student_eNumber])
 
-        student_list += "\n - { eNumber: \""+ student_eNumber + "\", name: \""+ student['name'] +"\", position: \"" + s['position'] + "\", profile_url: \"" + student['profile_url'] +"\", profile_image: \"" + student['profile_image'] +"\" }"
+        if student_eNumber in students:
+            print(student_eNumber)
+            print(students[student_eNumber])
+            student = getStud_profile(students[student_eNumber])
+
+            student_list += "\n - { eNumber: \""+ student_eNumber + "\", name: \""+ student['name'] +"\", position: \"" + s['position'] + "\", profile_url: \"" + student['profile_url'] +"\", profile_image: \"" + student['profile_image'] +"\" }"
 
     page_content = """---
 layout: badge_page
@@ -86,7 +88,8 @@ for filename in directory_list:
         "title": badge_data['title'],
         "image": badge_data['image'],
         "description": badge_data['description'],
-        "page": page_url
+        "page": page_url,
+        "show": badge_data['show_in_profile']
     }
 
     # Append the student details

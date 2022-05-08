@@ -97,8 +97,8 @@ body {
 }
 
 .badge-image{
-    width: 84px !important;
-    height: 84px !important;
+    width: 100px !important;
+    height: 100px !important;
     cursor: pointer!important;
     transition: transform .2s;
     padding: 4px;
