@@ -30,7 +30,7 @@ title: Badges
                     <div class="card-body">
                         <h5 class="card-title">{{ p.title }}</h5>
                         <p class="card-text">{{ p.badge_description }}</p>
-                        <a href="{{p.permalink }}" class="card-link">Explore</a>
+                        <a href="{{ p.permalink | relative_url }}" class="card-link">Explore</a>
                     </div>
                 </div>
             </div>
