@@ -3,9 +3,40 @@ layout: null
 permalink: "/api/staff/"
 sitemap: false
 ---
-{%- assign staff_list = site.html_pages | where: "layout", "staffDetails" -%}
 {
-    {% for staff in staff_list -%}
-    {%- include api_staff.html staff=staff -%}{% if forloop.last %}{% else %},{% endif %}
-    {% endfor -%}
+    "academic":
+    {
+        {%- assign staff_list = site.html_pages | where: "layout", "staffDetails" -%}
+        {% for staff in staff_list -%}
+        {%- include api_staff.html staff=staff -%}{% if forloop.last %}{% else %},{% endif %}
+        {% endfor -%}
+    },
+    "temporary-academic":{
+        {%- assign temp_staff_list = site.data.temporary_academic_staff -%}
+        {% for staff in temp_staff_list -%}
+        "{{ staff.email }}":{
+            "name": "{{staff.staff_name}}",
+            "designation": "{{staff.text_below_name}}",
+            {%- if staff.url_profile != "" -%}
+                "link" : "{{ staff.url_profile | absolute_url }}",
+            {%- else -%}
+                "link" : "#",
+            {%- endif -%}
+            "email": "{{staff.email}}",
+            "profile_image" : "{{staff.url_image | absolute_url}}"
+        }{% if forloop.last %}{% else %},{% endif %}
+        {% endfor -%}
+    },
+    "support-academic":{
+        {%- assign temp_staff_list = site.data.academic_support_staff -%}
+        {% for staff in temp_staff_list -%}
+        "{{ staff.email }}":{
+            "name": "{{staff.staff_name}}",
+            "designation": "{{staff.text_below_name}}",
+            "link" : "#",
+            "email": "{{staff.email}}",
+            "profile_image" : "{{staff.url_image | absolute_url}}"
+        }{% if forloop.last %}{% else %},{% endif %}
+        {% endfor -%}
+    }
 }
