@@ -100,3 +100,9 @@ body {
     text-decoration: none!important;
     /* color: black; */
 }
+
+/* Color Theme updates */
+.btn-outline-primary{
+    /* color: pink!important;
+    border-color: pink!important; */
+}

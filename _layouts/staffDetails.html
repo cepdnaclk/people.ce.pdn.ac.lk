@@ -49,11 +49,12 @@ breadcrumbs
                 <li class="breadcrumb-item"><a href="{{ '/staff/academic/' | relative_url }}" class="link-light">Academic Staff</a></li>
                 {% else %}
                 <li class="breadcrumb-item"><a href="{{ '/staff/academic/past/' | relative_url }}" class="link-light">Past
-                        Academic Staff</a></li>
+                    Academic Staff</a>
+                </li>
                 {% endif %}
 
                 <!-- <li class="breadcrumb-item"><a href="{{ '/staff/academic/' | relative_url }}"
-                        class="link-light">Academic Staff</a></li> -->
+                class="link-light">Academic Staff</a></li> -->
                 <!-- <li class="breadcrumb-item"><span class="link-light">Academic Staff</span></li> -->
 
                 {% if page.designation=="Professor" %}
@@ -172,18 +173,78 @@ breadcrumbs
             </div>
         </div>
         <div class="col-md-8">
-            <div class="card mb-3">
+            <div class="card p-0">
                 <div class="card-body">
-                    <style>
-                        p {
-                            text-align: justify;
-                        }
-                    </style>
-                    {{content}}
+                    {%- assign projects = site.data.staff_projects[page.email] -%}
+                    {%- assign project_count = projects | where: "category.code", "4yp" | size -%}
+
+                    <nav>
+                        <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                            <button class="nav-link active" id="nav-bio-tab" data-bs-toggle="tab" data-bs-target="#nav-bio" type="button" role="tab" aria-controls="nav-home" aria-selected="true">About</button>
+
+                            <button class="nav-link" id="nav-research-tab" data-bs-toggle="tab" data-bs-target="#nav-research" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Research</button>
+
+                            {% if project_count > 0 %}
+                            <button class="nav-link" id="nav-projects-tab" data-bs-toggle="tab" data-bs-target="#nav-projects" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Supervision</button>
+                            {%- endif -%}
+
+                            <!-- <button class="nav-link disabled" id="nav-research-tab" data-bs-toggle="tab" data-bs-target="#nav-research" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Research Outputs</button> -->
+                        </div>
+                    </nav>
+
+                    <div class="tab-content" id="nav-tabContent" style="min-height: 50vh;">
+
+                        <!-- Bio and basic information -->
+                        <div class="tab-pane fade show active p-4" id="nav-bio" role="tabpanel" aria-labelledby="nav-home-tab">
+                            {{content}}
+                        </div>
+
+                        <!-- Supervised projects -->
+                        {% if project_count > 0 %}
+                        {%- assign p_count = 0 -%}
+                        <div class="tab-pane fade p-4" id="nav-projects" role="tabpanel" aria-labelledby="nav-profile-tab">
+                            <h5>Research projects supervised by {{ page.name_below_image }}:</h5>
+                            <div class="row">
+                                <!-- Only include the Final Year Research Projects -->
+                                {%- for p in projects -%}
+
+                                {% if p.category.code == "4yp" and p_count < 6 %}
+                                {%- assign p_count = p_count | plus:1 -%}
+                                {%- include projectCard.html title=p.title thumb=p.thumbnail_url url=p.project_url cat=p.category.title -%}
+                                {%- endif -%}
+                                {%- endfor -%}
+                            </div>
+
+                            {%- if p_count > 6 -%}
+                            <div class="pt-3">
+                                <a class="link" href="https://projects.ce.pdn.ac.lk/search/?query={{ page.email }}">See more projects</a>
+                            </div>
+                            {%- endif -%}
+                        </div>
+                        {%- endif -%}
+
+                        <!-- Publication and Grants -->
+                        <div class="tab-pane fade p-4" id="nav-research" role="tabpanel" aria-labelledby="nav-research-tab">
+                            <h5>Research Interests:</h5>
+                            <ul>
+                                {%- for item in page.research_interests -%}
+                                <li>{{item}}</li>
+                                {%- endfor -%}
+                            </ul>
+
+                            <!-- <h5 class="pt-3">Publications:</h5> -->
+                            <!-- <p>Under construction</p> -->
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-
-
     </div>
 </div>
+
+
+<style>
+    p {
+        text-align: justify;
+    }
+</style>
