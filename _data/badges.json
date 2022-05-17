@@ -1,12 +1,5 @@
 {
     "badges": {
-        "aces-2020": {
-            "title": "ACES Committee 2020-21",
-            "image": "images/badges/aces.png",
-            "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2020-2021",
-            "page": "/badges/aces-2020/",
-            "show": "false"
-        },
         "casual-instructors-2021": {
             "title": "Casual Instructors - 2021/2022",
             "image": "images/badges/causal-instructors.png",
@@ -23,84 +16,6 @@
         }
     },
     "members": {
-        "E/15/299": [
-            {
-                "tag": "aces-2020",
-                "position": "President"
-            }
-        ],
-        "E/16/275": [
-            {
-                "tag": "aces-2020",
-                "position": "Secretary"
-            }
-        ],
-        "E/15/187": [
-            {
-                "tag": "aces-2020",
-                "position": "Vice President"
-            }
-        ],
-        "E//": [
-            {
-                "tag": "aces-2020",
-                "position": "Junior Treasurer"
-            },
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member"
-            },
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member"
-            },
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member"
-            },
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member"
-            },
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member"
-            }
-        ],
-        "E/17/077": [
-            {
-                "tag": "aces-2020",
-                "position": "Editor"
-            }
-        ],
-        "E/17/018": [
-            {
-                "tag": "aces-2020",
-                "position": "Assistant Secretary"
-            },
-            {
-                "tag": "casual-instructors-2021",
-                "position": "CO224"
-            }
-        ],
-        "E/15/065": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member"
-            }
-        ],
-        "E/15/316": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member"
-            }
-        ],
-        "E/16/290": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member"
-            }
-        ],
         "E/17/058": [
             {
                 "tag": "casual-instructors-2021",
@@ -128,6 +43,12 @@
             }
         ],
         "E/17/044": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO224"
+            }
+        ],
+        "E/17/018": [
             {
                 "tag": "casual-instructors-2021",
                 "position": "CO224"
