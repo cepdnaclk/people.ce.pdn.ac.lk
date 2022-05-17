@@ -19,7 +19,7 @@ layout: default
 <!-- cards -->
 <div class="container py-4 px-lg-5">
     <div class="row pb-5">
-        <div class="col-sm-3 d-flex justify-content-end">
+        <div class="col-sm-3 d-flex justify-content-center">
             <img src="{{ page.badge_image | relative_url}}" alt="{{ page.title }}" class="img-fluid">
         </div>
         <div class="col-sm-9 d-flex align-items-center">
@@ -38,13 +38,11 @@ layout: default
 
         {% for item in student %}
         <div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">
-            <!-- card image -->
             {% if item.profile_image %}
             <img src="{{ item.profile_image | relative_url }}" style="border-radius: 7%; height:158px;object-fit: cover;" class="card-img-top p-1" alt="{{item.name}}">
             {% else %}
             <img src="{{ 'images/students/default.jpg' | relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{item.name}}">
             {% endif %}
-            <!-- card name -->
             <div class="card-body d-flex flex-column">
                 <h6 class="card-title">
                     {{item.name}}
@@ -56,6 +54,5 @@ layout: default
             </div>
         </div>
         {% endfor %}
-
     </div>
 </div>

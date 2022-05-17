@@ -17,12 +17,12 @@ def getStud_profile(data):
         # Name not found
         return {}
 
-    if (data["honorific"] != ""):
-        name = data["honorific"] + " " + name
+    # if (data["honorific"] != ""):
+    #     name = data["honorific"] + " " + name
 
     profile_img = "/assets/images/profile_default.jpg" if (data["profile_image"] == "") else data["profile_image"]
     profile_url = data["profile_page"].replace("https://people.ce.pdn.ac.lk", "")
-    
+
     return {
         "name": name,
         "affiliation": data["current_affiliation"],
@@ -37,13 +37,13 @@ def create_page(data):
     os.makedirs(os.path.dirname(page_url), exist_ok=True)
 
     student_list = ""
+    print('\n' + data['title'])
 
     for s in data['students']:
         student_eNumber = s['eNumber']
 
         if student_eNumber in students:
-            print(student_eNumber)
-            print(students[student_eNumber])
+            print(student_eNumber, s['position'])
             student = getStud_profile(students[student_eNumber])
 
             student_list += "\n - { eNumber: \""+ student_eNumber + "\", name: \""+ student['name'] +"\", position: \"" + s['position'] + "\", profile_url: \"" + student['profile_url'] +"\", profile_image: \"" + student['profile_image'] +"\" }"
@@ -54,12 +54,12 @@ title: """ + data['title'] + """
 permalink: \"/badges/""" + data['tag'] + """\/"
 badge_image: \"""" + data['image'] + """\"
 badge_description: \"""" + data['description'] + """\"
+badge_criteria: \"""" + data['criteria'] + """\"
 
 students: """ + student_list + """
 ---
 """
 
-    print(page_content)
     with open(page_url, "w") as f:
         f.write(page_content)
 
