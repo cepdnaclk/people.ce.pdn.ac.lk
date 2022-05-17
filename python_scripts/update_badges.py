@@ -1,6 +1,7 @@
 import requests
 import os
 import json
+import shutil
 
 # Where the data is available
 studentSource = 'https://api.ce.pdn.ac.lk/people/v1/students/all/'
@@ -33,7 +34,7 @@ def getStud_profile(data):
 def create_page(data):
     # print(_data)
 
-    page_url = '../pages/badges/{0}.md'.format(data['tag'])
+    page_url = '../pages/badges/pages/{0}.md'.format(data['tag'])
     os.makedirs(os.path.dirname(page_url), exist_ok=True)
 
     student_list = ""
@@ -71,6 +72,12 @@ r = requests.get(studentSource)
 if r.status_code == 200:
     students = json.loads(r.text)
 
+# Delete the existing pages first
+dir_path = "../pages/badges/pages/"
+try:
+    shutil.rmtree(dir_path)
+except:
+    print("Error: Folder Not Found!")
 
 # Read the /batch folder and generate the file, _data/badges.json
 path = "../badges/"
