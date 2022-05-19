@@ -28,7 +28,7 @@ This is the footer used in every page
             {%- comment -%}
             Edit this page on github link
             {%- endcomment -%}
-            {% if page.layout == "studentDetails" or page.layout == "staffDetails" or page.permalink contains "documentation" %}
+            {% if page.layout == "staffDetails" or page.permalink contains "documentation" %}
             | <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/{{page.path}}" rel="noreferrer" target="_blank">
                 <i class="fab fa-github"></i> Edit this page on GitHub</a>
             {% endif %}
@@ -48,13 +48,10 @@ This is the footer used in every page
                 <i class="fab fa-github"></i> Edit this page on GitHub</a>
             {% endif %}
 
-            {%- comment -%}
-            Google form links to update page
-            {%- endcomment -%}
-            {% if page.layout == "studentDetails" %}
-            | <a href="{{ '/form/unified' | relative_url }}" rel="noreferrer" target="_blank">
-                Update via Google Form </a>
+            {% if page.layout == "studentDetails" or page.layout == "studentDetails_temp" %}
+            | {% include student_edit_button.html eNumber=page.reg_no path=page.path  %}
             {% endif %}
+
             {% if page.layout == "studentList_no_prof_link" %}
             | <a href="{{ '/form/unified' | relative_url }}" rel="noreferrer" target="_blank">
                 Update via Google Form </a>

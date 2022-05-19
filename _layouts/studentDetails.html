@@ -305,7 +305,6 @@ breadcrumb
                 </div>
             </div>
             {%- endif -%}
-            {{content}}
 
             <!-- Publications -->
             {%- assign publications = site.data.student_publications[page.reg_no] -%}
@@ -318,7 +317,7 @@ breadcrumb
                         <ul>
                             {%- for p in publications -%}
                             <li>
-                                {%- include publicationCard.html data=p title=p.title -%}
+                                {%- include publicationCard.html data=p title=p.title path=page.path -%}
                             </li>
                             {%- endfor -%}
                         </ul>
