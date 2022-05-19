@@ -220,6 +220,14 @@ breadcrumbs
                                 <a class="link" href="https://projects.ce.pdn.ac.lk/search/?query={{ page.email }}">See more projects</a>
                             </div>
                             {%- endif -%}
+
+                            <div class="row pt-3">
+                                <hr>
+                                <p class="text-muted small">
+                                    Please note that here only contain the <i>'Projects'</i> which were submitted to the
+                                    <a href="https://projects.ce.pdn.ac.lk/4yp/" target="_blank">projects.ce.pdn.ac.lk</a> as <i>Final Year Research Projects</i>. The actual list of projects supervised by <i>{{ page.name_below_image }}</i> may be longer than this.
+                                </p>
+                            </div>
                         </div>
                         {%- endif -%}
 
@@ -232,8 +240,39 @@ breadcrumbs
                                 {%- endfor -%}
                             </ul>
 
-                            <!-- <h5 class="pt-3">Publications:</h5> -->
-                            <!-- <p>Under construction</p> -->
+                            <!-- Publications -->
+                            {%- assign publications = site.data.staff_publications[page.email] -%}
+                            {%- assign pub_count = publications | size -%}
+                            {% if pub_count > 0 %}
+                            <h5 class="pt-3">Publications:</h5>
+                            <div class="row px-3">
+                                <ul>
+                                    {%- for p in publications -%}
+                                    <li>
+                                        {%- include publicationCard.html data=p title=p.title -%}
+                                    </li>
+                                    {%- endfor -%}
+                                </ul>
+                            </div>
+                            <div class="row">
+                                <hr>
+                                <p class="text-muted small">
+                                    Please note that here only contain the <i>'Publications'</i> affiliated with the <i>Department of Computer Engineering</i>, which were submitted to the site. To see the full publication profile, visit the
+                                    {%- if page.url_researchgate -%}
+                                    <span> <a href="{{ page.url_researchgate }}" target="_blank">ResearchGate</a> </span>
+                                    {%- else -%}
+                                    <span> ResearchGate </span>
+                                    {%- endif -%} or
+                                    {%- if page.url_google_scholar -%}
+                                    <span> <a href="{{ page.url_google_scholar }}" target="_blank">Google Scholar</a> </span>
+                                    {%- else -%}
+                                    <span> Google Scholar </span>
+                                    {%- endif -%}
+                                    profile.
+                                </p>
+                            </div>
+                            {%- endif -%}
+
                         </div>
                     </div>
                 </div>
