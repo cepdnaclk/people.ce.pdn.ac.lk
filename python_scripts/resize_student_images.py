@@ -2,7 +2,7 @@
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 
 import os
-from PIL import Image # pip install pillow
+from PIL import Image  # pip install pillow
 
 def run():
     imagesPath = "../images/students"
@@ -17,17 +17,18 @@ def run():
                 image = Image.open(imagePath)
                 width, height = image.size
                 size = os.path.getsize(imagePath)/1024
-                if size > 25:
+                if size > 25 or (height > 300 and width > 300):
                     print(f"{imagePath}, width = {width:5}, height = {height:5}, size = {size:4.4}kb")
-                    resizeValue = 300/width
-                    new_image = image.resize((int(width*resizeValue), int(height*resizeValue)))
+                    horizontalPadding = (width-300)/2
+                    verticalPadding = (height-300)/2
 
-                    if(not (int(width*resizeValue) == width and int(height*resizeValue) == height)):
-                        new_image.save(imagePath)
-                    else:
-                        print("No resize required")
+                    # im1 = im.crop((left, top, right, bottom))
+                    new_image = image.crop((horizontalPadding, verticalPadding, horizontalPadding+300, verticalPadding+300))
+
+                    new_image.save(imagePath)
             except:
                 print(f"Failed to resize image {imagePath}")
+
 
 if __name__ == "__main__":
     run()
