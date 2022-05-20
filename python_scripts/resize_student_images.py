@@ -17,7 +17,7 @@ def run():
                 image = Image.open(imagePath)
                 width, height = image.size
                 size = os.path.getsize(imagePath)/1024
-                if size > 25 or (height > 300 and width > 300):
+                if size > 25 or (height > 300 or width > 300):
                     print(f"{imagePath}, width = {width:5}, height = {height:5}, size = {size:4.4}kb")
                     horizontalPadding = (width-300)/2
                     verticalPadding = (height-300)/2
