@@ -28,6 +28,7 @@ jobs:
           pip install gdown
           pip install requests
           pip install pillow
+          pip install googledrivedownloader
 
       - name: Update Student Details
         run: |
@@ -45,6 +46,12 @@ jobs:
         run: |
           cd ./python_scripts
           python3 update_profile_from_unified_google_form.py
+          cd ../
+
+      - name: Download Academic staff pages from gDrive
+        run: |
+          cd ./python_scripts
+          python3 download_staff_pages_from_drive.py
           cd ../
 
       - name: Commit and push into the main branch
