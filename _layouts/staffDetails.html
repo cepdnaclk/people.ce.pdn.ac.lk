@@ -179,8 +179,8 @@ breadcrumbs
                     {%- assign project_count = projects | where: "category.code", "4yp" | size -%}
 
                     <nav>
-                        <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                            <button class="nav-link active" id="nav-bio-tab" data-bs-toggle="tab" data-bs-target="#nav-bio" type="button" role="tab" aria-controls="nav-home" aria-selected="true">About</button>
+                        <div class="nav nav-tabs active" id="nav-tab" role="tablist">
+                            <button class="nav-link" id="nav-bio-tab" data-bs-toggle="tab" data-bs-target="#nav-bio" type="button" role="tab" aria-controls="nav-home" aria-selected="true">About</button>
 
                             <button class="nav-link" id="nav-research-tab" data-bs-toggle="tab" data-bs-target="#nav-research" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Research</button>
 
@@ -195,7 +195,7 @@ breadcrumbs
                     <div class="tab-content" id="nav-tabContent" style="min-height: 50vh;">
 
                         <!-- Bio and basic information -->
-                        <div class="tab-pane fade show active p-4" id="nav-bio" role="tabpanel" aria-labelledby="nav-home-tab">
+                        <div class="tab-pane fade active show  p-4" id="nav-bio" role="tabpanel" aria-labelledby="nav-home-tab">
                             {{content}}
                         </div>
 
@@ -242,17 +242,20 @@ breadcrumbs
 
                             <!-- Publications -->
                             {%- assign publications = site.data.staff_publications[page.email] -%}
-                            {%- assign pub_count = publications | size -%}
+                            {%- assign pub_count = publications['count'] -%}
                             {% if pub_count > 0 %}
                             <h5 class="pt-3">Publications:</h5>
                             <div class="row px-3">
+                                {%- for years in publications['publications'] -%}
+                                <div class="border-bottom">{{ years[0] }}</div>
+                                {%- for p in years[1] -%}
                                 <ul>
-                                    {%- for p in publications -%}
                                     <li>
                                         {%- include publicationCard.html data=p title=p.title -%}
                                     </li>
-                                    {%- endfor -%}
                                 </ul>
+                                {%- endfor -%}
+                                {%- endfor -%}
                             </div>
                             <div class="row">
                                 <hr>
