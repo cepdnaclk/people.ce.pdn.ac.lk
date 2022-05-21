@@ -35,6 +35,8 @@ def create_page(data):
     # print(_data)
 
     page_url = '../pages/badges/pages/{0}.md'.format(data['tag'])
+    gh_link = "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/badges" + data['tag']
+
     os.makedirs(os.path.dirname(page_url), exist_ok=True)
 
     student_list = ""
@@ -46,17 +48,21 @@ def create_page(data):
         if student_eNumber in students:
             print(student_eNumber, s['position'])
             student = getStud_profile(students[student_eNumber])
+            if ('link' in s):
+                link = s['link'] or "#"
+            else:
+                link = "#"
 
-            student_list += "\n - { eNumber: \""+ student_eNumber + "\", name: \""+ student['name'] +"\", position: \"" + s['position'] + "\", profile_url: \"" + student['profile_url'] +"\", profile_image: \"" + student['profile_image'] +"\" }"
+            student_list += "\n - { eNumber: \""+ student_eNumber + "\", name: \""+ student['name'] +"\", position: \"" + s['position'] + "\", profile_url: \"" + student['profile_url'] +"\", profile_image: \"" + student['profile_image'] +"\", link: \"" + link +"\" }"
 
     page_content = """---
 layout: badge_page
 title: """ + data['title'] + """
-permalink: \"/badges/""" + data['tag'] + """\/"
+permalink: \"/badges/""" + data['tag'] + """\"
 badge_image: \"""" + data['image'] + """\"
 badge_description: \"""" + data['description'] + """\"
 badge_criteria: \"""" + data['criteria'] + """\"
-
+edit: \"""" + gh_link + """\"
 students: """ + student_list + """
 ---
 """
@@ -105,8 +111,13 @@ for filename in directory_list:
         eNumber = stud['eNumber']
         position = stud['position']
 
+        if ('link' in stud):
+            link = stud['link']  # Link to the certificate
+        else:
+            link = "#"
+
         if eNumber not in badges_file['members']: badges_file['members'][eNumber] = []
-        badges_file['members'][eNumber].append({"tag": tag, "position": position})
+        badges_file['members'][eNumber].append({"tag": tag, "position": position, "link": link})
 
     # Create a page for the badge
     create_page(badge_data)
