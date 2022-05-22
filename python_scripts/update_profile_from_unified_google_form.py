@@ -165,5 +165,7 @@ image_url: {image_path}
 print("\n\n\n\n")
 print("Updating Student page titles")
 student_profile_page_titles.run()
-print("Resizing Images")
-resize_student_images.run()
+
+# Disabled temporary
+# print("Resizing Images")
+# resize_student_images.run()
