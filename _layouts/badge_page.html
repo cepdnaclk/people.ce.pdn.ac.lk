@@ -8,8 +8,9 @@ layout: default
         <h1 class="text-white">{{page.title}}</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">Home</a></li>
-                <li class="breadcrumb-item text-white"><a href="{{ '/badges/' | relative_url }}" class="link-light">Badges</a></li>
+                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
+                <li class="breadcrumb-item"><a href="{{ '/badges/' | relative_url }}" class="link-light">Badges</a></li>
                 <li class="breadcrumb-item text-white">{{page.title}}</li>
             </ol>
         </nav>
