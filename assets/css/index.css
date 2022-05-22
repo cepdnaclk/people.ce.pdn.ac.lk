@@ -48,7 +48,8 @@ body {
   right: 70px;
   z-index: 98;
   padding: 21px;
-  background-color: #0dfc5e !important;
+  /* background-color: #0dfc5e !important; */
+  background-color: #0d6efd !important;
   background: url('/assets/img/cd-top-edit.svg')
     no-repeat center 50%;
   background-color: hsla(5, 76%, 62%, 0.8);
