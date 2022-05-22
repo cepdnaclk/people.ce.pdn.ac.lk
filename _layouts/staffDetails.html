@@ -164,18 +164,146 @@ research_interests: [ 'Computer Networking', 'Wireless Networking', 'IoT', 'Arti
             </div>
         </div>
         <div class="col-md-8">
-            <div class="card mb-3">
+            <!-- Tab Controller -->
+            <div class="card p-0">
                 <div class="card-body">
-                    <style>
-                        p {
-                            text-align: justify;
-                        }
-                    </style>
-                    {{content}}
+                    {%- assign projects = site.data.staff_projects[page.email] -%}
+                    {%- assign project_count = projects | where: "category.code", "4yp" | size -%}
+
+                    <nav>
+                        <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                            <button class="nav-link active" id="nav-bio-tab" data-bs-toggle="tab" data-bs-target="#nav-bio" type="button" role="tab" aria-controls="nav-bio" aria-selected="true">About</button>
+
+                            <button class="nav-link" id="nav-research-tab" data-bs-toggle="tab" data-bs-target="#nav-research" type="button" role="tab" aria-controls="nav-research" aria-selected="false">Research</button>
+
+                            {% if project_count > 0 %}
+                            <button class="nav-link" id="nav-projects-tab" data-bs-toggle="tab" data-bs-target="#nav-projects" type="button" role="tab" aria-controls="nav-projects" aria-selected="false">Supervision</button>
+                            {%- endif -%}
+
+                            <!-- <button class="nav-link disabled" id="nav-research-tab" data-bs-toggle="tab" data-bs-target="#nav-research" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Research Outputs</button> -->
+                        </div>
+                    </nav>
+
+                    <div class="tab-content" id="nav-tabContent" style="min-height: 50vh;">
+                        <!-- Bio and basic information -->
+                        <div class="tab-pane fade active show  p-4" id="nav-bio" role="tabpanel" aria-labelledby="nav-home-tab">
+                            {{content}}
+                        </div>
+
+                        <!-- Supervised projects -->
+                        {% if project_count > 0 %}
+                        {%- assign p_count = 0 -%}
+
+                        <div class="tab-pane fade p-4" id="nav-projects" role="tabpanel" aria-labelledby="nav-profile-tab">
+                            <h5>Research projects supervised by {{ page.name_below_image }}:</h5>
+                            <div class="row">
+                                <!-- Only include the Final Year Research Projects -->
+                                {%- for p in projects -%}
+
+                                {% if p.category.code == "4yp" and p_count < 6 %}
+                                {%- assign p_count = p_count | plus:1 -%}
+                                {%- include projectCard.html title=p.title thumb=p.thumbnail_url url=p.project_url cat=p.category.title -%}
+                                {%- endif -%}
+                                {%- endfor -%}
+                            </div>
+
+                            {%- if p_count > 6 -%}
+                            <div class="pt-3">
+                                <a class="link" href="https://projects.ce.pdn.ac.lk/search/?query={{ page.email }}">See more projects</a>
+                            </div>
+                            {%- endif -%}
+
+                            <div class="row pt-3">
+                                <hr>
+                                <p class="text-muted small">
+                                    Please note that here only contain the <i>'Projects'</i> which were submitted to the
+                                    <a href="https://projects.ce.pdn.ac.lk/4yp/" target="_blank">projects.ce.pdn.ac.lk</a> as <i>Final Year Research Projects</i>. The actual list of projects supervised by <i>{{ page.name_below_image }}</i> may be longer than this.
+                                </p>
+                            </div>
+                        </div>
+                        {%- endif -%}
+
+                        <!-- Publication and Grants -->
+                        {%- assign publications = site.data.staff_publications[page.email] -%}
+                        {%- assign pub_count = publications['publication_count'] -%}
+                        {%- assign year_count = publications['year_count'] -%}
+                        {%- assign year = 0 -%}
+
+                        <div class="tab-pane fade p-4" id="nav-research" role="tabpanel" aria-labelledby="nav-research-tab">
+                            <h5>Research Interests:</h5>
+                            <ul>
+                                {%- for item in page.research_interests -%}
+                                <li>{{item}}</li>
+                                {%- endfor -%}
+                            </ul>
+
+                            <!-- Publications -->
+                            {% if pub_count > 0 %}
+                            <h5 class="pt-3">Publications:</h5>
+                            <div class="row">
+                                <div class="accordion accordion-flush" id="accordionPublications">
+                                    {%- for years in publications['publications'] -%}
+                                    {%- assign year = year | plus:1 -%}
+
+                                    <!-- This will show the first 5 years expanded and remainings collapsed by default -->
+                                    {%- if year <=5 -%}
+                                    {%- assign expanded = "show" -%}
+                                    {%- else -%}
+                                    {%- assign expanded = "" -%}
+                                    {%- endif -%}
+
+                                    <div class="accordion-item">
+                                        <h5 class="accordion-header" id="pub-header-{{ years[0] }}">
+                                            <button class="accordion-button collapsed btn-sm" style="padding: 6px 16px" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-{{ years[0] }}"
+                                            aria-expanded="{{ expanded }}" aria-controls="collapse-{{ years[0] }}">
+                                            {{ years[0] }}
+                                        </button>
+                                    </h5>
+                                    <div id="collapse-{{ years[0] }}" class="accordion-collapse collapse {{ expanded }}" aria-labelledby="pub-header-{{ years[0] }}">
+                                        <div class="accordion-body">
+                                            <ul>
+                                                {%- for p in years[1] -%}
+                                                <li>
+                                                    {%- include publicationCard.html data=p title=p.title -%}
+                                                </li>
+                                                {%- endfor -%}
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                {%- endfor -%}
+                            </div>
+
+                            <div class="row pt-4">
+                                <hr>
+                                <p class="text-muted small">
+                                    Please note that here only contain the <i>'Publications'</i> affiliated with the <i>Department of Computer Engineering</i>, which were submitted to the site. To see the full publication profile, visit the
+                                    {%- if page.url_researchgate -%}
+                                    <span> <a href="{{ page.url_researchgate }}" target="_blank">ResearchGate</a> </span>
+                                    {%- else -%}
+                                    <span> ResearchGate </span>
+                                    {%- endif -%} or
+                                    {%- if page.url_google_scholar -%}
+                                    <span> <a href="{{ page.url_google_scholar }}" target="_blank">Google Scholar</a> </span>
+                                    {%- else -%}
+                                    <span> Google Scholar </span>
+                                    {%- endif -%}
+                                    profile.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    {%- endif -%}
                 </div>
             </div>
         </div>
-
-
     </div>
 </div>
+</div>
+
+
+<style>
+    p {
+        text-align: justify;
+    }
+</style>

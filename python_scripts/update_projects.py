@@ -13,9 +13,24 @@ try:
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, "w") as f:
             f.write(json.dumps(stud_projects, indent = 4))
-        print("Success")
+        print("Students: Success")
     else:
-        print("Failed")
+        print("Students: Failed")
+
+
+    url = "https://api.ce.pdn.ac.lk/projects/v1/filter/staff/index.json"
+    r = requests.get(url)
+
+    if r.status_code==200:
+        # it is available
+        staff_projects = json.loads(r.text)
+        filename = "../_data/staff_projects.json"
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+        with open(filename, "w") as f:
+            f.write(json.dumps(staff_projects, indent = 4))
+        print("Staff: Success")
+    else:
+        print("Staff: Failed")
 
 except:
     print('parse failed; ' +  url)

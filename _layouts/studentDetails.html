@@ -368,6 +368,40 @@ breadcrumb
                 </div>
             </div>
             {%- endif -%}
+
+            <!-- Publications -->
+            {%- assign publications = site.data.student_publications[page.reg_no] -%}
+            {%- assign pub_count = publications | size -%}
+            {% if pub_count > 0 %}
+            <div class="card mt-3">
+                <div class="card-header" style="font-weight: 500">Publications</div>
+                <div class="card-body mx-2 p-3">
+                    <div class="row px-3">
+                        <ul>
+                            {%- for p in publications -%}
+                            <li>
+                                {%- include publicationCard.html data=p title=p.title path=page.path -%}
+                            </li>
+                            {%- endfor -%}
+                        </ul>
+
+                    </div>
+                    <div class="row">
+                        <hr>
+                        <p class="text-muted small">
+                            Please note  that here only contain the <i>'Publications'</i> affiliated with the <i>Department of Computer Engineering</i>. To see the full publication profile, visit the
+                            {%- if page.url_researchgate -%}
+                            <span> <a href="{{ page.url_researchgate }}" target="_blank">ResearchGate</a> </span>
+                            {%- else -%}
+                            <span> ResearchGate </span>
+                            {%- endif -%} or Google Scholar profile of the student.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            {%- endif -%}
+            <br>
+            <br>
             {{content}}
         </div>
     </div>
