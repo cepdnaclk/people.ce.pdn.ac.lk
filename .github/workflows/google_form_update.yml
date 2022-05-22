@@ -30,25 +30,13 @@ jobs:
           pip install pillow
           pip install googledrivedownloader
 
-      - name: Update Student Details
+      - name: Update student profiles from Google Form
         run: |
           cd ./python_scripts
-          python3 update_student_data_google_form.py
+          python3 update_profile_from_google_form.py
           cd ../
 
-      - name: Update Alumni Details
-        run: |
-          cd ./python_scripts
-          python3 update_alumni_data_google_form.py
-          cd ../
-
-      - name: Update from Unified Google Form
-        run: |
-          cd ./python_scripts
-          python3 update_profile_from_unified_google_form.py
-          cd ../
-
-      - name: Download Academic staff pages from gDrive
+      - name: Download Academic Staff pages from Google Drive
         run: |
           cd ./python_scripts
           python3 download_staff_pages_from_drive.py
