@@ -1,12 +1,12 @@
 .vh-50 {
-  min-height: 50vh !important;
+    min-height: 50vh !important;
 }
 .vh-75 {
-  min-height: 75vh !important;
+    min-height: 75vh !important;
 }
 
 html {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -14,72 +14,67 @@ body {
 }
 
 .cardSpacingHome {
-  margin: 7px;
+    margin: 7px;
 }
 
 .cardSpacingStudentsList {
-  margin: 3px;
+    margin: 3px;
 }
 
 .buttonBottomMargin {
-  margin-bottom: 5px;
+    margin-bottom: 5px;
 }
 
 .scroll {
-  color: #fff;
-  margin-top: 100px;
+    color: #fff;
+    margin-top: 100px;
 }
 
 #toTopBtn {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 98;
-  padding: 21px;
-  background-color: #0d6efd;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 98;
+    padding: 21px;
+    background-color: #0d6efd;
 }
 
 .js .cd-top--fade-out {
-  opacity: 0.5;
+    opacity: 0.5;
 }
 
 .js .cd-top--is-visible {
-  visibility: visible;
-  opacity: 1;
+    visibility: visible;
+    opacity: 1;
 }
 
 .js .cd-top {
-  visibility: hidden;
-  opacity: 0;
-  transition: opacity 0.3s, visibility 0.3s, background-color 0.3s;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s, visibility 0.3s, background-color 0.3s;
 }
 
 .cd-top {
-  position: fixed;
-  bottom: 20px;
-  bottom: var(--cd-back-to-top-margin);
-  right: 20px;
-  right: var(--cd-back-to-top-margin);
-  display: inline-block;
-  height: 40px;
-  height: var(--cd-back-to-top-size);
-  width: 40px;
-  width: var(--cd-back-to-top-size);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05) !important;
-  background: url(https://res.cloudinary.com/dxfq3iotg/image/upload/v1571057658/cd-top-arrow.svg)
+    position: fixed;
+    bottom: 20px;
+    bottom: var(--cd-back-to-top-margin);
+    right: 20px;
+    right: var(--cd-back-to-top-margin);
+    display: inline-block;
+    height: 40px;
+    height: var(--cd-back-to-top-size);
+    width: 40px;
+    width: var(--cd-back-to-top-size);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05) !important;
+    background: url(https://res.cloudinary.com/dxfq3iotg/image/upload/v1571057658/cd-top-arrow.svg)
     no-repeat center 50%;
-  background-color: hsla(5, 76%, 62%, 0.8);
-  background-color: hsla(
-    var(--cd-color-3-h),
-    var(--cd-color-3-s),
-    var(--cd-color-3-l),
-    0.8
-  );
+    background-color: hsla(5, 76%, 62%, 0.8);
+    background-color: hsla( var(--cd-color-3-h), var(--cd-color-3-s), var(--cd-color-3-l), 0.8);
 }
 
 /* Custom css for breadcrumb divider color*/
 .breadcrumb-item + .breadcrumb-item::before {
-  color: white;
+    color: white;
 }
 
 
@@ -99,4 +94,16 @@ body {
 .text-decoration-none{
     text-decoration: none!important;
     /* color: black; */
+}
+
+.badge-image{
+    width: 100px !important;
+    height: 100px !important;
+    cursor: pointer!important;
+    transition: transform .2s;
+    padding: 4px;
+}
+
+.badge-image:hover{
+    transform: scale(1.1);
 }
