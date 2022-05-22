@@ -1,0 +1,217 @@
+{
+    "badges": {
+        "casual-instructors-2021": {
+            "title": "Casual Instructors - 2021/2022",
+            "image": "images/badges/causal-instructors.png",
+            "description": "The casual Instructor program in the Department of Computer Engineering provides undergraduate students with the opportunity to be an instructor/teaching assistant in the courses offered for their junior batches.",
+            "page": "/badges/casual-instructors-2021/",
+            "show": "true"
+        },
+        "web-consultation-team": {
+            "title": "Web Consultation Team",
+            "image": "images/badges/web-consultation-team.png",
+            "description": "The Web Consultation Team is a group of volunteers assisting to improve the web presence of the University of Peradeniya. They  coordinate between staff/students and the webmasters of the websites under the pdn domain.",
+            "page": "/badges/web-consultation-team/",
+            "show": "true"
+        }
+    },
+    "members": {
+        "E/17/058": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO225, CO253",
+                "link": "#"
+            },
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/17/369": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO224",
+                "link": "#"
+            },
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/17/190": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO224",
+                "link": "#"
+            }
+        ],
+        "E/17/044": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO224",
+                "link": "#"
+            }
+        ],
+        "E/17/018": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO224",
+                "link": "#"
+            }
+        ],
+        "E/17/134": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO253",
+                "link": "#"
+            }
+        ],
+        "E/17/194": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO253",
+                "link": "#"
+            },
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/17/072": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO253",
+                "link": "#"
+            }
+        ],
+        "E/17/380": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO253",
+                "link": "#"
+            }
+        ],
+        "E/17/144": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO253",
+                "link": "#"
+            }
+        ],
+        "E/17/064": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/17/035": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/17/230": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/17/027": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/17/342": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/17/201": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/14/158": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/14/240": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/18/013": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/18/297": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/18/100": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/18/373": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/18/382": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/18/186": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/18/245": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/18/105": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ]
+    }
+}

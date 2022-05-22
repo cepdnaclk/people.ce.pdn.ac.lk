@@ -1,4 +1,4 @@
-name: Update profiles from Google Form details
+name: Update Profile Details 
 
 on:
   schedule:
@@ -28,23 +28,24 @@ jobs:
           pip install gdown
           pip install requests
           pip install pillow
+          pip install googledrivedownloader
 
-      - name: Update Student Details
+      - name: Update student profiles from Google Form
         run: |
           cd ./python_scripts
-          python3 update_student_data_google_form.py
+          python3 update_profile_from_google_form.py
           cd ../
 
-      - name: Update Alumni Details
+      - name: Download Academic Staff pages from Google Drive
         run: |
           cd ./python_scripts
-          python3 update_alumni_data_google_form.py
+          python3 download_staff_pages_from_drive.py
           cd ../
 
-      - name: Update from Unified Google Form
+      - name: Generate Performance Badges for the students
         run: |
           cd ./python_scripts
-          python3 update_profile_from_unified_google_form.py
+          python3 update_badges.py
           cd ../
 
       - name: Commit and push into the main branch

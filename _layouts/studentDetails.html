@@ -58,7 +58,8 @@ breadcrumb
         <!-- <h1 class="text-white">Student Details</h1> -->
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
                 <li class="breadcrumb-item text-white">Students</li>
                 <li class="breadcrumb-item"><a href="../" class="link-light">{{page.batch | upcase}} Batch</a></li>
                 <li class="breadcrumb-item text-white">
@@ -115,6 +116,7 @@ breadcrumb
                     </div>
                 </div>
             </div>
+
             <div class="card mt-3">
                 <ul class="list-group list-group-flush">
                     <!-- CV -->
@@ -290,12 +292,73 @@ breadcrumb
                 </div>
             </div>
 
+            <!-- Badges -->
+            {%- assign badges = site.data.badges.members[page.reg_no] -%}
+            {%- assign badge_count = 0 -%}
+            <!-- count the numbere of visible badges -->
+            {% for badge in badges %}
+            {%- assign badge_details = site.data.badges.badges[badge.tag] -%}
+            {%- if badge_details.show == "true" -%}
+            {%- assign badge_count = badge_count | plus:1 -%}
+            {%- endif -%}
+            {% endfor %}
+
+            {% if badge_count > 0 %}
+            <div class="card mt-3">
+                <div class="card-header" style="font-weight: 500">
+                    Badges
+                    <sup><i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="right" title="Badges are offered by the department based on the student activities and performance"></i></sup>
+                </div>
+                <div class="card-body mx-2 d-flex flex-row">
+
+                    {% for badge in badges %}
+                    {%- assign badge_details = site.data.badges.badges[badge.tag] -%}
+
+                    {%- if badge_details.show == "true" -%}
+                    <img class="badge-image" src="{{ badge_details.image | relative_url }}" data-bs-toggle-tooltip="tooltip" data-bs-placement="bottom" title="{{ badge_details.title }}"
+                    alt="{{ badge_details.title }}" data-bs-toggle="modal" data-bs-target="#{{ badge.tag }}">
+
+                    <!-- Modal -->
+                    <div class="modal fade" id="{{ badge.tag }}" tabindex="-1" aria-labelledby="{{ badge_details.title }}" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="exampleModalLabel">{{ badge_details.title }}</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    <div class="row ">
+                                        <div class="col-3 d-flex align-items-center">
+                                            <img class="img-fluid" src="{{ badge_details.image | relative_url }}"
+                                            alt="{{ badge_details.title }}">
+                                        </div>
+                                        <div class="col-9 d-flex align-items-center">{{ badge_details.description }}</div>
+                                    </div>
+
+                                </div>
+                                <div class="modal-footer">
+                                    <a href="{{ badge_details.page | relative_url }}" type="button" class="btn btn-primary">See more</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {%- endif -%}
+                    {%- endfor -%}
+                </div>
+            </div>
+            {%- endif -%}
+
+
+
             <!-- Projects -->
             {%- assign projects = site.data.student_projects[page.reg_no] -%}
             {%- assign project_count = projects | size -%}
             {% if project_count > 0 %}
             <div class="card mt-3">
-                <div class="card-header" style="font-weight: 500">Projects</div>
+                <div class="card-header" style="font-weight: 500">
+                    Projects
+                    <sup><i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="right" title="Projects done by the student, which are listed in the projects.ce.pdn.ac.lk"></i></sup>
+                </div>
                 <div class="card-body mx-2">
                     <div class="row">
                         {%- for p in projects -%}

@@ -1,0 +1,106 @@
+{
+    "title": "Web Consultation Team",
+    "tag": "web-consultation-team",
+    "description": "The Web Consultation Team is a group of volunteers assisting to improve the web presence of the University of Peradeniya. They  coordinate between staff/students and the webmasters of the websites under the pdn domain.",
+    "criteria": "Actively contributed to the Web Consultation Team",
+    "image": "images/badges/web-consultation-team.png",
+    "show_in_profile": "true",
+    "criteria": "Actively contributed to the Web Consultation Team activities",
+    "students":[
+        {
+            "eNumber": "E/17/064",
+            "name": "Dhushintha",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/17/058",
+            "name": "Isuri",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/17/194",
+            "name": "Madushan",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/17/035",
+            "name": "Madusha",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/17/230",
+            "name": "Nishan",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/17/027",
+            "name": "Pubudu",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/17/369",
+            "name": "Savindu Wannigama",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/17/342",
+            "name": "Thanujan",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/17/201",
+            "name": "Thilini",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/14/158",
+            "name": "Gihan",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/14/240",
+            "name": "Danushki",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/18/013",
+            "name": "Abilash",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/18/297",
+            "name": "Piumal",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/18/100",
+            "name": "Adeepa",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/18/373",
+            "name": "Vilakshan",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/18/382",
+            "name": "Denuwan ",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/18/186",
+            "name": "Hirun",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/18/245",
+            "name": "Nishani",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/18/105",
+            "name": "Sameera",
+            "position": "Member"
+        }
+    ]
+}
