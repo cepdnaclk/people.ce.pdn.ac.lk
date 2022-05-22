@@ -75,46 +75,20 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "publication_count": 7,
-        "year_count": 7,
+        "publication_count": 1,
+        "year_count": 1,
         "publications": {
             "2019": [
                 {
                     "title": "Non-contact Infant Sleep Apnea Detection",
                     "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
                     "year": "2019",
-                    "abstract": "",
+                    "abstract": "Sleep apnea is a breathing disorder where a person repeatedly stops breathing in sleep. Early detection is crucial for infants because it might bring long term adversities. The existing accurate detection mechanism (pulse oximetry) is a skin contact measurement. The existing non-contact mechanisms (acoustics, video processing) are not accurate enough. This paper presents a novel algorithm for the detection of sleep apnea with video processing. The solution is non-contact, accurate and lightweight enough to run on a single board computer. The paper discusses the accuracy of the algorithm on real data, advantages of the new algorithm, its limitations and suggests future improvements.",
                     "authors": [
                         "Gihan Jayatilaka",
-                        "Roshan Ragel",
-                        "Isuru Nawinne"
-                    ],
-                    "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
-                    "preprint": "#",
-                    "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        "Computational BioEngineering",
-                        "Computer Vision"
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Sleep apnea",
-                        "Video processing",
-                        "Bio medical engineering",
-                        "Pattern recognition"
-                    ],
-                    "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
-                },
-                {
-                    "title": "Non-contact Infant Sleep Apnea Detection",
-                    "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
-                    "year": "2019",
-                    "abstract": "",
-                    "authors": [
-                        "Gihan Jayatilaka",
+                        "Harshana Weligampola",
+                        "Suren Sritharan",
+                        "Pankayaraj Pathmanathan",
                         "Roshan Ragel",
                         "Isuru Nawinne"
                     ],
@@ -137,193 +111,7 @@
                     ],
                     "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
                 }
-            ],
-            "2018": [
-                {
-                    "title": "Non-contact Infant Sleep Apnea Detection",
-                    "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
-                    "year": "2019",
-                    "abstract": "",
-                    "authors": [
-                        "Gihan Jayatilaka",
-                        "Roshan Ragel",
-                        "Isuru Nawinne"
-                    ],
-                    "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
-                    "preprint": "#",
-                    "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        "Computational BioEngineering",
-                        "Computer Vision"
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Sleep apnea",
-                        "Video processing",
-                        "Bio medical engineering",
-                        "Pattern recognition"
-                    ],
-                    "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
-                }
-            ],
-            "2015": [
-                {
-                    "title": "Non-contact Infant Sleep Apnea Detection",
-                    "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
-                    "year": "2019",
-                    "abstract": "",
-                    "authors": [
-                        "Gihan Jayatilaka",
-                        "Roshan Ragel",
-                        "Isuru Nawinne"
-                    ],
-                    "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
-                    "preprint": "#",
-                    "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        "Computational BioEngineering",
-                        "Computer Vision"
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Sleep apnea",
-                        "Video processing",
-                        "Bio medical engineering",
-                        "Pattern recognition"
-                    ],
-                    "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
-                }
-            ],
-            "2014": [
-                {
-                    "title": "Non-contact Infant Sleep Apnea Detection",
-                    "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
-                    "year": "2019",
-                    "abstract": "",
-                    "authors": [
-                        "Gihan Jayatilaka",
-                        "Roshan Ragel",
-                        "Isuru Nawinne"
-                    ],
-                    "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
-                    "preprint": "#",
-                    "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        "Computational BioEngineering",
-                        "Computer Vision"
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Sleep apnea",
-                        "Video processing",
-                        "Bio medical engineering",
-                        "Pattern recognition"
-                    ],
-                    "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
-                }
-            ],
-            "2010": [
-                {
-                    "title": "Non-contact Infant Sleep Apnea Detection",
-                    "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
-                    "year": "2019",
-                    "abstract": "",
-                    "authors": [
-                        "Gihan Jayatilaka",
-                        "Roshan Ragel",
-                        "Isuru Nawinne"
-                    ],
-                    "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
-                    "preprint": "#",
-                    "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        "Computational BioEngineering",
-                        "Computer Vision"
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Sleep apnea",
-                        "Video processing",
-                        "Bio medical engineering",
-                        "Pattern recognition"
-                    ],
-                    "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
-                }
-            ],
-            "2009": [
-                {
-                    "title": "Non-contact Infant Sleep Apnea Detection",
-                    "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
-                    "year": "2019",
-                    "abstract": "",
-                    "authors": [
-                        "Gihan Jayatilaka",
-                        "Roshan Ragel",
-                        "Isuru Nawinne"
-                    ],
-                    "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
-                    "preprint": "#",
-                    "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        "Computational BioEngineering",
-                        "Computer Vision"
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Sleep apnea",
-                        "Video processing",
-                        "Bio medical engineering",
-                        "Pattern recognition"
-                    ],
-                    "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
-                }
-            ],
-            "2007": [
-                {
-                    "title": "Non-contact Infant Sleep Apnea Detection",
-                    "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
-                    "year": "2019",
-                    "abstract": "",
-                    "authors": [
-                        "Gihan Jayatilaka",
-                        "Roshan Ragel",
-                        "Isuru Nawinne"
-                    ],
-                    "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
-                    "preprint": "#",
-                    "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        "Computational BioEngineering",
-                        "Computer Vision"
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Sleep apnea",
-                        "Video processing",
-                        "Bio medical engineering",
-                        "Pattern recognition"
-                    ],
-                    "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
-                }
-            ],
+            ]
         }
     }
 }
