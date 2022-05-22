@@ -1,7 +1,5 @@
-# Resize all student images to make their size smaller and square
+# Resize all student images to make their size smaller
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
-
-# This script will resize the student profile images to be in square (recomanded: 300x300 px)
 
 import os
 from PIL import Image  # pip install pillow
@@ -14,25 +12,21 @@ def run():
     for eachFolder in directory_list:
         if "." in eachFolder:
             continue  # skip if not folder
-
         for eachImage in os.listdir(imagesPath+f"/{eachFolder}"):
             try:
                 imagePath = imagesPath+f"/{eachFolder}/{eachImage}"
                 image = Image.open(imagePath)
                 width, height = image.size
                 size = os.path.getsize(imagePath)/1024
-
-                if size > 25 or (height > 301 and width > 301):
-                    # Somehow, png images can be exists greater than 25kB, even we cropped them
-                    # This condition check will miss the images such as 175x300 px
-
+                if size > 25:
                     print(f"{imagePath}, width = {width:5}, height = {height:5}, size = {size:4.4}kb")
-                    horizontalPadding = (width-300)/2
-                    verticalPadding = (height-300)/2
+                    resizeValue = 300/width
+                    new_image = image.resize((int(width*resizeValue), int(height*resizeValue)))
 
-                    # im1 = im.crop((left, top, right, bottom))
-                    new_image = image.crop((horizontalPadding, verticalPadding, horizontalPadding+300, verticalPadding+300))
-                    new_image.save(imagePath)
+                    if(not (int(width*resizeValue) == width and int(height*resizeValue) == height)):
+                        new_image.save(imagePath)
+                    else:
+                        print("No resize required")
             except:
                 print(f"Failed to resize image {imagePath}")
 
