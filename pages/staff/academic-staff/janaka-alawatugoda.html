@@ -23,12 +23,12 @@ is_hod: false
 on_duty: true
 
 research_interests: [ 'Cryptography', 'Complexity', 'Information Security' ]
-
 ---
 
 <i class="fas fa-user"></i>
 <a><b><u>BIO</u></b></a>
 <br><br>
+
 
 <a><b><u>Current Affiliations:</u></b></a>
 <ul>
@@ -57,6 +57,17 @@ research_interests: [ 'Cryptography', 'Complexity', 'Information Security' ]
             Association for Cryptologic Research (IACR)</a></li>
 </ul>
 
+<a><b><u>Research Interests:</u></b></a>
+<ul>
+    {% for item in page.research_interests %}
+    <li>{{item}}</li>
+    {% endfor %}
+    {%- comment -%}
+    <li>Cryptography</li>
+    <li>Complexity</li>
+    <li>Information Security</li>
+    {%- endcomment -%}
+</ul>
 <p><em>Research Group:</em> <a href="http://www.ce.pdn.ac.lk/crl" target="_blank" rel="noopener noreferrer">Cryptography
         Research Laboratory</a> <em>Talks and Lectures: </em><a href="https://www.youtube.com/channel/UCdi5DnjfP9BD80KYs6djgBA" target="_blank" rel="noopener noreferrer">Youtube</a><a href="https://www.youtube.com/channel/UCdi5DnjfP9BD80KYs6djgBA" target="_blank" rel="noopener noreferrer"> Channel</a></p>
 
@@ -111,6 +122,7 @@ research_interests: [ 'Cryptography', 'Complexity', 'Information Security' ]
 
 <a><b><u>Research Grants:</u></b></a>
 <ul>
+    <li>Chebyshev Grant to participate in the 2022 International Congress of Mathematicians <a href="https://icm2022.org/" target="_blank" > (ICM 2022) </a>in St. Petersburg, Russia (Grant No: ICM № 49808412). <li>
     <li>2021 UNESCO-TWAS Research Grant for Individual Scientists (Grant No: 21-021 RG/MATHS/AS_I-FR3240319461),
         2021-2023. (Role: Principal Investigator)</li>
     <li>2019 National Research Council postdoctoral fellowship grant (Grant No: NRC 19-064), 2019-2022. (Role:

@@ -1,12 +1,12 @@
 .vh-50 {
-  min-height: 50vh !important;
+    min-height: 50vh !important;
 }
 .vh-75 {
-  min-height: 75vh !important;
+    min-height: 75vh !important;
 }
 
 html {
-  scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -14,20 +14,20 @@ body {
 }
 
 .cardSpacingHome {
-  margin: 7px;
+    margin: 7px;
 }
 
 .cardSpacingStudentsList {
-  margin: 3px;
+    margin: 3px;
 }
 
 .buttonBottomMargin {
-  margin-bottom: 5px;
+    margin-bottom: 5px;
 }
 
 .scroll {
-  color: #fff;
-  margin-top: 100px;
+    color: #fff;
+    margin-top: 100px;
 }
 
 #toTopBtn {
@@ -48,26 +48,25 @@ body {
   right: 70px;
   z-index: 98;
   padding: 21px;
-  /* background-color: #0dfc5e !important; */
-  background-color: #0d6efd !important;
+  background-color: #0dfc5e !important;
   background: url('/assets/img/cd-top-edit.svg')
     no-repeat center 50%;
   background-color: hsla(5, 76%, 62%, 0.8);
 }
 
 .js .cd-top--fade-out {
-  opacity: 0.5;
+    opacity: 0.5;
 }
 
 .js .cd-top--is-visible {
-  visibility: visible;
-  opacity: 1;
+    visibility: visible;
+    opacity: 1;
 }
 
 .js .cd-top {
-  visibility: hidden;
-  opacity: 0;
-  transition: opacity 0.3s, visibility 0.3s, background-color 0.3s;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s, visibility 0.3s, background-color 0.3s;
 }
 
 .cd-top {
@@ -92,7 +91,7 @@ body {
 
 /* Custom css for breadcrumb divider color*/
 .breadcrumb-item + .breadcrumb-item::before {
-  color: white;
+    color: white;
 }
 
 
@@ -112,6 +111,18 @@ body {
 .text-decoration-none{
     text-decoration: none!important;
     /* color: black; */
+}
+
+.badge-image{
+    width: 100px !important;
+    height: 100px !important;
+    cursor: pointer!important;
+    transition: transform .2s;
+    padding: 4px;
+}
+
+.badge-image:hover{
+    transform: scale(1.1);
 }
 
 /* Color Theme updates */

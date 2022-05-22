@@ -35,21 +35,17 @@ research_interests: [ 'Computer Networking', 'Wireless Networking', 'IoT', 'Arti
 
 {%- endcomment -%}
 
-
-{%- comment -%}
-breadcrumbs
-{%- endcomment -%}
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         <h1 class="text-white">{{page.name_below_image}}</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
                 {% if page.on_duty %}
                 <li class="breadcrumb-item"><a href="{{ '/staff/academic/' | relative_url }}" class="link-light">Academic Staff</a></li>
                 {% else %}
-                <li class="breadcrumb-item"><a href="{{ '/staff/academic/past/' | relative_url }}" class="link-light">Past
-                    Academic Staff</a>
+                <li class="breadcrumb-item"><a href="{{ '/staff/academic/past/' | relative_url }}" class="link-light">Past Academic Staff</a>
                 </li>
                 {% endif %}
 
