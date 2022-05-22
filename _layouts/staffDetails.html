@@ -172,21 +172,19 @@ research_interests: [ 'Computer Networking', 'Wireless Networking', 'IoT', 'Arti
 
                     <nav>
                         <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                            <button class="nav-link active" id="nav-bio-tab" data-bs-toggle="tab" data-bs-target="#nav-bio" type="button" role="tab" aria-controls="nav-bio" aria-selected="true">About</button>
+                            <button class="nav-link active" id="nav-bio-tab" data-bs-toggle="tab" data-bs-target="#bio" type="button" role="tab" aria-controls="bio" aria-selected="true">About</button>
 
-                            <button class="nav-link" id="nav-research-tab" data-bs-toggle="tab" data-bs-target="#nav-research" type="button" role="tab" aria-controls="nav-research" aria-selected="false">Research</button>
+                            <button class="nav-link" id="nav-research-tab" data-bs-toggle="tab" data-bs-target="#research" type="button" role="tab" aria-controls="research" aria-selected="false">Research</button>
 
                             {% if project_count > 0 %}
-                            <button class="nav-link" id="nav-projects-tab" data-bs-toggle="tab" data-bs-target="#nav-projects" type="button" role="tab" aria-controls="nav-projects" aria-selected="false">Supervision</button>
+                            <button class="nav-link" id="nav-projects-tab" data-bs-toggle="tab" data-bs-target="#projects" type="button" role="tab" aria-controls="projects" aria-selected="false">Supervision</button>
                             {%- endif -%}
-
-                            <!-- <button class="nav-link disabled" id="nav-research-tab" data-bs-toggle="tab" data-bs-target="#nav-research" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Research Outputs</button> -->
                         </div>
                     </nav>
 
                     <div class="tab-content" id="nav-tabContent" style="min-height: 50vh;">
                         <!-- Bio and basic information -->
-                        <div class="tab-pane fade active show  p-4" id="nav-bio" role="tabpanel" aria-labelledby="nav-home-tab">
+                        <div class="tab-pane fade active show p-4" id="bio" role="tabpanel" aria-labelledby="nav-bio-tab">
                             {{content}}
                         </div>
 
@@ -194,7 +192,7 @@ research_interests: [ 'Computer Networking', 'Wireless Networking', 'IoT', 'Arti
                         {% if project_count > 0 %}
                         {%- assign p_count = 0 -%}
 
-                        <div class="tab-pane fade p-4" id="nav-projects" role="tabpanel" aria-labelledby="nav-profile-tab">
+                        <div class="tab-pane fade p-4" id="projects" role="tabpanel" aria-labelledby="nav-projects-tab">
                             <h5>Research projects supervised by {{ page.name_below_image }}:</h5>
                             <div class="row">
                                 <!-- Only include the Final Year Research Projects -->
@@ -229,7 +227,7 @@ research_interests: [ 'Computer Networking', 'Wireless Networking', 'IoT', 'Arti
                         {%- assign year_count = publications['year_count'] -%}
                         {%- assign year = 0 -%}
 
-                        <div class="tab-pane fade p-4" id="nav-research" role="tabpanel" aria-labelledby="nav-research-tab">
+                        <div class="tab-pane fade p-4" id="research" role="tabpanel" aria-labelledby="nav-research-tab">
                             <h5>Research Interests:</h5>
                             <ul>
                                 {%- for item in page.research_interests -%}
@@ -301,9 +299,31 @@ research_interests: [ 'Computer Networking', 'Wireless Networking', 'IoT', 'Arti
 </div>
 </div>
 
-
 <style>
     p {
         text-align: justify;
     }
 </style>
+
+<script type="text/javascript">
+
+    $( document ).ready(function() {
+        // Switch to the right tab, absed on the location hash
+        const locHash = window.location.hash;
+        if (locHash != ''){
+            var tabTrigger = new bootstrap.Tab($(locHash)).show();
+        }
+        
+        // Update the URL hash with tab selection
+        var tabsList = document.querySelectorAll('button[data-bs-toggle="tab"]')
+        tabsList.forEach((triggerEl) => {
+            triggerEl.addEventListener('shown.bs.tab', function (event) {
+                const tabID = (event.target.getAttribute('id'));
+                console.log(tabID);
+                event.preventDefault();
+                window.location.hash = tabID;
+            })
+        });
+    });
+
+</script>
