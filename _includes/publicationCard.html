@@ -1,6 +1,6 @@
 {% assign pub = include.data %}
 
-<div class="my-1 p-0 pb-3">
+<div class="my-1 p-0 pb-2">
     <div class="row g-0">
         <div class="container">
             {{ pub.authors | join: ", " }}, <b>"{{ pub.title }}"</b>, <i>{{ pub.venue }}</i>, {{ pub.year }}, <a class="text-muted" href="{{p.doi}}" target="_blank">{{ p.doi }}</a>

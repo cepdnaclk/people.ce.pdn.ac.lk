@@ -1,10 +1,10 @@
 $(document).ready(function () {
-  $("#toTopBtn").fadeOut();
+  $(".bottomButtons").fadeOut();
   $(window).scroll(function () {
     if ($(this).scrollTop() > 100) {
-      $("#toTopBtn").fadeIn();
+      $(".bottomButtons").fadeIn();
     } else {
-      $("#toTopBtn").fadeOut();
+      $(".bottomButtons").fadeOut();
     }
   });
 

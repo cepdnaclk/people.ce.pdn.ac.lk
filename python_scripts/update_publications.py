@@ -35,7 +35,10 @@ if r.status_code==200:
     for staff in staff_pub:
         # print(staff_pub[staff])
         pub_count = 0
-        if staff not in staff_pub_year: staff_pub_year[staff]= {"count": 0, "publications": {}}
+        year_count = 0
+        if staff not in staff_pub_year: staff_pub_year[staff]= {
+            "publication_count": 0, "year_count": 0, "publications": {}
+        }
 
         for pub in staff_pub[staff]:
             pub_count += 1
@@ -44,7 +47,9 @@ if r.status_code==200:
             if year not in staff_pub_year[staff]["publications"]: staff_pub_year[staff]["publications"][year] = []
             staff_pub_year[staff]["publications"][year].append(pub)
 
-        staff_pub_year[staff]['count'] = pub_count
+
+        staff_pub_year[staff]['publication_count'] = pub_count
+        staff_pub_year[staff]['year_count'] = len(staff_pub_year[staff]["publications"])
 
     filename = "../_data/staff_publications.json"
     os.makedirs(os.path.dirname(filename), exist_ok=True)

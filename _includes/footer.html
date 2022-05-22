@@ -48,16 +48,16 @@ This is the footer used in every page
                 <i class="fab fa-github"></i> Edit this page on GitHub</a>
             {% endif %}
 
-            {% if page.layout == "studentDetails" or page.layout == "studentDetails_temp" %}
-            | {% include student_edit_button.html eNumber=page.reg_no path=page.path  %}
-            {% endif %}
-
             {% if page.layout == "studentList_no_prof_link" %}
             | <a href="{{ '/form/unified' | relative_url }}" rel="noreferrer" target="_blank">
                 Update via Google Form </a>
             {% endif %}
         </p>
     </footer>
+
+    {% if page.layout == "studentDetails" or page.layout == "studentDetails_temp" %}
+    {% include student_edit_button.html eNumber=page.reg_no path=page.path  %}
+    {% endif %}
 </div>
 
 {%- if page.layout=="documentation" -%}

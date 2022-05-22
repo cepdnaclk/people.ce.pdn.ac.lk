@@ -1,11 +1,17 @@
-<a href="#" rel="noreferrer" target="_blank" data-bs-toggle="modal" data-bs-target="#studentEditModel"> Edit this Page </a>
+<!-- <a> Edit this Page </a> -->
+{%- comment -%}
+Edit button
+{%- endcomment -%}
+<a href="#" id="editBtn" class="cd-top text-replace js-cd-top cd-top cd-top--fade-out bottomButtons"
+style="display: none;" rel="noreferrer" target="_blank" data-bs-toggle="modal" data-bs-target="#studentEditModel"></a>
 
 <!-- Edit Modal -->
-<div class="modal fade" id="studentEditModel" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<br>
+<div class="modal fade" id="studentEditModel" tabindex="-1" aria-labelledby="editModelLable" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Edit Student Profile Information</h5>
+                <h5 class="modal-title" id="editModelLable">Edit Student Profile Information</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
