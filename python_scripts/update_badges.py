@@ -35,7 +35,7 @@ def create_page(data):
     # print(_data)
 
     page_url = '../pages/badges/pages/{0}.md'.format(data['tag'])
-    gh_link = "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/badges" + data['tag']
+    gh_link = "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/badges/" + data['tag']
 
     os.makedirs(os.path.dirname(page_url), exist_ok=True)
 
@@ -58,7 +58,7 @@ def create_page(data):
     page_content = """---
 layout: badge_page
 title: """ + data['title'] + """
-permalink: \"/badges/""" + data['tag'] + """\"
+permalink: \"/badges/""" + data['tag'] + "/" + """\"
 badge_image: \"""" + data['image'] + """\"
 badge_description: \"""" + data['description'] + """\"
 badge_criteria: \"""" + data['criteria'] + """\"

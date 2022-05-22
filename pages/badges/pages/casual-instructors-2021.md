@@ -1,11 +1,11 @@
 ---
 layout: badge_page
 title: Casual Instructors - 2021/2022
-permalink: "/badges/casual-instructors-2021"
+permalink: "/badges/casual-instructors-2021/"
 badge_image: "images/badges/causal-instructors.png"
 badge_description: "The casual Instructor program in the Department of Computer Engineering provides undergraduate students with the opportunity to be an instructor/teaching assistant in the courses offered for their junior batches."
 badge_criteria: "Actively contribute to the course works for more than 6 working hours"
-edit: "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/badgescasual-instructors-2021"
+edit: "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/badges/casual-instructors-2021"
 students: 
  - { eNumber: "E/17/058", name: "G.A.I. Devindi", position: "CO225, CO253", profile_url: "/students/e17/058/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e17/e17058.jpg", link: "#" }
  - { eNumber: "E/17/369", name: "Wannigama S.B.", position: "CO224", profile_url: "/students/e17/369/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e17/e17369.jpg", link: "#" }
