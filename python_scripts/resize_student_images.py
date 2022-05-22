@@ -22,7 +22,7 @@ def run():
                 width, height = image.size
                 size = os.path.getsize(imagePath)/1024
 
-                if size > 25 or (height > 300 and width > 300):
+                if size > 25 or (height > 301 and width > 301):
                     # Somehow, png images can be exists greater than 25kB, even we cropped them
                     # This condition check will miss the images such as 175x300 px
 
