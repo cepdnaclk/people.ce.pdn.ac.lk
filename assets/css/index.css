@@ -112,9 +112,16 @@ body {
     /* color: black; */
 }
 
+.social-icon {
+    transition: transform .2s;
+}
+.social-icon:hover {
+    transform: scale(1.1);
+}
+
 .badge-image{
-    width: 100px !important;
-    height: 100px !important;
+    width: 84px !important;
+    height: 84px !important;
     cursor: pointer!important;
     transition: transform .2s;
     padding: 4px;
