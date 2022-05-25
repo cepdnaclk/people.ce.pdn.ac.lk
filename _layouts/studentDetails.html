@@ -147,7 +147,7 @@ NOTES:
 
                 {% if page.url_facebook %}
                 <a class="btn btn-link" href="{{ page.url_facebook | relative_url}}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Facebook">
-                    <i style="color: #4267B2;" class="fab fa-2x fa-facebook"></i>
+                    <i style="color: #4267B2;" class="fab social-icon fa-2x fa-facebook"></i>
                 </a>
                 {% endif %}
             </div>
@@ -236,8 +236,17 @@ NOTES:
                             <span class="mb-0" style="font-weight: 500">Email</span>
                         </div>
                         <div class="col-sm-9 text-secondary">
-                            {%- if page.email_faculty -%}{{page.email_faculty}}<br>{%- endif -%}
-                            {%- if page.email_personal -%}{{page.email_personal}}{%- endif -%}
+                            {%- if page.email_faculty -%}
+                                <a href="mailto:{{ page.email_faculty }}">{{page.email_faculty}}</a>
+                            {%- endif -%}
+
+                            {%- if page.email_faculty and page.email_personal -%}
+                            &nbsp;,&nbsp; 
+                            {%- endif -%}
+
+                            {%- if page.email_personal -%}
+                                {% include email_reveal.html email=page.email_personal text="Show Personal Email" %}
+                            {%- endif -%}
                         </div>
                     </div>
                     <hr>

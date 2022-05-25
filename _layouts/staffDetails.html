@@ -68,9 +68,6 @@ research_interests: [ 'Computer Networking', 'Wireless Networking', 'IoT', 'Arti
             <div class="card">
                 <div class="card-body">
                     <div class="d-flex flex-column align-items-center text-center">
-                        {%- comment -%}
-                        Image
-                        {%- endcomment -%}
                         <img src="{{ page.url_image | relative_url}}" alt="Admin" class="img-fluid p-2" style="border-radius: 10%" width="">
                         <div class="mt-2">
                             <h4>{{page.name_below_image}}</h4>
@@ -80,87 +77,78 @@ research_interests: [ 'Computer Networking', 'Wireless Networking', 'IoT', 'Arti
                             <button class="btn btn-outline-primary">Message</button> -->
                         </div>
                     </div>
+
+                    <ul class="list-group list-group-flush border-top mt-2">
+                        <!-- Contact Number -->
+                        {% if page.contact_number %}
+                        <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
+                            <h6 class="mb-0"> <i class="fas fa-phone"></i> Contact Number</h6>
+                            <a href="tel:{{page.contact_number}}">{{page.contact_number}}</a>
+                        </li>
+                        {% endif %}
+
+                        <!-- E-mail -->
+                        {% if page.email %}
+                        <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
+                            <h6 class="mb-0"> <i class="fas fa-at"></i> E-mail</h6>
+                            {% include email_reveal.html email=page.email %}
+                        </li>
+                        {% endif %}
+
+                        <!-- Location -->
+                        {%- comment -%}
+                        TODO: Locations changed recently, so will hide until new locations were updated here
+                        {% if page.location %}
+                        <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
+                            <h6 class="mb-0"> <i class="fas fa-map-marker"></i> Location</h6>
+                            <a>{{page.location}}</a>
+                        </li>
+                        {% endif %}
+                        {%- endcomment -%}
+
+                        <!-- AD scientific index -->
+                        {% if page.url_ad_scientific_index %}
+                        <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
+                            <h6 class="mb-0"> <img src="{{ '/assets/img/science-index.jpg' | relative_url }}" width="16" height="16" class="img"> AD Scientific Index</h6>
+                            <span class="text-secondary"> <a href="{{page.url_ad_scientific_index}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        </li>
+                        {% endif %}
+                    </ul>
                 </div>
             </div>
-            <div class="card mt-3">
-                <ul class="list-group list-group-flush">
-                    <!-- Number -->
-                    {% if page.contact_number %}
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fas fa-phone"></i> Contact Number</h6>
-                        <a href="tel:{{page.contact_number}}">{{page.contact_number}}</a>
-                    </li>
-                    {% endif %}
 
-                    <!-- E-mail -->
-                    {% if page.email %}
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fas fa-at"></i> E-mail</h6>
-                        <a href="mailto:{{page.email}}">{{page.email}}</a>
-                    </li>
-                    {% endif %}
+            <!-- Social Media and Profile Links -->
+            <div class="container d-flex justify-content-evenly pt-4 my-2">
+                {% if page.url_linkedin %}
+                <a class="btn btn-link" href="{{ page.url_linkedin }}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Linkedin">
+                    <i style="color: #0e76a8;" class="fab social-icon fa-2x fa-linkedin"></i>
+                </a>
+                {% endif %}
 
-                    <!-- Location -->
-                    {%- comment -%}
-                    TODO: Locations changed recently, so will hide until new locations were updated here
-                    {% if page.location %}
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fas fa-map-marker"></i> Location</h6>
-                        <a>{{page.location}}</a>
-                    </li>
-                    {% endif %}
-                    {%- endcomment -%}
+                {% if page.url_researchgate %}
+                <a class="btn btn-link" href="{{ page.url_researchgate | relative_url}}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Researchgate">
+                    <i style="color: #0cb;" class="fab social-icon fa-2x fa-researchgate"></i>
+                </a>
+                {% endif %}
 
-                    <!-- Google Scholar -->
-                    {% if page.url_google_scholar %}
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fab fa-google"></i> Google Scholar</h6>
-                        <span class="text-secondary"> <a href="{{page.url_google_scholar}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                    </li>
-                    {% endif %}
+                {% if page.url_google_scholar %}
+                <a class="btn btn-link" href="{{ page.url_google_scholar | relative_url}}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Google Scholar">
+                    <i style="color: #3569c3;" class="fab social-icon fa-2x fa-google"></i>
+                </a>
+                {% endif %}
 
-                    <!-- Orcid -->
-                    {% if page.url_orcid %}
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fab fa-orcid"></i> ORCID</h6>
-                        <span class="text-secondary"> <a href="{{page.url_orcid}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                    </li>
-                    {% endif %}
+                {% if page.url_website %}
+                <a class="btn btn-link" href="{{ page.url_website | relative_url}}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Personal Website">
+                    <i style="color: #000;" class="fa social-icon fa-2x fa-globe"></i>
+                </a>
+                {% endif %}
 
-                    <!-- Researchgate -->
-                    {% if page.url_researchgate %}
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fab fa-researchgate"></i> ResearchGate</h6>
-                        <span class="text-secondary"> <a href="{{page.url_researchgate}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                    </li>
-                    {% endif %}
+                {% if page.url_orcid %}
+                <a class="btn btn-link" href="{{ page.url_orcid | relative_url}}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="ORCID">
+                    <i style="color: #a6ce39;" class="fab social-icon fa-2x fa-orcid"></i>
+                </a>
+                {% endif %}
 
-                    <!-- Website -->
-                    {% if page.url_website %}
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fas fa-globe"></i> Website</h6>
-                        <span class="text-secondary"> <a href="{{page.url_website}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                    </li>
-                    {% endif %}
-
-                    <!-- LinkedIN -->
-                    {% if page.url_linkedin %}
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fab fa-linkedin"></i> LinkedIn</h6>
-                        <span class="text-secondary"> <a href="{{page.url_linkedin}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                    </li>
-                    {% endif %}
-
-                    <!-- AD scientific index -->
-                    {% if page.url_ad_scientific_index %}
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <img src="{{ '/assets/img/science-index.jpg' | relative_url }}" width="16" height="16" class="img"> AD Scientific Index</h6>
-                        <span class="text-secondary"> <a href="{{page.url_ad_scientific_index}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                    </li>
-                    {% endif %}
-
-
-                </ul>
             </div>
         </div>
         <div class="col-md-8">
@@ -172,19 +160,19 @@ research_interests: [ 'Computer Networking', 'Wireless Networking', 'IoT', 'Arti
 
                     <nav>
                         <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                            <button class="nav-link active" id="nav-bio-tab" data-bs-toggle="tab" data-bs-target="#bio" type="button" role="tab" aria-controls="bio" aria-selected="true">About</button>
+                            <button class="nav-link active" id="bio" data-bs-toggle="tab" data-bs-target="#bio-tab" type="button" role="tab" aria-controls="bio" aria-selected="true">About</button>
 
-                            <button class="nav-link" id="nav-research-tab" data-bs-toggle="tab" data-bs-target="#research" type="button" role="tab" aria-controls="research" aria-selected="false">Research</button>
+                            <button class="nav-link" id="research" data-bs-toggle="tab" data-bs-target="#research-tab" type="button" role="tab" aria-controls="research" aria-selected="false">Research</button>
 
                             {% if project_count > 0 %}
-                            <button class="nav-link" id="nav-projects-tab" data-bs-toggle="tab" data-bs-target="#projects" type="button" role="tab" aria-controls="projects" aria-selected="false">Supervision</button>
+                            <button class="nav-link" id="projects" data-bs-toggle="tab" data-bs-target="#projects-tab" type="button" role="tab" aria-controls="projects" aria-selected="false">Supervision</button>
                             {%- endif -%}
                         </div>
                     </nav>
 
                     <div class="tab-content" id="nav-tabContent" style="min-height: 50vh;">
                         <!-- Bio and basic information -->
-                        <div class="tab-pane fade active show p-4" id="bio" role="tabpanel" aria-labelledby="nav-bio-tab">
+                        <div class="tab-pane fade active show p-4" id="bio-tab" role="tabpanel" aria-labelledby="bio">
                             {{content}}
                         </div>
 
@@ -192,7 +180,7 @@ research_interests: [ 'Computer Networking', 'Wireless Networking', 'IoT', 'Arti
                         {% if project_count > 0 %}
                         {%- assign p_count = 0 -%}
 
-                        <div class="tab-pane fade p-4" id="projects" role="tabpanel" aria-labelledby="nav-projects-tab">
+                        <div class="tab-pane fade p-4" id="projects-tab" role="tabpanel" aria-labelledby="projects">
                             <h5>Research projects supervised by {{ page.name_below_image }}:</h5>
                             <div class="row">
                                 <!-- Only include the Final Year Research Projects -->
@@ -227,7 +215,7 @@ research_interests: [ 'Computer Networking', 'Wireless Networking', 'IoT', 'Arti
                         {%- assign year_count = publications['year_count'] -%}
                         {%- assign year = 0 -%}
 
-                        <div class="tab-pane fade p-4" id="research" role="tabpanel" aria-labelledby="nav-research-tab">
+                        <div class="tab-pane fade p-4" id="research-tab" role="tabpanel" aria-labelledby="research">
                             <h5>Research Interests:</h5>
                             <ul>
                                 {%- for item in page.research_interests -%}
@@ -313,7 +301,7 @@ research_interests: [ 'Computer Networking', 'Wireless Networking', 'IoT', 'Arti
         if (locHash != ''){
             var tabTrigger = new bootstrap.Tab($(locHash)).show();
         }
-        
+
         // Update the URL hash with tab selection
         var tabsList = document.querySelectorAll('button[data-bs-toggle="tab"]')
         tabsList.forEach((triggerEl) => {
