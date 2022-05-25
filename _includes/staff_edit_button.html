@@ -1,4 +1,3 @@
-<!-- <a> Edit this Page </a> -->
 {%- comment -%}
 Edit button
 {%- endcomment -%}
@@ -17,15 +16,18 @@ style="display: none;" rel="noreferrer" target="_blank" data-bs-toggle="modal" d
             <div class="modal-body">
                 <h5>Profile</h5>
                 <p>
-                    Option 1: <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/{{ include.path }}" rel="noreferrer" target="_blank">Edit this page on GitHub</a> <br>
-                    Option 2: <a href="{{ '/form/unified' | relative_url }}" target="_blank">Update by filling a Google Form</a>
+                    Option 1: <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/{{ include.path }}" rel="noreferrer" target="_blank">Edit this page on GitHub</a> 
+                        (Instructions can be found from <a href="{{ '/documentation/edit-academic-staff-page/' | relative_url}}" target="_blank">here</a>) <br><br>
+                    Option 2: Update the page from Google Drive 
+                        (<a href="{{ '/documentation/edit-academic-staff-page-from-gdrive/' | relative_url}}" target="_blank">Instructions</a>
+                         | Please contact one of the <a href="{{ '/documentation/' | relative_url }}">site maintainer</a> for the initial configuration)
                 </p>
                 <p class="text-muted small">Only use one option from above</p>
                 <hr>
 
                 <h5>Projects</h5>
                 <p>
-                    You need to add your project to <a href="https://projects.ce.pdn.ac.lk/" target="_blank">https://projects.ce.pdn.ac.lk/</a>. Read the guideline in <a href="https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project/" target="_blank">here</a> about it.
+                    This will be a automated process, if the students correctly configured the <i>project config file</i>
                 </p>
                 <hr>
 

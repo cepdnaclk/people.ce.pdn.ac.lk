@@ -37,7 +37,7 @@ body {
   z-index: 97;
   padding: 21px;
   background-color: #0d6efd !important;
-  background: url(https://res.cloudinary.com/dxfq3iotg/image/upload/v1571057658/cd-top-arrow.svg)
+  background: url('https://people.ce.pdn.ac.lk/assets/img/cd-top-arrow.svg')
     no-repeat center 50%;
   background-color: hsla(5, 76%, 62%, 0.8);
 }
@@ -49,7 +49,7 @@ body {
   z-index: 98;
   padding: 21px;
   background-color: #0dfc5e !important;
-  background: url('/assets/img/cd-top-edit.svg')
+  background: url('https://people.ce.pdn.ac.lk/assets/img/cd-top-edit.svg')
     no-repeat center 50%;
   background-color: hsla(5, 76%, 62%, 0.8);
 }

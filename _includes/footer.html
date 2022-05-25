@@ -28,10 +28,6 @@ This is the footer used in every page
             {%- comment -%}
             Edit this page on github link
             {%- endcomment -%}
-            {% if page.layout == "staffDetails" or page.permalink contains "documentation" %}
-            | <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/{{page.path}}" rel="noreferrer" target="_blank">
-                <i class="fab fa-github"></i> Edit this page on GitHub</a>
-            {% endif %}
 
             {% if page.type == "Academic Support" %}
             | <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/_data/academic-support-staff.json" rel="noreferrer" target="_blank">
@@ -56,7 +52,11 @@ This is the footer used in every page
     </footer>
 
     {% if page.layout == "studentDetails" or page.layout == "studentDetails_temp" %}
-    {% include student_edit_button.html eNumber=page.reg_no path=page.path  %}
+    {% include student_edit_button.html path=page.path  %}
+    {% endif %}
+
+    {% if page.layout == "staffDetails" or page.permalink contains "documentation" %}
+    {% include staff_edit_button.html path=page.path  %}
     {% endif %}
 </div>
 
