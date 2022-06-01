@@ -69,6 +69,8 @@ title: Home
                         <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
                             batch.title }}</a>
                         {%- endfor -%}
+                        <br><br>
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{'/students/postgraduate/' | relative_url }}">Postgraduate</a>
                     </div>
                 </div>
 
@@ -110,8 +112,7 @@ title: Home
         SimpleJekyllSearch({
             searchInput: document.getElementById('search-input'),
             resultsContainer: document.getElementById('results-container'),
-            json: '{{ ' / search / search.json' | remove:" " | relative_url}}'
-                            })
+            json: '{{ ' / search / search.json' | remove:" " | relative_url}}'})
     </script>
 
 </div>
