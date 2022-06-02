@@ -48,6 +48,11 @@ This is the footer used in every page
                 <i class="fab fa-github"></i> Edit this page on GitHub</a>
             {% endif %}
 
+            {% if page.layout == 'postgraduateIndex' or page.layout == 'postgraduateDetails' %}
+            <a href="https://forms.gle/mpo2jarU7b9eWz9F7" rel="noreferrer" target="_blank">
+                | Update via Google Form</a>
+            {% endif %}
+
             {%- comment -%}
             Google form links to update page
             {%- endcomment -%}
