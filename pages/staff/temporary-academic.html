@@ -20,7 +20,8 @@ Update the JSON, _data/temporary-academic-staff.json, and it will add the profil
         <h1 class="text-white">Temporary Academic Staff</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
                 <li class="breadcrumb-item text-white">Temporary Academic Staff</li>
             </ol>
         </nav>
@@ -45,11 +46,19 @@ Update the JSON, _data/temporary-academic-staff.json, and it will add the profil
                 {% endif %}
             </div>
 
-            {% if each.url_profile != "" %}
-            <div class="d-flex flex-row justify-content-center mt-auto pb-1">
-                <a class="btn btn-sm btn-outline-primary w-75" href=" {{ each.url_profile | relative_url}}">More</a>
+            <div class="d-flex flex-row justify-content-evenly mt-auto pb-1">
+                {% if each.linkedin != "" %}
+                <a class="btn btn-link" href="{{ each.linkedin }}" target="_blank"><i class="fab fa-lg fa-linkedin"></i></a>
+                {% endif %}
+
+                <!-- {% if each.github != "" %}
+                <a class="btn btn-link" href="{{ each.github }}" target="_blank"><i class="fab fa-lg fa-github"></i></a>
+                {% endif %} -->
+
+                {% if each.url_profile != "" %}
+                <a class="btn btn-link" href="{{ each.url_profile | relative_url}}" target="_blank"><i class="fa fa-lg fa-user"></i></a>
+                {% endif %}
             </div>
-            {% endif %}
         </div>
         {%- endif -%}
 
@@ -73,14 +82,24 @@ Update the JSON, _data/temporary-academic-staff.json, and it will add the profil
                 <p class="card-text text-muted small">{{ each.email }}</p>
                 {% endif %}
             </div>
-            {% if each.url_profile != "" %}
-            <div class="d-flex flex-row justify-content-center mt-auto pb-1">
-                <a class="btn btn-sm btn-outline-primary w-75" href=" {{ each.url_profile | relative_url}}">More</a>
+
+            <div class="d-flex flex-row justify-content-evenly mt-auto pb-1">
+                {% if each.linkedin != "" %}
+                <a class="btn btn-link" href="{{ each.linkedin }}" target="_blank"><i class="fab fa-lg fa-linkedin"></i></a>
+                {% endif %}
+
+                {% if each.github != "" %}
+                <a class="btn btn-link" href="{{ each.github }}" target="_blank"><i class="fab fa-lg fa-github"></i></a>
+                {% endif %}
+
+                {% if each.url_profile != "" %}
+                <a class="btn btn-link" href="{{ each.url_profile | relative_url}}" target="_blank"><i class="fa fa-lg fa-user"></i></a>
+                {% endif %}
             </div>
-            {% endif %}
+
+        </div>
+        {%- endif -%}
+        {%- endif -%}
+        {%- endfor -%}
     </div>
-    {%- endif -%}
-    {%- endif -%}
-    {%- endfor -%}
-</div>
 </div>
