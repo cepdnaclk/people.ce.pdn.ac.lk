@@ -50,9 +50,17 @@ NOTES:
 
 
 
-{%- comment -%}
-breadcrumb
-{%- endcomment -%}
+<!-- Badges -->
+{%- assign badges = site.data.badges.members[page.reg_no] -%}
+{%- assign badge_count = 0 -%}
+<!-- count the numbere of visible badges -->
+{% for badge in badges %}
+{%- assign badge_details = site.data.badges.badges[badge.tag] -%}
+{%- if badge_details.show == "true" -%}
+{%- assign badge_count = badge_count | plus:1 -%}
+{%- endif -%}
+{% endfor %}
+
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
         <!-- <h1 class="text-white">Student Details</h1> -->
@@ -83,110 +91,93 @@ breadcrumb
 <div class="container pt-4">
     <div class="row gutters-sm ">
         <div class="col-md-4 mb-3">
-            <div class="card">
-                <div class="card-body">
-                    <div class="d-flex flex-column align-items-center text-center">
-                        {%- comment -%}
-                        Image
-                        {%- endcomment -%}
-                        {% if page.image_url %}
-                        <img src="{{ page.image_url | relative_url}}" alt="image" style="border-radius: 10%" width="250">
-                        {% else %}
-                        <img src="{{ 'images/students/default.jpg' | relative_url}}" alt="image" style="border-radius: 10%" width="175">
-                        {% endif %}
+            <div class="container">
+                <div class="d-flex flex-column align-items-center text-center">
+                    {% if page.image_url %}
+                    <img src="{{ page.image_url | relative_url}}" alt="image" style="border-radius: 10%" width="250">
+                    {% else %}
+                    <img src="{{ 'images/students/default.jpg' | relative_url}}" alt="image" style="border-radius: 10%" width="175">
+                    {% endif %}
 
-                        <div class="mt-2">
-                            {%- comment -%}
-                            In case a student didn't fill all the name parameters,
-                            {%- endcomment -%}
-                            <h4>
-                                {%- if page.preferred_short_name -%}
-                                {{page.preferred_short_name}}
-                                {%- else if page.preferred_long_name -%}
-                                {{page.preferred_long_name}}
-                                {%- else if page.name_with_initials -%}
-                                {{page.name_with_initials}}
-                                {%- endif -%}
-                            </h4>
-                            <!-- <p class="text-secondary mb-1">{{page.text_below_name}}</p>
-                            <p class="text-muted font-size-sm">{{page.location}}</p> -->
-                            <!-- <button class="btn btn-primary">Follow</button>
-                            <button class="btn btn-outline-primary">Message</button> -->
-                        </div>
+                    <div class="mt-2">
+                        <h4>
+                            {%- if page.preferred_short_name -%}
+                            {{page.preferred_short_name}}
+                            {%- else if page.preferred_long_name -%}
+                            {{page.preferred_long_name}}
+                            {%- else if page.name_with_initials -%}
+                            {{page.name_with_initials}}
+                            {%- endif -%}
+                        </h4>
                     </div>
                 </div>
             </div>
 
-            <div class="card mt-3">
-                <ul class="list-group list-group-flush">
-                    <!-- CV -->
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fas fa-address-card"></i> CV</h6>
-                        {% if page.url_cv %}
-                        <span class="text-secondary"> <a href="{{page.url_cv}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                        {% else %}
-                        <span class="text-secondary"> N/A</span>
-                        {% endif %}
-                    </li>
+            <!-- Social Media and Profile Links -->
+            <div class="container d-flex justify-content-start py-1">
+                {% if page.url_linkedin %}
+                <a class="btn btn-link" href="{{ page.url_linkedin }}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Linkedin">
+                    <i style="color: #0e76a8;" class="fab social-icon fa-2x fa-linkedin"></i>
+                </a>
+                {% endif %}
 
-                    <!-- Website -->
-                    {% if page.url_website %}
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fas fa-globe"></i> Website</h6>
-                        {% if page.url_website %}
-                        <span class="text-secondary"> <a href="{{page.url_website}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                        {% else %}
-                        <span class="text-secondary"> N/A</span>
-                        {% endif %}
-                    </li>
-                    {% endif %}
+                {% if page.url_github %}
+                <a class="btn btn-link" href="{{ page.url_github }}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="GitHub">
+                    <i style="color: #333;" class="fab social-icon fa-2x fa-github"></i>
+                </a>
+                {% endif %}
 
-                    <!-- LinkedIn -->
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fab fa-linkedin"></i> LinkedIn</h6>
-                        {% if page.url_linkedin %}
-                        <span class="text-secondary"> <a href="{{page.url_linkedin}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                        {% else %}
-                        <span class="text-secondary"> N/A</span>
-                        {% endif %}
-                    </li>
+                {% if page.url_researchgate %}
+                <a class="btn btn-link" href="{{ page.url_researchgate | relative_url}}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Researchgate">
+                    <i style="color: #0cb;" class="fab social-icon fa-2x fa-researchgate"></i>
+                </a>
+                {% endif %}
 
-                    <!-- GitHub -->
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fab fa-github"></i> Github</h6>
-                        {% if page.url_github %}
-                        <span class="text-secondary"> <a href="{{page.url_github}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                        {% else %}
-                        <span class="text-secondary"> N/A</span>
-                        {% endif %}
-                    </li>
+                {% if page.url_website %}
+                <a class="btn btn-link" href="{{ page.url_website | relative_url}}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Personal Website">
+                    <i style="color: #000;" class="fa social-icon fa-2x fa-globe"></i>
+                </a>
+                {% endif %}
 
-                    <!-- Facebook -->
-                    {% if page.url_facebook %}
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fab fa-facebook"></i> Facebook</h6>
-                        <span class="text-secondary"> <a href="{{page.url_facebook}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                    </li>
-                    {% endif %}
+                {% if page.url_twitter %}
+                <a class="btn btn-link" href="{{ page.url_twitter | relative_url}}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Twitter">
+                    <i style="color: #00acee;" class="fab social-icon fa-2x fa-twitter"></i>
+                </a>
+                {% endif %}
 
-                    <!-- Twitter -->
-                    {% if page.url_twitter %}
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fab fa-twitter"></i> Twitter</h6>
-                        <span class="text-secondary"> <a href="{{page.url_twitter}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                    </li>
-                    {% endif %}
+                {% if page.url_facebook %}
+                <a class="btn btn-link" href="{{ page.url_facebook | relative_url}}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Facebook">
+                    <i style="color: #4267B2;" class="fab social-icon fa-2x fa-facebook"></i>
+                </a>
+                {% endif %}
+            </div>
 
-                    <!-- ResearchGate -->
-                    {% if page.url_researchgate %}
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fab fa-researchgate"></i> ResearchGate</h6>
-                        <span class="text-secondary"> <a href="{{page.url_researchgate}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                    </li>
-                    {% endif %}
-                </ul>
+            {%- if badge_count > 0 -%}
+            <!-- Badges -->
+            <hr>
+            <div class=""py-2 ">
+                <p class="d-none">
+                    Badges<sup><i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="right" title="Badges are offered by the department based on the student activities and performance"></i></sup>
+                </p>
+                <div class="d-flex justify-content-start">
+                    {% for badge in badges %}
+                    {%- assign badge_details = site.data.badges.badges[badge.tag] -%}
+                    {%- include badge.html badge_details=badge_details -%}
+                    {%- endfor -%}
+                </div>
+            </div>
+            {%- endif -%}
+
+            <!-- Resume / CV -->
+            <div class="container d-flex justify-content-center pt-4">
+                {% if page.url_cv %}
+                <a href="{{ page.url_cv }}" target="_bl_blank" class="btn btn-primary w-100">
+                    <i class="fas fa-file-alt fa-fw me-3"></i> Curriculum Vitae
+                </a>
+                {% endif %}
             </div>
         </div>
+
         <div class="col-md-8">
             <div class="card mb-3">
                 <div class="card-body">
@@ -245,8 +236,17 @@ breadcrumb
                             <span class="mb-0" style="font-weight: 500">Email</span>
                         </div>
                         <div class="col-sm-9 text-secondary">
-                            {%- if page.email_faculty -%}{{page.email_faculty}}<br>{%- endif -%}
-                            {%- if page.email_personal -%}{{page.email_personal}}{%- endif -%}
+                            {%- if page.email_faculty -%}
+                                <a href="mailto:{{ page.email_faculty }}">{{page.email_faculty}}</a>
+                            {%- endif -%}
+
+                            {%- if page.email_faculty and page.email_personal -%}
+                            &nbsp;,&nbsp; 
+                            {%- endif -%}
+
+                            {%- if page.email_personal -%}
+                                {% include email_reveal.html email=page.email_personal text="Show Personal Email" %}
+                            {%- endif -%}
                         </div>
                     </div>
                     <hr>
@@ -256,7 +256,7 @@ breadcrumb
                     {% if page.location %}
                     <div class="row">
                         <div class="col-sm-3">
-                            <span class="mb-0" style="font-weight: 500">Location</span>
+                            <span class="mb-0" style="font-weight: 500">Residence</span>
                         </div>
                         <div class="col-sm-9 text-secondary">
                             {{page.location}}
@@ -292,64 +292,6 @@ breadcrumb
                 </div>
             </div>
 
-            <!-- Badges -->
-            {%- assign badges = site.data.badges.members[page.reg_no] -%}
-            {%- assign badge_count = 0 -%}
-            <!-- count the numbere of visible badges -->
-            {% for badge in badges %}
-            {%- assign badge_details = site.data.badges.badges[badge.tag] -%}
-            {%- if badge_details.show == "true" -%}
-            {%- assign badge_count = badge_count | plus:1 -%}
-            {%- endif -%}
-            {% endfor %}
-
-            {% if badge_count > 0 %}
-            <div class="card mt-3">
-                <div class="card-header" style="font-weight: 500">
-                    Badges
-                    <sup><i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="right" title="Badges are offered by the department based on the student activities and performance"></i></sup>
-                </div>
-                <div class="card-body mx-2 d-flex flex-row">
-
-                    {% for badge in badges %}
-                    {%- assign badge_details = site.data.badges.badges[badge.tag] -%}
-
-                    {%- if badge_details.show == "true" -%}
-                    <img class="badge-image" src="{{ badge_details.image | relative_url }}" data-bs-toggle-tooltip="tooltip" data-bs-placement="bottom" title="{{ badge_details.title }}"
-                    alt="{{ badge_details.title }}" data-bs-toggle="modal" data-bs-target="#{{ badge.tag }}">
-
-                    <!-- Modal -->
-                    <div class="modal fade" id="{{ badge.tag }}" tabindex="-1" aria-labelledby="{{ badge_details.title }}" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-centered">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="exampleModalLabel">{{ badge_details.title }}</h5>
-                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                                </div>
-                                <div class="modal-body">
-                                    <div class="row ">
-                                        <div class="col-3 d-flex align-items-center">
-                                            <img class="img-fluid" src="{{ badge_details.image | relative_url }}"
-                                            alt="{{ badge_details.title }}">
-                                        </div>
-                                        <div class="col-9 d-flex align-items-center">{{ badge_details.description }}</div>
-                                    </div>
-
-                                </div>
-                                <div class="modal-footer">
-                                    <a href="{{ badge_details.page | relative_url }}" type="button" class="btn btn-primary">See more</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    {%- endif -%}
-                    {%- endfor -%}
-                </div>
-            </div>
-            {%- endif -%}
-
-
-
             <!-- Projects -->
             {%- assign projects = site.data.student_projects[page.reg_no] -%}
             {%- assign project_count = projects | size -%}
@@ -368,6 +310,40 @@ breadcrumb
                 </div>
             </div>
             {%- endif -%}
+
+            <!-- Publications -->
+            {%- assign publications = site.data.student_publications[page.reg_no] -%}
+            {%- assign pub_count = publications | size -%}
+            {% if pub_count > 0 %}
+            <div class="card mt-3">
+                <div class="card-header" style="font-weight: 500">Publications</div>
+                <div class="card-body mx-2 p-3">
+                    <div class="row px-3">
+                        <ul>
+                            {%- for p in publications -%}
+                            <li>
+                                {%- include publicationCard.html data=p title=p.title path=page.path -%}
+                            </li>
+                            {%- endfor -%}
+                        </ul>
+
+                    </div>
+                    <div class="row">
+                        <hr>
+                        <p class="text-muted small">
+                            Please note  that here only contain the <i>'Publications'</i> affiliated with the <i>Department of Computer Engineering</i>. To see the full publication profile, visit the
+                            {%- if page.url_researchgate -%}
+                            <span> <a href="{{ page.url_researchgate }}" target="_blank">ResearchGate</a> </span>
+                            {%- else -%}
+                            <span> ResearchGate </span>
+                            {%- endif -%} or Google Scholar profile of the student.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            {%- endif -%}
+            <br>
+            <br>
             {{content}}
         </div>
     </div>
