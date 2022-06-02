@@ -76,6 +76,7 @@
         "email": "dilshanik@eng.pdn.ac.lk",
         "url_profile" : "students/e15/173",
         "linkedin": "https://www.linkedin.com/in/dilshanikarunarathna/",
+        "github": "https://github.com/DDilshani",
         "joined_date": "2021-10-21",
         "left_date": ""
     },
@@ -86,6 +87,7 @@
         "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
         "url_profile" : "/students/e15/140",
         "linkedin": "https://www.linkedin.com/in/nuwan-jaliyagoda/",
+        "github": "https://github.com/NuwanJ",
         "joined_date": "2021-10-21",
         "left_date": ""
     },
@@ -114,7 +116,7 @@
         "text_below_name" : "Temporary Instructor",
         "url_image" : "https://people.ce.pdn.ac.lk/images/students/default.jpg",
         "email": "lankaniperera@eng.pdn.ac.lk",
-        "url_profile" : "3",
+        "url_profile" : "#",
         "linkedin": "https://www.linkedin.com/in/poornima-lankani-b54969103/",
         "joined_date": "2022-05-23",
         "left_date": ""
