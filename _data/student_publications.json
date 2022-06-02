@@ -1,0 +1,203 @@
+{
+    "E/14/158": [
+        {
+            "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
+            "venue": "MERcon",
+            "year": "2020",
+            "abstract": "Low light image enhancement is an important challenge for the development of robust computer vision algorithms. The machine learning approaches to this have been either unsupervised, supervised based on paired dataset or supervised based on unpaired dataset. This paper presents a novel deep learning pipeline that can learn from both paired and unpaired datasets. Convolution Neural Networks (CNNs) that are optimized to minimize standard loss, and Generative Adversarial Networks (GANs) that are optimized to minimize the adversarial loss are used to achieve different steps of the low light image enhancement process. Cycle consistency loss and a patched discriminator are utilized to further improve the performance. The paper also analyses the functionality and the performance of different components, hidden layers, and the entire pipeline.",
+            "authors": [
+                "Harshana Weligampola",
+                "Gihan Jayatilaka",
+                "Suren Sritharan",
+                "Roshan Goldaliyadda",
+                "Parakrama Ekanayeka",
+                "Roshan Ragel",
+                "Vijitha Herath"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
+            "preprint": "#",
+            "pdf": "https://arxiv.org/pdf/2006.15304.pdf",
+            "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Low-light image enhancement",
+                "Retinex theory",
+                "Generative adversarial networks",
+                "Cycle consistency",
+                "Computer Vision"
+            ],
+            "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185373/"
+        },
+        {
+            "title": "Non-contact Infant Sleep Apnea Detection",
+            "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2019",
+            "abstract": "Sleep apnea is a breathing disorder where a person repeatedly stops breathing in sleep. Early detection is crucial for infants because it might bring long term adversities. The existing accurate detection mechanism (pulse oximetry) is a skin contact measurement. The existing non-contact mechanisms (acoustics, video processing) are not accurate enough. This paper presents a novel algorithm for the detection of sleep apnea with video processing. The solution is non-contact, accurate and lightweight enough to run on a single board computer. The paper discusses the accuracy of the algorithm on real data, advantages of the new algorithm, its limitations and suggests future improvements.",
+            "authors": [
+                "Gihan Jayatilaka",
+                "Harshana Weligampola",
+                "Suren Sritharan",
+                "Pankayaraj Pathmanathan",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+            "preprint": "#",
+            "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering",
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Sleep apnea",
+                "Video processing",
+                "Bio medical engineering",
+                "Pattern recognition"
+            ],
+            "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
+        },
+        {
+            "title": "Adaptive hierarchical clustering for hyperspectral image classification: Umbrella Clustering",
+            "venue": "Journal of Spectral Imaging",
+            "year": "2019",
+            "abstract": "Hyperspectral Imaging (HSI) utilises the reflectance information of a large number of contiguous spectral bands to solve various problems. However, the relative proximity of spectral signatures among classes can be exploited to generate an adaptive hierarchical structure for HSI classification. This enables a level by level optimisation for clustering at each stage of the hierarchy. The Umbrella Clustering algorithm, introduced in this work, utilises this premise to significantly improve performance compared to non-hierarchical algorithms which attempt to optimise clustering globally. The key feature of the proposed methodology is that, unlike existing hierarchical algorithms which rely on fixed or supervised structures, the proposed method exploits a mechanism in spectral clustering to generate a self-organised hierarchy. The algorithm gradually zooms into the feature space to identify levels of clustering at each stage of the hierarchy. The results further demonstrate that the generated structure tallies with human perception. In addition, an improvement to Linear Discriminant Analysis (LDA) is also introduced to further improve performance. This modification maximises the pairwise class separation in the feature space. The entire algorithm includes this modified LDA step which requires a certain amount of class information in terms of features, at the training phase. The classification algorithm which incorporates all novel concepts was tested on the HSI data set of Pavia University as well the database of Common Sri Lankan Spices and Adulterants in order to assess the versatility of the algorithm.",
+            "authors": [
+                "S.S.P. Vithana",
+                "E.M.M.B. Ekanayake",
+                "E.M.H.E.B. Ekanayake",
+                "A.R.M.A.N. Rathnayake",
+                "G.C. Jayatilaka",
+                "H.M.V.R. Herath",
+                "G.M.R.I. Godaliyadda",
+                "M.P.B. Ekanayake"
+            ],
+            "doi": "https://doi.org/10.1255/jsi.2019.a11",
+            "preprint": "https://www.impopen.com/download.php?code=I08_a11",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "hyperspectral imagery",
+                "spectral clustering",
+                "hierarchical classification",
+                "umbrella clustering",
+                "feature extraction",
+                "remote sensing",
+                "linear discriminant analysis",
+                "self-organise",
+                "unsupervised"
+            ],
+            "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1255/jsi.2019.a11/"
+        }
+    ],
+    "E/14/339": [
+        {
+            "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
+            "venue": "MERcon",
+            "year": "2020",
+            "abstract": "Low light image enhancement is an important challenge for the development of robust computer vision algorithms. The machine learning approaches to this have been either unsupervised, supervised based on paired dataset or supervised based on unpaired dataset. This paper presents a novel deep learning pipeline that can learn from both paired and unpaired datasets. Convolution Neural Networks (CNNs) that are optimized to minimize standard loss, and Generative Adversarial Networks (GANs) that are optimized to minimize the adversarial loss are used to achieve different steps of the low light image enhancement process. Cycle consistency loss and a patched discriminator are utilized to further improve the performance. The paper also analyses the functionality and the performance of different components, hidden layers, and the entire pipeline.",
+            "authors": [
+                "Harshana Weligampola",
+                "Gihan Jayatilaka",
+                "Suren Sritharan",
+                "Roshan Goldaliyadda",
+                "Parakrama Ekanayeka",
+                "Roshan Ragel",
+                "Vijitha Herath"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
+            "preprint": "#",
+            "pdf": "https://arxiv.org/pdf/2006.15304.pdf",
+            "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Low-light image enhancement",
+                "Retinex theory",
+                "Generative adversarial networks",
+                "Cycle consistency",
+                "Computer Vision"
+            ],
+            "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185373/"
+        },
+        {
+            "title": "Non-contact Infant Sleep Apnea Detection",
+            "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2019",
+            "abstract": "Sleep apnea is a breathing disorder where a person repeatedly stops breathing in sleep. Early detection is crucial for infants because it might bring long term adversities. The existing accurate detection mechanism (pulse oximetry) is a skin contact measurement. The existing non-contact mechanisms (acoustics, video processing) are not accurate enough. This paper presents a novel algorithm for the detection of sleep apnea with video processing. The solution is non-contact, accurate and lightweight enough to run on a single board computer. The paper discusses the accuracy of the algorithm on real data, advantages of the new algorithm, its limitations and suggests future improvements.",
+            "authors": [
+                "Gihan Jayatilaka",
+                "Harshana Weligampola",
+                "Suren Sritharan",
+                "Pankayaraj Pathmanathan",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+            "preprint": "#",
+            "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering",
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Sleep apnea",
+                "Video processing",
+                "Bio medical engineering",
+                "Pattern recognition"
+            ],
+            "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
+        }
+    ],
+    "E/15/092": [
+        {
+            "title": "Chronic kidney disease prediction using machine learning methods",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon) - IEEE",
+            "year": "2020",
+            "abstract": "Chronic Kidney Disease (CKD) or chronic renal disease has become a major issue with a steady growth rate. A person can only survive without kidneys for an average time of 18 days, which makes a huge demand for a kidney transplant and Dialysis. It is important to have effective methods for early prediction of CKD. Machine learning methods are effective in CKD prediction. This work proposes a workflow to predict CKD status based on clinical data, incorporating data prepossessing, a missing value handling method with collaborative filtering and attributes selection. Out of the 11 machine learning methods considered, the extra tree classifier and random forest classifier are shown to result in the highest accuracy and minimal bias to the attributes. The research also considers the practical aspects of data collection and highlights the importance of incorporating domain knowledge when using machine learning for CKD status prediction.",
+            "authors": [
+                "Imesh Udara Ekanayake; Damayanthi Herath"
+            ],
+            "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
+            "preprint": "https://www.researchgate.net/profile/Imesh-Ekanayake/publication/344319206_Chronic_Kidney_Disease_Prediction_Using_Machine_Learning_Methods/links/5f672571458515b7cf418d5b/Chronic-Kidney-Disease-Prediction-Using-Machine-Learning-Methods.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Machine Learning and Data Mining"
+            ],
+            "funding": "",
+            "tags": [
+                "Kidney",
+                "Diseases",
+                "Machine learning",
+                "Red blood cells",
+                "Hypertension"
+            ],
+            "api_url": "http://api.ce.pdn.ac.lk/publications/v1/ 10.1109/MERCon50084.2020.9185249/"
+        }
+    ]
+}

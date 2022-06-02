@@ -1,4 +1,4 @@
-name: Update Student Project Details
+name: Update Project and Publication Details
 
 on:
   schedule:
@@ -34,10 +34,16 @@ jobs:
           python3 update_projects.py
           cd ../
 
+      - name: Update Student/Staff Publication Details
+        run: |
+          cd ./python_scripts
+          python3 update_publications.py
+          cd ../
+
       - name: Commit and push into the main branch
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add --all
-          git commit -m "Student project details were updated by GitHub Actions" || echo "No changes on Titles"
+          git commit -m "Student Project and Publication details were updated by GitHub Actions" || echo "No changes on Projects and Publications"
           git push

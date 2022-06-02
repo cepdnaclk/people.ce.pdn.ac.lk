@@ -1,0 +1,13 @@
+{%- assign hash_0 = include.email | split: "@" | first -%}
+{%- assign hash_1 = hash_0 | append: "target_" -%}
+
+{%- if include.text -%}
+    {%- assign text_msg = include.text -%}
+{%- else -%}
+    {%- assign text_msg = "Show" -%}
+{%- endif -%}
+
+<span id="{{hash_1}}" style="display: none">
+    <a href="mailto:{{include.email}}">{{include.email}}</a>
+</span>
+<button id="{{hash_0}}" class="btn btn-link btn-sm" onclick="$('#{{hash_1}}').toggle();$('#{{hash_0}}').toggle();">{{ text_msg }}</button>
