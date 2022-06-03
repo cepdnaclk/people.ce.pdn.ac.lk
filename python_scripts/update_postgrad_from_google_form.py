@@ -32,11 +32,6 @@ if __name__ == "__main__":
     for eachLine in googleFromCSV:
         studentData = eachLine.replace('\r', '').split(",")
 
-        # URL to website is optional therefore it may not be included in this line (last comma is not there)
-        # if len(studentData) != 16 :
-        #     print(f"Splitted csv is longer/shorter than it should be! {len(studentData)}")
-        #     quit()
-
         if ":" not in studentData[0]:
             # if there is no timestamp in this line or this is the header line
             continue
@@ -51,12 +46,6 @@ if __name__ == "__main__":
 
         nameConverted = studentData[NAME_WITH_INITIALS].replace(" ", "").replace(".", "")
         permalink = f"/students/postgraduate/{nameConverted}"
-
-        # interests
-        # interests = ",".join(studentData[INTERESTS].split(";"))
-
-        # location
-        # location = ",".join(studentData[LOCATION].split(";"))
 
         # image
         image_path = f"images/students/postgraduate/{nameConverted}.jpg"
@@ -101,29 +90,4 @@ image_url: "{image_path}"
         htmlFile.write(outputString)
         htmlFile.close()
 
-        # # update json if below E14
-        # if int(batch[0:2]) < 14:
-        #     print("Updating JSON in _data folder")
-
-        #     # select student from json file
-        #     jsonPath = f"../_data/stud/e{batch.lower()}.json"
-        #     dataInJSON = json.load(open(jsonPath))
-        #     thisStudent = dataInJSON[studentData[REG_NO].upper()]
-
-        #     # change data
-        #     thisStudent["page_url"] = f"/students/e{batch.lower()}/{regNo}/"
-        #     thisStudent["name_with_initials"] = f"{studentData[NAME_WITH_INITIALS]}"
-        #     if isImageDownloaded:
-        #         thisStudent["image_url"] = image_path
-
-        #     # write data back into json file
-        #     jsonFile = open(jsonPath, "w")
-        #     jsonFile.write(json.dumps(dataInJSON, indent=4))
-
-        print("-------------")
-
-# print("\n\n\n\n")
-# print("Updating Student page titles")
-# student_profile_page_titles.run()
-# print("Resizing Images")
-# resize_student_images.run()
+print("Done")
