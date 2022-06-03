@@ -8,15 +8,14 @@
 import requests
 import os
 import gdown  # pip install gdown
-import json  # to edit _data/exx.json
-import student_profile_page_titles
-import resize_student_images
+import datetime
 
 googleFromCSV_link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR6ntuDUUuzQS84Am7NMcCc6LCTYKmUfMbVhp4dvy1AXWoVxNrjWfeQntWg5cAfLsFvb4WASQRp-erT/pub?output=csv"
 googleFromCSV = requests.get(googleFromCSV_link, headers={
                              'Cache-Control': 'no-cache'}).text.split("\n")
 
 # Index of the CSV parameters
+FORM_FILLED_DATE = 0
 EMAIL = 1
 REG_NO = 2
 NAME_WITH_INITIALS = 5
@@ -41,6 +40,11 @@ if __name__ == "__main__":
         if ":" not in studentData[0]:
             # if there is no timestamp in this line or this is the header line
             continue
+
+        # calcualte a number from the time the form is filled
+        # based on the time elapsed from the start of time (1970 something)
+        parsedDateTimeObject = datetime.datetime.strptime(studentData[FORM_FILLED_DATE], "%m/%d/%Y %H:%M:%S")
+        elapsedTimeFromTheStartOfTime = parsedDateTimeObject.timestamp() - 1654224090
 
         # print(studentData)
         print("Processing: " + studentData[REG_NO] + " " + studentData[NAME_WITH_INITIALS])
@@ -77,6 +81,7 @@ if __name__ == "__main__":
 layout: postgraduateDetails
 permalink: "{permalink}"
 title: {studentData[NAME_WITH_INITIALS]}
+index_in_card_list: {int(elapsedTimeFromTheStartOfTime)}
 
 reg_no: {studentData[REG_NO]}
 name_with_initials: {studentData[NAME_WITH_INITIALS]}
