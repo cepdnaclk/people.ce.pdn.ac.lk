@@ -19,36 +19,57 @@ layout: default
 </main>
 
 <!-- cards -->
-<div class="container py-4 px-lg-5">
-    <div class="row justify-content-center pb-5">
-        <!-- Computer Students -->
-        {% assign profilePages = site.pages | where: "layout", "postgraduateDetails"%}
+<div class="row justify-content-center pt-2">
+    <!-- PhD -->
+    {% assign profilePages = site.pages | where: "layout", "postgraduateDetails" | where: "degree", "PhD" | sort: "index_in_card_list" | reverse%}
+    {% if profilePages[0] %}
+    <h3 class="text-center">PhD</h3>
+    <hr>
+    {% for item in profilePages %}
+    {%- include postgraduateCard.html image_url=item.image_url name_with_initials=item.name_with_initials reg_no=item.reg_no permalink=item.permalink-%}
+    {% endfor %}
+    {% endif %}
 
-        {% for item in profilePages %}
-        <div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">
-            <!-- card image -->
-            {% if item.image_url %}
-            <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%; height:158px;object-fit: cover;" class="card-img-top p-1" alt="{{item.name_with_initials}}">
-            {% else %}
-            <img src="{{ 'images/students/default.jpg' | relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{item.name_with_initials}}">
-            {% endif %}
-            <!-- card name -->
-            <div class="card-body d-flex flex-column">
-                <h6 class="card-title">
-                    {{item.name_with_initials}}
-                </h6>
-                <!-- card reg number -->
-                <!-- Hide the reg number, if it is selected as "Provisional" -->
-                {% if item.reg_no != 'Provisional' %}
-                <p class="card-text">{{item.reg_no}}</p>
-                {% endif %}
-                <!-- card button -->
-                <div class="d-flex flex-row justify-content-center mt-auto">
-                    <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
-                </div>
-            </div>
-        </div>
-        {% endfor %}
 
-    </div>
+    <!-- MPhil -->
+    {% assign profilePages = site.pages | where: "layout", "postgraduateDetails" | where: "degree", "MPhil" | sort: "index_in_card_list" | reverse%}
+    {% if profilePages[0] %}
+    <h3 class="text-center pt-2">MPhil</h3>
+    <hr>
+    {% for item in profilePages %}
+    {%- include postgraduateCard.html image_url=item.image_url name_with_initials=item.name_with_initials reg_no=item.reg_no permalink=item.permalink-%}
+    {% endfor %}
+    {% endif %}
+
+    <!-- MEng -->
+    {% assign profilePages = site.pages | where: "layout", "postgraduateDetails" | where: "degree", "MEng" | sort: "index_in_card_list" | reverse%}
+    {% if profilePages[0] %}
+    <h3 class="text-center pt-2">MEng</h3>
+    <hr>
+    {% for item in profilePages %}
+    {%- include postgraduateCard.html image_url=item.image_url name_with_initials=item.name_with_initials reg_no=item.reg_no permalink=item.permalink-%}
+    {% endfor %}
+    {% endif %}
+
+    <!-- MSc -->
+    {% assign profilePages = site.pages | where: "layout", "postgraduateDetails" | where: "degree", "MSc" | sort: "index_in_card_list" | reverse %}
+    {% if profilePages[0] %}
+    <h3 class="text-center pt-2">MSc</h3>
+    <hr>
+    {% for item in profilePages %}
+    {%- include postgraduateCard.html image_url=item.image_url name_with_initials=item.name_with_initials reg_no=item.reg_no permalink=item.permalink-%}
+    {% endfor %}
+    {% endif %}
+
+    <!-- Provisional -->
+    {% assign profilePages = site.pages | where: "layout", "postgraduateDetails" | where: "degree", "Provisional" | sort: "index_in_card_list" | reverse%}
+    {% if profilePages[0] %}
+    <h3 class="text-center pt-2">Provisional</h3>
+    <hr>
+    {% for item in profilePages %}
+    {%- include postgraduateCard.html image_url=item.image_url name_with_initials=item.name_with_initials reg_no=item.reg_no permalink=item.permalink-%}
+    {% endfor %}
+    {% endif %}
+</div>
+
 </div>
