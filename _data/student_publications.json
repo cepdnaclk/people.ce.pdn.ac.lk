@@ -15,8 +15,8 @@
                 "Vijitha Herath"
             ],
             "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
-            "preprint": "#",
-            "pdf": "https://arxiv.org/pdf/2006.15304.pdf",
+            "preprint": "https://arxiv.org/pdf/2006.15304.pdf",
+            "pdf": "#",
             "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
             "project": "#",
             "codebase": "#",
@@ -47,8 +47,8 @@
                 "Isuru Nawinne"
             ],
             "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
-            "preprint": "#",
-            "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
+            "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
+            "pdf": "#",
             "presentation": "#",
             "project": "#",
             "codebase": "#",
@@ -81,8 +81,8 @@
                 "M.P.B. Ekanayake"
             ],
             "doi": "https://doi.org/10.1255/jsi.2019.a11",
-            "preprint": "https://www.impopen.com/download.php?code=I08_a11",
-            "pdf": "#",
+            "preprint": "#",
+            "pdf": "https://www.impopen.com/download.php?code=I08_a11",
             "presentation": "#",
             "project": "#",
             "codebase": "#",
@@ -102,6 +102,73 @@
                 "unsupervised"
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1255/jsi.2019.a11/"
+        },
+        {
+            "title": "GPU accelerated adaptive banded event alignment for rapid comparative nanopore signal analysis",
+            "venue": "BMC Bioinformatics",
+            "year": "2020",
+            "abstract": "[BACKGROUND:] Nanopore sequencing enables portable, real-time sequencing applications, including point-of-care diagnostics and in-the-field genotyping. Achieving these outcomes requires efficient bioinformatic algorithms for the analysis of raw nanopore signal data. However, comparing raw nanopore signals to a biological reference sequence is a computationally complex task. The dynamic programming algorithm called Adaptive Banded Event Alignment (ABEA) is a crucial step in polishing sequencing data and identifying non-standard nucleotides, such as measuring DNA methylation. Here, we parallelise and optimise an implementation of the ABEA algorithm (termed f5c) to efficiently run on heterogeneous CPU-GPU architectures. [RESULTS:] By optimising memory, computations and load balancing between CPU and GPU, we demonstrate how f5c can perform \u00e2\u0088\u00bc3-5 \u00c3\u0097 faster than an optimised version of the original CPU-only implementation of ABEA in the Nanopolish software package. We also show that f5c enables DNA methylation detection on-the-fly using an embedded System on Chip (SoC) equipped with GPUs. [CONCLUSIONS:] Our work not only demonstrates that complex genomics analyses can be performed on lightweight computing systems, but also benefits High-Performance Computing (HPC). The associated source code for f5c along with GPU optimised ABEA is available at https://github.com/hasindu2008/f5c.",
+            "authors": [
+                "Hasindu Gamaarachchi",
+                "Chun Wai Lam",
+                "Gihan Jayatilaka",
+                "Hiruna Samarakoon",
+                "Jared T. Simpson",
+                "Martin A. Smith",
+                "Sri Parameswaran"
+            ],
+            "doi": "https://doi.org/10.1186/s12859-020-03697-x",
+            "preprint": "https://www.biorxiv.org/content/10.1101/756122v1.full.pdf",
+            "pdf": "https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-020-03697-x.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "https://github.com/hasindu2008/f5c",
+            "researchgroups": [
+                "Accelerated and High-Performance Computing (FPGA / GPU)"
+            ],
+            "funding": "Jared T. Simpson is supported by the Ontario Institute for Cancer Research through funds provided by the Government of Ontario and the Government of Canada through Genome Canada and Ontario Genomics (OGI-136).",
+            "tags": [
+                "Nanopore",
+                "Signal alignment",
+                "Event alignment",
+                "Methylation",
+                "GPU",
+                "GPU acceleration",
+                "Optimisation",
+                "SoC",
+                "Nanopolish",
+                "f5c"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-020-03697-x/"
+        },
+        {
+            "title": "DeepLight: Robust & Unobtrusive Real-time Screen-Camera Communication for Real-World Displays",
+            "venue": "2021 20th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)",
+            "year": "2021",
+            "abstract": "The paper introduces a novel, holistic approach for robust Screen-Camera Communication (SCC), where video content on a screen is visually encoded in a human-imperceptible fashion and decoded by a camera capturing images of such screen content. We first show that state-of-the-art SCC techniques have two key limitations for in-the-wild deployment: (a) the decoding accuracy drops rapidly under even modest screen extraction errors from the captured images, and (b) they generate perceptible flickers on common refresh rate screens even with minimal modulation of pixel intensity. To overcome these challenges, we introduce DeepLight, a system that incorporates machine learning (ML) models in the decoding pipeline to achieve humanly-imperceptible, moderately high SCC rates under diverse real-world conditions. DeepLight's key innovation is the design of a Deep Neural Network (DNN) based decoder that collectively decodes all the bits spatially encoded in a display frame, without attempting to precisely isolate the pixels associated with each encoded bit. In addition, DeepLight supports imperceptible encoding by selectively modulating the intensity of only the Blue channel, and provides reasonably accurate screen extraction (IoU values \u00e2\u0089\u00a5 83%) by using state-of-the-art object detection DNN pipelines. We show that a fully functional DeepLight system is able to robustly achieve high decoding accuracy (frame error rate < 0.2) and moderately-high data goodput (\u00e2\u0089\u00a50.95 Kbps) using a human-held smartphone camera, even over larger screen-camera distances (~ 2m).",
+            "authors": [
+                "Vu Tran",
+                "Gihan Jayatilaka",
+                "Ashwin Ashok",
+                "Archan Misra"
+            ],
+            "doi": "https://doi.org/10.1145/3412382.3458269",
+            "preprint": "https://arxiv.org/pdf/2105.05092",
+            "pdf": "#",
+            "presentation": "https://www.cs.umd.edu/~gihan/projects/deeplight/presentation.pdf",
+            "project": "#",
+            "codebase": "https://github.com/gihanjayatilaka/deeplight",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Human-centered computing",
+                "Ubiquitous and mobile computing",
+                "Computer systems organization",
+                "Embedded and cyber-physical systems"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/3412382.3458269/"
         }
     ],
     "E/14/262": [
@@ -122,8 +189,8 @@
                 "Ira W. Deveson"
             ],
             "doi": "https://doi.org/10.1038/s42003-020-01270-z",
-            "preprint": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
-            "pdf": "#",
+            "preprint": "#",
+            "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
             "presentation": "#",
             "project": "#",
             "codebase": "#",
@@ -156,8 +223,8 @@
                 "Ira W. Deveson"
             ],
             "doi": "https://doi.org/10.1038/s42003-020-01270-z",
-            "preprint": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
-            "pdf": "#",
+            "preprint": "#",
+            "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
             "presentation": "#",
             "project": "#",
             "codebase": "#",
@@ -170,6 +237,44 @@
                 "Nanopore Sequencing"
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/"
+        },
+        {
+            "title": "GPU accelerated adaptive banded event alignment for rapid comparative nanopore signal analysis",
+            "venue": "BMC Bioinformatics",
+            "year": "2020",
+            "abstract": "[BACKGROUND:] Nanopore sequencing enables portable, real-time sequencing applications, including point-of-care diagnostics and in-the-field genotyping. Achieving these outcomes requires efficient bioinformatic algorithms for the analysis of raw nanopore signal data. However, comparing raw nanopore signals to a biological reference sequence is a computationally complex task. The dynamic programming algorithm called Adaptive Banded Event Alignment (ABEA) is a crucial step in polishing sequencing data and identifying non-standard nucleotides, such as measuring DNA methylation. Here, we parallelise and optimise an implementation of the ABEA algorithm (termed f5c) to efficiently run on heterogeneous CPU-GPU architectures. [RESULTS:] By optimising memory, computations and load balancing between CPU and GPU, we demonstrate how f5c can perform \u00e2\u0088\u00bc3-5 \u00c3\u0097 faster than an optimised version of the original CPU-only implementation of ABEA in the Nanopolish software package. We also show that f5c enables DNA methylation detection on-the-fly using an embedded System on Chip (SoC) equipped with GPUs. [CONCLUSIONS:] Our work not only demonstrates that complex genomics analyses can be performed on lightweight computing systems, but also benefits High-Performance Computing (HPC). The associated source code for f5c along with GPU optimised ABEA is available at https://github.com/hasindu2008/f5c.",
+            "authors": [
+                "Hasindu Gamaarachchi",
+                "Chun Wai Lam",
+                "Gihan Jayatilaka",
+                "Hiruna Samarakoon",
+                "Jared T. Simpson",
+                "Martin A. Smith",
+                "Sri Parameswaran"
+            ],
+            "doi": "https://doi.org/10.1186/s12859-020-03697-x",
+            "preprint": "https://www.biorxiv.org/content/10.1101/756122v1.full.pdf",
+            "pdf": "https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-020-03697-x.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "https://github.com/hasindu2008/f5c",
+            "researchgroups": [
+                "Accelerated and High-Performance Computing (FPGA / GPU)"
+            ],
+            "funding": "Jared T. Simpson is supported by the Ontario Institute for Cancer Research through funds provided by the Government of Ontario and the Government of Canada through Genome Canada and Ontario Genomics (OGI-136).",
+            "tags": [
+                "Nanopore",
+                "Signal alignment",
+                "Event alignment",
+                "Methylation",
+                "GPU",
+                "GPU acceleration",
+                "Optimisation",
+                "SoC",
+                "Nanopolish",
+                "f5c"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-020-03697-x/"
         }
     ],
     "E/14/317": [
@@ -190,8 +295,8 @@
                 "Ira W. Deveson"
             ],
             "doi": "https://doi.org/10.1038/s42003-020-01270-z",
-            "preprint": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
-            "pdf": "#",
+            "preprint": "#",
+            "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
             "presentation": "#",
             "project": "#",
             "codebase": "#",
@@ -222,8 +327,8 @@
                 "Vijitha Herath"
             ],
             "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
-            "preprint": "#",
-            "pdf": "https://arxiv.org/pdf/2006.15304.pdf",
+            "preprint": "https://arxiv.org/pdf/2006.15304.pdf",
+            "pdf": "#",
             "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
             "project": "#",
             "codebase": "#",
@@ -254,8 +359,8 @@
                 "Isuru Nawinne"
             ],
             "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
-            "preprint": "#",
-            "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
+            "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
+            "pdf": "#",
             "presentation": "#",
             "project": "#",
             "codebase": "#",
@@ -283,8 +388,8 @@
                 "Imesh Udara Ekanayake; Damayanthi Herath"
             ],
             "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
-            "preprint": "https://www.researchgate.net/profile/Imesh-Ekanayake/publication/344319206_Chronic_Kidney_Disease_Prediction_Using_Machine_Learning_Methods/links/5f672571458515b7cf418d5b/Chronic-Kidney-Disease-Prediction-Using-Machine-Learning-Methods.pdf",
-            "pdf": "#",
+            "preprint": "#",
+            "pdf": "https://www.researchgate.net/profile/Imesh-Ekanayake/publication/344319206_Chronic_Kidney_Disease_Prediction_Using_Machine_Learning_Methods/links/5f672571458515b7cf418d5b/Chronic-Kidney-Disease-Prediction-Using-Machine-Learning-Methods.pdf",
             "presentation": "#",
             "project": "#",
             "codebase": "#",
