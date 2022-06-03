@@ -2,10 +2,7 @@
 Used to create the cards in the postgraduate index page
 
 inputs:
-image_url
-name_with_initials
-reg_no
-permalink
+degree
 {%- endcomment -%}
 
 {% assign profilePages = site.pages | where: "layout", "postgraduateDetails" | where: "degree", include.degree | sort: "index_in_card_list" | reverse%}
