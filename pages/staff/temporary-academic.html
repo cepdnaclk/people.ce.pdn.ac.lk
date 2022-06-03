@@ -47,15 +47,15 @@ Update the JSON, _data/temporary-academic-staff.json, and it will add the profil
             </div>
 
             <div class="d-flex flex-row justify-content-evenly mt-auto pb-1">
-                {% if each.linkedin != "" %}
+                {% if each.linkedin and  each.linkedin != "" %}
                 <a class="btn btn-link" href="{{ each.linkedin }}" target="_blank"><i class="fab fa-lg fa-linkedin"></i></a>
                 {% endif %}
 
-                {% if each.github != "" %}
+                {% if each.github and each.github != "" %}
                 <a class="btn btn-link" href="{{ each.github }}" target="_blank"><i class="fab fa-lg fa-github"></i></a>
                 {% endif %}
 
-                {% if each.url_profile != "" %}
+                {% if each.url_profile and each.url_profile != "" %}
                 <a class="btn btn-link" href="{{ each.url_profile | relative_url}}" target="_blank"><i class="fa fa-lg fa-user"></i></a>
                 {% endif %}
             </div>
@@ -84,15 +84,15 @@ Update the JSON, _data/temporary-academic-staff.json, and it will add the profil
             </div>
 
             <div class="d-flex flex-row justify-content-evenly mt-auto pb-1">
-                {% if each.linkedin != "" %}
+                {% if each.linkedin and each.linkedin != "" %}
                 <a class="btn btn-link" href="{{ each.linkedin }}" target="_blank"><i class="fab fa-lg fa-linkedin"></i></a>
                 {% endif %}
 
-                {% if each.github != "" %}
+                {% if each.github and each.github != "" %}
                 <a class="btn btn-link" href="{{ each.github }}" target="_blank"><i class="fab fa-lg fa-github"></i></a>
                 {% endif %}
 
-                {% if each.url_profile != "" %}
+                {% if each.url_profile and each.url_profile != "" %}
                 <a class="btn btn-link" href="{{ each.url_profile | relative_url}}" target="_blank"><i class="fa fa-lg fa-user"></i></a>
                 {% endif %}
             </div>

@@ -31,7 +31,7 @@
                 "Cycle consistency",
                 "Computer Vision"
             ],
-            "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185373/"
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185373/"
         },
         {
             "title": "Non-contact Infant Sleep Apnea Detection",
@@ -63,7 +63,7 @@
                 "Bio medical engineering",
                 "Pattern recognition"
             ],
-            "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
         },
         {
             "title": "Adaptive hierarchical clustering for hyperspectral image classification: Umbrella Clustering",
@@ -101,7 +101,109 @@
                 "self-organise",
                 "unsupervised"
             ],
-            "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1255/jsi.2019.a11/"
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1255/jsi.2019.a11/"
+        }
+    ],
+    "E/14/262": [
+        {
+            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
+            "venue": "Communications Biology",
+            "year": "2020",
+            "abstract": "The advent of portable nanopore sequencing devices has enabled DNA and RNA sequencing to be performed in the field or the clinic. However, advances in in situ genomics require parallel development of portable, offline solutions for the computational analysis of sequencing data. Here we introduce Genopo, a mobile toolkit for nanopore sequencing analysis. Genopo compacts popular bioinformatics tools to an Android application, enabling fully portable computation. To demonstrate its utility for in situ genome analysis, we use Genopo to determine the complete genome sequence of the human coronavirus SARS-CoV-2 in nine patient isolates sequenced on a nanopore device, with Genopo executing this workflow in less than 30\u00e2\u0080\u0089min per sample on a range of popular smartphones. We further show how Genopo can be used to profile DNA methylation in a human genome sample, illustrating a flexible, efficient architecture that is suitable to run many popular bioinformatics tools and accommodate small or large genomes. As the first ever smartphone application for nanopore sequencing analysis, Genopo enables the genomics community to harness this cheap, ubiquitous computational resource.",
+            "authors": [
+                "Hiruna Samarakoon",
+                "Sanoj Punchihewa",
+                "Anjana Senanayake",
+                "Jillian M. Hammond",
+                "Igor Stevanovski",
+                "James M. Ferguson",
+                "Roshan Ragel",
+                "Hasindu Gamaarachchi",
+                "Ira W. Deveson"
+            ],
+            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
+            "preprint": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
+            "tags": [
+                "Genopo",
+                "Nanopore Sequencing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/"
+        }
+    ],
+    "E/14/302": [
+        {
+            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
+            "venue": "Communications Biology",
+            "year": "2020",
+            "abstract": "The advent of portable nanopore sequencing devices has enabled DNA and RNA sequencing to be performed in the field or the clinic. However, advances in in situ genomics require parallel development of portable, offline solutions for the computational analysis of sequencing data. Here we introduce Genopo, a mobile toolkit for nanopore sequencing analysis. Genopo compacts popular bioinformatics tools to an Android application, enabling fully portable computation. To demonstrate its utility for in situ genome analysis, we use Genopo to determine the complete genome sequence of the human coronavirus SARS-CoV-2 in nine patient isolates sequenced on a nanopore device, with Genopo executing this workflow in less than 30\u00e2\u0080\u0089min per sample on a range of popular smartphones. We further show how Genopo can be used to profile DNA methylation in a human genome sample, illustrating a flexible, efficient architecture that is suitable to run many popular bioinformatics tools and accommodate small or large genomes. As the first ever smartphone application for nanopore sequencing analysis, Genopo enables the genomics community to harness this cheap, ubiquitous computational resource.",
+            "authors": [
+                "Hiruna Samarakoon",
+                "Sanoj Punchihewa",
+                "Anjana Senanayake",
+                "Jillian M. Hammond",
+                "Igor Stevanovski",
+                "James M. Ferguson",
+                "Roshan Ragel",
+                "Hasindu Gamaarachchi",
+                "Ira W. Deveson"
+            ],
+            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
+            "preprint": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
+            "tags": [
+                "Genopo",
+                "Nanopore Sequencing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/"
+        }
+    ],
+    "E/14/317": [
+        {
+            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
+            "venue": "Communications Biology",
+            "year": "2020",
+            "abstract": "The advent of portable nanopore sequencing devices has enabled DNA and RNA sequencing to be performed in the field or the clinic. However, advances in in situ genomics require parallel development of portable, offline solutions for the computational analysis of sequencing data. Here we introduce Genopo, a mobile toolkit for nanopore sequencing analysis. Genopo compacts popular bioinformatics tools to an Android application, enabling fully portable computation. To demonstrate its utility for in situ genome analysis, we use Genopo to determine the complete genome sequence of the human coronavirus SARS-CoV-2 in nine patient isolates sequenced on a nanopore device, with Genopo executing this workflow in less than 30\u00e2\u0080\u0089min per sample on a range of popular smartphones. We further show how Genopo can be used to profile DNA methylation in a human genome sample, illustrating a flexible, efficient architecture that is suitable to run many popular bioinformatics tools and accommodate small or large genomes. As the first ever smartphone application for nanopore sequencing analysis, Genopo enables the genomics community to harness this cheap, ubiquitous computational resource.",
+            "authors": [
+                "Hiruna Samarakoon",
+                "Sanoj Punchihewa",
+                "Anjana Senanayake",
+                "Jillian M. Hammond",
+                "Igor Stevanovski",
+                "James M. Ferguson",
+                "Roshan Ragel",
+                "Hasindu Gamaarachchi",
+                "Ira W. Deveson"
+            ],
+            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
+            "preprint": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
+            "tags": [
+                "Genopo",
+                "Nanopore Sequencing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/"
         }
     ],
     "E/14/339": [
@@ -136,7 +238,7 @@
                 "Cycle consistency",
                 "Computer Vision"
             ],
-            "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185373/"
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185373/"
         },
         {
             "title": "Non-contact Infant Sleep Apnea Detection",
@@ -168,7 +270,7 @@
                 "Bio medical engineering",
                 "Pattern recognition"
             ],
-            "api_url": "http://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
         }
     ],
     "E/15/092": [
@@ -197,7 +299,7 @@
                 "Red blood cells",
                 "Hypertension"
             ],
-            "api_url": "http://api.ce.pdn.ac.lk/publications/v1/ 10.1109/MERCon50084.2020.9185249/"
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/ 10.1109/MERCon50084.2020.9185249/"
         }
     ]
 }
