@@ -21,55 +21,20 @@ layout: default
 <!-- cards -->
 <div class="row justify-content-center pt-2">
     <!-- PhD -->
-    {% assign profilePages = site.pages | where: "layout", "postgraduateDetails" | where: "degree", "PhD" | sort: "index_in_card_list" | reverse%}
-    {% if profilePages[0] %}
-    <h3 class="text-center">PhD</h3>
-    <hr>
-    {% for item in profilePages %}
-    {%- include postgraduateCard.html image_url=item.image_url name_with_initials=item.name_with_initials reg_no=item.reg_no permalink=item.permalink-%}
-    {% endfor %}
-    {% endif %}
-
+    {%- include postgraduateCard.html degree="PhD"-%}
 
     <!-- MPhil -->
-    {% assign profilePages = site.pages | where: "layout", "postgraduateDetails" | where: "degree", "MPhil" | sort: "index_in_card_list" | reverse%}
-    {% if profilePages[0] %}
-    <h3 class="text-center pt-2">MPhil</h3>
-    <hr>
-    {% for item in profilePages %}
-    {%- include postgraduateCard.html image_url=item.image_url name_with_initials=item.name_with_initials reg_no=item.reg_no permalink=item.permalink-%}
-    {% endfor %}
-    {% endif %}
+    {%- include postgraduateCard.html degree="MPhil"-%}
 
     <!-- MEng -->
-    {% assign profilePages = site.pages | where: "layout", "postgraduateDetails" | where: "degree", "MEng" | sort: "index_in_card_list" | reverse%}
-    {% if profilePages[0] %}
-    <h3 class="text-center pt-2">MEng</h3>
-    <hr>
-    {% for item in profilePages %}
-    {%- include postgraduateCard.html image_url=item.image_url name_with_initials=item.name_with_initials reg_no=item.reg_no permalink=item.permalink-%}
-    {% endfor %}
-    {% endif %}
+    {%- include postgraduateCard.html degree="MEng"-%}
 
     <!-- MSc -->
-    {% assign profilePages = site.pages | where: "layout", "postgraduateDetails" | where: "degree", "MSc" | sort: "index_in_card_list" | reverse %}
-    {% if profilePages[0] %}
-    <h3 class="text-center pt-2">MSc</h3>
-    <hr>
-    {% for item in profilePages %}
-    {%- include postgraduateCard.html image_url=item.image_url name_with_initials=item.name_with_initials reg_no=item.reg_no permalink=item.permalink-%}
-    {% endfor %}
-    {% endif %}
+    {%- include postgraduateCard.html degree="MSc"-%}
 
     <!-- Provisional -->
-    {% assign profilePages = site.pages | where: "layout", "postgraduateDetails" | where: "degree", "Provisional" | sort: "index_in_card_list" | reverse%}
-    {% if profilePages[0] %}
-    <h3 class="text-center pt-2">Provisional</h3>
-    <hr>
-    {% for item in profilePages %}
-    {%- include postgraduateCard.html image_url=item.image_url name_with_initials=item.name_with_initials reg_no=item.reg_no permalink=item.permalink-%}
-    {% endfor %}
-    {% endif %}
+    {%- include postgraduateCard.html degree="Provisional"-%}
+
 </div>
 
 </div>
