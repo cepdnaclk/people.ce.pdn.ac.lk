@@ -13,8 +13,8 @@
                         "Imesh Udara Ekanayake; Damayanthi Herath"
                     ],
                     "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
-                    "preprint": "https://www.researchgate.net/profile/Imesh-Ekanayake/publication/344319206_Chronic_Kidney_Disease_Prediction_Using_Machine_Learning_Methods/links/5f672571458515b7cf418d5b/Chronic-Kidney-Disease-Prediction-Using-Machine-Learning-Methods.pdf",
-                    "pdf": "#",
+                    "preprint": "#",
+                    "pdf": "https://www.researchgate.net/profile/Imesh-Ekanayake/publication/344319206_Chronic_Kidney_Disease_Prediction_Using_Machine_Learning_Methods/links/5f672571458515b7cf418d5b/Chronic-Kidney-Disease-Prediction-Using-Machine-Learning-Methods.pdf",
                     "presentation": "#",
                     "project": "#",
                     "codebase": "#",
@@ -53,8 +53,8 @@
                         "Isuru Nawinne"
                     ],
                     "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
-                    "preprint": "#",
-                    "pdf": "https://arxiv.org/pdf/1910.04725.pdf",
+                    "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
+                    "pdf": "#",
                     "presentation": "#",
                     "project": "#",
                     "codebase": "#",
@@ -78,38 +78,41 @@
         "publication_count": 1,
         "year_count": 1,
         "publications": {
-            "2020": [
+            "2021": [
                 {
-                    "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
-                    "venue": "Communications Biology",
-                    "year": "2020",
-                    "abstract": "The advent of portable nanopore sequencing devices has enabled DNA and RNA sequencing to be performed in the field or the clinic. However, advances in in situ genomics require parallel development of portable, offline solutions for the computational analysis of sequencing data. Here we introduce Genopo, a mobile toolkit for nanopore sequencing analysis. Genopo compacts popular bioinformatics tools to an Android application, enabling fully portable computation. To demonstrate its utility for in situ genome analysis, we use Genopo to determine the complete genome sequence of the human coronavirus SARS-CoV-2 in nine patient isolates sequenced on a nanopore device, with Genopo executing this workflow in less than 30\u00e2\u0080\u0089min per sample on a range of popular smartphones. We further show how Genopo can be used to profile DNA methylation in a human genome sample, illustrating a flexible, efficient architecture that is suitable to run many popular bioinformatics tools and accommodate small or large genomes. As the first ever smartphone application for nanopore sequencing analysis, Genopo enables the genomics community to harness this cheap, ubiquitous computational resource.",
+                    "title": "An optical physics inspired CNN approach for intrinsic image decomposition",
+                    "venue": "2021 IEEE International Conference on Image Processing (ICIP)",
+                    "year": "2021",
+                    "abstract": "Intrinsic Image Decomposition is an open problem of generating the constituents of an image. Generating reflectance and shading from a single image is a challenging task specifically when there is no ground truth. There is a lack of unsupervised learning approaches for decomposing an image into reflectance and shading using a single image. We propose a neural network architecture capable of this decomposition using physics-based parameters derived from the image. Through experimental results, we show that (a) the proposed methodology outperforms the existing deep learning-based IID techniques and (b) the derived parameters improve the efficacy significantly. We conclude with a closer analysis of the results (numerical and example images) showing several avenues for improvement.",
                     "authors": [
-                        "Hiruna Samarakoon",
-                        "Sanoj Punchihewa",
-                        "Anjana Senanayake",
-                        "Jillian M. Hammond",
-                        "Igor Stevanovski",
-                        "James M. Ferguson",
+                        "Harshana Weligampola",
+                        "Gihan Jayatilaka",
+                        "Suren Sritharan",
+                        "Parakrama Ekanayake",
                         "Roshan Ragel",
-                        "Hasindu Gamaarachchi",
-                        "Ira W. Deveson"
+                        "Vijitha Herath",
+                        "Roshan Godaliyadda"
                     ],
-                    "doi": "https://doi.org/10.1038/s42003-020-01270-z",
-                    "preprint": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
+                    "doi": "https://doi.org/10.1109/ICIP42928.2021.9506375",
+                    "preprint": "https://arxiv.org/pdf/2105.10076",
                     "pdf": "#",
-                    "presentation": "#",
-                    "project": "#",
+                    "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/icip-2021-presentation.pdf",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e14/dark-arts-algorithms-for-low-light-image-enhancement-and-interpretation/",
                     "codebase": "#",
                     "researchgroups": [
-                        "Computational BioEngineering"
+                        "Computer Vision"
                     ],
-                    "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
+                    "funding": "",
                     "tags": [
-                        "Genopo",
-                        "Nanopore Sequencing"
+                        "Reflectivity",
+                        "Neural networks",
+                        "Optical fiber networks",
+                        "Optical imaging",
+                        "Image decomposition",
+                        "Numerical models",
+                        "Optical reflection"
                     ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/"
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIP42928.2021.9506375/"
                 }
             ]
         }
