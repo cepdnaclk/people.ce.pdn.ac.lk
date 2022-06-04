@@ -6,12 +6,8 @@ degree
 {%- endcomment -%}
 
 {% assign profilePages = site.pages | where: "layout", "postgraduateDetails" | where: "degree", include.degree | sort: "index_in_card_list" | reverse%}
-{% if profilePages[0] %}
-<<<<<<< HEAD
-<h3 class="text-center pt-2">{{include.degree}}</h3>
-<hr>
-=======
 
+{% if profilePages[0] %}
 <h3 id="{{ include.degree }}" class="text-center pt-2">
 
     <!-- Will add some custom title in future -->
@@ -24,7 +20,6 @@ degree
 </h3>
 <hr>
 
->>>>>>> main
 {% for item in profilePages %}
 <div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">
     {% if item.image_url %}
@@ -50,8 +45,4 @@ degree
 </div>
 <!-- card image -->
 {% endfor %}
-<<<<<<< HEAD
 {% endif %}
-=======
-{% endif %}
->>>>>>> main
