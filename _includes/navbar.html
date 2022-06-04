@@ -16,7 +16,8 @@ Contains the logo, home staff students alumni links
             {%- comment -%}
             Home
             {%- endcomment -%}
-            <li class="nav-item"><a href="{{ '/' | relative_url }}" class="nav-link">Home</a></li>
+            <li class="nav-item"><a href="{{ site.home }}" class="nav-link">Home</a></li>
+            <li class="nav-item"><a href="{{ '/' | relative_url }}" class="nav-link">People</a></li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown"
                     aria-expanded="false">Staff</a>
@@ -57,6 +58,8 @@ Contains the logo, home staff students alumni links
                                 style="width: .5em; height: .5em;"></span>{{ batch.title }}</a>
                     </li>
                     {%- endfor -%}
+                    <li><a class="dropdown-item d-flex align-items-center gap-2 py-2" href="{{ '/students/postgraduate/' | relative_url }}"><span class="d-inline-block bg-primary rounded-circle" style="width: .5em; height: .5em;"></span>Postgraduate</a>
+                    </li>
                 </ul>
             </li>
 

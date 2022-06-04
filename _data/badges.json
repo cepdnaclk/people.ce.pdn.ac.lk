@@ -1,266 +1,216 @@
 {
     "badges": {
-        "aces-2020": {
-            "title": "ACES Committee 2020-21",
-            "image": "images/badges/aces.png",
-            "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2020-2021",
-            "page": "/badges/aces-2020/",
-            "show": "false"
-        },
         "casual-instructors-2021": {
             "title": "Casual Instructors - 2021/2022",
             "image": "images/badges/causal-instructors.png",
-            "description": "The casual Instructor program in the Department of Computer Engineering is to allow undergraduate students to get an opportunity to be an instructor/teaching assistant in the courses offered for their junior badges.",
+            "description": "The casual Instructor program in the Department of Computer Engineering provides undergraduate students with the opportunity to be an instructor/teaching assistant in the courses offered for their junior batches.",
             "page": "/badges/casual-instructors-2021/",
             "show": "true"
         },
         "web-consultation-team": {
             "title": "Web Consultation Team",
             "image": "images/badges/web-consultation-team.png",
-            "description": "The Web Consultation Team is a group of students who volunteered to improve the web presence of the University of Peradeniya by coordinate between staff/students and the webmasters of the websites under the pdn domain.",
+            "description": "The Web Consultation Team is a group of volunteers assisting to improve the web presence of the University of Peradeniya. They  coordinate between staff/students and the webmasters of the websites under the pdn domain.",
             "page": "/badges/web-consultation-team/",
             "show": "true"
         }
     },
     "members": {
-        "E/15/299": [
-            {
-                "tag": "aces-2020",
-                "position": "President"
-            }
-        ],
-        "E/16/275": [
-            {
-                "tag": "aces-2020",
-                "position": "Secretary"
-            }
-        ],
-        "E/15/187": [
-            {
-                "tag": "aces-2020",
-                "position": "Vice President"
-            }
-        ],
-        "E//": [
-            {
-                "tag": "aces-2020",
-                "position": "Junior Treasurer"
-            },
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member"
-            },
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member"
-            },
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member"
-            },
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member"
-            },
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member"
-            }
-        ],
-        "E/17/077": [
-            {
-                "tag": "aces-2020",
-                "position": "Editor"
-            }
-        ],
-        "E/17/018": [
-            {
-                "tag": "aces-2020",
-                "position": "Assistant Secretary"
-            },
-            {
-                "tag": "casual-instructors-2021",
-                "position": "CO224"
-            }
-        ],
-        "E/15/065": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member"
-            }
-        ],
-        "E/15/316": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member"
-            }
-        ],
-        "E/16/290": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member"
-            }
-        ],
         "E/17/058": [
             {
                 "tag": "casual-instructors-2021",
-                "position": "CO225, CO253"
+                "position": "CO225, CO253",
+                "link": "#"
             },
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/17/369": [
             {
                 "tag": "casual-instructors-2021",
-                "position": "CO224"
+                "position": "CO224",
+                "link": "#"
             },
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/17/190": [
             {
                 "tag": "casual-instructors-2021",
-                "position": "CO224"
+                "position": "CO224",
+                "link": "#"
             }
         ],
         "E/17/044": [
             {
                 "tag": "casual-instructors-2021",
-                "position": "CO224"
+                "position": "CO224",
+                "link": "#"
+            }
+        ],
+        "E/17/018": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO224",
+                "link": "#"
             }
         ],
         "E/17/134": [
             {
                 "tag": "casual-instructors-2021",
-                "position": "CO253"
+                "position": "CO253",
+                "link": "#"
             }
         ],
         "E/17/194": [
             {
                 "tag": "casual-instructors-2021",
-                "position": "CO253"
+                "position": "CO253",
+                "link": "#"
             },
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/17/072": [
             {
                 "tag": "casual-instructors-2021",
-                "position": "CO253"
+                "position": "CO253",
+                "link": "#"
             }
         ],
         "E/17/380": [
             {
                 "tag": "casual-instructors-2021",
-                "position": "CO253"
+                "position": "CO253",
+                "link": "#"
             }
         ],
         "E/17/144": [
             {
                 "tag": "casual-instructors-2021",
-                "position": "CO253"
+                "position": "CO253",
+                "link": "#"
             }
         ],
         "E/17/064": [
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/17/035": [
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/17/230": [
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/17/027": [
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/17/342": [
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/17/201": [
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/14/158": [
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/14/240": [
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/18/013": [
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/18/297": [
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/18/100": [
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/18/373": [
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/18/382": [
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/18/186": [
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/18/245": [
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ],
         "E/18/105": [
             {
                 "tag": "web-consultation-team",
-                "position": "Member"
+                "position": "Member",
+                "link": "#"
             }
         ]
     }

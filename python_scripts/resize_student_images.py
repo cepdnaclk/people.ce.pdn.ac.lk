@@ -2,7 +2,8 @@
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 
 import os
-from PIL import Image # pip install pillow
+from PIL import Image  # pip install pillow
+
 
 def run():
     imagesPath = "../images/students"
@@ -28,6 +29,7 @@ def run():
                         print("No resize required")
             except:
                 print(f"Failed to resize image {imagePath}")
+
 
 if __name__ == "__main__":
     run()

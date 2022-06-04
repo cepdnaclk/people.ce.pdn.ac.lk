@@ -1,9 +1,10 @@
 {
     "title": "Casual Instructors - 2021/2022",
     "tag": "casual-instructors-2021",
-    "description": "The casual Instructor program in the Department of Computer Engineering is to allow undergraduate students to get an opportunity to be an instructor/teaching assistant in the courses offered for their junior badges.",
+    "description": "The casual Instructor program in the Department of Computer Engineering provides undergraduate students with the opportunity to be an instructor/teaching assistant in the courses offered for their junior batches.",
     "image": "images/badges/causal-instructors.png",
     "show_in_profile": "true",
+    "criteria": "Actively contribute to the course works for more than 6 working hours",
     "students":[
         {
             "eNumber": "E/17/058",

@@ -3,8 +3,9 @@
         "staff_name" : "Amila Indika",
         "text_below_name" : "System Administrator",
         "url_image" : "images/staff/temporary-academic-staff/amila.jpg",
-        "email": "amilaindika@eng.pdn.ac.lk ",
+        "email": "amilaindika@eng.pdn.ac.lk",
         "url_profile" : "students/e14/142",
+        "linkedin": "https://www.linkedin.com/in/amila-indika/",
         "joined_date": "",
         "left_date": ""
     },
@@ -14,6 +15,7 @@
         "url_image" : "images/staff/temporary-academic-staff/chathuri.jpg",
         "email": "chathurimalee@eng.pdn.ac.lk",
         "url_profile" : "",
+        "linkedin": "https://www.linkedin.com/in/chathuriaththanayake/",
         "joined_date": "",
         "left_date": "2021-11-31"
     },
@@ -23,6 +25,7 @@
         "url_image" : "images/staff/temporary-academic-staff/arjuna.jpg",
         "email": "arjunat@eng.pdn.ac.lk",
         "url_profile" : "",
+        "linkedin": "#",
         "joined_date": "",
         "left_date": "2022-02-07"
     },
@@ -32,6 +35,7 @@
         "url_image" : "images/staff/temporary-academic-staff/kanchana.jpg",
         "email": "kc43224jayasinghe@eng.pdn.ac.lk",
         "url_profile" : "",
+        "linkedin": "#",
         "joined_date": "",
         "left_date": "2021-11-01"
     },
@@ -41,6 +45,7 @@
         "url_image" : "images/staff/temporary-academic-staff/anjalee.jpg",
         "email": "anj.wanigarathne@eng.pdn.ac.lk",
         "url_profile" : "",
+        "linkedin": "https://www.linkedin.com/in/anjalee-wanigarathne-1b7571160/",
         "joined_date": "",
         "left_date": "2021-03-25"
     },
@@ -50,6 +55,7 @@
         "url_image" : "images/staff/temporary-academic-staff/thushara.jpeg",
         "email": "thusharab@eng.pdn.ac.lk",
         "url_profile" : "",
+        "linkedin": "https://www.linkedin.com/in/thusharabandara/",
         "joined_date": "",
         "left_date": ""
     },
@@ -59,6 +65,7 @@
         "url_image" : "images/staff/temporary-academic-staff/kalani.jpeg",
         "email": "kalaniu@eng.pdn.ac.lk",
         "url_profile" : "",
+        "linkedin": "https://www.linkedin.com/in/kalani-hansima-b55187179/",
         "joined_date": "",
         "left_date": ""
     },
@@ -68,6 +75,8 @@
         "url_image" : "images/staff/temporary-academic-staff/dilshani.jpg",
         "email": "dilshanik@eng.pdn.ac.lk",
         "url_profile" : "students/e15/173",
+        "linkedin": "https://www.linkedin.com/in/dilshanikarunarathna/",
+        "github": "https://github.com/DDilshani",
         "joined_date": "2021-10-21",
         "left_date": ""
     },
@@ -77,6 +86,8 @@
         "url_image" : "images/staff/temporary-academic-staff/nuwan.jpg",
         "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
         "url_profile" : "/students/e15/140",
+        "linkedin": "https://www.linkedin.com/in/nuwan-jaliyagoda/",
+        "github": "https://github.com/NuwanJ",
         "joined_date": "2021-10-21",
         "left_date": ""
     },
@@ -86,6 +97,7 @@
         "url_image" : "images/staff/temporary-academic-staff/imesh.png",
         "email": "imeshuek@eng.pdn.ac.lk",
         "url_profile" : "/students/e15/092",
+        "linkedin": "https://www.linkedin.com/in/imesh-ekanayake/",
         "joined_date": "2021-10-21",
         "left_date": ""
     },
@@ -95,7 +107,26 @@
         "url_image" : "images/staff/temporary-academic-staff/keshara.jpg",
         "email": "kesharaw@eng.pdn.ac.lk",
         "url_profile" : "/students/e15/383",
+        "linkedin": "#",
         "joined_date": "2021-10-21",
+        "left_date": ""
+    },
+    {
+        "staff_name" : "Poornima Lankani",
+        "text_below_name" : "Temporary Instructor",
+        "url_image" : "images/staff/temporary-academic-staff/poornima.jpg",
+        "email": "lankaniperera@eng.pdn.ac.lk",
+        "linkedin": "https://www.linkedin.com/in/poornima-lankani-b54969103/",
+        "joined_date": "2022-05-23",
+        "left_date": ""
+    },
+    {
+        "staff_name" : "Poornima Lankani",
+        "text_below_name" : "Temporary Instructor",
+        "url_image" : "images/staff/temporary-academic-staff/poornima.jpg",
+        "email": "lankaniperera@eng.pdn.ac.lk",
+        "linkedin": "https://www.linkedin.com/in/poornima-lankani-b54969103/",
+        "joined_date": "2022-05-23",
         "left_date": ""
     }
 ]

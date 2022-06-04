@@ -134,7 +134,11 @@ image_url: {image_path}
         htmlFile.close()
 
         # update json if below E14
-        if int(batch[0:2]) < 14:
+        try:
+            isAlumni = int(batch[0:2]) < 14
+        except:
+            isAlumni = False
+        if batch[0:2] == "2A" or isAlumni:
             print("Updating JSON in _data folder")
 
             # select student from json file
