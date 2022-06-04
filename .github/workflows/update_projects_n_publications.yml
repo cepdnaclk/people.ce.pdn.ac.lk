@@ -1,9 +1,9 @@
-name: Update student profile page titles
+name: Update Project and Publication Details
 
 on:
-  # schedule:
-  # # At 18:30 UTC on everyday (12.00 mid night in Sri Lanka)
-  # - cron: "30 18 * * *"
+  schedule:
+  # # At 18:40 UTC on everyday (12.10 mid night in Sri Lanka) This will collect the results from API site, which build at 12 mid night
+    - cron: "40 18 * * *"
 
   # Enables a button on Actions tab
   workflow_dispatch:
@@ -27,15 +27,23 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-      - name: Generate Student HTML files with new Titles
+
+      - name: Update Student Project Details
         run: |
           cd ./python_scripts
-          python3 student_profile_page_titles.py
+          python3 update_projects.py
           cd ../
+
+      - name: Update Student/Staff Publication Details
+        run: |
+          cd ./python_scripts
+          python3 update_publications.py
+          cd ../
+
       - name: Commit and push into the main branch
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add --all
-          git commit -m "Student page titles were updated by GitHub Actions" || echo "No changes on Titles"
+          git commit -m "Student Project and Publication details were updated by GitHub Actions" || echo "No changes on Projects and Publications"
           git push

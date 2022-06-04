@@ -1,16 +1,17 @@
 ---
 layout: default
 permalink: /
-title: Home
+title: People
 ---
 
 <!-- breadcrumb -->
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
-        <h1 class="text-white">Home</h1>
+        <h1 class="text-white">People</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-                <li class="breadcrumb-item active text-white" aria-current="page"> Home</li>
+                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item text-white">People</li>
             </ol>
         </nav>
     </div>
@@ -68,6 +69,8 @@ title: Home
                         <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
                             batch.title }}</a>
                         {%- endfor -%}
+                        <br><br>
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{'/students/postgraduate/' | relative_url }}">Postgraduate</a>
                     </div>
                 </div>
 
@@ -109,8 +112,7 @@ title: Home
         SimpleJekyllSearch({
             searchInput: document.getElementById('search-input'),
             resultsContainer: document.getElementById('results-container'),
-            json: '{{ ' / search / search.json' | remove:" " | relative_url}}'
-                            })
+            json: '{{ ' / search / search.json' | remove:" " | relative_url}}'})
     </script>
 
 </div>

@@ -1,0 +1,398 @@
+{
+    "E/14/158": [
+        {
+            "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
+            "venue": "MERcon",
+            "year": "2020",
+            "authors": [
+                "Harshana Weligampola",
+                "Gihan Jayatilaka",
+                "Suren Sritharan",
+                "Roshan Goldaliyadda",
+                "Parakrama Ekanayeka",
+                "Roshan Ragel",
+                "Vijitha Herath"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
+            "preprint": "https://arxiv.org/pdf/2006.15304.pdf",
+            "pdf": "#",
+            "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Low-light image enhancement",
+                "Retinex theory",
+                "Generative adversarial networks",
+                "Cycle consistency",
+                "Computer Vision"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185373/"
+        },
+        {
+            "title": "Non-contact Infant Sleep Apnea Detection",
+            "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2019",
+            "authors": [
+                "Gihan Jayatilaka",
+                "Harshana Weligampola",
+                "Suren Sritharan",
+                "Pankayaraj Pathmanathan",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+            "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering",
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Sleep apnea",
+                "Video processing",
+                "Bio medical engineering",
+                "Pattern recognition"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
+        },
+        {
+            "title": "Adaptive hierarchical clustering for hyperspectral image classification: Umbrella Clustering",
+            "venue": "Journal of Spectral Imaging",
+            "year": "2019",
+            "authors": [
+                "S.S.P. Vithana",
+                "E.M.M.B. Ekanayake",
+                "E.M.H.E.B. Ekanayake",
+                "A.R.M.A.N. Rathnayake",
+                "G.C. Jayatilaka",
+                "H.M.V.R. Herath",
+                "G.M.R.I. Godaliyadda",
+                "M.P.B. Ekanayake"
+            ],
+            "doi": "https://doi.org/10.1255/jsi.2019.a11",
+            "preprint": "#",
+            "pdf": "https://www.impopen.com/download.php?code=I08_a11",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "hyperspectral imagery",
+                "spectral clustering",
+                "hierarchical classification",
+                "umbrella clustering",
+                "feature extraction",
+                "remote sensing",
+                "linear discriminant analysis",
+                "self-organise",
+                "unsupervised"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1255/jsi.2019.a11/"
+        },
+        {
+            "title": "GPU accelerated adaptive banded event alignment for rapid comparative nanopore signal analysis",
+            "venue": "BMC Bioinformatics",
+            "year": "2020",
+            "authors": [
+                "Hasindu Gamaarachchi",
+                "Chun Wai Lam",
+                "Gihan Jayatilaka",
+                "Hiruna Samarakoon",
+                "Jared T. Simpson",
+                "Martin A. Smith",
+                "Sri Parameswaran"
+            ],
+            "doi": "https://doi.org/10.1186/s12859-020-03697-x",
+            "preprint": "https://www.biorxiv.org/content/10.1101/756122v1.full.pdf",
+            "pdf": "https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-020-03697-x.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "https://github.com/hasindu2008/f5c",
+            "researchgroups": [
+                "Accelerated and High-Performance Computing (FPGA / GPU)"
+            ],
+            "funding": "Jared T. Simpson is supported by the Ontario Institute for Cancer Research through funds provided by the Government of Ontario and the Government of Canada through Genome Canada and Ontario Genomics (OGI-136).",
+            "tags": [
+                "Nanopore",
+                "Signal alignment",
+                "Event alignment",
+                "Methylation",
+                "GPU",
+                "GPU acceleration",
+                "Optimisation",
+                "SoC",
+                "Nanopolish",
+                "f5c"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-020-03697-x/"
+        },
+        {
+            "title": "DeepLight: Robust & Unobtrusive Real-time Screen-Camera Communication for Real-World Displays",
+            "venue": "2021 20th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)",
+            "year": "2021",
+            "authors": [
+                "Vu Tran",
+                "Gihan Jayatilaka",
+                "Ashwin Ashok",
+                "Archan Misra"
+            ],
+            "doi": "https://doi.org/10.1145/3412382.3458269",
+            "preprint": "https://arxiv.org/pdf/2105.05092",
+            "pdf": "#",
+            "presentation": "https://www.cs.umd.edu/~gihan/projects/deeplight/presentation.pdf",
+            "project": "#",
+            "codebase": "https://github.com/gihanjayatilaka/deeplight",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Human-centered computing",
+                "Ubiquitous and mobile computing",
+                "Computer systems organization",
+                "Embedded and cyber-physical systems"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/3412382.3458269/"
+        }
+    ],
+    "E/14/262": [
+        {
+            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
+            "venue": "Communications Biology",
+            "year": "2020",
+            "authors": [
+                "Hiruna Samarakoon",
+                "Sanoj Punchihewa",
+                "Anjana Senanayake",
+                "Jillian M. Hammond",
+                "Igor Stevanovski",
+                "James M. Ferguson",
+                "Roshan Ragel",
+                "Hasindu Gamaarachchi",
+                "Ira W. Deveson"
+            ],
+            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
+            "preprint": "#",
+            "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
+            "tags": [
+                "Genopo",
+                "Nanopore Sequencing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/"
+        }
+    ],
+    "E/14/302": [
+        {
+            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
+            "venue": "Communications Biology",
+            "year": "2020",
+            "authors": [
+                "Hiruna Samarakoon",
+                "Sanoj Punchihewa",
+                "Anjana Senanayake",
+                "Jillian M. Hammond",
+                "Igor Stevanovski",
+                "James M. Ferguson",
+                "Roshan Ragel",
+                "Hasindu Gamaarachchi",
+                "Ira W. Deveson"
+            ],
+            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
+            "preprint": "#",
+            "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
+            "tags": [
+                "Genopo",
+                "Nanopore Sequencing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/"
+        },
+        {
+            "title": "GPU accelerated adaptive banded event alignment for rapid comparative nanopore signal analysis",
+            "venue": "BMC Bioinformatics",
+            "year": "2020",
+            "authors": [
+                "Hasindu Gamaarachchi",
+                "Chun Wai Lam",
+                "Gihan Jayatilaka",
+                "Hiruna Samarakoon",
+                "Jared T. Simpson",
+                "Martin A. Smith",
+                "Sri Parameswaran"
+            ],
+            "doi": "https://doi.org/10.1186/s12859-020-03697-x",
+            "preprint": "https://www.biorxiv.org/content/10.1101/756122v1.full.pdf",
+            "pdf": "https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-020-03697-x.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "https://github.com/hasindu2008/f5c",
+            "researchgroups": [
+                "Accelerated and High-Performance Computing (FPGA / GPU)"
+            ],
+            "funding": "Jared T. Simpson is supported by the Ontario Institute for Cancer Research through funds provided by the Government of Ontario and the Government of Canada through Genome Canada and Ontario Genomics (OGI-136).",
+            "tags": [
+                "Nanopore",
+                "Signal alignment",
+                "Event alignment",
+                "Methylation",
+                "GPU",
+                "GPU acceleration",
+                "Optimisation",
+                "SoC",
+                "Nanopolish",
+                "f5c"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-020-03697-x/"
+        }
+    ],
+    "E/14/317": [
+        {
+            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
+            "venue": "Communications Biology",
+            "year": "2020",
+            "authors": [
+                "Hiruna Samarakoon",
+                "Sanoj Punchihewa",
+                "Anjana Senanayake",
+                "Jillian M. Hammond",
+                "Igor Stevanovski",
+                "James M. Ferguson",
+                "Roshan Ragel",
+                "Hasindu Gamaarachchi",
+                "Ira W. Deveson"
+            ],
+            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
+            "preprint": "#",
+            "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering"
+            ],
+            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
+            "tags": [
+                "Genopo",
+                "Nanopore Sequencing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/"
+        }
+    ],
+    "E/14/339": [
+        {
+            "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
+            "venue": "MERcon",
+            "year": "2020",
+            "authors": [
+                "Harshana Weligampola",
+                "Gihan Jayatilaka",
+                "Suren Sritharan",
+                "Roshan Goldaliyadda",
+                "Parakrama Ekanayeka",
+                "Roshan Ragel",
+                "Vijitha Herath"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
+            "preprint": "https://arxiv.org/pdf/2006.15304.pdf",
+            "pdf": "#",
+            "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Low-light image enhancement",
+                "Retinex theory",
+                "Generative adversarial networks",
+                "Cycle consistency",
+                "Computer Vision"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185373/"
+        },
+        {
+            "title": "Non-contact Infant Sleep Apnea Detection",
+            "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2019",
+            "authors": [
+                "Gihan Jayatilaka",
+                "Harshana Weligampola",
+                "Suren Sritharan",
+                "Pankayaraj Pathmanathan",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+            "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering",
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Sleep apnea",
+                "Video processing",
+                "Bio medical engineering",
+                "Pattern recognition"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/"
+        }
+    ],
+    "E/15/092": [
+        {
+            "title": "Chronic kidney disease prediction using machine learning methods",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon) - IEEE",
+            "year": "2020",
+            "authors": [
+                "Imesh Udara Ekanayake; Damayanthi Herath"
+            ],
+            "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
+            "preprint": "#",
+            "pdf": "https://www.researchgate.net/profile/Imesh-Ekanayake/publication/344319206_Chronic_Kidney_Disease_Prediction_Using_Machine_Learning_Methods/links/5f672571458515b7cf418d5b/Chronic-Kidney-Disease-Prediction-Using-Machine-Learning-Methods.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Machine Learning and Data Mining"
+            ],
+            "funding": "",
+            "tags": [
+                "Kidney",
+                "Diseases",
+                "Machine learning",
+                "Red blood cells",
+                "Hypertension"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/ 10.1109/MERCon50084.2020.9185249/"
+        }
+    ]
+}

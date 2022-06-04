@@ -28,39 +28,36 @@ This is the footer used in every page
             {%- comment -%}
             Edit this page on github link
             {%- endcomment -%}
-            {% if page.layout == "studentDetails" or page.layout == "staffDetails" or page.permalink contains "documentation" %}
-            | <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/{{page.path}}" rel="noreferrer" target="_blank">
-                <i class="fab fa-github"></i> Edit this page on GitHub</a>
-            {% endif %}
 
             {% if page.type == "Academic Support" %}
-            | <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/_data/academic-support-staff.json" rel="noreferrer" target="_blank">
+            | <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/academic_support_staff.json" rel="noreferrer" target="_blank">
                 <i class="fab fa-github"></i> Edit this page on GitHub</a>
             {% endif %}
 
             {% if page.type == "Temporary Academic" %}
-            | <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/_data/temporary-academic-staff.json" rel="noreferrer" target="_blank">
+            | <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/temporary_academic_staff.json" rel="noreferrer" target="_blank">
                 <i class="fab fa-github"></i> Edit this page on GitHub</a>
             {% endif %}
 
             {% if page.type == "Past Heads of Dept" %}
-            <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/_data/past-heads-of-dep.json" rel="noreferrer" target="_blank">
+            <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/past_heads_of_dep.json" rel="noreferrer" target="_blank">
                 <i class="fab fa-github"></i> Edit this page on GitHub</a>
             {% endif %}
 
-            {%- comment -%}
-            Google form links to update page
-            {%- endcomment -%}
-            {% if page.layout == "studentDetails" %}
-            | <a href="{{ '/form/unified' | relative_url }}" rel="noreferrer" target="_blank">
-                Update via Google Form </a>
-            {% endif %}
             {% if page.layout == "studentList_no_prof_link" %}
             | <a href="{{ '/form/unified' | relative_url }}" rel="noreferrer" target="_blank">
                 Update via Google Form </a>
             {% endif %}
         </p>
     </footer>
+
+    {% if page.layout == "studentDetails" or page.layout == "studentDetails_temp" %}
+    {% include student_edit_button.html path=page.path  %}
+    {% endif %}
+
+    {% if page.layout == "staffDetails" or page.permalink contains "documentation" %}
+    {% include staff_edit_button.html path=page.path  %}
+    {% endif %}
 </div>
 
 {%- if page.layout=="documentation" -%}
