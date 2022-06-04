@@ -44,6 +44,11 @@ This is the footer used in every page
                 <i class="fab fa-github"></i> Edit this page on GitHub</a>
             {% endif %}
 
+            {% if page.edit_link == 'postgraduate_form' or page.layout == 'postgraduateDetails' %}
+            <a href="https://forms.gle/mpo2jarU7b9eWz9F7" rel="noreferrer" target="_blank">
+                | Update via Google Form</a>
+            {% endif %}
+
             {% if page.layout == "studentList_no_prof_link" %}
             | <a href="{{ '/form/unified' | relative_url }}" rel="noreferrer" target="_blank">
                 Update via Google Form </a>

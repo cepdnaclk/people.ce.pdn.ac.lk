@@ -37,8 +37,7 @@ breadcrumb
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
                 <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
-                <li class="breadcrumb-item text-white">Students</li>
-                <li class="breadcrumb-item text-white">Postgraduate</li>
+                <li class="breadcrumb-item"><a href="{{ '/students/postgraduate/' | relative_url }}" class="link-light">Postgraduate Students</a></li>
                 <li class="breadcrumb-item text-white">
                     {{page.name_with_initials}}
                 </li>
@@ -125,7 +124,7 @@ breadcrumb
                             <span class="mb-0" style="font-weight: 500">Email</span>
                         </div>
                         <div class="col-sm-9 text-secondary">
-                            {{page.email}}
+                            {% include email_reveal.html email=page.email %}
                         </div>
                     </div>
                     <hr>
