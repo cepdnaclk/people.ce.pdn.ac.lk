@@ -4,13 +4,12 @@
 
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 
+
 import requests
 import os
 import gdown  # pip install gdown
-import json  # to edit _data/exx.json
-import student_profile_page_titles
+import datetime
 import shutil
-import resize_student_images
 
 googleFromCSV_link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR6ntuDUUuzQS84Am7NMcCc6LCTYKmUfMbVhp4dvy1AXWoVxNrjWfeQntWg5cAfLsFvb4WASQRp-erT/pub?output=csv"
 googleFromCSV = requests.get(googleFromCSV_link, headers={
@@ -28,15 +27,14 @@ YEAR_OF_COMPLETION = 12
 PROFILE_PIC_LINK = 15
 WEBSITE_URL = 16
 
+
 i = 0
 if __name__ == "__main__":
-    # Delete old entries
     try:
-        shutil.rmtree('../images/students/postgraduate/')
-        shutil.rmtree('../pages/postgraduate/students/')
+        # shutil.rmtree('../images/students/postgraduate/')
+        shutil.rmtree('../pages/postgraudate/students')
     except OSError as e:
         print("Error: %s : %s" % ('Directory remove failed', e.strerror))
-
 
     for eachLine in googleFromCSV:
         studentData = eachLine.replace('\r', '').split(",")
@@ -58,12 +56,17 @@ if __name__ == "__main__":
 
         # image
         image_path = f"images/students/postgraduate/{nameConverted}.jpg"
+        os.makedirs(os.path.dirname(image_path), exist_ok=True)
+
         isImageDownloaded = False
         if studentData[PROFILE_PIC_LINK] != "" and len(studentData[PROFILE_PIC_LINK]) > 1:
             print(f"Downloading image to {image_path}")
             isImageDownloaded = True
+            # print(len(studentData[URL_IMAGE]))
             gdown.download("https://drive.google.com/uc?id=" +
                            studentData[PROFILE_PIC_LINK].split("=")[1].strip(), "../"+image_path, quiet=True)
+            # os.system(
+            #     f"wget https://drive.google.com/uc?id={studentData[URL_IMAGE].split('=')[1].strip()} -O ../{image_path}")
         else:
             print("Image not specified")
 
@@ -90,7 +93,7 @@ image_url: "{image_path}"
 ---"""
 
         # write to html file
-        file_url = "../"+f"pages/postgraduate/students/{nameConverted}.html"
+        file_url = "../"+f"pages/postgraudate/students/{nameConverted}.html"
         os.makedirs(os.path.dirname(file_url), exist_ok=True)
         htmlFile = open(file_url, "w")
         htmlFile.write(outputString)
