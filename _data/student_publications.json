@@ -4,7 +4,6 @@
             "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
             "venue": "MERcon",
             "year": "2020",
-            "abstract": "Low light image enhancement is an important challenge for the development of robust computer vision algorithms. The machine learning approaches to this have been either unsupervised, supervised based on paired dataset or supervised based on unpaired dataset. This paper presents a novel deep learning pipeline that can learn from both paired and unpaired datasets. Convolution Neural Networks (CNNs) that are optimized to minimize standard loss, and Generative Adversarial Networks (GANs) that are optimized to minimize the adversarial loss are used to achieve different steps of the low light image enhancement process. Cycle consistency loss and a patched discriminator are utilized to further improve the performance. The paper also analyses the functionality and the performance of different components, hidden layers, and the entire pipeline.",
             "authors": [
                 "Harshana Weligampola",
                 "Gihan Jayatilaka",
@@ -37,7 +36,6 @@
             "title": "Non-contact Infant Sleep Apnea Detection",
             "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
             "year": "2019",
-            "abstract": "Sleep apnea is a breathing disorder where a person repeatedly stops breathing in sleep. Early detection is crucial for infants because it might bring long term adversities. The existing accurate detection mechanism (pulse oximetry) is a skin contact measurement. The existing non-contact mechanisms (acoustics, video processing) are not accurate enough. This paper presents a novel algorithm for the detection of sleep apnea with video processing. The solution is non-contact, accurate and lightweight enough to run on a single board computer. The paper discusses the accuracy of the algorithm on real data, advantages of the new algorithm, its limitations and suggests future improvements.",
             "authors": [
                 "Gihan Jayatilaka",
                 "Harshana Weligampola",
@@ -69,7 +67,6 @@
             "title": "Adaptive hierarchical clustering for hyperspectral image classification: Umbrella Clustering",
             "venue": "Journal of Spectral Imaging",
             "year": "2019",
-            "abstract": "Hyperspectral Imaging (HSI) utilises the reflectance information of a large number of contiguous spectral bands to solve various problems. However, the relative proximity of spectral signatures among classes can be exploited to generate an adaptive hierarchical structure for HSI classification. This enables a level by level optimisation for clustering at each stage of the hierarchy. The Umbrella Clustering algorithm, introduced in this work, utilises this premise to significantly improve performance compared to non-hierarchical algorithms which attempt to optimise clustering globally. The key feature of the proposed methodology is that, unlike existing hierarchical algorithms which rely on fixed or supervised structures, the proposed method exploits a mechanism in spectral clustering to generate a self-organised hierarchy. The algorithm gradually zooms into the feature space to identify levels of clustering at each stage of the hierarchy. The results further demonstrate that the generated structure tallies with human perception. In addition, an improvement to Linear Discriminant Analysis (LDA) is also introduced to further improve performance. This modification maximises the pairwise class separation in the feature space. The entire algorithm includes this modified LDA step which requires a certain amount of class information in terms of features, at the training phase. The classification algorithm which incorporates all novel concepts was tested on the HSI data set of Pavia University as well the database of Common Sri Lankan Spices and Adulterants in order to assess the versatility of the algorithm.",
             "authors": [
                 "S.S.P. Vithana",
                 "E.M.M.B. Ekanayake",
@@ -107,7 +104,6 @@
             "title": "GPU accelerated adaptive banded event alignment for rapid comparative nanopore signal analysis",
             "venue": "BMC Bioinformatics",
             "year": "2020",
-            "abstract": "[BACKGROUND:] Nanopore sequencing enables portable, real-time sequencing applications, including point-of-care diagnostics and in-the-field genotyping. Achieving these outcomes requires efficient bioinformatic algorithms for the analysis of raw nanopore signal data. However, comparing raw nanopore signals to a biological reference sequence is a computationally complex task. The dynamic programming algorithm called Adaptive Banded Event Alignment (ABEA) is a crucial step in polishing sequencing data and identifying non-standard nucleotides, such as measuring DNA methylation. Here, we parallelise and optimise an implementation of the ABEA algorithm (termed f5c) to efficiently run on heterogeneous CPU-GPU architectures. [RESULTS:] By optimising memory, computations and load balancing between CPU and GPU, we demonstrate how f5c can perform \u00e2\u0088\u00bc3-5 \u00c3\u0097 faster than an optimised version of the original CPU-only implementation of ABEA in the Nanopolish software package. We also show that f5c enables DNA methylation detection on-the-fly using an embedded System on Chip (SoC) equipped with GPUs. [CONCLUSIONS:] Our work not only demonstrates that complex genomics analyses can be performed on lightweight computing systems, but also benefits High-Performance Computing (HPC). The associated source code for f5c along with GPU optimised ABEA is available at https://github.com/hasindu2008/f5c.",
             "authors": [
                 "Hasindu Gamaarachchi",
                 "Chun Wai Lam",
@@ -145,7 +141,6 @@
             "title": "DeepLight: Robust & Unobtrusive Real-time Screen-Camera Communication for Real-World Displays",
             "venue": "2021 20th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)",
             "year": "2021",
-            "abstract": "The paper introduces a novel, holistic approach for robust Screen-Camera Communication (SCC), where video content on a screen is visually encoded in a human-imperceptible fashion and decoded by a camera capturing images of such screen content. We first show that state-of-the-art SCC techniques have two key limitations for in-the-wild deployment: (a) the decoding accuracy drops rapidly under even modest screen extraction errors from the captured images, and (b) they generate perceptible flickers on common refresh rate screens even with minimal modulation of pixel intensity. To overcome these challenges, we introduce DeepLight, a system that incorporates machine learning (ML) models in the decoding pipeline to achieve humanly-imperceptible, moderately high SCC rates under diverse real-world conditions. DeepLight's key innovation is the design of a Deep Neural Network (DNN) based decoder that collectively decodes all the bits spatially encoded in a display frame, without attempting to precisely isolate the pixels associated with each encoded bit. In addition, DeepLight supports imperceptible encoding by selectively modulating the intensity of only the Blue channel, and provides reasonably accurate screen extraction (IoU values \u00e2\u0089\u00a5 83%) by using state-of-the-art object detection DNN pipelines. We show that a fully functional DeepLight system is able to robustly achieve high decoding accuracy (frame error rate < 0.2) and moderately-high data goodput (\u00e2\u0089\u00a50.95 Kbps) using a human-held smartphone camera, even over larger screen-camera distances (~ 2m).",
             "authors": [
                 "Vu Tran",
                 "Gihan Jayatilaka",
@@ -176,7 +171,6 @@
             "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
             "venue": "Communications Biology",
             "year": "2020",
-            "abstract": "The advent of portable nanopore sequencing devices has enabled DNA and RNA sequencing to be performed in the field or the clinic. However, advances in in situ genomics require parallel development of portable, offline solutions for the computational analysis of sequencing data. Here we introduce Genopo, a mobile toolkit for nanopore sequencing analysis. Genopo compacts popular bioinformatics tools to an Android application, enabling fully portable computation. To demonstrate its utility for in situ genome analysis, we use Genopo to determine the complete genome sequence of the human coronavirus SARS-CoV-2 in nine patient isolates sequenced on a nanopore device, with Genopo executing this workflow in less than 30\u00e2\u0080\u0089min per sample on a range of popular smartphones. We further show how Genopo can be used to profile DNA methylation in a human genome sample, illustrating a flexible, efficient architecture that is suitable to run many popular bioinformatics tools and accommodate small or large genomes. As the first ever smartphone application for nanopore sequencing analysis, Genopo enables the genomics community to harness this cheap, ubiquitous computational resource.",
             "authors": [
                 "Hiruna Samarakoon",
                 "Sanoj Punchihewa",
@@ -210,7 +204,6 @@
             "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
             "venue": "Communications Biology",
             "year": "2020",
-            "abstract": "The advent of portable nanopore sequencing devices has enabled DNA and RNA sequencing to be performed in the field or the clinic. However, advances in in situ genomics require parallel development of portable, offline solutions for the computational analysis of sequencing data. Here we introduce Genopo, a mobile toolkit for nanopore sequencing analysis. Genopo compacts popular bioinformatics tools to an Android application, enabling fully portable computation. To demonstrate its utility for in situ genome analysis, we use Genopo to determine the complete genome sequence of the human coronavirus SARS-CoV-2 in nine patient isolates sequenced on a nanopore device, with Genopo executing this workflow in less than 30\u00e2\u0080\u0089min per sample on a range of popular smartphones. We further show how Genopo can be used to profile DNA methylation in a human genome sample, illustrating a flexible, efficient architecture that is suitable to run many popular bioinformatics tools and accommodate small or large genomes. As the first ever smartphone application for nanopore sequencing analysis, Genopo enables the genomics community to harness this cheap, ubiquitous computational resource.",
             "authors": [
                 "Hiruna Samarakoon",
                 "Sanoj Punchihewa",
@@ -242,7 +235,6 @@
             "title": "GPU accelerated adaptive banded event alignment for rapid comparative nanopore signal analysis",
             "venue": "BMC Bioinformatics",
             "year": "2020",
-            "abstract": "[BACKGROUND:] Nanopore sequencing enables portable, real-time sequencing applications, including point-of-care diagnostics and in-the-field genotyping. Achieving these outcomes requires efficient bioinformatic algorithms for the analysis of raw nanopore signal data. However, comparing raw nanopore signals to a biological reference sequence is a computationally complex task. The dynamic programming algorithm called Adaptive Banded Event Alignment (ABEA) is a crucial step in polishing sequencing data and identifying non-standard nucleotides, such as measuring DNA methylation. Here, we parallelise and optimise an implementation of the ABEA algorithm (termed f5c) to efficiently run on heterogeneous CPU-GPU architectures. [RESULTS:] By optimising memory, computations and load balancing between CPU and GPU, we demonstrate how f5c can perform \u00e2\u0088\u00bc3-5 \u00c3\u0097 faster than an optimised version of the original CPU-only implementation of ABEA in the Nanopolish software package. We also show that f5c enables DNA methylation detection on-the-fly using an embedded System on Chip (SoC) equipped with GPUs. [CONCLUSIONS:] Our work not only demonstrates that complex genomics analyses can be performed on lightweight computing systems, but also benefits High-Performance Computing (HPC). The associated source code for f5c along with GPU optimised ABEA is available at https://github.com/hasindu2008/f5c.",
             "authors": [
                 "Hasindu Gamaarachchi",
                 "Chun Wai Lam",
@@ -282,7 +274,6 @@
             "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
             "venue": "Communications Biology",
             "year": "2020",
-            "abstract": "The advent of portable nanopore sequencing devices has enabled DNA and RNA sequencing to be performed in the field or the clinic. However, advances in in situ genomics require parallel development of portable, offline solutions for the computational analysis of sequencing data. Here we introduce Genopo, a mobile toolkit for nanopore sequencing analysis. Genopo compacts popular bioinformatics tools to an Android application, enabling fully portable computation. To demonstrate its utility for in situ genome analysis, we use Genopo to determine the complete genome sequence of the human coronavirus SARS-CoV-2 in nine patient isolates sequenced on a nanopore device, with Genopo executing this workflow in less than 30\u00e2\u0080\u0089min per sample on a range of popular smartphones. We further show how Genopo can be used to profile DNA methylation in a human genome sample, illustrating a flexible, efficient architecture that is suitable to run many popular bioinformatics tools and accommodate small or large genomes. As the first ever smartphone application for nanopore sequencing analysis, Genopo enables the genomics community to harness this cheap, ubiquitous computational resource.",
             "authors": [
                 "Hiruna Samarakoon",
                 "Sanoj Punchihewa",
@@ -316,7 +307,6 @@
             "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
             "venue": "MERcon",
             "year": "2020",
-            "abstract": "Low light image enhancement is an important challenge for the development of robust computer vision algorithms. The machine learning approaches to this have been either unsupervised, supervised based on paired dataset or supervised based on unpaired dataset. This paper presents a novel deep learning pipeline that can learn from both paired and unpaired datasets. Convolution Neural Networks (CNNs) that are optimized to minimize standard loss, and Generative Adversarial Networks (GANs) that are optimized to minimize the adversarial loss are used to achieve different steps of the low light image enhancement process. Cycle consistency loss and a patched discriminator are utilized to further improve the performance. The paper also analyses the functionality and the performance of different components, hidden layers, and the entire pipeline.",
             "authors": [
                 "Harshana Weligampola",
                 "Gihan Jayatilaka",
@@ -349,7 +339,6 @@
             "title": "Non-contact Infant Sleep Apnea Detection",
             "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
             "year": "2019",
-            "abstract": "Sleep apnea is a breathing disorder where a person repeatedly stops breathing in sleep. Early detection is crucial for infants because it might bring long term adversities. The existing accurate detection mechanism (pulse oximetry) is a skin contact measurement. The existing non-contact mechanisms (acoustics, video processing) are not accurate enough. This paper presents a novel algorithm for the detection of sleep apnea with video processing. The solution is non-contact, accurate and lightweight enough to run on a single board computer. The paper discusses the accuracy of the algorithm on real data, advantages of the new algorithm, its limitations and suggests future improvements.",
             "authors": [
                 "Gihan Jayatilaka",
                 "Harshana Weligampola",
@@ -383,7 +372,6 @@
             "title": "Chronic kidney disease prediction using machine learning methods",
             "venue": "2020 Moratuwa Engineering Research Conference (MERCon) - IEEE",
             "year": "2020",
-            "abstract": "Chronic Kidney Disease (CKD) or chronic renal disease has become a major issue with a steady growth rate. A person can only survive without kidneys for an average time of 18 days, which makes a huge demand for a kidney transplant and Dialysis. It is important to have effective methods for early prediction of CKD. Machine learning methods are effective in CKD prediction. This work proposes a workflow to predict CKD status based on clinical data, incorporating data prepossessing, a missing value handling method with collaborative filtering and attributes selection. Out of the 11 machine learning methods considered, the extra tree classifier and random forest classifier are shown to result in the highest accuracy and minimal bias to the attributes. The research also considers the practical aspects of data collection and highlights the importance of incorporating domain knowledge when using machine learning for CKD status prediction.",
             "authors": [
                 "Imesh Udara Ekanayake; Damayanthi Herath"
             ],
