@@ -1,5 +1,5 @@
-{%- assign hash_0 = include.email | split: "@" | first -%}
-{%- assign hash_1 = hash_0 | append: "target_" -%}
+{%- assign hash_0 = include.email | split: "@" | first | replace: ".", "_" -%}
+{%- assign hash_1 = hash_0 | append: "_target" | replace: ".", "_" -%}
 
 {%- if include.text -%}
     {%- assign text_msg = include.text -%}
