@@ -52,7 +52,7 @@ if __name__ == "__main__":
         print("Processing: " + studentData[REG_NO] + " " + studentData[NAME_WITH_INITIALS])
 
         nameConverted = studentData[NAME_WITH_INITIALS].replace(" ", "").replace(".", "")
-        permalink = f"/students/postgraduate/{nameConverted}"
+        permalink = f"/students/postgraduate/{nameConverted}/"
 
         # image
         image_path = f"images/students/postgraduate/{nameConverted}.jpg"
@@ -65,9 +65,9 @@ if __name__ == "__main__":
             # print(len(studentData[URL_IMAGE]))
             gdown.download("https://drive.google.com/uc?id=" +
                            studentData[PROFILE_PIC_LINK].split("=")[1].strip(), "../"+image_path, quiet=True)
-            # os.system(
-            #     f"wget https://drive.google.com/uc?id={studentData[URL_IMAGE].split('=')[1].strip()} -O ../{image_path}")
+
         else:
+            image_path = "images/students/default.jpg"
             print("Image not specified")
 
         # add # to all empty fields

@@ -7,13 +7,13 @@ This is the footer used in every page
         {%- comment -%}
         copyright text
         {%- endcomment -%}
-        <p class="col-md-6 mb-1 text-muted" style="font-size:80%;">&copy; COPYRIGHT {{site.time | date: "%Y" }} DEPARTMENT OF COMPUTER ENGINEERING, UOP<br>
+        <p class="col-md-6 mb-1 text-muted" style="font-size:100%;">&copy; COPYRIGHT {{site.time | date: "%Y" }} DEPARTMENT OF COMPUTER ENGINEERING, UOP<br>
             {%- comment -%}
             Last updated text
             {%- endcomment -%}
             Last Update : {{site.time | date: "%d/%m/%Y" }}
         </p>
-        <p class="text-xl-left text-muted" style="font-size:80%;">
+        <p class="text-xl-left text-muted" style="font-size:100%;">
 
             {%- comment -%}
             <a href="{{ '/search/' | relative_url }}">Search</a> |
@@ -44,9 +44,15 @@ This is the footer used in every page
                 <i class="fab fa-github"></i> Edit this page on GitHub</a>
             {% endif %}
 
-            {% if page.edit_link == "postgraduate_form" or page.layout == 'postgraduateDetails' %}
+            {% if page.edit_link == "postgraduate_form" %}
+            <!-- Show the link to Google Form -->
             <a href="https://forms.gle/mpo2jarU7b9eWz9F7" rel="noreferrer" target="_blank">
                 | Update via Google Form</a>
+            {% endif %}
+
+            {% if page.layout == 'postgraduateDetails' %}
+            <!-- Show the edit button -->
+            <a href="https://forms.gle/mpo2jarU7b9eWz9F7" id="editBtn" class="cd-top text-replace js-cd-top cd-top cd-top--fade-out bottomButtons0" rel="noreferrer" target="_blank" data-bs-toggle="modal" data-bs-target="#studentEditModel"></a>
             {% endif %}
 
             {%- comment -%}
