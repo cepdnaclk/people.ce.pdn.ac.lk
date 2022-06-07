@@ -4,6 +4,7 @@
     "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2020-2021",
     "image": "images/badges/aces.png",
     "show_in_profile": "false",
+    "criteria": "",
     "students":[
         {
             "eNumber": "E/15/299",
