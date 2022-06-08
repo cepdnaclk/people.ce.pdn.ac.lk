@@ -73,9 +73,9 @@ NOTES:
                 <li class="breadcrumb-item text-white">
                     {%- if page.preferred_long_name -%}
                     {{page.preferred_long_name}}
-                    {%- else if page.preferred_short_name -%}
+                    {%- elsif page.preferred_short_name -%}
                     {{page.preferred_short_name}}
-                    {%- else if page.name_with_initials -%}
+                    {%- elsif page.name_with_initials -%}
                     {{page.name_with_initials}}
                     {%- else -%}
                     {{page.reg_no}}
@@ -103,9 +103,9 @@ NOTES:
                         <h4>
                             {%- if page.preferred_short_name -%}
                             {{page.preferred_short_name}}
-                            {%- else if page.preferred_long_name -%}
+                            {%- elsif page.preferred_long_name -%}
                             {{page.preferred_long_name}}
-                            {%- else if page.name_with_initials -%}
+                            {%- elsif page.name_with_initials -%}
                             {{page.name_with_initials}}
                             {%- endif -%}
                         </h4>
