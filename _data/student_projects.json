@@ -4392,6 +4392,51 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
         }
     ],
+    "E/18/098": [
+        {
+            "title": "Smart Inventory Management System Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-A/"
+        }
+    ],
+    "E/18/100": [
+        {
+            "title": "Smart Inventory Management System Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-A/"
+        }
+    ],
+    "E/18/155": [
+        {
+            "title": "Smart Inventory Management System Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-A/"
+        }
+    ],
     "E/18/170": [
         {
             "title": "Image Data Handling System for Research Group A",
@@ -4407,6 +4452,36 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-A/"
         }
     ],
+    "E/18/180": [
+        {
+            "title": "Poultry Feed Efficiency Tracking System Group 17",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Poultry-Feed-Efficiency-Tracking-System-Group-17/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-17",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-17",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-17/"
+        }
+    ],
+    "E/18/266": [
+        {
+            "title": "Poultry Feed Efficiency Tracking System Group 17",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Poultry-Feed-Efficiency-Tracking-System-Group-17/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-17",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-17",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-17/"
+        }
+    ],
     "E/18/382": [
         {
             "title": "Image Data Handling System for Research Group A",
@@ -4420,6 +4495,21 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Image-Data-Handling-System-for-Research-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-A/"
+        }
+    ],
+    "E/18/397": [
+        {
+            "title": "Poultry Feed Efficiency Tracking System Group 17",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Poultry-Feed-Efficiency-Tracking-System-Group-17/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-17",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-17",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-17/"
         }
     ],
     "E/18/398": [
