@@ -1327,6 +1327,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-A/"
         },
         {
+            "title": "Smart Inventory Management System Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-A/"
+        },
+        {
             "title": "RISCV pipeline cpu implementation group04",
             "category": {
                 "code": "co502",
@@ -1727,6 +1740,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co502/E16/RISCV-Pipeline-CPU-Implimentation-Group2/"
         }
     ],
+    "nadeeshaa@eng.pdn.ac.lk": [
+        {
+            "title": "Poultry Feed Efficiency Tracking System Group 17",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Poultry-Feed-Efficiency-Tracking-System-Group-17/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-17",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-17",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-17/"
+        }
+    ],
     "namal@eng.pdn.ac.lk": [
         {
             "title": "automatic fish tank control system",
@@ -1794,6 +1822,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-co328-Document-Tag-Generator",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Document-Tag-Generator/"
+        },
+        {
+            "title": "Smart Inventory Management System Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-A/"
         }
     ],
     "pcgunathilake@gmail.com": [
