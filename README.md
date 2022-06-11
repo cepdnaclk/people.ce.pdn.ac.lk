@@ -6,7 +6,7 @@ This repository contains the source code for [https://people.ce.pdn.ac.lk/](http
 
 Currently, the site is built by GitHub Pages itself once there is commit to the _main_ branch.
 
-If you are interested in build the site in a local environment, info on how to build can be found [here](https://cepdnaclk.github.io/people.ce.pdn.ac.lk/documentation/run-locally/).
+If you are interested in build the site in a local environment, info on how to build can be found [here](https://people.ce.pdn.ac.lk/documentation/run-locally/).
 
 ## Contact Info
 
@@ -14,14 +14,14 @@ If you have any doubt about implementation or need to report a bug or a suggesti
 
 ### Developers
 
-- Nuwan Jaliyagoda (<a href="mailto:nuwanjaliyagoda@eng.pdn.ac.lk">nuwanjaliyagoda@eng.pdn.ac.lk</a> | <a href="https://cepdnaclk.github.io/people.ce.pdn.ac.lk/students/e15/140/">more info</a>)
+- Nuwan Jaliyagoda (<a href="mailto:nuwanjaliyagoda@eng.pdn.ac.lk">nuwanjaliyagoda@eng.pdn.ac.lk</a> | <a href="https://people.ce.pdn.ac.lk/students/e15/140/">more info</a>)
 - Akila Karunanayake (<a href="mailto:
 e17154@eng.pdn.ac.lk">
-e17154@eng.pdn.ac.lk</a> | <a href="https://cepdnaclk.github.io/people.ce.pdn.ac.lk/students/e17/154/">more info</a>)
-- Ishan Fernando (<a href="mailto:e18098@eng.pdn.ac.lk">e18098@eng.pdn.ac.lk</a> | <a href="https://cepdnaclk.github.io/people.ce.pdn.ac.lk/students/e18/098/">more info</a> )
+e17154@eng.pdn.ac.lk</a> | <a href="https://people.ce.pdn.ac.lk/students/e17/154/">more info</a>)
+- Ishan Fernando (<a href="mailto:e18098@eng.pdn.ac.lk">e18098@eng.pdn.ac.lk</a> | <a href="https://people.ce.pdn.ac.lk/students/e18/098/">more info</a> )
 - Piumal Rathnayake (<a href="mailto:
 e18297@eng.pdn.ac.lk">
-e18297@eng.pdn.ac.lk</a> | <a href="https://cepdnaclk.github.io/people.ce.pdn.ac.lk/students/e18/297/">more info</a> )
+e18297@eng.pdn.ac.lk</a> | <a href="https://people.ce.pdn.ac.lk/students/e18/297/">more info</a> )
 ### Contribute
 
 If you are willing to contribute to improving this website, please feel free to send us a pull request or contact one of the developers.
