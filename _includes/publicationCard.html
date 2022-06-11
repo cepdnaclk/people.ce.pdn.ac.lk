@@ -4,8 +4,12 @@
     <div class="row g-0">
         <div class="container">
             <div class="clearfix">
-                {{ pub.authors | join: ", " }}, <b>"{{ pub.title }}"</b>, <i>{{ pub.venue }}</i>, {{ pub.year }}, <a class="text-muted" href="{{p.doi}}" target="_blank">{{ p.doi }}</a>
-
+                <b><span class="text-primary">{{ pub.title }}</span></b><br>
+                {{ pub.authors | join: ", " }},
+                <i>{{ pub.venue }}</i>, {{ pub.year }}<br>
+                <span>
+                    doi: <a class="text-muted" href="{{p.doi}}" target="_blank">{{ p.doi | replace: "https://doi.org/", "" }}</a>
+                </span>
             </div>
 
             <div class="row pt-2">
