@@ -10,6 +10,7 @@ import os
 import gdown  # pip install gdown
 import datetime
 import shutil
+import json
 
 googleFromCSV_link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR6ntuDUUuzQS84Am7NMcCc6LCTYKmUfMbVhp4dvy1AXWoVxNrjWfeQntWg5cAfLsFvb4WASQRp-erT/pub?output=csv"
 googleFromCSV = requests.get(googleFromCSV_link, headers={
@@ -51,6 +52,8 @@ if __name__ == "__main__":
         # print(studentData)
         print("Processing: " + studentData[REG_NO] + " " + studentData[NAME_WITH_INITIALS])
 
+        print(json.dumps(studentData, indent = 4))
+
         nameConverted = studentData[NAME_WITH_INITIALS].replace(" ", "").replace(".", "")
         permalink = f"/students/postgraduate/{nameConverted}/"
 
@@ -75,13 +78,18 @@ if __name__ == "__main__":
             if studentData[i] == "":
                 studentData[i] = "#"
 
+        reg_number = studentData[REG_NO]
+        if(reg_number.lower() == "provisional"):
+            # Some will not type it in the correct case
+            reg_number = "Provisional"
+
         outputString = f"""---
 layout: postgraduateDetails
 permalink: "{permalink}"
 title: {studentData[NAME_WITH_INITIALS]}
 index_in_card_list: {int(elapsedTimeFromTheStartOfTime)}
 
-reg_no: {studentData[REG_NO]}
+reg_no: {reg_number}
 name_with_initials: {studentData[NAME_WITH_INITIALS]}
 email: {studentData[EMAIL]}
 url_website: {studentData[WEBSITE_URL]}
