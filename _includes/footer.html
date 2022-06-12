@@ -4,50 +4,30 @@ This is the footer used in every page
 
 <div class="container">
     <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
-        {%- comment -%}
-        copyright text
-        {%- endcomment -%}
-        <p class="col-md-6 mb-1 text-muted" style="font-size:100%;">&copy; COPYRIGHT {{site.time | date: "%Y" }} DEPARTMENT OF COMPUTER ENGINEERING, UOP<br>
-            {%- comment -%}
-            Last updated text
-            {%- endcomment -%}
+        <p class="col-md-6 mb-1 text-muted" style="font-size:100%;">
+            Copyright &copy; {{site.time | date: "%Y" }}<br>
+            Department of Computer Engineering, UOP<br>
             Last Update : {{site.time | date: "%d/%m/%Y" }}
         </p>
+
         <p class="text-xl-left text-muted" style="font-size:100%;">
-
-            {%- comment -%}
-            <a href="{{ '/search/' | relative_url }}">Search</a> |
-            {%- endcomment -%}
-
-            {%- comment -%}
-            Documentation link
-            {%- endcomment -%}
             <a href="{{ '/documentation/' | relative_url }}">Documentation</a>
 
-
-            {%- comment -%}
-            Edit this page on github link
-            {%- endcomment -%}
-
             {% if page.type == "Academic Support" %}
-            | <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/academic_support_staff.json" rel="noreferrer" target="_blank">
-                <i class="fab fa-github"></i> Edit this page on GitHub</a>
+            &nbsp;| <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/academic_support_staff.json" rel="noreferrer" target="_blank"><i class="fab fa-github"></i> Edit Details</a>
             {% endif %}
 
             {% if page.type == "Temporary Academic" %}
-            | <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/temporary_academic_staff.json" rel="noreferrer" target="_blank">
-                <i class="fab fa-github"></i> Edit this page on GitHub</a>
+            &nbsp;| <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/temporary_academic_staff.json" rel="noreferrer" target="_blank"><i class="fab fa-github"></i> Edit Details</a>
             {% endif %}
 
             {% if page.type == "Past Heads of Dept" %}
-            <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/past_heads_of_dep.json" rel="noreferrer" target="_blank">
-                <i class="fab fa-github"></i> Edit this page on GitHub</a>
+            <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/past_heads_of_dep.json" rel="noreferrer" target="_blank"><i class="fab fa-github"></i> Edit Details</a>
             {% endif %}
 
             {% if page.edit_link == "postgraduate_form" %}
             <!-- Show the link to Google Form -->
-            <a href="https://forms.gle/mpo2jarU7b9eWz9F7" rel="noreferrer" target="_blank">
-                | Update via Google Form</a>
+            &nbsp;| <a href="https://forms.gle/mpo2jarU7b9eWz9F7" rel="noreferrer" target="_blank">Update via Google Form</a>
             {% endif %}
 
             {% if page.layout == 'postgraduateDetails' %}
@@ -55,57 +35,62 @@ This is the footer used in every page
             <a href="https://forms.gle/mpo2jarU7b9eWz9F7" id="editBtn" class="cd-top text-replace js-cd-top cd-top cd-top--fade-out bottomButtons0" rel="noreferrer" target="_blank"></a>
             {% endif %}
 
-            {%- comment -%}
-            Google form links to update page
-            {%- endcomment -%}
+            {% if page.layout == 'society_page' %}
+            &nbsp;| <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/societies" rel="noreferrer" target="_blank"><i class="fab fa-github"></i> Edit Details</a>
+            {% endif %}
+
+            {% if page.layout == 'badge_page' %}
+            &nbsp;| <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/badges" rel="noreferrer" target="_blank"><i class="fab fa-github"></i> Edit Details</a>
+            {% endif %}
+
             {% if page.layout == "studentDetails" %}
-            | <a href="{{ '/form/unified' | relative_url }}" rel="noreferrer" target="_blank">
+            &nbsp;| <a href="{{ '/form/unified' | relative_url }}" rel="noreferrer" target="_blank">
                 Update via Google Form </a>
+                {% endif %}
+
+                {% if page.layout == "studentList_no_prof_link" %}
+                | <a href="{{ '/form/unified' | relative_url }}" rel="noreferrer" target="_blank">
+                    Update via Google Form </a>
+                    {% endif %}
+                </p>
+            </footer>
+
+            {% if page.layout == "studentDetails" or page.layout == "studentDetails_temp" %}
+            {% include student_edit_button.html path=page.path  %}
             {% endif %}
 
-            {% if page.layout == "studentList_no_prof_link" %}
-            | <a href="{{ '/form/unified' | relative_url }}" rel="noreferrer" target="_blank">
-                Update via Google Form </a>
+            {% if page.layout == "staffDetails" or page.permalink contains "documentation" %}
+            {% include staff_edit_button.html path=page.path  %}
             {% endif %}
-        </p>
-    </footer>
+        </div>
 
-    {% if page.layout == "studentDetails" or page.layout == "studentDetails_temp" %}
-    {% include student_edit_button.html path=page.path  %}
-    {% endif %}
+        {%- if page.layout=="documentation" -%}
+        {%- comment -%}
+        Add the syntax highlighter for the documentation pages
+        {%- endcomment -%}
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+        <script>
+            hljs.initHighlightingOnLoad();
+        </script>
 
-    {% if page.layout == "staffDetails" or page.permalink contains "documentation" %}
-    {% include staff_edit_button.html path=page.path  %}
-    {% endif %}
-</div>
+        {%- comment -%}
+        PhotoSwipe 5.0 beta, only used in documentation
+        {%- endcomment -%}
+        <script type="module">
+            // Include Lightbox
+            import PhotoSwipeLightbox from "{{'assets / js / photoswipe - lightbox.esm.js' | remove:" " | relative_url}}";
 
-{%- if page.layout=="documentation" -%}
-{%- comment -%}
-Add the syntax highlighter for the documentation pages
-{%- endcomment -%}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
-<script>
-    hljs.initHighlightingOnLoad();
-</script>
+            const lightbox = new PhotoSwipeLightbox({
+                // may select multiple "galleries"
+                gallery: '#gallery--simple',
 
-{%- comment -%}
-PhotoSwipe 5.0 beta, only used in documentation
-{%- endcomment -%}
-<script type="module">
-    // Include Lightbox
-    import PhotoSwipeLightbox from "{{'assets / js / photoswipe - lightbox.esm.js' | remove:" " | relative_url}}";
+                // Elements within gallery (slides)
+                children: 'a',
 
-    const lightbox = new PhotoSwipeLightbox({
-        // may select multiple "galleries"
-        gallery: '#gallery--simple',
-
-        // Elements within gallery (slides)
-        children: 'a',
-
-        // Include PhotoSwipe Core
-        // and use absolute path (that starts with http(s)://)
-        pswpModule: "{{'assets/js/photoswipe.esm.js' | remove:" " | relative_url}}"
-    });
-    lightbox.init();
-</script>
-{%- endif -%}
+                // Include PhotoSwipe Core
+                // and use absolute path (that starts with http(s)://)
+                pswpModule: "{{'assets/js/photoswipe.esm.js' | remove:" " | relative_url}}"
+            });
+            lightbox.init();
+        </script>
+        {%- endif -%}
