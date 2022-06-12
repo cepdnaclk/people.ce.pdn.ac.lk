@@ -42,7 +42,7 @@ jobs:
           python3 download_staff_pages_from_drive.py
           cd ../
           
-      - name: Update postgrad students from google form
+      - name: Update postgrad students from Google Form
         run: |
           cd ./python_scripts
           python3 update_postgrad_from_google_form.py
@@ -52,6 +52,12 @@ jobs:
         run: |
           cd ./python_scripts
           python3 update_badges.py
+          cd ../
+
+      - name: Update ACES Committee Details
+        run: |
+          cd ./python_scripts
+          python3 update_socities.py
           cd ../
 
       - name: Commit and push into the main branch
