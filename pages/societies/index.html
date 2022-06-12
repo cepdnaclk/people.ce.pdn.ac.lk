@@ -1,0 +1,44 @@
+---
+layout: default
+permalink: /societies/
+title: Past Committees of Student Societies
+---
+
+<!-- breadcrumb -->
+<main class="container">
+    <div class="bg-secondary p-3 pb-1 rounded">
+        <h1 class="text-white">Past Committees of Student Societies</h1>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
+                <li class="breadcrumb-item text-white"><a>Societies</a></li>
+            </ol>
+        </nav>
+    </div>
+</main>
+
+{% assign pages = site.pages | where: "layout", "society_page" | reverse %}
+<div class="container py-4 px-lg-5">
+    <div class="row">
+        {% for p in pages %}
+        <div class="col-sm-12 col-md-6 mb-3">
+            <div class="card h-100">
+                <div class="row g-0">
+                    <div class="col-md-4 d-flex justify-content-center align-items-center">
+                        <img src="{{ p.badge_image | relative_url }}" class="img-fluid rounded-start" alt="{{p.title}}">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ p.title }}</h5>
+                            <p class="card-text">{{ p.badge_description }}</p>
+                            <a href="{{ p.permalink | relative_url }}" class="card-link">Explore</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        {% endfor %}
+    </div>
+</div>

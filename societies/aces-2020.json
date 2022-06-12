@@ -1,5 +1,5 @@
 {
-    "title": "ACES Committee 2020-21",
+    "title": "ACES Committee 2020-2021",
     "tag": "aces-2020",
     "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2020-2021",
     "image": "images/badges/aces.png",
@@ -22,19 +22,9 @@
             "position": "Vice President"
         },
         {
-            "eNumber": "E//",
-            "name": "Nipun Dewanarayane",
-            "position": "Junior Treasurer"
-        },
-        {
-            "eNumber": "E/17/077",
+            "eNumber": "E/15/077",
             "name": "Kshithija Dilhani",
             "position": "Editor"
-        },
-        {
-            "eNumber": "E/17/018",
-            "name": "Imesh Balasuriya",
-            "position": "Assistant Secretary"
         },
         {
             "eNumber": "E/15/065",
@@ -47,13 +37,8 @@
             "position": "Committee Member"
         },
         {
-            "eNumber": "E//",
-            "name": "Wishva Madushanka",
-            "position": "Committee Member"
-        },
-        {
-            "eNumber": "E//",
-            "name": "Nadun Welikanda",
+            "eNumber": "E/15/265",
+            "name": "Risith Ravisara",
             "position": "Committee Member"
         },
         {
@@ -62,18 +47,28 @@
             "position": "Committee Member"
         },
         {
-            "eNumber": "E//",
-            "name": "Madush Dilshan",
+            "eNumber": "E/16/389",
+            "name": "Nadun Welikanda",
             "position": "Committee Member"
         },
         {
-            "eNumber": "E//",
+            "eNumber": "E/16/222",
+            "name": "Wishva Madushanka",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/17/398",
+            "name": "Hashini Wijerathne",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/17/065",
             "name": "Kanishka Dilhan",
             "position": "Committee Member"
         },
         {
-            "eNumber": "E//",
-            "name": "Hashini Wijerathne",
+            "eNumber": "E/17/018",
+            "name": "Imesh Balasuriya",
             "position": "Committee Member"
         }
     ]

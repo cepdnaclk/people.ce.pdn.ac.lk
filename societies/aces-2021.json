@@ -1,0 +1,70 @@
+{
+    "title": "ACES Committee 2021-2022",
+    "tag": "aces-2021",
+    "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2021-2022",
+    "image": "images/badges/aces.png",
+    "show_in_profile": "false",
+    "criteria": "",
+    "students":[
+        {
+            "eNumber": "E/16/332",
+            "position": "President"
+        },
+        {
+            "eNumber": "E/17/018",
+            "position": "Secretary"
+        },
+        {
+            "eNumber": "E/16/388",
+            "position": "Vice President"
+        },
+        {
+            "eNumber": "E/18/155",
+            "position": "Assistant Secretary"
+        },
+        {
+            "eNumber": "",
+            "name": "Nanduni Gamage",
+            "position": "Editor"
+        },
+        {
+            "eNumber": "",
+            "name": "Isara Tillekaratne",
+            "position": "Junior Editor"
+        },
+        {
+            "eNumber": "",
+            "name": "Kavindu Hewamanage",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "",
+            "name": "Deshan Liyanaarachchi",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/16/088",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/17/027",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/17/091",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/18/149",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/18/330",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/18/354",
+            "position": "Committee Member"
+        }
+    ]
+}
