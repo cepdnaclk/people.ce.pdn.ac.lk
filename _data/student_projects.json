@@ -4392,6 +4392,36 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
         }
     ],
+    "E/18/010": [
+        {
+            "title": "Department Course Page Group B",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Department-Course-Page-Group-B/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-B",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-B",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-B/"
+        }
+    ],
+    "E/18/077": [
+        {
+            "title": "Department Course Page Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Department-Course-Page-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
+        }
+    ],
     "E/18/098": [
         {
             "title": "Smart Inventory Management System Group A",
@@ -4420,6 +4450,21 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-A/"
+        }
+    ],
+    "E/18/147": [
+        {
+            "title": "Smart Inventory Management System Group B",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-B/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-B",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-B",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-B/"
         }
     ],
     "E/18/155": [
@@ -4467,6 +4512,96 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-17/"
         }
     ],
+    "E/18/181": [
+        {
+            "title": "Augmented Reality Guidance System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Augmented-Reality-Guidance-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Augmented-Reality-Guidance-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Augmented-Reality-Guidance-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Augmented-Reality-Guidance-System/"
+        }
+    ],
+    "E/18/203": [
+        {
+            "title": "Department Course Page Group B",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Department-Course-Page-Group-B/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-B",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-B",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-B/"
+        }
+    ],
+    "E/18/224": [
+        {
+            "title": "Department Course Page Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Department-Course-Page-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
+        }
+    ],
+    "E/18/227": [
+        {
+            "title": "Department Course Page Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Department-Course-Page-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
+        }
+    ],
+    "E/18/242": [
+        {
+            "title": "Smart Inventory Management System Group B",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-B/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-B",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-B",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-B/"
+        }
+    ],
+    "E/18/264": [
+        {
+            "title": "Department Course Page Group B",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Department-Course-Page-Group-B/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-B",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-B",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-B/"
+        }
+    ],
     "E/18/266": [
         {
             "title": "Poultry Feed Efficiency Tracking System Group 17",
@@ -4480,6 +4615,36 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-17",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-17/"
+        }
+    ],
+    "E/18/297": [
+        {
+            "title": "Augmented Reality Guidance System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Augmented-Reality-Guidance-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Augmented-Reality-Guidance-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Augmented-Reality-Guidance-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Augmented-Reality-Guidance-System/"
+        }
+    ],
+    "E/18/379": [
+        {
+            "title": "Smart Inventory Management System Group B",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-B/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-B",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-B",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-B/"
         }
     ],
     "E/18/382": [
@@ -4525,6 +4690,21 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Image-Data-Handling-System-for-Research-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-A/"
+        }
+    ],
+    "E/18/402": [
+        {
+            "title": "Augmented Reality Guidance System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Augmented-Reality-Guidance-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Augmented-Reality-Guidance-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Augmented-Reality-Guidance-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Augmented-Reality-Guidance-System/"
         }
     ]
 }
