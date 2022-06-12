@@ -32,7 +32,9 @@ title: Past Committees of Student Societies
                         <div class="card-body">
                             <h5 class="card-title">{{ p.title }}</h5>
                             <p class="card-text">{{ p.badge_description }}</p>
-                            <a href="{{ p.permalink | relative_url }}" class="card-link">Explore</a>
+                            <div class="text-end clearfix">
+                                <a href="{{ p.permalink | relative_url }}" class="card-link mx-3">Explore</a>
+                            </div>
                         </div>
                     </div>
                 </div>
