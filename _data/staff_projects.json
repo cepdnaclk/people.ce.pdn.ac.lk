@@ -174,6 +174,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-co328-apparel-industry-performance-analyser",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/apparel-industry-performance-analyser/"
+        },
+        {
+            "title": "Logging Microservice for IoT based Smart Agriculture Project",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Logging-Microservice-for-IoT-based-Smart-Agriculture-Project/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Logging-Microservice-for-IoT-based-Smart-Agriculture-Project",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Logging-Microservice-for-IoT-based-Smart-Agriculture-Project",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Logging-Microservice-for-IoT-based-Smart-Agriculture-Project/"
         }
     ],
     "asithab@pdn.ac.lk": [
@@ -415,6 +428,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-co328-Flood-Forecasting-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Flood-Forecasting-System/"
+        },
+        {
+            "title": "Automated Notification System for Examinations",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Automated-Notification-System-for-Examinations/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Automated-Notification-System-for-Examinations",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Automated-Notification-System-for-Examinations",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Automated-Notification-System-for-Examinations/"
         },
         {
             "title": "Department Course Page Group B",
@@ -1530,6 +1556,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co502/E16/RISCV-Pipeline-CPU-Implimentation-Group2/"
         }
     ],
+    "kalaniu@eng.pdn.ac.lk": [
+        {
+            "title": "Poultry Feed Efficiency Tracking System Group 12",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Poultry-Feed-Efficiency-Tracking-System-Group-12/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-12/"
+        }
+    ],
     "kamalanath@eng.pdn.ac.lk ": [
         {
             "title": "Remotely Controlled CNC Robot",
@@ -1586,6 +1627,21 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Image-Data-Handling-System-for-Research-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-B/"
+        }
+    ],
+    "lankaniperera@eng.pdn.ac.lk": [
+        {
+            "title": "Auto Marking and Student Performance Analyser System for Continuous Assessments Group B",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B/"
         }
     ],
     "mahanamaw@eng.pdn.ac.lk": [
@@ -1798,6 +1854,32 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-shopping-cart/"
         },
         {
+            "title": "Auto Marking and Student Performance Analyser System for Continuous Assessments Group B",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B/"
+        },
+        {
+            "title": "Automated Notification System for Examinations",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Automated-Notification-System-for-Examinations/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Automated-Notification-System-for-Examinations",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Automated-Notification-System-for-Examinations",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Automated-Notification-System-for-Examinations/"
+        },
+        {
             "title": "RISCV pipeline cpu implementation group04",
             "category": {
                 "code": "co502",
@@ -1866,6 +1948,19 @@
         }
     ],
     "nadeeshaa@eng.pdn.ac.lk": [
+        {
+            "title": "Poultry Feed Efficiency Tracking System Group 12",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Poultry-Feed-Efficiency-Tracking-System-Group-12/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-12/"
+        },
         {
             "title": "Poultry Feed Efficiency Tracking System Group 17",
             "category": {
@@ -2591,6 +2686,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-co328-Document-Tag-Generator",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Document-Tag-Generator/"
+        },
+        {
+            "title": "Logging Microservice for IoT based Smart Agriculture Project",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Logging-Microservice-for-IoT-based-Smart-Agriculture-Project/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Logging-Microservice-for-IoT-based-Smart-Agriculture-Project",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Logging-Microservice-for-IoT-based-Smart-Agriculture-Project",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Logging-Microservice-for-IoT-based-Smart-Agriculture-Project/"
         }
     ],
     "upuljm@eng.pdn.ac.lk": [
