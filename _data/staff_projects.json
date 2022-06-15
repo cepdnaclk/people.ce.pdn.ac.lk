@@ -1631,6 +1631,19 @@
     ],
     "lankaniperera@eng.pdn.ac.lk": [
         {
+            "title": "Auto Marking and Student Performance Analyser System for Continuous Assessments Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A/"
+        },
+        {
             "title": "Auto Marking and Student Performance Analyser System for Continuous Assessments Group B",
             "category": {
                 "code": "co227",
@@ -1852,6 +1865,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-shopping-cart",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-shopping-cart/"
+        },
+        {
+            "title": "Auto Marking and Student Performance Analyser System for Continuous Assessments Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A/"
         },
         {
             "title": "Auto Marking and Student Performance Analyser System for Continuous Assessments Group B",
