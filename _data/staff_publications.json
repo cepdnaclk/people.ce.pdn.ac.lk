@@ -34,6 +34,42 @@
             ]
         }
     },
+    "dewasuren@eng.pdn.ac.lk": {
+        "publication_count": 1,
+        "year_count": 1,
+        "publications": {
+            "2012": [
+                {
+                    "title": "Commentz-walter: Any better than aho-corasick for peptide identification?",
+                    "venue": "International Journal of Research in Computer Science",
+                    "year": "2012",
+                    "authors": [
+                        "SM Vidanagamachchi",
+                        "SD Dewasurendra",
+                        "RG Ragel",
+                        "M Niranjan"
+                    ],
+                    "doi": "https://doi.org/10.7815/ijorcs.26.2012.053",
+                    "preprint": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
+                    "pdf": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Aho-Corasick",
+                        "Commentz-Walter",
+                        "Peptide Identification"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7815/ijorcs.26.2012.053/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7815/ijorcs.26.2012.053/index.json"
+                }
+            ]
+        }
+    },
     "isurunawinne@eng.pdn.ac.lk": {
         "publication_count": 1,
         "year_count": 1,
@@ -74,45 +110,80 @@
             ]
         }
     },
+    "manjula.sandirigama@eng.pdn.ac.lk": {
+        "publication_count": 1,
+        "year_count": 1,
+        "publications": {
+            "2009": [
+                {
+                    "title": "Security weaknesses of WEP protocol IEEE 802.11b and enhancing the security with dynamic keys",
+                    "venue": "2009 IEEE Toronto International Conference Science and Technology for Humanity (TIC-STH)",
+                    "year": "2009",
+                    "authors": [
+                        "Manjula Sandirigama",
+                        "Rasika Idamekorala"
+                    ],
+                    "doi": "https://doi.org/10.1109/TIC-STH.2009.5444462",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)",
+                        "Nextgen Networks"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Authentication",
+                        "Cryptography",
+                        "Data security",
+                        "Random number generation",
+                        "Computer security",
+                        "Communication system security",
+                        "Data communication",
+                        "Access protocols",
+                        "Computer hacking",
+                        "Information security"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/TIC-STH.2009.5444462/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/TIC-STH.2009.5444462/index.json"
+                }
+            ]
+        }
+    },
     "roshanr@eng.pdn.ac.lk": {
         "publication_count": 1,
         "year_count": 1,
         "publications": {
-            "2021": [
+            "2012": [
                 {
-                    "title": "An optical physics inspired CNN approach for intrinsic image decomposition",
-                    "venue": "2021 IEEE International Conference on Image Processing (ICIP)",
-                    "year": "2021",
+                    "title": "Commentz-walter: Any better than aho-corasick for peptide identification?",
+                    "venue": "International Journal of Research in Computer Science",
+                    "year": "2012",
                     "authors": [
-                        "Harshana Weligampola",
-                        "Gihan Jayatilaka",
-                        "Suren Sritharan",
-                        "Parakrama Ekanayake",
-                        "Roshan Ragel",
-                        "Vijitha Herath",
-                        "Roshan Godaliyadda"
+                        "SM Vidanagamachchi",
+                        "SD Dewasurendra",
+                        "RG Ragel",
+                        "M Niranjan"
                     ],
-                    "doi": "https://doi.org/10.1109/ICIP42928.2021.9506375",
-                    "preprint": "https://arxiv.org/pdf/2105.10076",
-                    "pdf": "#",
-                    "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/icip-2021-presentation.pdf",
-                    "project": "https://projects.ce.pdn.ac.lk/4yp/e14/dark-arts-algorithms-for-low-light-image-enhancement-and-interpretation/",
+                    "doi": "https://doi.org/10.7815/ijorcs.26.2012.053",
+                    "preprint": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
+                    "pdf": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
+                    "presentation": "#",
+                    "project": "#",
                     "codebase": "#",
                     "researchgroups": [
-                        "Computer Vision"
+                        ""
                     ],
                     "funding": "",
                     "tags": [
-                        "Reflectivity",
-                        "Neural networks",
-                        "Optical fiber networks",
-                        "Optical imaging",
-                        "Image decomposition",
-                        "Numerical models",
-                        "Optical reflection"
+                        "Aho-Corasick",
+                        "Commentz-Walter",
+                        "Peptide Identification"
                     ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIP42928.2021.9506375/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIP42928.2021.9506375/index.json"
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7815/ijorcs.26.2012.053/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7815/ijorcs.26.2012.053/index.json"
                 }
             ]
         }
