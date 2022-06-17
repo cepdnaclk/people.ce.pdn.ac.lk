@@ -20,5 +20,6 @@ Gemfile.lock
 ehthumbs.db
 Thumbs.db
 
+# force rebuild as previous one failed
 personalNotes.txt
 *.pyc
