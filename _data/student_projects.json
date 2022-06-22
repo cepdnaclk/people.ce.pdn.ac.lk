@@ -2242,19 +2242,6 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-nearIR-spectroscopy",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/nearIR-spectroscopy/"
-        },
-        {
-            "title": "Molding Machine Dashboard",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Molding-Machine-Dashboard/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co227-Molding-Machine-Dashboard",
-            "page_url": "https://cepdnaclk.github.io/e18-co227-Molding-Machine-Dashboard",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Molding-Machine-Dashboard/"
         }
     ],
     "E/15/350": [
@@ -4982,6 +4969,21 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B/"
+        }
+    ],
+    "E/18/349": [
+        {
+            "title": "Molding Machine Dashboard",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Molding-Machine-Dashboard/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Molding-Machine-Dashboard",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Molding-Machine-Dashboard",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Molding-Machine-Dashboard/"
         }
     ],
     "E/18/354": [
