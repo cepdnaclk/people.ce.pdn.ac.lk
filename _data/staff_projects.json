@@ -81,6 +81,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-B/"
+        },
+        {
+            "title": "Smart Inventory Management System Group C",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-C/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-C",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
         }
     ],
     "asithab@eng.pdn.ac.lk": [
@@ -1489,6 +1502,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-B/"
         },
         {
+            "title": "Smart Inventory Management System Group C",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-C/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-C",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
+        },
+        {
             "title": "RISCV pipeline cpu implementation group04",
             "category": {
                 "code": "co502",
@@ -1694,6 +1720,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B/"
+        },
+        {
+            "title": "Postgraduate Student Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Postgraduate-Student-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Postgraduate-Student-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Postgraduate-Student-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Postgraduate-Student-Management-System/"
         }
     ],
     "mahanamaw@eng.pdn.ac.lk": [
@@ -2038,6 +2077,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-17",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-17/"
+        },
+        {
+            "title": "SnaT Meal Tracking App Group B",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/SnaT-Meal-Tracking-App-Group-B/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-SnaT-Meal-Tracking-App-Group-B",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-B",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-B/"
         }
     ],
     "namal@eng.pdn.ac.lk": [
@@ -2185,6 +2237,32 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-B/"
+        },
+        {
+            "title": "Smart Inventory Management System Group C",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-C/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-C",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
+        },
+        {
+            "title": "SnaT Meal Tracking App Group B",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/SnaT-Meal-Tracking-App-Group-B/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-SnaT-Meal-Tracking-App-Group-B",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-B",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-B/"
         }
     ],
     "pcgunathilake@gmail.com": [
@@ -2948,6 +3026,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/road-accident-analyzer/"
+        },
+        {
+            "title": "Postgraduate Student Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Postgraduate-Student-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Postgraduate-Student-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Postgraduate-Student-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Postgraduate-Student-Management-System/"
         }
     ],
     "ziyanm@eng.pdn.ac.lk": [
