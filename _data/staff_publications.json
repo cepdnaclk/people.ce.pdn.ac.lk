@@ -38,20 +38,18 @@
         "publication_count": 1,
         "year_count": 1,
         "publications": {
-            "2012": [
+            "2021": [
                 {
-                    "title": "Commentz-walter: Any better than aho-corasick for peptide identification?",
-                    "venue": "International Journal of Research in Computer Science",
-                    "year": "2012",
+                    "title": "A Novel FPGA Architecture of Commentz-Walter Algorithm using Bit-Split String-Matching Engines",
+                    "venue": "2021 21st International Conference on Advances in ICT for Emerging Regions (ICter)",
+                    "year": "2021",
                     "authors": [
-                        "SM Vidanagamachchi",
-                        "SD Dewasurendra",
-                        "RG Ragel",
-                        "M Niranjan"
+                        "Sugandima M. Vidanagamachchi",
+                        "Shirley D. Dewasurendra"
                     ],
-                    "doi": "https://doi.org/10.7815/ijorcs.26.2012.053",
-                    "preprint": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
-                    "pdf": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
+                    "doi": "https://doi.org/10.1109/ICter53630.2021.9774805",
+                    "preprint": "#",
+                    "pdf": "#",
                     "presentation": "#",
                     "project": "#",
                     "codebase": "#",
@@ -60,12 +58,55 @@
                     ],
                     "funding": "",
                     "tags": [
-                        "Aho-Corasick",
-                        "Commentz-Walter",
-                        "Peptide Identification"
+                        "Proteins",
+                        "Software algorithms",
+                        "Computer architecture",
+                        "Logic gates",
+                        "Hardware",
+                        "Software",
+                        "Registers"
                     ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7815/ijorcs.26.2012.053/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7815/ijorcs.26.2012.053/index.json"
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICter53630.2021.9774805/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICter53630.2021.9774805/index.json"
+                }
+            ]
+        }
+    },
+    "dhammika@eng.pdn.ac.lk": {
+        "publication_count": 1,
+        "year_count": 1,
+        "publications": {
+            "2021": [
+                {
+                    "title": "Offloading specific performance-related kernel functions into an FPGA",
+                    "venue": "2021 IEEE 30th International Symposium on Industrial Electronics (ISIE)",
+                    "year": "2021",
+                    "authors": [
+                        "Pabudi T Abeyrathne",
+                        "S. Devapriya Dewasurendra",
+                        "Dhammika Elkaduwa"
+                    ],
+                    "doi": "https://doi.org/10.1109/ISIE45552.2021.9576256",
+                    "preprint": "https://www.academia.edu/download/75534730/KF_003255_ISIE2021paper.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Performance evaluation",
+                        "Protocols",
+                        "Profitability",
+                        "Linux",
+                        "Computer architecture",
+                        "Software",
+                        "Security"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ISIE45552.2021.9576256/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ISIE45552.2021.9576256/index.json"
                 }
             ]
         }
@@ -156,20 +197,20 @@
         "publication_count": 1,
         "year_count": 1,
         "publications": {
-            "2012": [
+            "2014": [
                 {
-                    "title": "Commentz-walter: Any better than aho-corasick for peptide identification?",
-                    "venue": "International Journal of Research in Computer Science",
-                    "year": "2012",
+                    "title": "A structured hardware software architecture for peptide based diagnosis \u00e2\u0080\u0094 Sub-string matching problem with limited tolerance",
+                    "venue": "2014 7th International Conference on Information and Automation for Sustainability",
+                    "year": "2014",
                     "authors": [
-                        "SM Vidanagamachchi",
-                        "SD Dewasurendra",
-                        "RG Ragel",
-                        "M Niranjan"
+                        "Sugandima M. Vidanagamachchi",
+                        "S. Devapriya Dewasurendra",
+                        "Roshan G. Ragel",
+                        "Mahesan Niranjan"
                     ],
-                    "doi": "https://doi.org/10.7815/ijorcs.26.2012.053",
-                    "preprint": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
-                    "pdf": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
+                    "doi": "https://doi.org/10.1109/ICIAFS.2014.7069624",
+                    "preprint": "https://arxiv.org/pdf/1412.7811",
+                    "pdf": "https://arxiv.org/pdf/1412.7811",
                     "presentation": "#",
                     "project": "#",
                     "codebase": "#",
@@ -178,12 +219,16 @@
                     ],
                     "funding": "",
                     "tags": [
-                        "Aho-Corasick",
-                        "Commentz-Walter",
-                        "Peptide Identification"
+                        "Proteins",
+                        "Peptides",
+                        "Hardware",
+                        "Amino acids",
+                        "Software",
+                        "Automata",
+                        "Databases"
                     ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7815/ijorcs.26.2012.053/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7815/ijorcs.26.2012.053/index.json"
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069624/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069624/index.json"
                 }
             ]
         }
