@@ -42,12 +42,11 @@ jobs:
           python3 download_staff_pages_from_drive.py
           cd ../
           
-      # theres a problem with this, temporarily disabled to run the other scripts 
-      # - name: Update postgrad students from Google Form
-      #   run: |
-      #     cd ./python_scripts
-      #     python3 update_postgrad_from_google_form.py
-      #     cd ../
+      - name: Update postgrad students from Google Form
+        run: |
+          cd ./python_scripts
+          python3 update_postgrad_from_google_form.py
+          cd ../
 
       - name: Generate Performance Badges for the students
         run: |
