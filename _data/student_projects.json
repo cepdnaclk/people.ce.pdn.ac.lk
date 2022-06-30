@@ -4896,6 +4896,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-B/"
         }
     ],
+    "E/18/245": [
+        {
+            "title": "Development of an Image Capturing Unit for Remote Monitoring",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring/"
+        }
+    ],
     "E/18/264": [
         {
             "title": "Department Course Page Group B",
@@ -5089,6 +5104,21 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B/"
+        }
+    ],
+    "E/18/340": [
+        {
+            "title": "Development of an Image Capturing Unit for Remote Monitoring",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring/"
         }
     ],
     "E/18/349": [
