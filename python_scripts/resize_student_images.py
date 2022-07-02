@@ -13,6 +13,8 @@ def run():
         if "." in eachFolder:
             continue  # skip if not folder
         for eachImage in os.listdir(imagesPath+f"/{eachFolder}"):
+            if (eachImage == "e16172.jpg"):
+                continue # this was a png so the resizing doesnt work properly
             try:
                 imagePath = imagesPath+f"/{eachFolder}/{eachImage}"
                 image = Image.open(imagePath)
