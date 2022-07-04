@@ -38,6 +38,346 @@
         "publication_count": 14,
         "year_count": 8,
         "publications": {
+            "2021": [
+                {
+                    "title": "Offloading specific performance-related kernel functions into an FPGA",
+                    "venue": "2021 IEEE 30th International Symposium on Industrial Electronics (ISIE)",
+                    "year": "2021",
+                    "authors": [
+                        "Pabudi T Abeyrathne",
+                        "S. Devapriya Dewasurendra",
+                        "Dhammika Elkaduwa"
+                    ],
+                    "doi": "https://doi.org/10.1109/ISIE45552.2021.9576256",
+                    "preprint": "https://www.academia.edu/download/75534730/KF_003255_ISIE2021paper.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Performance evaluation",
+                        "Protocols",
+                        "Profitability",
+                        "Linux",
+                        "Computer architecture",
+                        "Software",
+                        "Security"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ISIE45552.2021.9576256/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ISIE45552.2021.9576256/index.json"
+                },
+                {
+                    "title": "A Novel FPGA Architecture of Commentz-Walter Algorithm using Bit-Split String-Matching Engines",
+                    "venue": "2021 21st International Conference on Advances in ICT for Emerging Regions (ICter)",
+                    "year": "2021",
+                    "authors": [
+                        "Sugandima M. Vidanagamachchi",
+                        "Shirley D. Dewasurendra"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICter53630.2021.9774805",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Proteins",
+                        "Software algorithms",
+                        "Computer architecture",
+                        "Logic gates",
+                        "Hardware",
+                        "Software",
+                        "Registers"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICter53630.2021.9774805/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICter53630.2021.9774805/index.json"
+                }
+            ],
+            "2019": [
+                {
+                    "title": "Model-based fault diagnosis and prognosis of dynamic systems: a review",
+                    "venue": "Procedia Manufacturing",
+                    "year": "2019",
+                    "authors": [
+                        "Thushara Ekanayakea",
+                        "Devapriya Dewasurendra",
+                        "Sunil Abeyratne",
+                        "Lin Ma",
+                        "Prasad Yarlagadda"
+                    ],
+                    "doi": "https://doi.org/10.1016/j.promfg.2019.02.060",
+                    "preprint": "#",
+                    "pdf": "https://doi.org/10.1016/j.promfg.2019.02.060",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "model-based systems",
+                        "fault diagnosis",
+                        "fault prognosis",
+                        "automata",
+                        "Petri nets",
+                        "bond graphs",
+                        "Bayesian networks"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1016/j.promfg.2019.02.060/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1016/j.promfg.2019.02.060/index.json"
+                },
+                {
+                    "title": "Integrating runtime validation and hardware-in-the-loop (HiL) testing with V & V in complex hybrid systems",
+                    "venue": "Journal of the National Science Foundation of Sri Lanka",
+                    "year": "2019",
+                    "authors": [
+                        "SD Dewasurendra",
+                        "AC Vidanapathirana",
+                        "SG Abeyratne"
+                    ],
+                    "doi": "http://dx.doi.org/10.4038/jnsfsr.v47i4.9678",
+                    "preprint": "#",
+                    "pdf": "http://dx.doi.org/10.4038/jnsfsr.v47i4.9678",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        ""
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/dx.10.4038/jnsfsr.v47i4.9678/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/dx.10.4038/jnsfsr.v47i4.9678/index.json"
+                }
+            ],
+            "2018": [
+                {
+                    "title": "Average time complexity analysis of Commentz-Walter algorithm",
+                    "venue": "Journal of the National Science Foundation of Sri Lanka",
+                    "year": "2018",
+                    "authors": [
+                        "SD Dewasurendra",
+                        "SM Vidanagamachchi"
+                    ],
+                    "doi": "http://dx.doi.org/10.4038/jnsfsr.v46i4.8630",
+                    "preprint": "#",
+                    "pdf": "http://dx.doi.org/10.4038/jnsfsr.v46i4.8630",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        ""
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/dx.10.4038/jnsfsr.v46i4.8630/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/dx.10.4038/jnsfsr.v46i4.8630/index.json"
+                }
+            ],
+            "2015": [
+                {
+                    "title": "Strategy to Design Formally Verified hardware/software implementation of Network Protocols on Reconfigurable Hardware",
+                    "venue": "2015 IEEE 10th International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2015",
+                    "authors": [
+                        "Pabudi T Abeyrathne",
+                        "S.D. Dewasurendra",
+                        "Dhammika Elkaduwa"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIINFS.2015.7398980",
+                    "preprint": "https://www.academia.edu/download/53590902/Abeyrathne.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "application specific integrated circuits",
+                        "computer networks",
+                        "field programmable gate arrays",
+                        "financial data processing",
+                        "hardware-software codesign",
+                        "protocols",
+                        "reconfigurable architectures"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2015.7398980/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2015.7398980/index.json"
+                }
+            ],
+            "2014": [
+                {
+                    "title": "A structured hardware software architecture for peptide based diagnosis \u00e2\u0080\u0094 Sub-string matching problem with limited tolerance",
+                    "venue": "2014 7th International Conference on Information and Automation for Sustainability",
+                    "year": "2014",
+                    "authors": [
+                        "Sugandima M. Vidanagamachchi",
+                        "S. Devapriya Dewasurendra",
+                        "Roshan G. Ragel",
+                        "Mahesan Niranjan"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAFS.2014.7069624",
+                    "preprint": "https://arxiv.org/pdf/1412.7811",
+                    "pdf": "https://arxiv.org/pdf/1412.7811",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Proteins",
+                        "Peptides",
+                        "Hardware",
+                        "Amino acids",
+                        "Software",
+                        "Automata",
+                        "Databases"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069624/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069624/index.json"
+                }
+            ],
+            "2013": [
+                {
+                    "title": "Hardware software co-design of the Aho-Corasick algorithm: Scalable for protein identification?",
+                    "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+                    "year": "2013",
+                    "authors": [
+                        "S.M. Vidanagamachchi",
+                        "S.D. Dewasurendra",
+                        "",
+                        "R.G. Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIInfS.2013.6732003",
+                    "preprint": "https://arxiv.org/ftp/arxiv/papers/1403/1403.1317.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Hardware",
+                        "Proteins",
+                        "Peptides",
+                        "Software algorithms",
+                        "Program processors",
+                        "Algorithm design and analysis"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732003/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732003/index.json"
+                },
+                {
+                    "title": "Model in the loop testing of complex reactive systems",
+                    "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+                    "year": "2013",
+                    "authors": [
+                        "A. Vidanapathirana",
+                        "S. D. Dewasurendra",
+                        "S. G. Abeyaratne"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIInfS.2013.6731950",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Mathematical model",
+                        "Induction motors",
+                        "Testing",
+                        "MATLAB",
+                        "Elevators",
+                        "Floors"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6731950/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6731950/index.json"
+                },
+                {
+                    "title": "Hardware accelerated protein inference framework",
+                    "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+                    "year": "2013",
+                    "authors": [
+                        "S. M. Vidanagamachchi",
+                        "S. D. Dewasurendra",
+                        "R. G. Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIInfS.2013.6732061",
+                    "preprint": "https://arxiv.org/pdf/1403.1319",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Proteins",
+                        "Peptides",
+                        "Hardware",
+                        "Tiles",
+                        "Software",
+                        "Field programmable gate arrays",
+                        "Acceleration"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732061/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732061/index.json"
+                }
+            ],
+            "2012": [
+                {
+                    "title": "Commentz-walter: Any better than aho-corasick for peptide identification?",
+                    "venue": "International Journal of Research in Computer Science",
+                    "year": "2012",
+                    "authors": [
+                        "SM Vidanagamachchi",
+                        "SD Dewasurendra",
+                        "RG Ragel",
+                        "M Niranjan"
+                    ],
+                    "doi": "https://doi.org/10.7815/ijorcs.26.2012.053",
+                    "preprint": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
+                    "pdf": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Aho-Corasick",
+                        "Commentz-Walter",
+                        "Peptide Identification"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7815/ijorcs.26.2012.053/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7815/ijorcs.26.2012.053/index.json"
+                }
+            ],
             "2011": [
                 {
                     "title": "Tile optimization for area in FPGA based hardware acceleration of peptide identification",
@@ -136,346 +476,6 @@
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038120/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038120/index.json"
                 }
-            ],
-            "2012": [
-                {
-                    "title": "Commentz-walter: Any better than aho-corasick for peptide identification?",
-                    "venue": "International Journal of Research in Computer Science",
-                    "year": "2012",
-                    "authors": [
-                        "SM Vidanagamachchi",
-                        "SD Dewasurendra",
-                        "RG Ragel",
-                        "M Niranjan"
-                    ],
-                    "doi": "https://doi.org/10.7815/ijorcs.26.2012.053",
-                    "preprint": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
-                    "pdf": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        ""
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Aho-Corasick",
-                        "Commentz-Walter",
-                        "Peptide Identification"
-                    ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7815/ijorcs.26.2012.053/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7815/ijorcs.26.2012.053/index.json"
-                }
-            ],
-            "2013": [
-                {
-                    "title": "Hardware software co-design of the Aho-Corasick algorithm: Scalable for protein identification?",
-                    "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
-                    "year": "2013",
-                    "authors": [
-                        "S.M. Vidanagamachchi",
-                        "S.D. Dewasurendra",
-                        "",
-                        "R.G. Ragel"
-                    ],
-                    "doi": "https://doi.org/10.1109/ICIInfS.2013.6732003",
-                    "preprint": "https://arxiv.org/ftp/arxiv/papers/1403/1403.1317.pdf",
-                    "pdf": "#",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Hardware",
-                        "Proteins",
-                        "Peptides",
-                        "Software algorithms",
-                        "Program processors",
-                        "Algorithm design and analysis"
-                    ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732003/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732003/index.json"
-                },
-                {
-                    "title": "Model in the loop testing of complex reactive systems",
-                    "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
-                    "year": "2013",
-                    "authors": [
-                        "A. Vidanapathirana",
-                        "S. D. Dewasurendra",
-                        "S. G. Abeyaratne"
-                    ],
-                    "doi": "https://doi.org/10.1109/ICIInfS.2013.6731950",
-                    "preprint": "#",
-                    "pdf": "#",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        ""
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Mathematical model",
-                        "Induction motors",
-                        "Testing",
-                        "MATLAB",
-                        "Elevators",
-                        "Floors"
-                    ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6731950/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6731950/index.json"
-                },
-                {
-                    "title": "Hardware accelerated protein inference framework",
-                    "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
-                    "year": "2013",
-                    "authors": [
-                        "S. M. Vidanagamachchi",
-                        "S. D. Dewasurendra",
-                        "R. G. Ragel"
-                    ],
-                    "doi": "https://doi.org/10.1109/ICIInfS.2013.6732061",
-                    "preprint": "https://arxiv.org/pdf/1403.1319",
-                    "pdf": "#",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Proteins",
-                        "Peptides",
-                        "Hardware",
-                        "Tiles",
-                        "Software",
-                        "Field programmable gate arrays",
-                        "Acceleration"
-                    ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732061/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732061/index.json"
-                }
-            ],
-            "2014": [
-                {
-                    "title": "A structured hardware software architecture for peptide based diagnosis \u00e2\u0080\u0094 Sub-string matching problem with limited tolerance",
-                    "venue": "2014 7th International Conference on Information and Automation for Sustainability",
-                    "year": "2014",
-                    "authors": [
-                        "Sugandima M. Vidanagamachchi",
-                        "S. Devapriya Dewasurendra",
-                        "Roshan G. Ragel",
-                        "Mahesan Niranjan"
-                    ],
-                    "doi": "https://doi.org/10.1109/ICIAFS.2014.7069624",
-                    "preprint": "https://arxiv.org/pdf/1412.7811",
-                    "pdf": "https://arxiv.org/pdf/1412.7811",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        ""
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Proteins",
-                        "Peptides",
-                        "Hardware",
-                        "Amino acids",
-                        "Software",
-                        "Automata",
-                        "Databases"
-                    ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069624/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069624/index.json"
-                }
-            ],
-            "2015": [
-                {
-                    "title": "Strategy to Design Formally Verified hardware/software implementation of Network Protocols on Reconfigurable Hardware",
-                    "venue": "2015 IEEE 10th International Conference on Industrial and Information Systems (ICIIS)",
-                    "year": "2015",
-                    "authors": [
-                        "Pabudi T Abeyrathne",
-                        "S.D. Dewasurendra",
-                        "Dhammika Elkaduwa"
-                    ],
-                    "doi": "https://doi.org/10.1109/ICIINFS.2015.7398980",
-                    "preprint": "https://www.academia.edu/download/53590902/Abeyrathne.pdf",
-                    "pdf": "#",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        ""
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "application specific integrated circuits",
-                        "computer networks",
-                        "field programmable gate arrays",
-                        "financial data processing",
-                        "hardware-software codesign",
-                        "protocols",
-                        "reconfigurable architectures"
-                    ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2015.7398980/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2015.7398980/index.json"
-                }
-            ],
-            "2019": [
-                {
-                    "title": "Model-based fault diagnosis and prognosis of dynamic systems: a review",
-                    "venue": "Procedia Manufacturing",
-                    "year": "2019",
-                    "authors": [
-                        "Thushara Ekanayakea",
-                        "Devapriya Dewasurendra",
-                        "Sunil Abeyratne",
-                        "Lin Ma",
-                        "Prasad Yarlagadda"
-                    ],
-                    "doi": "https://doi.org/10.1016/j.promfg.2019.02.060",
-                    "preprint": "#",
-                    "pdf": "https://doi.org/10.1016/j.promfg.2019.02.060",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        ""
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "model-based systems",
-                        "fault diagnosis",
-                        "fault prognosis",
-                        "automata",
-                        "Petri nets",
-                        "bond graphs",
-                        "Bayesian networks"
-                    ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1016/j.promfg.2019.02.060/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1016/j.promfg.2019.02.060/index.json"
-                },
-                {
-                    "title": "Integrating runtime validation and hardware-in-the-loop (HiL) testing with V & V in complex hybrid systems",
-                    "venue": "Journal of the National Science Foundation of Sri Lanka",
-                    "year": "2019",
-                    "authors": [
-                        "SD Dewasurendra",
-                        "AC Vidanapathirana",
-                        "SG Abeyratne"
-                    ],
-                    "doi": "http://dx.doi.org/10.4038/jnsfsr.v47i4.9678",
-                    "preprint": "#",
-                    "pdf": "http://dx.doi.org/10.4038/jnsfsr.v47i4.9678",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        ""
-                    ],
-                    "funding": "",
-                    "tags": [
-                        ""
-                    ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/dx.10.4038/jnsfsr.v47i4.9678/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/dx.10.4038/jnsfsr.v47i4.9678/index.json"
-                }
-            ],
-            "2018": [
-                {
-                    "title": "Average time complexity analysis of Commentz-Walter algorithm",
-                    "venue": "Journal of the National Science Foundation of Sri Lanka",
-                    "year": "2018",
-                    "authors": [
-                        "SD Dewasurendra",
-                        "SM Vidanagamachchi"
-                    ],
-                    "doi": "http://dx.doi.org/10.4038/jnsfsr.v46i4.8630",
-                    "preprint": "#",
-                    "pdf": "http://dx.doi.org/10.4038/jnsfsr.v46i4.8630",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        ""
-                    ],
-                    "funding": "",
-                    "tags": [
-                        ""
-                    ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/dx.10.4038/jnsfsr.v46i4.8630/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/dx.10.4038/jnsfsr.v46i4.8630/index.json"
-                }
-            ],
-            "2021": [
-                {
-                    "title": "Offloading specific performance-related kernel functions into an FPGA",
-                    "venue": "2021 IEEE 30th International Symposium on Industrial Electronics (ISIE)",
-                    "year": "2021",
-                    "authors": [
-                        "Pabudi T Abeyrathne",
-                        "S. Devapriya Dewasurendra",
-                        "Dhammika Elkaduwa"
-                    ],
-                    "doi": "https://doi.org/10.1109/ISIE45552.2021.9576256",
-                    "preprint": "https://www.academia.edu/download/75534730/KF_003255_ISIE2021paper.pdf",
-                    "pdf": "#",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        ""
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Performance evaluation",
-                        "Protocols",
-                        "Profitability",
-                        "Linux",
-                        "Computer architecture",
-                        "Software",
-                        "Security"
-                    ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ISIE45552.2021.9576256/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ISIE45552.2021.9576256/index.json"
-                },
-                {
-                    "title": "A Novel FPGA Architecture of Commentz-Walter Algorithm using Bit-Split String-Matching Engines",
-                    "venue": "2021 21st International Conference on Advances in ICT for Emerging Regions (ICter)",
-                    "year": "2021",
-                    "authors": [
-                        "Sugandima M. Vidanagamachchi",
-                        "Shirley D. Dewasurendra"
-                    ],
-                    "doi": "https://doi.org/10.1109/ICter53630.2021.9774805",
-                    "preprint": "#",
-                    "pdf": "#",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        ""
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Proteins",
-                        "Software algorithms",
-                        "Computer architecture",
-                        "Logic gates",
-                        "Hardware",
-                        "Software",
-                        "Registers"
-                    ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICter53630.2021.9774805/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICter53630.2021.9774805/index.json"
-                }
             ]
         }
     },
@@ -483,39 +483,6 @@
         "publication_count": 2,
         "year_count": 2,
         "publications": {
-            "2015": [
-                {
-                    "title": "Strategy to Design Formally Verified hardware/software implementation of Network Protocols on Reconfigurable Hardware",
-                    "venue": "2015 IEEE 10th International Conference on Industrial and Information Systems (ICIIS)",
-                    "year": "2015",
-                    "authors": [
-                        "Pabudi T Abeyrathne",
-                        "S.D. Dewasurendra",
-                        "Dhammika Elkaduwa"
-                    ],
-                    "doi": "https://doi.org/10.1109/ICIINFS.2015.7398980",
-                    "preprint": "https://www.academia.edu/download/53590902/Abeyrathne.pdf",
-                    "pdf": "#",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        ""
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "application specific integrated circuits",
-                        "computer networks",
-                        "field programmable gate arrays",
-                        "financial data processing",
-                        "hardware-software codesign",
-                        "protocols",
-                        "reconfigurable architectures"
-                    ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2015.7398980/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2015.7398980/index.json"
-                }
-            ],
             "2021": [
                 {
                     "title": "Offloading specific performance-related kernel functions into an FPGA",
@@ -547,6 +514,39 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ISIE45552.2021.9576256/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ISIE45552.2021.9576256/index.json"
+                }
+            ],
+            "2015": [
+                {
+                    "title": "Strategy to Design Formally Verified hardware/software implementation of Network Protocols on Reconfigurable Hardware",
+                    "venue": "2015 IEEE 10th International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2015",
+                    "authors": [
+                        "Pabudi T Abeyrathne",
+                        "S.D. Dewasurendra",
+                        "Dhammika Elkaduwa"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIINFS.2015.7398980",
+                    "preprint": "https://www.academia.edu/download/53590902/Abeyrathne.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "application specific integrated circuits",
+                        "computer networks",
+                        "field programmable gate arrays",
+                        "financial data processing",
+                        "hardware-software codesign",
+                        "protocols",
+                        "reconfigurable architectures"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2015.7398980/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2015.7398980/index.json"
                 }
             ]
         }
@@ -595,41 +595,6 @@
         "publication_count": 2,
         "year_count": 2,
         "publications": {
-            "2007": [
-                {
-                    "title": "SAS-3: A polynomial based strong password authentication protocol",
-                    "venue": "2007 International Conference on Industrial and Information Systems (ICIIS)",
-                    "year": "2007",
-                    "authors": [
-                        "N. S. Weragama",
-                        "M. Sandirigama"
-                    ],
-                    "doi": "https://doi.org/10.1109/ICIINFS.2007.4579145",
-                    "preprint": "#",
-                    "pdf": "#",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        ""
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Polynomials",
-                        "Authentication",
-                        "Protocols",
-                        "Computer crime",
-                        "Synthetic aperture sonar",
-                        "Information systems",
-                        "Internet",
-                        "Security",
-                        "Computer industry",
-                        "Mobile communication"
-                    ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2007.4579145/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2007.4579145/index.json"
-                }
-            ],
             "2009": [
                 {
                     "title": "Security weaknesses of WEP protocol IEEE 802.11b and enhancing the security with dynamic keys",
@@ -665,6 +630,41 @@
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/TIC-STH.2009.5444462/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/TIC-STH.2009.5444462/index.json"
                 }
+            ],
+            "2007": [
+                {
+                    "title": "SAS-3: A polynomial based strong password authentication protocol",
+                    "venue": "2007 International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2007",
+                    "authors": [
+                        "N. S. Weragama",
+                        "M. Sandirigama"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIINFS.2007.4579145",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Polynomials",
+                        "Authentication",
+                        "Protocols",
+                        "Computer crime",
+                        "Synthetic aperture sonar",
+                        "Information systems",
+                        "Internet",
+                        "Security",
+                        "Computer industry",
+                        "Mobile communication"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2007.4579145/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2007.4579145/index.json"
+                }
             ]
         }
     },
@@ -672,6 +672,43 @@
         "publication_count": 9,
         "year_count": 7,
         "publications": {
+            "2021": [
+                {
+                    "title": "An optical physics inspired CNN approach for intrinsic image decomposition",
+                    "venue": "2021 IEEE International Conference on Image Processing (ICIP)",
+                    "year": "2021",
+                    "authors": [
+                        "Harshana Weligampola",
+                        "Gihan Jayatilaka",
+                        "Suren Sritharan",
+                        "Parakrama Ekanayake",
+                        "Roshan Ragel",
+                        "Vijitha Herath",
+                        "Roshan Godaliyadda"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIP42928.2021.9506375",
+                    "preprint": "https://arxiv.org/pdf/2105.10076",
+                    "pdf": "#",
+                    "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/icip-2021-presentation.pdf",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e14/dark-arts-algorithms-for-low-light-image-enhancement-and-interpretation/",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Computer Vision"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Reflectivity",
+                        "Neural networks",
+                        "Optical fiber networks",
+                        "Optical imaging",
+                        "Image decomposition",
+                        "Numerical models",
+                        "Optical reflection"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIP42928.2021.9506375/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIP42928.2021.9506375/index.json"
+                }
+            ],
             "2020": [
                 {
                     "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
@@ -773,57 +810,20 @@
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
                 }
             ],
-            "2021": [
+            "2014": [
                 {
-                    "title": "An optical physics inspired CNN approach for intrinsic image decomposition",
-                    "venue": "2021 IEEE International Conference on Image Processing (ICIP)",
-                    "year": "2021",
+                    "title": "A structured hardware software architecture for peptide based diagnosis \u00e2\u0080\u0094 Sub-string matching problem with limited tolerance",
+                    "venue": "2014 7th International Conference on Information and Automation for Sustainability",
+                    "year": "2014",
                     "authors": [
-                        "Harshana Weligampola",
-                        "Gihan Jayatilaka",
-                        "Suren Sritharan",
-                        "Parakrama Ekanayake",
-                        "Roshan Ragel",
-                        "Vijitha Herath",
-                        "Roshan Godaliyadda"
+                        "Sugandima M. Vidanagamachchi",
+                        "S. Devapriya Dewasurendra",
+                        "Roshan G. Ragel",
+                        "Mahesan Niranjan"
                     ],
-                    "doi": "https://doi.org/10.1109/ICIP42928.2021.9506375",
-                    "preprint": "https://arxiv.org/pdf/2105.10076",
-                    "pdf": "#",
-                    "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/icip-2021-presentation.pdf",
-                    "project": "https://projects.ce.pdn.ac.lk/4yp/e14/dark-arts-algorithms-for-low-light-image-enhancement-and-interpretation/",
-                    "codebase": "#",
-                    "researchgroups": [
-                        "Computer Vision"
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Reflectivity",
-                        "Neural networks",
-                        "Optical fiber networks",
-                        "Optical imaging",
-                        "Image decomposition",
-                        "Numerical models",
-                        "Optical reflection"
-                    ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIP42928.2021.9506375/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIP42928.2021.9506375/index.json"
-                }
-            ],
-            "2011": [
-                {
-                    "title": "Tile optimization for area in FPGA based hardware acceleration of peptide identification",
-                    "venue": "2011 6th International Conference on Industrial and Information Systems (ICIIS)",
-                    "year": "2011",
-                    "authors": [
-                        "SM Vidanagamachchi",
-                        "SD Dewasurendra",
-                        "Roshan G Ragel",
-                        "M Niranjan"
-                    ],
-                    "doi": "https://doi.org/10.1109/ICIINFS.2011.6038056",
-                    "preprint": "https://arxiv.org/ftp/arxiv/papers/1403/1403.7296.pdf",
-                    "pdf": "#",
+                    "doi": "https://doi.org/10.1109/ICIAFS.2014.7069624",
+                    "preprint": "https://arxiv.org/pdf/1412.7811",
+                    "pdf": "https://arxiv.org/pdf/1412.7811",
                     "presentation": "#",
                     "project": "#",
                     "codebase": "#",
@@ -832,46 +832,16 @@
                     ],
                     "funding": "",
                     "tags": [
-                        "Peptides",
-                        "Field programmable gate arrays",
-                        "Tiles",
-                        "Hardware",
-                        "Software algorithms",
                         "Proteins",
-                        "Software"
+                        "Peptides",
+                        "Hardware",
+                        "Amino acids",
+                        "Software",
+                        "Automata",
+                        "Databases"
                     ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038056/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038056/index.json"
-                }
-            ],
-            "2012": [
-                {
-                    "title": "Commentz-walter: Any better than aho-corasick for peptide identification?",
-                    "venue": "International Journal of Research in Computer Science",
-                    "year": "2012",
-                    "authors": [
-                        "SM Vidanagamachchi",
-                        "SD Dewasurendra",
-                        "RG Ragel",
-                        "M Niranjan"
-                    ],
-                    "doi": "https://doi.org/10.7815/ijorcs.26.2012.053",
-                    "preprint": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
-                    "pdf": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
-                    "presentation": "#",
-                    "project": "#",
-                    "codebase": "#",
-                    "researchgroups": [
-                        ""
-                    ],
-                    "funding": "",
-                    "tags": [
-                        "Aho-Corasick",
-                        "Commentz-Walter",
-                        "Peptide Identification"
-                    ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7815/ijorcs.26.2012.053/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7815/ijorcs.26.2012.053/index.json"
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069624/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069624/index.json"
                 }
             ],
             "2013": [
@@ -938,20 +908,20 @@
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732061/index.json"
                 }
             ],
-            "2014": [
+            "2012": [
                 {
-                    "title": "A structured hardware software architecture for peptide based diagnosis \u00e2\u0080\u0094 Sub-string matching problem with limited tolerance",
-                    "venue": "2014 7th International Conference on Information and Automation for Sustainability",
-                    "year": "2014",
+                    "title": "Commentz-walter: Any better than aho-corasick for peptide identification?",
+                    "venue": "International Journal of Research in Computer Science",
+                    "year": "2012",
                     "authors": [
-                        "Sugandima M. Vidanagamachchi",
-                        "S. Devapriya Dewasurendra",
-                        "Roshan G. Ragel",
-                        "Mahesan Niranjan"
+                        "SM Vidanagamachchi",
+                        "SD Dewasurendra",
+                        "RG Ragel",
+                        "M Niranjan"
                     ],
-                    "doi": "https://doi.org/10.1109/ICIAFS.2014.7069624",
-                    "preprint": "https://arxiv.org/pdf/1412.7811",
-                    "pdf": "https://arxiv.org/pdf/1412.7811",
+                    "doi": "https://doi.org/10.7815/ijorcs.26.2012.053",
+                    "preprint": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
+                    "pdf": "https://www.academia.edu/download/73625856/Vol2-Issue-06-04-commentz-walter-any-better-than-aho-corasick-for-peptide-identification.pdf",
                     "presentation": "#",
                     "project": "#",
                     "codebase": "#",
@@ -960,16 +930,46 @@
                     ],
                     "funding": "",
                     "tags": [
-                        "Proteins",
-                        "Peptides",
-                        "Hardware",
-                        "Amino acids",
-                        "Software",
-                        "Automata",
-                        "Databases"
+                        "Aho-Corasick",
+                        "Commentz-Walter",
+                        "Peptide Identification"
                     ],
-                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069624/",
-                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069624/index.json"
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7815/ijorcs.26.2012.053/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7815/ijorcs.26.2012.053/index.json"
+                }
+            ],
+            "2011": [
+                {
+                    "title": "Tile optimization for area in FPGA based hardware acceleration of peptide identification",
+                    "venue": "2011 6th International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2011",
+                    "authors": [
+                        "SM Vidanagamachchi",
+                        "SD Dewasurendra",
+                        "Roshan G Ragel",
+                        "M Niranjan"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIINFS.2011.6038056",
+                    "preprint": "https://arxiv.org/ftp/arxiv/papers/1403/1403.7296.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Peptides",
+                        "Field programmable gate arrays",
+                        "Tiles",
+                        "Hardware",
+                        "Software algorithms",
+                        "Proteins",
+                        "Software"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038056/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038056/index.json"
                 }
             ]
         }
