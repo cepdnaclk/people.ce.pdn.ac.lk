@@ -552,8 +552,8 @@
         }
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "publication_count": 1,
-        "year_count": 1,
+        "publication_count": 2,
+        "year_count": 2,
         "publications": {
             "2019": [
                 {
@@ -587,6 +587,80 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
+                }
+            ],
+            "2011": [
+                {
+                    "title": "Heterogeneous processor pipeline for a product cipher application",
+                    "venue": "2011 6th International Conference on Industrial and Information Systems",
+                    "year": "2011",
+                    "authors": [
+                        "Isuru B. Nawinne",
+                        "Mahanama S. Wickramasinghe",
+                        "Roshan G. Ragel",
+                        "Member",
+                        "Swarnalatha Radhakrishnan"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIINFS.2011.6038036",
+                    "preprint": "https://arxiv.org/ftp/arxiv/papers/1403/1403.7299.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Pipelines",
+                        "Encryption",
+                        "Algorithm design and analysis",
+                        "Partitioning algorithms",
+                        "Streaming media",
+                        "Computer architecture"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038036/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038036/index.json"
+                }
+            ]
+        }
+    },
+    "mahanamaw@eng.pdn.ac.lk": {
+        "publication_count": 1,
+        "year_count": 1,
+        "publications": {
+            "2011": [
+                {
+                    "title": "Heterogeneous processor pipeline for a product cipher application",
+                    "venue": "2011 6th International Conference on Industrial and Information Systems",
+                    "year": "2011",
+                    "authors": [
+                        "Isuru B. Nawinne",
+                        "Mahanama S. Wickramasinghe",
+                        "Roshan G. Ragel",
+                        "Member",
+                        "Swarnalatha Radhakrishnan"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIINFS.2011.6038036",
+                    "preprint": "https://arxiv.org/ftp/arxiv/papers/1403/1403.7299.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Pipelines",
+                        "Encryption",
+                        "Algorithm design and analysis",
+                        "Partitioning algorithms",
+                        "Streaming media",
+                        "Computer architecture"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038036/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038036/index.json"
                 }
             ]
         }
@@ -669,8 +743,8 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "publication_count": 9,
-        "year_count": 7,
+        "publication_count": 14,
+        "year_count": 9,
         "publications": {
             "2021": [
                 {
@@ -936,6 +1010,62 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7815/ijorcs.26.2012.053/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7815/ijorcs.26.2012.053/index.json"
+                },
+                {
+                    "title": "Instruction-set selection for multi-application based ASIP design: An instruction-level study",
+                    "venue": "2012 IEEE 6th International Conference on Information and Automation for Sustainability",
+                    "year": "2012",
+                    "authors": [
+                        "Roshan Ragel",
+                        "Swarnalatha Radhakrishnan",
+                        "Angelo Ambrose"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAFS.2012.6419895",
+                    "preprint": "https://arxiv.org/pdf/1403.7291.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "GSM",
+                        "Engines",
+                        "Integrated circuits",
+                        "Transform coding"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2012.6419895/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2012.6419895/index.json"
+                },
+                {
+                    "title": "DIMSim: A rapid two-level cache simulation approach for deadline-based MPSoCs",
+                    "venue": "8th IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis",
+                    "year": "2012",
+                    "authors": [
+                        "Mohammad Shihabul Haque",
+                        "Roshan Ragel",
+                        "Angelo Ambrose",
+                        "Swarnalatha Radhakrishnan",
+                        "Sri Parameswaran"
+                    ],
+                    "doi": "https://doi.org/10.1145/2380445.2380473",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Hardware",
+                        "Hardware validation"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/2380445.2380473/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/2380445.2380473/index.json"
                 }
             ],
             "2011": [
@@ -970,6 +1100,282 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038056/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038056/index.json"
+                },
+                {
+                    "title": "Heterogeneous processor pipeline for a product cipher application",
+                    "venue": "2011 6th International Conference on Industrial and Information Systems",
+                    "year": "2011",
+                    "authors": [
+                        "Isuru B. Nawinne",
+                        "Mahanama S. Wickramasinghe",
+                        "Roshan G. Ragel",
+                        "Member",
+                        "Swarnalatha Radhakrishnan"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIINFS.2011.6038036",
+                    "preprint": "https://arxiv.org/ftp/arxiv/papers/1403/1403.7299.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Pipelines",
+                        "Encryption",
+                        "Algorithm design and analysis",
+                        "Partitioning algorithms",
+                        "Streaming media",
+                        "Computer architecture"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038036/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038036/index.json"
+                }
+            ],
+            "2009": [
+                {
+                    "title": "Loop unrolling in multi-pipeline ASIP design",
+                    "venue": "2009 International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2009",
+                    "authors": [
+                        "HMRDB Navarathna",
+                        "Swarnalatha Radhakrishnan",
+                        "Roshan G Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIINFS.2009.5429845",
+                    "preprint": "https://arxiv.org/pdf/1402.0671",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Application specific processors",
+                        "Authentication",
+                        "Computer science",
+                        "Steganography",
+                        "Image analysis",
+                        "Algorithm design and analysis",
+                        "Computer industry",
+                        "Information systems",
+                        "Postal services",
+                        "Entropy"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2009.5429845/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2009.5429845/index.json"
+                }
+            ],
+            "2008": [
+                {
+                    "title": "Axis2UNO: Web Services Enabled Openoffice.org",
+                    "venue": "2008 4th International Conference on Information and Automation for Sustainability",
+                    "year": "2008",
+                    "authors": [
+                        "BANM Bambarasinghe",
+                        "HMS Huruggamuwa",
+                        "Roshan G Ragel",
+                        "Swarnalatha Radhakrishnan"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAFS.2008.4783956",
+                    "preprint": "https://arxiv.org/ftp/arxiv/papers/1402/1402.0670.pdf",
+                    "pdf": "https://arxiv.org/ftp/arxiv/papers/1402/1402.0670.pdf",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Web services",
+                        "Search engines",
+                        "Computer networks",
+                        "Maintenance engineering",
+                        "Java",
+                        "Data security",
+                        "Packaging",
+                        "Office automation",
+                        "Information technology",
+                        "Resource management"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2008.4783956/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2008.4783956/index.json"
+                }
+            ]
+        }
+    },
+    "swarnar@eng.pdn.ac.lk": {
+        "publication_count": 5,
+        "year_count": 4,
+        "publications": {
+            "2012": [
+                {
+                    "title": "Instruction-set selection for multi-application based ASIP design: An instruction-level study",
+                    "venue": "2012 IEEE 6th International Conference on Information and Automation for Sustainability",
+                    "year": "2012",
+                    "authors": [
+                        "Roshan Ragel",
+                        "Swarnalatha Radhakrishnan",
+                        "Angelo Ambrose"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAFS.2012.6419895",
+                    "preprint": "https://arxiv.org/pdf/1403.7291.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "GSM",
+                        "Engines",
+                        "Integrated circuits",
+                        "Transform coding"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2012.6419895/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2012.6419895/index.json"
+                },
+                {
+                    "title": "DIMSim: A rapid two-level cache simulation approach for deadline-based MPSoCs",
+                    "venue": "8th IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis",
+                    "year": "2012",
+                    "authors": [
+                        "Mohammad Shihabul Haque",
+                        "Roshan Ragel",
+                        "Angelo Ambrose",
+                        "Swarnalatha Radhakrishnan",
+                        "Sri Parameswaran"
+                    ],
+                    "doi": "https://doi.org/10.1145/2380445.2380473",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Hardware",
+                        "Hardware validation"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/2380445.2380473/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/2380445.2380473/index.json"
+                }
+            ],
+            "2011": [
+                {
+                    "title": "Heterogeneous processor pipeline for a product cipher application",
+                    "venue": "2011 6th International Conference on Industrial and Information Systems",
+                    "year": "2011",
+                    "authors": [
+                        "Isuru B. Nawinne",
+                        "Mahanama S. Wickramasinghe",
+                        "Roshan G. Ragel",
+                        "Member",
+                        "Swarnalatha Radhakrishnan"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIINFS.2011.6038036",
+                    "preprint": "https://arxiv.org/ftp/arxiv/papers/1403/1403.7299.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Pipelines",
+                        "Encryption",
+                        "Algorithm design and analysis",
+                        "Partitioning algorithms",
+                        "Streaming media",
+                        "Computer architecture"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2011.6038036/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038036/index.json"
+                }
+            ],
+            "2009": [
+                {
+                    "title": "Loop unrolling in multi-pipeline ASIP design",
+                    "venue": "2009 International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2009",
+                    "authors": [
+                        "HMRDB Navarathna",
+                        "Swarnalatha Radhakrishnan",
+                        "Roshan G Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIINFS.2009.5429845",
+                    "preprint": "https://arxiv.org/pdf/1402.0671",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Application specific processors",
+                        "Authentication",
+                        "Computer science",
+                        "Steganography",
+                        "Image analysis",
+                        "Algorithm design and analysis",
+                        "Computer industry",
+                        "Information systems",
+                        "Postal services",
+                        "Entropy"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2009.5429845/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2009.5429845/index.json"
+                }
+            ],
+            "2008": [
+                {
+                    "title": "Axis2UNO: Web Services Enabled Openoffice.org",
+                    "venue": "2008 4th International Conference on Information and Automation for Sustainability",
+                    "year": "2008",
+                    "authors": [
+                        "BANM Bambarasinghe",
+                        "HMS Huruggamuwa",
+                        "Roshan G Ragel",
+                        "Swarnalatha Radhakrishnan"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAFS.2008.4783956",
+                    "preprint": "https://arxiv.org/ftp/arxiv/papers/1402/1402.0670.pdf",
+                    "pdf": "https://arxiv.org/ftp/arxiv/papers/1402/1402.0670.pdf",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Web services",
+                        "Search engines",
+                        "Computer networks",
+                        "Maintenance engineering",
+                        "Java",
+                        "Data security",
+                        "Packaging",
+                        "Office automation",
+                        "Information technology",
+                        "Resource management"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2008.4783956/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2008.4783956/index.json"
                 }
             ]
         }
