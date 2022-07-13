@@ -10,3 +10,9 @@ build: clean
 
 clean:
 	rm -rf _site
+
+# Send an empty commit to force the github action to rebuild the site.
+emptyCommit:
+	git pull
+	git commit --allow-empty -m "Empty commit (Force rebuild)"
+	git push
