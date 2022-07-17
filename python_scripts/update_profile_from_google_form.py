@@ -10,7 +10,6 @@ import os
 import gdown  # pip install gdown
 import json  # to edit _data/exx.json
 import student_profile_page_titles
-import resize_student_images
 
 googleFromCSV_link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZRR_UqRS_MHtl8Hlyv92dbgRJb342zguSm0DOdcpiYA5k7b2RceNmjBBKCu5AcX4A9RxQXazzWIEx/pub?output=csv"
 googleFromCSV = requests.get(googleFromCSV_link, headers={
@@ -166,4 +165,3 @@ print("\n\n\n\n")
 print("Updating Student page titles")
 student_profile_page_titles.run()
 print("Resizing Images")
-resize_student_images.run()

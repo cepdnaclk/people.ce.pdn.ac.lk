@@ -60,6 +60,12 @@ jobs:
           python3 update_postgrad_from_google_form.py
           cd ../
 
+      - name: Resize student images
+        run: |
+          cd ./python_scripts
+          python3 resize_student_images.py
+          cd ../
+
       - name: Commit and push into the main branch
         run: |
           git config user.name github-actions

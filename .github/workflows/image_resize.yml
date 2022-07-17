@@ -26,7 +26,7 @@ jobs:
           pip install pillow
           pip install googledrivedownloader
 
-      - name: Update student profiles from Google Form
+      - name: Resize student images
         run: |
           cd ./python_scripts
           python3 resize_student_images.py
