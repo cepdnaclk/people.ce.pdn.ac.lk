@@ -1,8 +1,9 @@
 {
     "E/11/010": {
         "reg_no": "E/11/010",
-        "name_with_initials": " T.M.S.U.B.Abeysinghe",
-        "image_url": "images/students/e11/e11010.jpg"
+        "name_with_initials": "T.M.S.U.B Abeysinghe",
+        "image_url": "images/students/e11/e11010.jpg",
+        "page_url": "/students/e11/010/"
     },
     "E/11/014": {
         "reg_no": "E/11/014",
@@ -21,7 +22,7 @@
     },
     "E/11/024": {
         "reg_no": "E/11/024",
-        "name_with_initials": "A. S. P. Athukorala",
+        "name_with_initials": "A.S.P. Athukorala",
         "image_url": "images/students/e11/e11024.jpg",
         "page_url": "/students/e11/024/"
     },
