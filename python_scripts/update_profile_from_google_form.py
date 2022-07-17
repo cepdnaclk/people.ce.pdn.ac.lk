@@ -141,7 +141,7 @@ image_url: {image_path}
         htmlFile.close()
 
         # update json if below E14
-        if int(batch[0:2]) < 14:
+        if (int(batch[0:2]) < 14) or int(batch[0:2]) == 99 or int(batch[0:2]) == 98:
             print("Updating JSON in _data folder")
 
             # select student from json file
