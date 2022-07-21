@@ -1,4 +1,19 @@
 {
+    " isurud@ee.pdn.ac.lk": [
+        {
+            "title": "neuromorphic architecture",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/neuromorphic-architecture/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
+        }
+    ],
     "alawatugoda@eng.pdn.ac.lk": [
         {
             "title": "Identifying keywords in legal articles using ML techniques",
@@ -312,6 +327,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-Revealing-miRNA-Biomarkers-for-Alzheimer-s-Disease-using-NGS",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Revealing-miRNA-Biomarkers-for-Alzheimer-s-Disease-using-NGS/"
+        },
+        {
+            "title": "Using Computer Vision and Agent Based Modelling to Explore the Human Elephant Conflict",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/"
         },
         {
             "title": "Host Pathogen Interaction",
@@ -1398,6 +1426,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/nearIR-spectroscopy/"
         },
         {
+            "title": "neuromorphic architecture",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/neuromorphic-architecture/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
+        },
+        {
             "title": "ipb",
             "category": {
                 "code": "4yp",
@@ -1960,6 +2001,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-shopping-cart/"
         },
         {
+            "title": "neuromorphic architecture",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/neuromorphic-architecture/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
+        },
+        {
             "title": "Auto Marking and Student Performance Analyser System for Continuous Assessments Group A",
             "category": {
                 "code": "co227",
@@ -2323,6 +2377,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Pipeline-for-Isolation-of-Fast-evolving-ITS-Regions-from-Skim-Sequencing-Data/"
         }
     ],
+    "rajith.vidanaarachchi@unimelb.edu.au": [
+        {
+            "title": "Using Computer Vision and Agent Based Modelling to Explore the Human Elephant Conflict",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/"
+        }
+    ],
     "rajithae03@gmail.com": [
         {
             "title": "sports action recognition",
@@ -2678,6 +2747,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/nearIR-spectroscopy/"
         },
         {
+            "title": "neuromorphic architecture",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/neuromorphic-architecture/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
+        },
+        {
             "title": "Analysis Tool for Industrial Images",
             "category": {
                 "code": "co328",
@@ -2732,6 +2814,21 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-obstacle-bots-for-swarm-robots",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/obstacle-bots-for-swarm-robots/"
+        }
+    ],
+    "sachith.seneviratne@unimelb.edu.au": [
+        {
+            "title": "Using Computer Vision and Agent Based Modelling to Explore the Human Elephant Conflict",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/"
         }
     ],
     "sampath@eng.pdn.ac.lk": [
