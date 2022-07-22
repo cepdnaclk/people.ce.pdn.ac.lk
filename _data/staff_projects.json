@@ -441,6 +441,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/online-proctoring-system/"
         }
     ],
+    "gihan@umd.edu": [
+        {
+            "title": "open world object detection and discovery",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/open-world-object-detection-and-discovery/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-open-world-object-detection-and-discovery",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
+        }
+    ],
     "hasindu2008@gmail.com ": [
         {
             "title": "Accelerating Adaptive Banded Event Alignment Algorithm with OpenCL on FPGA",
@@ -2760,6 +2775,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
         },
         {
+            "title": "open world object detection and discovery",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/open-world-object-detection-and-discovery/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-open-world-object-detection-and-discovery",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
+        },
+        {
             "title": "Analysis Tool for Industrial Images",
             "category": {
                 "code": "co328",
@@ -2829,6 +2857,21 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/"
+        }
+    ],
+    "salman.khan@mbzuai.ac.ae": [
+        {
+            "title": "open world object detection and discovery",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/open-world-object-detection-and-discovery/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-open-world-object-detection-and-discovery",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
         }
     ],
     "sampath@eng.pdn.ac.lk": [
@@ -3086,6 +3129,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-online-proctoring-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/online-proctoring-system/"
+        },
+        {
+            "title": "an artificial intelligence inspired zero trust model in decentralized edge environment",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/"
         },
         {
             "title": "ContactTracingApp",

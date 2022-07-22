@@ -2642,6 +2642,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/"
         }
     ],
+    "E/16/078": [
+        {
+            "title": "open world object detection and discovery",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/open-world-object-detection-and-discovery/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-open-world-object-detection-and-discovery",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
+        }
+    ],
     "E/16/083": [
         {
             "title": "digital signage based user targeted advertising",
@@ -2771,6 +2786,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-door-lock/"
         }
     ],
+    "E/16/168": [
+        {
+            "title": "open world object detection and discovery",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/open-world-object-detection-and-discovery/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-open-world-object-detection-and-discovery",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
+        }
+    ],
     "E/16/173": [
         {
             "title": "full body motion tracking system",
@@ -2872,6 +2902,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-computerized-timetabling-and-attendance-marking-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/computerized-timetabling-and-attendance-marking-system/"
+        },
+        {
+            "title": "an artificial intelligence inspired zero trust model in decentralized edge environment",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/"
         }
     ],
     "E/16/261": [
@@ -2943,6 +2986,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-computerized-timetabling-and-attendance-marking-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/computerized-timetabling-and-attendance-marking-system/"
+        },
+        {
+            "title": "an artificial intelligence inspired zero trust model in decentralized edge environment",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/"
         }
     ],
     "E/16/319": [
@@ -3100,6 +3156,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-obstacle-bots-for-swarm-robots",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/obstacle-bots-for-swarm-robots/"
+        },
+        {
+            "title": "open world object detection and discovery",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/open-world-object-detection-and-discovery/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-open-world-object-detection-and-discovery",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
         }
     ],
     "E/16/377": [
@@ -3190,6 +3259,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-computerized-timetabling-and-attendance-marking-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/computerized-timetabling-and-attendance-marking-system/"
+        },
+        {
+            "title": "an artificial intelligence inspired zero trust model in decentralized edge environment",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/"
         }
     ],
     "E/17/005": [
