@@ -2582,6 +2582,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-pill-manager",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-pill-manager/"
+        },
+        {
+            "title": "Configurable ECU Emulater",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulater/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulater",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulater",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulater/"
         }
     ],
     "E/16/069": [
@@ -2846,6 +2859,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-pill-manager/"
         },
         {
+            "title": "Configurable ECU Emulater",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulater/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulater",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulater",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulater/"
+        },
+        {
             "title": "RISCV Pipeline CPU Implimentation Group2",
             "category": {
                 "code": "co502",
@@ -2930,6 +2956,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-pill-manager",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-pill-manager/"
+        },
+        {
+            "title": "Configurable ECU Emulater",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulater/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulater",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulater",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulater/"
         }
     ],
     "E/16/276": [
