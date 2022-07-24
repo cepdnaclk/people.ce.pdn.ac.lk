@@ -14,7 +14,35 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
         }
     ],
+    "agbc@pdn.ac.lk": [
+        {
+            "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/"
+        }
+    ],
     "alawatugoda@eng.pdn.ac.lk": [
+        {
+            "title": "implementation of lightweight cryptographic algorithms",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/implementation-of-lightweight-cryptographic-algorithms/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/implementation-of-lightweight-cryptographic-algorithms/"
+        },
         {
             "title": "Identifying keywords in legal articles using ML techniques",
             "category": {
@@ -112,6 +140,19 @@
         }
     ],
     "asithab@eng.pdn.ac.lk": [
+        {
+            "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/"
+        },
         {
             "title": "Doppelganger Cartoon",
             "category": {
@@ -277,6 +318,19 @@
     ],
     "damayanthiherath@eng.pdn.ac.lk": [
         {
+            "title": "Using Computer Vision and Agent Based Modelling to Explore the Human Elephant Conflict",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/"
+        },
+        {
             "title": "Explainable Machine Learning for Real World Resource Constrained Problems",
             "category": {
                 "code": "4yp",
@@ -327,19 +381,6 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-Revealing-miRNA-Biomarkers-for-Alzheimer-s-Disease-using-NGS",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Revealing-miRNA-Biomarkers-for-Alzheimer-s-Disease-using-NGS/"
-        },
-        {
-            "title": "Using Computer Vision and Agent Based Modelling to Explore the Human Elephant Conflict",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/"
         },
         {
             "title": "Host Pathogen Interaction",
@@ -456,6 +497,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
         }
     ],
+    "h.gamaarachchi@garvan.org.au": [
+        {
+            "title": "Acceleration of DTW algorithm for real time nanopore selective sequencing using GPUs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs/"
+        }
+    ],
     "hasindu2008@gmail.com ": [
         {
             "title": "Accelerating Adaptive Banded Event Alignment Algorithm with OpenCL on FPGA",
@@ -469,6 +525,21 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA/"
+        }
+    ],
+    "iftekhar.salam@xmu.edu.my": [
+        {
+            "title": "implementation of lightweight cryptographic algorithms",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/implementation-of-lightweight-cryptographic-algorithms/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/implementation-of-lightweight-cryptographic-algorithms/"
         }
     ],
     "imeshuek@eng.pdn.ac.lk": [
@@ -1376,6 +1447,32 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/waiterbot-system/"
         },
         {
+            "title": "Configurable ECU Emulator",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulator/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulator",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulator",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulator/"
+        },
+        {
+            "title": "neuromorphic architecture",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/neuromorphic-architecture/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
+        },
+        {
             "title": "Brain Computer Interface for controlling virtual objects",
             "category": {
                 "code": "4yp",
@@ -1439,32 +1536,6 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-nearIR-spectroscopy",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/nearIR-spectroscopy/"
-        },
-        {
-            "title": "Configurable ECU Emulater",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulater/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulater",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulater",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulater/"
-        },
-        {
-            "title": "neuromorphic architecture",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/neuromorphic-architecture/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
         },
         {
             "title": "ipb",
@@ -2029,17 +2100,17 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-shopping-cart/"
         },
         {
-            "title": "Configurable ECU Emulater",
+            "title": "Configurable ECU Emulator",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulater/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulater",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulater",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulator/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulator",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulator",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulater/"
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulator/"
         },
         {
             "title": "neuromorphic architecture",
@@ -2390,6 +2461,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Optimizing-chloroplast-genome-assembly-and-annotation-with-skim-sequencing-data/"
         }
     ],
+    "prabhathg@sci.pdn.ac.lk ": [
+        {
+            "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/"
+        }
+    ],
     "pradeepag@agri.pdn.ac.lk": [
         {
             "title": "Optimizing Mitochondria Genome Assembly And Annotation With Skim Sequencing Data",
@@ -2710,6 +2796,71 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/automatic-fish-tank-control-system/"
         },
         {
+            "title": "Acceleration of DTW algorithm for real time nanopore selective sequencing using GPUs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs/"
+        },
+        {
+            "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/"
+        },
+        {
+            "title": "implementation of lightweight cryptographic algorithms",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/implementation-of-lightweight-cryptographic-algorithms/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/implementation-of-lightweight-cryptographic-algorithms/"
+        },
+        {
+            "title": "neuromorphic architecture",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/neuromorphic-architecture/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
+        },
+        {
+            "title": "open world object detection and discovery",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/open-world-object-detection-and-discovery/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-open-world-object-detection-and-discovery",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
+        },
+        {
             "title": "Brain Computer Interface for controlling virtual objects",
             "category": {
                 "code": "4yp",
@@ -2786,32 +2937,6 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-nearIR-spectroscopy",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/nearIR-spectroscopy/"
-        },
-        {
-            "title": "neuromorphic architecture",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/neuromorphic-architecture/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
-        },
-        {
-            "title": "open world object detection and discovery",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/open-world-object-detection-and-discovery/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-open-world-object-detection-and-discovery",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
         },
         {
             "title": "Analysis Tool for Industrial Images",
@@ -3118,6 +3243,32 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/waiterbot-system/"
         },
         {
+            "title": "AI as a Microservice for Smart Edge of Things",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/AI-as-a-Microservice-for-Smart-Edge-of-Things/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/AI-as-a-Microservice-for-Smart-Edge-of-Things/"
+        },
+        {
+            "title": "an artificial intelligence inspired zero trust model in decentralized edge environment",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/"
+        },
+        {
             "title": "Explainable Machine Learning for Real World Resource Constrained Problems",
             "category": {
                 "code": "4yp",
@@ -3155,19 +3306,6 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-online-proctoring-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/online-proctoring-system/"
-        },
-        {
-            "title": "an artificial intelligence inspired zero trust model in decentralized edge environment",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/"
         },
         {
             "title": "ContactTracingApp",

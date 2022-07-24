@@ -1,4 +1,176 @@
 {
+    "asithab@eng.pdn.ac.lk": {
+        "publication_count": 5,
+        "year_count": 5,
+        "publications": {
+            "2021": [
+                {
+                    "title": "Data Mining System for Predicting a Winning Cricket Team",
+                    "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2021",
+                    "authors": [
+                        "Dinithi Hasanika",
+                        "Roshani Dilhara",
+                        "Dulanjali Liyanage",
+                        "Asitha Bandaranayake",
+                        "Sampath Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660702",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Uncertainty",
+                        "Statistical analysis",
+                        "Conferences",
+                        "Games",
+                        "Machine learning",
+                        "Data mining",
+                        "Australia"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660702/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660702/index.json"
+                }
+            ],
+            "2020": [
+                {
+                    "title": "Raw transcriptomics data to gene specific SSRs: a validated free bioinformatics workflow for biologists",
+                    "venue": "Nature Scientific Reports",
+                    "year": "2020",
+                    "authors": [
+                        "DNU Naranpanawa",
+                        "CHWMRB Chandrasekara",
+                        "PCG Bandaranayake",
+                        "AU Bandaranayake"
+                    ],
+                    "doi": "https://doi.org/10.1038/s41598-020-75270-8",
+                    "preprint": "https://www.nature.com/articles/s41598-020-75270-8.pdf",
+                    "pdf": "https://www.nature.com/articles/s41598-020-75270-8.pdf",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        ""
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s41598-020-75270-8/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1038/s41598-020-75270-8/index.json"
+                }
+            ],
+            "2018": [
+                {
+                    "title": "Visual Design Platform for Wireless Sensor Network",
+                    "venue": "2018 Moratuwa Engineering Research Conference (MERCon)",
+                    "year": "2018",
+                    "authors": [
+                        "Rosen Silva",
+                        "Asela Dasanayaka",
+                        "Roshan Ragel",
+                        "Asitha Bandaranayake"
+                    ],
+                    "doi": "https://doi.org/10.1109/MERCon.2018.8421896",
+                    "preprint": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3/publication/327517623_Visual_Design_Platform_for_Wireless_Sensor_Network/links/5f98da03458515b7cfa4013c/Visual-Design-Platform-for-Wireless-Sensor-Network.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Wireless sensor networks",
+                        "Microcontrollers",
+                        "Databases",
+                        "Skeleton",
+                        "Visualization",
+                        "Hardware",
+                        "Programming"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2018.8421896/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2018.8421896/index.json"
+                }
+            ],
+            "2017": [
+                {
+                    "title": " Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
+                    "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2017",
+                    "authors": [
+                        "Pranavan Somaskandhan",
+                        "Gihan Wijesinghe",
+                        "Leshan Bashitha Wijegunawardana",
+                        "Asitha Bandaranayake",
+                        "Sampath Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIINFS.2017.8300399",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Sports equipment",
+                        "Data mining",
+                        "Measurement",
+                        "Support vector machines",
+                        "Statistical analysis",
+                        "Games",
+                        "Relational databases"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300399/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300399/index.json"
+                }
+            ],
+            "2016": [
+                {
+                    "title": "Affordable real-time environment monitoring system for greenhouses",
+                    "venue": "2016 Manufacturing & Industrial Engineering Symposium (MIES)",
+                    "year": "2016",
+                    "authors": [
+                        "Supun Athukorala",
+                        "Irunika Weeraratne",
+                        "Dumindu Jayathilaka",
+                        "Asitha Bandaranayake",
+                        "Roshan Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/MIES.2016.7780261",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Servers",
+                        "Greenhouses",
+                        "Sensor systems",
+                        "Relays",
+                        "Monitoring",
+                        "Sensor phenomena and characterization"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MIES.2016.7780261/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MIES.2016.7780261/index.json"
+                }
+            ]
+        }
+    },
     "damayanthiherath@eng.pdn.ac.lk": {
         "publication_count": 1,
         "year_count": 1,
@@ -743,8 +915,8 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "publication_count": 14,
-        "year_count": 9,
+        "publication_count": 21,
+        "year_count": 12,
         "publications": {
             "2021": [
                 {
@@ -884,6 +1056,142 @@
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
                 }
             ],
+            "2018": [
+                {
+                    "title": "Visual Design Platform for Wireless Sensor Network",
+                    "venue": "2018 Moratuwa Engineering Research Conference (MERCon)",
+                    "year": "2018",
+                    "authors": [
+                        "Rosen Silva",
+                        "Asela Dasanayaka",
+                        "Roshan Ragel",
+                        "Asitha Bandaranayake"
+                    ],
+                    "doi": "https://doi.org/10.1109/MERCon.2018.8421896",
+                    "preprint": "https://www.researchgate.net/profile/Asitha-Bandaranayake-3/publication/327517623_Visual_Design_Platform_for_Wireless_Sensor_Network/links/5f98da03458515b7cfa4013c/Visual-Design-Platform-for-Wireless-Sensor-Network.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Wireless sensor networks",
+                        "Microcontrollers",
+                        "Databases",
+                        "Skeleton",
+                        "Visualization",
+                        "Hardware",
+                        "Programming"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2018.8421896/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2018.8421896/index.json"
+                }
+            ],
+            "2016": [
+                {
+                    "title": "Affordable real-time environment monitoring system for greenhouses",
+                    "venue": "2016 Manufacturing & Industrial Engineering Symposium (MIES)",
+                    "year": "2016",
+                    "authors": [
+                        "Supun Athukorala",
+                        "Irunika Weeraratne",
+                        "Dumindu Jayathilaka",
+                        "Asitha Bandaranayake",
+                        "Roshan Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/MIES.2016.7780261",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Servers",
+                        "Greenhouses",
+                        "Sensor systems",
+                        "Relays",
+                        "Monitoring",
+                        "Sensor phenomena and characterization"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MIES.2016.7780261/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MIES.2016.7780261/index.json"
+                }
+            ],
+            "2015": [
+                {
+                    "title": "Exploring multilevel cache hierarchies in application specific mpsocs",
+                    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+                    "year": "2015",
+                    "authors": [
+                        "Isuru Nawinne",
+                        "Haris Javaid",
+                        "Roshan Ragel",
+                        "Swarnalatha Radhakrishnan",
+                        "Sri Parameswaran"
+                    ],
+                    "doi": "https://doi.org/10.1109/TCAD.2015.2445736",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Algorithm design and analysis",
+                        "Hardware",
+                        "Program processors",
+                        "Space exploration",
+                        "Integrated circuit modeling",
+                        "Mathematical model",
+                        "Optimization"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/TCAD.2015.2445736/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/TCAD.2015.2445736/index.json"
+                },
+                {
+                    "title": "Exploring multilevel cache hierarchies in application specific mpsocs",
+                    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+                    "year": "2015",
+                    "authors": [
+                        "Isuru Nawinne",
+                        "Haris Javaid",
+                        "Roshan Ragel",
+                        "Swarnalatha Radhakrishnan",
+                        "Sri Parameswaran"
+                    ],
+                    "doi": "https://doi.org/10.1109/TCAD.2015.2445736",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Algorithm design and analysis",
+                        "Hardware",
+                        "Program processors",
+                        "Space exploration",
+                        "Integrated circuit modeling",
+                        "Mathematical model",
+                        "Optimization"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/TCAD.2015.2445736/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/TCAD.2015.2445736/index.json"
+                }
+            ],
             "2014": [
                 {
                     "title": "A structured hardware software architecture for peptide based diagnosis \u00e2\u0080\u0094 Sub-string matching problem with limited tolerance",
@@ -980,6 +1288,104 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732061/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732061/index.json"
+                },
+                {
+                    "title": "A Study on Instruction-set Selection Using Multi-application Based Application Specific Instruction-set Processors",
+                    "venue": "2013 26th International Conference on VLSI Design and 2013 12th International Conference on Embedded Systems",
+                    "year": "2013",
+                    "authors": [
+                        "Roshan G. Ragel",
+                        "Swarnalatha Radhakrishnan",
+                        "Jude Angelo Ambrose",
+                        "Sri Parameswaran"
+                    ],
+                    "doi": "https://doi.org/10.1109/VLSID.2013.154",
+                    "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/261501995_A_Study_on_Instruction-set_Selection_Using_Multi-application_Based_Application_Specific_Instruction-set_Processors/links/54e48faf0cf2dbf60696e9b4/A-Study-on-Instruction-set-Selection-Using-Multi-application-Based-Application-Specific-Instruction-set-Processors.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Hardware",
+                        "Thumb",
+                        "Embedded systems",
+                        "Benchmark testing",
+                        "Standards",
+                        "Instruction sets"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/VLSID.2013.154/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/VLSID.2013.154/index.json"
+                },
+                {
+                    "title": "CSER: HW/SW configurable soft-error resiliency for application specific instruction-set processors",
+                    "venue": "2013 Design, Automation & Test in Europe Conference & Exhibition (DATE)",
+                    "year": "2013",
+                    "authors": [
+                        "Tuo Li",
+                        "Muhammad Shafique",
+                        "Semeen Rehman",
+                        "Swarnalatha Radhakrishnan",
+                        "Roshan Ragel",
+                        "Jude Angelo Ambrose",
+                        "J\u00c3\u00b6rg Henkel",
+                        "Sri Parameswaran"
+                    ],
+                    "doi": "https://doi.org/10.7873/DATE.2013.152",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Redundancy",
+                        "Time factors",
+                        "Runtime",
+                        "Integrated circuits",
+                        "Programming"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7873/DATE.2013.152/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7873/DATE.2013.152/index.json"
+                },
+                {
+                    "title": "DRMA: dynamically reconfigurable MPSoC architecture",
+                    "venue": "GLSVLSI '13: Proceedings of the 23rd ACM international conference on Great lakes symposium on VLSI",
+                    "year": "2013",
+                    "authors": [
+                        "Lawrance Zhang",
+                        "Jude Angelo Ambrose",
+                        "Jorgen Peddersen",
+                        "Sri Parameswaran",
+                        "Roshan Ragel",
+                        "Swarnalatha Radhakrishnan",
+                        "Kewal K. Saluja"
+                    ],
+                    "doi": "https://doi.org/10.1145/2483028.2483101",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Computer systems organization",
+                        "Architectures",
+                        "Serial architectures",
+                        "Pipeline computing",
+                        "Hardware"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/2483028.2483101/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/2483028.2483101/index.json"
                 }
             ],
             "2012": [
@@ -1209,10 +1615,254 @@
             ]
         }
     },
-    "swarnar@eng.pdn.ac.lk": {
-        "publication_count": 5,
-        "year_count": 4,
+    "sampath@eng.pdn.ac.lk": {
+        "publication_count": 2,
+        "year_count": 2,
         "publications": {
+            "2021": [
+                {
+                    "title": "Data Mining System for Predicting a Winning Cricket Team",
+                    "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2021",
+                    "authors": [
+                        "Dinithi Hasanika",
+                        "Roshani Dilhara",
+                        "Dulanjali Liyanage",
+                        "Asitha Bandaranayake",
+                        "Sampath Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660702",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Uncertainty",
+                        "Statistical analysis",
+                        "Conferences",
+                        "Games",
+                        "Machine learning",
+                        "Data mining",
+                        "Australia"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660702/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660702/index.json"
+                }
+            ],
+            "2017": [
+                {
+                    "title": " Identifying the optimal set of attributes that impose high impact on the end results of a cricket match using machine learning",
+                    "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2017",
+                    "authors": [
+                        "Pranavan Somaskandhan",
+                        "Gihan Wijesinghe",
+                        "Leshan Bashitha Wijegunawardana",
+                        "Asitha Bandaranayake",
+                        "Sampath Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIINFS.2017.8300399",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Sports equipment",
+                        "Data mining",
+                        "Measurement",
+                        "Support vector machines",
+                        "Statistical analysis",
+                        "Games",
+                        "Relational databases"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300399/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300399/index.json"
+                }
+            ]
+        }
+    },
+    "swarnar@eng.pdn.ac.lk": {
+        "publication_count": 10,
+        "year_count": 6,
+        "publications": {
+            "2015": [
+                {
+                    "title": "Exploring multilevel cache hierarchies in application specific mpsocs",
+                    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+                    "year": "2015",
+                    "authors": [
+                        "Isuru Nawinne",
+                        "Haris Javaid",
+                        "Roshan Ragel",
+                        "Swarnalatha Radhakrishnan",
+                        "Sri Parameswaran"
+                    ],
+                    "doi": "https://doi.org/10.1109/TCAD.2015.2445736",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Algorithm design and analysis",
+                        "Hardware",
+                        "Program processors",
+                        "Space exploration",
+                        "Integrated circuit modeling",
+                        "Mathematical model",
+                        "Optimization"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/TCAD.2015.2445736/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/TCAD.2015.2445736/index.json"
+                },
+                {
+                    "title": "Exploring multilevel cache hierarchies in application specific mpsocs",
+                    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+                    "year": "2015",
+                    "authors": [
+                        "Isuru Nawinne",
+                        "Haris Javaid",
+                        "Roshan Ragel",
+                        "Swarnalatha Radhakrishnan",
+                        "Sri Parameswaran"
+                    ],
+                    "doi": "https://doi.org/10.1109/TCAD.2015.2445736",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Algorithm design and analysis",
+                        "Hardware",
+                        "Program processors",
+                        "Space exploration",
+                        "Integrated circuit modeling",
+                        "Mathematical model",
+                        "Optimization"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/TCAD.2015.2445736/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/TCAD.2015.2445736/index.json"
+                }
+            ],
+            "2013": [
+                {
+                    "title": "A Study on Instruction-set Selection Using Multi-application Based Application Specific Instruction-set Processors",
+                    "venue": "2013 26th International Conference on VLSI Design and 2013 12th International Conference on Embedded Systems",
+                    "year": "2013",
+                    "authors": [
+                        "Roshan G. Ragel",
+                        "Swarnalatha Radhakrishnan",
+                        "Jude Angelo Ambrose",
+                        "Sri Parameswaran"
+                    ],
+                    "doi": "https://doi.org/10.1109/VLSID.2013.154",
+                    "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/261501995_A_Study_on_Instruction-set_Selection_Using_Multi-application_Based_Application_Specific_Instruction-set_Processors/links/54e48faf0cf2dbf60696e9b4/A-Study-on-Instruction-set-Selection-Using-Multi-application-Based-Application-Specific-Instruction-set-Processors.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Hardware",
+                        "Thumb",
+                        "Embedded systems",
+                        "Benchmark testing",
+                        "Standards",
+                        "Instruction sets"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/VLSID.2013.154/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/VLSID.2013.154/index.json"
+                },
+                {
+                    "title": "CSER: HW/SW configurable soft-error resiliency for application specific instruction-set processors",
+                    "venue": "2013 Design, Automation & Test in Europe Conference & Exhibition (DATE)",
+                    "year": "2013",
+                    "authors": [
+                        "Tuo Li",
+                        "Muhammad Shafique",
+                        "Semeen Rehman",
+                        "Swarnalatha Radhakrishnan",
+                        "Roshan Ragel",
+                        "Jude Angelo Ambrose",
+                        "J\u00c3\u00b6rg Henkel",
+                        "Sri Parameswaran"
+                    ],
+                    "doi": "https://doi.org/10.7873/DATE.2013.152",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Redundancy",
+                        "Time factors",
+                        "Runtime",
+                        "Integrated circuits",
+                        "Programming"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7873/DATE.2013.152/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7873/DATE.2013.152/index.json"
+                },
+                {
+                    "title": "DRMA: dynamically reconfigurable MPSoC architecture",
+                    "venue": "GLSVLSI '13: Proceedings of the 23rd ACM international conference on Great lakes symposium on VLSI",
+                    "year": "2013",
+                    "authors": [
+                        "Lawrance Zhang",
+                        "Jude Angelo Ambrose",
+                        "Jorgen Peddersen",
+                        "Sri Parameswaran",
+                        "Roshan Ragel",
+                        "Swarnalatha Radhakrishnan",
+                        "Kewal K. Saluja"
+                    ],
+                    "doi": "https://doi.org/10.1145/2483028.2483101",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Computer systems organization",
+                        "Architectures",
+                        "Serial architectures",
+                        "Pipeline computing",
+                        "Hardware"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/2483028.2483101/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/2483028.2483101/index.json"
+                }
+            ],
             "2012": [
                 {
                     "title": "Instruction-set selection for multi-application based ASIP design: An instruction-level study",

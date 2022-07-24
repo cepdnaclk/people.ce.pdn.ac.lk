@@ -2509,6 +2509,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-meeting-automaton",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-meeting-automaton/"
+        },
+        {
+            "title": "AI as a Microservice for Smart Edge of Things",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/AI-as-a-Microservice-for-Smart-Edge-of-Things/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/AI-as-a-Microservice-for-Smart-Edge-of-Things/"
         }
     ],
     "E/16/025": [
@@ -2524,6 +2537,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-meeting-automaton",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-meeting-automaton/"
+        },
+        {
+            "title": "AI as a Microservice for Smart Edge of Things",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/AI-as-a-Microservice-for-Smart-Edge-of-Things/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/AI-as-a-Microservice-for-Smart-Edge-of-Things/"
         }
     ],
     "E/16/054": [
@@ -2584,17 +2610,17 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-pill-manager/"
         },
         {
-            "title": "Configurable ECU Emulater",
+            "title": "Configurable ECU Emulator",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulater/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulater",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulater",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulator/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulator",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulator",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulater/"
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulator/"
         }
     ],
     "E/16/069": [
@@ -2741,6 +2767,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co502/E16/RV32IM-pipeline-implementation-group3/"
         }
     ],
+    "E/16/089": [
+        {
+            "title": "Acceleration of DTW algorithm for real time nanopore selective sequencing using GPUs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs/"
+        }
+    ],
     "E/16/094": [
         {
             "title": "waiterbot system",
@@ -2782,6 +2823,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-automatic-fish-tank-control-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/automatic-fish-tank-control-system/"
+        },
+        {
+            "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/"
         }
     ],
     "E/16/156": [
@@ -2827,6 +2881,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-full-body-motion-tracking-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/full-body-motion-tracking-system/"
+        },
+        {
+            "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/"
         }
     ],
     "E/16/200": [
@@ -2859,17 +2926,17 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-pill-manager/"
         },
         {
-            "title": "Configurable ECU Emulater",
+            "title": "Configurable ECU Emulator",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulater/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulater",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulater",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulator/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulator",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulator",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulater/"
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulator/"
         },
         {
             "title": "RISCV Pipeline CPU Implimentation Group2",
@@ -2883,6 +2950,21 @@
             "page_url": "https://cepdnaclk.github.io/e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co502/E16/RISCV-Pipeline-CPU-Implimentation-Group2/"
+        }
+    ],
+    "E/16/217": [
+        {
+            "title": "implementation of lightweight cryptographic algorithms",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/implementation-of-lightweight-cryptographic-algorithms/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/implementation-of-lightweight-cryptographic-algorithms/"
         }
     ],
     "E/16/222": [
@@ -2958,17 +3040,17 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-pill-manager/"
         },
         {
-            "title": "Configurable ECU Emulater",
+            "title": "Configurable ECU Emulator",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulater/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulater",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulater",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulator/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulator",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulator",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulater/"
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulator/"
         }
     ],
     "E/16/276": [
@@ -3038,6 +3120,21 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/"
+        }
+    ],
+    "E/16/313": [
+        {
+            "title": "Acceleration of DTW algorithm for real time nanopore selective sequencing using GPUs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs/"
         }
     ],
     "E/16/319": [
@@ -3111,6 +3208,36 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-payment-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-payment-system/"
+        }
+    ],
+    "E/16/360": [
+        {
+            "title": "Acceleration of DTW algorithm for real time nanopore selective sequencing using GPUs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs/"
+        }
+    ],
+    "E/16/364": [
+        {
+            "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/"
         }
     ],
     "E/16/366": [
