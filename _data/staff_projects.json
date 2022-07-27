@@ -331,6 +331,19 @@
     ],
     "damayanthiherath@eng.pdn.ac.lk": [
         {
+            "title": "ABM for Micro Mobility in Sri Lankan Cities",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/ABM-for-Micro-Mobility-in-Sri-Lankan-Cities/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-ABM-for-Micro-Mobility-in-Sri-Lankan-Cities",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-ABM-for-Micro-Mobility-in-Sri-Lankan-Cities",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/ABM-for-Micro-Mobility-in-Sri-Lankan-Cities/"
+        },
+        {
             "title": "Automated Protein Function Prediction",
             "category": {
                 "code": "4yp",
@@ -2683,6 +2696,19 @@
     ],
     "rajith.vidanaarachchi@unimelb.edu.au": [
         {
+            "title": "ABM for Micro Mobility in Sri Lankan Cities",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/ABM-for-Micro-Mobility-in-Sri-Lankan-Cities/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-ABM-for-Micro-Mobility-in-Sri-Lankan-Cities",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-ABM-for-Micro-Mobility-in-Sri-Lankan-Cities",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/ABM-for-Micro-Mobility-in-Sri-Lankan-Cities/"
+        },
+        {
             "title": "Using Computer Vision and Agent Based Modelling to Explore the Human Elephant Conflict",
             "category": {
                 "code": "4yp",
@@ -3252,6 +3278,21 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
+        }
+    ],
+    "samal@eng.pdn.ac.lk": [
+        {
+            "title": "ABM for Micro Mobility in Sri Lankan Cities",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/ABM-for-Micro-Mobility-in-Sri-Lankan-Cities/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-ABM-for-Micro-Mobility-in-Sri-Lankan-Cities",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-ABM-for-Micro-Mobility-in-Sri-Lankan-Cities",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/ABM-for-Micro-Mobility-in-Sri-Lankan-Cities/"
         }
     ],
     "sampath@eng.pdn.ac.lk": [

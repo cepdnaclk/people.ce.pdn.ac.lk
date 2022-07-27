@@ -1,4 +1,40 @@
 {
+    "E/14/054": [
+        {
+            "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
+            "venue": "Electronics",
+            "year": "2020",
+            "authors": [
+                "Chathurangi Edussuriya",
+                "Kasun Vithanage",
+                "Namila Bandara",
+                "Janaka Alawatugoda",
+                "Manjula Sandirigama",
+                "Upul Jayasinghe",
+                "Nathan Shone",
+                "Gyu Myoung Lee"
+            ],
+            "doi": "https://doi.org/10.3390/electronics9091525",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "IoT",
+                "blockchain",
+                "data analytics",
+                "smart contracts",
+                "access management"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
+        }
+    ],
     "E/14/158": [
         {
             "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
@@ -378,6 +414,77 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
         }
     ],
+    "E/14/413": [
+        {
+            "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
+            "venue": "Electronics",
+            "year": "2020",
+            "authors": [
+                "Chathurangi Edussuriya",
+                "Kasun Vithanage",
+                "Namila Bandara",
+                "Janaka Alawatugoda",
+                "Manjula Sandirigama",
+                "Upul Jayasinghe",
+                "Nathan Shone",
+                "Gyu Myoung Lee"
+            ],
+            "doi": "https://doi.org/10.3390/electronics9091525",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "IoT",
+                "blockchain",
+                "data analytics",
+                "smart contracts",
+                "access management"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
+        }
+    ],
+    "E/15/021": [
+        {
+            "title": "Ensuring Academic Integrity of Online Examinations",
+            "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2021",
+            "authors": [
+                "Mohamed Irfan",
+                "Mohammed Aslam",
+                "Ziyan Maraikar",
+                "Upul Jayasinghe",
+                "Mohamed Fawzan"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Source separation",
+                "Webcams",
+                "Annotations",
+                "Time series analysis",
+                "Pose estimation",
+                "Streaming media",
+                "Feature extraction"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
+        }
+    ],
     "E/15/092": [
         {
             "title": "Chronic kidney disease prediction using machine learning methods",
@@ -405,6 +512,75 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/ 10.1109/MERCon50084.2020.9185249/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/ 10.1109/MERCon50084.2020.9185249/index.json"
+        }
+    ],
+    "E/15/138": [
+        {
+            "title": "Ensuring Academic Integrity of Online Examinations",
+            "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2021",
+            "authors": [
+                "Mohamed Irfan",
+                "Mohammed Aslam",
+                "Ziyan Maraikar",
+                "Upul Jayasinghe",
+                "Mohamed Fawzan"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Source separation",
+                "Webcams",
+                "Annotations",
+                "Time series analysis",
+                "Pose estimation",
+                "Streaming media",
+                "Feature extraction"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
+        }
+    ],
+    "E/15/271": [
+        {
+            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+            "year": "2022",
+            "authors": [
+                "Sewwandi Nisansala",
+                "Gayal Laksara Chandrasiri",
+                "Sonali Prasadika",
+                "Upul Jayasinghe"
+            ],
+            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "preprint": "#",
+            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Architecture",
+                "Scalability",
+                "Microservice architectures",
+                "Computer architecture",
+                "Real-time systems",
+                "Internet of Things"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
         }
     ]
 }

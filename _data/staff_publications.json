@@ -1,4 +1,46 @@
 {
+    "alawatugoda@eng.pdn.ac.lk": {
+        "publication_count": 1,
+        "year_count": 1,
+        "publications": {
+            "2020": [
+                {
+                    "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
+                    "venue": "Electronics",
+                    "year": "2020",
+                    "authors": [
+                        "Chathurangi Edussuriya",
+                        "Kasun Vithanage",
+                        "Namila Bandara",
+                        "Janaka Alawatugoda",
+                        "Manjula Sandirigama",
+                        "Upul Jayasinghe",
+                        "Nathan Shone",
+                        "Gyu Myoung Lee"
+                    ],
+                    "doi": "https://doi.org/10.3390/electronics9091525",
+                    "preprint": "#",
+                    "pdf": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "IoT",
+                        "blockchain",
+                        "data analytics",
+                        "smart contracts",
+                        "access management"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
+                }
+            ]
+        }
+    },
     "asithab@eng.pdn.ac.lk": {
         "publication_count": 5,
         "year_count": 5,
@@ -990,6 +1032,160 @@
             ]
         }
     },
+    "kamalanath@eng.pdn.ac.lk": {
+        "publication_count": 5,
+        "year_count": 5,
+        "publications": {
+            "2021": [
+                {
+                    "title": "The correlation between three teleconnections and leptospirosis incidence in the Kandy District, Sri Lanka, 2004\u00e2\u0080\u00932019",
+                    "venue": "Tropical medicine and health",
+                    "year": "2021",
+                    "authors": [
+                        "NDB Ehelepola",
+                        "Kusalika Ariyaratne",
+                        "AMSMCM Aththanayake",
+                        "Kamalanath Samarakoon",
+                        "HM Thilakarathna"
+                    ],
+                    "doi": "https://doi.org/10.1186/s41182-021-00325-z",
+                    "preprint": "#",
+                    "pdf": "https://tropmedhealth.biomedcentral.com/track/pdf/10.1186/s41182-021-00325-z.pdf",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        ""
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s41182-021-00325-z/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1186/s41182-021-00325-z/index.json"
+                }
+            ],
+            "2019": [
+                {
+                    "title": "Comparison of optimization-and rule-based EMS for domestic PV-Battery installation with time-Varying local SoC limits",
+                    "venue": "Journal of Electrical and Computer Engineering",
+                    "year": "2019",
+                    "authors": [
+                        "Akila Herath",
+                        "Supun Kodituwakku",
+                        "Dinithi Dasanayake",
+                        "Prabath Binduhewa",
+                        "Janaka Ekanayake",
+                        "Kamalanath Samarakoon"
+                    ],
+                    "doi": "https://doi.org/10.1155/2019/8162475",
+                    "preprint": "#",
+                    "pdf": "https://downloads.hindawi.com/journals/jece/2019/8162475.pdf",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        ""
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1155/2019/8162475/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1155/2019/8162475/index.json"
+                }
+            ],
+            "2017": [
+                {
+                    "title": "Genetic algorithm based cost optimization to integrate a community based wind turbine while considering smart appliances scheduling",
+                    "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2017",
+                    "authors": [
+                        "AH Wijethunge",
+                        "JV Wijekulasooriya",
+                        "Janaka B Ekanayake",
+                        "KB Samarakoon",
+                        "A Polpitiya"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIINFS.2017.8300374",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Schedules",
+                        "Genetic algorithms",
+                        "Optimization",
+                        "Wind power generation",
+                        "Power demand",
+                        "Wind turbines",
+                        "Mathematical model"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300374/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300374/index.json"
+                }
+            ],
+            "2016": [
+                {
+                    "title": "Support of Mobile Phones in a Private Network for Science Teaching",
+                    "venue": "International Journal of Interactive Mobile Technologies",
+                    "year": "2016",
+                    "authors": [
+                        "Sakunthala Yatigammana Ekanayake",
+                        "Kamalanath Samarakoon"
+                    ],
+                    "doi": "https://doi.org/10.3991/ijim.v10i2.4817",
+                    "preprint": "#",
+                    "pdf": "https://online-journals.org/index.php/i-jim/article/view/4817",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Mobile learning",
+                        "Science education"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3991/ijim.v10i2.4817/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3991/ijim.v10i2.4817/index.json"
+                }
+            ],
+            "2015": [
+                {
+                    "title": "Novel Way of Using Mobile Phone for an Outside Science Learning Activity",
+                    "venue": "Literacy Information and Computer Education Journal (LICEJ)",
+                    "year": "2015",
+                    "authors": [
+                        "TMSSKY Ekanayake",
+                        "KB Samarakoon",
+                        "SDK Wijesundera"
+                    ],
+                    "doi": "http://doi.org/10.20533/licej.2040.2589.2015.0268",
+                    "preprint": "https://www.researchgate.net/publication/296809135_Novel_Way_of_Using_Mobile_Phone_for_an_Outside_Science_Learning_Activity",
+                    "pdf": "http://infonomics-society.org/wp-content/uploads/licej/published-papers/volume-6-2015/Novel-Way-of-Using-Mobile-Phone-for-an-Outside-Science-Learning-Activity.pdf",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        ""
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.20533/licej.2040.2589.2015.0268/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.20533/licej.2040.2589.2015.0268/index.json"
+                }
+            ]
+        }
+    },
     "mahanamaw@eng.pdn.ac.lk": {
         "publication_count": 1,
         "year_count": 1,
@@ -1031,9 +1227,45 @@
         }
     },
     "manjula.sandirigama@eng.pdn.ac.lk": {
-        "publication_count": 2,
-        "year_count": 2,
+        "publication_count": 3,
+        "year_count": 3,
         "publications": {
+            "2020": [
+                {
+                    "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
+                    "venue": "Electronics",
+                    "year": "2020",
+                    "authors": [
+                        "Chathurangi Edussuriya",
+                        "Kasun Vithanage",
+                        "Namila Bandara",
+                        "Janaka Alawatugoda",
+                        "Manjula Sandirigama",
+                        "Upul Jayasinghe",
+                        "Nathan Shone",
+                        "Gyu Myoung Lee"
+                    ],
+                    "doi": "https://doi.org/10.3390/electronics9091525",
+                    "preprint": "#",
+                    "pdf": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "IoT",
+                        "blockchain",
+                        "data analytics",
+                        "smart contracts",
+                        "access management"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
+                }
+            ],
             "2009": [
                 {
                     "title": "Security weaknesses of WEP protocol IEEE 802.11b and enhancing the security with dynamic keys",
@@ -2373,6 +2605,158 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2008.4783956/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2008.4783956/index.json"
+                }
+            ]
+        }
+    },
+    "upuljm@eng.pdn.ac.lk": {
+        "publication_count": 3,
+        "year_count": 3,
+        "publications": {
+            "2022": [
+                {
+                    "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+                    "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+                    "year": "2022",
+                    "authors": [
+                        "Sewwandi Nisansala",
+                        "Gayal Laksara Chandrasiri",
+                        "Sonali Prasadika",
+                        "Upul Jayasinghe"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+                    "preprint": "#",
+                    "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+                    "presentation": "#",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+                    "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Cloud computing",
+                        "Architecture",
+                        "Scalability",
+                        "Microservice architectures",
+                        "Computer architecture",
+                        "Real-time systems",
+                        "Internet of Things"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
+                }
+            ],
+            "2021": [
+                {
+                    "title": "Ensuring Academic Integrity of Online Examinations",
+                    "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2021",
+                    "authors": [
+                        "Mohamed Irfan",
+                        "Mohammed Aslam",
+                        "Ziyan Maraikar",
+                        "Upul Jayasinghe",
+                        "Mohamed Fawzan"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Source separation",
+                        "Webcams",
+                        "Annotations",
+                        "Time series analysis",
+                        "Pose estimation",
+                        "Streaming media",
+                        "Feature extraction"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
+                }
+            ],
+            "2020": [
+                {
+                    "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
+                    "venue": "Electronics",
+                    "year": "2020",
+                    "authors": [
+                        "Chathurangi Edussuriya",
+                        "Kasun Vithanage",
+                        "Namila Bandara",
+                        "Janaka Alawatugoda",
+                        "Manjula Sandirigama",
+                        "Upul Jayasinghe",
+                        "Nathan Shone",
+                        "Gyu Myoung Lee"
+                    ],
+                    "doi": "https://doi.org/10.3390/electronics9091525",
+                    "preprint": "#",
+                    "pdf": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "IoT",
+                        "blockchain",
+                        "data analytics",
+                        "smart contracts",
+                        "access management"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
+                }
+            ]
+        }
+    },
+    "ziyanm@eng.pdn.ac.lk": {
+        "publication_count": 1,
+        "year_count": 1,
+        "publications": {
+            "2021": [
+                {
+                    "title": "Ensuring Academic Integrity of Online Examinations",
+                    "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2021",
+                    "authors": [
+                        "Mohamed Irfan",
+                        "Mohammed Aslam",
+                        "Ziyan Maraikar",
+                        "Upul Jayasinghe",
+                        "Mohamed Fawzan"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e15/online-proctoring-system/",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Source separation",
+                        "Webcams",
+                        "Annotations",
+                        "Time series analysis",
+                        "Pose estimation",
+                        "Streaming media",
+                        "Feature extraction"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
                 }
             ]
         }
