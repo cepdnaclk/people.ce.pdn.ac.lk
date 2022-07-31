@@ -1339,8 +1339,117 @@
             ]
         }
     },
+    "namal@eng.pdn.ac.lk": {
+        "publication_count": 3,
+        "year_count": 3,
+        "publications": {
+            "2020": [
+                {
+                    "title": "Control channel denial-of-service attack in SDN-based networks",
+                    "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+                    "year": "2020",
+                    "authors": [
+                        "Shriparen Sriskandarajah",
+                        "Matthew McKague",
+                        "Ernest Foo",
+                        "Roshan G. Ragel",
+                        "Suneth Namal Karunarathna"
+                    ],
+                    "doi": "https://doi.org/10.1109/MERCon50084.2020.9185266",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Switches",
+                        "Computer architecture",
+                        "Denial-of-service attack",
+                        "Workstations",
+                        "Measurement",
+                        "Servers"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185266/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185266/index.json"
+                }
+            ],
+            "2016": [
+                {
+                    "title": "Implementation of OpenFlow based cognitive radio network architecture: SDN&R",
+                    "venue": "Wireless Networks",
+                    "year": "2016",
+                    "authors": [
+                        "Suneth Namal",
+                        "Ijaz Ahmad",
+                        "Saad Saud",
+                        "Markku Jokinen",
+                        "Andrei Gurtov"
+                    ],
+                    "doi": "https://doi.org/10.1007/s11276-015-0973-5",
+                    "preprint": "#",
+                    "pdf": "https://link.springer.com/content/pdf/10.1007/s11276-015-0973-5.pdf",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Cognitive networks",
+                        "OpenFlow",
+                        "Wireless SDN",
+                        "Virtual SSID",
+                        "IEEE 802.11",
+                        "WARP",
+                        "5G networks"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s11276-015-0973-5/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/s11276-015-0973-5/index.json"
+                }
+            ],
+            "2015": [
+                {
+                    "title": "Autonomic trust management in cloud-based and highly dynamic IoT applications",
+                    "venue": "2015 ITU Kaleidoscope: Trust in the Information Society (K-2015)",
+                    "year": "2015",
+                    "authors": [
+                        "Suneth Namal",
+                        "Hasindu Gamaarachchi",
+                        "Gyu MyoungLee",
+                        "Tai-Won Um"
+                    ],
+                    "doi": "https://doi.org/10.1109/Kaleidoscope.2015.7383635",
+                    "preprint": "#",
+                    "pdf": "https://researchonline.ljmu.ac.uk/id/eprint/2150/1/1570197625.pdf",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Cloud computing",
+                        "Security",
+                        "Biological system modeling",
+                        "Monitoring",
+                        "Internet of things",
+                        "Ecosystems",
+                        "Scalability"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/Kaleidoscope.2015.7383635/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/Kaleidoscope.2015.7383635/index.json"
+                }
+            ]
+        }
+    },
     "roshanr@eng.pdn.ac.lk": {
-        "publication_count": 26,
+        "publication_count": 27,
         "year_count": 12,
         "publications": {
             "2021": [
@@ -1445,6 +1554,38 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1038/s42003-020-01270-z/index.json"
+                },
+                {
+                    "title": "Control channel denial-of-service attack in SDN-based networks",
+                    "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+                    "year": "2020",
+                    "authors": [
+                        "Shriparen Sriskandarajah",
+                        "Matthew McKague",
+                        "Ernest Foo",
+                        "Roshan G. Ragel",
+                        "Suneth Namal Karunarathna"
+                    ],
+                    "doi": "https://doi.org/10.1109/MERCon50084.2020.9185266",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Switches",
+                        "Computer architecture",
+                        "Denial-of-service attack",
+                        "Workstations",
+                        "Measurement",
+                        "Servers"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185266/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185266/index.json"
                 }
             ],
             "2019": [
