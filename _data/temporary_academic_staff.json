@@ -119,5 +119,14 @@
         "linkedin": "https://www.linkedin.com/in/poornima-lankani-b54969103/",
         "joined_date": "2022-05-23",
         "left_date": ""
+    },
+    {
+        "staff_name" : "Jayamini Jayasundara",
+        "text_below_name" : "Temporary Instructor",
+        "url_image" : "#",
+        "email": "jayaminij@eng.pdn.ac.lk",
+        "linkedin": "#",
+        "joined_date": "#",
+        "left_date": ""
     }
 ]
