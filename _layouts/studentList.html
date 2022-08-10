@@ -85,7 +85,7 @@ title: E18 Batch
     <!-- Mechanical Students -->
     <!-- mechanical is only in E17 and upper -->
     {% assign batchNumber = page.batch | slice: 1,2 | plus: 0 %}
-    {% if batchNumber >= 17 %}
+    {% if batchNumber >= 17 and batchNumber != 19 %}
     <div class="row justify-content-center pb-5">
         <h3 class="text-center pt-3">External Students - Department of Mechanical Engineering</h3>
         <hr>
