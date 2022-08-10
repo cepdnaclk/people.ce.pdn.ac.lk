@@ -13,3 +13,18 @@
         line 38
         line 42
 6) run script 2 ("python3 python3 2_download_image_gen_html.py")
+7) Create the new html at pages/students/indexPages/e19.html with content 
+---
+layout: studentList
+permalink: /students/e19/
+
+batch: E19
+title_in_breadcrumb: E19 Batch
+
+title: E19 Batch
+---
+8) Add the new batch links to the top of _data/students.json
+    {
+        "title": "E19 Batch",
+        "url": "/students/e19/"
+    },

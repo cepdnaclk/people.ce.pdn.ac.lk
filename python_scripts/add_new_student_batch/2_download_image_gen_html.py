@@ -15,7 +15,7 @@ for each in batch_allStudents:
     regNo = name[0:8]
     name = name[8:-2]
     if regNo in CO.keys():
-        name = name.strip().title()
+        name = name.strip().title().replace("Miss", "").replace("Mr", "")
         link = link.strip()
         regNo = "".join(regNo.split("/")[1:])
         print(link)
@@ -25,9 +25,14 @@ for each in batch_allStudents:
         text = f"""---
 layout: studentDetails
 permalink: "/students/e19/{int(regNo[2:]):03d}/"
+title: will be filled by GH action
+
 
 reg_no: E/19/{int(regNo[2:]):03d}
 batch: E19
+
+department: Computer Engineering
+current_affiliation: Department of Computer Engineering, University of Peradeniya
 
 full_name: {name}
 name_with_initials: {name}
@@ -48,7 +53,8 @@ url_facebook: #
 url_researchgate: #
 url_twitter: #
 
-projects_done: []
+interests: #
+
 image_url: "images/students/e19/e{regNo}.jpg"
 ---
         """
