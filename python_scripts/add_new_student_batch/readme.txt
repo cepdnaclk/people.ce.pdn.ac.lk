@@ -28,3 +28,5 @@ title: E19 Batch
         "title": "E19 Batch",
         "url": "/students/e19/"
     },
+9) To update the page HTML titles. run the script student_profile_page_titles.py
+ ( "cd .. ; python3 student_profile_page_titles.py")
