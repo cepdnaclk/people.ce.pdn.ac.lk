@@ -1,0 +1,37 @@
+name: Resize images
+
+on:
+  # Enables a button on Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@master
+        with:
+          ref: main
+
+      - name: Set up Python 3.6
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.6
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+      - name: Resize student images
+        run: |
+          cd ./python_scripts
+          python3 student_profile_page_titles.py
+          cd ../
+
+      - name: Commit and push into the main branch
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add --all
+          git commit -m "Resize images (Github Action)" || echo "No changes"
+          git push
