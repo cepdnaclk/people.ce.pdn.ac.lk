@@ -5,7 +5,7 @@
 import requests
 from urllib.parse import urlparse
 
-fileOpened = open("output.txt", "w")
+fileOpened = open("batch_all.txt", "w")
 s = requests.Session()
 url = 'https://feels.pdn.ac.lk/user/profile.php?id=1'
 s.headers.update({
