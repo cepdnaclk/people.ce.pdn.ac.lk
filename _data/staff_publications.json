@@ -1,7 +1,7 @@
 {
     "alawatugoda@eng.pdn.ac.lk": {
-        "publication_count": 1,
-        "year_count": 1,
+        "publication_count": 3,
+        "year_count": 2,
         "publications": {
             "2020": [
                 {
@@ -37,6 +37,72 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
+                }
+            ],
+            "2016": [
+                {
+                    "title": "On implementing a client-server setting to prevent the Browser Reconnaissance and Exfiltration via Adaptive Compression of Hypertext (BREACH) attacks",
+                    "venue": "2016 Manufacturing & Industrial Engineering Symposium (MIES)",
+                    "year": "2016",
+                    "authors": [
+                        "Isuru Sankalpa",
+                        "Tharindu Dhanushka",
+                        "Nadeesha Amarasinghe",
+                        "Janaka Alawathugoda",
+                        "Roshan Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/MIES.2016.7780263",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Dictionaries",
+                        "Servers",
+                        "Compression algorithms",
+                        "Cryptography",
+                        "Browsers",
+                        "Encoding",
+                        "Bandwidth"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MIES.2016.7780263/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MIES.2016.7780263/index.json"
+                },
+                {
+                    "title": "Leakage-resilient storage scheme for cryptographic applications",
+                    "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+                    "year": "2016",
+                    "authors": [
+                        "Janaka Alawatugoda",
+                        "Roshan Ragel",
+                        "Danushka Eranga",
+                        "Nalaka Jayanath",
+                        "Chinthaka Somathilaka"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAFS.2016.7946548",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Side-channel attacks",
+                        "Protocols",
+                        "Computational modeling",
+                        "Timing",
+                        "Encryption"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946548/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946548/index.json"
                 }
             ]
         }
@@ -1449,8 +1515,8 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "publication_count": 27,
-        "year_count": 12,
+        "publication_count": 30,
+        "year_count": 13,
         "publications": {
             "2021": [
                 {
@@ -1656,6 +1722,39 @@
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2018.8421896/index.json"
                 }
             ],
+            "2017": [
+                {
+                    "title": "Implementing a proven-secure and cost-effective countermeasure against the compression ratio info-leak mass exploitation (CRIME) attack",
+                    "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2017",
+                    "authors": [
+                        "Jayamine Alupotha",
+                        "Sanduni Prasadi",
+                        "Janaka Alawatugoda",
+                        "Roshan Ragel",
+                        "Mohamed Fawsan"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIINFS.2017.8300359",
+                    "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/323352314_Implementing_a_proven-secure_and_cost-effective_countermeasure_against_the_compression_ratio_info-leak_mass_exploitation_CRIME_attack/links/61c959beb8305f7c4b0421bc/Implementing-a-proven-secure-and-cost-effective-countermeasure-against-the-compression-ratio-info-leak-mass-exploitation-CRIME-attack.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Bandwidth",
+                        "Side-channel attacks",
+                        "Dictionaries",
+                        "Servers",
+                        "Data compression"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300359/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300359/index.json"
+                }
+            ],
             "2016": [
                 {
                     "title": "Affordable real-time environment monitoring system for greenhouses",
@@ -1781,6 +1880,70 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946534/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946534/index.json"
+                },
+                {
+                    "title": "On implementing a client-server setting to prevent the Browser Reconnaissance and Exfiltration via Adaptive Compression of Hypertext (BREACH) attacks",
+                    "venue": "2016 Manufacturing & Industrial Engineering Symposium (MIES)",
+                    "year": "2016",
+                    "authors": [
+                        "Isuru Sankalpa",
+                        "Tharindu Dhanushka",
+                        "Nadeesha Amarasinghe",
+                        "Janaka Alawathugoda",
+                        "Roshan Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/MIES.2016.7780263",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Dictionaries",
+                        "Servers",
+                        "Compression algorithms",
+                        "Cryptography",
+                        "Browsers",
+                        "Encoding",
+                        "Bandwidth"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MIES.2016.7780263/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MIES.2016.7780263/index.json"
+                },
+                {
+                    "title": "Leakage-resilient storage scheme for cryptographic applications",
+                    "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+                    "year": "2016",
+                    "authors": [
+                        "Janaka Alawatugoda",
+                        "Roshan Ragel",
+                        "Danushka Eranga",
+                        "Nalaka Jayanath",
+                        "Chinthaka Somathilaka"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAFS.2016.7946548",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Side-channel attacks",
+                        "Protocols",
+                        "Computational modeling",
+                        "Timing",
+                        "Encryption"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946548/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946548/index.json"
                 }
             ],
             "2015": [

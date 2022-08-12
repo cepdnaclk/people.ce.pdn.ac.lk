@@ -1,4 +1,70 @@
 {
+    "E/12/009": [
+        {
+            "title": "Implementing a proven-secure and cost-effective countermeasure against the compression ratio info-leak mass exploitation (CRIME) attack",
+            "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2017",
+            "authors": [
+                "Jayamine Alupotha",
+                "Sanduni Prasadi",
+                "Janaka Alawatugoda",
+                "Roshan Ragel",
+                "Mohamed Fawsan"
+            ],
+            "doi": "https://doi.org/10.1109/ICIINFS.2017.8300359",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/323352314_Implementing_a_proven-secure_and_cost-effective_countermeasure_against_the_compression_ratio_info-leak_mass_exploitation_CRIME_attack/links/61c959beb8305f7c4b0421bc/Implementing-a-proven-secure-and-cost-effective-countermeasure-against-the-compression-ratio-info-leak-mass-exploitation-CRIME-attack.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+            ],
+            "funding": "",
+            "tags": [
+                "Bandwidth",
+                "Side-channel attacks",
+                "Dictionaries",
+                "Servers",
+                "Data compression"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300359/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300359/index.json"
+        }
+    ],
+    "E/12/269": [
+        {
+            "title": "Implementing a proven-secure and cost-effective countermeasure against the compression ratio info-leak mass exploitation (CRIME) attack",
+            "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2017",
+            "authors": [
+                "Jayamine Alupotha",
+                "Sanduni Prasadi",
+                "Janaka Alawatugoda",
+                "Roshan Ragel",
+                "Mohamed Fawsan"
+            ],
+            "doi": "https://doi.org/10.1109/ICIINFS.2017.8300359",
+            "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/323352314_Implementing_a_proven-secure_and_cost-effective_countermeasure_against_the_compression_ratio_info-leak_mass_exploitation_CRIME_attack/links/61c959beb8305f7c4b0421bc/Implementing-a-proven-secure-and-cost-effective-countermeasure-against-the-compression-ratio-info-leak-mass-exploitation-CRIME-attack.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+            ],
+            "funding": "",
+            "tags": [
+                "Bandwidth",
+                "Side-channel attacks",
+                "Dictionaries",
+                "Servers",
+                "Data compression"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300359/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300359/index.json"
+        }
+    ],
     "E/14/054": [
         {
             "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
