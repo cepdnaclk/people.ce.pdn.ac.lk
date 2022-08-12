@@ -85,6 +85,20 @@ class Tests(unittest.TestCase):
         link = driver.find_element(by=By.ID, value="byInterestStaff").get_attribute("href")
         self.assertEqual(link, a_config_test.SERVER_URL + "search/by-research-interests/", "Search by interest staff link is not correct")
 
+    def test_search_shows_at_least_one_student_from_each_batch(self):
+        driver = webdriver_functions.getHomepage()
+        batchNumber = list(range(00, 20))
+        batchNumber.append(99)
+        batchNumber.append(98)
+        for batch in batchNumber:
+            # print(batch)
+            driver.find_element(by=By.ID, value="search-input").send_keys(f"E{batch:02d}")
+            homeButton = driver.find_element(By.XPATH, value="//*[@class='list-group-item list-group-item-action' or @class='jsb']")
+            link = homeButton.get_attribute("href")
+            flag = link.find(f"e{batch:02d}")
+            self.assertTrue(flag, "Search doesnt have one batch")
+            driver.find_element(by=By.ID, value="search-input").clear()
+
 
 if __name__ == '__main__':
     unittest.main()
