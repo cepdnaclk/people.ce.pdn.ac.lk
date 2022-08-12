@@ -8,6 +8,9 @@ serve: clean
 build: clean
 	bundle exec jekyll build
 
+test:
+	cd tests; python3 -m unittest discover -v -f
+
 clean:
 	rm -rf _site
 
