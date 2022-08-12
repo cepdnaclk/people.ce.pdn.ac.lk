@@ -11,7 +11,7 @@ class Tests(unittest.TestCase):
         if "External Students - Department of Mechanical Engineering" in driver.page_source:
             self.fail("E19 has mechanical students")
 
-    def test_E18__have_mechanical_students(self):
+    def test_E18_have_mechanical_students(self):
         driver = webdriver_functions.getURL("students/e18/")
         if "External Students - Department of Mechanical Engineering" not in driver.page_source:
             self.fail("E18 deosnt have mechanical students")
