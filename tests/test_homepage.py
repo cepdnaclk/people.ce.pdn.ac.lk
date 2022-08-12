@@ -1,10 +1,10 @@
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 
-from distutils.command.config import config
 import unittest
 import webdriver_functions
 import a_config_test
 from selenium.webdriver.common.by import By
+import requests
 
 
 class Tests(unittest.TestCase):
@@ -47,12 +47,22 @@ class Tests(unittest.TestCase):
         self.button_test("Alumni", a_config_test.SERVER_URL + "alumni/")
 
     # TODO: How to test the E19,E18 buttons ? maybe read from the json and do the tests automatically ? and alumni the same way ?
+    # But doing that means we are checking if jekyll builds the site properly 🤣
 
     def test_postgraduate_button_link(self):
         self.button_test("Postgraduate", a_config_test.SERVER_URL + "students/postgraduate/")
 
     def test_documentation_button_link(self):
         self.button_test("Documentation", a_config_test.SERVER_URL + "documentation/")
+
+    def test_every_link_is_valid(self):
+        driver = webdriver_functions.getHomepage()
+        elems = driver.find_elements(by=By.XPATH, value="//a[@href]")
+        print("Number of links: " + str(len(elems)))
+        for elem in elems:
+            link = elem.get_attribute("href")
+            thisRequest = requests.get(link)
+            self.assertTrue(thisRequest.status_code == 200, link + " is not valid")
 
 
 if __name__ == '__main__':
