@@ -179,7 +179,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
         "reg_no" : "{{item[1].reg_no}}",
         "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
-        "url" : "/students/e02/"
+        "url" : "/students/e02a/"
       },
   {% endfor %}
   {% assign batch = site.data.stud.e01  %}
@@ -188,7 +188,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
         "reg_no" : "{{item[1].reg_no}}",
         "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
-        "url" : "/students/e02/"
+        "url" : "/students/e01/"
       },
   {% endfor %}
   {% assign batch = site.data.stud.e00  %}
@@ -197,7 +197,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
         "reg_no" : "{{item[1].reg_no}}",
         "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
-        "url" : "/students/e02/"
+        "url" : "/students/e00/"
       },
   {% endfor %}
   {% assign batch = site.data.stud.e99  %}
@@ -206,7 +206,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
         "reg_no" : "{{item[1].reg_no}}",
         "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
-        "url" : "/students/e02/"
+        "url" : "/students/e99/"
       },
   {% endfor %}
   {% assign batch = site.data.stud.e98  %}
@@ -215,7 +215,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
         "reg_no" : "{{item[1].reg_no}}",
         "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
-        "url" : "/students/e02/"
+        "url" : "/students/e98/"
       },
   {% endfor %}
 
