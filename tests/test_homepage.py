@@ -58,9 +58,12 @@ class Tests(unittest.TestCase):
     def test_every_link_is_valid(self):
         driver = webdriver_functions.getHomepage()
         elems = driver.find_elements(by=By.XPATH, value="//a[@href]")
-        print("Number of links: " + str(len(elems)))
+       # print("Number of links: " + str(len(elems)))
         for elem in elems:
             link = elem.get_attribute("href")
+            if a_config_test.SERVER_URL not in link:
+                # dont have to test external links
+                continue
             thisRequest = requests.get(link)
             self.assertTrue(thisRequest.status_code == 200, link + " is not valid")
 

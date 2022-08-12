@@ -15,6 +15,11 @@ options.add_argument('--headless')
 driver = webdriver.Chrome("./webdriver/chromedriver.exe", options=options)
 
 
+def getURL(url):
+    driver.get(a_config_test.SERVER_URL + url)
+    return driver
+
+
 def getHomepage():
     driver.get(a_config_test.SERVER_URL)
     return driver
@@ -52,4 +57,19 @@ def getSearchByInterestStaff():
 
 def getAcademicStaff():
     driver.get(a_config_test.SERVER_URL + "staff/academic/")
+    return driver
+
+
+def getPastHoDs():
+    driver.get(a_config_test.SERVER_URL + "staff/past-heads-of-dep/")
+    return driver
+
+
+def getTempACAStaff():
+    driver.get(a_config_test.SERVER_URL + "staff/temporary-academic-staff/")
+    return driver
+
+
+def getDocumentation():
+    driver.get(a_config_test.SERVER_URL + "documentation/")
     return driver
