@@ -1,7 +1,7 @@
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 
 import unittest
-import webdriver_functions
+import b_webdriver_functions
 import a_config_test
 from selenium.webdriver.common.by import By
 import requests
@@ -11,12 +11,12 @@ class Tests(unittest.TestCase):
 
     # HOMEPAGE
     def test_title(self):
-        driver = webdriver_functions.getHomepage()
+        driver = b_webdriver_functions.getHomepage()
         title = driver.title
         self.assertEqual(title, "People | people.ce.pdn.ac.lk", "Title is not correct")
 
     def button_test(self, buttonText, buttonURL):
-        driver = webdriver_functions.getHomepage()
+        driver = b_webdriver_functions.getHomepage()
         homeButton = driver.find_element(by=By.LINK_TEXT, value=buttonText)
         # get link of homeButton
         link = homeButton.get_attribute("href")
@@ -56,7 +56,7 @@ class Tests(unittest.TestCase):
         self.button_test("Documentation", a_config_test.SERVER_URL + "documentation/")
 
     def test_every_link_is_valid(self):
-        driver = webdriver_functions.getHomepage()
+        driver = b_webdriver_functions.getHomepage()
         elems = driver.find_elements(by=By.XPATH, value="//a[@href]")
        # print("Number of links: " + str(len(elems)))
         for elem in elems:

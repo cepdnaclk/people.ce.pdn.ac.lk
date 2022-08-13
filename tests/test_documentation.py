@@ -1,7 +1,7 @@
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 from dataclasses import replace
 import unittest
-import webdriver_functions
+import b_webdriver_functions
 import a_config_test
 from selenium.webdriver.common.by import By
 import requests
@@ -9,12 +9,12 @@ import requests
 
 class Tests(unittest.TestCase):
     def test_loads_page(self):
-        driver = webdriver_functions.getDocumentation()
+        driver = b_webdriver_functions.getDocumentation()
         if driver.page_source.find("Documentation") == -1:
             self.fail("Documentation page did not load")
 
     def test_every_link_in_page(self):
-        driver = webdriver_functions.getDocumentation()
+        driver = b_webdriver_functions.getDocumentation()
         elems = driver.find_elements(by=By.XPATH, value="//a[@href]")
        # print("Number of links: " + str(len(elems)))
         for elem in elems:
@@ -26,7 +26,7 @@ class Tests(unittest.TestCase):
             self.assertTrue(thisRequest.status_code == 200, link + " is not valid")
 
     def test_every_link_in_each_documentation_page(self):
-        driver = webdriver_functions.getDocumentation()
+        driver = b_webdriver_functions.getDocumentation()
         elems = driver.find_elements(by=By.XPATH, value="//a[@href]")
         links = []
         for elem in elems:
@@ -39,7 +39,7 @@ class Tests(unittest.TestCase):
             if eachLink.find("#") > 0:
                 continue
             eachLink = eachLink.replace(a_config_test.SERVER_URL, "")
-            driver = webdriver_functions.getURL(eachLink)
+            driver = b_webdriver_functions.getURL(eachLink)
             elems = driver.find_elements(by=By.XPATH, value="//a[@href]")
             # print(f"{eachLink} Number of links: " + str(len(elems)))
 

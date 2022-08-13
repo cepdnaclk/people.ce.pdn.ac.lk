@@ -1,6 +1,6 @@
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 import unittest
-import webdriver_functions
+import b_webdriver_functions
 import a_config_test
 import requests
 import json
@@ -16,7 +16,7 @@ class Tests(unittest.TestCase):
             url = each["url"]
             self.assertTrue(requests.get(a_config_test.SERVER_URL + url).status_code == 200, url + " is not valid")
 
-            driver = webdriver_functions.getURL(url)
+            driver = b_webdriver_functions.getURL(url)
             elems = driver.find_elements(by=By.XPATH, value="//a[@href]")
             # print("test_if_student_pages_load Number of links: " + str(len(elems)))
             for elem in elems:
@@ -33,7 +33,7 @@ class Tests(unittest.TestCase):
             # print(url)
             self.assertTrue(requests.get(a_config_test.SERVER_URL + url).status_code == 200, url + " is not valid")
 
-            driver = webdriver_functions.getURL(url)
+            driver = b_webdriver_functions.getURL(url)
             elems = driver.find_elements(by=By.XPATH, value="//a[@href]")
             # print("test_alumni_pages Number of links: " + str(len(elems)))
             for elem in elems:
@@ -50,7 +50,7 @@ class Tests(unittest.TestCase):
             # print(url)
             self.assertTrue(requests.get(a_config_test.SERVER_URL + url).status_code == 200, url + " is not valid")
 
-            driver = webdriver_functions.getURL(url)
+            driver = b_webdriver_functions.getURL(url)
             elems = driver.find_elements(by=By.XPATH, value="//a[@href]")
             # print("test_alumni_pages_e02a_and_99_98 Number of links: " + str(len(elems)))
             for elem in elems:
