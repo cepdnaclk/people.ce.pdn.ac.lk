@@ -4,6 +4,7 @@ import b_webdriver_functions
 import a_config_test
 import requests
 from selenium.webdriver.common.by import By
+import json
 
 
 class Tests(unittest.TestCase):
@@ -23,6 +24,16 @@ class Tests(unittest.TestCase):
                 continue
             thisRequest = requests.get(link)
             self.assertTrue(thisRequest.status_code == 200, link + " is not valid")
+
+    def test_check_if_all_staff_are_shown(self):
+        staffFile = open("../_data/past_heads_of_dep.json")
+        jsonObject = json.load(staffFile)
+        staffFile.close()
+
+        driver = b_webdriver_functions.getPastHoDs()
+        for eachStaff in jsonObject:
+            if driver.page_source.find(eachStaff["staff_name"]) == -1:
+                self.fail(eachStaff["staff_name"] + " was not found")
 
 
 if __name__ == '__main__':

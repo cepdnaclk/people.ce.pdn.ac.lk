@@ -60,6 +60,11 @@ def getAcademicStaff():
     return driver
 
 
+def getAcademicSupportStaff():
+    driver.get(a_config_test.SERVER_URL + "staff/academic-support-staff/")
+    return driver
+
+
 def getPastHoDs():
     driver.get(a_config_test.SERVER_URL + "staff/past-heads-of-dep/")
     return driver
@@ -72,4 +77,14 @@ def getTempACAStaff():
 
 def getDocumentation():
     driver.get(a_config_test.SERVER_URL + "documentation/")
+    return driver
+
+
+def getStaffAPI():
+    driver.get(a_config_test.SERVER_URL + "api/staff/index.json")
+    return driver
+
+
+def getStudentAPI():
+    driver.get(a_config_test.SERVER_URL + "api/students/index.json")
     return driver
