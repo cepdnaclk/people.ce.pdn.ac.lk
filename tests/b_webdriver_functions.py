@@ -88,3 +88,8 @@ def getStaffAPI():
 def getStudentAPI():
     driver.get(a_config_test.SERVER_URL + "api/students/index.json")
     return driver
+
+
+def getSocieties():
+    driver.get(a_config_test.SERVER_URL + "societies/")
+    return driver
