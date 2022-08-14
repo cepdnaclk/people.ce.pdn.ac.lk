@@ -34,8 +34,8 @@ class Tests(unittest.TestCase):
     def test_temp_academic_staff_button_link(self):
         self.button_test("Temporary Academic Staff", a_config_test.SERVER_URL + "staff/temporary-academic-staff/")
 
-    def test_academic_support_staff_button_link(self):
-        self.button_test("Academic Support Staff", a_config_test.SERVER_URL + "staff/academic-support-staff/")
+    def test_non_academic_staff_button_link(self):
+        self.button_test("Non Academic Staff", a_config_test.SERVER_URL + "staff/non-academic-staff/")
 
     def test_past_hods_button_link(self):
         self.button_test("Past HoDs", a_config_test.SERVER_URL + "staff/past-heads-of-dep/")

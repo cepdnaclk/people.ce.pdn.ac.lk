@@ -34,12 +34,12 @@ class Tests(unittest.TestCase):
         link = homeButton.get_attribute("href")
         self.assertEqual(link,  a_config_test.SERVER_URL + "students/e00/", "Search doesnt show profiles without profile page")
 
-    def test_if_search_shows_academic_support_staff(self):
+    def test_if_search_shows_non_academic_staff(self):
         driver = b_webdriver_functions.getHomepage()
         driver.find_element(by=By.ID, value="search-input").send_keys("Priyangani Samaratunge")
-        homeButton = driver.find_element(by=By.LINK_TEXT, value="Priyangani Samaratunge - Academic Support Staff")
+        homeButton = driver.find_element(by=By.LINK_TEXT, value="Priyangani Samaratunge - Non Academic Staff")
         link = homeButton.get_attribute("href")
-        self.assertEqual(link,  a_config_test.SERVER_URL + "staff/academic-support-staff/", "Search doesnt show academic support staff")
+        self.assertEqual(link,  a_config_test.SERVER_URL + "staff/non-academic-staff/", "Search doesnt show Non Academic Staff")
 
     def test_if_search_shows_temporary_academic_staff(self):
         driver = b_webdriver_functions.getHomepage()

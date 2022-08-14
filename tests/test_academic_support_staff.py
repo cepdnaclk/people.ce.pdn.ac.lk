@@ -10,8 +10,8 @@ import json
 class Tests(unittest.TestCase):
     def test_if_page_loads(self):
         driver = b_webdriver_functions.getAcademicSupportStaff()
-        if driver.page_source.find("Academic Support Staff") == -1:
-            self.fail("Academic Support Staff page did not load")
+        if driver.page_source.find("Non Academic Staff") == -1:
+            self.fail("Non Academic Staff page did not load")
 
     def test_every_link_in_page(self):
         driver = b_webdriver_functions.getAcademicSupportStaff()
@@ -30,7 +30,7 @@ class Tests(unittest.TestCase):
             self.assertTrue(thisRequest.status_code == 200, link + " is not valid")
 
     def test_check_if_all_staff_are_shown(self):
-        staffFile = open("../_data/academic_support_staff.json")
+        staffFile = open("../_data/non_academic_staff.json")
         jsonObject = json.load(staffFile)
         staffFile.close()
 

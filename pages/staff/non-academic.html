@@ -1,25 +1,25 @@
 ---
 layout: default
-permalink: /staff/academic-support-staff/
+permalink: /staff/non-academic-staff/
 type: "Academic Support"
 
-title: Academic Support Staff
+title: Non-Academic Staff
 ---
 
 {%- comment -%}
 
-Update the JSON, _data/academic-support-staff.json, and it will add the profiles into here.
+Update the JSON, _data/non-academic-staff.json, and it will add the profiles into here.
 
 {%- endcomment -%}
 
 <main class="container">
     <div class="bg-secondary p-3 pb-1 rounded">
-        <h1 class="text-white">Academic Support Staff</h1>
+        <h1 class="text-white">Non-Academic Staff</h1>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
                 <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
-                <li class="breadcrumb-item text-white">Academic Support Staff</li>
+                <li class="breadcrumb-item text-white">Non-Academic Staff</li>
             </ol>
         </nav>
     </div>
@@ -27,7 +27,7 @@ Update the JSON, _data/academic-support-staff.json, and it will add the profiles
 
 <div class="container py-4 px-lg-5">
     <div class="row justify-content-center">
-        {%- for each in site.data.academic_support_staff -%}
+        {%- for each in site.data.non_academic_staff -%}
         {%- if each.on_duty == "true" -%}
         <div class="container card text-center p-2 border-primary m-1" style="width: 14rem;">
             <img src="{{ each.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-3" alt="{{each.staff_name}}">
@@ -50,9 +50,9 @@ Update the JSON, _data/academic-support-staff.json, and it will add the profiles
     </div>
 
     <div class="row justify-content-center pt-5">
-        <h3 class="text-center">Past Academic Support Staff</h3>
+        <h3 class="text-center">Past Non-Academic Staff</h3>
         <hr>
-        {%- for each in site.data.academic_support_staff -%}
+        {%- for each in site.data.non_academic_staff -%}
         {%- if each.on_duty == "false" -%}
         <div class="container card text-center p-2 border-primary m-1" style="width: 14rem;">
             <img src="{{ each.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-3" alt="{{each.staff_name}}">

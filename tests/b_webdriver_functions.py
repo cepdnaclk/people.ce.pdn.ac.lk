@@ -61,7 +61,7 @@ def getAcademicStaff():
 
 
 def getAcademicSupportStaff():
-    driver.get(a_config_test.SERVER_URL + "staff/academic-support-staff/")
+    driver.get(a_config_test.SERVER_URL + "staff/non-academic-staff/")
     return driver
 
 

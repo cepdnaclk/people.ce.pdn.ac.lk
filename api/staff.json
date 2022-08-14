@@ -28,7 +28,7 @@ sitemap: false
         {% endfor -%}
     },
     "support-academic":{
-        {%- assign temp_staff_list = site.data.academic_support_staff -%}
+        {%- assign temp_staff_list = site.data.non_academic_staff -%}
         {% for staff in temp_staff_list -%}
         "{{ staff.email }}":{
             "name": "{{staff.staff_name}}",
