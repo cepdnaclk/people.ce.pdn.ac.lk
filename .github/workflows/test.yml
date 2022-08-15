@@ -4,9 +4,7 @@ on: [push, pull_request]
 jobs:
   jekyll:
     name: Build and Test Jekyll
-#     runs-on: ubuntu-latest
-# testing self hosted runners
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout
