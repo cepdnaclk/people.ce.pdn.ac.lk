@@ -10,7 +10,7 @@ import json
 class Tests(unittest.TestCase):
     def test_if_page_loads(self):
         driver = b_webdriver_functions.getAcademicSupportStaff()
-        if driver.page_source.find("Non Academic Staff") == -1:
+        if driver.page_source.find("Non-Academic Staff") == -1:
             self.fail("Non Academic Staff page did not load")
 
     def test_every_link_in_page(self):
