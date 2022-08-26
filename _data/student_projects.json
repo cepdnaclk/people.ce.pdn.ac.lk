@@ -3032,6 +3032,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/waiterbot-system/"
         },
         {
+            "title": "swarm intelligence programming framework",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/swarm-intelligence-programming-framework/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-swarm-intelligence-programming-framework",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
+        },
+        {
             "title": "RV32IM pipeline implementation group1",
             "category": {
                 "code": "co502",
@@ -3329,6 +3342,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/implementation-of-lightweight-cryptographic-algorithms/"
         }
     ],
+    "E/16/221": [
+        {
+            "title": "swarm intelligence programming framework",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/swarm-intelligence-programming-framework/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-swarm-intelligence-programming-framework",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
+        }
+    ],
     "E/16/222": [
         {
             "title": "smart meeting automaton",
@@ -3342,6 +3370,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-meeting-automaton",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-meeting-automaton/"
+        },
+        {
+            "title": "Hardware Cache Switching with Operating System Context Switches",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
         }
     ],
     "E/16/223": [
@@ -3456,6 +3497,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-gas-level-indicator-and-leakage-detector",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/gas-level-indicator-and-leakage-detector/"
+        },
+        {
+            "title": "swarm intelligence programming framework",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/swarm-intelligence-programming-framework/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-swarm-intelligence-programming-framework",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
         },
         {
             "title": "Project Publication Platform",
@@ -3613,6 +3667,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-automatic-fish-tank-control-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/automatic-fish-tank-control-system/"
+        },
+        {
+            "title": "Hardware Cache Switching with Operating System Context Switches",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
         },
         {
             "title": "RISCV Pipeline CPU Implimentation Group2",
