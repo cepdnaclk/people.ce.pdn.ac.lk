@@ -11,7 +11,7 @@
         "staff_name" : "Bandara Wasundara",
         "text_below_name" : "Technical Officer",
         "url_image" : "images/staff/non-academic-staff/bandara.jpg",
-        "contact_number" : "+94 81 2393470",
+        "contact_number" : "+94 81 2393911",
         "on_duty": "true",
         "email" : "bandaraw@eng.pdn.ac.lk"
     },
@@ -19,7 +19,7 @@
         "staff_name" : "Kelum Gunarathne",
         "text_below_name" : "Technical Officer",
         "url_image" : "images/staff/non-academic-staff/kelum.jpg",
-        "contact_number" : "+94 81 2393470",
+        "contact_number" : "+94 81 2393910",
         "on_duty": "true",
         "email" : "kalumg@eng.pdn.ac.lk"
     },
@@ -27,7 +27,7 @@
         "staff_name" : "Umega Rathnayake",
         "text_below_name" : "Technical Officer",
         "url_image" : "images/staff/non-academic-staff/umega.jpg",
-        "contact_number" : "",
+        "contact_number" : "+94 81 2393471",
         "on_duty": "true",
         "email" : "urathnayake@eng.pdn.ac.lk"
     },
@@ -35,7 +35,7 @@
         "staff_name" : "Hemantha Kumara",
         "text_below_name" : "Staff Assistant",
         "url_image" : "images/staff/non-academic-staff/hemantha.jpg",
-        "contact_number" : "",
+        "contact_number" : "+94 81 2393471",
         "on_duty": "true",
         "email": "hemanthak@eng.pdn.ac.lk"
     },
@@ -43,7 +43,7 @@
         "staff_name" : "Anuradha Bandara",
         "text_below_name" : "Staff Assistant",
         "url_image" : "images/staff/non-academic-staff/anuradha.jpg",
-        "contact_number" : "",
+        "contact_number" : "+94 81 2393471",
         "on_duty": "true",
         "email": "anuradhasb@eng.pdn.ac.lk"
     },
