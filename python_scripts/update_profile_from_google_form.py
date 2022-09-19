@@ -146,7 +146,7 @@ image_url: {image_path}
             lastIndex = fileLastEditedDateSTR.find("\"", firstIndex)
             fileLastEditedDateSTR = fileLastEditedDateSTR[firstIndex:lastIndex]
             # print(fileLastEditedDateSTR)
-            fileLastEditedDate = datetime.strptime(fileLastEditedDateSTR, "%Y-%m-%d %H:%M:%S %z")
+            fileLastEditedDate = datetime.strptime(fileLastEditedDateSTR, "%m/%d/%Y %H:%M:%S %z")
             googleFormFilledDate = datetime.strptime(studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z")
 
             if (fileLastEditedDate - googleFormFilledDate).total_seconds() > 0:
