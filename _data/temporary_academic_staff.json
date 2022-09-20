@@ -123,8 +123,26 @@
     {
         "staff_name" : "Jayamini Jayasundara",
         "text_below_name" : "Temporary Instructor",
-        "url_image" : "images/staff/temporary-academic-staff/Jayamini.jpg",
+        "url_image" : "images/staff/temporary-academic-staff/jayamini.jpg",
         "email": "jayaminij@eng.pdn.ac.lk",
+        "linkedin": "#",
+        "joined_date": "#",
+        "left_date": ""
+    },
+    {
+        "staff_name" : "Isuru Madugalla",
+        "text_below_name" : "Temporary Instructor",
+        "url_image" : "images/staff/temporary-academic-staff/isuru.jpg",
+        "email": "isurumadugalla@eng.pdn.ac.lk",
+        "linkedin": "#",
+        "joined_date": "#",
+        "left_date": ""
+    },
+    {
+        "staff_name" : "Rashmi Wimansa Neelawathura",
+        "text_below_name" : "Temporary Instructor",
+        "url_image" : "images/staff/temporary-academic-staff/rashmi.JPEG",
+        "email": "rashmineelawathura@gmail.com",
         "linkedin": "#",
         "joined_date": "#",
         "left_date": ""
