@@ -1515,8 +1515,8 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "publication_count": 30,
-        "year_count": 13,
+        "publication_count": 35,
+        "year_count": 14,
         "publications": {
             "2021": [
                 {
@@ -1944,6 +1944,40 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946548/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946548/index.json"
+                },
+                {
+                    "title": "Accelerating k-nn classification algorithm using graphics processing units",
+                    "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+                    "year": "2016",
+                    "authors": [
+                        "S Selvaluxmiy",
+                        "TN Kumara",
+                        "P Keerthanan",
+                        "R Velmakivan",
+                        "R Ragel",
+                        "S Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAFS.2016.7946528",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Graphics processing units",
+                        "Message systems",
+                        "Kernel",
+                        "Training",
+                        "Prediction algorithms",
+                        "Machine learning algorithms",
+                        "Testing"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946528/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946528/index.json"
                 }
             ],
             "2015": [
@@ -2012,6 +2046,38 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/TCAD.2015.2445736/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/TCAD.2015.2445736/index.json"
+                },
+                {
+                    "title": "Performance evaluation techniques for an automatic question answering system",
+                    "venue": "International Journal of Machine Learning and Computing",
+                    "year": "2015",
+                    "authors": [
+                        "Tilani Gunawardena",
+                        "Nishara Pathirana",
+                        "Medhavi Lokuhetti",
+                        "Roshan Ragel",
+                        "Sampath Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.7763/IJMLC.2015.V5.523",
+                    "preprint": "#",
+                    "pdf": "http://www.ijmlc.org/vol5/523-C013.pdf",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Evaluation technique",
+                        "question answering",
+                        "NLP",
+                        "template matching",
+                        "FAQ",
+                        "answering system"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7763/IJMLC.2015.V5.523/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7763/IJMLC.2015.V5.523/index.json"
                 }
             ],
             "2014": [
@@ -2077,6 +2143,37 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069585/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069585/index.json"
+                },
+                {
+                    "title": "Students behavioural analysis in an online learning environment using data mining",
+                    "venue": "7th International Conference on Information and Automation for Sustainability",
+                    "year": "2014",
+                    "authors": [
+                        "IP Ratnapala",
+                        "RG Ragel",
+                        "S Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAFS.2014.7069609",
+                    "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/282666458_Students_Behavioural_Analysis_in_an_Online_Learning_Environment_Using_Data_Mining/links/561791d808ae1a88800485c1/Students-Behavioural-Analysis-in-an-Online-Learning-Environment-Using-Data-Mining.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Data mining",
+                        "Data visualization",
+                        "Electronic learning",
+                        "Clustering algorithms",
+                        "Materials",
+                        "Least squares approximations",
+                        "Databases"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069609/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069609/index.json"
                 }
             ],
             "2013": [
@@ -2239,6 +2336,38 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1145/2483028.2483101/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/2483028.2483101/index.json"
+                },
+                {
+                    "title": "AntiPlag: Plagiarism detection on electronic submissions of text based assignments",
+                    "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+                    "year": "2013",
+                    "authors": [
+                        "MAC Jiffriya",
+                        "MAC Akmal Jahan",
+                        "Roshan G Ragel",
+                        "Sampath Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIInfS.2013.6732013",
+                    "preprint": "https://arxiv.org/pdf/1403.1310",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Plagiarism",
+                        "Clustering algorithms",
+                        "Educational institutions",
+                        "Information systems",
+                        "Detectors",
+                        "Computers",
+                        "Conferences"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732013/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732013/index.json"
                 }
             ],
             "2012": [
@@ -2423,6 +2552,41 @@
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2011.6038036/index.json"
                 }
             ],
+            "2010": [
+                {
+                    "title": "An automatic answering system with template matching for natural language questions",
+                    "venue": "2010 Fifth International Conference on Information and Automation for Sustainability",
+                    "year": "2010",
+                    "authors": [
+                        "Tilani Gunawardena",
+                        "Medhavi Lokuhetti",
+                        "Nishara Pathirana",
+                        "Roshan Ragel",
+                        "Sampath Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAFS.2010.5715686",
+                    "preprint": "https://www.academia.edu/download/48742704/17.pdf",
+                    "pdf": "#",
+                    "presentation": "https://d1wqtxts1xzle7.cloudfront.net/48742704/17-libre.pdf?1473576218=&response-content-disposition=inline%3B+filename%3DAn_automatic_answering_system_with_templ.pdf&Expires=1663963105&Signature=f8AFZyE5hptWxajcAxQa-2whpQldQ4N75IcTG6sAuwMRWr8n0owYhyMGVzl~nyMC5I0NBcy8NOT46ftIow83kqV7Bt96R03KrQ211dRMFy3IY74dlMFZHmldzNQt9nUpwFKqqV4yBf3mL16VwQTioS63YL9dx6lMkQqWpCYVzu2Xgy87MBNZ5YMUG10kDsFFeGuqdf8uBJIsWci6P0v5HwHyQFO1EJ4buHsy6TG4NAfD4nXi7LA-ISPrqwrY-03JVOx3bHl9ThEiK-VWqoI1tuYDT0KZtatvQXT8XiMD9ACmlJcQ59sQmRfAgxMKdGknnEk-yf~qSXRndgEGjbVYLg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Databases",
+                        "Syntactics",
+                        "Natural languages",
+                        "Computers",
+                        "Artificial intelligence",
+                        "Mobile handsets",
+                        "Robots"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2010.5715686/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2010.5715686/index.json"
+                }
+            ],
             "2009": [
                 {
                     "title": "Loop unrolling in multi-pipeline ASIP design",
@@ -2499,9 +2663,40 @@
         }
     },
     "sampath@eng.pdn.ac.lk": {
-        "publication_count": 2,
-        "year_count": 2,
+        "publication_count": 13,
+        "year_count": 8,
         "publications": {
+            "2022": [
+                {
+                    "title": "Random subspace and random projection nearest neighbor ensembles for high dimensional data",
+                    "venue": "Elsevier Expert systems with applications",
+                    "year": "2022",
+                    "authors": [
+                        "Sampath Deegalla",
+                        "Keerthi Walgama",
+                        "Panagiotis Papapetrou",
+                        "Henrik Bostr\u00c3\u00b6m"
+                    ],
+                    "doi": "https://doi.org/10.1016/j.eswa.2021.116078",
+                    "preprint": "https://www.diva-portal.org/smash/get/diva2:1625293/FULLTEXT01.pdf",
+                    "pdf": "https://doi.org/10.1016/j.eswa.2021.116078",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Nearest neighbor ensemble",
+                        "High dimensional data",
+                        "Random subspace method",
+                        "Random projection method"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1016/j.eswa.2021.116078/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1016/j.eswa.2021.116078/index.json"
+                }
+            ],
             "2021": [
                 {
                     "title": "Data Mining System for Predicting a Winning Cricket Team",
@@ -2535,6 +2730,63 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660702/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660702/index.json"
+                },
+                {
+                    "title": "Objectively Measure Player Performance on Olympic Weightlifting",
+                    "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+                    "year": "2021",
+                    "authors": [
+                        "Anandi Karunaratne",
+                        "Chamin Jayasooriya",
+                        "Sampath Deegalla",
+                        "Rajitha Navarathna"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9605963",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Computer Vision"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Weight measurement",
+                        "Silver",
+                        "Gold",
+                        "Automation",
+                        "Current measurement",
+                        "Sustainable development",
+                        "Videos"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9605963/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9605963/index.json"
+                },
+                {
+                    "title": "An accurate mathematical model predicting number of dengue cases in tropics",
+                    "venue": "PLoS Neglected Tropical Diseases",
+                    "year": "2021",
+                    "authors": [
+                        "Chathurangi Edussuriya",
+                        "Sampath Deegalla",
+                        "Indika Gawarammana"
+                    ],
+                    "doi": "https://doi.org/10.1371/journal.pntd.0009756",
+                    "preprint": "#",
+                    "pdf": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0009756&type=printable",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        ""
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pntd.0009756/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1371/journal.pntd.0009756/index.json"
                 }
             ],
             "2017": [
@@ -2570,6 +2822,268 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300399/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300399/index.json"
+                }
+            ],
+            "2016": [
+                {
+                    "title": "Accelerating k-nn classification algorithm using graphics processing units",
+                    "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+                    "year": "2016",
+                    "authors": [
+                        "S Selvaluxmiy",
+                        "TN Kumara",
+                        "P Keerthanan",
+                        "R Velmakivan",
+                        "R Ragel",
+                        "S Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAFS.2016.7946528",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Graphics processing units",
+                        "Message systems",
+                        "Kernel",
+                        "Training",
+                        "Prediction algorithms",
+                        "Machine learning algorithms",
+                        "Testing"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946528/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946528/index.json"
+                }
+            ],
+            "2015": [
+                {
+                    "title": "Performance evaluation techniques for an automatic question answering system",
+                    "venue": "International Journal of Machine Learning and Computing",
+                    "year": "2015",
+                    "authors": [
+                        "Tilani Gunawardena",
+                        "Nishara Pathirana",
+                        "Medhavi Lokuhetti",
+                        "Roshan Ragel",
+                        "Sampath Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.7763/IJMLC.2015.V5.523",
+                    "preprint": "#",
+                    "pdf": "http://www.ijmlc.org/vol5/523-C013.pdf",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Evaluation technique",
+                        "question answering",
+                        "NLP",
+                        "template matching",
+                        "FAQ",
+                        "answering system"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7763/IJMLC.2015.V5.523/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7763/IJMLC.2015.V5.523/index.json"
+                },
+                {
+                    "title": "Feasibility of using machine learning to access control in Squid proxy server",
+                    "venue": "2015 IEEE 10th International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2015",
+                    "authors": [
+                        "Kanchana Ihalagedara",
+                        "Rajitha Kithuldeniya",
+                        "Supun Weerasekara",
+                        "Sampath Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIINFS.2015.7399061",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Manuals",
+                        "XML",
+                        "Static VAr compensators"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2015.7399061/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2015.7399061/index.json"
+                }
+            ],
+            "2014": [
+                {
+                    "title": "Students behavioural analysis in an online learning environment using data mining",
+                    "venue": "7th International Conference on Information and Automation for Sustainability",
+                    "year": "2014",
+                    "authors": [
+                        "IP Ratnapala",
+                        "RG Ragel",
+                        "S Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAFS.2014.7069609",
+                    "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/282666458_Students_Behavioural_Analysis_in_an_Online_Learning_Environment_Using_Data_Mining/links/561791d808ae1a88800485c1/Students-Behavioural-Analysis-in-an-Online-Learning-Environment-Using-Data-Mining.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Data mining",
+                        "Data visualization",
+                        "Electronic learning",
+                        "Clustering algorithms",
+                        "Materials",
+                        "Least squares approximations",
+                        "Databases"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2014.7069609/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2014.7069609/index.json"
+                }
+            ],
+            "2013": [
+                {
+                    "title": "Fusion of Colour, Shape and Texture Features for Content Based Image Retrieval",
+                    "venue": "8th International Conference on Computer Science and Education (ICCSE)",
+                    "year": "2013",
+                    "authors": [
+                        "Pratheep Anantharatnasamy",
+                        "Kaavya Sriskandaraja",
+                        "Vahissan Nandakumar",
+                        "Sampath Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICCSE.2013.6553949",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Accuracy",
+                        "Classification algorithms",
+                        "Computers",
+                        "Arrays",
+                        "Image edge detection"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICCSE.2013.6553949/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICCSE.2013.6553949/index.json"
+                },
+                {
+                    "title": "Personalized and adaptive user interface framework for mobile application",
+                    "venue": "2013 International Conference on Advances in Computing, Communications and Informatics (ICACCI)",
+                    "year": "2013",
+                    "authors": [
+                        "Mahasivam Nivethika",
+                        "Ilanthalaisingam Vithiya",
+                        "Sebastiankularatnam Anntharshika",
+                        "Sampath Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICACCI.2013.6637474",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "User interfaces",
+                        "Engines",
+                        "Mobile communication",
+                        "Context",
+                        "Rendering (computer graphics)",
+                        "Androids",
+                        "Humanoid robots"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICACCI.2013.6637474/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICACCI.2013.6637474/index.json"
+                },
+                {
+                    "title": "AntiPlag: Plagiarism detection on electronic submissions of text based assignments",
+                    "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
+                    "year": "2013",
+                    "authors": [
+                        "MAC Jiffriya",
+                        "MAC Akmal Jahan",
+                        "Roshan G Ragel",
+                        "Sampath Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIInfS.2013.6732013",
+                    "preprint": "https://arxiv.org/pdf/1403.1310",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Plagiarism",
+                        "Clustering algorithms",
+                        "Educational institutions",
+                        "Information systems",
+                        "Detectors",
+                        "Computers",
+                        "Conferences"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2013.6732013/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2013.6732013/index.json"
+                }
+            ],
+            "2010": [
+                {
+                    "title": "An automatic answering system with template matching for natural language questions",
+                    "venue": "2010 Fifth International Conference on Information and Automation for Sustainability",
+                    "year": "2010",
+                    "authors": [
+                        "Tilani Gunawardena",
+                        "Medhavi Lokuhetti",
+                        "Nishara Pathirana",
+                        "Roshan Ragel",
+                        "Sampath Deegalla"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAFS.2010.5715686",
+                    "preprint": "https://www.academia.edu/download/48742704/17.pdf",
+                    "pdf": "#",
+                    "presentation": "https://d1wqtxts1xzle7.cloudfront.net/48742704/17-libre.pdf?1473576218=&response-content-disposition=inline%3B+filename%3DAn_automatic_answering_system_with_templ.pdf&Expires=1663963105&Signature=f8AFZyE5hptWxajcAxQa-2whpQldQ4N75IcTG6sAuwMRWr8n0owYhyMGVzl~nyMC5I0NBcy8NOT46ftIow83kqV7Bt96R03KrQ211dRMFy3IY74dlMFZHmldzNQt9nUpwFKqqV4yBf3mL16VwQTioS63YL9dx6lMkQqWpCYVzu2Xgy87MBNZ5YMUG10kDsFFeGuqdf8uBJIsWci6P0v5HwHyQFO1EJ4buHsy6TG4NAfD4nXi7LA-ISPrqwrY-03JVOx3bHl9ThEiK-VWqoI1tuYDT0KZtatvQXT8XiMD9ACmlJcQ59sQmRfAgxMKdGknnEk-yf~qSXRndgEGjbVYLg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Databases",
+                        "Syntactics",
+                        "Natural languages",
+                        "Computers",
+                        "Artificial intelligence",
+                        "Mobile handsets",
+                        "Robots"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2010.5715686/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2010.5715686/index.json"
                 }
             ]
         }
