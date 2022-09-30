@@ -19,7 +19,7 @@
 "{{ member | strip }}"{% if forloop.last %}{% else %},{% endif %}
 {% endfor %}
 ],
-"profile_image": "{{ student.image_url || absolute_url}}",
+"profile_image": "{{ student.image_url | prepend: site.absolute_url}}",
 "urls":{
 "cv":"{{ student.url_cv }}",
 "website":"{{ student.url_website }}",

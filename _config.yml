@@ -1,5 +1,7 @@
 title: "People - Department of Computer Engineering"
 baseurl: "" # the subpath of your site, e.g. /blog
+
+absolute_url: "https://people.ce.pdn.ac.lk/"
 # baseurl: "/people.ce.pdn.ac.lk" # the subpath of your site, e.g. /blog
 
 author:
