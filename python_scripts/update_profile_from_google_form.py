@@ -94,7 +94,7 @@ if __name__ == "__main__":
             returnValue = gdown.download("https://drive.google.com/uc?id=" +
                            studentData[URL_IMAGE].split("=")[1].strip(), "./", quiet=True)
             image = Image.open(returnValue)
-            image.save(image_path)
+            image.save("../" + image_path)
             os.system("rm '"+returnValue + "'")
             # os.system(
             #     f"wget https://drive.google.com/uc?id={studentData[URL_IMAGE].split('=')[1].strip()} -O ../{image_path}")
