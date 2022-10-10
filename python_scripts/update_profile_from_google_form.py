@@ -13,6 +13,8 @@ import student_profile_page_titles
 import subprocess  # to run git commands
 from datetime import datetime
 from os.path import exists
+from PIL import Image  # pip install pillow
+
 
 googleFromCSV_link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZRR_UqRS_MHtl8Hlyv92dbgRJb342zguSm0DOdcpiYA5k7b2RceNmjBBKCu5AcX4A9RxQXazzWIEx/pub?output=csv"
 googleFromCSV = requests.get(googleFromCSV_link, headers={
@@ -89,8 +91,11 @@ if __name__ == "__main__":
             print(f"Downloading image to {image_path}")
             isImageDownloaded = True
             # print(len(studentData[URL_IMAGE]))
-            gdown.download("https://drive.google.com/uc?id=" +
-                           studentData[URL_IMAGE].split("=")[1].strip(), "../"+image_path, quiet=True)
+            returnValue = gdown.download("https://drive.google.com/uc?id=" +
+                           studentData[URL_IMAGE].split("=")[1].strip(), "./", quiet=True)
+            image = Image.open(returnValue)
+            image.save("../" + image_path)
+            os.system("rm '"+returnValue + "'")
             # os.system(
             #     f"wget https://drive.google.com/uc?id={studentData[URL_IMAGE].split('=')[1].strip()} -O ../{image_path}")
         else:
