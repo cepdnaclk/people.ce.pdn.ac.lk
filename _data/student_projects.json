@@ -5339,6 +5339,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-B/"
         }
     ],
+    "E/18/013": [
+        {
+            "title": "SnaT Meal Tracking App Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/SnaT-Meal-Tracking-App-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-SnaT-Meal-Tracking-App-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-A/"
+        }
+    ],
     "E/18/017": [
         {
             "title": "Poultry Feed Efficiency Tracking System Group 12",
@@ -5532,6 +5547,21 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Logging-Microservice-for-IoT-based-Smart-Agriculture-Project",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Logging-Microservice-for-IoT-based-Smart-Agriculture-Project/"
+        }
+    ],
+    "E/18/128": [
+        {
+            "title": "SnaT Meal Tracking App Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/SnaT-Meal-Tracking-App-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-SnaT-Meal-Tracking-App-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-A/"
         }
     ],
     "E/18/147": [
@@ -6042,6 +6072,21 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Interactive-Department-Map-GroupA",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Interactive-Department-Map-GroupA/"
+        }
+    ],
+    "E/18/366": [
+        {
+            "title": "SnaT Meal Tracking App Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/SnaT-Meal-Tracking-App-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-SnaT-Meal-Tracking-App-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-A/"
         }
     ],
     "E/18/368": [

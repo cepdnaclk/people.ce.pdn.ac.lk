@@ -99,6 +99,31 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
+        },
+        {
+            "title": "An accurate mathematical model predicting number of dengue cases in tropics",
+            "venue": "PLoS Neglected Tropical Diseases",
+            "year": "2021",
+            "authors": [
+                "Chathurangi Edussuriya",
+                "Sampath Deegalla",
+                "Indika Gawarammana"
+            ],
+            "doi": "https://doi.org/10.1371/journal.pntd.0009756",
+            "preprint": "#",
+            "pdf": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0009756&type=printable",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                ""
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pntd.0009756/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1371/journal.pntd.0009756/index.json"
         }
     ],
     "E/14/158": [

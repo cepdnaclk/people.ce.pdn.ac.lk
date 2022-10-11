@@ -22,7 +22,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
       {% if post.layout == "studentDetails" %}
       {%- comment -%}Student profile page{%- endcomment -%}
         {
-        "title" : "{{post.full_name}} - {{post.reg_no}}",
+        "title" : " {% if post.full_name %} {{post.full_name}}  {% else %}  {{ post.name_with_initials }} {% endif %}- {{post.reg_no}}",
         "name_with_initials": "{{post.name_with_initials}}",
         "preferred_short_name": "{{post.preferred_short_name}}",
         "preferred_long_name": "{{post.preferred_long_name}}",
