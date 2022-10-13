@@ -13,7 +13,7 @@ students:
  - { eNumber: "E/16/134", name: "Herath H.M.Y.B.", position: "Organiser", profile_url: "/students/e16/134/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e16/e16134.jpg", link: "#" }
  - { eNumber: "E/17/398", name: "Wijerathne I.D.H.S.D.", position: "Organiser", profile_url: "/students/e17/398/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e17/e17398.jpg", link: "#" }
  - { eNumber: "E/18/154", name: "Jayasumana C.H.", position: "Organiser", profile_url: "/students/e18/154/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18154.jpg", link: "#" }
- - { eNumber: "E/18/068", name: "Devinda G.C.", position: "Organiser", profile_url: "/students/e18/068/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18068.jpg", link: "#" }
+ - { eNumber: "E/18/068", name: "G. C. Devinda", position: "Organiser", profile_url: "/students/e18/068/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18068.jpg", link: "#" }
  - { eNumber: "E/17/194", name: "Madhushan R.", position: "Organiser", profile_url: "/students/e17/194/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e17/e17194.jpg", link: "#" }
  - { eNumber: "E/16/332", name: "A A R V Samaraweera", position: "Organiser", profile_url: "/students/e16/332/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e16/e16332.jpg", link: "#" }
  - { eNumber: "E/17/065", name: "Dilhan M.A.K.", position: "Organiser", profile_url: "/students/e17/065/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e17/e17065.jpg", link: "#" }
