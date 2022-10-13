@@ -433,6 +433,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-co328-Host-Pathogen-Interaction",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Host-Pathogen-Interaction/"
+        },
+        {
+            "title": "NGS Data AnalysingToolkit",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/NGS-Data-AnalysingToolkit/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-NGS-Data-AnalysingToolkit",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-NGS-Data-AnalysingToolkit",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/NGS-Data-AnalysingToolkit/"
         }
     ],
     "dhammika@eng.pdn.ac.lk": [
@@ -1375,6 +1388,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-apartment-security-system/"
         },
         {
+            "title": "smart garbage collection",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/smart-garbage-collection/",
+            "repo_url": "https://github.com/cepdnaclk/e17-3yp-smart-garbage-collection",
+            "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-garbage-collection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-garbage-collection/"
+        },
+        {
             "title": "smart home",
             "category": {
                 "code": "3yp",
@@ -2208,6 +2234,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-apartment-security-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-apartment-security-system/"
+        },
+        {
+            "title": "smart garbage collection",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/smart-garbage-collection/",
+            "repo_url": "https://github.com/cepdnaclk/e17-3yp-smart-garbage-collection",
+            "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-garbage-collection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-garbage-collection/"
         },
         {
             "title": "smart home",
