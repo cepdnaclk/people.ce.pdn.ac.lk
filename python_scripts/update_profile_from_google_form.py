@@ -157,8 +157,8 @@ image_url: {image_path}
             if (fileLastEditedDate - googleFormFilledDate).total_seconds() > 0:
                 print("File was updated after the google form was filled. Skipping...")
                 print("-------------")
-#                 looks like this isnt working
-#                 continue 
+                # looks like this isnt working
+                continue
 
         os.makedirs(os.path.dirname(file_url), exist_ok=True)
         htmlFile = open(file_url, "w")
