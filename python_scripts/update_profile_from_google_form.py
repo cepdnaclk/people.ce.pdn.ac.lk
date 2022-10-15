@@ -12,6 +12,7 @@ import json  # to edit _data/exx.json
 import student_profile_page_titles
 import subprocess  # to run git commands
 from datetime import datetime
+from pytz import timezone
 from os.path import exists
 from PIL import Image  # pip install pillow
 
@@ -53,8 +54,12 @@ if __name__ == "__main__":
             print(f"Splitted csv is longer/shorter than it should be! {len(studentData)}")
             quit()
 
-        if ":" not in studentData[0]:
+        if ":" not in studentData[TIMESTAMP]:
             # if there is no timestamp in this line or this is the header line
+            continue
+
+        # If timestamp is older than 10 days, skip the record
+        if (datetime.now(timezone('Asia/Colombo')) - datetime.strptime(studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z")).days > 10:
             continue
 
         # print(studentData)
