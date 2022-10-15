@@ -65,6 +65,138 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300359/index.json"
         }
     ],
+    "E/13/073": [
+        {
+            "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
+            "venue": "MDPI Sensors",
+            "year": "2019",
+            "authors": [
+                "Theekshana Dissanayake",
+                "Yasitha Rajapaksha",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.3390/s19204495",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "bio-signal processing",
+                "wearable computing",
+                "ensemble learning",
+                "electrocardiogram",
+                "machine learning"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/s19204495/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/s19204495/index.json"
+        }
+    ],
+    "E/13/274": [
+        {
+            "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
+            "venue": "MDPI Sensors",
+            "year": "2019",
+            "authors": [
+                "Theekshana Dissanayake",
+                "Yasitha Rajapaksha",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.3390/s19204495",
+            "preprint": "#",
+            "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "bio-signal processing",
+                "wearable computing",
+                "ensemble learning",
+                "electrocardiogram",
+                "machine learning"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/s19204495/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/s19204495/index.json"
+        }
+    ],
+    "E/14/010": [
+        {
+            "title": "A Programming Framework for Robot Swarms",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "authors": [
+                "Mahendra Dassanayaka",
+                "Tharuka Bandara",
+                "Nadun Adikari",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Programming",
+                "Robot kinematics",
+                "Robot sensing systems",
+                "Hardware",
+                "Libraries",
+                "Debugging"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
+        }
+    ],
+    "E/14/028": [
+        {
+            "title": "A Programming Framework for Robot Swarms",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "authors": [
+                "Mahendra Dassanayaka",
+                "Tharuka Bandara",
+                "Nadun Adikari",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Programming",
+                "Robot kinematics",
+                "Robot sensing systems",
+                "Hardware",
+                "Libraries",
+                "Debugging"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
+        }
+    ],
     "E/14/054": [
         {
             "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
@@ -124,6 +256,40 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pntd.0009756/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1371/journal.pntd.0009756/index.json"
+        }
+    ],
+    "E/14/065": [
+        {
+            "title": "A Programming Framework for Robot Swarms",
+            "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+            "year": "2020",
+            "authors": [
+                "Mahendra Dassanayaka",
+                "Tharuka Bandara",
+                "Nadun Adikari",
+                "Isuru Nawinne",
+                "Roshan Ragel"
+            ],
+            "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+            ],
+            "funding": "",
+            "tags": [
+                "Programming",
+                "Robot kinematics",
+                "Robot sensing systems",
+                "Hardware",
+                "Libraries",
+                "Debugging"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
         }
     ],
     "E/14/158": [
@@ -640,6 +806,42 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
         }
     ],
+    "E/15/188": [
+        {
+            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "authors": [
+                "KTB Weerasinghe",
+                "SC Tennakoon",
+                "KNU Kularatne",
+                "I Nawinne",
+                "R Ragel",
+                "H Jayakody"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Visualization",
+                "Veins",
+                "Prototypes",
+                "Clinical trials",
+                "Skin",
+                "Real-time systems",
+                "Sustainable development"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
+        }
+    ],
     "E/15/271": [
         {
             "title": "Microservice Based Edge Computing Architecture for Internet of Things",
@@ -672,6 +874,78 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
+        }
+    ],
+    "E/15/349": [
+        {
+            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "authors": [
+                "KTB Weerasinghe",
+                "SC Tennakoon",
+                "KNU Kularatne",
+                "I Nawinne",
+                "R Ragel",
+                "H Jayakody"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Visualization",
+                "Veins",
+                "Prototypes",
+                "Clinical trials",
+                "Skin",
+                "Real-time systems",
+                "Sustainable development"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
+        }
+    ],
+    "E/15/383": [
+        {
+            "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+            "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2021",
+            "authors": [
+                "KTB Weerasinghe",
+                "SC Tennakoon",
+                "KNU Kularatne",
+                "I Nawinne",
+                "R Ragel",
+                "H Jayakody"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Visualization",
+                "Veins",
+                "Prototypes",
+                "Clinical trials",
+                "Skin",
+                "Real-time systems",
+                "Sustainable development"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
         }
     ]
 }

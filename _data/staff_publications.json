@@ -1025,9 +1025,43 @@
         }
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "publication_count": 2,
-        "year_count": 2,
+        "publication_count": 5,
+        "year_count": 3,
         "publications": {
+            "2020": [
+                {
+                    "title": "A Programming Framework for Robot Swarms",
+                    "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+                    "year": "2020",
+                    "authors": [
+                        "Mahendra Dassanayaka",
+                        "Tharuka Bandara",
+                        "Nadun Adikari",
+                        "Isuru Nawinne",
+                        "Roshan Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Programming",
+                        "Robot kinematics",
+                        "Robot sensing systems",
+                        "Hardware",
+                        "Libraries",
+                        "Debugging"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
+                }
+            ],
             "2019": [
                 {
                     "title": "Non-contact Infant Sleep Apnea Detection",
@@ -1060,6 +1094,71 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
+                },
+                {
+                    "title": "Power-Aware High-Level Synthesis Flow for Mapping FPGA Designs",
+                    "venue": "2019 Moratuwa Engineering Research Conference (MERCon)",
+                    "year": "2019",
+                    "authors": [
+                        "Udaree Kanewala",
+                        "Kesara Gamlath",
+                        "Hasindu Ramanayake",
+                        "Kalindu Herath",
+                        "Isuru Nawinne",
+                        "Roshan Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/MERCon.2019.8818883",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Accelerated and High-Performance Computing (FPGA / GPU)",
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Field programmable gate arrays",
+                        "Power demand",
+                        "Hardware",
+                        "Optimization",
+                        "Tools",
+                        "Integrated circuit interconnections",
+                        "Hardware design languages"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2019.8818883/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2019.8818883/index.json"
+                },
+                {
+                    "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
+                    "venue": "MDPI Sensors",
+                    "year": "2019",
+                    "authors": [
+                        "Theekshana Dissanayake",
+                        "Yasitha Rajapaksha",
+                        "Roshan Ragel",
+                        "Isuru Nawinne"
+                    ],
+                    "doi": "https://doi.org/10.3390/s19204495",
+                    "preprint": "#",
+                    "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "bio-signal processing",
+                        "wearable computing",
+                        "ensemble learning",
+                        "electrocardiogram",
+                        "machine learning"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/s19204495/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/s19204495/index.json"
                 }
             ],
             "2011": [
@@ -1515,7 +1614,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "publication_count": 35,
+        "publication_count": 39,
         "year_count": 14,
         "publications": {
             "2021": [
@@ -1553,6 +1652,40 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIP42928.2021.9506375/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIP42928.2021.9506375/index.json"
+                },
+                {
+                    "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+                    "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+                    "year": "2021",
+                    "authors": [
+                        "KTB Weerasinghe",
+                        "SC Tennakoon",
+                        "KNU Kularatne",
+                        "I Nawinne",
+                        "R Ragel",
+                        "H Jayakody"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Visualization",
+                        "Veins",
+                        "Prototypes",
+                        "Clinical trials",
+                        "Skin",
+                        "Real-time systems",
+                        "Sustainable development"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
                 }
             ],
             "2020": [
@@ -1652,6 +1785,38 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185266/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185266/index.json"
+                },
+                {
+                    "title": "A Programming Framework for Robot Swarms",
+                    "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+                    "year": "2020",
+                    "authors": [
+                        "Mahendra Dassanayaka",
+                        "Tharuka Bandara",
+                        "Nadun Adikari",
+                        "Isuru Nawinne",
+                        "Roshan Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Programming",
+                        "Robot kinematics",
+                        "Robot sensing systems",
+                        "Hardware",
+                        "Libraries",
+                        "Debugging"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
                 }
             ],
             "2019": [
@@ -1686,6 +1851,71 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
+                },
+                {
+                    "title": "Power-Aware High-Level Synthesis Flow for Mapping FPGA Designs",
+                    "venue": "2019 Moratuwa Engineering Research Conference (MERCon)",
+                    "year": "2019",
+                    "authors": [
+                        "Udaree Kanewala",
+                        "Kesara Gamlath",
+                        "Hasindu Ramanayake",
+                        "Kalindu Herath",
+                        "Isuru Nawinne",
+                        "Roshan Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/MERCon.2019.8818883",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Accelerated and High-Performance Computing (FPGA / GPU)",
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Field programmable gate arrays",
+                        "Power demand",
+                        "Hardware",
+                        "Optimization",
+                        "Tools",
+                        "Integrated circuit interconnections",
+                        "Hardware design languages"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon.2019.8818883/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon.2019.8818883/index.json"
+                },
+                {
+                    "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
+                    "venue": "MDPI Sensors",
+                    "year": "2019",
+                    "authors": [
+                        "Theekshana Dissanayake",
+                        "Yasitha Rajapaksha",
+                        "Roshan Ragel",
+                        "Isuru Nawinne"
+                    ],
+                    "doi": "https://doi.org/10.3390/s19204495",
+                    "preprint": "#",
+                    "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "bio-signal processing",
+                        "wearable computing",
+                        "ensemble learning",
+                        "electrocardiogram",
+                        "machine learning"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/s19204495/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/s19204495/index.json"
                 }
             ],
             "2018": [
