@@ -72,7 +72,7 @@ if __name__ == "__main__":
 
         # set department and curent affiliation if student
         if (studentData[STUDENT_OR_ALUMNI] == "An past student / alumni"):
-            deparment = "Computer Engineering"
+            department = "Computer Engineering"
         elif (studentData[DEPARTMENT] == "Department of Computer Engineering"):
             # if student, google form doesnt take current affiliation
             studentData[CURRENT_AFFILIATION] = "Department of Computer Engineering"
@@ -119,7 +119,7 @@ title: {studentData[NAME_WITH_INITIALS].title()}
 reg_no: E/{batch.upper()}/{regNo}
 batch: E{batch.upper()}
 
-department: {deparment}
+department: {department}
 current_affiliation: \"{studentData[CURRENT_AFFILIATION]}\"
 
 full_name: {studentData[FULL_NAME].title()}
