@@ -29,6 +29,7 @@ jobs:
           pip install requests
           pip install pillow
           pip install googledrivedownloader
+          pip install pytz
 
       - name: Update student profiles from Google Form
         run: |
