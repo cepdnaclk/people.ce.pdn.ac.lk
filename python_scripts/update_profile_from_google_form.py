@@ -12,6 +12,7 @@ import json  # to edit _data/exx.json
 import student_profile_page_titles
 import subprocess  # to run git commands
 from datetime import datetime
+from pytz import timezone
 from os.path import exists
 from PIL import Image  # pip install pillow
 
@@ -53,8 +54,12 @@ if __name__ == "__main__":
             print(f"Splitted csv is longer/shorter than it should be! {len(studentData)}")
             quit()
 
-        if ":" not in studentData[0]:
+        if ":" not in studentData[TIMESTAMP]:
             # if there is no timestamp in this line or this is the header line
+            continue
+
+        # If timestamp is older than 10 days, skip the record
+        if (datetime.now(timezone('Asia/Colombo')) - datetime.strptime(studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z")).days > 10:
             continue
 
         # print(studentData)
@@ -67,7 +72,7 @@ if __name__ == "__main__":
 
         # set department and curent affiliation if student
         if (studentData[STUDENT_OR_ALUMNI] == "An past student / alumni"):
-            deparment = "Computer Engineering"
+            department = "Computer Engineering"
         elif (studentData[DEPARTMENT] == "Department of Computer Engineering"):
             # if student, google form doesnt take current affiliation
             studentData[CURRENT_AFFILIATION] = "Department of Computer Engineering"
@@ -114,7 +119,7 @@ title: {studentData[NAME_WITH_INITIALS].title()}
 reg_no: E/{batch.upper()}/{regNo}
 batch: E{batch.upper()}
 
-department: {deparment}
+department: {department}
 current_affiliation: \"{studentData[CURRENT_AFFILIATION]}\"
 
 full_name: {studentData[FULL_NAME].title()}
@@ -153,10 +158,12 @@ image_url: {image_path}
             # print(fileLastEditedDateSTR)
             fileLastEditedDate = datetime.strptime(fileLastEditedDateSTR, "%Y-%m-%d %H:%M:%S %z")
             googleFormFilledDate = datetime.strptime(studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z")
+            print(f"fileLastEditedDate: {fileLastEditedDate}, googleFormFilledDate: {googleFormFilledDate}, Difference: {(fileLastEditedDate - googleFormFilledDate).total_seconds()}")
 
             if (fileLastEditedDate - googleFormFilledDate).total_seconds() > 0:
                 print("File was updated after the google form was filled. Skipping...")
                 print("-------------")
+                # looks like this isnt working
                 continue
 
         os.makedirs(os.path.dirname(file_url), exist_ok=True)
