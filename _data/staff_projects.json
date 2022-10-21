@@ -2740,6 +2740,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Optimizing-chloroplast-genome-assembly-and-annotation-with-skim-sequencing-data/"
         }
     ],
+    "prabhathg@gmail.com": [
+        {
+            "title": "Greenhouse Monitoring System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Greenhouse-Monitoring-System/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-Greenhouse-Monitoring-System",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-Greenhouse-Monitoring-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Greenhouse-Monitoring-System/"
+        }
+    ],
     "prabhathg@sci.pdn.ac.lk ": [
         {
             "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
