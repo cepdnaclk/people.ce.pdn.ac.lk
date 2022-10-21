@@ -31,6 +31,8 @@ jobs:
           pip install googledrivedownloader
 
       - name: Update student profiles from Google Form
+        env:
+          GOOGLE_FORM_CSV_LINK: ${{ secrets.GOOGLE_FORM_CSV_LINK }}
         run: |
           cd ./python_scripts
           python3 update_profile_from_google_form.py
