@@ -17,8 +17,8 @@ from os.path import exists
 from PIL import Image  # pip install pillow
 
 
-googleFromCSV_link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZRR_UqRS_MHtl8Hlyv92dbgRJb342zguSm0DOdcpiYA5k7b2RceNmjBBKCu5AcX4A9RxQXazzWIEx/pub?output=csv"
-googleFromCSV = requests.get(googleFromCSV_link, headers={
+googleFormCSV_link = os.environ['GOOGLE_FORM_CSV_LINK']
+googleFormCSV = requests.get(googleFormCSV_link, headers={
                              'Cache-Control': 'no-cache'}).text.split("\n")
 
 # Index of the CSV parameters
@@ -48,7 +48,7 @@ URL_RESEARCHGATE = 22
 
 i = 0
 if __name__ == "__main__":
-    for eachLine in googleFromCSV:
+    for eachLine in googleFormCSV:
         studentData = eachLine.replace('\r', '').split(",")
         if len(studentData) != 23:
             print(f"Splitted csv is longer/shorter than it should be! {len(studentData)}")
