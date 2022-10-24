@@ -21,7 +21,7 @@ students:
  - { eNumber: "E/18/013", name: "Abilash R.", position: "Member", profile_url: "/students/e18/013/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18013.jpg", link: "#" }
  - { eNumber: "E/18/297", name: "R.M.P.P. Rathnayake", position: "Member", profile_url: "/students/e18/297/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18297.jpg", link: "#" }
  - { eNumber: "E/18/100", name: "Fernando K.N.A.", position: "Member", profile_url: "/students/e18/100/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18100.jpg", link: "#" }
- - { eNumber: "E/18/373", name: "Vilakshan V.", position: "Member", profile_url: "/students/e18/373/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18013.jpg", link: "#" }
+ - { eNumber: "E/18/373", name: "Vilakshan V.", position: "Member", profile_url: "/students/e18/373/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18373.jpg", link: "#" }
  - { eNumber: "E/18/382", name: "Weerarathne L.D.", position: "Member", profile_url: "/students/e18/382/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18382.jpg", link: "#" }
  - { eNumber: "E/18/245", name: "Nishani K.", position: "Member", profile_url: "/students/e18/245/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18245.jpg", link: "#" }
 ---
