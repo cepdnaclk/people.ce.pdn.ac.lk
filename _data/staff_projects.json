@@ -396,19 +396,6 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Identifying-keywords-in-legal-articles-using-ML-techniques/"
         },
         {
-            "title": "Real Time Data processing and AI for Distributed IoT",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Real-Time-Data-processing-and-AI-for-Distributed-IoT/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Real-Time-Data-processing-and-AI-for-Distributed-IoT",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-Real-Time-Data-processing-and-AI-for-Distributed-IoT",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Real-Time-Data-processing-and-AI-for-Distributed-IoT/"
-        },
-        {
             "title": "Revealing miRNA Biomarkers for Alzheimer s Disease using NGS",
             "category": {
                 "code": "4yp",
@@ -3749,19 +3736,6 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-Explainable-Machine-Learning-for-Real-World-Resource-Constrained-Problems",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Explainable-Machine-Learning-for-Real-World-Resource-Constrained-Problems/"
-        },
-        {
-            "title": "Real Time Data processing and AI for Distributed IoT",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Real-Time-Data-processing-and-AI-for-Distributed-IoT/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Real-Time-Data-processing-and-AI-for-Distributed-IoT",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-Real-Time-Data-processing-and-AI-for-Distributed-IoT",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Real-Time-Data-processing-and-AI-for-Distributed-IoT/"
         },
         {
             "title": "online proctoring system",
