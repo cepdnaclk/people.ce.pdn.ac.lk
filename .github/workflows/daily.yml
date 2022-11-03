@@ -1,4 +1,4 @@
-name: Update Profile Details 
+name: Update Profile Details
 
 on:
   schedule:
@@ -16,6 +16,7 @@ jobs:
         uses: actions/checkout@master
         with:
           ref: main
+          fetch-depth: 0 
 
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
@@ -56,7 +57,7 @@ jobs:
           cd ./python_scripts
           python3 update_socities.py
           cd ../
-    
+
       - name: Update postgrad students from Google Form
         run: |
           cd ./python_scripts
