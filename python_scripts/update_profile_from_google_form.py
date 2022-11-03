@@ -151,22 +151,21 @@ image_url: {image_path}
 
         if exists(file_url):
             # get last modified time from git log
-            # fileLastEditedDateSTR = str(subprocess.run(['git', 'log', '-1', '--pretty="format:%ci"', file_url], stdout=subprocess.PIPE).stdout)
-            fileLastEditedDateSTR = str(subprocess.getoutput('git log -1 ' + file_url))
+            fileLastEditedDateSTR = str(subprocess.run(['git', 'log', '-1', '--pretty="format:%ci"', file_url], stdout=subprocess.PIPE).stdout)
             print(fileLastEditedDateSTR)
-            # firstIndex = fileLastEditedDateSTR.find(":") + 1
-            # lastIndex = fileLastEditedDateSTR.find("\"", firstIndex)
-            # fileLastEditedDateSTR = fileLastEditedDateSTR[firstIndex:lastIndex]
-            # # print(fileLastEditedDateSTR)
-            # fileLastEditedDate = datetime.strptime(fileLastEditedDateSTR, "%Y-%m-%d %H:%M:%S %z")
-            # googleFormFilledDate = datetime.strptime(studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z")
-            # print(f"fileLastEditedDate: {fileLastEditedDate}, googleFormFilledDate: {googleFormFilledDate}, Difference: {(fileLastEditedDate - googleFormFilledDate).total_seconds()}")
+            firstIndex = fileLastEditedDateSTR.find(":") + 1
+            lastIndex = fileLastEditedDateSTR.find("\"", firstIndex)
+            fileLastEditedDateSTR = fileLastEditedDateSTR[firstIndex:lastIndex]
+            # print(fileLastEditedDateSTR)
+            fileLastEditedDate = datetime.strptime(fileLastEditedDateSTR, "%Y-%m-%d %H:%M:%S %z")
+            googleFormFilledDate = datetime.strptime(studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z")
+            print(f"fileLastEditedDate: {fileLastEditedDate}, googleFormFilledDate: {googleFormFilledDate}, Difference: {(fileLastEditedDate - googleFormFilledDate).total_seconds()}")
 
-            # if (fileLastEditedDate - googleFormFilledDate).total_seconds() > 0:
-            #     print("File was updated after the google form was filled. Skipping...")
-            #     print("-------------")
-            #     # looks like this isnt working
-            #     continue
+            if (fileLastEditedDate - googleFormFilledDate).total_seconds() > 0:
+                print("File was updated after the google form was filled. Skipping...")
+                print("-------------")
+                # looks like this isnt working
+                continue
 
         os.makedirs(os.path.dirname(file_url), exist_ok=True)
         htmlFile = open(file_url, "w")
