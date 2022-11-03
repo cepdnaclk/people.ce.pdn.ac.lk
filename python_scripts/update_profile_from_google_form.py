@@ -152,7 +152,7 @@ image_url: {image_path}
         if exists(file_url):
             # get last modified time from git log
             # fileLastEditedDateSTR = str(subprocess.run(['git', 'log', '-1', '--pretty="format:%ci"', file_url], stdout=subprocess.PIPE).stdout)
-            fileLastEditedDateSTR = str(subprocess.run(['git', 'log', '-1' , file_url], stdout=subprocess.PIPE).stdout)
+            fileLastEditedDateSTR = str(subprocess.getoutput('git log -1 ' + file_url))
             print(fileLastEditedDateSTR)
             # firstIndex = fileLastEditedDateSTR.find(":") + 1
             # lastIndex = fileLastEditedDateSTR.find("\"", firstIndex)
