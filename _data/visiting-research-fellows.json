@@ -1,0 +1,19 @@
+[
+    {
+        "name" : "Test Visiting Research1",
+        "email" : "visitingResearch1@somesite.come",
+        "position": "CEO at some company",
+        "image": "/somepath/someimage.jpg",
+        "url_linkedin": "https://www.linkedin.com/in/someperson",
+        "url_profile": null
+    },
+    {
+        "name" : "Test Visiting Research2",
+        "email" : "visitResearch2@somesite.come",
+        "position": "Manager at this company",
+        "image": "/somepath/someimage.jpg",
+        "url_linkedin": "https://www.linkedin.com/in/someperson",
+        "url_profile": null
+    }
+
+]

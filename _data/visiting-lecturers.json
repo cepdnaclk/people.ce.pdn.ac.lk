@@ -1,0 +1,19 @@
+[
+    {
+        "name" : "Test Visiting Lecturer1",
+        "email" : "visitLec1@somesite.come",
+        "position": "prof at UNSW",
+        "image": "/somepath/someimage.jpg",
+        "url_linkedin": "https://www.linkedin.com/in/someperson",
+        "url_profile": null
+    },
+    {
+        "name" : "Test Visiting Lecturer2",
+        "email" : "visitLec2@somesite.come",
+        "position": "prof at UoP",
+        "image": "/somepath/someimage.jpg",
+        "url_linkedin": "https://www.linkedin.com/in/someperson",
+        "url_profile": null
+    }
+
+]
