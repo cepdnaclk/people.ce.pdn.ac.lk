@@ -49,6 +49,11 @@ title: People
 
                             <br>
 
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/visiting-lecturers/' | relative_url }}">Visiting Lecturers</a>
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/visiting-research-fellows/' | relative_url }}">Visiting Research Fellows</a>
+
+                            <br>
+
                             <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/past-heads-of-dep/' | relative_url }}">Past HoDs</a>
                             <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic/past/' | relative_url }}">Past Academic Staff</a>
                         </ul>
@@ -84,10 +89,10 @@ title: People
                         <!-- content is taken from _data/alumni.json -->
                         {%- for batch in site.data.alumini -%}
                         {% if forloop.index < 5 %} <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{ batch.title }}</a>
-                        {% endif %}
-                        {%- endfor -%}
-                        <br><br>
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/alumni/' | relative_url }}">View more</a>
+                            {% endif %}
+                            {%- endfor -%}
+                            <br><br>
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/alumni/' | relative_url }}">View more</a>
                     </div>
                 </div>
             </div>
