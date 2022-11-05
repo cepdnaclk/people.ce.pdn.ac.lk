@@ -56,6 +56,16 @@ try:
             staff_pub_year[staff]['publication_count'] = pub_count
             staff_pub_year[staff]['year_count'] = len(staff_pub_year[staff]["publications"])
 
+        # Sort the publications by year
+        for staff in staff_pub:
+            publications = staff_pub_year[staff]['publications']
+            publications_sorted = {}
+            for key in sorted(publications, reverse=True):
+                # print "%s: %s" % (key, mydict[key])
+                publications_sorted[key] = publications[key]
+
+            staff_pub_year[staff]['publications'] = publications_sorted
+
         # Write into the file
         filename = "../_data/staff_publications.json"
         os.makedirs(os.path.dirname(filename), exist_ok=True)

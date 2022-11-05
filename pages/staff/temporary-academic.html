@@ -69,7 +69,8 @@ Update the JSON, _data/temporary-academic-staff.json, and it will add the profil
         <h3 class="text-center">Past Temporary Academic Staff</h3>
         <hr>
         <!-- past academic staff -->
-        {%- for each in site.data.temporary_academic_staff -%}
+        {%- assign past_temp = site.data.temporary_academic_staff | sort: 'left_date' | reverse-%}
+        {%- for each in past_temp -%}
 
         {%- if each.left_date != "" -%}
         {%- assign left_date = each.left_date | date: '%s' -%}

@@ -1,6 +1,7 @@
 .vh-50 {
     min-height: 50vh !important;
 }
+
 .vh-75 {
     min-height: 75vh !important;
 }
@@ -10,7 +11,7 @@ html {
 }
 
 body {
-    transition:all 3s;
+    transition: all 3s;
 }
 
 .cardSpacingHome {
@@ -31,27 +32,25 @@ body {
 }
 
 #toTopBtn {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 97;
-  padding: 21px;
-  background-color: #0d6efd !important;
-  background: url('https://people.ce.pdn.ac.lk/assets/img/cd-top-arrow.svg')
-    no-repeat center 50%;
-  background-color: hsla(5, 76%, 62%, 0.8);
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 97;
+    padding: 21px;
+    background-color: #0d6efd !important;
+    background: url('https://people.ce.pdn.ac.lk/assets/img/cd-top-arrow.svg') no-repeat center 50%;
+    background-color: hsla(5, 76%, 62%, 0.8);
 }
 
 #editBtn {
-  position: fixed;
-  bottom: 20px;
-  right: 70px;
-  z-index: 98;
-  padding: 21px;
-  background-color: #0dfc5e !important;
-  background: url('https://people.ce.pdn.ac.lk/assets/img/cd-top-edit.svg')
-    no-repeat center 50%;
-  background-color: hsla(5, 76%, 62%, 0.8);
+    position: fixed;
+    bottom: 20px;
+    right: 70px;
+    z-index: 98;
+    padding: 21px;
+    background-color: #0dfc5e !important;
+    background: url('https://people.ce.pdn.ac.lk/assets/img/cd-top-edit.svg') no-repeat center 50%;
+    background-color: hsla(5, 76%, 62%, 0.8);
 }
 
 .js .cd-top--fade-out {
@@ -70,26 +69,25 @@ body {
 }
 
 .cd-top {
-  position: fixed;
-  bottom: 20px;
-  bottom: var(--cd-back-to-top-margin);
-  right: 20px;
-  right: var(--cd-back-to-top-margin);
-  display: inline-block;
-  height: 40px;
-  height: var(--cd-back-to-top-size);
-  width: 40px;
-  width: var(--cd-back-to-top-size);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05) !important;
-  background-color: hsla(
-    var(--cd-color-3-h),
-    var(--cd-color-3-s),
-    var(--cd-color-3-l),
-    0.8
-  );
+    position: fixed;
+    bottom: 20px;
+    bottom: var(--cd-back-to-top-margin);
+    right: 20px;
+    right: var(--cd-back-to-top-margin);
+    display: inline-block;
+    height: 40px;
+    height: var(--cd-back-to-top-size);
+    width: 40px;
+    width: var(--cd-back-to-top-size);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05) !important;
+    background-color: hsla(var(--cd-color-3-h),
+            var(--cd-color-3-s),
+            var(--cd-color-3-l),
+            0.8);
 }
+
 /* Custom css for breadcrumb divider color*/
-.breadcrumb-item + .breadcrumb-item::before {
+.breadcrumb-item+.breadcrumb-item::before {
     color: white;
 }
 
@@ -98,35 +96,49 @@ body {
 .img-hover-zoom-card {
     overflow: hidden;
 }
+
 .img-hover-zoom {
     overflow: hidden;
 }
+
 .img-hover-zoom-card img {
     transition: transform .5s ease;
 }
+
 .img-hover-zoom-card:hover img {
     transform: scale(1.1);
 }
-.text-decoration-none{
-    text-decoration: none!important;
+
+.text-decoration-none {
+    text-decoration: none !important;
     /* color: black; */
 }
 
 .social-icon {
     transition: transform .2s;
 }
+
 .social-icon:hover {
     transform: scale(1.1);
 }
 
-.badge-image{
+.badge-image {
     width: 84px !important;
     height: 84px !important;
-    cursor: pointer!important;
+    cursor: pointer !important;
     transition: transform .2s;
     padding: 4px;
 }
 
-.badge-image:hover{
+.badge-image:hover {
     transform: scale(1.1);
+}
+
+.footer-link {
+    color: #6c757d !important;
+    transition: all 0.2s ease-in;
+}
+
+.footer-link:hover {
+    color: #0d6efd !important;
 }

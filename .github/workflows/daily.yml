@@ -1,4 +1,4 @@
-name: Update Profile Details 
+name: Update Profile Details
 
 on:
   schedule:
@@ -16,11 +16,13 @@ jobs:
         uses: actions/checkout@master
         with:
           ref: main
+          # used for 'git log' command at python_scripts/update_profile_from_google_form.py line 154
+          fetch-depth: 0 
 
-      - name: Set up Python 3.6
+      - name: Set up Python 3.8
         uses: actions/setup-python@v2
         with:
-          python-version: 3.6
+          python-version: 3.8
 
       - name: Install Python Dependencies
         run: |
@@ -29,8 +31,11 @@ jobs:
           pip install requests
           pip install pillow
           pip install googledrivedownloader
+          pip install pytz
 
       - name: Update student profiles from Google Form
+        env:
+          GOOGLE_FORM_CSV_LINK: ${{ secrets.GOOGLE_FORM_CSV_LINK }}
         run: |
           cd ./python_scripts
           python3 update_profile_from_google_form.py
@@ -40,12 +45,6 @@ jobs:
         run: |
           cd ./python_scripts
           python3 download_staff_pages_from_drive.py
-          cd ../
-          
-      - name: Update postgrad students from Google Form
-        run: |
-          cd ./python_scripts
-          python3 update_postgrad_from_google_form.py
           cd ../
 
       - name: Generate Performance Badges for the students
@@ -58,6 +57,18 @@ jobs:
         run: |
           cd ./python_scripts
           python3 update_socities.py
+          cd ../
+
+      - name: Update postgrad students from Google Form
+        run: |
+          cd ./python_scripts
+          python3 update_postgrad_from_google_form.py
+          cd ../
+
+      - name: Resize student images
+        run: |
+          cd ./python_scripts
+          python3 resize_student_images.py
           cd ../
 
       - name: Commit and push into the main branch

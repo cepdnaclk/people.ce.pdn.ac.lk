@@ -48,11 +48,12 @@ if __name__ == "__main__":
         # based on the time elapsed from the start of time (1970 something)
         parsedDateTimeObject = datetime.datetime.strptime(studentData[FORM_FILLED_DATE], "%m/%d/%Y %H:%M:%S")
         elapsedTimeFromTheStartOfTime = parsedDateTimeObject.timestamp() - 1654224090
+        print(int(elapsedTimeFromTheStartOfTime))
 
         # print(studentData)
         print("Processing: " + studentData[REG_NO] + " " + studentData[NAME_WITH_INITIALS])
 
-        print(json.dumps(studentData, indent = 4))
+        print(json.dumps(studentData, indent=4))
 
         nameConverted = studentData[NAME_WITH_INITIALS].replace(" ", "").replace(".", "")
         permalink = f"/students/postgraduate/{nameConverted}/"
@@ -104,6 +105,7 @@ image_url: "{image_path}"
         file_url = "../"+f"pages/postgraudate/students/{nameConverted}.html"
         os.makedirs(os.path.dirname(file_url), exist_ok=True)
         htmlFile = open(file_url, "w")
+        print(f"Writing to {file_url}")
         htmlFile.write(outputString)
         htmlFile.close()
 

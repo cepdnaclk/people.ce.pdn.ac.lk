@@ -1,5 +1,61 @@
 {
+    " isurud@ee.pdn.ac.lk": [
+        {
+            "title": "neuromorphic architecture",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/neuromorphic-architecture/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
+        }
+    ],
+    "agbc@pdn.ac.lk": [
+        {
+            "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/"
+        }
+    ],
     "alawatugoda@eng.pdn.ac.lk": [
+        {
+            "title": "implementation of lightweight cryptographic algorithms",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/implementation-of-lightweight-cryptographic-algorithms/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/implementation-of-lightweight-cryptographic-algorithms/"
+        },
+        {
+            "title": "post quantum cryptographic schemes based on plain lattices",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/post-quantum-cryptographic-schemes-based-on-plain-lattices/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-post-quantum-cryptographic-schemes-based-on-plain-lattices",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-post-quantum-cryptographic-schemes-based-on-plain-lattices",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/post-quantum-cryptographic-schemes-based-on-plain-lattices/"
+        },
         {
             "title": "Identifying keywords in legal articles using ML techniques",
             "category": {
@@ -81,9 +137,35 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-B/"
+        },
+        {
+            "title": "Smart Inventory Management System Group C",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-C/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-C",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
         }
     ],
     "asithab@eng.pdn.ac.lk": [
+        {
+            "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/"
+        },
         {
             "title": "Doppelganger Cartoon",
             "category": {
@@ -249,6 +331,45 @@
     ],
     "damayanthiherath@eng.pdn.ac.lk": [
         {
+            "title": "ABM for Micro Mobility in Sri Lankan Cities",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/ABM-for-Micro-Mobility-in-Sri-Lankan-Cities/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-ABM-for-Micro-Mobility-in-Sri-Lankan-Cities",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-ABM-for-Micro-Mobility-in-Sri-Lankan-Cities",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/ABM-for-Micro-Mobility-in-Sri-Lankan-Cities/"
+        },
+        {
+            "title": "Automated Protein Function Prediction",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Automated-Protein-Function-Prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Automated-Protein-Function-Prediction",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Automated-Protein-Function-Prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Automated-Protein-Function-Prediction/"
+        },
+        {
+            "title": "Using Computer Vision and Agent Based Modelling to Explore the Human Elephant Conflict",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/"
+        },
+        {
             "title": "Explainable Machine Learning for Real World Resource Constrained Problems",
             "category": {
                 "code": "4yp",
@@ -275,19 +396,6 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Identifying-keywords-in-legal-articles-using-ML-techniques/"
         },
         {
-            "title": "Real Time Data processing and AI for Distributed IoT",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Real-Time-Data-processing-and-AI-for-Distributed-IoT/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Real-Time-Data-processing-and-AI-for-Distributed-IoT",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-Real-Time-Data-processing-and-AI-for-Distributed-IoT",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Real-Time-Data-processing-and-AI-for-Distributed-IoT/"
-        },
-        {
             "title": "Revealing miRNA Biomarkers for Alzheimer s Disease using NGS",
             "category": {
                 "code": "4yp",
@@ -312,6 +420,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-co328-Host-Pathogen-Interaction",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Host-Pathogen-Interaction/"
+        },
+        {
+            "title": "NGS Data AnalysingToolkit",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/NGS-Data-AnalysingToolkit/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-NGS-Data-AnalysingToolkit",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-NGS-Data-AnalysingToolkit",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/NGS-Data-AnalysingToolkit/"
         }
     ],
     "dhammika@eng.pdn.ac.lk": [
@@ -342,7 +463,35 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-heart-disease-using-ECG/"
         }
     ],
+    "dhanulb@dental.pdn.ac.lk": [
+        {
+            "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+        }
+    ],
     "dilshanik@eng.pdn.ac.lk": [
+        {
+            "title": "swarm intelligence programming framework",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/swarm-intelligence-programming-framework/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-swarm-intelligence-programming-framework",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
+        },
         {
             "title": "Augmented Reality Guidance System",
             "category": {
@@ -400,6 +549,51 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/online-proctoring-system/"
         }
     ],
+    "gihan@umd.edu": [
+        {
+            "title": "open world object detection and discovery",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/open-world-object-detection-and-discovery/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-open-world-object-detection-and-discovery",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
+        }
+    ],
+    "h.gamaarachchi@garvan.org.au": [
+        {
+            "title": "Acceleration of DTW algorithm for real time nanopore selective sequencing using GPUs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs/"
+        }
+    ],
+    "haris.javaid@amd.com": [
+        {
+            "title": "Hardware Cache Switching with Operating System Context Switches",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
+        }
+    ],
     "hasindu2008@gmail.com ": [
         {
             "title": "Accelerating Adaptive Banded Event Alignment Algorithm with OpenCL on FPGA",
@@ -413,6 +607,21 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA/"
+        }
+    ],
+    "iftekhar.salam@xmu.edu.my": [
+        {
+            "title": "implementation of lightweight cryptographic algorithms",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/implementation-of-lightweight-cryptographic-algorithms/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/implementation-of-lightweight-cryptographic-algorithms/"
         }
     ],
     "imeshuek@eng.pdn.ac.lk": [
@@ -469,6 +678,21 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
+        }
+    ],
+    "indika.kahanda@unf.edu": [
+        {
+            "title": "Automated Protein Function Prediction",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Automated-Protein-Function-Prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Automated-Protein-Function-Prediction",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Automated-Protein-Function-Prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Automated-Protein-Function-Prediction/"
         }
     ],
     "isurunawinne@ce.pdn.ac.lk": [
@@ -969,6 +1193,188 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Smart-Monitoring-and-Automated-Controlling-System-for-an-Aquarium/"
         },
         {
+            "title": "Automated Mini Greenhouse Monitoring And Control System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Automated-Mini-Greenhouse-Monitoring-And-Control-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Automated-Mini-Greenhouse-Monitoring-And-Control-System",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Automated-Mini-Greenhouse-Monitoring-And-Control-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Mini-Greenhouse-Monitoring-And-Control-System/"
+        },
+        {
+            "title": "Automated Poultry Farming",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Automated-Poultry-Farming/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Automated-Poultry-Farming",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Automated-Poultry-Farming",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Poultry-Farming/"
+        },
+        {
+            "title": "Health Watch with Emergency Detection",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Health-Watch-with-Emergency-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Health-Watch-with-Emergency-Detection/"
+        },
+        {
+            "title": "Patient Monitoring System for Ambulances",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Patient-Monitoring-System-for-Ambulances/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Patient-Monitoring-System-for-Ambulances",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Patient-Monitoring-System-for-Ambulances",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Patient-Monitoring-System-for-Ambulances/"
+        },
+        {
+            "title": "Road Accident Detection And Notification System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Road-Accident-Detection-And-Notification-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Road-Accident-Detection-And-Notification-System",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Road-Accident-Detection-And-Notification-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Accident-Detection-And-Notification-System/"
+        },
+        {
+            "title": "Road Traffic Ecosystem",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Road-Traffic-Ecosystem/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Road-Traffic-Ecosystem",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Road-Traffic-Ecosystem",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Traffic-Ecosystem/"
+        },
+        {
+            "title": "Smart Compost Management System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Compost-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Compost-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Compost-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Compost-Management-System/"
+        },
+        {
+            "title": "Smart Gate Keeping and Authentication System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Gate-Keeping-and-Authentication-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Gate-Keeping-and-Authentication-System",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Gate-Keeping-and-Authentication-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Gate-Keeping-and-Authentication-System/"
+        },
+        {
+            "title": "Smart Locker System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Locker-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Locker-System",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Locker-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Locker-System/"
+        },
+        {
+            "title": "Smart Medicine Dispenser",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Medicine-Dispenser/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Medicine-Dispenser",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Medicine-Dispenser",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Medicine-Dispenser/"
+        },
+        {
+            "title": "Smart Planting System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Planting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Planting-System",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Planting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Planting-System/"
+        },
+        {
+            "title": "Weather Analytics And Travel Path Guider",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Weather-Analytics-And-Travel-Path-Guider/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
+        },
+        {
+            "title": "non invaisve glucose meter",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/non-invaisve-glucose-meter/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-non-invaisve-glucose-meter",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-non-invaisve-glucose-meter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/non-invaisve-glucose-meter/"
+        },
+        {
+            "title": "smart polling booth",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/smart-polling-booth/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-smart-polling-booth",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-polling-booth",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-polling-booth/"
+        },
+        {
             "title": "Covid Tracer",
             "category": {
                 "code": "3yp",
@@ -1149,6 +1555,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-apartment-security-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-apartment-security-system/"
+        },
+        {
+            "title": "smart garbage collection",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/smart-garbage-collection/",
+            "repo_url": "https://github.com/cepdnaclk/e17-3yp-smart-garbage-collection",
+            "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-garbage-collection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-garbage-collection/"
         },
         {
             "title": "smart home",
@@ -1320,6 +1739,71 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/waiterbot-system/"
         },
         {
+            "title": "Configurable ECU Emulator",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulator/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulator",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulator",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulator/"
+        },
+        {
+            "title": "Enhancing Video Game Experience With Brain Computer Interface",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/"
+        },
+        {
+            "title": "Hardware Cache Switching with Operating System Context Switches",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
+        },
+        {
+            "title": "neuromorphic architecture",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/neuromorphic-architecture/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
+        },
+        {
+            "title": "swarm intelligence programming framework",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/swarm-intelligence-programming-framework/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-swarm-intelligence-programming-framework",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
+        },
+        {
             "title": "Brain Computer Interface for controlling virtual objects",
             "category": {
                 "code": "4yp",
@@ -1398,6 +1882,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E14/ipb/"
         },
         {
+            "title": "Analysis Tool for Industrial Images",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Analysis-Tool-for-Industrial-Images/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-Analysis-Tool-for-Industrial-Images",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-Analysis-Tool-for-Industrial-Images",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Analysis-Tool-for-Industrial-Images/"
+        },
+        {
             "title": "Oral Cavity Region Detection",
             "category": {
                 "code": "co328",
@@ -1437,6 +1934,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-B/"
         },
         {
+            "title": "Molding Machine Dashboard",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Molding-Machine-Dashboard/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Molding-Machine-Dashboard",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Molding-Machine-Dashboard",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Molding-Machine-Dashboard/"
+        },
+        {
             "title": "Smart Inventory Management System Group A",
             "category": {
                 "code": "co227",
@@ -1461,6 +1971,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-B/"
+        },
+        {
+            "title": "Smart Inventory Management System Group C",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-C/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-C",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
         },
         {
             "title": "RISCV pipeline cpu implementation group04",
@@ -1601,6 +2124,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/human-behavior-prediction-using-cctv/"
         }
     ],
+    "kamalanath@pdn.ac.lk": [
+        {
+            "title": "Development of an Image Capturing Unit for Remote Monitoring",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring/"
+        }
+    ],
     "kesharaw@eng.pdn.ac.lk": [
         {
             "title": "Image Data Handling System for Research Group A",
@@ -1627,6 +2165,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Image-Data-Handling-System-for-Research-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-B/"
+        },
+        {
+            "title": "Molding Machine Dashboard",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Molding-Machine-Dashboard/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Molding-Machine-Dashboard",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Molding-Machine-Dashboard",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Molding-Machine-Dashboard/"
         }
     ],
     "lankaniperera@eng.pdn.ac.lk": [
@@ -1655,9 +2206,204 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B/"
+        },
+        {
+            "title": "Postgraduate Student Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Postgraduate-Student-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Postgraduate-Student-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Postgraduate-Student-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Postgraduate-Student-Management-System/"
         }
     ],
     "mahanamaw@eng.pdn.ac.lk": [
+        {
+            "title": "Automated Mini Greenhouse Monitoring And Control System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Automated-Mini-Greenhouse-Monitoring-And-Control-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Automated-Mini-Greenhouse-Monitoring-And-Control-System",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Automated-Mini-Greenhouse-Monitoring-And-Control-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Mini-Greenhouse-Monitoring-And-Control-System/"
+        },
+        {
+            "title": "Automated Poultry Farming",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Automated-Poultry-Farming/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Automated-Poultry-Farming",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Automated-Poultry-Farming",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Poultry-Farming/"
+        },
+        {
+            "title": "Health Watch with Emergency Detection",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Health-Watch-with-Emergency-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Health-Watch-with-Emergency-Detection/"
+        },
+        {
+            "title": "Patient Monitoring System for Ambulances",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Patient-Monitoring-System-for-Ambulances/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Patient-Monitoring-System-for-Ambulances",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Patient-Monitoring-System-for-Ambulances",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Patient-Monitoring-System-for-Ambulances/"
+        },
+        {
+            "title": "Road Accident Detection And Notification System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Road-Accident-Detection-And-Notification-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Road-Accident-Detection-And-Notification-System",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Road-Accident-Detection-And-Notification-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Accident-Detection-And-Notification-System/"
+        },
+        {
+            "title": "Road Traffic Ecosystem",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Road-Traffic-Ecosystem/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Road-Traffic-Ecosystem",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Road-Traffic-Ecosystem",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Traffic-Ecosystem/"
+        },
+        {
+            "title": "Smart Compost Management System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Compost-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Compost-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Compost-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Compost-Management-System/"
+        },
+        {
+            "title": "Smart Gate Keeping and Authentication System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Gate-Keeping-and-Authentication-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Gate-Keeping-and-Authentication-System",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Gate-Keeping-and-Authentication-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Gate-Keeping-and-Authentication-System/"
+        },
+        {
+            "title": "Smart Locker System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Locker-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Locker-System",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Locker-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Locker-System/"
+        },
+        {
+            "title": "Smart Medicine Dispenser",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Medicine-Dispenser/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Medicine-Dispenser",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Medicine-Dispenser",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Medicine-Dispenser/"
+        },
+        {
+            "title": "Smart Planting System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Planting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Planting-System",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Planting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Planting-System/"
+        },
+        {
+            "title": "Weather Analytics And Travel Path Guider",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Weather-Analytics-And-Travel-Path-Guider/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
+        },
+        {
+            "title": "non invaisve glucose meter",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/non-invaisve-glucose-meter/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-non-invaisve-glucose-meter",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-non-invaisve-glucose-meter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/non-invaisve-glucose-meter/"
+        },
+        {
+            "title": "smart polling booth",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/smart-polling-booth/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-smart-polling-booth",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-polling-booth",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-polling-booth/"
+        },
         {
             "title": "Covid Tracer",
             "category": {
@@ -1841,6 +2587,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-apartment-security-system/"
         },
         {
+            "title": "smart garbage collection",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/smart-garbage-collection/",
+            "repo_url": "https://github.com/cepdnaclk/e17-3yp-smart-garbage-collection",
+            "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-garbage-collection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-garbage-collection/"
+        },
+        {
             "title": "smart home",
             "category": {
                 "code": "3yp",
@@ -1865,6 +2624,71 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-shopping-cart",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-shopping-cart/"
+        },
+        {
+            "title": "Configurable ECU Emulator",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Configurable-ECU-Emulator/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Configurable-ECU-Emulator",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Configurable-ECU-Emulator",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Configurable-ECU-Emulator/"
+        },
+        {
+            "title": "Enhancing Video Game Experience With Brain Computer Interface",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/"
+        },
+        {
+            "title": "Hardware Cache Switching with Operating System Context Switches",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
+        },
+        {
+            "title": "neuromorphic architecture",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/neuromorphic-architecture/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
+        },
+        {
+            "title": "swarm intelligence programming framework",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/swarm-intelligence-programming-framework/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-swarm-intelligence-programming-framework",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
         },
         {
             "title": "Auto Marking and Student Performance Analyser System for Continuous Assessments Group A",
@@ -1975,6 +2799,19 @@
     ],
     "nadeeshaa@eng.pdn.ac.lk": [
         {
+            "title": "Food Recommendation System Using Machine Learning for Diabetic Patients in Sri Lanka",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients-in-Sri-Lanka/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients-in-Sri-Lanka",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients-in-Sri-Lanka",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients-in-Sri-Lanka/"
+        },
+        {
             "title": "Poultry Feed Efficiency Tracking System Group 12",
             "category": {
                 "code": "co227",
@@ -1999,6 +2836,32 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-17",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-17/"
+        },
+        {
+            "title": "SnaT Meal Tracking App Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/SnaT-Meal-Tracking-App-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-SnaT-Meal-Tracking-App-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-A/"
+        },
+        {
+            "title": "SnaT Meal Tracking App Group B",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/SnaT-Meal-Tracking-App-Group-B/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-SnaT-Meal-Tracking-App-Group-B",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-B",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-B/"
         }
     ],
     "namal@eng.pdn.ac.lk": [
@@ -2014,6 +2877,32 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-automatic-fish-tank-control-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/automatic-fish-tank-control-system/"
+        },
+        {
+            "title": "Enhancement of Efficiency of Vehicular Communication using SDN",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Enhancement-of-Efficiency-of-Vehicular-Communication-using-SDN/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Enhancement-of-Efficiency-of-Vehicular-Communication-using-SDN",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Enhancement-of-Efficiency-of-Vehicular-Communication-using-SDN",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Enhancement-of-Efficiency-of-Vehicular-Communication-using-SDN/"
+        },
+        {
+            "title": "Machine Learning based Atmospheric Duct Interference cancellation in TD LTE networks",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks/"
         },
         {
             "title": "ContactTracingApp",
@@ -2056,6 +2945,19 @@
         }
     ],
     "nuwanjaliyagoda@eng.pdn.ac.lk": [
+        {
+            "title": "swarm intelligence programming framework",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/swarm-intelligence-programming-framework/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-swarm-intelligence-programming-framework",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
+        },
         {
             "title": "Document Tag Generator",
             "category": {
@@ -2146,6 +3048,32 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-B/"
+        },
+        {
+            "title": "Smart Inventory Management System Group C",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-C/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-C",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
+        },
+        {
+            "title": "SnaT Meal Tracking App Group B",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/SnaT-Meal-Tracking-App-Group-B/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-SnaT-Meal-Tracking-App-Group-B",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-B",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-B/"
         }
     ],
     "pcgunathilake@gmail.com": [
@@ -2161,6 +3089,36 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-Optimizing-chloroplast-genome-assembly-and-annotation-with-skim-sequencing-data",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Optimizing-chloroplast-genome-assembly-and-annotation-with-skim-sequencing-data/"
+        }
+    ],
+    "prabhathg@gmail.com": [
+        {
+            "title": "Greenhouse Monitoring System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Greenhouse-Monitoring-System/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-Greenhouse-Monitoring-System",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-Greenhouse-Monitoring-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Greenhouse-Monitoring-System/"
+        }
+    ],
+    "prabhathg@sci.pdn.ac.lk ": [
+        {
+            "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/"
         }
     ],
     "pradeepag@agri.pdn.ac.lk": [
@@ -2189,6 +3147,49 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-Pipeline-for-Isolation-of-Fast-evolving-ITS-Regions-from-Skim-Sequencing-Data",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Pipeline-for-Isolation-of-Fast-evolving-ITS-Regions-from-Skim-Sequencing-Data/"
+        }
+    ],
+    "qinyi.li@griffith.edu.au": [
+        {
+            "title": "post quantum cryptographic schemes based on plain lattices",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/post-quantum-cryptographic-schemes-based-on-plain-lattices/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-post-quantum-cryptographic-schemes-based-on-plain-lattices",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-post-quantum-cryptographic-schemes-based-on-plain-lattices",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/post-quantum-cryptographic-schemes-based-on-plain-lattices/"
+        }
+    ],
+    "rajith.vidanaarachchi@unimelb.edu.au": [
+        {
+            "title": "ABM for Micro Mobility in Sri Lankan Cities",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/ABM-for-Micro-Mobility-in-Sri-Lankan-Cities/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-ABM-for-Micro-Mobility-in-Sri-Lankan-Cities",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-ABM-for-Micro-Mobility-in-Sri-Lankan-Cities",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/ABM-for-Micro-Mobility-in-Sri-Lankan-Cities/"
+        },
+        {
+            "title": "Using Computer Vision and Agent Based Modelling to Explore the Human Elephant Conflict",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/"
         }
     ],
     "rajithae03@gmail.com": [
@@ -2468,6 +3469,136 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/automatic-fish-tank-control-system/"
         },
         {
+            "title": "Acceleration of DTW algorithm for real time nanopore selective sequencing using GPUs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Acceleration-of-DTW-algorithm-for-real-time-nanopore-selective-sequencing-using-GPUs/"
+        },
+        {
+            "title": "Enhancing Video Game Experience With Brain Computer Interface",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/"
+        },
+        {
+            "title": "Hardware Cache Switching with Operating System Context Switches",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
+        },
+        {
+            "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Smart-Agriculture-Use-of-Computer-Vision-ML-and-IoT-to-Improve-Crop-Productivity/"
+        },
+        {
+            "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+        },
+        {
+            "title": "implementation of lightweight cryptographic algorithms",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/implementation-of-lightweight-cryptographic-algorithms/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/implementation-of-lightweight-cryptographic-algorithms/"
+        },
+        {
+            "title": "neuromorphic architecture",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/neuromorphic-architecture/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
+        },
+        {
+            "title": "open world object detection and discovery",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/open-world-object-detection-and-discovery/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-open-world-object-detection-and-discovery",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
+        },
+        {
+            "title": "post quantum cryptographic schemes based on plain lattices",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/post-quantum-cryptographic-schemes-based-on-plain-lattices/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-post-quantum-cryptographic-schemes-based-on-plain-lattices",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-post-quantum-cryptographic-schemes-based-on-plain-lattices",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/post-quantum-cryptographic-schemes-based-on-plain-lattices/"
+        },
+        {
+            "title": "swarm intelligence programming framework",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/swarm-intelligence-programming-framework/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-swarm-intelligence-programming-framework",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
+        },
+        {
             "title": "Brain Computer Interface for controlling virtual objects",
             "category": {
                 "code": "4yp",
@@ -2546,6 +3677,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/nearIR-spectroscopy/"
         },
         {
+            "title": "Analysis Tool for Industrial Images",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Analysis-Tool-for-Industrial-Images/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co328-Analysis-Tool-for-Industrial-Images",
+            "page_url": "https://cepdnaclk.github.io/e17-co328-Analysis-Tool-for-Industrial-Images",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Analysis-Tool-for-Industrial-Images/"
+        },
+        {
             "title": "Oral Cavity Region Detection",
             "category": {
                 "code": "co328",
@@ -2589,7 +3733,65 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/obstacle-bots-for-swarm-robots/"
         }
     ],
+    "sachith.seneviratne@unimelb.edu.au": [
+        {
+            "title": "Using Computer Vision and Agent Based Modelling to Explore the Human Elephant Conflict",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/"
+        }
+    ],
+    "salman.khan@mbzuai.ac.ae": [
+        {
+            "title": "open world object detection and discovery",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/open-world-object-detection-and-discovery/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-open-world-object-detection-and-discovery",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
+        }
+    ],
+    "samal@eng.pdn.ac.lk": [
+        {
+            "title": "ABM for Micro Mobility in Sri Lankan Cities",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/ABM-for-Micro-Mobility-in-Sri-Lankan-Cities/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-ABM-for-Micro-Mobility-in-Sri-Lankan-Cities",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-ABM-for-Micro-Mobility-in-Sri-Lankan-Cities",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/ABM-for-Micro-Mobility-in-Sri-Lankan-Cities/"
+        }
+    ],
     "sampath@eng.pdn.ac.lk": [
+        {
+            "title": "Food Recommendation System Using Machine Learning for Diabetic Patients in Sri Lanka",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients-in-Sri-Lanka/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients-in-Sri-Lanka",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients-in-Sri-Lanka",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients-in-Sri-Lanka/"
+        },
         {
             "title": "cricket analysis",
             "category": {
@@ -2643,6 +3845,21 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-heart-disease-using-ECG/"
         }
     ],
+    "sithuminie@eng.pdn.ac.lk": [
+        {
+            "title": "swarm intelligence programming framework",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/swarm-intelligence-programming-framework/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-swarm-intelligence-programming-framework",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
+        }
+    ],
     "suranjisk@gmail.com": [
         {
             "title": "Real Time Emotion Recognition using Electrocardiogram Analysis",
@@ -2659,6 +3876,19 @@
         }
     ],
     "theekshanadis@eng.pdn.ac.lk": [
+        {
+            "title": "Enhancing Video Game Experience With Brain Computer Interface",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/"
+        },
         {
             "title": "Brain Computer Interface for controlling virtual objects",
             "category": {
@@ -2807,6 +4037,58 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E16/waiterbot-system/"
         },
         {
+            "title": "AI as a Microservice for Smart Edge of Things",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/AI-as-a-Microservice-for-Smart-Edge-of-Things/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/AI-as-a-Microservice-for-Smart-Edge-of-Things/"
+        },
+        {
+            "title": "Machine Learning based Atmospheric Duct Interference cancellation in TD LTE networks",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks/"
+        },
+        {
+            "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+        },
+        {
+            "title": "an artificial intelligence inspired zero trust model in decentralized edge environment",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/"
+        },
+        {
             "title": "Explainable Machine Learning for Real World Resource Constrained Problems",
             "category": {
                 "code": "4yp",
@@ -2818,19 +4100,6 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-Explainable-Machine-Learning-for-Real-World-Resource-Constrained-Problems",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Explainable-Machine-Learning-for-Real-World-Resource-Constrained-Problems/"
-        },
-        {
-            "title": "Real Time Data processing and AI for Distributed IoT",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Real-Time-Data-processing-and-AI-for-Distributed-IoT/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Real-Time-Data-processing-and-AI-for-Distributed-IoT",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-Real-Time-Data-processing-and-AI-for-Distributed-IoT",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Real-Time-Data-processing-and-AI-for-Distributed-IoT/"
         },
         {
             "title": "online proctoring system",
@@ -2896,6 +4165,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/road-accident-analyzer/"
+        },
+        {
+            "title": "Postgraduate Student Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Postgraduate-Student-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Postgraduate-Student-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Postgraduate-Student-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Postgraduate-Student-Management-System/"
         }
     ],
     "ziyanm@eng.pdn.ac.lk": [

@@ -1,0 +1,65 @@
+[
+    {
+        "staff_name" : "Priyangani Samaratunge",
+        "text_below_name" : "Computer Operator",
+        "url_image" : "images/staff/non-academic-staff/priyangi_samaratunge.jpg",
+        "contact_number" : "+94 81 2393471",
+        "on_duty": "true",
+        "email" : "priyangani@eng.pdn.ac.lk"
+    },
+    {
+        "staff_name" : "Bandara Wasundara",
+        "text_below_name" : "Technical Officer",
+        "url_image" : "images/staff/non-academic-staff/bandara.jpg",
+        "contact_number" : "+94 81 2393911",
+        "on_duty": "true",
+        "email" : "bandaraw@eng.pdn.ac.lk"
+    },
+    {
+        "staff_name" : "Kelum Gunarathne",
+        "text_below_name" : "Technical Officer",
+        "url_image" : "images/staff/non-academic-staff/kelum.jpg",
+        "contact_number" : "+94 81 2393910",
+        "on_duty": "true",
+        "email" : "kalumg@eng.pdn.ac.lk"
+    },
+    {
+        "staff_name" : "Umega Rathnayake",
+        "text_below_name" : "Technical Officer",
+        "url_image" : "images/staff/non-academic-staff/umega.jpg",
+        "contact_number" : "+94 81 2393471",
+        "on_duty": "true",
+        "email" : "urathnayake@eng.pdn.ac.lk"
+    },
+    {
+        "staff_name" : "Hemantha Kumara",
+        "text_below_name" : "Staff Assistant",
+        "url_image" : "images/staff/non-academic-staff/hemantha.jpg",
+        "contact_number" : "+94 81 2393471",
+        "on_duty": "true",
+        "email": "hemanthak@eng.pdn.ac.lk"
+    },
+    {
+        "staff_name" : "Anuradha Bandara",
+        "text_below_name" : "Staff Assistant",
+        "url_image" : "images/staff/non-academic-staff/anuradha.jpg",
+        "contact_number" : "+94 81 2393471",
+        "on_duty": "true",
+        "email": "anuradhasb@eng.pdn.ac.lk"
+    },
+    {
+        "staff_name" : "U.B. Weebadda",
+        "text_below_name" : "Staff Assistant",
+        "url_image" : "images/staff/non-academic-staff/weebadda.jpg",
+        "contact_number" : "",
+        "on_duty": "false"
+    },
+    {
+        "staff_name" : "Sarojini Madahapola",
+        "text_below_name" : "Computer Operator",
+        "url_image" : "images/staff/non-academic-staff/sarojini.jpg",
+        "contact_number" : "",
+        "on_duty": "false",
+        "email": "sarojinim@eng.pdn.ac.lk"
+    }
+]
