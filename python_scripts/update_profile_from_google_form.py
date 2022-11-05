@@ -17,6 +17,9 @@ from os.path import exists
 from PIL import Image  # pip install pillow
 
 
+# run setEnv.sh to set environment variables
+# file can be found in the drive folder
+# instructions to run the file can be found in the script
 googleFormCSV_link = os.environ['GOOGLE_FORM_CSV_LINK']
 googleFormCSV = requests.get(googleFormCSV_link, headers={
                              'Cache-Control': 'no-cache'}).text.split("\n")
@@ -59,8 +62,8 @@ if __name__ == "__main__":
             continue
 
         # If timestamp is older than 10 days, skip the record
-        if (datetime.now(timezone('Asia/Colombo')) - datetime.strptime(studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z")).days > 10:
-            continue
+        # if (datetime.now(timezone('Asia/Colombo')) - datetime.strptime(studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z")).days > 10:
+        #     continue
 
         # print(studentData)
         print("Processing: " + studentData[REG_NO] + " " + studentData[FULL_NAME])
@@ -89,6 +92,25 @@ if __name__ == "__main__":
         # location
         location = ",".join(studentData[LOCATION].split(";"))
 
+        # check if the file was updated using pull requests after the form was filed
+        file_url = "../"+f"pages/students/e{batch}/e{batch}{regNo}.html"
+
+        if exists(file_url):
+            # get last modified time from git log
+            fileLastEditedDateSTR = str(subprocess.run(['git', 'log', '-1', '--pretty="format:%ci"', file_url], stdout=subprocess.PIPE).stdout)
+            firstIndex = fileLastEditedDateSTR.find(":") + 1
+            lastIndex = fileLastEditedDateSTR.find("\"", firstIndex)
+            fileLastEditedDateSTR = fileLastEditedDateSTR[firstIndex:lastIndex]
+            fileLastEditedDate = datetime.strptime(fileLastEditedDateSTR, "%Y-%m-%d %H:%M:%S %z")
+            googleFormFilledDate = datetime.strptime(studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z")
+            print(f"fileLastEditedDate: {fileLastEditedDate}, googleFormFilledDate: {googleFormFilledDate}, Difference: {(fileLastEditedDate - googleFormFilledDate).total_seconds()}")
+
+            if (fileLastEditedDate - googleFormFilledDate).total_seconds() > 0:
+                print("File was updated after the google form was filled. Skipping...")
+                print("-------------")
+                continue
+        
+        
         # image
         image_path = f"images/students/e{batch}/e{batch}{regNo}.jpg"
         isImageDownloaded = False
@@ -145,27 +167,6 @@ interests: \"{interests}\"
 
 image_url: {image_path}
 ---"""
-
-        # write to html file
-        file_url = "../"+f"pages/students/e{batch}/e{batch}{regNo}.html"
-
-        if exists(file_url):
-            # get last modified time from git log
-            fileLastEditedDateSTR = str(subprocess.run(['git', 'log', '-1', '--pretty="format:%ci"', file_url], stdout=subprocess.PIPE).stdout)
-            print(fileLastEditedDateSTR)
-            firstIndex = fileLastEditedDateSTR.find(":") + 1
-            lastIndex = fileLastEditedDateSTR.find("\"", firstIndex)
-            fileLastEditedDateSTR = fileLastEditedDateSTR[firstIndex:lastIndex]
-            # print(fileLastEditedDateSTR)
-            fileLastEditedDate = datetime.strptime(fileLastEditedDateSTR, "%Y-%m-%d %H:%M:%S %z")
-            googleFormFilledDate = datetime.strptime(studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z")
-            print(f"fileLastEditedDate: {fileLastEditedDate}, googleFormFilledDate: {googleFormFilledDate}, Difference: {(fileLastEditedDate - googleFormFilledDate).total_seconds()}")
-
-            if (fileLastEditedDate - googleFormFilledDate).total_seconds() > 0:
-                print("File was updated after the google form was filled. Skipping...")
-                print("-------------")
-                # looks like this isnt working
-                continue
 
         os.makedirs(os.path.dirname(file_url), exist_ok=True)
         htmlFile = open(file_url, "w")
