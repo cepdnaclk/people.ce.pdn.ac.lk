@@ -20,3 +20,31 @@ title: Visiting Lecturers
     </div>
 </main>
 
+<div class="container py-4 px-lg-5">
+    <div class="row justify-content-center">
+        {%- for each in site.data.visiting-lecturers -%}
+        <div class="container card text-center p-2 border-primary m-1" style="width: 13rem;">
+            <img src="{{ each.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{each.name}}">
+            <div class="card-body">
+                <h6 class="card-title">{{each.name}}</h6>
+
+                <p class="card-text text-muted">{{each.position}}</p>
+
+                {% if each.email %}
+                <p class="card-text text-muted small">{{each.email}}</p>
+                {% endif %}
+
+
+                <div class="d-flex flex-row justify-content-evenly mt-auto pb-1">
+                    {% if each.url_linkedin %}
+                    <a class="btn btn-link" href="{{ each.url_linkedin }}" target="_blank"><i class="fab fa-lg fa-linkedin"></i></a>
+                    {% endif %}
+                </div>
+                {% if each.url_profile %}
+                <a class="btn btn-outline-primary w-100" href="{{ each.url_profile | relative_url }}">View</a>
+                {% endif %}
+            </div>
+        </div>
+        {%- endfor -%}
+    </div>
+</div>

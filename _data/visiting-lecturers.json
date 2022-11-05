@@ -2,17 +2,17 @@
     {
         "name" : "Test Visiting Lecturer1",
         "email" : "visitLec1@somesite.come",
-        "position": "prof at UNSW",
-        "image": "/somepath/someimage.jpg",
+        "position": "Prof at UNSW",
+        "url_image": "images/students/default.jpg",
         "url_linkedin": "https://www.linkedin.com/in/someperson",
-        "url_profile": null
+        "url_profile": "No page yet"
     },
     {
         "name" : "Test Visiting Lecturer2",
         "email" : "visitLec2@somesite.come",
         "position": "prof at UoP",
-        "image": "/somepath/someimage.jpg",
-        "url_linkedin": "https://www.linkedin.com/in/someperson",
+        "url_image": "images/students/default.jpg",
+        "url_linkedin": null,
         "url_profile": null
     }
 
