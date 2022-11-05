@@ -1362,6 +1362,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/non-invaisve-glucose-meter/"
         },
         {
+            "title": "smart pet collar",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/smart-pet-collar/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-smart-pet-collar",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-pet-collar",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-pet-collar/"
+        },
+        {
             "title": "smart polling booth",
             "category": {
                 "code": "3yp",
@@ -2390,6 +2403,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-non-invaisve-glucose-meter",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/non-invaisve-glucose-meter/"
+        },
+        {
+            "title": "smart pet collar",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/smart-pet-collar/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-smart-pet-collar",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-pet-collar",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-pet-collar/"
         },
         {
             "title": "smart polling booth",
