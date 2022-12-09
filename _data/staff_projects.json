@@ -1219,17 +1219,17 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Poultry-Farming/"
         },
         {
-            "title": "Health Watch with Emergency Detection",
+            "title": "Automated Road Rule Detector",
             "category": {
                 "code": "3yp",
                 "title": "Cyber-Physical Systems Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Health-Watch-with-Emergency-Detection/",
-            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Health-Watch-with-Emergency-Detection",
-            "page_url": "https://cepdnaclk.github.io/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Automated-Road-Rule-Detector/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Automated-Road-Rule-Detector",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Automated-Road-Rule-Detector",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Health-Watch-with-Emergency-Detection/"
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Road-Rule-Detector/"
         },
         {
             "title": "Patient Monitoring System for Ambulances",
@@ -1284,19 +1284,6 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Compost-Management-System/"
         },
         {
-            "title": "Smart Gate Keeping and Authentication System",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Gate-Keeping-and-Authentication-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Gate-Keeping-and-Authentication-System",
-            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Gate-Keeping-and-Authentication-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Gate-Keeping-and-Authentication-System/"
-        },
-        {
             "title": "Smart Locker System",
             "category": {
                 "code": "3yp",
@@ -1334,19 +1321,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Planting-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Planting-System/"
-        },
-        {
-            "title": "Weather Analytics And Travel Path Guider",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Weather-Analytics-And-Travel-Path-Guider/",
-            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
-            "page_url": "https://cepdnaclk.github.io/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
         },
         {
             "title": "non invaisve glucose meter",
@@ -1555,19 +1529,6 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-remote-proctoring-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-proctoring-system/"
-        },
-        {
-            "title": "smart apartment security system",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/smart-apartment-security-system/",
-            "repo_url": "https://github.com/cepdnaclk/e17-3yp-smart-apartment-security-system",
-            "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-apartment-security-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-apartment-security-system/"
         },
         {
             "title": "smart garbage collection",
@@ -2262,17 +2223,17 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Poultry-Farming/"
         },
         {
-            "title": "Health Watch with Emergency Detection",
+            "title": "Automated Road Rule Detector",
             "category": {
                 "code": "3yp",
                 "title": "Cyber-Physical Systems Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Health-Watch-with-Emergency-Detection/",
-            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Health-Watch-with-Emergency-Detection",
-            "page_url": "https://cepdnaclk.github.io/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Automated-Road-Rule-Detector/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Automated-Road-Rule-Detector",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Automated-Road-Rule-Detector",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Health-Watch-with-Emergency-Detection/"
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Road-Rule-Detector/"
         },
         {
             "title": "Patient Monitoring System for Ambulances",
@@ -2327,19 +2288,6 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Compost-Management-System/"
         },
         {
-            "title": "Smart Gate Keeping and Authentication System",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Gate-Keeping-and-Authentication-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Gate-Keeping-and-Authentication-System",
-            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Gate-Keeping-and-Authentication-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Gate-Keeping-and-Authentication-System/"
-        },
-        {
             "title": "Smart Locker System",
             "category": {
                 "code": "3yp",
@@ -2377,19 +2325,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Planting-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Planting-System/"
-        },
-        {
-            "title": "Weather Analytics And Travel Path Guider",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Weather-Analytics-And-Travel-Path-Guider/",
-            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
-            "page_url": "https://cepdnaclk.github.io/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
         },
         {
             "title": "non invaisve glucose meter",
@@ -2598,19 +2533,6 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-remote-proctoring-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-proctoring-system/"
-        },
-        {
-            "title": "smart apartment security system",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/smart-apartment-security-system/",
-            "repo_url": "https://github.com/cepdnaclk/e17-3yp-smart-apartment-security-system",
-            "page_url": "https://cepdnaclk.github.io/e17-3yp-smart-apartment-security-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/smart-apartment-security-system/"
         },
         {
             "title": "smart garbage collection",
