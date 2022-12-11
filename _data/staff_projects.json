@@ -1284,6 +1284,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Compost-Management-System/"
         },
         {
+            "title": "Smart Gate Keeping and Authentication System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Gate-Keeping-and-Authentication-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Gate-Keeping-and-Authentication-System",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Gate-Keeping-and-Authentication-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Gate-Keeping-and-Authentication-System/"
+        },
+        {
             "title": "Smart Locker System",
             "category": {
                 "code": "3yp",
@@ -1323,6 +1336,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Planting-System/"
         },
         {
+            "title": "Weather Analytics And Travel Path Guider",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Weather-Analytics-And-Travel-Path-Guider/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
+        },
+        {
             "title": "non invaisve glucose meter",
             "category": {
                 "code": "3yp",
@@ -1360,6 +1386,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-polling-booth",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-polling-booth/"
+        },
+        {
+            "title": "smart safety helmet",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/smart-safety-helmet/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-smart-safety-helmet",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-safety-helmet",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-safety-helmet/"
         },
         {
             "title": "Covid Tracer",
@@ -2288,6 +2327,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Compost-Management-System/"
         },
         {
+            "title": "Smart Gate Keeping and Authentication System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Gate-Keeping-and-Authentication-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Gate-Keeping-and-Authentication-System",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Gate-Keeping-and-Authentication-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Gate-Keeping-and-Authentication-System/"
+        },
+        {
             "title": "Smart Locker System",
             "category": {
                 "code": "3yp",
@@ -2327,6 +2379,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Planting-System/"
         },
         {
+            "title": "Weather Analytics And Travel Path Guider",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Weather-Analytics-And-Travel-Path-Guider/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
+        },
+        {
             "title": "non invaisve glucose meter",
             "category": {
                 "code": "3yp",
@@ -2364,6 +2429,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-polling-booth",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-polling-booth/"
+        },
+        {
+            "title": "smart safety helmet",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/smart-safety-helmet/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-smart-safety-helmet",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-safety-helmet",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-safety-helmet/"
         },
         {
             "title": "Covid Tracer",
