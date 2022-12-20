@@ -1271,19 +1271,6 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Traffic-Ecosystem/"
         },
         {
-            "title": "Smart Compost Management System",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Compost-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Compost-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Compost-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Compost-Management-System/"
-        },
-        {
             "title": "Smart Gate Keeping and Authentication System",
             "category": {
                 "code": "3yp",
@@ -2299,19 +2286,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Road-Traffic-Ecosystem",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Traffic-Ecosystem/"
-        },
-        {
-            "title": "Smart Compost Management System",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Compost-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Compost-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Compost-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Compost-Management-System/"
         },
         {
             "title": "Smart Gate Keeping and Authentication System",
