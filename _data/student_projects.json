@@ -5326,6 +5326,19 @@
     ],
     "E/18/010": [
         {
+            "title": "smart glove",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/smart-glove/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-smart-glove",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-glove",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-glove/"
+        },
+        {
             "title": "Department Course Page Group B",
             "category": {
                 "code": "co227",
@@ -5862,6 +5875,19 @@
     ],
     "E/18/156": [
         {
+            "title": "smart glove",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/smart-glove/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-smart-glove",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-glove",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-glove/"
+        },
+        {
             "title": "Auto Marking and Student Performance Analyser System for Continuous Assessments Group A",
             "category": {
                 "code": "co227",
@@ -5904,6 +5930,19 @@
         }
     ],
     "E/18/170": [
+        {
+            "title": "non invaisve glucose meter",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/non-invaisve-glucose-meter/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-non-invaisve-glucose-meter",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-non-invaisve-glucose-meter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/non-invaisve-glucose-meter/"
+        },
         {
             "title": "Image Data Handling System for Research Group A",
             "category": {
@@ -6232,6 +6271,19 @@
     ],
     "E/18/282": [
         {
+            "title": "non invaisve glucose meter",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/non-invaisve-glucose-meter/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-non-invaisve-glucose-meter",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-non-invaisve-glucose-meter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/non-invaisve-glucose-meter/"
+        },
+        {
             "title": "Image Data Handling System for Research Group B",
             "category": {
                 "code": "co227",
@@ -6429,6 +6481,19 @@
         }
     ],
     "E/18/329": [
+        {
+            "title": "smart glove",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/smart-glove/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-smart-glove",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-glove",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-glove/"
+        },
         {
             "title": "Auto Marking and Student Performance Analyser System for Continuous Assessments Group A",
             "category": {
@@ -6657,6 +6722,19 @@
         }
     ],
     "E/18/382": [
+        {
+            "title": "non invaisve glucose meter",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/non-invaisve-glucose-meter/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-non-invaisve-glucose-meter",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-non-invaisve-glucose-meter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/non-invaisve-glucose-meter/"
+        },
         {
             "title": "Image Data Handling System for Research Group A",
             "category": {
