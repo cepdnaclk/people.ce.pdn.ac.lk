@@ -5354,6 +5354,19 @@
     ],
     "E/18/013": [
         {
+            "title": "Corals Protector",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Corals-Protector/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Corals-Protector",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Corals-Protector",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Corals-Protector/"
+        },
+        {
             "title": "SnaT Meal Tracking App Group A",
             "category": {
                 "code": "co227",
@@ -5663,6 +5676,19 @@
         }
     ],
     "E/18/115": [
+        {
+            "title": "Corals Protector",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Corals-Protector/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Corals-Protector",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Corals-Protector",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Corals-Protector/"
+        },
         {
             "title": "Smart Inventory Management System Group C",
             "category": {
@@ -6608,6 +6634,19 @@
         }
     ],
     "E/18/366": [
+        {
+            "title": "Corals Protector",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Corals-Protector/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Corals-Protector",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Corals-Protector",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Corals-Protector/"
+        },
         {
             "title": "SnaT Meal Tracking App Group A",
             "category": {
