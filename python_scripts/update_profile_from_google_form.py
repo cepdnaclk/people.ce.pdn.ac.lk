@@ -96,6 +96,8 @@ if __name__ == "__main__":
         file_url = "../"+f"pages/students/e{batch}/e{batch}{regNo}.html"
 
         if exists(file_url):
+            # TODO: Read the content after the frontmatter, and keep it to avoid overwridden by Google Form data
+
             # get last modified time from git log
             fileLastEditedDateSTR = str(subprocess.run(['git', 'log', '-1', '--pretty="format:%ci"', file_url], stdout=subprocess.PIPE).stdout)
             firstIndex = fileLastEditedDateSTR.find(":") + 1
