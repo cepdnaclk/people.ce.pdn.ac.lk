@@ -97,7 +97,18 @@ if __name__ == "__main__":
 
         if exists(file_url):
             # TODO: Read the content after the frontmatter, and keep it to avoid overwridden by Google Form data
-
+            existingContentAfterFrontMatter = ""
+            with open(file_url) as existingFile:
+                threeDashCount = 0
+                for eachLine in existingFile:
+                    if threeDashCount != 2:
+                        if eachLine == "---\n":
+                            threeDashCount += 1
+                    else:
+                        existingContentAfterFrontMatter += eachLine
+                if threeDashCount == 2:
+                    print("Existing custom HTML found: " + existingContentAfterFrontMatter)
+                    
             # get last modified time from git log
             fileLastEditedDateSTR = str(subprocess.run(['git', 'log', '-1', '--pretty="format:%ci"', file_url], stdout=subprocess.PIPE).stdout)
             firstIndex = fileLastEditedDateSTR.find(":") + 1
@@ -172,7 +183,7 @@ image_url: {image_path}
 
         os.makedirs(os.path.dirname(file_url), exist_ok=True)
         htmlFile = open(file_url, "w")
-        htmlFile.write(outputString)
+        htmlFile.write(outputString + existingContentAfterFrontMatter)
         htmlFile.close()
 
         # update json if below E14
