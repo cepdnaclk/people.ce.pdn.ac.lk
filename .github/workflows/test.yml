@@ -34,7 +34,7 @@ jobs:
       run: |
         cd tests; 
         cd webdriver;
-        wget https://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_linux64.zip
+        wget https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_linux64.zip
         unzip chromedriver_linux64.zip
         mv chromedriver chromedriver.exe
         cd ..
