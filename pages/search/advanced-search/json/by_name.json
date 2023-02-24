@@ -28,11 +28,11 @@ permalink : /search/by-name.json
 
   {% endfor %}
 
-  {% for post in site.data.academic_support_staff %}
-  {%- comment -%}academic support staff pages{%- endcomment -%}
+  {% for post in site.data.non_academic_staff %}
+  {%- comment -%}Non Academic staff pages{%- endcomment -%}
     {
-        "title" : "{{ post.staff_name }} - Academic Support Staff",
-        "url"      : "{{ '/staff/academic-support-staff/' | relative_url }}"
+        "title" : "{{ post.staff_name }} - Non Academic Staff",
+        "url"      : "{{ '/staff/non-academic-staff/' | relative_url }}"
     },
   {% endfor %}
 

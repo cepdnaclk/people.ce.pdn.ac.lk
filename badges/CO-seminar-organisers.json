@@ -1,0 +1,62 @@
+{
+  "title": "Seminar Organizing Team",
+  "tag": "CO-seminar-organisers-badge",
+  "description": "The Seminar Organizing Team is a group of volunteers assisting to Organize seminars for students in the University of Peradeniya as well as other student's in other universities.",
+  "image": "images/badges/CO-seminar-organisers-badge.png",
+  "show_in_profile": "true",
+  "criteria": "Actively contributed to the Seminar Organizing Team activities",
+  "students": [
+    {
+      "eNumber": "E/18/118",
+      "name": "Haritha",
+      "position": "Organiser"
+    },
+
+    {
+      "eNumber": "E/16/012",
+      "name": "Isurika",
+      "position": "Organiser"
+    },
+    {
+      "eNumber": "E/16/049",
+      "name": "Harshana",
+      "position": "Organiser"
+    },
+    {
+      "eNumber": "E/16/134",
+      "name": "Yasitha",
+      "position": "Organiser"
+    },
+    {
+      "eNumber": "E/17/398",
+      "name": "Hashini",
+      "position": "Organiser"
+    },
+    {
+      "eNumber": "E/18/154",
+      "name": "Chamudi",
+      "position": "Organiser"
+    },
+    {
+      "eNumber": "E/18/068",
+      "name": "Chiran",
+      "position": "Organiser"
+    },
+    {
+      "eNumber": "E/17/194",
+      "name": "Madhushan",
+      "position": "Organiser"
+    },
+    {
+      "eNumber": "E/16/332",
+      "name": "Randika",
+      "position": "Organiser"
+    },
+    {
+      "eNumber": "E/17/065",
+      "name": "Kanishka",
+      "position": "Organiser"
+    }
+  ]
+}
+

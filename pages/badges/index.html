@@ -32,7 +32,9 @@ title: Badges
                         <div class="card-body">
                             <h5 class="card-title">{{ p.title }}</h5>
                             <p class="card-text">{{ p.badge_description }}</p>
-                            <a href="{{ p.permalink | relative_url }}" class="card-link">Explore</a>
+                            <div class="text-end clearfix">
+                                <a class="btn btn-primary btn-sm mx-3" href="{{ p.permalink | relative_url }}">Explore</a>
+                            </div>
                         </div>
                     </div>
                 </div>

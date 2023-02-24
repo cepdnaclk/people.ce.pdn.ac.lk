@@ -1,11 +1,11 @@
 {
     "badges": {
-        "aces-2020": {
-            "title": "ACES Committee 2020-21",
-            "image": "images/badges/aces.png",
-            "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2020-2021",
-            "page": "/badges/aces-2020/",
-            "show": "false"
+        "web-consultation-team": {
+            "title": "Web Consultation Team",
+            "image": "images/badges/web-consultation-team.png",
+            "description": "The Web Consultation Team is a group of volunteers assisting to improve the web presence of the University of Peradeniya. They  coordinate between staff/students and the webmasters of the websites under the pdn domain.",
+            "page": "/badges/web-consultation-team/",
+            "show": "true"
         },
         "casual-instructors-2021": {
             "title": "Casual Instructors - 2021/2022",
@@ -14,190 +14,48 @@
             "page": "/badges/casual-instructors-2021/",
             "show": "true"
         },
-        "web-consultation-team": {
-            "title": "Web Consultation Team",
-            "image": "images/badges/web-consultation-team.png",
-            "description": "The Web Consultation Team is a group of volunteers assisting to improve the web presence of the University of Peradeniya. They  coordinate between staff/students and the webmasters of the websites under the pdn domain.",
-            "page": "/badges/web-consultation-team/",
+        "CO-seminar-organisers-badge": {
+            "title": "Seminar Organizing Team",
+            "image": "images/badges/CO-seminar-organisers-badge.png",
+            "description": "The Seminar Organizing Team is a group of volunteers assisting to Organize seminars for students in the University of Peradeniya as well as other student's in other universities.",
+            "page": "/badges/CO-seminar-organisers-badge/",
             "show": "true"
         }
     },
     "members": {
-        "E/15/299": [
+        "E/17/064": [
             {
-                "tag": "aces-2020",
-                "position": "President",
-                "link": "#"
-            }
-        ],
-        "E/16/275": [
-            {
-                "tag": "aces-2020",
-                "position": "Secretary",
-                "link": "#"
-            }
-        ],
-        "E/15/187": [
-            {
-                "tag": "aces-2020",
-                "position": "Vice President",
-                "link": "#"
-            }
-        ],
-        "E//": [
-            {
-                "tag": "aces-2020",
-                "position": "Junior Treasurer",
-                "link": "#"
-            },
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
-                "link": "#"
-            },
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
-                "link": "#"
-            },
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
-                "link": "#"
-            },
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
-                "link": "#"
-            },
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/17/077": [
-            {
-                "tag": "aces-2020",
-                "position": "Editor",
-                "link": "#"
-            }
-        ],
-        "E/17/018": [
-            {
-                "tag": "aces-2020",
-                "position": "Assistant Secretary",
-                "link": "#"
-            },
-            {
-                "tag": "casual-instructors-2021",
-                "position": "CO224",
-                "link": "#"
-            }
-        ],
-        "E/15/065": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/15/316": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/16/290": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
+                "tag": "web-consultation-team",
+                "position": "Member",
                 "link": "#"
             }
         ],
         "E/17/058": [
             {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            },
+            {
                 "tag": "casual-instructors-2021",
                 "position": "CO225, CO253",
-                "link": "#"
-            },
-            {
-                "tag": "web-consultation-team",
-                "position": "Member",
-                "link": "#"
-            }
-        ],
-        "E/17/369": [
-            {
-                "tag": "casual-instructors-2021",
-                "position": "CO224",
-                "link": "#"
-            },
-            {
-                "tag": "web-consultation-team",
-                "position": "Member",
-                "link": "#"
-            }
-        ],
-        "E/17/190": [
-            {
-                "tag": "casual-instructors-2021",
-                "position": "CO224",
-                "link": "#"
-            }
-        ],
-        "E/17/044": [
-            {
-                "tag": "casual-instructors-2021",
-                "position": "CO224",
-                "link": "#"
-            }
-        ],
-        "E/17/134": [
-            {
-                "tag": "casual-instructors-2021",
-                "position": "CO253",
                 "link": "#"
             }
         ],
         "E/17/194": [
             {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            },
+            {
                 "tag": "casual-instructors-2021",
                 "position": "CO253",
                 "link": "#"
             },
             {
-                "tag": "web-consultation-team",
-                "position": "Member",
-                "link": "#"
-            }
-        ],
-        "E/17/072": [
-            {
-                "tag": "casual-instructors-2021",
-                "position": "CO253",
-                "link": "#"
-            }
-        ],
-        "E/17/380": [
-            {
-                "tag": "casual-instructors-2021",
-                "position": "CO253",
-                "link": "#"
-            }
-        ],
-        "E/17/144": [
-            {
-                "tag": "casual-instructors-2021",
-                "position": "CO253",
-                "link": "#"
-            }
-        ],
-        "E/17/064": [
-            {
-                "tag": "web-consultation-team",
-                "position": "Member",
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
                 "link": "#"
             }
         ],
@@ -219,6 +77,18 @@
             {
                 "tag": "web-consultation-team",
                 "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/17/369": [
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            },
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO224",
                 "link": "#"
             }
         ],
@@ -303,6 +173,118 @@
             {
                 "tag": "web-consultation-team",
                 "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/17/190": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO224",
+                "link": "#"
+            }
+        ],
+        "E/17/044": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO224",
+                "link": "#"
+            }
+        ],
+        "E/17/018": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO224",
+                "link": "#"
+            }
+        ],
+        "E/17/134": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO253",
+                "link": "#"
+            }
+        ],
+        "E/17/072": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO253",
+                "link": "#"
+            }
+        ],
+        "E/17/380": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO253",
+                "link": "#"
+            }
+        ],
+        "E/17/144": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO253",
+                "link": "#"
+            }
+        ],
+        "E/18/118": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/16/012": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/16/049": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/16/134": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/17/398": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/18/154": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/18/068": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/16/332": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/17/065": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
                 "link": "#"
             }
         ]

@@ -57,7 +57,7 @@ def create_page(data):
 
         else:
             if(student_eNumber == ""):
-                profile_image = "http://localhost:4000/images/students/default.jpg"
+                profile_image = "https://people.ce.pdn.ac.lk/images/students/default.jpg"
             else:
                 batch = student_eNumber.split('/')[1].lower()
                 profile_image = "https://people.ce.pdn.ac.lk/images/students/e{0}/{1}.jpg".format(batch, student_eNumber.replace("/","").lower())

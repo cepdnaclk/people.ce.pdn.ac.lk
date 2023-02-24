@@ -10,10 +10,18 @@ import os
 import gdown  # pip install gdown
 import json  # to edit _data/exx.json
 import student_profile_page_titles
-import resize_student_images
+import subprocess  # to run git commands
+from datetime import datetime
+from pytz import timezone
+from os.path import exists
+from PIL import Image  # pip install pillow
 
-googleFromCSV_link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZRR_UqRS_MHtl8Hlyv92dbgRJb342zguSm0DOdcpiYA5k7b2RceNmjBBKCu5AcX4A9RxQXazzWIEx/pub?output=csv"
-googleFromCSV = requests.get(googleFromCSV_link, headers={
+
+# run setEnv.sh to set environment variables
+# file can be found in the drive folder
+# instructions to run the file can be found in the script
+googleFormCSV_link = os.environ['GOOGLE_FORM_CSV_LINK']
+googleFormCSV = requests.get(googleFormCSV_link, headers={
                              'Cache-Control': 'no-cache'}).text.split("\n")
 
 # Index of the CSV parameters
@@ -43,15 +51,19 @@ URL_RESEARCHGATE = 22
 
 i = 0
 if __name__ == "__main__":
-    for eachLine in googleFromCSV:
+    for eachLine in googleFormCSV:
         studentData = eachLine.replace('\r', '').split(",")
         if len(studentData) != 23:
             print(f"Splitted csv is longer/shorter than it should be! {len(studentData)}")
             quit()
 
-        if ":" not in studentData[0]:
+        if ":" not in studentData[TIMESTAMP]:
             # if there is no timestamp in this line or this is the header line
             continue
+
+        # If timestamp is older than 10 days, skip the record
+        # if (datetime.now(timezone('Asia/Colombo')) - datetime.strptime(studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z")).days > 10:
+        #     continue
 
         # print(studentData)
         print("Processing: " + studentData[REG_NO] + " " + studentData[FULL_NAME])
@@ -63,7 +75,7 @@ if __name__ == "__main__":
 
         # set department and curent affiliation if student
         if (studentData[STUDENT_OR_ALUMNI] == "An past student / alumni"):
-            deparment = "Computer Engineering"
+            department = "Computer Engineering"
         elif (studentData[DEPARTMENT] == "Department of Computer Engineering"):
             # if student, google form doesnt take current affiliation
             studentData[CURRENT_AFFILIATION] = "Department of Computer Engineering"
@@ -80,6 +92,38 @@ if __name__ == "__main__":
         # location
         location = ",".join(studentData[LOCATION].split(";"))
 
+        # check if the file was updated using pull requests after the form was filed
+        file_url = "../"+f"pages/students/e{batch}/e{batch}{regNo}.html"
+
+        if exists(file_url):
+            # TODO: Read the content after the frontmatter, and keep it to avoid overwridden by Google Form data
+            existingContentAfterFrontMatter = ""
+            with open(file_url) as existingFile:
+                threeDashCount = 0
+                for eachLine in existingFile:
+                    if threeDashCount != 2:
+                        if eachLine == "---\n":
+                            threeDashCount += 1
+                    else:
+                        existingContentAfterFrontMatter += eachLine
+                if threeDashCount == 2:
+                    print("Existing custom HTML found: " + existingContentAfterFrontMatter)
+                    
+            # get last modified time from git log
+            fileLastEditedDateSTR = str(subprocess.run(['git', 'log', '-1', '--pretty="format:%ci"', file_url], stdout=subprocess.PIPE).stdout)
+            firstIndex = fileLastEditedDateSTR.find(":") + 1
+            lastIndex = fileLastEditedDateSTR.find("\"", firstIndex)
+            fileLastEditedDateSTR = fileLastEditedDateSTR[firstIndex:lastIndex]
+            fileLastEditedDate = datetime.strptime(fileLastEditedDateSTR, "%Y-%m-%d %H:%M:%S %z")
+            googleFormFilledDate = datetime.strptime(studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z")
+            print(f"fileLastEditedDate: {fileLastEditedDate}, googleFormFilledDate: {googleFormFilledDate}, Difference: {(fileLastEditedDate - googleFormFilledDate).total_seconds()}")
+
+            if (fileLastEditedDate - googleFormFilledDate).total_seconds() > 0:
+                print("File was updated after the google form was filled. Skipping...")
+                print("-------------")
+                continue
+        
+        
         # image
         image_path = f"images/students/e{batch}/e{batch}{regNo}.jpg"
         isImageDownloaded = False
@@ -87,8 +131,11 @@ if __name__ == "__main__":
             print(f"Downloading image to {image_path}")
             isImageDownloaded = True
             # print(len(studentData[URL_IMAGE]))
-            gdown.download("https://drive.google.com/uc?id=" +
-                           studentData[URL_IMAGE].split("=")[1].strip(), "../"+image_path, quiet=True)
+            returnValue = gdown.download("https://drive.google.com/uc?id=" +
+                           studentData[URL_IMAGE].split("=")[1].strip(), "./", quiet=True)
+            image = Image.open(returnValue)
+            image.save("../" + image_path)
+            os.system("rm '"+returnValue + "'")
             # os.system(
             #     f"wget https://drive.google.com/uc?id={studentData[URL_IMAGE].split('=')[1].strip()} -O ../{image_path}")
         else:
@@ -107,7 +154,7 @@ title: {studentData[NAME_WITH_INITIALS].title()}
 reg_no: E/{batch.upper()}/{regNo}
 batch: E{batch.upper()}
 
-department: {deparment}
+department: {department}
 current_affiliation: \"{studentData[CURRENT_AFFILIATION]}\"
 
 full_name: {studentData[FULL_NAME].title()}
@@ -134,15 +181,13 @@ interests: \"{interests}\"
 image_url: {image_path}
 ---"""
 
-        # write to html file
-        file_url = "../"+f"pages/students/e{batch}/e{batch}{regNo}.html"
         os.makedirs(os.path.dirname(file_url), exist_ok=True)
         htmlFile = open(file_url, "w")
-        htmlFile.write(outputString)
+        htmlFile.write(outputString + existingContentAfterFrontMatter)
         htmlFile.close()
 
         # update json if below E14
-        if int(batch[0:2]) < 14:
+        if (int(batch[0:2]) < 14) or int(batch[0:2]) == 99 or int(batch[0:2]) == 98:
             print("Updating JSON in _data folder")
 
             # select student from json file
@@ -166,4 +211,3 @@ print("\n\n\n\n")
 print("Updating Student page titles")
 student_profile_page_titles.run()
 print("Resizing Images")
-resize_student_images.run()

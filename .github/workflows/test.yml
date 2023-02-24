@@ -1,0 +1,41 @@
+name: Python Tests
+on: [push]
+
+jobs:
+  jekyll:
+    name: Build and Test Jekyll
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Build
+      uses: jerryjvl/jekyll-build-action@v1
+
+    - name: Serve the site
+      run: |
+        cd _site
+        docker run -d -p 80:8080 --name jekyll_serve syntaqx/serve
+        docker cp ./ jekyll_serve:/var/www
+
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Install software
+      run: sudo apt-get install -y chromium-browser
+
+    - name: Install the necessary packages
+      run: pip install requests webdriver-manager selenium 
+
+    - name: Run Server and Test
+      run: |
+        cd tests; 
+        cd webdriver;
+        wget https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_linux64.zip
+        unzip chromedriver_linux64.zip
+        mv chromedriver chromedriver.exe
+        cd ..
+        python3 -m unittest discover -v -f

@@ -149,6 +149,12 @@ research_interests: [ 'Computer Networking', 'Wireless Networking', 'IoT', 'Arti
                 </a>
                 {% endif %}
 
+                {% if page.url_github %}
+                <a class="btn btn-link" href="{{ page.url_github | relative_url}}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="GitHub">
+                    <i style="color: #000;" class="fab fa-2x fa-github"></i>
+                </a>
+                {% endif %}
+
             </div>
         </div>
         <div class="col-md-8">
