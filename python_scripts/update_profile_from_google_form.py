@@ -94,10 +94,10 @@ if __name__ == "__main__":
 
         # check if the file was updated using pull requests after the form was filed
         file_url = "../"+f"pages/students/e{batch}/e{batch}{regNo}.html"
-
+        
+        existingContentAfterFrontMatter = ""
         if exists(file_url):
             # TODO: Read the content after the frontmatter, and keep it to avoid overwridden by Google Form data
-            existingContentAfterFrontMatter = ""
             with open(file_url) as existingFile:
                 threeDashCount = 0
                 for eachLine in existingFile:
