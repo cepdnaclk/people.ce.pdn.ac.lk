@@ -136,22 +136,24 @@ if __name__ == "__main__":
         # Create folder if not exists
         os.makedirs(os.path.dirname("../" + image_path), exist_ok=True)
 
-        isImageDownloaded = False
+        isImageDownloaded = False # used to create the json file for alumni
         if studentData[URL_IMAGE] != "" and len(studentData[URL_IMAGE]) > 1:
             print(f"Downloading image to {image_path}")
-            isImageDownloaded = True
             # print(len(studentData[URL_IMAGE]))
-            returnValue = 'image.temp'
-            gdown.download("https://drive.google.com/uc?id=" +
-                           studentData[URL_IMAGE].split("=")[1].strip(), "./" + returnValue, quiet=True)
-
-            if returnValue != None:
-                image = Image.open(returnValue)
+            try: 
+                tempImageName = 'image.temp'
+                gdown.download("https://drive.google.com/uc?id=" +
+                           studentData[URL_IMAGE].split("=")[1].strip(), "./" + tempImageName, quiet=True)
+                image = Image.open(tempImageName)
                 image.save("../" + image_path)
-                os.system("rm '"+returnValue + "'")
+                isImageDownloaded = True
+                os.system("rm '"+tempImageName + "'")
+                
+                
+                # alternative to gdown
                 # os.system(
                 #     f"wget https://drive.google.com/uc?id={studentData[URL_IMAGE].split('=')[1].strip()} -O ../{image_path}")
-            else:
+            except:
                 print("WARNING! Image download failed !")
 
         else:
