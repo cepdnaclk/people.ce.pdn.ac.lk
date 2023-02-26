@@ -136,20 +136,19 @@ if __name__ == "__main__":
         # Create folder if not exists
         os.makedirs(os.path.dirname("../" + image_path), exist_ok=True)
 
-        isImageDownloaded = False # used to create the json file for alumni
+        isImageDownloaded = False  # used to create the json file for alumni
         if studentData[URL_IMAGE] != "" and len(studentData[URL_IMAGE]) > 1:
             print(f"Downloading image to {image_path}")
             # print(len(studentData[URL_IMAGE]))
-            try: 
+            try:
                 tempImageName = 'image.temp'
                 gdown.download("https://drive.google.com/uc?id=" +
-                           studentData[URL_IMAGE].split("=")[1].strip(), "./" + tempImageName, quiet=True)
+                               studentData[URL_IMAGE].split("=")[1].strip(), "./" + tempImageName, quiet=True)
                 image = Image.open(tempImageName)
                 image.save("../" + image_path)
                 isImageDownloaded = True
                 os.system("rm '"+tempImageName + "'")
-                
-                
+
                 # alternative to gdown
                 # os.system(
                 #     f"wget https://drive.google.com/uc?id={studentData[URL_IMAGE].split('=')[1].strip()} -O ../{image_path}")
@@ -172,7 +171,7 @@ title: {studentData[NAME_WITH_INITIALS].title()}
 reg_no: E/{batch.upper()}/{regNo}
 batch: E{batch.upper()}
 
-department: {department}
+department: \"{department}\"
 current_affiliation: \"{studentData[CURRENT_AFFILIATION]}\"
 
 full_name: {studentData[FULL_NAME].title()}
@@ -184,7 +183,7 @@ honorific: {studentData[HONORIFIC]}
 email_faculty: {studentData[FACULTY_EMAIL]}
 email_personal: {studentData[PERSONAL_EMAIL]}
 
-location: {location}
+location: \"{location}\"
 
 url_cv: {studentData[URL_CV]}
 url_website: {studentData[URL_PERSONAL]}
