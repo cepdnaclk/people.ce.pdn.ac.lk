@@ -3288,21 +3288,6 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co502/E16/RISCV-Pipeline-CPU-Implimentation-Group2/"
         }
     ],
-    "E/16/217": [
-        {
-            "title": "implementation of lightweight cryptographic algorithms",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/implementation-of-lightweight-cryptographic-algorithms/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-implementation-of-lightweight-cryptographic-algorithms",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E16/implementation-of-lightweight-cryptographic-algorithms/"
-        }
-    ],
     "E/16/221": [
         {
             "title": "swarm intelligence programming framework",
