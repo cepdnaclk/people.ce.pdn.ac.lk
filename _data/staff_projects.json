@@ -2942,19 +2942,6 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/ContactTracingApp/"
         },
         {
-            "title": "Prediction of risks associated with mass corona vaccination",
-            "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Prediction-of-risks-associated-with-mass-corona-vaccination/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
-        },
-        {
             "title": "road accident analyzer",
             "category": {
                 "code": "co328",
@@ -2966,6 +2953,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/road-accident-analyzer/"
+        },
+        {
+            "title": "Prediction of risks associated with mass corona vaccination",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Prediction-of-risks-associated-with-mass-corona-vaccination/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
         }
     ],
     "nuwanjaliyagoda@eng.pdn.ac.lk": [
@@ -4152,19 +4152,6 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Flood-Forecasting-System/"
         },
         {
-            "title": "Prediction of risks associated with mass corona vaccination",
-            "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Prediction-of-risks-associated-with-mass-corona-vaccination/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
-        },
-        {
             "title": "road accident analyzer",
             "category": {
                 "code": "co328",
@@ -4189,6 +4176,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Postgraduate-Student-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Postgraduate-Student-Management-System/"
+        },
+        {
+            "title": "Prediction of risks associated with mass corona vaccination",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Prediction-of-risks-associated-with-mass-corona-vaccination/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
         }
     ],
     "ziyanm@eng.pdn.ac.lk": [
