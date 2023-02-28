@@ -1,19 +1,26 @@
 [
     {
-        "name" : "Test Visiting Lecturer1",
-        "email" : "visitLec1@somesite.come",
-        "position": "Prof at UNSW",
-        "url_image": "images/students/default.jpg",
-        "url_linkedin": "https://www.linkedin.com/in/someperson",
-        "url_profile": "No page yet"
+        "name": "",
+        "email": "",
+        "position": "Visiting Lecturer",
+        "designations": [],
+        "image": "/images/staff/fellows/default.jpg",
+        "linkedin": "#",
+        "profile": "#",
+        "google_scholar": "#",
+        "researchgate": "#",
+        "remarks": "#"
     },
     {
-        "name" : "Test Visiting Lecturer2",
-        "email" : "visitLec2@somesite.come",
-        "position": "prof at UoP",
-        "url_image": "images/students/default.jpg",
-        "url_linkedin": null,
-        "url_profile": null
+        "name": "",
+        "email": "",
+        "position": "Visiting Lecturer",
+        "designations": [],
+        "image": "/images/staff/fellows/default.jpg",
+        "linkedin": "",
+        "profile": "",
+        "google_scholar": "",
+        "researchgate": "",
+        "remarks": ""
     }
-
 ]
