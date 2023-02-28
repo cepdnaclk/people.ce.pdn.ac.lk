@@ -42,20 +42,27 @@ title: People
                     <img src="{{ '/images/homepage/staff.jpg'| relative_url }}" class="card-img-top p-3" alt="Staff">
                     <div class="card-body">
                         <ul class="list-group list-group-flush">
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic/' | relative_url }}">Academic Staff</a>
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/temporary-academic-staff/' | relative_url }}">Temporary Academic
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                                href="{{ '/staff/academic/' | relative_url }}">Academic Staff</a>
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                                href="{{ '/staff/temporary-academic-staff/' | relative_url }}">Temporary Academic
                                 Staff</a>
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/non-academic-staff/' | relative_url }}">Non-Academic Staff</a>
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                                href="{{ '/staff/non-academic-staff/' | relative_url }}">Non-Academic Staff</a>
 
                             <br>
 
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/visiting-lecturers/' | relative_url }}">Visiting Lecturers</a>
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/visiting-research-fellows/' | relative_url }}">Visiting Research Fellows</a>
+                            <!-- <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/visiting-lecturers/' | relative_url }}">Visiting Lecturers</a> -->
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                                href="{{ '/staff/visiting-research-fellows/' | relative_url }}">Visiting Research
+                                Fellows</a>
 
                             <br>
 
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/past-heads-of-dep/' | relative_url }}">Past HoDs</a>
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/academic/past/' | relative_url }}">Past Academic Staff</a>
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                                href="{{ '/staff/past-heads-of-dep/' | relative_url }}">Past HoDs</a>
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                                href="{{ '/staff/academic/past/' | relative_url }}">Past Academic Staff</a>
                         </ul>
                     </div>
                 </div>
@@ -65,17 +72,21 @@ title: People
                     <div class="card-header">
                         <h5>Students</h5>
                     </div>
-                    <img src="{{ '/images/homepage/student.jpg'| relative_url }}" class="card-img-top p-3" alt="Students">
+                    <img src="{{ '/images/homepage/student.jpg'| relative_url }}" class="card-img-top p-3"
+                        alt="Students">
                     <div class="card-body">
                         <!-- content is taken from _data/students.json -->
                         {%- for batch in site.data.students -%}
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                            href="{{ batch.url | relative_url }}">{{
                             batch.title }}</a>
                         {%- endfor -%}
                         <br><br>
 
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{'/students/postgraduate/' | relative_url }}">Postgraduate</a>
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{'/societies/' | relative_url }}">Student Committees</a>
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                            href="{{'/students/postgraduate/' | relative_url }}">Postgraduate</a>
+                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                            href="{{'/societies/' | relative_url }}">Student Committees</a>
                     </div>
                 </div>
 
@@ -84,15 +95,18 @@ title: People
                     <div class="card-header">
                         <h5>Alumni</h5>
                     </div>
-                    <img src="{{ '/images/homepage/alumni.jpg'| relative_url }}" class="card-img-top p-3" alt="Students">
+                    <img src="{{ '/images/homepage/alumni.jpg'| relative_url }}" class="card-img-top p-3"
+                        alt="Students">
                     <div class="card-body">
                         <!-- content is taken from _data/alumni.json -->
                         {%- for batch in site.data.alumini -%}
-                        {% if forloop.index < 5 %} <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ batch.url | relative_url }}">{{ batch.title }}</a>
+                        {% if forloop.index < 5 %} <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                            href="{{ batch.url | relative_url }}">{{ batch.title }}</a>
                             {% endif %}
                             {%- endfor -%}
                             <br><br>
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/alumni/' | relative_url }}">View more</a>
+                            <a class="btn btn-outline-primary w-100 buttonBottomMargin"
+                                href="{{ '/alumni/' | relative_url }}">View more</a>
                     </div>
                 </div>
             </div>
