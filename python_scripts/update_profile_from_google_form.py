@@ -17,7 +17,7 @@ from os.path import exists
 from PIL import Image  # pip install pillow
 
 
-# run setEnv.sh to set environment variables
+# run export GOOGLE_FORM_CSV_LINK="url" to set environment variables
 # file can be found in the drive folder
 # instructions to run the file can be found in the script
 googleFormCSV_link = os.environ['GOOGLE_FORM_CSV_LINK']
@@ -54,7 +54,8 @@ if __name__ == "__main__":
     for eachLine in googleFormCSV:
         studentData = eachLine.replace('\r', '').split(",")
         if len(studentData) != 23:
-            print(f"Splitted csv is longer/shorter than it should be! {len(studentData)}")
+            print(
+                f"WARNING! Splitted csv is longer/shorter than it should be! {len(studentData)}")
             quit()
 
         if ":" not in studentData[TIMESTAMP]:
@@ -66,7 +67,8 @@ if __name__ == "__main__":
         #     continue
 
         # print(studentData)
-        print("Processing: " + studentData[REG_NO] + " " + studentData[FULL_NAME])
+        print("Processing: " +
+              studentData[REG_NO] + " " + studentData[FULL_NAME])
         # get batch and regNo
         batch = studentData[REG_NO].split("/")[1].lower()  # 18 or 02A
         regNo = studentData[REG_NO].split("/")[2]  # 098
@@ -95,36 +97,64 @@ if __name__ == "__main__":
         # check if the file was updated using pull requests after the form was filed
         file_url = "../"+f"pages/students/e{batch}/e{batch}{regNo}.html"
 
+        existingContentAfterFrontMatter = ""
         if exists(file_url):
+            # TODO: Read the content after the frontmatter, and keep it to avoid overwridden by Google Form data
+            with open(file_url) as existingFile:
+                threeDashCount = 0
+                for eachLine in existingFile:
+                    if threeDashCount != 2:
+                        if eachLine == "---\n":
+                            threeDashCount += 1
+                    else:
+                        existingContentAfterFrontMatter += eachLine
+                if threeDashCount == 2:
+                    print("Existing custom HTML found: " +
+                          existingContentAfterFrontMatter)
+
             # get last modified time from git log
-            fileLastEditedDateSTR = str(subprocess.run(['git', 'log', '-1', '--pretty="format:%ci"', file_url], stdout=subprocess.PIPE).stdout)
+            fileLastEditedDateSTR = str(subprocess.run(
+                ['git', 'log', '-1', '--pretty="format:%ci"', file_url], stdout=subprocess.PIPE).stdout)
             firstIndex = fileLastEditedDateSTR.find(":") + 1
             lastIndex = fileLastEditedDateSTR.find("\"", firstIndex)
             fileLastEditedDateSTR = fileLastEditedDateSTR[firstIndex:lastIndex]
-            fileLastEditedDate = datetime.strptime(fileLastEditedDateSTR, "%Y-%m-%d %H:%M:%S %z")
-            googleFormFilledDate = datetime.strptime(studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z")
-            print(f"fileLastEditedDate: {fileLastEditedDate}, googleFormFilledDate: {googleFormFilledDate}, Difference: {(fileLastEditedDate - googleFormFilledDate).total_seconds()}")
+            fileLastEditedDate = datetime.strptime(
+                fileLastEditedDateSTR, "%Y-%m-%d %H:%M:%S %z")
+            googleFormFilledDate = datetime.strptime(
+                studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z")
+            print(
+                f"fileLastEditedDate: {fileLastEditedDate}, googleFormFilledDate: {googleFormFilledDate}, Difference: {(fileLastEditedDate - googleFormFilledDate).total_seconds()}")
 
             if (fileLastEditedDate - googleFormFilledDate).total_seconds() > 0:
                 print("File was updated after the google form was filled. Skipping...")
                 print("-------------")
                 continue
-        
-        
+
         # image
         image_path = f"images/students/e{batch}/e{batch}{regNo}.jpg"
-        isImageDownloaded = False
+
+        # Create folder if not exists
+        os.makedirs(os.path.dirname("../" + image_path), exist_ok=True)
+
+        isImageDownloaded = False  # used to create the json file for alumni
         if studentData[URL_IMAGE] != "" and len(studentData[URL_IMAGE]) > 1:
             print(f"Downloading image to {image_path}")
-            isImageDownloaded = True
             # print(len(studentData[URL_IMAGE]))
-            returnValue = gdown.download("https://drive.google.com/uc?id=" +
-                           studentData[URL_IMAGE].split("=")[1].strip(), "./", quiet=True)
-            image = Image.open(returnValue)
-            image.save("../" + image_path)
-            os.system("rm '"+returnValue + "'")
-            # os.system(
-            #     f"wget https://drive.google.com/uc?id={studentData[URL_IMAGE].split('=')[1].strip()} -O ../{image_path}")
+            try:
+                tempImageName = 'image.temp'
+                gdown.download("https://drive.google.com/uc?id=" +
+                               studentData[URL_IMAGE].split("=")[1].strip(), "./" + tempImageName, quiet=True)
+                image = Image.open(tempImageName)
+                image.save("../" + image_path)
+                isImageDownloaded = True
+                os.system("rm '"+tempImageName + "'")
+
+                # alternative to gdown
+                # os.system(
+                #     f"wget https://drive.google.com/uc?id={studentData[URL_IMAGE].split('=')[1].strip()} -O ../{image_path}")
+            except:
+                print("WARNING! Image download failed !")
+
         else:
             print("Image not specified")
 
@@ -141,7 +171,7 @@ title: {studentData[NAME_WITH_INITIALS].title()}
 reg_no: E/{batch.upper()}/{regNo}
 batch: E{batch.upper()}
 
-department: {department}
+department: \"{department}\"
 current_affiliation: \"{studentData[CURRENT_AFFILIATION]}\"
 
 full_name: {studentData[FULL_NAME].title()}
@@ -153,7 +183,7 @@ honorific: {studentData[HONORIFIC]}
 email_faculty: {studentData[FACULTY_EMAIL]}
 email_personal: {studentData[PERSONAL_EMAIL]}
 
-location: {location}
+location: \"{location}\"
 
 url_cv: {studentData[URL_CV]}
 url_website: {studentData[URL_PERSONAL]}
@@ -170,7 +200,7 @@ image_url: {image_path}
 
         os.makedirs(os.path.dirname(file_url), exist_ok=True)
         htmlFile = open(file_url, "w")
-        htmlFile.write(outputString)
+        htmlFile.write(outputString + existingContentAfterFrontMatter)
         htmlFile.close()
 
         # update json if below E14
@@ -197,4 +227,3 @@ image_url: {image_path}
 print("\n\n\n\n")
 print("Updating Student page titles")
 student_profile_page_titles.run()
-print("Resizing Images")

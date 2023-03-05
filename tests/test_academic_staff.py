@@ -4,6 +4,7 @@ import b_webdriver_functions
 import a_config_test
 import requests
 from selenium.webdriver.common.by import By
+import os
 
 
 class Tests(unittest.TestCase):
@@ -23,6 +24,19 @@ class Tests(unittest.TestCase):
             thisRequest = requests.get(link)
             self.assertTrue(thisRequest.status_code == 200, link + " is not valid")
 
+    def test_every_page_has_plus_sign_in_contact_number(self):
+        fileList = os.listdir("../pages/staff/academic-staff/")
+        for eachFile in fileList:
+            with open("../pages/staff/academic-staff/" + eachFile, "r") as openFile:
+                for eachLine in openFile:
+                    if "contact_number" in eachLine:
+                        eachLine = eachLine.strip()
+                        splitted = eachLine.split()
+                        if len(splitted) == 2:
+                            if "#" in splitted:
+                                continue
+                            if "\"" not in splitted[1] and "+" in splitted[1]:
+                                self.fail("../pages/staff/academic-staff/" + eachFile + " is written as interger. the plus sign will not show in page")
 
 if __name__ == '__main__':
     unittest.main()
