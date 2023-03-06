@@ -1376,19 +1376,6 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         },
         {
-            "title": "Zero Trash",
-            "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Zero-Trash/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co328-Zero-Trash",
-            "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
-        },
-        {
             "title": "Pera Knowledge Portal",
             "category": {
                 "code": "co227",
@@ -1400,6 +1387,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
+        },
+        {
+            "title": "Zero Trash",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Zero-Trash/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co328-Zero-Trash",
+            "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
         }
     ],
     "E/15/142": [
@@ -1527,19 +1527,6 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         },
         {
-            "title": "Zero Trash",
-            "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Zero-Trash/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co328-Zero-Trash",
-            "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
-        },
-        {
             "title": "Pera Knowledge Portal",
             "category": {
                 "code": "co227",
@@ -1551,6 +1538,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
+        },
+        {
+            "title": "Zero Trash",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Zero-Trash/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co328-Zero-Trash",
+            "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
         }
     ],
     "E/15/179": [
@@ -2328,19 +2328,6 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         },
         {
-            "title": "Zero Trash",
-            "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Zero-Trash/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co328-Zero-Trash",
-            "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
-        },
-        {
             "title": "Pera Knowledge Portal",
             "category": {
                 "code": "co227",
@@ -2352,6 +2339,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
+        },
+        {
+            "title": "Zero Trash",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Zero-Trash/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co328-Zero-Trash",
+            "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
         }
     ],
     "E/15/351": [
@@ -3968,15 +3968,15 @@
         {
             "title": "ContactTracingApp",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/ContactTracingApp/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-ContactTracingApp",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-ContactTracingApp",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/ContactTracingApp/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/ContactTracingApp/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-ContactTracingApp",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-ContactTracingApp",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/ContactTracingApp/"
         }
     ],
     "E/17/006": [
@@ -3996,15 +3996,15 @@
         {
             "title": "Flood Forecasting System",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Flood-Forecasting-System/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Flood-Forecasting-System",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Flood-Forecasting-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Flood-Forecasting-System/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Flood-Forecasting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Flood-Forecasting-System",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Flood-Forecasting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Flood-Forecasting-System/"
         }
     ],
     "E/17/012": [
@@ -4024,30 +4024,30 @@
         {
             "title": "History of Music",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/History-of-Music/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-History-of-Music",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-History-of-Music",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/History-of-Music/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/History-of-Music/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-History-of-Music",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-History-of-Music",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/History-of-Music/"
         }
     ],
     "E/17/015": [
         {
             "title": "NGS Data AnalysingToolkit",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/NGS-Data-AnalysingToolkit/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-NGS-Data-AnalysingToolkit",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-NGS-Data-AnalysingToolkit",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/NGS-Data-AnalysingToolkit/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/NGS-Data-AnalysingToolkit/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-NGS-Data-AnalysingToolkit",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-NGS-Data-AnalysingToolkit",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/NGS-Data-AnalysingToolkit/"
         }
     ],
     "E/17/018": [
@@ -4067,15 +4067,15 @@
         {
             "title": "Skim Sequencing Analysis",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Skim-Sequencing-Analysis/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Skim-Sequencing-Analysis",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Skim-Sequencing-Analysis",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Skim-Sequencing-Analysis/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Skim-Sequencing-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Skim-Sequencing-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Skim-Sequencing-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Skim-Sequencing-Analysis/"
         }
     ],
     "E/17/027": [
@@ -4095,15 +4095,15 @@
         {
             "title": "road accident analyzer",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/road-accident-analyzer/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-road-accident-analyzer",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/road-accident-analyzer/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/road-accident-analyzer/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-road-accident-analyzer",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-road-accident-analyzer",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/road-accident-analyzer/"
         }
     ],
     "E/17/038": [
@@ -4123,15 +4123,15 @@
         {
             "title": "History of Music",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/History-of-Music/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-History-of-Music",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-History-of-Music",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/History-of-Music/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/History-of-Music/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-History-of-Music",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-History-of-Music",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/History-of-Music/"
         }
     ],
     "E/17/040": [
@@ -4151,15 +4151,15 @@
         {
             "title": "Prediction of risks associated with mass corona vaccination",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Prediction-of-risks-associated-with-mass-corona-vaccination/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Prediction-of-risks-associated-with-mass-corona-vaccination/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
         }
     ],
     "E/17/044": [
@@ -4179,15 +4179,15 @@
         {
             "title": "Prediction of heart disease using ECG",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Prediction-of-heart-disease-using-ECG/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Prediction-of-heart-disease-using-ECG",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Prediction-of-heart-disease-using-ECG",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-heart-disease-using-ECG/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Prediction-of-heart-disease-using-ECG/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Prediction-of-heart-disease-using-ECG",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-heart-disease-using-ECG",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-heart-disease-using-ECG/"
         }
     ],
     "E/17/058": [
@@ -4207,15 +4207,15 @@
         {
             "title": "Oral Cavity Region Detection",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Oral-Cavity-Region-Detection/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Oral-Cavity-Region-Detection",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Oral-Cavity-Region-Detection",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Oral-Cavity-Region-Detection/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Oral-Cavity-Region-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Oral-Cavity-Region-Detection",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Oral-Cavity-Region-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Oral-Cavity-Region-Detection/"
         }
     ],
     "E/17/072": [
@@ -4235,15 +4235,15 @@
         {
             "title": "Analysis Tool for Industrial Images",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Analysis-Tool-for-Industrial-Images/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Analysis-Tool-for-Industrial-Images",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Analysis-Tool-for-Industrial-Images",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Analysis-Tool-for-Industrial-Images/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Analysis-Tool-for-Industrial-Images/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Analysis-Tool-for-Industrial-Images",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Analysis-Tool-for-Industrial-Images",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Analysis-Tool-for-Industrial-Images/"
         }
     ],
     "E/17/083": [
@@ -4278,15 +4278,15 @@
         {
             "title": "Oral Cavity Region Detection",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Oral-Cavity-Region-Detection/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Oral-Cavity-Region-Detection",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Oral-Cavity-Region-Detection",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Oral-Cavity-Region-Detection/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Oral-Cavity-Region-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Oral-Cavity-Region-Detection",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Oral-Cavity-Region-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Oral-Cavity-Region-Detection/"
         }
     ],
     "E/17/100": [
@@ -4306,15 +4306,15 @@
         {
             "title": "Document Tag Generator",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Document-Tag-Generator/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Document-Tag-Generator",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Document-Tag-Generator",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Document-Tag-Generator/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Document-Tag-Generator/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Document-Tag-Generator",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Document-Tag-Generator",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Document-Tag-Generator/"
         }
     ],
     "E/17/101": [
@@ -4334,15 +4334,15 @@
         {
             "title": "History of Music",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/History-of-Music/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-History-of-Music",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-History-of-Music",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/History-of-Music/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/History-of-Music/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-History-of-Music",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-History-of-Music",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/History-of-Music/"
         }
     ],
     "E/17/122": [
@@ -4377,15 +4377,15 @@
         {
             "title": "apparel industry performance analyser",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/apparel-industry-performance-analyser/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-apparel-industry-performance-analyser",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-apparel-industry-performance-analyser",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/apparel-industry-performance-analyser/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/apparel-industry-performance-analyser/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-apparel-industry-performance-analyser",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-apparel-industry-performance-analyser",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/apparel-industry-performance-analyser/"
         }
     ],
     "E/17/148": [
@@ -4405,15 +4405,15 @@
         {
             "title": "Greenhouse Monitoring System",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Greenhouse-Monitoring-System/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Greenhouse-Monitoring-System",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Greenhouse-Monitoring-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Greenhouse-Monitoring-System/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Greenhouse-Monitoring-System/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Greenhouse-Monitoring-System",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-Monitoring-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-Monitoring-System/"
         }
     ],
     "E/17/153": [
@@ -4448,15 +4448,15 @@
         {
             "title": "Analysis Tool for Industrial Images",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Analysis-Tool-for-Industrial-Images/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Analysis-Tool-for-Industrial-Images",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Analysis-Tool-for-Industrial-Images",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Analysis-Tool-for-Industrial-Images/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Analysis-Tool-for-Industrial-Images/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Analysis-Tool-for-Industrial-Images",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Analysis-Tool-for-Industrial-Images",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Analysis-Tool-for-Industrial-Images/"
         }
     ],
     "E/17/159": [
@@ -4476,15 +4476,15 @@
         {
             "title": "NGS Data AnalysingToolkit",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/NGS-Data-AnalysingToolkit/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-NGS-Data-AnalysingToolkit",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-NGS-Data-AnalysingToolkit",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/NGS-Data-AnalysingToolkit/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/NGS-Data-AnalysingToolkit/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-NGS-Data-AnalysingToolkit",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-NGS-Data-AnalysingToolkit",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/NGS-Data-AnalysingToolkit/"
         }
     ],
     "E/17/176": [
@@ -4504,15 +4504,15 @@
         {
             "title": "Flood Forecasting System",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Flood-Forecasting-System/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Flood-Forecasting-System",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Flood-Forecasting-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Flood-Forecasting-System/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Flood-Forecasting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Flood-Forecasting-System",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Flood-Forecasting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Flood-Forecasting-System/"
         }
     ],
     "E/17/190": [
@@ -4532,15 +4532,15 @@
         {
             "title": "Oral Cavity Region Detection",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Oral-Cavity-Region-Detection/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Oral-Cavity-Region-Detection",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Oral-Cavity-Region-Detection",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Oral-Cavity-Region-Detection/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Oral-Cavity-Region-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Oral-Cavity-Region-Detection",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Oral-Cavity-Region-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Oral-Cavity-Region-Detection/"
         }
     ],
     "E/17/194": [
@@ -4560,15 +4560,15 @@
         {
             "title": "Skim Sequencing Analysis",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Skim-Sequencing-Analysis/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Skim-Sequencing-Analysis",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Skim-Sequencing-Analysis",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Skim-Sequencing-Analysis/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Skim-Sequencing-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Skim-Sequencing-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Skim-Sequencing-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Skim-Sequencing-Analysis/"
         }
     ],
     "E/17/201": [
@@ -4603,15 +4603,15 @@
         {
             "title": "Greenhouse Monitoring System",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Greenhouse-Monitoring-System/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Greenhouse-Monitoring-System",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Greenhouse-Monitoring-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Greenhouse-Monitoring-System/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Greenhouse-Monitoring-System/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Greenhouse-Monitoring-System",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-Monitoring-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-Monitoring-System/"
         }
     ],
     "E/17/207": [
@@ -4631,30 +4631,30 @@
         {
             "title": "apparel industry performance analyser",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/apparel-industry-performance-analyser/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-apparel-industry-performance-analyser",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-apparel-industry-performance-analyser",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/apparel-industry-performance-analyser/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/apparel-industry-performance-analyser/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-apparel-industry-performance-analyser",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-apparel-industry-performance-analyser",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/apparel-industry-performance-analyser/"
         }
     ],
     "E/17/212": [
         {
             "title": "road accident analyzer",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/road-accident-analyzer/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-road-accident-analyzer",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/road-accident-analyzer/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/road-accident-analyzer/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-road-accident-analyzer",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-road-accident-analyzer",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/road-accident-analyzer/"
         }
     ],
     "E/17/219": [
@@ -4674,15 +4674,15 @@
         {
             "title": "road accident analyzer",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/road-accident-analyzer/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-road-accident-analyzer",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-road-accident-analyzer",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/road-accident-analyzer/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/road-accident-analyzer/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-road-accident-analyzer",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-road-accident-analyzer",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/road-accident-analyzer/"
         }
     ],
     "E/17/230": [
@@ -4702,15 +4702,15 @@
         {
             "title": "NGS Data AnalysingToolkit",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/NGS-Data-AnalysingToolkit/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-NGS-Data-AnalysingToolkit",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-NGS-Data-AnalysingToolkit",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/NGS-Data-AnalysingToolkit/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/NGS-Data-AnalysingToolkit/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-NGS-Data-AnalysingToolkit",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-NGS-Data-AnalysingToolkit",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/NGS-Data-AnalysingToolkit/"
         }
     ],
     "E/17/240": [
@@ -4745,15 +4745,15 @@
         {
             "title": "Prediction of heart disease using ECG",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Prediction-of-heart-disease-using-ECG/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Prediction-of-heart-disease-using-ECG",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Prediction-of-heart-disease-using-ECG",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-heart-disease-using-ECG/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Prediction-of-heart-disease-using-ECG/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Prediction-of-heart-disease-using-ECG",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-heart-disease-using-ECG",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-heart-disease-using-ECG/"
         }
     ],
     "E/17/246": [
@@ -4773,15 +4773,15 @@
         {
             "title": "Document Tag Generator",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Document-Tag-Generator/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Document-Tag-Generator",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Document-Tag-Generator",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Document-Tag-Generator/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Document-Tag-Generator/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Document-Tag-Generator",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Document-Tag-Generator",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Document-Tag-Generator/"
         }
     ],
     "E/17/251": [
@@ -4816,15 +4816,15 @@
         {
             "title": "Prediction of heart disease using ECG",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Prediction-of-heart-disease-using-ECG/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Prediction-of-heart-disease-using-ECG",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Prediction-of-heart-disease-using-ECG",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-heart-disease-using-ECG/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Prediction-of-heart-disease-using-ECG/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Prediction-of-heart-disease-using-ECG",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-heart-disease-using-ECG",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-heart-disease-using-ECG/"
         }
     ],
     "E/17/256": [
@@ -4844,15 +4844,15 @@
         {
             "title": "Host Pathogen Interaction",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Host-Pathogen-Interaction/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Host-Pathogen-Interaction",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Host-Pathogen-Interaction",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Host-Pathogen-Interaction/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Host-Pathogen-Interaction/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Host-Pathogen-Interaction",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Host-Pathogen-Interaction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Host-Pathogen-Interaction/"
         }
     ],
     "E/17/284": [
@@ -4872,15 +4872,15 @@
         {
             "title": "Document Tag Generator",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Document-Tag-Generator/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Document-Tag-Generator",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Document-Tag-Generator",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Document-Tag-Generator/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Document-Tag-Generator/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Document-Tag-Generator",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Document-Tag-Generator",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Document-Tag-Generator/"
         }
     ],
     "E/17/292": [
@@ -4900,15 +4900,15 @@
         {
             "title": "Host Pathogen Interaction",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Host-Pathogen-Interaction/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Host-Pathogen-Interaction",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Host-Pathogen-Interaction",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Host-Pathogen-Interaction/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Host-Pathogen-Interaction/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Host-Pathogen-Interaction",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Host-Pathogen-Interaction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Host-Pathogen-Interaction/"
         }
     ],
     "E/17/294": [
@@ -4943,15 +4943,15 @@
         {
             "title": "Skim Sequencing Analysis",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Skim-Sequencing-Analysis/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Skim-Sequencing-Analysis",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Skim-Sequencing-Analysis",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Skim-Sequencing-Analysis/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Skim-Sequencing-Analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Skim-Sequencing-Analysis",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Skim-Sequencing-Analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Skim-Sequencing-Analysis/"
         }
     ],
     "E/17/297": [
@@ -4971,15 +4971,15 @@
         {
             "title": "Greenhouse Monitoring System",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Greenhouse-Monitoring-System/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Greenhouse-Monitoring-System",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Greenhouse-Monitoring-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Greenhouse-Monitoring-System/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Greenhouse-Monitoring-System/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Greenhouse-Monitoring-System",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-Monitoring-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-Monitoring-System/"
         }
     ],
     "E/17/318": [
@@ -4999,15 +4999,15 @@
         {
             "title": "apparel industry performance analyser",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/apparel-industry-performance-analyser/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-apparel-industry-performance-analyser",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-apparel-industry-performance-analyser",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/apparel-industry-performance-analyser/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/apparel-industry-performance-analyser/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-apparel-industry-performance-analyser",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-apparel-industry-performance-analyser",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/apparel-industry-performance-analyser/"
         }
     ],
     "E/17/327": [
@@ -5027,15 +5027,15 @@
         {
             "title": "ContactTracingApp",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/ContactTracingApp/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-ContactTracingApp",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-ContactTracingApp",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/ContactTracingApp/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/ContactTracingApp/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-ContactTracingApp",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-ContactTracingApp",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/ContactTracingApp/"
         }
     ],
     "E/17/331": [
@@ -5070,15 +5070,15 @@
         {
             "title": "Flood Forecasting System",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Flood-Forecasting-System/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Flood-Forecasting-System",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Flood-Forecasting-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Flood-Forecasting-System/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Flood-Forecasting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Flood-Forecasting-System",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Flood-Forecasting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Flood-Forecasting-System/"
         }
     ],
     "E/17/342": [
@@ -5113,15 +5113,15 @@
         {
             "title": "Host Pathogen Interaction",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Host-Pathogen-Interaction/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Host-Pathogen-Interaction",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Host-Pathogen-Interaction",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Host-Pathogen-Interaction/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Host-Pathogen-Interaction/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Host-Pathogen-Interaction",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Host-Pathogen-Interaction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Host-Pathogen-Interaction/"
         }
     ],
     "E/17/356": [
@@ -5141,15 +5141,15 @@
         {
             "title": "Prediction of risks associated with mass corona vaccination",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Prediction-of-risks-associated-with-mass-corona-vaccination/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Prediction-of-risks-associated-with-mass-corona-vaccination/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
         }
     ],
     "E/17/358": [
@@ -5169,15 +5169,15 @@
         {
             "title": "Host Pathogen Interaction",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Host-Pathogen-Interaction/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Host-Pathogen-Interaction",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Host-Pathogen-Interaction",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Host-Pathogen-Interaction/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Host-Pathogen-Interaction/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Host-Pathogen-Interaction",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Host-Pathogen-Interaction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Host-Pathogen-Interaction/"
         }
     ],
     "E/17/369": [
@@ -5212,15 +5212,15 @@
         {
             "title": "ContactTracingApp",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/ContactTracingApp/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-ContactTracingApp",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-ContactTracingApp",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/ContactTracingApp/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/ContactTracingApp/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-ContactTracingApp",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-ContactTracingApp",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/ContactTracingApp/"
         }
     ],
     "E/17/380": [
@@ -5240,15 +5240,15 @@
         {
             "title": "Analysis Tool for Industrial Images",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Analysis-Tool-for-Industrial-Images/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Analysis-Tool-for-Industrial-Images",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Analysis-Tool-for-Industrial-Images",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Analysis-Tool-for-Industrial-Images/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Analysis-Tool-for-Industrial-Images/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Analysis-Tool-for-Industrial-Images",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Analysis-Tool-for-Industrial-Images",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Analysis-Tool-for-Industrial-Images/"
         }
     ],
     "E/17/398": [
@@ -5298,15 +5298,15 @@
         {
             "title": "Prediction of risks associated with mass corona vaccination",
             "category": {
-                "code": "co328",
-                "title": "Software Engineering Projects (CO328)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co328/e17/Prediction-of-risks-associated-with-mass-corona-vaccination/",
-            "repo_url": "https://github.com/cepdnaclk/e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination",
-            "page_url": "https://cepdnaclk.github.io/e17-co328-Prediction-of-risks-associated-with-mass-corona-vaccination",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Prediction-of-risks-associated-with-mass-corona-vaccination/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
         }
     ],
     "E/18/010": [
@@ -6267,6 +6267,19 @@
     ],
     "E/18/276": [
         {
+            "title": "Health Watch with Emergency Detection",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Health-Watch-with-Emergency-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Health-Watch-with-Emergency-Detection/"
+        },
+        {
             "title": "Automated Notification System for Examinations",
             "category": {
                 "code": "co227",
@@ -6309,6 +6322,19 @@
         }
     ],
     "E/18/283": [
+        {
+            "title": "Health Watch with Emergency Detection",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Health-Watch-with-Emergency-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Health-Watch-with-Emergency-Detection/"
+        },
         {
             "title": "Automated Notification System for Examinations",
             "category": {
@@ -6858,6 +6884,19 @@
         }
     ],
     "E/18/412": [
+        {
+            "title": "Health Watch with Emergency Detection",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Health-Watch-with-Emergency-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "page_url": "https://cepdnaclk.github.io/e18-3yp-Health-Watch-with-Emergency-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Health-Watch-with-Emergency-Detection/"
+        },
         {
             "title": "Automated Notification System for Examinations",
             "category": {
