@@ -7,9 +7,9 @@ import a_config_test
 
 # disable the unwanted error msg
 options = webdriver.ChromeOptions()
-options.add_experimental_option('excludeSwitches', ['enable-logging'])
+options.add_experimental_option("excludeSwitches", ["enable-logging"])
 # run headless mode
-options.add_argument('--headless')
+options.add_argument("--headless")
 
 # ge the driver
 driver = webdriver.Chrome("./webdriver/chromedriver.exe", options=options)
@@ -92,4 +92,9 @@ def getStudentAPI():
 
 def getSocieties():
     driver.get(a_config_test.SERVER_URL + "societies/")
+    return driver
+
+
+def getVisitingResearchFellows():
+    driver.get(a_config_test.SERVER_URL + "staff/visiting-research-fellows/")
     return driver
