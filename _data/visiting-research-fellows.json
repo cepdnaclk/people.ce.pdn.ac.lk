@@ -54,8 +54,8 @@
         ],
         "image": "/images/staff/fellows/vajira-thambawita.jpg",
         "linkedin": "https://lk.linkedin.com/in/vlbthambawita",
-        "profile": "",
-        "google_scholar": "",
+        "profile": "#",
+        "google_scholar": "#",
         "researchgate": "https://www.researchgate.net/profile/Vajira-Thambawita-2",
         "remarks": "Former instructor in Department of Computer Engineering, UoP, and a Former Visiting Lecturer in University of Uwa Wellassa"
     },
@@ -89,8 +89,8 @@
         "remarks": "Project supervisor of the final year project of Madushan K. H. G. H.(E/16/217) about Implementation of Lightweight Cryptographic Algorithms"
     },
     {
-        "name": "",
-        "email": "",
+        "name": "#",
+        "email": "# Note: mark the empty fields as '#' otherwise jekyll wont detect as empty",
         "position": "Visiting Research Fellow",
         "designations": [],
         "image": "/images/staff/fellows/default.jpg",
