@@ -3,6 +3,7 @@ import unittest
 import b_webdriver_functions
 import a_config_test
 from selenium.webdriver.common.by import By
+import json
 
 
 class Tests(unittest.TestCase):
@@ -98,6 +99,16 @@ class Tests(unittest.TestCase):
             flag = link.find(f"e{batch:02d}")
             self.assertTrue(flag, "Search doesnt have one batch")
             driver.find_element(by=By.ID, value="search-input").clear()
+            
+    def test_search_shows_visiting_research_fellows(self):
+        driver = b_webdriver_functions.getHomepage()
+        with open("../_data/visiting-research-fellows.json") as dataFile:
+            dataDict = json.load(dataFile)
+        driver.find_element(by=By.ID, value="search-input").send_keys(dataDict[0]['name'])
+        homeButton = driver.find_element(by=By.LINK_TEXT, value=dataDict[0]['name'])
+        link = homeButton.get_attribute("href")
+        self.assertEqual(link,  a_config_test.SERVER_URL + "staff/visiting-research-fellows/", "Search doesnt show the first visiting research fellow")
+        
 
 
 if __name__ == '__main__':
