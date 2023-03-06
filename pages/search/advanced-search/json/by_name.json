@@ -12,6 +12,19 @@ permalink : /search/by-name.json
         },
     {% endif %}
   {% endfor %}
+
+  
+  {% for eachPerson in site.data.visiting-research-fellows %}
+        {%- if each.name != "#" -%}
+        {
+          "title" : "{{eachPerson.name}}",
+          "email" : "{{eachPerson.email}}",
+          "url" : "{{ "/staff/visiting-research-fellows/" | relative_url }}"
+        },
+        {%- endif -%}
+
+  {% endfor %}
+  
   {% for post in site.pages %}
       {% if post.layout == "studentDetails" %}
       {%- comment -%}Student profile page{%- endcomment -%}
