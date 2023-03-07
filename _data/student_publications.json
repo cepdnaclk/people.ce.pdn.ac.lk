@@ -742,13 +742,48 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
         }
     ],
+    "E/15/048": [
+        {
+            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+            "year": "2022",
+            "authors": [
+                "Sewwandi Nisansala",
+                "Gayal Laksara Chandrasiri",
+                "Sonali Prasadika",
+                "Upul Jayasinghe"
+            ],
+            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "preprint": "#",
+            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Architecture",
+                "Scalability",
+                "Microservice architectures",
+                "Computer architecture",
+                "Real-time systems",
+                "Internet of Things"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
+        }
+    ],
     "E/15/092": [
         {
             "title": "Chronic kidney disease prediction using machine learning methods",
             "venue": "2020 Moratuwa Engineering Research Conference (MERCon) - IEEE",
             "year": "2020",
             "authors": [
-                "Imesh Udara Ekanayake; Damayanthi Herath"
+                "Imesh Udara Ekanayake",
+                "Damayanthi Herath"
             ],
             "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
             "preprint": "#",
@@ -840,6 +875,40 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
+        }
+    ],
+    "E/15/243": [
+        {
+            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+            "year": "2022",
+            "authors": [
+                "Sewwandi Nisansala",
+                "Gayal Laksara Chandrasiri",
+                "Sonali Prasadika",
+                "Upul Jayasinghe"
+            ],
+            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "preprint": "#",
+            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Architecture",
+                "Scalability",
+                "Microservice architectures",
+                "Computer architecture",
+                "Real-time systems",
+                "Internet of Things"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
         }
     ],
     "E/15/271": [

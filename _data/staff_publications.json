@@ -289,7 +289,8 @@
                     "venue": "2020 Moratuwa Engineering Research Conference (MERCon) - IEEE",
                     "year": "2020",
                     "authors": [
-                        "Imesh Udara Ekanayake; Damayanthi Herath"
+                        "Imesh Udara Ekanayake",
+                        "Damayanthi Herath"
                     ],
                     "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
                     "preprint": "#",
@@ -542,7 +543,6 @@
                     "authors": [
                         "S.M. Vidanagamachchi",
                         "S.D. Dewasurendra",
-                        "",
                         "R.G. Ragel"
                     ],
                     "doi": "https://doi.org/10.1109/ICIInfS.2013.6732003",
@@ -1170,7 +1170,6 @@
                         "Isuru B. Nawinne",
                         "Mahanama S. Wickramasinghe",
                         "Roshan G. Ragel",
-                        "Member",
                         "Swarnalatha Radhakrishnan"
                     ],
                     "doi": "https://doi.org/10.1109/ICIINFS.2011.6038036",
@@ -1364,7 +1363,6 @@
                         "Isuru B. Nawinne",
                         "Mahanama S. Wickramasinghe",
                         "Roshan G. Ragel",
-                        "Member",
                         "Swarnalatha Radhakrishnan"
                     ],
                     "doi": "https://doi.org/10.1109/ICIINFS.2011.6038036",
@@ -2414,7 +2412,6 @@
                     "authors": [
                         "S.M. Vidanagamachchi",
                         "S.D. Dewasurendra",
-                        "",
                         "R.G. Ragel"
                     ],
                     "doi": "https://doi.org/10.1109/ICIInfS.2013.6732003",
@@ -2757,7 +2754,6 @@
                         "Isuru B. Nawinne",
                         "Mahanama S. Wickramasinghe",
                         "Roshan G. Ragel",
-                        "Member",
                         "Swarnalatha Radhakrishnan"
                     ],
                     "doi": "https://doi.org/10.1109/ICIINFS.2011.6038036",
@@ -3557,7 +3553,6 @@
                         "Isuru B. Nawinne",
                         "Mahanama S. Wickramasinghe",
                         "Roshan G. Ragel",
-                        "Member",
                         "Swarnalatha Radhakrishnan"
                     ],
                     "doi": "https://doi.org/10.1109/ICIINFS.2011.6038036",
