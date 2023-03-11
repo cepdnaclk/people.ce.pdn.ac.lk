@@ -30,6 +30,7 @@ sitemap: false
     "support-academic":{
         {%- assign temp_staff_list = site.data.non_academic_staff -%}
         {% for staff in temp_staff_list -%}
+        {%- if staff.email != "" -%}
         "{{ staff.email }}":{
             "name": "{{staff.staff_name}}",
             "designation": "{{staff.text_below_name}}",
@@ -37,29 +38,30 @@ sitemap: false
             "email": "{{staff.email}}",
             "profile_image" : "{{staff.url_image  | prepend: site.absolute_url}}"
         }{% if forloop.last %}{% else %},{% endif %}
+        {% endif -%}
         {% endfor -%}
     },
-    "visiting-research-fellows":{
+    "visiting":{
         {% for each in site.data.visiting-research-fellows -%}
-
+        {%- if each.title != "#" -%}
         "{{ each.email }}":{
-            "name": "{{each.name}}",
-
             {%- comment -%}Each designation is seperated using a semicolon ( ; ){%- endcomment -%}
-
-
-            "designations": [ {% for eachDesignation in each.designations -%} "{{eachDesignation | strip }} "{% if forloop.last %}{% else %},{% endif %} {% endfor -%} ],
-            "position": "{{each.position}}",
+            "name": "{{each.name}}",
+            "designation": "{{each.position}}",
+            "positions": [ {% for eachDesignation in each.designations -%} "{{eachDesignation | strip }} "{% if forloop.last %}{% else %},{% endif %} {% endfor -%} ],
             "link" : "{{ "staff/visiting-research-fellows/"  | prepend: site.absolute_url }}",
             "email": "{{each.email}}",
             "profile_image" : "{{each.image  | prepend: site.absolute_url}}",
-            "linkedin": "{{each.linkedin}}",
-            "profile": "{{each.profile}}",
-            "google_scholar": "{{each.google_scholar}}",
-            "researchgate": "{{each.researchgate}}",
+            "urls": {
+                "linkedin": "{{each.linkedin}}",
+                "google_scholar": "{{each.google_scholar}}",
+                "researchgate": "{{each.researchgate}}",
+                "website": "{{each.profile}}"
+            },
             "remarks": "{{each.remarks}}"
         }{% if forloop.last %}{% else %},{% endif %}
 
+        {% endif -%}
         {% endfor -%}
     }
 }
