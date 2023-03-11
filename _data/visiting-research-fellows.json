@@ -90,7 +90,7 @@
     },
     {
         "name": "#",
-        "email": "# Note: mark the empty fields as '#' otherwise jekyll wont detect as empty",
+        "email": "#",
         "position": "Visiting Research Fellow",
         "designations": [],
         "image": "/images/staff/fellows/default.jpg",
