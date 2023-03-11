@@ -15,10 +15,9 @@ permalink : /search/by-name.json
 
   
   {% for eachPerson in site.data.visiting-research-fellows %}
-        {%- if each.name != "#" -%}
+        {%- if each.title != "#" -%}
         {
           "title" : "{{eachPerson.name}}",
-          "email" : "{{eachPerson.email}}",
           "url" : "{{ "/staff/visiting-research-fellows/" | relative_url }}"
         },
         {%- endif -%}
