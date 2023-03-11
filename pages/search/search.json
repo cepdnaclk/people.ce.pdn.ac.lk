@@ -20,7 +20,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
   {% endfor %}
 
   {% for eachPerson in site.data.visiting-research-fellows %}
-        {%- if each.title != "#" -%}
+        {%- if eachPerson.name != "#" -%}
         {
           "title" : "{{eachPerson.name}}",
           "designation" : "{{eachPerson.designations | join: ", " }}",
