@@ -31,7 +31,7 @@
         "remarks": "Distinguished Collaborator of Cryptography Research Laboratory (CRL), featured in the Hanthana Vision Research Magazine of the University of Peradeniya, Vol 7, Issue 1, in June 2021, and the Newsletter of the IEEE Computer Society Sri Lanka Chapter, Vol 1, Issue 1, in December 2021."
     },
     {
-        "name": "Dr Hasindu Gamarachchi",
+        "name": "Dr. Hasindu Gamarachchi",
         "email": "h.gamaarachchi@garvan.org.au",
         "position": "Visiting Research Fellow",
         "designations": [
@@ -46,7 +46,7 @@
         "remarks": "Undergraduate, Former instructor and Former Temperory lecturer in Department of Computer Engineering, and Former Resource Person, NVIDIA Research Center, University of Peradeniya"
     },
     {
-        "name": "Dr Vajira Thambawita",
+        "name": "Dr. Vajira Thambawita",
         "email": "vajira@simula.no",
         "position": "Visiting Research Fellow",
         "designations": [
@@ -54,13 +54,13 @@
         ],
         "image": "/images/staff/fellows/vajira-thambawita.jpg",
         "linkedin": "https://lk.linkedin.com/in/vlbthambawita",
-        "profile": "",
-        "google_scholar": "",
+        "profile": "#",
+        "google_scholar": "#",
         "researchgate": "https://www.researchgate.net/profile/Vajira-Thambawita-2",
         "remarks": "Former instructor in Department of Computer Engineering, UoP, and a Former Visiting Lecturer in University of Uwa Wellassa"
     },
     {
-        "name": "Dr Titus Jayarathna",
+        "name": "Dr. Titus Jayarathna",
         "email": "Titus.Jayarathna@westernsydney.edu.au",
         "position": "Visiting Research Fellow",
         "designations": [
@@ -81,7 +81,7 @@
         "designations": [
             "Assistant Professor, Department of Information and Communication Technology, Xiamen University Malaysia, Malaysia"
         ],
-        "image": "/images/staff/fellows/iftekhar-salam.jpeg",
+        "image": "/images/staff/fellows/iftekhar-salam.jpg",
         "linkedin": "https://my.linkedin.com/in/iftekharsalam",
         "profile": "https://www.xmu.edu.my/2022/0819/c20569a459444/page.htm",
         "google_scholar": "https://scholar.google.com.au/citations?user=LUPvD_8AAAAJ&hl=en",
@@ -89,8 +89,8 @@
         "remarks": "Project supervisor of the final year project of Madushan K. H. G. H.(E/16/217) about Implementation of Lightweight Cryptographic Algorithms"
     },
     {
-        "name": "",
-        "email": "",
+        "name": "#",
+        "email": "# Note: mark the empty fields as '#' otherwise jekyll wont detect as empty",
         "position": "Visiting Research Fellow",
         "designations": [],
         "image": "/images/staff/fellows/default.jpg",
