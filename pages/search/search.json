@@ -18,6 +18,19 @@ Permalinks should be changed in sync with the link inside pages/home.html
         },
     {% endif %}
   {% endfor %}
+
+  {% for eachPerson in site.data.visiting-research-fellows %}
+        {%- if eachPerson.name != "#" -%}
+        {
+          "title" : "{{eachPerson.name}}",
+          "designation" : "{{eachPerson.designations | join: ", " }}",
+          "email" : "{{eachPerson.email}}",
+          "url" : "{{ "/staff/visiting-research-fellows/" | relative_url }}"
+        },
+        {%- endif -%}
+
+  {% endfor %}
+  
   {% for post in site.pages %}
       {% if post.layout == "studentDetails" %}
       {%- comment -%}Student profile page{%- endcomment -%}

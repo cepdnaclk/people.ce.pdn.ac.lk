@@ -1,4 +1,74 @@
 {
+    "E/10/102": [
+        {
+            "title": "Autonomic trust management in cloud-based and highly dynamic IoT applications",
+            "venue": "2015 ITU Kaleidoscope: Trust in the Information Society (K-2015)",
+            "year": "2015",
+            "authors": [
+                "Suneth Namal",
+                "Hasindu Gamaarachchi",
+                "Gyu MyoungLee",
+                "Tai-Won Um"
+            ],
+            "doi": "https://doi.org/10.1109/Kaleidoscope.2015.7383635",
+            "preprint": "#",
+            "pdf": "https://researchonline.ljmu.ac.uk/id/eprint/2150/1/1570197625.pdf",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Security",
+                "Biological system modeling",
+                "Monitoring",
+                "Internet of things",
+                "Ecosystems",
+                "Scalability"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/Kaleidoscope.2015.7383635/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/Kaleidoscope.2015.7383635/index.json"
+        }
+    ],
+    "E/10/143": [
+        {
+            "title": "Accelerating k-nn classification algorithm using graphics processing units",
+            "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
+            "year": "2016",
+            "authors": [
+                "S Selvaluxmiy",
+                "TN Kumara",
+                "P Keerthanan",
+                "R Velmakivan",
+                "R Ragel",
+                "S Deegalla"
+            ],
+            "doi": "https://doi.org/10.1109/ICIAFS.2016.7946528",
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Graphics processing units",
+                "Message systems",
+                "Kernel",
+                "Training",
+                "Prediction algorithms",
+                "Machine learning algorithms",
+                "Testing"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2016.7946528/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2016.7946528/index.json"
+        }
+    ],
     "E/12/009": [
         {
             "title": "Implementing a proven-secure and cost-effective countermeasure against the compression ratio info-leak mass exploitation (CRIME) attack",
@@ -464,6 +534,40 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/3412382.3458269/index.json"
         }
     ],
+    "E/14/237": [
+        {
+            "title": "Non-contact Infant Sleep Apnea Detection",
+            "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2019",
+            "authors": [
+                "Gihan Jayatilaka",
+                "Harshana Weligampola",
+                "Suren Sritharan",
+                "Pankayaraj Pathmanathan",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+            "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering",
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Sleep apnea",
+                "Video processing",
+                "Bio medical engineering",
+                "Pattern recognition"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
+        }
+    ],
     "E/14/262": [
         {
             "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
@@ -671,6 +775,40 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
         }
     ],
+    "E/14/379": [
+        {
+            "title": "Non-contact Infant Sleep Apnea Detection",
+            "venue": "IEEE International Conference on Industrial and Information Systems (ICIIS)",
+            "year": "2019",
+            "authors": [
+                "Gihan Jayatilaka",
+                "Harshana Weligampola",
+                "Suren Sritharan",
+                "Pankayaraj Pathmanathan",
+                "Roshan Ragel",
+                "Isuru Nawinne"
+            ],
+            "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+            "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [
+                "Computational BioEngineering",
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "Sleep apnea",
+                "Video processing",
+                "Bio medical engineering",
+                "Pattern recognition"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
+        }
+    ],
     "E/14/413": [
         {
             "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
@@ -742,13 +880,48 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
         }
     ],
+    "E/15/048": [
+        {
+            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+            "year": "2022",
+            "authors": [
+                "Sewwandi Nisansala",
+                "Gayal Laksara Chandrasiri",
+                "Sonali Prasadika",
+                "Upul Jayasinghe"
+            ],
+            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "preprint": "#",
+            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Architecture",
+                "Scalability",
+                "Microservice architectures",
+                "Computer architecture",
+                "Real-time systems",
+                "Internet of Things"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
+        }
+    ],
     "E/15/092": [
         {
             "title": "Chronic kidney disease prediction using machine learning methods",
             "venue": "2020 Moratuwa Engineering Research Conference (MERCon) - IEEE",
             "year": "2020",
             "authors": [
-                "Imesh Udara Ekanayake; Damayanthi Herath"
+                "Imesh Udara Ekanayake",
+                "Damayanthi Herath"
             ],
             "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
             "preprint": "#",
@@ -840,6 +1013,40 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
+        }
+    ],
+    "E/15/243": [
+        {
+            "title": "Microservice Based Edge Computing Architecture for Internet of Things",
+            "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+            "year": "2022",
+            "authors": [
+                "Sewwandi Nisansala",
+                "Gayal Laksara Chandrasiri",
+                "Sonali Prasadika",
+                "Upul Jayasinghe"
+            ],
+            "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "preprint": "#",
+            "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "codebase": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "researchgroups": [
+                ""
+            ],
+            "funding": "",
+            "tags": [
+                "Cloud computing",
+                "Architecture",
+                "Scalability",
+                "Microservice architectures",
+                "Computer architecture",
+                "Real-time systems",
+                "Internet of Things"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753930/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753930/index.json"
         }
     ],
     "E/15/271": [

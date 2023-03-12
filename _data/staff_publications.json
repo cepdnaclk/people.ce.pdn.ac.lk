@@ -280,16 +280,178 @@
         }
     },
     "damayanthiherath@eng.pdn.ac.lk": {
-        "publication_count": 1,
-        "year_count": 1,
+        "publication_count": 11,
+        "year_count": 5,
         "publications": {
+            "2023": [
+                {
+                    "title": "DeepSelectNet: deep neural network based selective sequencing for oxford nanopore sequencing",
+                    "venue": "BMC bioinformatics",
+                    "year": "2023",
+                    "authors": [
+                        "Anjana Senanayake",
+                        "Hasindu Gamaarachchi",
+                        "Damayanthi Herath",
+                        "Roshan Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1186/s12859-023-05151-0",
+                    "preprint": "#",
+                    "pdf": "https://doi.org/10.1186/s12859-023-05151-0",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "https://github.com/AnjanaSenanayake/DeepSelectNet",
+                    "researchgroups": [
+                        "Computational BioEngineering"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        ""
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-023-05151-0/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1186/s12859-023-05151-0/index.json"
+                }
+            ],
+            "2022": [
+                {
+                    "title": " Interpretable Student Performance Prediction Using Explainable Boosting Machine for Multi-Class Classification",
+                    "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
+                    "year": "2022",
+                    "authors": [
+                        "Shyaman Jayasundara",
+                        "Amila Indika",
+                        "Damayanthi Herath"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICARC54489.2022.9753867",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        ""
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC54489.2022.9753867/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC54489.2022.9753867/index.json"
+                },
+                {
+                    "title": "Forecasting Electricity Power Generation of Pawan Danavi Wind Farm, Sri Lanka, Using Gene Expression Programming",
+                    "venue": "Applied Computational Intelligence and Soft Computing",
+                    "year": "2022",
+                    "authors": [
+                        "Damayanthi Herath",
+                        "Jeevani Jayasinghe",
+                        "Upaka Rathnayake"
+                    ],
+                    "doi": "https://doi.org/10.1155/2022/7081444",
+                    "preprint": "#",
+                    "pdf": "https://downloads.hindawi.com/journals/acisc/2022/7081444.pdf",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        ""
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1155/2022/7081444/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1155/2022/7081444/index.json"
+                },
+                {
+                    "title": "miRNAFinder: A comprehensive web resource for plant Pre-microRNA classification",
+                    "venue": "Biosystems",
+                    "year": "2022",
+                    "authors": [
+                        "Sandali Lokuge",
+                        "Shyaman Jayasundara",
+                        "Puwasuru Ihalagedara",
+                        "Indika Kahanda",
+                        "Damayanthi Herath"
+                    ],
+                    "doi": "https://doi.org/10.1016/j.biosystems.2022.104662",
+                    "preprint": "https://www.biorxiv.org/content/10.1101/2021.06.30.450478.full.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        ""
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1016/j.biosystems.2022.104662/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1016/j.biosystems.2022.104662/index.json"
+                }
+            ],
+            "2021": [
+                {
+                    "title": "Revealing MicroRNA Biomarkers for Alzheimer\u00e2\u0080\u0099s Disease Using Next Generation Sequencing Data",
+                    "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+                    "year": "2021",
+                    "authors": [
+                        "Imalsha Dinuwanthi",
+                        "Hasini Thilakarathna",
+                        "Vidwa Sripadi",
+                        "Damayanthi Herath",
+                        "Roshan Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606093",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Computational BioEngineering"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        ""
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606093/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606093/index.json"
+                },
+                {
+                    "title": "Transfer Learning for Accurate and Efficient Tomato Plant Disease Classification Using Leaf Images",
+                    "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2021",
+                    "authors": [
+                        "LA Chamli Deshan",
+                        "MK Hans Thisanke",
+                        "Damayanthi Herath"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660681",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        ""
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660681/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660681/index.json"
+                }
+            ],
             "2020": [
                 {
                     "title": "Chronic kidney disease prediction using machine learning methods",
                     "venue": "2020 Moratuwa Engineering Research Conference (MERCon) - IEEE",
                     "year": "2020",
                     "authors": [
-                        "Imesh Udara Ekanayake; Damayanthi Herath"
+                        "Imesh Udara Ekanayake",
+                        "Damayanthi Herath"
                     ],
                     "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
                     "preprint": "#",
@@ -310,6 +472,137 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/ 10.1109/MERCon50084.2020.9185249/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/ 10.1109/MERCon50084.2020.9185249/index.json"
+                },
+                {
+                    "title": "Detection of Novel Biomarker Genes of Alzheimer\u00e2\u0080\u0099s Disease Using Gene Expression Data",
+                    "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+                    "year": "2020",
+                    "authors": [
+                        "Shehan Perera",
+                        "Kaveesha Hewage",
+                        "Chamara Gunarathne",
+                        "Rajitha Navarathna",
+                        "Damayanthi Herath",
+                        "Roshan G Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/MERCon50084.2020.9185336",
+                    "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/346705332_Detection_of_Novel_Biomarker_Genes_of_Alzheimer's_Disease_Using_Gene_Expression_Data/links/607ffd468ea909241e1273dd/Detection-of-Novel-Biomarker-Genes-of-Alzheimers-Disease-Using-Gene-Expression-Data.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Computational BioEngineering"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Principal component analysis",
+                        "Feature extraction",
+                        "Forestry",
+                        "Correlation",
+                        "Support vector machines",
+                        "Dementia"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185336/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185336/index.json"
+                },
+                {
+                    "title": "A Data Driven Binning Method to Recover More Nucleotide Sequences of Species in a Metagenome",
+                    "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+                    "year": "2020",
+                    "authors": [
+                        "Kasun Vimukthi",
+                        "Geeth Wimalasiri",
+                        "Prabhath Bandara",
+                        "Damayanthi Herath"
+                    ],
+                    "doi": "https://doi.org/10.1109/MERCon50084.2020.9185388",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Computational BioEngineering"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Genomics",
+                        "DNA",
+                        "Sequential analysis",
+                        "Bioinformatics",
+                        "Taxonomy",
+                        "Clustering algorithms",
+                        "Benchmark testing"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185388/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185388/index.json"
+                },
+                {
+                    "title": "miRNAFinder: A pre-microRNA classifier for plants and analysis of feature impact",
+                    "venue": "2020 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB)",
+                    "year": "2020",
+                    "authors": [
+                        "Puwasuru Ihalagedara",
+                        "Sandali Lokuge",
+                        "Shyaman Jayasundara",
+                        "Damayanthi Herath",
+                        "Indika Kahanda"
+                    ],
+                    "doi": "https://doi.org/10.1109/CIBCB48159.2020.9277723",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Computational BioEngineering"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Feature extraction",
+                        "RNA",
+                        "Support vector machines",
+                        "Testing",
+                        "Animals",
+                        "Vegetation",
+                        "Random forests"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/CIBCB48159.2020.9277723/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/CIBCB48159.2020.9277723/index.json"
+                }
+            ],
+            "2012": [
+                {
+                    "title": "Accelerating string matching for bio-computing applications on multi-core CPUs",
+                    "venue": "2012 IEEE 7th International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2012",
+                    "authors": [
+                        "Damayanthi Herath",
+                        "Chathurika Lakmali",
+                        "Roshan Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIInfS.2012.6304784",
+                    "preprint": "https://arxiv.org/pdf/1403.7294",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Computational BioEngineering",
+                        "Accelerated and High-Performance Computing (FPGA / GPU)"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Instruction sets",
+                        "Throughput",
+                        "Software algorithms",
+                        "Pattern matching",
+                        "Acceleration",
+                        "Algorithm design and analysis"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2012.6304784/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2012.6304784/index.json"
                 }
             ]
         }
@@ -542,7 +835,6 @@
                     "authors": [
                         "S.M. Vidanagamachchi",
                         "S.D. Dewasurendra",
-                        "",
                         "R.G. Ragel"
                     ],
                     "doi": "https://doi.org/10.1109/ICIInfS.2013.6732003",
@@ -1170,7 +1462,6 @@
                         "Isuru B. Nawinne",
                         "Mahanama S. Wickramasinghe",
                         "Roshan G. Ragel",
-                        "Member",
                         "Swarnalatha Radhakrishnan"
                     ],
                     "doi": "https://doi.org/10.1109/ICIINFS.2011.6038036",
@@ -1364,7 +1655,6 @@
                         "Isuru B. Nawinne",
                         "Mahanama S. Wickramasinghe",
                         "Roshan G. Ragel",
-                        "Member",
                         "Swarnalatha Radhakrishnan"
                     ],
                     "doi": "https://doi.org/10.1109/ICIINFS.2011.6038036",
@@ -1614,9 +1904,37 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "publication_count": 39,
-        "year_count": 14,
+        "publication_count": 43,
+        "year_count": 15,
         "publications": {
+            "2023": [
+                {
+                    "title": "DeepSelectNet: deep neural network based selective sequencing for oxford nanopore sequencing",
+                    "venue": "BMC bioinformatics",
+                    "year": "2023",
+                    "authors": [
+                        "Anjana Senanayake",
+                        "Hasindu Gamaarachchi",
+                        "Damayanthi Herath",
+                        "Roshan Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1186/s12859-023-05151-0",
+                    "preprint": "#",
+                    "pdf": "https://doi.org/10.1186/s12859-023-05151-0",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "https://github.com/AnjanaSenanayake/DeepSelectNet",
+                    "researchgroups": [
+                        "Computational BioEngineering"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        ""
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-023-05151-0/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1186/s12859-023-05151-0/index.json"
+                }
+            ],
             "2021": [
                 {
                     "title": "An optical physics inspired CNN approach for intrinsic image decomposition",
@@ -1686,6 +2004,33 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
+                },
+                {
+                    "title": "Revealing MicroRNA Biomarkers for Alzheimer\u00e2\u0080\u0099s Disease Using Next Generation Sequencing Data",
+                    "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+                    "year": "2021",
+                    "authors": [
+                        "Imalsha Dinuwanthi",
+                        "Hasini Thilakarathna",
+                        "Vidwa Sripadi",
+                        "Damayanthi Herath",
+                        "Roshan Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606093",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Computational BioEngineering"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        ""
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606093/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606093/index.json"
                 }
             ],
             "2020": [
@@ -1817,6 +2162,39 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185206/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
+                },
+                {
+                    "title": "Detection of Novel Biomarker Genes of Alzheimer\u00e2\u0080\u0099s Disease Using Gene Expression Data",
+                    "venue": "2020 Moratuwa Engineering Research Conference (MERCon)",
+                    "year": "2020",
+                    "authors": [
+                        "Shehan Perera",
+                        "Kaveesha Hewage",
+                        "Chamara Gunarathne",
+                        "Rajitha Navarathna",
+                        "Damayanthi Herath",
+                        "Roshan G Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/MERCon50084.2020.9185336",
+                    "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/346705332_Detection_of_Novel_Biomarker_Genes_of_Alzheimer's_Disease_Using_Gene_Expression_Data/links/607ffd468ea909241e1273dd/Detection-of-Novel-Biomarker-Genes-of-Alzheimers-Disease-Using-Gene-Expression-Data.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Computational BioEngineering"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Principal component analysis",
+                        "Feature extraction",
+                        "Forestry",
+                        "Correlation",
+                        "Support vector machines",
+                        "Dementia"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185336/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185336/index.json"
                 }
             ],
             "2019": [
@@ -2414,7 +2792,6 @@
                     "authors": [
                         "S.M. Vidanagamachchi",
                         "S.D. Dewasurendra",
-                        "",
                         "R.G. Ragel"
                     ],
                     "doi": "https://doi.org/10.1109/ICIInfS.2013.6732003",
@@ -2714,6 +3091,37 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2012.6419893/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2012.6419893/index.json"
+                },
+                {
+                    "title": "Accelerating string matching for bio-computing applications on multi-core CPUs",
+                    "venue": "2012 IEEE 7th International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2012",
+                    "authors": [
+                        "Damayanthi Herath",
+                        "Chathurika Lakmali",
+                        "Roshan Ragel"
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIInfS.2012.6304784",
+                    "preprint": "https://arxiv.org/pdf/1403.7294",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Computational BioEngineering",
+                        "Accelerated and High-Performance Computing (FPGA / GPU)"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Instruction sets",
+                        "Throughput",
+                        "Software algorithms",
+                        "Pattern matching",
+                        "Acceleration",
+                        "Algorithm design and analysis"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIInfS.2012.6304784/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIInfS.2012.6304784/index.json"
                 }
             ],
             "2011": [
@@ -2757,7 +3165,6 @@
                         "Isuru B. Nawinne",
                         "Mahanama S. Wickramasinghe",
                         "Roshan G. Ragel",
-                        "Member",
                         "Swarnalatha Radhakrishnan"
                     ],
                     "doi": "https://doi.org/10.1109/ICIINFS.2011.6038036",
@@ -3557,7 +3964,6 @@
                         "Isuru B. Nawinne",
                         "Mahanama S. Wickramasinghe",
                         "Roshan G. Ragel",
-                        "Member",
                         "Swarnalatha Radhakrishnan"
                     ],
                     "doi": "https://doi.org/10.1109/ICIINFS.2011.6038036",

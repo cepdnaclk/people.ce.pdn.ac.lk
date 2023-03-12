@@ -23,3 +23,5 @@ Thumbs.db
 personalNotes.txt
 *.pyc
 # force rebuild
+
+.vscode
