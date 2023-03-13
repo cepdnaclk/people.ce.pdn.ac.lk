@@ -10,8 +10,8 @@ import json
 class Tests(unittest.TestCase):
     def test_if_page_loads(self):
         driver = b_webdriver_functions.getVisitingResearchFellows()
-        if driver.page_source.find("Visiting Research Fellows") == -1:
-            self.fail("Visiting Research Fellows page did not load")
+        if driver.page_source.find("Honorary Visiting Research Fellows") == -1:
+            self.fail("Honorary Visiting Research Fellows page did not load")
 
     def test_the_json_is_valid(self):
         with open("../_data/visiting-research-fellows.json") as dataFile:
