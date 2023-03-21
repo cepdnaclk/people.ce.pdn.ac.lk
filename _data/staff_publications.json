@@ -1,8 +1,111 @@
 {
     "alawatugoda@eng.pdn.ac.lk": {
-        "publication_count": 3,
-        "year_count": 2,
+        "publication_count": 12,
+        "year_count": 5,
         "publications": {
+            "2022": [
+                {
+                    "title": "On power analysis attacks against hardware stream ciphers",
+                    "venue": "International Journal of Information and Computer Security",
+                    "year": "2022",
+                    "authors": [
+                        "Rangana De Silva",
+                        "Iranga Navaratna",
+                        "Malitha Kumarasiri",
+                        "Janaka Alawatugoda",
+                        "Chuah Chai Wen"
+                    ],
+                    "author_cards": [
+                        {
+                            "name": "Rangana De Silva",
+                            "profile": "#",
+                            "type": "OUTSIDER"
+                        },
+                        {
+                            "name": "Iranga Navaratna",
+                            "profile": "#",
+                            "type": "OUTSIDER"
+                        },
+                        {
+                            "name": "Malitha Kumarasiri",
+                            "profile": "#",
+                            "type": "OUTSIDER"
+                        },
+                        {
+                            "name": "Janaka Alawatugoda",
+                            "profile": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/",
+                            "type": "STAFF"
+                        },
+                        {
+                            "name": "Chuah Chai Wen",
+                            "profile": "#",
+                            "type": "OUTSIDER"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1504/ijics.2022.121289",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e13/power-analysis-attack-on-trivium-stream-cipher",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "differential power analysis",
+                        "correlation power analysis",
+                        "simple power analysis",
+                        "power analysis attack",
+                        "stream cipher",
+                        "Trivium",
+                        "Grain",
+                        "MICKEY"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1504/ijics.2022.121289/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1504/ijics.2022.121289/index.json"
+                },
+                {
+                    "title": "Standard model leakage-resilient authenticated key exchange using inner-product extractors",
+                    "venue": "Designs, Codes and Cryptography",
+                    "year": "2022",
+                    "authors": [
+                        "Janaka Alawatugoda",
+                        "Tatsuaki Okamoto"
+                    ],
+                    "author_cards": [
+                        {
+                            "name": "Janaka Alawatugoda",
+                            "profile": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/",
+                            "type": "STAFF"
+                        },
+                        {
+                            "name": "Tatsuaki Okamoto",
+                            "profile": "#",
+                            "type": "OUTSIDER"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1007/s10623-022-01028-0",
+                    "preprint": "https://eprint.iacr.org/2021/861.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Leakage-resilient cryptography",
+                        "Authenticated key exchange",
+                        "eCK model",
+                        "CAFL-eCK model",
+                        "Standard model"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s10623-022-01028-0/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/s10623-022-01028-0/index.json"
+                }
+            ],
             "2020": [
                 {
                     "title": "BAT\u00e2\u0080\u0094Block Analytics Tool Integrated with Blockchain Based IoT Platform",
@@ -79,6 +182,301 @@
                     ],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
+                },
+                {
+                    "title": "New approach to practical leakage-resilient public-key cryptography",
+                    "venue": "Journal of Mathematical Cryptology",
+                    "year": "2020",
+                    "authors": [
+                        "Suvradip Chakraborty",
+                        "Janaka Alawatugoda",
+                        "Chandrasekaran Pandu Rangan"
+                    ],
+                    "author_cards": [
+                        {
+                            "name": "Suvradip Chakraborty",
+                            "profile": "#",
+                            "type": "OUTSIDER"
+                        },
+                        {
+                            "name": "Janaka Alawatugoda",
+                            "profile": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/",
+                            "type": "STAFF"
+                        },
+                        {
+                            "name": "Chandrasekaran Pandu Rangan",
+                            "profile": "#",
+                            "type": "OUTSIDER"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1515/jmc-2019-0014",
+                    "preprint": "#",
+                    "pdf": "https://www.degruyter.com/document/doi/10.1515/jmc-2019-0014/pdf",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Leakage-resilient cryptography",
+                        "public-key cryptography",
+                        "non-interactive key exchange",
+                        "authenticated key exchange",
+                        "low-latency key exchange"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1515/jmc-2019-0014/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1515/jmc-2019-0014/index.json"
+                },
+                {
+                    "title": "Public-key encryption in the standard model against strong leakage adversary",
+                    "venue": "The Computer Journal",
+                    "year": "2020",
+                    "authors": [
+                        "Janaka Alawatugoda"
+                    ],
+                    "author_cards": [
+                        {
+                            "name": "Janaka Alawatugoda",
+                            "profile": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/",
+                            "type": "STAFF"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1093/comjnl/bxaa055",
+                    "preprint": "https://research-repository.griffith.edu.au/bitstream/handle/10072/414338/Alawatugoda522794-Accepted.pdf?sequence=2",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        ""
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1093/comjnl/bxaa055/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1093/comjnl/bxaa055/index.json"
+                }
+            ],
+            "2019": [
+                {
+                    "title": "Review on leakage resilient key exchange security models",
+                    "venue": "International Journal of Communication Networks and Information Security",
+                    "year": "2019",
+                    "authors": [
+                        "Clement Chan Zheng Wei",
+                        "Chuah Chai Wen",
+                        "Janaka Alawatugoda\\"
+                    ],
+                    "author_cards": [
+                        {
+                            "name": "Clement Chan Zheng Wei",
+                            "profile": "#",
+                            "type": "OUTSIDER"
+                        },
+                        {
+                            "name": "Chuah Chai Wen",
+                            "profile": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/",
+                            "type": "STAFF"
+                        },
+                        {
+                            "name": "Janaka Alawatugoda\\",
+                            "profile": "#",
+                            "type": "OUTSIDER"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.17762/ijcnis.v11i1.3790",
+                    "preprint": "https://www.researchgate.net/profile/Clement-Zheng-Wei/publication/332671720_Review_on_Leakage_Resilient_Key_Exchange_Security_Model/links/5cc2c6e1a6fdcc1d49af2c1a/Review-on-Leakage-Resilient-Key-Exchange-Security-Model.pdf",
+                    "pdf": "https://www.ijcnis.org/index.php/ijcnis/article/view/3790/705",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Leakage-resilient cryptography",
+                        "Key exchange protocol",
+                        "Security models",
+                        "Leakage attacks",
+                        "Side-channel attacks",
+                        "Leakage resilience"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.17762/ijcnis.v11i1.3790/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.17762/ijcnis.v11i1.3790/index.json"
+                }
+            ],
+            "2017": [
+                {
+                    "title": "Generic construction of an  eCK -secure key exchange protocol in the standard model",
+                    "venue": "International Journal of Information Security",
+                    "year": "2017",
+                    "authors": [
+                        "Janaka Alawatugoda"
+                    ],
+                    "author_cards": [
+                        {
+                            "name": "Janaka Alawatugoda",
+                            "profile": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/",
+                            "type": "STAFF"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1007/s10207-016-0346-9",
+                    "preprint": "#",
+                    "pdf": "https://link.springer.com/content/pdf/10.1007/s10207-016-0346-9.pdf",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Public-key cryptography",
+                        "Key exchange protocols",
+                        "eCK model",
+                        "Standard model"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/s10207-016-0346-9/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/s10207-016-0346-9/index.json"
+                },
+                {
+                    "title": "Leakage-resilient non-interactive key exchange in the continuous-memory leakage setting",
+                    "venue": "International Conference on Provable Security",
+                    "year": "2017",
+                    "authors": [
+                        "Suvradip Chakraborty",
+                        "Janaka Alawatugoda",
+                        "C Pandu Rangan"
+                    ],
+                    "author_cards": [
+                        {
+                            "name": "Suvradip Chakraborty",
+                            "profile": "#",
+                            "type": "OUTSIDER"
+                        },
+                        {
+                            "name": "Janaka Alawatugoda",
+                            "profile": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/",
+                            "type": "STAFF"
+                        },
+                        {
+                            "name": "C Pandu Rangan",
+                            "profile": "#",
+                            "type": "OUTSIDER"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1007/978-3-319-68637-0_10",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Leakage-resilient",
+                        "Key exchange protocols",
+                        "After-the-fact leakage",
+                        "Continuous-memory leakage"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/978-3-319-68637-0_10/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/978-3-319-68637-0_10/index.json"
+                },
+                {
+                    "title": "On the leakage-resilient key exchange",
+                    "venue": "Journal of Mathematical Cryptology",
+                    "year": "2017",
+                    "authors": [
+                        "Janaka Alawatugoda"
+                    ],
+                    "author_cards": [
+                        {
+                            "name": "Janaka Alawatugoda",
+                            "profile": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/",
+                            "type": "STAFF"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1515/jmc-2016-0003",
+                    "preprint": "#",
+                    "pdf": "https://www.degruyter.com/document/doi/10.1515/jmc-2016-0003/pdf",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Key exchange protocols",
+                        "security models",
+                        "leakage-resilient cryptography"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1515/jmc-2016-0003/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1515/jmc-2016-0003/index.json"
+                },
+                {
+                    "title": "Implementing a proven-secure and cost-effective countermeasure against the compression ratio info-leak mass exploitation (CRIME) attack",
+                    "venue": "2017 IEEE International Conference on Industrial and Information Systems (ICIIS)",
+                    "year": "2017",
+                    "authors": [
+                        "Jayamine Alupotha",
+                        "Sanduni Prasadi",
+                        "Janaka Alawatugoda",
+                        "Roshan Ragel",
+                        "Mohamed Fawsan"
+                    ],
+                    "author_cards": [
+                        {
+                            "name": "Jayamine Alupotha",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e12/009/",
+                            "type": "STUDENT"
+                        },
+                        {
+                            "name": "Sanduni Prasadi",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e12/269/",
+                            "type": "STUDENT"
+                        },
+                        {
+                            "name": "Janaka Alawatugoda",
+                            "profile": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/",
+                            "type": "STAFF"
+                        },
+                        {
+                            "name": "Roshan Ragel",
+                            "profile": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/",
+                            "type": "STAFF"
+                        },
+                        {
+                            "name": "Mohamed Fawsan",
+                            "profile": "#",
+                            "type": "OUTSIDER"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIINFS.2017.8300359",
+                    "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/323352314_Implementing_a_proven-secure_and_cost-effective_countermeasure_against_the_compression_ratio_info-leak_mass_exploitation_CRIME_attack/links/61c959beb8305f7c4b0421bc/Implementing-a-proven-secure-and-cost-effective-countermeasure-against-the-compression-ratio-info-leak-mass-exploitation-CRIME-attack.pdf",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Bandwidth",
+                        "Side-channel attacks",
+                        "Dictionaries",
+                        "Servers",
+                        "Data compression"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300359/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300359/index.json"
                 }
             ],
             "2016": [
@@ -90,7 +488,7 @@
                         "Isuru Sankalpa",
                         "Tharindu Dhanushka",
                         "Nadeesha Amarasinghe",
-                        "Janaka Alawathugoda",
+                        "Janaka Alawatugoda",
                         "Roshan Ragel"
                     ],
                     "author_cards": [
@@ -110,7 +508,7 @@
                             "type": "OUTSIDER"
                         },
                         {
-                            "name": "Janaka Alawathugoda",
+                            "name": "Janaka Alawatugoda",
                             "profile": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/",
                             "type": "STAFF"
                         },
@@ -4032,8 +4430,8 @@
                         },
                         {
                             "name": "Janaka Alawatugoda",
-                            "profile": "#",
-                            "type": "OUTSIDER"
+                            "profile": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/",
+                            "type": "STAFF"
                         },
                         {
                             "name": "Roshan Ragel",
@@ -4279,7 +4677,7 @@
                         "Isuru Sankalpa",
                         "Tharindu Dhanushka",
                         "Nadeesha Amarasinghe",
-                        "Janaka Alawathugoda",
+                        "Janaka Alawatugoda",
                         "Roshan Ragel"
                     ],
                     "author_cards": [
@@ -4299,7 +4697,7 @@
                             "type": "OUTSIDER"
                         },
                         {
-                            "name": "Janaka Alawathugoda",
+                            "name": "Janaka Alawatugoda",
                             "profile": "https://people.ce.pdn.ac.lk//staff/academic/janaka-alawatugoda/",
                             "type": "STAFF"
                         },
