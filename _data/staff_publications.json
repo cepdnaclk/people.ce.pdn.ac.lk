@@ -2582,9 +2582,77 @@
         }
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "publication_count": 5,
-        "year_count": 3,
+        "publication_count": 6,
+        "year_count": 4,
         "publications": {
+            "2021": [
+                {
+                    "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
+                    "venue": "2021 10th International Conference on Information and Automation for Sustainability (ICIAfS)",
+                    "year": "2021",
+                    "authors": [
+                        "KTB Weerasinghe",
+                        "SC Tennakoon",
+                        "KNU Kularatne",
+                        "I Nawinne",
+                        "R Ragel",
+                        "H Jayakody"
+                    ],
+                    "author_cards": [
+                        {
+                            "name": "KTB Weerasinghe",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e15/383/",
+                            "type": "STUDENT"
+                        },
+                        {
+                            "name": "SC Tennakoon",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e15/349/",
+                            "type": "STUDENT"
+                        },
+                        {
+                            "name": "KNU Kularatne",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e15/188/",
+                            "type": "STUDENT"
+                        },
+                        {
+                            "name": "I Nawinne",
+                            "profile": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/",
+                            "type": "STAFF"
+                        },
+                        {
+                            "name": "R Ragel",
+                            "profile": "https://people.ce.pdn.ac.lk//staff/academic/roshan-ragel/",
+                            "type": "STAFF"
+                        },
+                        {
+                            "name": "H Jayakody",
+                            "profile": "#",
+                            "type": "OUTSIDER"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [
+                        ""
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Visualization",
+                        "Veins",
+                        "Prototypes",
+                        "Clinical trials",
+                        "Skin",
+                        "Real-time systems",
+                        "Sustainable development"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
+                }
+            ],
             "2020": [
                 {
                     "title": "A Programming Framework for Robot Swarms",
@@ -3739,8 +3807,8 @@
                         },
                         {
                             "name": "I Nawinne",
-                            "profile": "#",
-                            "type": "OUTSIDER"
+                            "profile": "https://people.ce.pdn.ac.lk//staff/academic/isuru-nawinne/",
+                            "type": "STAFF"
                         },
                         {
                             "name": "R Ragel",
