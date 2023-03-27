@@ -2122,17 +2122,17 @@
     ],
     "kamalanath@eng.pdn.ac.lk  ": [
         {
-            "title": "human behavior prediction using cctv",
+            "title": "Adaptive people movement and action prediction using CCTV",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/human-behavior-prediction-using-cctv/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-human-behavior-prediction-using-cctv",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-human-behavior-prediction-using-cctv",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-people-movement-and-action-prediction-using-CCTV/",
+            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV",
+            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/human-behavior-prediction-using-cctv/"
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-people-movement-and-action-prediction-using-CCTV/"
         }
     ],
     "kamalanath@pdn.ac.lk": [
