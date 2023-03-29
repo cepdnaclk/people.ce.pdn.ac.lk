@@ -119,7 +119,7 @@
     "url_profile": "",
     "linkedin": "https://www.linkedin.com/in/poornima-lankani-b54969103/",
     "joined_date": "2022-05-23",
-    "left_date": "2022-01-31"
+    "left_date": "2023-01-31"
   },
   {
     "staff_name": "Jayamini Jayasundara",
@@ -149,6 +149,16 @@
     "url_profile": "",
     "linkedin": "https://www.linkedin.com/in/rashmi-neelawathura-b8b94b21a/",
     "joined_date": "2022-09-05",
+    "left_date": ""
+  },
+  {
+    "staff_name": "Dinindu Thilakarathna",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/staff/temporary-academic-staff/dinind.jpg",
+    "email": "dininduwm@eng.pdn.ac.lk",
+    "url_profile": "/students/e16/366/",
+    "linkedin": "https://www.linkedin.com/in/dinindu-thilakarathna/",
+    "joined_date": "2023-03-01",
     "left_date": ""
   }
 ]
