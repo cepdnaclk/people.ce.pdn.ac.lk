@@ -83,6 +83,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E14/ipb/"
         },
         {
+            "title": "Banking Management System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e15/Banking-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co328-Banking-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e15-co328-Banking-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co328/E15/Banking-Management-System/"
+        },
+        {
             "title": "Project Publication Platform",
             "category": {
                 "code": "co328",
