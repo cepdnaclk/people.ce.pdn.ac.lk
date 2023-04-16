@@ -3,6 +3,8 @@
 
 from selenium import webdriver
 import a_config_test
+import chromedriver_autoinstaller
+
 
 
 # disable the unwanted error msg
@@ -11,8 +13,12 @@ options.add_experimental_option("excludeSwitches", ["enable-logging"])
 # run headless mode
 options.add_argument("--headless")
 
+chromedriver_autoinstaller.install()  # Check if the current version of chromedriver exists
+                                      # and if it doesn't exist, download it automatically,
+                                      # then add chromedriver to path
+                                      
 # ge the driver
-driver = webdriver.Chrome("./webdriver/chromedriver.exe", options=options)
+driver = webdriver.Chrome(options=options)
 
 
 def getURL(url):

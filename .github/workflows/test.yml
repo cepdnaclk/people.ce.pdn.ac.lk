@@ -25,18 +25,13 @@ jobs:
           python-version: 3.8
 
       - name: Install software
-        run: sudo apt-get install chromium-browser=110.0.0.0
+        run: sudo apt-get install -y chromium-browser=110
 
       - name: Install the necessary packages
-        run: pip install requests webdriver-manager selenium
+        run: pip install requests webdriver-manager selenium chromedriver-autoinstaller
 
       - name: Run Server and Test
         run: |
           cd tests; 
-          cd webdriver;
-          wget https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_linux64.zip
-          unzip chromedriver_linux64.zip
-          mv chromedriver chromedriver.exe
-          cd ..
           echo 'SERVER_URL = "http://localhost/"' > a_config_test.py
           python3 -m unittest discover -v -f
