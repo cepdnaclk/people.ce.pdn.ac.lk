@@ -25,7 +25,7 @@ jobs:
           python-version: 3.8
 
       - name: Install software
-        run: sudo apt-get install -y chromium-browser
+        run: sudo apt-get install chromium-browser=110.0.0.0
 
       - name: Install the necessary packages
         run: pip install requests webdriver-manager selenium
