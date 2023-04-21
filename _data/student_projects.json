@@ -4397,6 +4397,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Pour",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Pour/"
+        },
+        {
+            "title": "Research profiles of academic staff",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Research-profiles-of-academic-staff/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Research-profiles-of-academic-staff",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Research-profiles-of-academic-staff",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Research-profiles-of-academic-staff/"
         }
     ],
     "E/17/134": [
@@ -4468,6 +4481,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Pour",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Pour/"
+        },
+        {
+            "title": "Research profiles of academic staff",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Research-profiles-of-academic-staff/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Research-profiles-of-academic-staff",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Research-profiles-of-academic-staff",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Research-profiles-of-academic-staff/"
         }
     ],
     "E/17/154": [
@@ -4963,6 +4989,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Pour",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Pour/"
+        },
+        {
+            "title": "Research profiles of academic staff",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Research-profiles-of-academic-staff/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Research-profiles-of-academic-staff",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Research-profiles-of-academic-staff",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Research-profiles-of-academic-staff/"
         }
     ],
     "E/17/296": [
