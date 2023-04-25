@@ -1,7 +1,7 @@
 {%- if student.image_url -%}
-{%- assign profile_url = student.image_url | prepend: site.absolute_url -%}
+{%- assign profile_url = student.image_url | prepend: '/' | prepend: site.absolute_url -%}
 {%- else -%}
-{%- assign profile_url = 'images/students/default.jpg' | prepend: site.absolute_url -%}
+{%- assign profile_url = '/images/students/default.jpg' | prepend: site.absolute_url -%}
 {%- endif -%}
 "{{ student.reg_no }}" : {
 "eNumber": "{{ student.reg_no }}",
