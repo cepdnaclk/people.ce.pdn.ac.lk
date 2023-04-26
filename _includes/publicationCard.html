@@ -9,7 +9,7 @@
                 <!-- Author list -->
                 <div>
                     <!-- {{ pub.authors | join: ", " }}, -->
-                    {%- for author in pub.author_cards -%}
+                    {%- for author in pub.author_info -%}
 
                     {%- if author.profile == "#" -%}
                     <span class="me-1">{{ author.name }}</span>
