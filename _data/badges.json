@@ -7,18 +7,18 @@
             "page": "/badges/casual-instructors-2021/",
             "show": "true"
         },
-        "web-consultation-team": {
-            "title": "Web Consultation Team",
-            "image": "images/badges/web-consultation-team.png",
-            "description": "The Web Consultation Team is a group of volunteers assisting to improve the web presence of the University of Peradeniya. They  coordinate between staff/students and the webmasters of the websites under the pdn domain.",
-            "page": "/badges/web-consultation-team/",
-            "show": "true"
-        },
         "CO-seminar-organisers-badge": {
             "title": "Seminar Organizing Team",
             "image": "images/badges/CO-seminar-organisers-badge.png",
             "description": "The Seminar Organizing Team is a group of volunteers assisting to Organize seminars for students in the University of Peradeniya as well as other student's in other universities.",
             "page": "/badges/CO-seminar-organisers-badge/",
+            "show": "true"
+        },
+        "web-consultation-team": {
+            "title": "Web Consultation Team",
+            "image": "images/badges/web-consultation-team.png",
+            "description": "The Web Consultation Team is a group of volunteers assisting to improve the web presence of the University of Peradeniya. They  coordinate between staff/students and the webmasters of the websites under the pdn domain.",
+            "page": "/badges/web-consultation-team/",
             "show": "true"
         }
     },
@@ -82,13 +82,13 @@
                 "link": "#"
             },
             {
-                "tag": "web-consultation-team",
-                "position": "Member",
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
                 "link": "#"
             },
             {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
+                "tag": "web-consultation-team",
+                "position": "Member",
                 "link": "#"
             }
         ],
@@ -110,6 +110,69 @@
             {
                 "tag": "casual-instructors-2021",
                 "position": "CO253",
+                "link": "#"
+            }
+        ],
+        "E/18/118": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/16/012": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/16/049": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/16/134": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/17/398": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/18/154": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/18/068": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/16/332": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/17/065": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
                 "link": "#"
             }
         ],
@@ -222,69 +285,6 @@
             {
                 "tag": "web-consultation-team",
                 "position": "Member",
-                "link": "#"
-            }
-        ],
-        "E/18/118": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/16/012": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/16/049": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/16/134": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/17/398": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/18/154": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/18/068": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/16/332": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/17/065": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
                 "link": "#"
             }
         ]
