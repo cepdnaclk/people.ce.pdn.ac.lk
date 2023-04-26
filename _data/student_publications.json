@@ -49,6 +49,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/Kaleidoscope.2015.7383635",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "https://researchonline.ljmu.ac.uk/id/eprint/2150/1/1570197625.pdf",
             "presentation": "#",
@@ -139,6 +140,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIAFS.2016.7946528",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "#",
             "presentation": "#",
@@ -219,6 +221,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIINFS.2017.8300359",
+            "is_dept_affiliated": true,
             "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/323352314_Implementing_a_proven-secure_and_cost-effective_countermeasure_against_the_compression_ratio_info-leak_mass_exploitation_CRIME_attack/links/61c959beb8305f7c4b0421bc/Implementing-a-proven-secure-and-cost-effective-countermeasure-against-the-compression-ratio-info-leak-mass-exploitation-CRIME-attack.pdf",
             "pdf": "#",
             "presentation": "#",
@@ -299,6 +302,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIINFS.2017.8300359",
+            "is_dept_affiliated": true,
             "preprint": "https://www.researchgate.net/profile/Roshan-Ragel/publication/323352314_Implementing_a_proven-secure_and_cost-effective_countermeasure_against_the_compression_ratio_info-leak_mass_exploitation_CRIME_attack/links/61c959beb8305f7c4b0421bc/Implementing-a-proven-secure-and-cost-effective-countermeasure-against-the-compression-ratio-info-leak-mass-exploitation-CRIME-attack.pdf",
             "pdf": "#",
             "presentation": "#",
@@ -369,6 +373,7 @@
                 }
             ],
             "doi": "https://doi.org/10.3390/s19204495",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
             "presentation": "#",
@@ -439,6 +444,7 @@
                 }
             ],
             "doi": "https://doi.org/10.3390/s19204495",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "https://www.mdpi.com/1424-8220/19/20/4495/pdf?version=1571300841",
             "presentation": "#",
@@ -519,6 +525,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "#",
             "presentation": "#",
@@ -600,6 +607,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "#",
             "presentation": "#",
@@ -711,6 +719,7 @@
                 }
             ],
             "doi": "https://doi.org/10.3390/electronics9091525",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
             "presentation": "#",
@@ -767,6 +776,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1371/journal.pntd.0009756",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0009756&type=printable",
             "presentation": "#",
@@ -839,6 +849,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/MERCon50084.2020.9185206",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "#",
             "presentation": "#",
@@ -940,6 +951,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
+            "is_dept_affiliated": true,
             "preprint": "https://arxiv.org/pdf/2006.15304.pdf",
             "pdf": "#",
             "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
@@ -1028,6 +1040,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+            "is_dept_affiliated": true,
             "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
             "pdf": "#",
             "presentation": "#",
@@ -1136,6 +1149,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1255/jsi.2019.a11",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "https://www.impopen.com/download.php?code=I08_a11",
             "presentation": "#",
@@ -1236,6 +1250,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1186/s12859-020-03697-x",
+            "is_dept_affiliated": true,
             "preprint": "https://www.biorxiv.org/content/10.1101/756122v1.full.pdf",
             "pdf": "https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-020-03697-x.pdf",
             "presentation": "#",
@@ -1309,6 +1324,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1145/3412382.3458269",
+            "is_dept_affiliated": true,
             "preprint": "https://arxiv.org/pdf/2105.05092",
             "pdf": "#",
             "presentation": "https://www.cs.umd.edu/~gihan/projects/deeplight/presentation.pdf",
@@ -1398,6 +1414,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+            "is_dept_affiliated": true,
             "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
             "pdf": "#",
             "presentation": "#",
@@ -1518,6 +1535,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1038/s42003-020-01270-z",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
             "presentation": "#",
@@ -1635,6 +1653,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1038/s42003-020-01270-z",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
             "presentation": "#",
@@ -1730,6 +1749,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1186/s12859-020-03697-x",
+            "is_dept_affiliated": true,
             "preprint": "https://www.biorxiv.org/content/10.1101/756122v1.full.pdf",
             "pdf": "https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-020-03697-x.pdf",
             "presentation": "#",
@@ -1855,6 +1875,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1038/s42003-020-01270-z",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
             "presentation": "#",
@@ -1952,6 +1973,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/MERCon50084.2020.9185373",
+            "is_dept_affiliated": true,
             "preprint": "https://arxiv.org/pdf/2006.15304.pdf",
             "pdf": "#",
             "presentation": "https://www.cs.umd.edu/~gihan/projects/fyp/mercon-2020-presentation.pdf",
@@ -2040,6 +2062,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+            "is_dept_affiliated": true,
             "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
             "pdf": "#",
             "presentation": "#",
@@ -2130,6 +2153,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIIS47346.2019.9063269",
+            "is_dept_affiliated": true,
             "preprint": "https://arxiv.org/pdf/1910.04725.pdf",
             "pdf": "#",
             "presentation": "#",
@@ -2240,6 +2264,7 @@
                 }
             ],
             "doi": "https://doi.org/10.3390/electronics9091525",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "https://www.mdpi.com/2079-9292/9/9/1525/pdf?version=1600413580",
             "presentation": "#",
@@ -2318,6 +2343,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "#",
             "presentation": "#",
@@ -2388,6 +2414,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
             "presentation": "#",
@@ -2438,6 +2465,7 @@
                 }
             ],
             "doi": " https://doi.org/10.1109/MERCon50084.2020.9185249",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "https://www.researchgate.net/profile/Imesh-Ekanayake/publication/344319206_Chronic_Kidney_Disease_Prediction_Using_Machine_Learning_Methods/links/5f672571458515b7cf418d5b/Chronic-Kidney-Disease-Prediction-Using-Machine-Learning-Methods.pdf",
             "presentation": "#",
@@ -2518,6 +2546,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIIS53135.2021.9660737",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "#",
             "presentation": "#",
@@ -2608,6 +2637,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "#",
             "presentation": "#",
@@ -2678,6 +2708,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
             "presentation": "#",
@@ -2748,6 +2779,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/ICARC54489.2022.9753930",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "https://ieeexplore.ieee.org/abstract/document/9753930",
             "presentation": "#",
@@ -2838,6 +2870,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "#",
             "presentation": "#",
@@ -2928,6 +2961,7 @@
                 }
             ],
             "doi": "https://doi.org/10.1109/ICIAfS52090.2021.9606126",
+            "is_dept_affiliated": true,
             "preprint": "#",
             "pdf": "#",
             "presentation": "#",
