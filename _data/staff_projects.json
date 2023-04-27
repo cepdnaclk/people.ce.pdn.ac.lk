@@ -1854,6 +1854,19 @@
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Hand-Gesture-Recognition-using-sEMG/"
         },
         {
+            "title": "Microservice Based Edge Computing Architecture",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "page_url": "https://cepdnaclk.github.io/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Microservice-Based-Edge-Computing-Architecture/"
+        },
+        {
             "title": "Mixed Reality based Simulation Platform for Swarm Robotics",
             "category": {
                 "code": "4yp",
@@ -4334,6 +4347,21 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Postgraduate-Student-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "http://api.ce.pdn.ac.lk/projects/v1/co227/E18/Postgraduate-Student-Management-System/"
+        }
+    ],
+    "upuljml@eng.pdn.ac.lk": [
+        {
+            "title": "Microservice Based Edge Computing Architecture",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Microservice-Based-Edge-Computing-Architecture/",
+            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "page_url": "https://cepdnaclk.github.io/e15-4yp-Microservice-Based-Edge-Computing-Architecture",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "http://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Microservice-Based-Edge-Computing-Architecture/"
         }
     ],
     "ziyanm@eng.pdn.ac.lk": [
