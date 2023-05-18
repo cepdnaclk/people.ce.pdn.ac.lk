@@ -4311,6 +4311,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-keyboard-tutoring-system/"
         },
         {
+            "title": "Improving Trajectory Guided Control Prediction for Autonomous Driving",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving/"
+        },
+        {
             "title": "Analysis Tool for Industrial Images",
             "category": {
                 "code": "6sp",
@@ -5353,6 +5366,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-remote-keyboard-tutoring-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-keyboard-tutoring-system/"
+        },
+        {
+            "title": "Improving Trajectory Guided Control Prediction for Autonomous Driving",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving/"
         },
         {
             "title": "Analysis Tool for Industrial Images",
