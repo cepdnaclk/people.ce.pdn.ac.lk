@@ -4130,6 +4130,19 @@
     ],
     "E/17/018": [
         {
+            "title": "Neuromorphic NoC Architecture for SNNs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Neuromorphic-NoC-Architecture-for-SNNs/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Neuromorphic-NoC-Architecture-for-SNNs/"
+        },
+        {
             "title": "E Parking System",
             "category": {
                 "code": "3yp",
@@ -4549,6 +4562,19 @@
         }
     ],
     "E/17/154": [
+        {
+            "title": "Neuromorphic NoC Architecture for SNNs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Neuromorphic-NoC-Architecture-for-SNNs/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Neuromorphic-NoC-Architecture-for-SNNs/"
+        },
         {
             "title": "Landmine Detector",
             "category": {
@@ -4998,6 +5024,21 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-Document-Tag-Generator",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Document-Tag-Generator/"
+        }
+    ],
+    "E/17/286": [
+        {
+            "title": "Neuromorphic NoC Architecture for SNNs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Neuromorphic-NoC-Architecture-for-SNNs/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Neuromorphic-NoC-Architecture-for-SNNs/"
         }
     ],
     "E/17/292": [
