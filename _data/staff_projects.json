@@ -31,6 +31,19 @@
     ],
     "alawatugoda@eng.pdn.ac.lk": [
         {
+            "title": "constructing quantum safe leakage resilient public key encryption scheme",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme/"
+        },
+        {
             "title": "post quantum cryptographic schemes based on plain lattices",
             "category": {
                 "code": "4yp",
@@ -124,6 +137,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Explainable-Machine-Learning-for-Real-World-Resource-Constrained-Problems/"
         }
     ],
+    "amarasinghek@cmu.edu": [
+        {
+            "title": "using machine learning in high stake settings",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/using-machine-learning-in-high-stake-settings/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-using-machine-learning-in-high-stake-settings",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-using-machine-learning-in-high-stake-settings",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/using-machine-learning-in-high-stake-settings/"
+        }
+    ],
     "amilaindika@eng.pdn.ac.lk": [
         {
             "title": "Smart Inventory Management System Group B",
@@ -153,6 +181,19 @@
         }
     ],
     "asithab@eng.pdn.ac.lk": [
+        {
+            "title": "Comparative Analysis of 2nd and 3rd Generation Sequencing",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing/"
+        },
         {
             "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
             "category": {
@@ -243,6 +284,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-Monitoring-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-Monitoring-System/"
+        },
+        {
+            "title": "Greenhouse monitoring and controlling based on IOT sensor data",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data/"
         },
         {
             "title": "apparel industry performance analyser",
@@ -358,6 +412,19 @@
         }
     ],
     "damayanthiherath@eng.pdn.ac.lk": [
+        {
+            "title": "using machine learning in high stake settings",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/using-machine-learning-in-high-stake-settings/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-using-machine-learning-in-high-stake-settings",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-using-machine-learning-in-high-stake-settings",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/using-machine-learning-in-high-stake-settings/"
+        },
         {
             "title": "ABM for Micro Mobility in Sri Lankan Cities",
             "category": {
@@ -1065,6 +1132,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
+        },
+        {
+            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
         },
         {
             "title": "neuromorphic architecture",
@@ -2003,6 +2083,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-payment-system/"
         },
         {
+            "title": "smart pharmaceutical warehousing",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-pharmaceutical-warehousing/",
+            "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-pharmaceutical-warehousing",
+            "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-pharmaceutical-warehousing",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-pharmaceutical-warehousing/"
+        },
+        {
             "title": "smart pill manager",
             "category": {
                 "code": "3yp",
@@ -2014,6 +2107,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-pill-manager",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-pill-manager/"
+        },
+        {
+            "title": "smart vending machine",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-vending-machine/",
+            "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-vending-machine",
+            "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-vending-machine",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-vending-machine/"
         },
         {
             "title": "waiterbot system",
@@ -2282,21 +2388,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/laboratory-environment-monitoring/"
         }
     ],
-    "kamalanath@eng.pdn.ac.lk ": [
-        {
-            "title": "Remotely Controlled CNC Robot",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
-            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
-        }
-    ],
     "kamalanath@eng.pdn.ac.lk  ": [
         {
             "title": "Adaptive People Movement And Action Prediction Using CCTV",
@@ -2487,6 +2578,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
+        },
+        {
+            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
         },
         {
             "title": "neuromorphic architecture",
@@ -3290,6 +3394,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Document-Tag-Generator/"
         },
         {
+            "title": "Greenhouse monitoring and controlling based on IOT sensor data",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data/"
+        },
+        {
             "title": "Research profiles of academic staff",
             "category": {
                 "code": "6sp",
@@ -3497,6 +3614,19 @@
     ],
     "qinyi.li@griffith.edu.au": [
         {
+            "title": "constructing quantum safe leakage resilient public key encryption scheme",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme/"
+        },
+        {
             "title": "post quantum cryptographic schemes based on plain lattices",
             "category": {
                 "code": "4yp",
@@ -3659,6 +3789,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
         },
         {
+            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
+        },
+        {
             "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
             "category": {
                 "code": "4yp",
@@ -3683,6 +3826,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+        },
+        {
+            "title": "constructing quantum safe leakage resilient public key encryption scheme",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/constructing-quantum-safe-leakage-resilient-public-key-encryption-scheme/"
         },
         {
             "title": "neuromorphic architecture",
@@ -4239,6 +4395,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-heart-disease-using-ECG",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-heart-disease-using-ECG/"
+        },
+        {
+            "title": "Visualization of Teacher Student Activities",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Visualization-of-Teacher-Student-Activities/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Visualization-of-Teacher-Student-Activities",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Visualization-of-Teacher-Student-Activities",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Visualization-of-Teacher-Student-Activities/"
         }
     ],
     "sithuminie@eng.pdn.ac.lk": [
@@ -4270,6 +4439,19 @@
         }
     ],
     "suranjisk@gmail.com": [
+        {
+            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
+        },
         {
             "title": "Real Time Emotion Recognition using Electrocardiogram Analysis",
             "category": {
@@ -4312,6 +4494,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/"
+        },
+        {
+            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
         },
         {
             "title": "Brain Computer Interface for controlling virtual objects",
@@ -4382,6 +4577,19 @@
         }
     ],
     "upuljm@eng.pdn.ac.lk": [
+        {
+            "title": "using machine learning in high stake settings",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/using-machine-learning-in-high-stake-settings/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-using-machine-learning-in-high-stake-settings",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-using-machine-learning-in-high-stake-settings",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/using-machine-learning-in-high-stake-settings/"
+        },
         {
             "title": "AI as a Microservice for Smart Edge of Things",
             "category": {
@@ -4768,6 +4976,32 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-payment-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-payment-system/"
+        },
+        {
+            "title": "smart pharmaceutical warehousing",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-pharmaceutical-warehousing/",
+            "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-pharmaceutical-warehousing",
+            "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-pharmaceutical-warehousing",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-pharmaceutical-warehousing/"
+        },
+        {
+            "title": "smart vending machine",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-vending-machine/",
+            "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-vending-machine",
+            "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-vending-machine",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-vending-machine/"
         },
         {
             "title": "waiterbot system",
