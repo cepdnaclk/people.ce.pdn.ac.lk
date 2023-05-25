@@ -1,19 +1,4 @@
 {
-    " isurud@ee.pdn.ac.lk": [
-        {
-            "title": "neuromorphic architecture",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/neuromorphic-architecture/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
-        }
-    ],
     "agbc@pdn.ac.lk": [
         {
             "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
@@ -193,6 +178,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-4yp-Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing/"
+        },
+        {
+            "title": "OCR and Translation from Sinhala to Tamil for Printed Documents",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
         },
         {
             "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
@@ -661,6 +659,19 @@
     ],
     "gihan@umd.edu": [
         {
+            "title": "3D Occupancy Prediction for Autonomous Driving",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/3D-Occupancy-Prediction-for-Autonomous-Driving/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-3D-Occupancy-Prediction-for-Autonomous-Driving",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-3D-Occupancy-Prediction-for-Autonomous-Driving",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/3D-Occupancy-Prediction-for-Autonomous-Driving/"
+        },
+        {
             "title": "open world object detection and discovery",
             "category": {
                 "code": "4yp",
@@ -704,7 +715,7 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
         }
     ],
-    "hasindu2008@gmail.com ": [
+    "hasindu2008@gmail.com": [
         {
             "title": "Accelerating Adaptive Banded Event Alignment Algorithm with OpenCL on FPGA",
             "category": {
@@ -803,6 +814,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Neuromorphic-NoC-Architecture-for-SNNs/"
+        },
+        {
+            "title": "neuromorphic architecture",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/neuromorphic-architecture/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-neuromorphic-architecture",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-neuromorphic-architecture",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/neuromorphic-architecture/"
         }
     ],
     "isurunawinne@ce.pdn.ac.lk": [
@@ -1784,6 +1808,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/E-Parking-System/"
         },
         {
+            "title": "Landmine Detector",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Landmine-Detector/",
+            "repo_url": "https://github.com/cepdnaclk/e17-3yp-Landmine-Detector",
+            "page_url": "https://cepdnaclk.github.io/e17-3yp-Landmine-Detector",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Landmine-Detector/"
+        },
+        {
             "title": "Milk Testing and Collecting System",
             "category": {
                 "code": "3yp",
@@ -1977,6 +2014,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-automatic-fish-tank-control-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/automatic-fish-tank-control-system/"
+        },
+        {
+            "title": "chessMATE",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/chessMATE/",
+            "repo_url": "https://github.com/cepdnaclk/e16-3yp-chessMATE",
+            "page_url": "https://cepdnaclk.github.io/e16-3yp-chessMATE",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/chessMATE/"
         },
         {
             "title": "computerized timetabling and attendance marking system",
@@ -2239,6 +2289,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
         },
         {
+            "title": "RISCV Pipeline CPU Implimentation Group2",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e16/RISCV-Pipeline-CPU-Implimentation-Group2/",
+            "repo_url": "https://github.com/cepdnaclk/e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2",
+            "page_url": "https://cepdnaclk.github.io/e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E16/RISCV-Pipeline-CPU-Implimentation-Group2/"
+        },
+        {
             "title": "RISCV pipeline cpu implementation group04",
             "category": {
                 "code": "co502",
@@ -2317,47 +2380,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E18/RV32IM-pipeline-implementation-group7/"
         }
     ],
-    "isurunawinne@eng.pdn.ac.lk ": [
-        {
-            "title": "Landmine Detector",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Landmine-Detector/",
-            "repo_url": "https://github.com/cepdnaclk/e17-3yp-Landmine-Detector",
-            "page_url": "https://cepdnaclk.github.io/e17-3yp-Landmine-Detector",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Landmine-Detector/"
-        },
-        {
-            "title": "chessMATE",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/chessMATE/",
-            "repo_url": "https://github.com/cepdnaclk/e16-3yp-chessMATE",
-            "page_url": "https://cepdnaclk.github.io/e16-3yp-chessMATE",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/chessMATE/"
-        },
-        {
-            "title": "RISCV Pipeline CPU Implimentation Group2",
-            "category": {
-                "code": "co502",
-                "title": "Advanced Computer Architecture (CO502)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co502/e16/RISCV-Pipeline-CPU-Implimentation-Group2/",
-            "repo_url": "https://github.com/cepdnaclk/e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2",
-            "page_url": "https://cepdnaclk.github.io/e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E16/RISCV-Pipeline-CPU-Implimentation-Group2/"
-        }
-    ],
     "kalaniu@eng.pdn.ac.lk": [
         {
             "title": "Poultry Feed Efficiency Tracking System Group 12",
@@ -2375,21 +2397,6 @@
     ],
     "kamalanath@eng.pdn.ac.lk": [
         {
-            "title": "laboratory environment monitoring",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/laboratory-environment-monitoring/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-laboratory-environment-monitoring",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-laboratory-environment-monitoring",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/laboratory-environment-monitoring/"
-        }
-    ],
-    "kamalanath@eng.pdn.ac.lk  ": [
-        {
             "title": "Adaptive People Movement And Action Prediction Using CCTV",
             "category": {
                 "code": "4yp",
@@ -2401,6 +2408,32 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/"
+        },
+        {
+            "title": "laboratory environment monitoring",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/laboratory-environment-monitoring/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-laboratory-environment-monitoring",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-laboratory-environment-monitoring",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/laboratory-environment-monitoring/"
+        },
+        {
+            "title": "Remotely Controlled CNC Robot",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
+            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         }
     ],
     "kamalanath@pdn.ac.lk": [
@@ -2879,6 +2912,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/E-Parking-System/"
         },
         {
+            "title": "Landmine Detector",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Landmine-Detector/",
+            "repo_url": "https://github.com/cepdnaclk/e17-3yp-Landmine-Detector",
+            "page_url": "https://cepdnaclk.github.io/e17-3yp-Landmine-Detector",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Landmine-Detector/"
+        },
+        {
             "title": "Milk Testing and Collecting System",
             "category": {
                 "code": "3yp",
@@ -3100,6 +3146,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Automated-Notification-System-for-Examinations/"
         },
         {
+            "title": "RISCV Pipeline CPU Implimentation Group2",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e16/RISCV-Pipeline-CPU-Implimentation-Group2/",
+            "repo_url": "https://github.com/cepdnaclk/e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2",
+            "page_url": "https://cepdnaclk.github.io/e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E16/RISCV-Pipeline-CPU-Implimentation-Group2/"
+        },
+        {
             "title": "RISCV pipeline cpu implementation group04",
             "category": {
                 "code": "co502",
@@ -3176,34 +3235,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-co502-RV32IM-pipeline-implementation-group7",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E18/RV32IM-pipeline-implementation-group7/"
-        }
-    ],
-    "mahanamaw@eng.pdn.ac.lk ": [
-        {
-            "title": "Landmine Detector",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Landmine-Detector/",
-            "repo_url": "https://github.com/cepdnaclk/e17-3yp-Landmine-Detector",
-            "page_url": "https://cepdnaclk.github.io/e17-3yp-Landmine-Detector",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Landmine-Detector/"
-        },
-        {
-            "title": "RISCV Pipeline CPU Implimentation Group2",
-            "category": {
-                "code": "co502",
-                "title": "Advanced Computer Architecture (CO502)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co502/e16/RISCV-Pipeline-CPU-Implimentation-Group2/",
-            "repo_url": "https://github.com/cepdnaclk/e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2",
-            "page_url": "https://cepdnaclk.github.io/e16-co502-RISCV-Pipeline-CPU-Implimentation-Group2",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E16/RISCV-Pipeline-CPU-Implimentation-Group2/"
         }
     ],
     "nadeeshaa@eng.pdn.ac.lk": [
@@ -3554,7 +3585,7 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-Monitoring-System/"
         }
     ],
-    "prabhathg@sci.pdn.ac.lk ": [
+    "prabhathg@sci.pdn.ac.lk": [
         {
             "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
             "category": {
@@ -3685,6 +3716,19 @@
     ],
     "roshanr@eng.pdn.ac.lk": [
         {
+            "title": "3D Occupancy Prediction for Autonomous Driving",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/3D-Occupancy-Prediction-for-Autonomous-Driving/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-3D-Occupancy-Prediction-for-Autonomous-Driving",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-3D-Occupancy-Prediction-for-Autonomous-Driving",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/3D-Occupancy-Prediction-for-Autonomous-Driving/"
+        },
+        {
             "title": "Acceleration of deep neural network based nanopore super accuracy basecalling",
             "category": {
                 "code": "4yp",
@@ -3735,6 +3779,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Neuromorphic-NoC-Architecture-for-SNNs/"
+        },
+        {
+            "title": "OCR and Translation from Sinhala to Tamil for Printed Documents",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
         },
         {
             "title": "develop a programming and compiler toolchain for multi agent systems",
@@ -3891,6 +3948,19 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
+        },
+        {
+            "title": "Accelerating Adaptive Banded Event Alignment Algorithm with OpenCL on FPGA",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA/",
+            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA",
+            "page_url": "https://cepdnaclk.github.io/e15-4yp-Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA/"
         },
         {
             "title": "Brain Computer Interface for controlling virtual objects",
@@ -4268,21 +4338,6 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-Oral-Cavity-Region-Detection",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Oral-Cavity-Region-Detection/"
-        }
-    ],
-    "roshanr@eng.pdn.ac.lk ": [
-        {
-            "title": "Accelerating Adaptive Banded Event Alignment Algorithm with OpenCL on FPGA",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA/"
         }
     ],
     "sachith.seneviratne@unimelb.edu.au": [
@@ -4870,6 +4925,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/automatic-fish-tank-control-system/"
         },
         {
+            "title": "chessMATE",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/chessMATE/",
+            "repo_url": "https://github.com/cepdnaclk/e16-3yp-chessMATE",
+            "page_url": "https://cepdnaclk.github.io/e16-3yp-chessMATE",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/chessMATE/"
+        },
+        {
             "title": "smart door lock",
             "category": {
                 "code": "3yp",
@@ -4907,21 +4975,6 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-pill-manager",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-pill-manager/"
-        }
-    ],
-    "ziyanm@eng.pdn.ac.lk ": [
-        {
-            "title": "chessMATE",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/chessMATE/",
-            "repo_url": "https://github.com/cepdnaclk/e16-3yp-chessMATE",
-            "page_url": "https://cepdnaclk.github.io/e16-3yp-chessMATE",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/chessMATE/"
         }
     ],
     "ziyanm@gmail.com": [

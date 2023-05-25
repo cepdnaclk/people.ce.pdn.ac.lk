@@ -1389,6 +1389,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/"
         },
         {
+            "title": "Remotely Controlled CNC Robot",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
+            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
+        },
+        {
             "title": "Pera Knowledge Portal",
             "category": {
                 "code": "co227",
@@ -1525,6 +1538,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/"
+        },
+        {
+            "title": "Remotely Controlled CNC Robot",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
+            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         },
         {
             "title": "Pera Knowledge Portal",
@@ -2365,6 +2391,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/"
+        },
+        {
+            "title": "Remotely Controlled CNC Robot",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
+            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         },
         {
             "title": "Pera Knowledge Portal",
@@ -4602,6 +4641,19 @@
     ],
     "E/17/122": [
         {
+            "title": "OCR and Translation from Sinhala to Tamil for Printed Documents",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
+        },
+        {
             "title": "Smart Pour",
             "category": {
                 "code": "3yp",
@@ -4685,6 +4737,19 @@
         }
     ],
     "E/17/153": [
+        {
+            "title": "OCR and Translation from Sinhala to Tamil for Printed Documents",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
+        },
         {
             "title": "Smart Pour",
             "category": {
@@ -5365,6 +5430,19 @@
     ],
     "E/17/294": [
         {
+            "title": "OCR and Translation from Sinhala to Tamil for Printed Documents",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
+        },
+        {
             "title": "Smart Pour",
             "category": {
                 "code": "3yp",
@@ -5532,6 +5610,19 @@
         }
     ],
     "E/17/331": [
+        {
+            "title": "3D Occupancy Prediction for Autonomous Driving",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/3D-Occupancy-Prediction-for-Autonomous-Driving/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-3D-Occupancy-Prediction-for-Autonomous-Driving",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-3D-Occupancy-Prediction-for-Autonomous-Driving",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/3D-Occupancy-Prediction-for-Autonomous-Driving/"
+        },
         {
             "title": "remote keyboard tutoring system",
             "category": {
@@ -5739,6 +5830,19 @@
         }
     ],
     "E/17/369": [
+        {
+            "title": "3D Occupancy Prediction for Autonomous Driving",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/3D-Occupancy-Prediction-for-Autonomous-Driving/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-3D-Occupancy-Prediction-for-Autonomous-Driving",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-3D-Occupancy-Prediction-for-Autonomous-Driving",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/3D-Occupancy-Prediction-for-Autonomous-Driving/"
+        },
         {
             "title": "remote proctoring system",
             "category": {
