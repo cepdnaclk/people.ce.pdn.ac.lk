@@ -37,15 +37,19 @@ try:
 
         for s in staff_projects:
             if s not in grouped_proj:
-                grouped_proj[s] = {}
+                grouped_proj[s] = { 'count': 0, 'projects': {} }
 
             for p in staff_projects[s]:
                 batch = p['project_url'].split('/')[4]
+                cat = p['project_url'].split('/')[3]
                 
-                if batch in grouped_proj[s]:
-                    grouped_proj[s][batch].append(p)
-                else:
-                    grouped_proj[s][batch] = [p]
+                if cat == "4yp":
+                    grouped_proj[s]['count'] = grouped_proj[s]['count'] + 1 
+
+                    if batch in grouped_proj[s]['projects']:
+                        grouped_proj[s]['projects'][batch].append(p)
+                    else:
+                        grouped_proj[s]['projects'][batch] = [p]
                     
         filename = "../_data/staff_projects.json"
         os.makedirs(os.path.dirname(filename), exist_ok=True)
