@@ -167,6 +167,58 @@
     ],
     "asithab@eng.pdn.ac.lk": [
         {
+            "title": "Analysis and visualization of complex software system traces",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Analysis-and-visualization-of-complex-software-system-traces/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Analysis-and-visualization-of-complex-software-system-traces",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Analysis-and-visualization-of-complex-software-system-traces",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Analysis-and-visualization-of-complex-software-system-traces/"
+        },
+        {
+            "title": "Greenhouse Monitoring System",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Greenhouse-Monitoring-System/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Greenhouse-Monitoring-System",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-Monitoring-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-Monitoring-System/"
+        },
+        {
+            "title": "Greenhouse monitoring and controlling based on IOT sensor data",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data/"
+        },
+        {
+            "title": "apparel industry performance analyser",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/apparel-industry-performance-analyser/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-apparel-industry-performance-analyser",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-apparel-industry-performance-analyser",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/apparel-industry-performance-analyser/"
+        },
+        {
             "title": "Comparative Analysis of 2nd and 3rd Generation Sequencing",
             "category": {
                 "code": "4yp",
@@ -271,58 +323,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/cricket-analysis/"
         },
         {
-            "title": "Greenhouse Monitoring System",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Greenhouse-Monitoring-System/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Greenhouse-Monitoring-System",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-Monitoring-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-Monitoring-System/"
-        },
-        {
-            "title": "Greenhouse monitoring and controlling based on IOT sensor data",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data/"
-        },
-        {
-            "title": "apparel industry performance analyser",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/apparel-industry-performance-analyser/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-apparel-industry-performance-analyser",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-apparel-industry-performance-analyser",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/apparel-industry-performance-analyser/"
-        },
-        {
-            "title": "Analysis and visualization of complex software system traces",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Analysis-and-visualization-of-complex-software-system-traces/",
-            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Analysis-and-visualization-of-complex-software-system-traces",
-            "page_url": "https://cepdnaclk.github.io/e18-6sp-Analysis-and-visualization-of-complex-software-system-traces",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Analysis-and-visualization-of-complex-software-system-traces/"
-        },
-        {
             "title": "Logging Microservice for IoT based Smart Agriculture Project",
             "category": {
                 "code": "co227",
@@ -338,19 +338,6 @@
     ],
     "asithab@pdn.ac.lk": [
         {
-            "title": "automatic fish tank control system",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/automatic-fish-tank-control-system/",
-            "repo_url": "https://github.com/cepdnaclk/e16-3yp-automatic-fish-tank-control-system",
-            "page_url": "https://cepdnaclk.github.io/e16-3yp-automatic-fish-tank-control-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/automatic-fish-tank-control-system/"
-        },
-        {
             "title": "Skim Sequencing Analysis",
             "category": {
                 "code": "6sp",
@@ -362,6 +349,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-Skim-Sequencing-Analysis",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Skim-Sequencing-Analysis/"
+        },
+        {
+            "title": "automatic fish tank control system",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/automatic-fish-tank-control-system/",
+            "repo_url": "https://github.com/cepdnaclk/e16-3yp-automatic-fish-tank-control-system",
+            "page_url": "https://cepdnaclk.github.io/e16-3yp-automatic-fish-tank-control-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/automatic-fish-tank-control-system/"
         }
     ],
     "cds@eng.pdn.ac.lk": [
@@ -410,6 +410,45 @@
         }
     ],
     "damayanthiherath@eng.pdn.ac.lk": [
+        {
+            "title": "Host Pathogen Interaction",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Host-Pathogen-Interaction/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Host-Pathogen-Interaction",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Host-Pathogen-Interaction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Host-Pathogen-Interaction/"
+        },
+        {
+            "title": "NGS Data AnalysingToolkit",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/NGS-Data-AnalysingToolkit/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-NGS-Data-AnalysingToolkit",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-NGS-Data-AnalysingToolkit",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/NGS-Data-AnalysingToolkit/"
+        },
+        {
+            "title": "Investigating Onchip Sensor Based RPA Attack Vulnerabilities of Light Weight Ciphers",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/"
+        },
         {
             "title": "using machine learning in high stake settings",
             "category": {
@@ -500,32 +539,21 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-Revealing-miRNA-Biomarkers-for-Alzheimer-s-Disease-using-NGS",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Revealing-miRNA-Biomarkers-for-Alzheimer-s-Disease-using-NGS/"
-        },
+        }
+    ],
+    "darshana.jayasinghe@gmail.com": [
         {
-            "title": "Host Pathogen Interaction",
+            "title": "Investigating Onchip Sensor Based RPA Attack Vulnerabilities of Light Weight Ciphers",
             "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Host-Pathogen-Interaction/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Host-Pathogen-Interaction",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-Host-Pathogen-Interaction",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Host-Pathogen-Interaction/"
-        },
-        {
-            "title": "NGS Data AnalysingToolkit",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/NGS-Data-AnalysingToolkit/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-NGS-Data-AnalysingToolkit",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-NGS-Data-AnalysingToolkit",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/NGS-Data-AnalysingToolkit/"
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/"
         }
     ],
     "dhammika@eng.pdn.ac.lk": [
@@ -557,6 +585,19 @@
         }
     ],
     "dhanulb@dental.pdn.ac.lk": [
+        {
+            "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+        },
         {
             "title": "Virtual Patient Simulator for Skill Training in Dentistry",
             "category": {
@@ -643,6 +684,19 @@
         }
     ],
     "ggeesara@gmail.com": [
+        {
+            "title": "3D Occupancy Prediction for Autonomous Driving",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/3D-Occupancy-Prediction-for-Autonomous-Driving/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-3D-Occupancy-Prediction-for-Autonomous-Driving",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-3D-Occupancy-Prediction-for-Autonomous-Driving",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/3D-Occupancy-Prediction-for-Autonomous-Driving/"
+        },
         {
             "title": "Improving Trajectory Guided Control Prediction for Autonomous Driving",
             "category": {
@@ -1079,6 +1133,32 @@
         }
     ],
     "isurunawinne@eng.pdn.ac.lk": [
+        {
+            "title": "Analysis Tool for Industrial Images",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Analysis-Tool-for-Industrial-Images/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Analysis-Tool-for-Industrial-Images",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Analysis-Tool-for-Industrial-Images",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Analysis-Tool-for-Industrial-Images/"
+        },
+        {
+            "title": "Oral Cavity Region Detection",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Oral-Cavity-Region-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Oral-Cavity-Region-Detection",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Oral-Cavity-Region-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Oral-Cavity-Region-Detection/"
+        },
         {
             "title": "Comprehensive ECG analysis with Deep Learning on GPU accelerators",
             "category": {
@@ -2185,32 +2265,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/waiterbot-system/"
         },
         {
-            "title": "Analysis Tool for Industrial Images",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Analysis-Tool-for-Industrial-Images/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Analysis-Tool-for-Industrial-Images",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-Analysis-Tool-for-Industrial-Images",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Analysis-Tool-for-Industrial-Images/"
-        },
-        {
-            "title": "Oral Cavity Region Detection",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Oral-Cavity-Region-Detection/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Oral-Cavity-Region-Detection",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-Oral-Cavity-Region-Detection",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Oral-Cavity-Region-Detection/"
-        },
-        {
             "title": "Image Data Handling System for Research Group A",
             "category": {
                 "code": "co227",
@@ -2365,6 +2419,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co502-RV32IM-pipeline-implementation-group03",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E18/RV32IM-pipeline-implementation-group03/"
+        },
+        {
+            "title": "RV32IM pipeline implementation group05",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e18/RV32IM-pipeline-implementation-group05/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co502-RV32IM-pipeline-implementation-group05",
+            "page_url": "https://cepdnaclk.github.io/e18-co502-RV32IM-pipeline-implementation-group05",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E18/RV32IM-pipeline-implementation-group05/"
         },
         {
             "title": "RV32IM pipeline implementation group7",
@@ -2546,6 +2613,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators/"
+        },
+        {
+            "title": "Investigating Onchip Sensor Based RPA Attack Vulnerabilities of Light Weight Ciphers",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/"
         },
         {
             "title": "Neuromorphic NoC Architecture for SNNs",
@@ -3224,6 +3304,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E18/RV32IM-pipeline-implementation-group03/"
         },
         {
+            "title": "RV32IM pipeline implementation group05",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e18/RV32IM-pipeline-implementation-group05/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co502-RV32IM-pipeline-implementation-group05",
+            "page_url": "https://cepdnaclk.github.io/e18-co502-RV32IM-pipeline-implementation-group05",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E18/RV32IM-pipeline-implementation-group05/"
+        },
+        {
             "title": "RV32IM pipeline implementation group7",
             "category": {
                 "code": "co502",
@@ -3239,19 +3332,6 @@
     ],
     "nadeeshaa@eng.pdn.ac.lk": [
         {
-            "title": "Food Recommendation System Using Machine Learning for Diabetic Patients",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/"
-        },
-        {
             "title": "ML for Analyzing Egg Hatching",
             "category": {
                 "code": "6sp",
@@ -3263,6 +3343,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-for-Analyzing-Egg-Hatching",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-for-Analyzing-Egg-Hatching/"
+        },
+        {
+            "title": "Food Recommendation System Using Machine Learning for Diabetic Patients",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/"
         },
         {
             "title": "Poultry Feed Efficiency Tracking System Group 12",
@@ -3319,45 +3412,6 @@
     ],
     "namal@eng.pdn.ac.lk": [
         {
-            "title": "Enhancement of Efficiency of Vehicular Communication using SDN",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Enhancement-of-Efficiency-of-Vehicular-Communication-using-SDN/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Enhancement-of-Efficiency-of-Vehicular-Communication-using-SDN",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Enhancement-of-Efficiency-of-Vehicular-Communication-using-SDN",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Enhancement-of-Efficiency-of-Vehicular-Communication-using-SDN/"
-        },
-        {
-            "title": "Machine Learning based Atmospheric Duct Interference cancellation in TD LTE networks",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks/"
-        },
-        {
-            "title": "automatic fish tank control system",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/automatic-fish-tank-control-system/",
-            "repo_url": "https://github.com/cepdnaclk/e16-3yp-automatic-fish-tank-control-system",
-            "page_url": "https://cepdnaclk.github.io/e16-3yp-automatic-fish-tank-control-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/automatic-fish-tank-control-system/"
-        },
-        {
             "title": "ContactTracingApp",
             "category": {
                 "code": "6sp",
@@ -3395,22 +3449,48 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-road-accident-analyzer",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/road-accident-analyzer/"
-        }
-    ],
-    "nuwanjaliyagoda@eng.pdn.ac.lk": [
+        },
         {
-            "title": "swarm intelligence programming framework",
+            "title": "Enhancement of Efficiency of Vehicular Communication using SDN",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/swarm-intelligence-programming-framework/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-swarm-intelligence-programming-framework",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Enhancement-of-Efficiency-of-Vehicular-Communication-using-SDN/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Enhancement-of-Efficiency-of-Vehicular-Communication-using-SDN",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Enhancement-of-Efficiency-of-Vehicular-Communication-using-SDN",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Enhancement-of-Efficiency-of-Vehicular-Communication-using-SDN/"
         },
+        {
+            "title": "Machine Learning based Atmospheric Duct Interference cancellation in TD LTE networks",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Machine-Learning-based-Atmospheric-Duct-Interference-cancellation-in-TD-LTE-networks/"
+        },
+        {
+            "title": "automatic fish tank control system",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/automatic-fish-tank-control-system/",
+            "repo_url": "https://github.com/cepdnaclk/e16-3yp-automatic-fish-tank-control-system",
+            "page_url": "https://cepdnaclk.github.io/e16-3yp-automatic-fish-tank-control-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/automatic-fish-tank-control-system/"
+        }
+    ],
+    "nuwanjaliyagoda@eng.pdn.ac.lk": [
         {
             "title": "Document Tag Generator",
             "category": {
@@ -3449,6 +3529,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-Research-profiles-of-academic-staff",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Research-profiles-of-academic-staff/"
+        },
+        {
+            "title": "swarm intelligence programming framework",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/swarm-intelligence-programming-framework/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-swarm-intelligence-programming-framework",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
         },
         {
             "title": "Augmented Reality Guidance System",
@@ -3716,6 +3809,32 @@
     ],
     "roshanr@eng.pdn.ac.lk": [
         {
+            "title": "Analysis Tool for Industrial Images",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Analysis-Tool-for-Industrial-Images/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Analysis-Tool-for-Industrial-Images",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Analysis-Tool-for-Industrial-Images",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Analysis-Tool-for-Industrial-Images/"
+        },
+        {
+            "title": "Oral Cavity Region Detection",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Oral-Cavity-Region-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Oral-Cavity-Region-Detection",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Oral-Cavity-Region-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Oral-Cavity-Region-Detection/"
+        },
+        {
             "title": "3D Occupancy Prediction for Autonomous Driving",
             "category": {
                 "code": "4yp",
@@ -3792,6 +3911,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
+        },
+        {
+            "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
         },
         {
             "title": "develop a programming and compiler toolchain for multi agent systems",
@@ -4312,32 +4444,6 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-obstacle-bots-for-swarm-robots",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/obstacle-bots-for-swarm-robots/"
-        },
-        {
-            "title": "Analysis Tool for Industrial Images",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Analysis-Tool-for-Industrial-Images/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Analysis-Tool-for-Industrial-Images",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-Analysis-Tool-for-Industrial-Images",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Analysis-Tool-for-Industrial-Images/"
-        },
-        {
-            "title": "Oral Cavity Region Detection",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Oral-Cavity-Region-Detection/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Oral-Cavity-Region-Detection",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-Oral-Cavity-Region-Detection",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Oral-Cavity-Region-Detection/"
         }
     ],
     "sachith.seneviratne@unimelb.edu.au": [
@@ -4387,45 +4493,6 @@
     ],
     "sampath@eng.pdn.ac.lk": [
         {
-            "title": "Food Recommendation System Using Machine Learning for Diabetic Patients",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/"
-        },
-        {
-            "title": "cricket analysis",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/cricket-analysis/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-cricket-analysis",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-cricket-analysis",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/cricket-analysis/"
-        },
-        {
-            "title": "sports action recognition",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/sports-action-recognition/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-sports-action-recognition",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-sports-action-recognition",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/sports-action-recognition/"
-        },
-        {
             "title": "History of Music",
             "category": {
                 "code": "6sp",
@@ -4463,6 +4530,45 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-Visualization-of-Teacher-Student-Activities",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Visualization-of-Teacher-Student-Activities/"
+        },
+        {
+            "title": "Food Recommendation System Using Machine Learning for Diabetic Patients",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/",
+            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
+            "page_url": "https://cepdnaclk.github.io/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/"
+        },
+        {
+            "title": "cricket analysis",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/cricket-analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e15-4yp-cricket-analysis",
+            "page_url": "https://cepdnaclk.github.io/e15-4yp-cricket-analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/cricket-analysis/"
+        },
+        {
+            "title": "sports action recognition",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/sports-action-recognition/",
+            "repo_url": "https://github.com/cepdnaclk/e15-4yp-sports-action-recognition",
+            "page_url": "https://cepdnaclk.github.io/e15-4yp-sports-action-recognition",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/sports-action-recognition/"
         }
     ],
     "sithuminie@eng.pdn.ac.lk": [
@@ -4631,7 +4737,100 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Logging-Microservice-for-IoT-based-Smart-Agriculture-Project/"
         }
     ],
+    "titus@eng.pdn.ac.lk": [
+        {
+            "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+        }
+    ],
     "upuljm@eng.pdn.ac.lk": [
+        {
+            "title": "Realtime Flood Forecast System",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Realtime-Flood-Forecast-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Realtime-Flood-Forecast-System",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Realtime-Flood-Forecast-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Realtime-Flood-Forecast-System/"
+        },
+        {
+            "title": "ContactTracingApp",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/ContactTracingApp/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-ContactTracingApp",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-ContactTracingApp",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/ContactTracingApp/"
+        },
+        {
+            "title": "Flood Forecasting System",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Flood-Forecasting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Flood-Forecasting-System",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Flood-Forecasting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Flood-Forecasting-System/"
+        },
+        {
+            "title": "Prediction of risks associated with mass corona vaccination",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Prediction-of-risks-associated-with-mass-corona-vaccination/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
+        },
+        {
+            "title": "road accident analyzer",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/road-accident-analyzer/",
+            "repo_url": "https://github.com/cepdnaclk/e17-6sp-road-accident-analyzer",
+            "page_url": "https://cepdnaclk.github.io/e17-6sp-road-accident-analyzer",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/road-accident-analyzer/"
+        },
+        {
+            "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+        },
         {
             "title": "using machine learning in high stake settings",
             "category": {
@@ -4800,58 +4999,6 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-waiterbot-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/waiterbot-system/"
-        },
-        {
-            "title": "ContactTracingApp",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/ContactTracingApp/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-ContactTracingApp",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-ContactTracingApp",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/ContactTracingApp/"
-        },
-        {
-            "title": "Flood Forecasting System",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Flood-Forecasting-System/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Flood-Forecasting-System",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-Flood-Forecasting-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Flood-Forecasting-System/"
-        },
-        {
-            "title": "Prediction of risks associated with mass corona vaccination",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Prediction-of-risks-associated-with-mass-corona-vaccination/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
-        },
-        {
-            "title": "road accident analyzer",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/road-accident-analyzer/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-road-accident-analyzer",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-road-accident-analyzer",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/road-accident-analyzer/"
         },
         {
             "title": "Postgraduate Student Management System",
