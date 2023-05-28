@@ -59,7 +59,7 @@ class Tests(unittest.TestCase):
                                 continue
 
                             # check for http
-                            if "http" not in splitted[1] and "://" not in splitted[1]:
+                            if "http" not in splitted[1] or "://" not in splitted[1]:
                                 self.fail(
                                     "URL in " + filePath + " does not contain http"
                                 )
