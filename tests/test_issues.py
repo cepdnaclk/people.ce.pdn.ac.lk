@@ -28,14 +28,14 @@ class Tests(unittest.TestCase):
         driver = b_webdriver_functions.getURL("students/e17/")
         if (
             "External Students - Department of Mechanical Engineering"
-        not in driver.page_source
+            not in driver.page_source
         ):
             self.fail("E17 doesnt have mechanical students")
 
     def test_All_students_external_urls_have_http_or_https(self):
         # the links doesnt work if they dont have the http prefix
-        
-        studentsFolder = "pages/students"
+
+        studentsFolder = "../pages/students"
         for eachFolder in os.listdir(studentsFolder):
             # e18 e19 etc
 
