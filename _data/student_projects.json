@@ -4749,6 +4749,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-Monitoring-System/"
         },
         {
+            "title": "Large Language Models in Education",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Large-Language-Models-in-Education/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Large-Language-Models-in-Education",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
+        },
+        {
             "title": "smart garbage collection",
             "category": {
                 "code": "3yp",
@@ -5049,6 +5062,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-Monitoring-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-Monitoring-System/"
+        },
+        {
+            "title": "Large Language Models in Education",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Large-Language-Models-in-Education/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Large-Language-Models-in-Education",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
         },
         {
             "title": "Landmine Detector",
@@ -5575,6 +5601,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-Monitoring-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-Monitoring-System/"
+        },
+        {
+            "title": "Large Language Models in Education",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Large-Language-Models-in-Education/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Large-Language-Models-in-Education",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
         },
         {
             "title": "Landmine Detector",
@@ -6131,6 +6170,19 @@
     ],
     "E/18/013": [
         {
+            "title": "Stock Mentor",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Stock-Mentor/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Stock-Mentor",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Stock-Mentor",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Stock-Mentor/"
+        },
+        {
             "title": "Corals Protector",
             "category": {
                 "code": "3yp",
@@ -6142,6 +6194,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Corals-Protector",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Corals-Protector/"
+        },
+        {
+            "title": "Patient monitoring system",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Patient-monitoring-system/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Patient-monitoring-system",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Patient-monitoring-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Patient-monitoring-system/"
         },
         {
             "title": "SnaT Meal Tracking App Group A",
@@ -6312,6 +6377,19 @@
     ],
     "E/18/058": [
         {
+            "title": "Stock Mentor",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Stock-Mentor/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Stock-Mentor",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Stock-Mentor",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Stock-Mentor/"
+        },
+        {
             "title": "Road Traffic Ecosystem",
             "category": {
                 "code": "3yp",
@@ -6323,6 +6401,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Road-Traffic-Ecosystem",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Traffic-Ecosystem/"
+        },
+        {
+            "title": "Patient monitoring system",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Patient-monitoring-system/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Patient-monitoring-system",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Patient-monitoring-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Patient-monitoring-system/"
         },
         {
             "title": "Smart Inventory Management System Group C",
@@ -6532,6 +6623,19 @@
     ],
     "E/18/115": [
         {
+            "title": "Stock Mentor",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Stock-Mentor/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Stock-Mentor",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Stock-Mentor",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Stock-Mentor/"
+        },
+        {
             "title": "Corals Protector",
             "category": {
                 "code": "3yp",
@@ -6543,6 +6647,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Corals-Protector",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Corals-Protector/"
+        },
+        {
+            "title": "Patient monitoring system",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Patient-monitoring-system/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Patient-monitoring-system",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Patient-monitoring-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Patient-monitoring-system/"
         },
         {
             "title": "Smart Inventory Management System Group C",

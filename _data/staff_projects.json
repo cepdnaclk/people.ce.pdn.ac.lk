@@ -411,6 +411,19 @@
     ],
     "damayanthiherath@eng.pdn.ac.lk": [
         {
+            "title": "Stock Mentor",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Stock-Mentor/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Stock-Mentor",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Stock-Mentor",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Stock-Mentor/"
+        },
+        {
             "title": "Host Pathogen Interaction",
             "category": {
                 "code": "6sp",
@@ -448,6 +461,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/"
+        },
+        {
+            "title": "Large Language Models in Education",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Large-Language-Models-in-Education/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Large-Language-Models-in-Education",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
         },
         {
             "title": "using machine learning in high stake settings",
@@ -737,6 +763,21 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
+        }
+    ],
+    "gshasiri@gmail.com": [
+        {
+            "title": "Large Language Models in Education",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Large-Language-Models-in-Education/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Large-Language-Models-in-Education",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
         }
     ],
     "h.gamaarachchi@garvan.org.au": [
@@ -1171,6 +1212,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators/"
+        },
+        {
+            "title": "Large Language Models in Education",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Large-Language-Models-in-Education/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Large-Language-Models-in-Education",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
         },
         {
             "title": "Neuromorphic NoC Architecture for SNNs",
@@ -2475,6 +2529,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/"
+        },
+        {
+            "title": "Patient monitoring system",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Patient-monitoring-system/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Patient-monitoring-system",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Patient-monitoring-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Patient-monitoring-system/"
         },
         {
             "title": "laboratory environment monitoring",
@@ -3885,6 +3952,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving/"
+        },
+        {
+            "title": "Large Language Models in Education",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Large-Language-Models-in-Education/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Large-Language-Models-in-Education",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
         },
         {
             "title": "Neuromorphic NoC Architecture for SNNs",
