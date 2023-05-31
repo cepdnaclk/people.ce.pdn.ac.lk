@@ -1,0 +1,53 @@
+<div class="tab-pane fade p-4" id="projects-tab" role="tabpanel" aria-labelledby="projects">
+    <h5>Research projects supervised by {{ page.name_below_image }}:</h5>
+    <div class="row">
+        <!-- Only include the Final Year Research Projects -->
+        <div class="accordion accordion-flush" id="accordionProjects">
+            {%- for batch in site.data.staff_projects[include.email]['projects'] -%}
+            {%- assign year = year | plus:1 -%}
+
+            <!-- This will show the first 3 years expanded and remainings collapsed by default -->
+            {%- if year <=3 -%} {%- assign expanded="show" -%} {%- else -%} {%- assign expanded="" -%} {%- endif -%}
+                <div class="accordion-item">
+                <h5 class="accordion-header" id="pub-header-{{ batch[0] }}">
+                    <button class="accordion-button collapsed btn-sm" style="padding: 6px 16px" type="button"
+                        data-bs-toggle="collapse" data-bs-target="#collapse-{{ batch[0] }}"
+                        aria-expanded="{{ expanded }}" aria-controls="collapse-{{ batch[0] }}">
+                        {{ batch[0] | upcase }}
+
+                        {%- assign batch_proj_count = batch[1] | size -%}
+                        {%- if batch_proj_count > 1-%}
+                        <span class="ms-1">({{batch_proj_count}} projects)</span>
+                        {%- else -%}
+                        <span class="ms-1">(1 project)</span>
+                        {%- endif -%}
+
+                    </button>
+                </h5>
+                <div id="collapse-{{ batch[0] }}" class="accordion-collapse collapse {{ expanded }}"
+                    aria-labelledby="pub-header-{{ batch[0] }}">
+                    <div class="accordion-body">
+                        <div class="row">
+                            {%- for p in batch[1] -%}
+                            {%- include projectCard_min.html title=p.title thumb=p.thumbnail_url
+                            url=p.project_url -%}
+                            {%- endfor -%}
+                        </div>
+                    </div>
+                </div>
+        </div>
+        {%- endfor -%}
+
+    </div>
+
+    <hr>
+    <p class="text-muted small">
+        Please note that here only contain the <i>'Projects'</i> which were
+        submitted to the
+        <a href="https://projects.ce.pdn.ac.lk/4yp/" target="_blank">projects.ce.pdn.ac.lk</a>
+        as <i>Final Year Research
+            Projects</i>. The actual list of projects supervised by <i>{{
+            page.name_below_image }}</i> may be longer than this.
+    </p>
+</div>
+</div>
