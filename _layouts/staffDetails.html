@@ -76,8 +76,6 @@ research_interests: [ 'Computer Networking', 'Wireless Networking', 'IoT', 'Arti
                             <h4>{{page.name_below_image}}</h4>
                             <p class="text-secondary mb-1" style="text-align: center;">{{page.text_below_name}}</p>
                             <!-- <p class="text-muted font-size-sm">{{page.location}}</p> -->
-                            <!-- <button class="btn btn-primary">Follow</button>
-                            <button class="btn btn-outline-primary">Message</button> -->
                         </div>
                     </div>
 
@@ -199,18 +197,7 @@ research_interests: [ 'Computer Networking', 'Wireless Networking', 'IoT', 'Arti
                         </div>
 
                         <!-- Supervised projects -->
-                        {% if project_count > 0 %}
-                        {%- assign p_count = 0 -%}
-
-                        <div class="tab-pane fade p-4" id="projects-tab" role="tabpanel" aria-labelledby="projects">
-                            <h5>Research projects supervised by {{ page.name_below_image }}:</h5>
-                            <div class="row">
-                                <!-- Only include the Final Year Research Projects -->
-                                {%- include tab_staff_research.html email=page.email -%}
-                            </div>
-                        </div>
-
-                        {%- endif -%}
+                        {%- include tab_staff_research.html email=page.email -%}
 
                         <!-- Publication and Grants -->
                         {%- include tab_staff_publications.html email=page.email -%}
