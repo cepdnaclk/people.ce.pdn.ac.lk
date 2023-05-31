@@ -287,9 +287,35 @@
         }
     },
     "damayanthiherath@eng.pdn.ac.lk": {
-        "count": 7,
+        "count": 9,
         "projects": {
             "e17": [
+                {
+                    "title": "Investigating Onchip Sensor Based RPA Attack Vulnerabilities of Light Weight Ciphers",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/"
+                },
+                {
+                    "title": "Large Language Models in Education",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Large-Language-Models-in-Education/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Large-Language-Models-in-Education",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
+                },
                 {
                     "title": "using machine learning in high stake settings",
                     "category": {
@@ -388,13 +414,48 @@
             ]
         }
     },
+    "darshana.jayasinghe@gmail.com": {
+        "count": 1,
+        "projects": {
+            "e17": [
+                {
+                    "title": "Investigating Onchip Sensor Based RPA Attack Vulnerabilities of Light Weight Ciphers",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/"
+                }
+            ]
+        }
+    },
     "dhammika@eng.pdn.ac.lk": {
         "count": 0,
         "projects": {}
     },
     "dhanulb@dental.pdn.ac.lk": {
-        "count": 1,
+        "count": 2,
         "projects": {
+            "e17": [
+                {
+                    "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+                }
+            ],
             "e16": [
                 {
                     "title": "Virtual Patient Simulator for Skill Training in Dentistry",
@@ -473,9 +534,22 @@
         }
     },
     "ggeesara@gmail.com": {
-        "count": 1,
+        "count": 2,
         "projects": {
             "e17": [
+                {
+                    "title": "3D Occupancy Prediction for Autonomous Driving",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/3D-Occupancy-Prediction-for-Autonomous-Driving/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-3D-Occupancy-Prediction-for-Autonomous-Driving",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-3D-Occupancy-Prediction-for-Autonomous-Driving",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/3D-Occupancy-Prediction-for-Autonomous-Driving/"
+                },
                 {
                     "title": "Improving Trajectory Guided Control Prediction for Autonomous Driving",
                     "category": {
@@ -523,6 +597,26 @@
                     "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
+                }
+            ]
+        }
+    },
+    "gshasiri@gmail.com": {
+        "count": 1,
+        "projects": {
+            "e17": [
+                {
+                    "title": "Large Language Models in Education",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Large-Language-Models-in-Education/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Large-Language-Models-in-Education",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
                 }
             ]
         }
@@ -583,6 +677,26 @@
                     "page_url": "https://cepdnaclk.github.io/e15-4yp-Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Accelerating-Adaptive-Banded-Event-Alignment-Algorithm-with-OpenCL-on-FPGA/"
+                }
+            ]
+        }
+    },
+    "hasindu@unsw.edu.au": {
+        "count": 1,
+        "projects": {
+            "e17": [
+                {
+                    "title": "novel compression methods for nanopore raw signal data",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/novel-compression-methods-for-nanopore-raw-signal-data/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/novel-compression-methods-for-nanopore-raw-signal-data/"
                 }
             ]
         }
@@ -655,7 +769,7 @@
         "projects": {}
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "count": 16,
+        "count": 17,
         "projects": {
             "e17": [
                 {
@@ -670,6 +784,19 @@
                     "page_url": "https://cepdnaclk.github.io/e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators/"
+                },
+                {
+                    "title": "Large Language Models in Education",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Large-Language-Models-in-Education/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Large-Language-Models-in-Education",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
                 },
                 {
                     "title": "Neuromorphic NoC Architecture for SNNs",
@@ -912,7 +1039,7 @@
         "projects": {}
     },
     "mahanamaw@eng.pdn.ac.lk": {
-        "count": 9,
+        "count": 10,
         "projects": {
             "e17": [
                 {
@@ -927,6 +1054,19 @@
                     "page_url": "https://cepdnaclk.github.io/e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators/"
+                },
+                {
+                    "title": "Investigating Onchip Sensor Based RPA Attack Vulnerabilities of Light Weight Ciphers",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/"
                 },
                 {
                     "title": "Neuromorphic NoC Architecture for SNNs",
@@ -1294,7 +1434,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 25,
+        "count": 28,
         "projects": {
             "e17": [
                 {
@@ -1350,6 +1490,19 @@
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving/"
                 },
                 {
+                    "title": "Large Language Models in Education",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Large-Language-Models-in-Education/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Large-Language-Models-in-Education",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
+                },
+                {
                     "title": "Neuromorphic NoC Architecture for SNNs",
                     "category": {
                         "code": "4yp",
@@ -1376,6 +1529,19 @@
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
                 },
                 {
+                    "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+                },
+                {
                     "title": "develop a programming and compiler toolchain for multi agent systems",
                     "category": {
                         "code": "4yp",
@@ -1387,6 +1553,19 @@
                     "page_url": "https://cepdnaclk.github.io/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/"
+                },
+                {
+                    "title": "novel compression methods for nanopore raw signal data",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/novel-compression-methods-for-nanopore-raw-signal-data/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/novel-compression-methods-for-nanopore-raw-signal-data/"
                 }
             ],
             "e16": [
@@ -1905,10 +2084,43 @@
         "count": 0,
         "projects": {}
     },
-    "upuljm@eng.pdn.ac.lk": {
-        "count": 7,
+    "titus@eng.pdn.ac.lk": {
+        "count": 1,
         "projects": {
             "e17": [
+                {
+                    "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+                }
+            ]
+        }
+    },
+    "upuljm@eng.pdn.ac.lk": {
+        "count": 8,
+        "projects": {
+            "e17": [
+                {
+                    "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+                },
                 {
                     "title": "using machine learning in high stake settings",
                     "category": {
