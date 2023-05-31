@@ -20,7 +20,7 @@ class Tests(unittest.TestCase):
 
     def test_if_badge_exists_in_student_profile_page(self):
         driver = b_webdriver_functions.getURL("students/e18/100/")
-        badgeTitle = driver.find_element(By.CLASS_NAME, value="badge-image").get_attribute('title')
+        badgeTitle = driver.find_element(By.CLASS_NAME, value="badge-image").get_attribute('alt')
         self.assertTrue("Web Consultation Team" in badgeTitle, "Badge is not shown in E/18/100")
 
 
