@@ -1344,6 +1344,106 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1145/3412382.3458269/index.json"
         }
     ],
+    "E/14/194": [
+        {
+            "title": "Internet of things (IoT) for smart agriculture: Assembling and assessment of a low-cost IoT system for polytunnels",
+            "venue": "PLOS One",
+            "year": "2023",
+            "authors": [
+                "Nuwan Jaliyagoda",
+                "Sandali Lokuge",
+                "P.M.P.C. Gunathilake",
+                "K.S.P. Amaratunga",
+                "W.A.P.Weerakkody",
+                "Pradeepa Bandaranayake",
+                "Asitha Bandaranayake"
+            ],
+            "author_info": [
+                {
+                    "name": "Nuwan Jaliyagoda",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/140/",
+                    "type": "STUDENT",
+                    "id": "E/15/140",
+                    "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15140.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/140/"
+                },
+                {
+                    "name": "Sandali Lokuge",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/194/",
+                    "type": "STUDENT",
+                    "id": "E/14/194",
+                    "email": "e14194@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14194.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/194/"
+                },
+                {
+                    "name": "P.M.P.C. Gunathilake",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "K.S.P. Amaratunga",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "W.A.P.Weerakkody",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Pradeepa Bandaranayake",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Asitha Bandaranayake",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                    "type": "STAFF",
+                    "id": "asithab",
+                    "email": "asithab@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+                }
+            ],
+            "doi": "https://doi.org/10.1371/journal.pone.0278440",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0278440&type=printable",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/greenhouse-automation/",
+            "codebase": "https://github.com/cepdnaclk/Smart-Agriculture-a-low-cost-IoT-system-for-polytunnels",
+            "researchgroups": [
+                "Smart and Intelligent Systems (IoT / AI / Wearable Computing)"
+            ],
+            "funding": "The Early Career Fellowship of the Organization for Women in Science for Developing World (OWSD, Early Career Fellowship https://owsd.net/) funded this project \u00e2\u0080\u0093 the award agreement 4500406736 was awarded to Pradeepa C.G. Bandaranayake",
+            "tags": [
+                "IoT",
+                "Smart Farming",
+                "Control Systems",
+                "Agriculture"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pone.0278440/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1371/journal.pone.0278440/index.json"
+        }
+    ],
     "E/14/237": [
         {
             "title": "Non-contact Infant Sleep Apnea Detection",
@@ -2565,6 +2665,106 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS53135.2021.9660737/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS53135.2021.9660737/index.json"
+        }
+    ],
+    "E/15/140": [
+        {
+            "title": "Internet of things (IoT) for smart agriculture: Assembling and assessment of a low-cost IoT system for polytunnels",
+            "venue": "PLOS One",
+            "year": "2023",
+            "authors": [
+                "Nuwan Jaliyagoda",
+                "Sandali Lokuge",
+                "P.M.P.C. Gunathilake",
+                "K.S.P. Amaratunga",
+                "W.A.P.Weerakkody",
+                "Pradeepa Bandaranayake",
+                "Asitha Bandaranayake"
+            ],
+            "author_info": [
+                {
+                    "name": "Nuwan Jaliyagoda",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e15/140/",
+                    "type": "STUDENT",
+                    "id": "E/15/140",
+                    "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15140.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e15/140/"
+                },
+                {
+                    "name": "Sandali Lokuge",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/194/",
+                    "type": "STUDENT",
+                    "id": "E/14/194",
+                    "email": "e14194@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14194.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/194/"
+                },
+                {
+                    "name": "P.M.P.C. Gunathilake",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "K.S.P. Amaratunga",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "W.A.P.Weerakkody",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Pradeepa Bandaranayake",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Asitha Bandaranayake",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                    "type": "STAFF",
+                    "id": "asithab",
+                    "email": "asithab@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+                }
+            ],
+            "doi": "https://doi.org/10.1371/journal.pone.0278440",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0278440&type=printable",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/greenhouse-automation/",
+            "codebase": "https://github.com/cepdnaclk/Smart-Agriculture-a-low-cost-IoT-system-for-polytunnels",
+            "researchgroups": [
+                "Smart and Intelligent Systems (IoT / AI / Wearable Computing)"
+            ],
+            "funding": "The Early Career Fellowship of the Organization for Women in Science for Developing World (OWSD, Early Career Fellowship https://owsd.net/) funded this project \u00e2\u0080\u0093 the award agreement 4500406736 was awarded to Pradeepa C.G. Bandaranayake",
+            "tags": [
+                "IoT",
+                "Smart Farming",
+                "Control Systems",
+                "Agriculture"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pone.0278440/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1371/journal.pone.0278440/index.json"
         }
     ],
     "E/15/188": [
