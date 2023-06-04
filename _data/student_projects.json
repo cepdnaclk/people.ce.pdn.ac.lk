@@ -6772,6 +6772,19 @@
     ],
     "E/18/147": [
         {
+            "title": "ML based patient care diagnostic",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-based-patient-care-diagnostic/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-based-patient-care-diagnostic",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-based-patient-care-diagnostic",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-based-patient-care-diagnostic/"
+        },
+        {
             "title": "Automated Road Rule Detector",
             "category": {
                 "code": "3yp",
@@ -6980,6 +6993,19 @@
         }
     ],
     "E/18/170": [
+        {
+            "title": "ML based patient care diagnostic",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-based-patient-care-diagnostic/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-based-patient-care-diagnostic",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-based-patient-care-diagnostic",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-based-patient-care-diagnostic/"
+        },
         {
             "title": "non invaisve glucose meter",
             "category": {
@@ -7913,6 +7939,19 @@
         }
     ],
     "E/18/379": [
+        {
+            "title": "ML based patient care diagnostic",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-based-patient-care-diagnostic/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-based-patient-care-diagnostic",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-based-patient-care-diagnostic",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-based-patient-care-diagnostic/"
+        },
         {
             "title": "Automated Road Rule Detector",
             "category": {
