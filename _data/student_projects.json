@@ -6716,6 +6716,19 @@
     ],
     "E/18/118": [
         {
+            "title": "Handwritten Essay Marking Software",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Handwritten-Essay-Marking-Software/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Handwritten-Essay-Marking-Software",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Handwritten-Essay-Marking-Software",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Handwritten-Essay-Marking-Software/"
+        },
+        {
             "title": "Automated Mini Greenhouse Monitoring And Control System",
             "category": {
                 "code": "3yp",
