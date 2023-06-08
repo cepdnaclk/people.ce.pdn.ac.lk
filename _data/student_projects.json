@@ -7324,6 +7324,19 @@
     ],
     "E/18/242": [
         {
+            "title": "Machine Learning for Weather Forecasting",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Machine-Learning-for-Weather-Forecasting/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Machine-Learning-for-Weather-Forecasting",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Machine-Learning-for-Weather-Forecasting",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Machine-Learning-for-Weather-Forecasting/"
+        },
+        {
             "title": "Automated Road Rule Detector",
             "category": {
                 "code": "3yp",
@@ -7895,6 +7908,19 @@
     ],
     "E/18/368": [
         {
+            "title": "Machine Learning for Weather Forecasting",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Machine-Learning-for-Weather-Forecasting/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Machine-Learning-for-Weather-Forecasting",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Machine-Learning-for-Weather-Forecasting",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Machine-Learning-for-Weather-Forecasting/"
+        },
+        {
             "title": "Smart Gate Keeping and Authentication System",
             "category": {
                 "code": "3yp",
@@ -8088,6 +8114,19 @@
         }
     ],
     "E/18/398": [
+        {
+            "title": "Machine Learning for Weather Forecasting",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Machine-Learning-for-Weather-Forecasting/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Machine-Learning-for-Weather-Forecasting",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Machine-Learning-for-Weather-Forecasting",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Machine-Learning-for-Weather-Forecasting/"
+        },
         {
             "title": "Automated Mini Greenhouse Monitoring And Control System",
             "category": {
