@@ -6263,6 +6263,19 @@
     ],
     "E/18/017": [
         {
+            "title": "ML for Structural Health Monitoring Group 05",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-for-Structural-Health-Monitoring-Group-05/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-for-Structural-Health-Monitoring-Group-05",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-for-Structural-Health-Monitoring-Group-05",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-for-Structural-Health-Monitoring-Group-05/"
+        },
+        {
             "title": "Automated Poultry Farming",
             "category": {
                 "code": "3yp",
@@ -6274,6 +6287,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Automated-Poultry-Farming",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Poultry-Farming/"
+        },
+        {
+            "title": "Smart Energy Meter",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Meter/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Energy-Meter",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Energy-Meter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Meter/"
         },
         {
             "title": "Poultry Feed Efficiency Tracking System Group 12",
@@ -7115,6 +7141,19 @@
     ],
     "E/18/177": [
         {
+            "title": "ML for Structural Health Monitoring Group 05",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-for-Structural-Health-Monitoring-Group-05/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-for-Structural-Health-Monitoring-Group-05",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-for-Structural-Health-Monitoring-Group-05",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-for-Structural-Health-Monitoring-Group-05/"
+        },
+        {
             "title": "Automated Poultry Farming",
             "category": {
                 "code": "3yp",
@@ -7126,6 +7165,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Automated-Poultry-Farming",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Poultry-Farming/"
+        },
+        {
+            "title": "Smart Energy Meter",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Meter/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Energy-Meter",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Energy-Meter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Meter/"
         },
         {
             "title": "Poultry Feed Efficiency Tracking System Group 12",
@@ -7719,6 +7771,19 @@
     ],
     "E/18/304": [
         {
+            "title": "ML for Structural Health Monitoring Group 05",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-for-Structural-Health-Monitoring-Group-05/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-for-Structural-Health-Monitoring-Group-05",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-for-Structural-Health-Monitoring-Group-05",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-for-Structural-Health-Monitoring-Group-05/"
+        },
+        {
             "title": "Automated Poultry Farming",
             "category": {
                 "code": "3yp",
@@ -7730,6 +7795,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Automated-Poultry-Farming",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Poultry-Farming/"
+        },
+        {
+            "title": "Smart Energy Meter",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Meter/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Energy-Meter",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Energy-Meter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Meter/"
         },
         {
             "title": "Poultry Feed Efficiency Tracking System Group 12",
@@ -7774,6 +7852,19 @@
         }
     ],
     "E/18/323": [
+        {
+            "title": "Finding the Outliers Group20",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Finding-the-Outliers-Group20/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Finding-the-Outliers-Group20",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Finding-the-Outliers-Group20",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Finding-the-Outliers-Group20/"
+        },
         {
             "title": "smart polling booth",
             "category": {
@@ -7871,6 +7962,19 @@
         }
     ],
     "E/18/330": [
+        {
+            "title": "Finding the Outliers Group20",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Finding-the-Outliers-Group20/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Finding-the-Outliers-Group20",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Finding-the-Outliers-Group20",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Finding-the-Outliers-Group20/"
+        },
         {
             "title": "Smart Gate Keeping and Authentication System",
             "category": {
@@ -8054,6 +8158,19 @@
         }
     ],
     "E/18/375": [
+        {
+            "title": "Finding the Outliers Group20",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Finding-the-Outliers-Group20/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Finding-the-Outliers-Group20",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Finding-the-Outliers-Group20",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Finding-the-Outliers-Group20/"
+        },
         {
             "title": "Road Accident Detection And Notification System",
             "category": {
