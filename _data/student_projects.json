@@ -1402,19 +1402,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         },
         {
-            "title": "Pera Knowledge Portal",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
-            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
-        },
-        {
             "title": "Zero Trash",
             "category": {
                 "code": "co328",
@@ -1426,6 +1413,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
+        },
+        {
+            "title": "Pera Knowledge Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
+            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
         }
     ],
     "E/15/142": [
@@ -1553,19 +1553,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         },
         {
-            "title": "Pera Knowledge Portal",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
-            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
-        },
-        {
             "title": "Zero Trash",
             "category": {
                 "code": "co328",
@@ -1577,6 +1564,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
+        },
+        {
+            "title": "Pera Knowledge Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
+            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
         }
     ],
     "E/15/179": [
@@ -2406,19 +2406,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         },
         {
-            "title": "Pera Knowledge Portal",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
-            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
-        },
-        {
             "title": "Zero Trash",
             "category": {
                 "code": "co328",
@@ -2430,6 +2417,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
+        },
+        {
+            "title": "Pera Knowledge Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
+            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
         }
     ],
     "E/15/351": [
@@ -4495,6 +4495,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-remote-proctoring-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-proctoring-system/"
+        },
+        {
+            "title": "business to business database",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
+            "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/"
         }
     ],
     "E/17/065": [
@@ -4745,6 +4758,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-remote-medical-diagnostics",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-medical-diagnostics/"
+        },
+        {
+            "title": "business to business database",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
+            "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/"
         }
     ],
     "E/17/148": [
@@ -5019,6 +5045,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-maker-mate",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/maker-mate/"
+        },
+        {
+            "title": "business to business database",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
+            "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/"
         }
     ],
     "E/17/201": [
