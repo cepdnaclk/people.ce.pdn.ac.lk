@@ -473,6 +473,26 @@
             ]
         }
     },
+    "dhanumapitigama@eng.pdn.ac.lk": {
+        "count": 1,
+        "projects": {
+            "e17": [
+                {
+                    "title": "Music Emotion Recognition",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Music-Emotion-Recognition/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Music-Emotion-Recognition",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Music-Emotion-Recognition/"
+                }
+            ]
+        }
+    },
     "dilshanik@eng.pdn.ac.lk": {
         "count": 1,
         "projects": {
@@ -1442,7 +1462,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 28,
+        "count": 29,
         "projects": {
             "e17": [
                 {
@@ -1509,6 +1529,19 @@
                     "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
+                },
+                {
+                    "title": "Music Emotion Recognition",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Music-Emotion-Recognition/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Music-Emotion-Recognition",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Music-Emotion-Recognition/"
                 },
                 {
                     "title": "Neuromorphic NoC Architecture for SNNs",
