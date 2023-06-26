@@ -266,8 +266,8 @@
         "count": 0,
         "projects": {}
     },
-    "damayanthi@eng.pdn.ac.lk": {
-        "count": 1,
+    "damayanthiherath@eng.pdn.ac.lk": {
+        "count": 10,
         "projects": {
             "e17": [
                 {
@@ -282,14 +282,7 @@
                     "page_url": "https://cepdnaclk.github.io/e17-4yp-Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling/"
-                }
-            ]
-        }
-    },
-    "damayanthiherath@eng.pdn.ac.lk": {
-        "count": 9,
-        "projects": {
-            "e17": [
+                },
                 {
                     "title": "Investigating Onchip Sensor Based RPA Attack Vulnerabilities of Light Weight Ciphers",
                     "category": {
@@ -642,8 +635,23 @@
         }
     },
     "h.gamaarachchi@garvan.org.au": {
-        "count": 1,
+        "count": 2,
         "projects": {
+            "e17": [
+                {
+                    "title": "Acceleration of deep neural network based nanopore super accuracy basecalling",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling/"
+                }
+            ],
             "e16": [
                 {
                     "title": "Acceleration of DTW algorithm for real time nanopore selective sequencing using GPUs",
