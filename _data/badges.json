@@ -1,5 +1,12 @@
 {
     "badges": {
+        "casual-instructors-2021": {
+            "title": "Casual Instructors - 2021/2022",
+            "image": "images/badges/causal-instructors.png",
+            "description": "The casual Instructor program in the Department of Computer Engineering provides undergraduate students with the opportunity to be an instructor/teaching assistant in the courses offered for their junior batches.",
+            "page": "/badges/casual-instructors-2021/",
+            "show": "true"
+        },
         "CO-seminar-organisers-badge": {
             "title": "Seminar Organizing Team",
             "image": "images/badges/CO-seminar-organisers-badge.png",
@@ -7,11 +14,18 @@
             "page": "/badges/CO-seminar-organisers-badge/",
             "show": "true"
         },
-        "casual-instructors-2021": {
-            "title": "Casual Instructors - 2021/2022",
-            "image": "images/badges/causal-instructors.png",
-            "description": "The casual Instructor program in the Department of Computer Engineering provides undergraduate students with the opportunity to be an instructor/teaching assistant in the courses offered for their junior batches.",
-            "page": "/badges/casual-instructors-2021/",
+        "volunteered-admin-moderator": {
+            "title": "Volunteered Administrator/Moderator",
+            "image": "images/badges/admin-moderator.png",
+            "description": "Department of Computer Engineering allows students to participate in various activities to improve their leadership and management skills. This Badge was offered as an acknowledgment to the students who are actively involved in managing and moderating digital spaces of the Department Communities. ",
+            "page": "/badges/volunteered-admin-moderator/",
+            "show": "true"
+        },
+        "volunteered-developer": {
+            "title": "Volunteered Developer",
+            "image": "images/badges/volunteered-developer.png",
+            "description": "Department of Computer Engineering offers various types of development projects for the students to get real-world problem-solving experience. Students can voluntarily join those projects, and get mentorship and good work experience. This Badge was offered as an acknowledgment to the students who are actively involved in such kinds of projects related to the Department Websites.",
+            "page": "/badges/volunteered-developer/",
             "show": "true"
         },
         "web-consultation-team": {
@@ -23,86 +37,6 @@
         }
     },
     "members": {
-        "E/18/118": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/16/012": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/16/049": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/16/134": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/17/398": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/18/154": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/18/068": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/17/194": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            },
-            {
-                "tag": "casual-instructors-2021",
-                "position": "CO253",
-                "link": "#"
-            },
-            {
-                "tag": "web-consultation-team",
-                "position": "Member",
-                "link": "#"
-            }
-        ],
-        "E/16/332": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/17/065": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
         "E/17/058": [
             {
                 "tag": "casual-instructors-2021",
@@ -155,6 +89,23 @@
                 "link": "#"
             }
         ],
+        "E/17/194": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO253",
+                "link": "#"
+            },
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            },
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
         "E/17/072": [
             {
                 "tag": "casual-instructors-2021",
@@ -173,6 +124,107 @@
             {
                 "tag": "casual-instructors-2021",
                 "position": "CO253",
+                "link": "#"
+            }
+        ],
+        "E/18/118": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/16/012": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/16/049": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/16/134": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/17/398": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/18/154": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/18/068": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/16/332": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/17/065": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/17/154": [
+            {
+                "tag": "volunteered-admin-moderator",
+                "position": "[cepdnaclk](https://github.com/cepdnaclk/) GitHub Organization (2020-2023)",
+                "link": "#"
+            },
+            {
+                "tag": "volunteered-developer",
+                "position": "Developer of [projects.ce.pdn.ac.lk](https://projects.ce.pdn.ac.lk) and [people.ce.pdn.ac.lk](https://people.ce.pdn.ac.lk)",
+                "link": "#"
+            }
+        ],
+        "E/16/088": [
+            {
+                "tag": "volunteered-admin-moderator",
+                "position": "PeraCom Discord Server (2022-2023)",
+                "link": "#"
+            }
+        ],
+        "E/18/098": [
+            {
+                "tag": "volunteered-developer",
+                "position": "Developer of [people.ce.pdn.ac.lk](https://people.ce.pdn.ac.lk)",
+                "link": "#"
+            }
+        ],
+        "E/18/100": [
+            {
+                "tag": "volunteered-developer",
+                "position": "Developer of [faq.ce.pdn.ac.lk](https://faq.ce.pdn.ac.lk)",
+                "link": "#"
+            },
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
                 "link": "#"
             }
         ],
@@ -240,13 +292,6 @@
             }
         ],
         "E/18/297": [
-            {
-                "tag": "web-consultation-team",
-                "position": "Member",
-                "link": "#"
-            }
-        ],
-        "E/18/100": [
             {
                 "tag": "web-consultation-team",
                 "position": "Member",

@@ -7,7 +7,7 @@ badge_description: "The Seminar Organizing Team is a group of volunteers assisti
 badge_criteria: "Actively contributed to the Seminar Organizing Team activities"
 edit: "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/badges/CO-seminar-organisers-badge"
 students: 
- - { eNumber: "E/18/118", name: "Gunarathna H.P.H.M.", position: "Organiser", profile_url: "/students/e18/118/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18118.jpg", link: "#" }
+ - { eNumber: "E/18/118", name: "H.P.H.M. Gunarathna", position: "Organiser", profile_url: "/students/e18/118/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18118.jpg", link: "#" }
  - { eNumber: "E/16/012", name: "Adikari", position: "Organiser", profile_url: "/students/e16/012/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e16/e16012.jpg", link: "#" }
  - { eNumber: "E/16/049", name: "Harshana Bandara", position: "Organiser", profile_url: "/students/e16/049/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e16/e16049.jpg", link: "#" }
  - { eNumber: "E/16/134", name: "Herath H.M.Y.B.", position: "Organiser", profile_url: "/students/e16/134/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e16/e16134.jpg", link: "#" }
