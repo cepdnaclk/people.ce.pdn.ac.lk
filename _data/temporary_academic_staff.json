@@ -161,4 +161,26 @@
     "joined_date": "2023-03-01",
     "left_date": ""
   }
+
+  ,
+  {
+    "staff_name": "Isuru Pamuditha Thilakasiri",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/staff/temporary-academic-staff/isuru_pamuditha.jpeg",
+    "email": "isurupt@eng.pdn.ac.lk",
+    "url_profile": "",
+    "linkedin": "https://lk.linkedin.com/in/isuru-pamuditha",
+    "joined_date": "2023-04-17",
+    "left_date": ""
+  },
+  {
+    "staff_name": "Thilina Dissanayake",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/staff/temporary-academic-staff/thilina-dissanayake.jpg",
+    "email": "thilinald@eng.pdn.ac.lk",
+    "url_profile": "",
+    "linkedin": "http://linkedin.com/in/thilinaldissanayake",
+    "joined_date": "2023-04-17",
+    "left_date": ""
+  }
 ]

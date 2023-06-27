@@ -8,8 +8,8 @@ name: Deploy Jekyll site to Pages
 
 on:
   # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
+  # push:
+  #   branches: ["main"]
   workflow_run:
   # run this when there is an update on profile pages
     workflows: ["Update Profile Details", "Update Project and Publication Details"]
