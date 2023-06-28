@@ -1,0 +1,25 @@
+{
+    "title": "Volunteered Developer",
+    "tag": "volunteered-developer",
+    "description": "Department of Computer Engineering offers various types of development projects for the students to get real-world problem-solving experience. Students can voluntarily join those projects, and get mentorship and good work experience. This Badge was offered as an acknowledgment to the students who are actively involved in such kinds of projects related to the Department Websites.",
+    "image": "images/badges/volunteered-developer.png",
+    "show_in_profile": "true",
+    "criteria": "Active involvement in the project, and the project is launched successfully and currently in use",
+    "students":[
+        {
+            "eNumber": "E/17/154",
+            "name": "Akila Karunanayake",
+            "position": "Developer of [projects.ce.pdn.ac.lk](https://projects.ce.pdn.ac.lk) and [people.ce.pdn.ac.lk](https://people.ce.pdn.ac.lk)"
+        },
+        {
+            "eNumber": "E/18/098",
+            "name": "Ishan Fernando",
+            "position": "Developer of [people.ce.pdn.ac.lk](https://people.ce.pdn.ac.lk)"
+        },
+        {
+            "eNumber": "E/18/100",
+            "name": "Adeepa Fernando",
+            "position": "Developer of [faq.ce.pdn.ac.lk](https://faq.ce.pdn.ac.lk)"
+        }
+    ]
+}

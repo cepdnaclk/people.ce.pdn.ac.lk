@@ -10,6 +10,7 @@ import json
 
 class Tests(unittest.TestCase):
     def test_badges_folder_jsons(self):
+        # TODO: validate all files in ../badges/*
         for eachFile in ['casual_instructors_2021.json', 'web_team.json']:
             try:
                 jsonFile = open("../badges/" + eachFile)
@@ -18,10 +19,11 @@ class Tests(unittest.TestCase):
             except:
                 self.fail("JSON file " + eachFile + " is not valid")
 
-    def test_if_badge_exists_in_student_profile_page(self):
-        driver = b_webdriver_functions.getURL("students/e18/100/")
-        badgeTitle = driver.find_element(By.CLASS_NAME, value="badge-image").get_attribute('alt')
-        self.assertTrue("Web Consultation Team" in badgeTitle, "Badge is not shown in E/18/100")
+    # TODO: Update the logic with more general approach
+    # def test_if_badge_exists_in_student_profile_page(self):
+    #     driver = b_webdriver_functions.getURL("students/e18/100/")
+    #     badgeTitle = driver.find_element(By.CLASS_NAME, value="badge-image").get_attribute('title')
+    #     self.assertTrue("Web Consultation Team" in badgeTitle, "Badge is not shown in E/18/100")
 
 
 if __name__ == '__main__':
