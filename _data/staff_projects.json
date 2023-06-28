@@ -2137,26 +2137,6 @@
         "count": 0,
         "projects": {}
     },
-    "titus@eng.pdn.ac.lk": {
-        "count": 1,
-        "projects": {
-            "e17": [
-                {
-                    "title": "Virtual Patient Simulator for Skill Training in Dentistry",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
-                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
-                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
-                }
-            ]
-        }
-    },
     "upuljm@eng.pdn.ac.lk": {
         "count": 8,
         "projects": {
