@@ -3045,19 +3045,6 @@
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
-            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
-            "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
-        },
-        {
-            "title": "Virtual Patient Simulator for Skill Training in Dentistry",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
             "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
             "repo_url": "https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
             "page_url": "https://cepdnaclk.github.io/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
@@ -3299,19 +3286,6 @@
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
-            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
-            "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
-        },
-        {
-            "title": "Virtual Patient Simulator for Skill Training in Dentistry",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
             "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
             "repo_url": "https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
             "page_url": "https://cepdnaclk.github.io/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
@@ -3542,19 +3516,6 @@
         }
     ],
     "E/16/223": [
-        {
-            "title": "Virtual Patient Simulator for Skill Training in Dentistry",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
-            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
-            "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
-        },
         {
             "title": "Virtual Patient Simulator for Skill Training in Dentistry",
             "category": {
@@ -4217,6 +4178,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-ContactTracingApp",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/ContactTracingApp/"
+        },
+        {
+            "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
         },
         {
             "title": "remote billiard",
@@ -5804,6 +5778,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/ContactTracingApp/"
         },
         {
+            "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+        },
+        {
             "title": "remote billiard",
             "category": {
                 "code": "3yp",
@@ -6093,6 +6080,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/ContactTracingApp/"
         },
         {
+            "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+        },
+        {
             "title": "remote billiard",
             "category": {
                 "code": "3yp",
@@ -6246,6 +6246,19 @@
     ],
     "E/18/010": [
         {
+            "title": "Handwritten_Essay_Marking_Software",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Handwritten_Essay_Marking_Software/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Handwritten_Essay_Marking_Software",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Handwritten_Essay_Marking_Software",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Handwritten_Essay_Marking_Software/"
+        },
+        {
             "title": "smart glove",
             "category": {
                 "code": "3yp",
@@ -6257,6 +6270,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-glove",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-glove/"
+        },
+        {
+            "title": "Smart Home Security System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Home-Security-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/"
         },
         {
             "title": "Department Course Page Group B",
@@ -6956,6 +6982,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Mini-Greenhouse-Monitoring-And-Control-System/"
         },
         {
+            "title": "Smart Home Security System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Home-Security-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/"
+        },
+        {
             "title": "Logging Microservice for IoT based Smart Agriculture Project",
             "category": {
                 "code": "co227",
@@ -7094,6 +7133,19 @@
     ],
     "E/18/156": [
         {
+            "title": "Handwritten_Essay_Marking_Software",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Handwritten_Essay_Marking_Software/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Handwritten_Essay_Marking_Software",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Handwritten_Essay_Marking_Software",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Handwritten_Essay_Marking_Software/"
+        },
+        {
             "title": "smart glove",
             "category": {
                 "code": "3yp",
@@ -7105,6 +7157,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-glove",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-glove/"
+        },
+        {
+            "title": "Smart Home Security System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Home-Security-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/"
         },
         {
             "title": "Auto Marking and Student Performance Analyser System for Continuous Assessments Group A",
@@ -8142,6 +8207,19 @@
         }
     ],
     "E/18/329": [
+        {
+            "title": "Handwritten_Essay_Marking_Software",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Handwritten_Essay_Marking_Software/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Handwritten_Essay_Marking_Software",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Handwritten_Essay_Marking_Software",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Handwritten_Essay_Marking_Software/"
+        },
         {
             "title": "smart glove",
             "category": {
