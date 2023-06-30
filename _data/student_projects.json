@@ -6434,6 +6434,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Patient-Monitoring-System-for-Ambulances/"
         },
         {
+            "title": "Smart Cooling System for a Machinery Room Group5",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Cooling-System-for-a-Machinery-Room-Group5/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Cooling-System-for-a-Machinery-Room-Group5/"
+        },
+        {
             "title": "Molding Machine Dashboard",
             "category": {
                 "code": "co227",
@@ -6749,6 +6762,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
         },
         {
+            "title": "Smart Traffic Light System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Traffic-Light-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Traffic-Light-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Traffic-Light-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Traffic-Light-System/"
+        },
+        {
             "title": "Smart Inventory Management System Group A",
             "category": {
                 "code": "co227",
@@ -6788,6 +6814,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
+        },
+        {
+            "title": "Smart Traffic Light System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Traffic-Light-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Traffic-Light-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Traffic-Light-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Traffic-Light-System/"
         },
         {
             "title": "Smart Inventory Management System Group A",
@@ -7116,6 +7155,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
+        },
+        {
+            "title": "Smart Traffic Light System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Traffic-Light-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Traffic-Light-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Traffic-Light-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Traffic-Light-System/"
         },
         {
             "title": "Smart Inventory Management System Group A",
@@ -8098,6 +8150,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Patient-Monitoring-System-for-Ambulances/"
         },
         {
+            "title": "Smart Cooling System for a Machinery Room Group5",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Cooling-System-for-a-Machinery-Room-Group5/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Cooling-System-for-a-Machinery-Room-Group5/"
+        },
+        {
             "title": "Interactive Department Map GroupA",
             "category": {
                 "code": "co227",
@@ -8396,6 +8461,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Patient-Monitoring-System-for-Ambulances",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Patient-Monitoring-System-for-Ambulances/"
+        },
+        {
+            "title": "Smart Cooling System for a Machinery Room Group5",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Cooling-System-for-a-Machinery-Room-Group5/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Cooling-System-for-a-Machinery-Room-Group5/"
         },
         {
             "title": "Interactive Department Map GroupA",
