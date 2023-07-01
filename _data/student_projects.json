@@ -859,17 +859,17 @@
     ],
     "E/15/010": [
         {
-            "title": "Adaptive People Movement And Action Prediction Using CCTV",
+            "title": "Adaptive people movement and action prediction using CCTV to control appliances",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances/",
+            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances",
+            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances/"
         },
         {
             "title": "An Efficient System For Waste Collection",
@@ -1402,19 +1402,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         },
         {
-            "title": "Pera Knowledge Portal",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
-            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
-        },
-        {
             "title": "Zero Trash",
             "category": {
                 "code": "co328",
@@ -1426,6 +1413,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
+        },
+        {
+            "title": "Pera Knowledge Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
+            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
         }
     ],
     "E/15/142": [
@@ -1553,19 +1553,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         },
         {
-            "title": "Pera Knowledge Portal",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
-            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
-        },
-        {
             "title": "Zero Trash",
             "category": {
                 "code": "co328",
@@ -1577,6 +1564,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
+        },
+        {
+            "title": "Pera Knowledge Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
+            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
         }
     ],
     "E/15/179": [
@@ -1975,17 +1975,17 @@
     ],
     "E/15/265": [
         {
-            "title": "Adaptive People Movement And Action Prediction Using CCTV",
+            "title": "Adaptive people movement and action prediction using CCTV to control appliances",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances/",
+            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances",
+            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances/"
         },
         {
             "title": "An Efficient System For Waste Collection",
@@ -2270,17 +2270,17 @@
     ],
     "E/15/347": [
         {
-            "title": "Adaptive People Movement And Action Prediction Using CCTV",
+            "title": "Adaptive people movement and action prediction using CCTV to control appliances",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/",
-            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
-            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-People-Movement-And-Action-Prediction-Using-CCTV",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances/",
+            "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances",
+            "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-People-Movement-And-Action-Prediction-Using-CCTV/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances/"
         },
         {
             "title": "An Efficient System For Waste Collection",
@@ -2406,19 +2406,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         },
         {
-            "title": "Pera Knowledge Portal",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
-            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
-        },
-        {
             "title": "Zero Trash",
             "category": {
                 "code": "co328",
@@ -2430,6 +2417,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
+        },
+        {
+            "title": "Pera Knowledge Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
+            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
         }
     ],
     "E/15/351": [
@@ -4428,6 +4428,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
         },
         {
+            "title": "Music Emotion Recognition",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Music-Emotion-Recognition/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Music-Emotion-Recognition",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Music-Emotion-Recognition/"
+        },
+        {
             "title": "Smart Cradle",
             "category": {
                 "code": "3yp",
@@ -4495,6 +4508,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-remote-proctoring-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-proctoring-system/"
+        },
+        {
+            "title": "business to business database",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
+            "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/"
         }
     ],
     "E/17/065": [
@@ -4745,6 +4771,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-remote-medical-diagnostics",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-medical-diagnostics/"
+        },
+        {
+            "title": "business to business database",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
+            "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/"
         }
     ],
     "E/17/148": [
@@ -5019,6 +5058,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-maker-mate",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/maker-mate/"
+        },
+        {
+            "title": "business to business database",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
+            "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/"
         }
     ],
     "E/17/201": [
@@ -5918,6 +5970,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
         },
         {
+            "title": "Music Emotion Recognition",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Music-Emotion-Recognition/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Music-Emotion-Recognition",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Music-Emotion-Recognition/"
+        },
+        {
             "title": "Smart Cradle",
             "category": {
                 "code": "3yp",
@@ -6153,6 +6218,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
         },
         {
+            "title": "Music Emotion Recognition",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Music-Emotion-Recognition/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Music-Emotion-Recognition",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Music-Emotion-Recognition/"
+        },
+        {
             "title": "Smart Cradle",
             "category": {
                 "code": "3yp",
@@ -6168,6 +6246,19 @@
     ],
     "E/18/010": [
         {
+            "title": "Handwritten_Essay_Marking_Software",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Handwritten_Essay_Marking_Software/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Handwritten_Essay_Marking_Software",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Handwritten_Essay_Marking_Software",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Handwritten_Essay_Marking_Software/"
+        },
+        {
             "title": "smart glove",
             "category": {
                 "code": "3yp",
@@ -6179,6 +6270,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-glove",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-glove/"
+        },
+        {
+            "title": "Smart Home Security System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Home-Security-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/"
         },
         {
             "title": "Department Course Page Group B",
@@ -6328,6 +6432,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Patient-Monitoring-System-for-Ambulances",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Patient-Monitoring-System-for-Ambulances/"
+        },
+        {
+            "title": "Smart Cooling System for a Machinery Room Group5",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Cooling-System-for-a-Machinery-Room-Group5/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Cooling-System-for-a-Machinery-Room-Group5/"
         },
         {
             "title": "Molding Machine Dashboard",
@@ -6645,6 +6762,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
         },
         {
+            "title": "Smart Traffic Light System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Traffic-Light-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Traffic-Light-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Traffic-Light-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Traffic-Light-System/"
+        },
+        {
             "title": "Smart Inventory Management System Group A",
             "category": {
                 "code": "co227",
@@ -6684,6 +6814,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
+        },
+        {
+            "title": "Smart Traffic Light System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Traffic-Light-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Traffic-Light-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Traffic-Light-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Traffic-Light-System/"
         },
         {
             "title": "Smart Inventory Management System Group A",
@@ -6878,6 +7021,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Mini-Greenhouse-Monitoring-And-Control-System/"
         },
         {
+            "title": "Smart Home Security System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Home-Security-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/"
+        },
+        {
             "title": "Logging Microservice for IoT based Smart Agriculture Project",
             "category": {
                 "code": "co227",
@@ -6921,6 +7077,19 @@
     ],
     "E/18/154": [
         {
+            "title": "Disease Monitoring in dairy industry",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Disease-Monitoring-in-dairy-industry/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Disease-Monitoring-in-dairy-industry",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Disease-Monitoring-in-dairy-industry",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Disease-Monitoring-in-dairy-industry/"
+        },
+        {
             "title": "Smart Planting System",
             "category": {
                 "code": "3yp",
@@ -6932,6 +7101,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Planting-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Planting-System/"
+        },
+        {
+            "title": "Automated Smart Lighting System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Automated-Smart-Lighting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Automated-Smart-Lighting-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Automated-Smart-Lighting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Automated-Smart-Lighting-System/"
         },
         {
             "title": "Molding Machine Dashboard",
@@ -6975,6 +7157,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
         },
         {
+            "title": "Smart Traffic Light System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Traffic-Light-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Traffic-Light-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Traffic-Light-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Traffic-Light-System/"
+        },
+        {
             "title": "Smart Inventory Management System Group A",
             "category": {
                 "code": "co227",
@@ -6990,6 +7185,19 @@
     ],
     "E/18/156": [
         {
+            "title": "Handwritten_Essay_Marking_Software",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Handwritten_Essay_Marking_Software/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Handwritten_Essay_Marking_Software",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Handwritten_Essay_Marking_Software",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Handwritten_Essay_Marking_Software/"
+        },
+        {
             "title": "smart glove",
             "category": {
                 "code": "3yp",
@@ -7001,6 +7209,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-smart-glove",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-glove/"
+        },
+        {
+            "title": "Smart Home Security System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Home-Security-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/"
         },
         {
             "title": "Auto Marking and Student Performance Analyser System for Continuous Assessments Group A",
@@ -7017,6 +7238,19 @@
         }
     ],
     "E/18/168": [
+        {
+            "title": "Digital Twin",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Digital-Twin/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Digital-Twin",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Digital-Twin",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Digital-Twin/"
+        },
         {
             "title": "Road Traffic Ecosystem",
             "category": {
@@ -7195,6 +7429,19 @@
     ],
     "E/18/180": [
         {
+            "title": "ML For Structural Health Monitoring",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-For-Structural-Health-Monitoring/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-For-Structural-Health-Monitoring",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-For-Structural-Health-Monitoring",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/"
+        },
+        {
             "title": "Smart Locker System",
             "category": {
                 "code": "3yp",
@@ -7206,6 +7453,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Locker-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Locker-System/"
+        },
+        {
+            "title": "Smart Energy Management System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-CO326-Smart-Energy-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e18-CO326-Smart-Energy-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Management-System/"
         },
         {
             "title": "Poultry Feed Efficiency Tracking System Group 17",
@@ -7400,6 +7660,19 @@
     ],
     "E/18/227": [
         {
+            "title": "Smart Energy Management System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-CO326-Smart-Energy-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e18-CO326-Smart-Energy-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Management-System/"
+        },
+        {
             "title": "Department Course Page Group A",
             "category": {
                 "code": "co227",
@@ -7469,6 +7742,19 @@
     ],
     "E/18/245": [
         {
+            "title": "Optical Character Recognition and Translation from Sinhala to Tamil for Printed Documents",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
+        },
+        {
             "title": "Development of an Image Capturing Unit for Remote Monitoring",
             "category": {
                 "code": "co227",
@@ -7525,6 +7811,19 @@
     ],
     "E/18/266": [
         {
+            "title": "ML For Structural Health Monitoring",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-For-Structural-Health-Monitoring/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-For-Structural-Health-Monitoring",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-For-Structural-Health-Monitoring",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/"
+        },
+        {
             "title": "Smart Locker System",
             "category": {
                 "code": "3yp",
@@ -7536,6 +7835,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Locker-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Locker-System/"
+        },
+        {
+            "title": "Smart Energy Management System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-CO326-Smart-Energy-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e18-CO326-Smart-Energy-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Management-System/"
         },
         {
             "title": "Poultry Feed Efficiency Tracking System Group 17",
@@ -7838,6 +8150,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Patient-Monitoring-System-for-Ambulances/"
         },
         {
+            "title": "Smart Cooling System for a Machinery Room Group5",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Cooling-System-for-a-Machinery-Room-Group5/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Cooling-System-for-a-Machinery-Room-Group5/"
+        },
+        {
             "title": "Interactive Department Map GroupA",
             "category": {
                 "code": "co227",
@@ -7894,6 +8219,19 @@
     ],
     "E/18/327": [
         {
+            "title": "Disease Monitoring in dairy industry",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Disease-Monitoring-in-dairy-industry/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Disease-Monitoring-in-dairy-industry",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Disease-Monitoring-in-dairy-industry",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Disease-Monitoring-in-dairy-industry/"
+        },
+        {
             "title": "Smart Planting System",
             "category": {
                 "code": "3yp",
@@ -7905,6 +8243,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Planting-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Planting-System/"
+        },
+        {
+            "title": "Automated Smart Lighting System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Automated-Smart-Lighting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Automated-Smart-Lighting-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Automated-Smart-Lighting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Automated-Smart-Lighting-System/"
         },
         {
             "title": "Interactive Department Map GroupA",
@@ -7921,6 +8272,19 @@
         }
     ],
     "E/18/329": [
+        {
+            "title": "Handwritten_Essay_Marking_Software",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Handwritten_Essay_Marking_Software/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Handwritten_Essay_Marking_Software",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Handwritten_Essay_Marking_Software",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Handwritten_Essay_Marking_Software/"
+        },
         {
             "title": "smart glove",
             "category": {
@@ -8004,6 +8368,19 @@
     ],
     "E/18/340": [
         {
+            "title": "Optical Character Recognition and Translation from Sinhala to Tamil for Printed Documents",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
+        },
+        {
             "title": "Development of an Image Capturing Unit for Remote Monitoring",
             "category": {
                 "code": "co227",
@@ -8019,6 +8396,19 @@
     ],
     "E/18/349": [
         {
+            "title": "Disease Monitoring in dairy industry",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Disease-Monitoring-in-dairy-industry/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Disease-Monitoring-in-dairy-industry",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Disease-Monitoring-in-dairy-industry",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Disease-Monitoring-in-dairy-industry/"
+        },
+        {
             "title": "Smart Planting System",
             "category": {
                 "code": "3yp",
@@ -8030,6 +8420,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Planting-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Planting-System/"
+        },
+        {
+            "title": "Automated Smart Lighting System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Automated-Smart-Lighting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Automated-Smart-Lighting-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Automated-Smart-Lighting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Automated-Smart-Lighting-System/"
         },
         {
             "title": "Molding Machine Dashboard",
@@ -8060,6 +8463,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Patient-Monitoring-System-for-Ambulances/"
         },
         {
+            "title": "Smart Cooling System for a Machinery Room Group5",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Cooling-System-for-a-Machinery-Room-Group5/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Cooling-System-for-a-Machinery-Room-Group5/"
+        },
+        {
             "title": "Interactive Department Map GroupA",
             "category": {
                 "code": "co227",
@@ -8074,6 +8490,19 @@
         }
     ],
     "E/18/366": [
+        {
+            "title": "Optical Character Recognition and Translation from Sinhala to Tamil for Printed Documents",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Optical-Character-Recognition-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
+        },
         {
             "title": "Corals Protector",
             "category": {
@@ -8143,6 +8572,19 @@
         }
     ],
     "E/18/373": [
+        {
+            "title": "Digital Twin",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Digital-Twin/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Digital-Twin",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Digital-Twin",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Digital-Twin/"
+        },
         {
             "title": "Development of an Image Capturing Unit for Remote Monitoring",
             "category": {
@@ -8268,6 +8710,19 @@
         }
     ],
     "E/18/397": [
+        {
+            "title": "ML For Structural Health Monitoring",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-For-Structural-Health-Monitoring/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-For-Structural-Health-Monitoring",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-For-Structural-Health-Monitoring",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/"
+        },
         {
             "title": "Smart Locker System",
             "category": {
