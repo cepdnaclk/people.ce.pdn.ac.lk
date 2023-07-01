@@ -1,5 +1,10 @@
 [
     {
+        "title": "E16 Batch",
+        "url": "/students/e16",
+        "graduation_year": "#"
+    },
+    {
         "title": "E15 Batch",
         "url": "/students/e15",
         "graduation_year": "#"
