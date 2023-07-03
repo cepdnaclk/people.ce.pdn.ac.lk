@@ -1,6 +1,7 @@
 ---
 layout: badge_page
 title: Volunteered Administrator/Moderator
+subtitle: 
 permalink: "/badges/volunteered-admin-moderator/"
 badge_image: "images/badges/admin-moderator.png"
 badge_description: "Department of Computer Engineering allows students to participate in various activities to improve their leadership and management skills. This Badge was offered as an acknowledgment to the students who are actively involved in managing and moderating digital spaces of the Department Communities. "

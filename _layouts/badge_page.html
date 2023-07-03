@@ -24,7 +24,14 @@ layout: default
             <img src="{{ page.badge_image | relative_url}}" alt="{{ page.title }}" class="img-fluid">
         </div>
         <div class="col-sm-9 d-flex align-items-center">
-            {{ page.badge_description }}
+            <div>
+                <h4 class="card-title">{{ page.title }}</h4>
+                {%- if page.subtitle != "" -%}
+                <h6 class="card-title test-secondary">{{ page.subtitle }}</h6>
+                {%- endif -%}
+
+                {{ page.badge_description }}
+            </div>
         </div>
 
     </div>

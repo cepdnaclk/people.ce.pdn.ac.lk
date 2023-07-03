@@ -58,6 +58,7 @@ def create_page(data):
     page_content = """---
 layout: badge_page
 title: """ + data['title'] + """
+subtitle: """ + data['subtitle'] + """
 permalink: \"/badges/""" + data['tag'] + "/" + """\"
 badge_image: \"""" + data['image'] + """\"
 badge_description: \"""" + data['description'] + """\"
@@ -100,6 +101,7 @@ for filename in directory_list:
     # Append the badge details
     badges_file['badges'][tag] = {
         "title": badge_data['title'],
+        "subtitle": badge_data['subtitle'],
         "image": badge_data['image'],
         "description": badge_data['description'],
         "page": page_url,
@@ -122,6 +124,9 @@ for filename in directory_list:
     # Create a page for the badge
     create_page(badge_data)
 
+# Sort Badge list on each student 
+for stud in badges_file['members']:
+    badges_file['members'][stud] = sorted(badges_file['members'][stud], key=lambda item: item['tag'])
 # Generate the '_data/badges.json'
 filename = "../_data/badges.json"
 os.makedirs(os.path.dirname(filename), exist_ok=True)
