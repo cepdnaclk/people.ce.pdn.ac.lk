@@ -4469,6 +4469,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-heart-disease-using-ECG/"
         },
         {
+            "title": "network anomaly detection",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/network-anomaly-detection/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-network-anomaly-detection",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-network-anomaly-detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/"
+        },
+        {
             "title": "Covid Tracer",
             "category": {
                 "code": "3yp",
@@ -4536,6 +4549,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data/"
+        },
+        {
+            "title": "flexible glove for real time tracking and analysis of hand and finger movements",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/"
         }
     ],
     "E/17/072": [
@@ -5209,6 +5235,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-road-accident-analyzer",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/road-accident-analyzer/"
+        },
+        {
+            "title": "flexible glove for real time tracking and analysis of hand and finger movements",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/"
         }
     ],
     "E/17/219": [
@@ -5418,6 +5457,19 @@
     ],
     "E/17/251": [
         {
+            "title": "network anomaly detection",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/network-anomaly-detection/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-network-anomaly-detection",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-network-anomaly-detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/"
+        },
+        {
             "title": "E Parking System",
             "category": {
                 "code": "3yp",
@@ -5444,6 +5496,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-heart-disease-using-ECG",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-heart-disease-using-ECG/"
+        },
+        {
+            "title": "network anomaly detection",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/network-anomaly-detection/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-network-anomaly-detection",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-network-anomaly-detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/"
         },
         {
             "title": "Covid Tracer",
@@ -5720,6 +5785,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-6sp-Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Greenhouse-monitoring-and-controlling-based-on-IOT-sensor-data/"
+        },
+        {
+            "title": "flexible glove for real time tracking and analysis of hand and finger movements",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/"
         }
     ],
     "E/17/318": [

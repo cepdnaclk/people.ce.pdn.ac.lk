@@ -1470,7 +1470,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 29,
+        "count": 30,
         "projects": {
             "e17": [
                 {
@@ -1602,6 +1602,19 @@
                     "page_url": "https://cepdnaclk.github.io/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/"
+                },
+                {
+                    "title": "network anomaly detection",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/network-anomaly-detection/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-network-anomaly-detection",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-network-anomaly-detection",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/"
                 },
                 {
                     "title": "novel compression methods for nanopore raw signal data",
@@ -1857,6 +1870,26 @@
             ]
         }
     },
+    "roshanr@pdn.ac.lk": {
+        "count": 1,
+        "projects": {
+            "e17": [
+                {
+                    "title": "flexible glove for real time tracking and analysis of hand and finger movements",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/"
+                }
+            ]
+        }
+    },
     "sachith.seneviratne@unimelb.edu.au": {
         "count": 1,
         "projects": {
@@ -2008,6 +2041,26 @@
             ]
         }
     },
+    "sunethn@pdn.ac.lk": {
+        "count": 1,
+        "projects": {
+            "e17": [
+                {
+                    "title": "network anomaly detection",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/network-anomaly-detection/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-network-anomaly-detection",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-network-anomaly-detection",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/"
+                }
+            ]
+        }
+    },
     "suranjisk@gmail.com": {
         "count": 2,
         "projects": {
@@ -2142,7 +2195,7 @@
         "projects": {}
     },
     "titus@eng.pdn.ac.lk": {
-        "count": 1,
+        "count": 2,
         "projects": {
             "e17": [
                 {
@@ -2157,6 +2210,19 @@
                     "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+                },
+                {
+                    "title": "flexible glove for real time tracking and analysis of hand and finger movements",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/"
                 }
             ]
         }
