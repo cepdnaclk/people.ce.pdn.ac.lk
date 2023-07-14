@@ -149,7 +149,7 @@
     "url_profile": "",
     "linkedin": "https://www.linkedin.com/in/rashmi-neelawathura-b8b94b21a/",
     "joined_date": "2022-09-05",
-    "left_date": ""
+    "left_date": "2023-07-21"
   },
   {
     "staff_name": "Dinindu Thilakarathna",
@@ -159,10 +159,8 @@
     "url_profile": "/students/e16/366/",
     "linkedin": "https://www.linkedin.com/in/dinindu-thilakarathna/",
     "joined_date": "2023-03-01",
-    "left_date": ""
-  }
-
-  ,
+    "left_date": "2023-06-01"
+  },
   {
     "staff_name": "Isuru Pamuditha Thilakasiri",
     "text_below_name": "Temporary Instructor",
@@ -181,6 +179,16 @@
     "url_profile": "",
     "linkedin": "http://linkedin.com/in/thilinaldissanayake",
     "joined_date": "2023-04-17",
+    "left_date": ""
+  },
+  {
+    "staff_name": "Sachintha Kavishan",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/staff/temporary-academic-staff/sachintha.jpg",
+    "email": "kavishan@eng.pdn.ac.lk",
+    "url_profile": "",
+    "linkedin": "http://linkedin.com/in/sachintha-kavishan-8a09a7207",
+    "joined_date": "2023-06-01",
     "left_date": ""
   }
 ]
