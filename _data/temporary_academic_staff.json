@@ -57,7 +57,7 @@
     "url_profile": "",
     "linkedin": "https://www.linkedin.com/in/thusharabandara/",
     "joined_date": "",
-    "left_date": ""
+    "left_date": "2023-07-21"
   },
   {
     "staff_name": "Kalani Hansima",
@@ -189,6 +189,16 @@
     "url_profile": "",
     "linkedin": "http://linkedin.com/in/sachintha-kavishan-8a09a7207",
     "joined_date": "2023-06-01",
+    "left_date": ""
+  },
+  {
+    "staff_name": "Oshadhi Rajapakshe",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/staff/temporary-academic-staff/oshadi.jpg",
+    "email": "oshadhi@eng.pdn.ac.lk",
+    "url_profile": "",
+    "linkedin": "https://www.linkedin.com/in/oshadhi-rajapakshe-321132207",
+    "joined_date": "2023-07-10",
     "left_date": ""
   }
 ]
