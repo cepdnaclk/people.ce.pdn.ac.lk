@@ -9117,6 +9117,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-management-system-for-a-restaurant/"
         }
     ],
+    "E/19/095": [
+        {
+            "title": "Online Learning Platform",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Learning-Platform/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Learning-Platform",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Learning-Platform",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Learning-Platform/"
+        }
+    ],
     "E/19/163": [
         {
             "title": "Medical Clinic Manager",
@@ -9130,6 +9145,36 @@
             "page_url": "https://cepdnaclk.github.io/e19-co226-Medical-Clinic-Manager",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Medical-Clinic-Manager/"
+        }
+    ],
+    "E/19/253": [
+        {
+            "title": "Online Learning Platform",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Learning-Platform/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Learning-Platform",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Learning-Platform",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Learning-Platform/"
+        }
+    ],
+    "E/19/306": [
+        {
+            "title": "Online Learning Platform",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Learning-Platform/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Learning-Platform",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Learning-Platform",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Learning-Platform/"
         }
     ]
 }
