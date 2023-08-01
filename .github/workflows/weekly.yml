@@ -1,9 +1,9 @@
-name: Update Profile Details
+name: Weekly Updates
 
 on:
   schedule:
-    # # At 18:30 UTC on everyday (12.00 mid night in Sri Lanka)
-    - cron: "30 18 * * *"
+    # At 19:00 on Sunday. (12.30 mid night in Sri Lanka)
+    - cron: "0 19 * * 0"
 
   # Enables a button on Actions tab
   workflow_dispatch:
@@ -33,24 +33,29 @@ jobs:
           pip install googledrivedownloader
           pip install pytz
 
-      - name: Update student profiles from Google Form
-        env:
-          GOOGLE_FORM_CSV_LINK: ${{ secrets.GOOGLE_FORM_CSV_LINK }}
+      # This may not really needed now
+      - name: Download Academic Staff pages from Google Drive
         run: |
           cd ./python_scripts
-          python3 update_profile_from_google_form.py
+          python3 download_staff_pages_from_drive.py
+          cd ../
+      # -------------------------------
+      - name: Generate Performance Badges for the students
+        run: |
+          cd ./python_scripts
+          python3 update_badges.py
           cd ../
 
-      - name: Update postgrad students from Google Form
+      - name: Update ACES Committee Details
         run: |
           cd ./python_scripts
-          python3 update_postgrad_from_google_form.py
+          python3 update_socities.py
           cd ../
 
-      - name: Resize student images
+      - name: Resize staff images
         run: |
           cd ./python_scripts
-          python3 resize_student_images.py
+          python3 resize_staff_images.py
           cd ../
 
       - name: Commit and push into the main branch
@@ -58,5 +63,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add --all
-          git commit -m "Profiles were updated with the details from Google Form" || echo "No changes"
+          git commit -m "Weekly workflow" || echo "No changes"
           git push
