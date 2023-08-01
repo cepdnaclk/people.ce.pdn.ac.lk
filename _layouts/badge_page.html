@@ -74,5 +74,12 @@ layout: default
             </div>
         </div>
         {% endfor %}
+
+        <div class="pt-5">
+            {%- if page.badge_criteria != "" -%}
+            <hr>
+            Criteria: <span class="text-muted">{{ page.badge_criteria }}</span>
+            {%- endif -%}
+        </div>
     </div>
 </div>
