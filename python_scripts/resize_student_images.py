@@ -15,10 +15,10 @@ def crop_to_square(imagePath):
         new_height = int(height * 300 / width)
         resized_image = image.resize((new_width, new_height))
 
-        # Crop
+        # Crop - Center
         size = min(new_width, new_height)
-        left = (width - size) // 2
-        upper = (height - size) // 2
+        left = (new_width - size) // 2
+        upper = (new_height - size) // 2
         right = left + size
         lower = upper + size
 
