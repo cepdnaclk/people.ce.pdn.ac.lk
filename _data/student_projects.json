@@ -9087,6 +9087,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developement-Tracking-System-Mobileapplication/"
         }
     ],
+    "E/19/006": [
+        {
+            "title": "Mobile app for Inpatient Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
+        }
+    ],
     "E/19/007": [
         {
             "title": "School Attendance Management System Mobile Application",
@@ -9199,6 +9214,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co226-Medical-Clinic-Manager",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Medical-Clinic-Manager/"
+        },
+        {
+            "title": "Mobile app for Inpatient Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
         }
     ],
     "E/19/029": [
@@ -9214,6 +9242,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-student-results-management-system-webapp",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/student-results-management-system-webapp/"
+        }
+    ],
+    "E/19/034": [
+        {
+            "title": "Mobile app for Inpatient Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
         }
     ],
     "E/19/057": [
@@ -9583,6 +9626,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
         }
     ],
+    "E/19/167": [
+        {
+            "title": "Mobile app for Inpatient Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
+        }
+    ],
     "E/19/170": [
         {
             "title": "Library Management System",
@@ -9626,6 +9684,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developement-Tracking-System-Mobileapplication",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developement-Tracking-System-Mobileapplication/"
+        }
+    ],
+    "E/19/226": [
+        {
+            "title": "Mobile app for Inpatient Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
         }
     ],
     "E/19/227": [
@@ -9815,6 +9888,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-student-results-management-system-webapp",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/student-results-management-system-webapp/"
+        }
+    ],
+    "E/19/310": [
+        {
+            "title": "Mobile app for Inpatient Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
         }
     ],
     "E/19/324": [
@@ -10038,6 +10126,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
         }
     ],
+    "E/19/426": [
+        {
+            "title": "Mobile app for Inpatient Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
+        }
+    ],
     "E/19/431": [
         {
             "title": "Library Management System Web App",
@@ -10051,6 +10154,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System-Web-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
+        }
+    ],
+    "E/19/432": [
+        {
+            "title": "Mobile app for Inpatient Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
         }
     ],
     "E/19/436": [
