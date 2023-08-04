@@ -9613,6 +9613,19 @@
     ],
     "E/19/166": [
         {
+            "title": "Online Shopping System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping-System/"
+        },
+        {
             "title": "Library Management System Web App",
             "category": {
                 "code": "co225",
@@ -9906,6 +9919,19 @@
         }
     ],
     "E/19/324": [
+        {
+            "title": "Online Shopping System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping-System/"
+        },
         {
             "title": "Library Management System Web App",
             "category": {
