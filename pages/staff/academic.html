@@ -29,6 +29,7 @@ title: Academic Staff
             <li class="nav-item"><a class="nav-link filter-button" data-filter="senior_lecturer" href="#">Senior
                     Lecturers</a></li>
             <li class="nav-item"><a class="nav-link filter-button" data-filter="lecturer" href="#">Lecturers</a></li>
+            <li class="nav-item"><a class="nav-link filter-button" data-filter="lecturer_prob" href="#">Lecturers (Prob)</a></li>
             <!-- <li class="nav-item"><a class="nav-link filter-button" data-filter="past" href="#">Past Staff</a></li> -->
         </ul>
 
@@ -41,6 +42,8 @@ title: Academic Staff
             {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Senior Lecturer" %}
 
             {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Lecturer" %}
+
+            {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Lecturer_Prob" %}
         </div>
     </div>
 </div>
