@@ -9087,6 +9087,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developement-Tracking-System-Mobileapplication/"
         }
     ],
+    "E/19/006": [
+        {
+            "title": "Mobile app for Inpatient Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
+        }
+    ],
     "E/19/007": [
         {
             "title": "School Attendance Management System Mobile Application",
@@ -9199,6 +9214,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co226-Medical-Clinic-Manager",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Medical-Clinic-Manager/"
+        },
+        {
+            "title": "Mobile app for Inpatient Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
         }
     ],
     "E/19/029": [
@@ -9214,6 +9242,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-student-results-management-system-webapp",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/student-results-management-system-webapp/"
+        }
+    ],
+    "E/19/034": [
+        {
+            "title": "Mobile app for Inpatient Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
         }
     ],
     "E/19/057": [
@@ -9304,19 +9347,34 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/student-results-management-system-webapp/"
         }
     ],
-    "E/19/094": [
+    "E/19/091": [
         {
-            "title": "sharedspaces",
+            "title": "Library Management System",
             "category": {
                 "code": "co225",
                 "title": "Software Constructions Projects (CO225)",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/sharedspaces/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co225-sharedspaces",
-            "page_url": "https://cepdnaclk.github.io/e19-co225-sharedspaces",
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Library-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Library-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/sharedspaces/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System/"
+        }
+    ],
+    "E/19/094": [
+        {
+            "title": "Department Space Management System Web Application",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Department-Space-Management-System-Web-Application/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Department-Space-Management-System-Web-Application",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Department-Space-Management-System-Web-Application",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Department-Space-Management-System-Web-Application/"
         }
     ],
     "E/19/095": [
@@ -9360,6 +9418,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-In-Patient-Management-System-For-a-Hospital",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/In-Patient-Management-System-For-a-Hospital/"
+        }
+    ],
+    "E/19/100": [
+        {
+            "title": "Library Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Library-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Library-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System/"
         }
     ],
     "E/19/111": [
@@ -9407,17 +9480,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Cricket-Statistics/"
         },
         {
-            "title": "sharedspaces",
+            "title": "Department Space Management System Web Application",
             "category": {
                 "code": "co225",
                 "title": "Software Constructions Projects (CO225)",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/sharedspaces/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co225-sharedspaces",
-            "page_url": "https://cepdnaclk.github.io/e19-co225-sharedspaces",
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Department-Space-Management-System-Web-Application/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Department-Space-Management-System-Web-Application",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Department-Space-Management-System-Web-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/sharedspaces/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Department-Space-Management-System-Web-Application/"
         }
     ],
     "E/19/131": [
@@ -9435,6 +9508,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
         }
     ],
+    "E/19/133": [
+        {
+            "title": "Library Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Library-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Library-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System/"
+        }
+    ],
     "E/19/134": [
         {
             "title": "School Attendance Management System Mobile Application",
@@ -9448,6 +9536,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-School-Attendance-Management-System-Mobile-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/School-Attendance-Management-System-Mobile-Application/"
+        }
+    ],
+    "E/19/137": [
+        {
+            "title": "Library Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Library-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Library-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System/"
         }
     ],
     "E/19/142": [
@@ -9510,6 +9613,19 @@
     ],
     "E/19/166": [
         {
+            "title": "Online Shopping System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping-System/"
+        },
+        {
             "title": "Library Management System Web App",
             "category": {
                 "code": "co225",
@@ -9521,6 +9637,36 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System-Web-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
+        }
+    ],
+    "E/19/167": [
+        {
+            "title": "Mobile app for Inpatient Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
+        }
+    ],
+    "E/19/170": [
+        {
+            "title": "Library Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Library-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Library-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System/"
         }
     ],
     "E/19/193": [
@@ -9551,6 +9697,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developement-Tracking-System-Mobileapplication",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developement-Tracking-System-Mobileapplication/"
+        }
+    ],
+    "E/19/226": [
+        {
+            "title": "Mobile app for Inpatient Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
         }
     ],
     "E/19/227": [
@@ -9716,6 +9877,19 @@
     ],
     "E/19/309": [
         {
+            "title": "database for a social media site",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-for-a-social-media-site/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-database-for-a-social-media-site",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-database-for-a-social-media-site",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-for-a-social-media-site/"
+        },
+        {
             "title": "student results management system webapp",
             "category": {
                 "code": "co225",
@@ -9729,7 +9903,35 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/student-results-management-system-webapp/"
         }
     ],
+    "E/19/310": [
+        {
+            "title": "Mobile app for Inpatient Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
+        }
+    ],
     "E/19/324": [
+        {
+            "title": "Online Shopping System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping-System/"
+        },
         {
             "title": "Library Management System Web App",
             "category": {
@@ -9742,6 +9944,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System-Web-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
+        }
+    ],
+    "E/19/349": [
+        {
+            "title": "Library Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Library-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Library-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System/"
         }
     ],
     "E/19/363": [
@@ -9774,6 +9991,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/student-results-management-system-webapp/"
         }
     ],
+    "E/19/371": [
+        {
+            "title": "Library Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Library-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Library-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System/"
+        }
+    ],
     "E/19/372": [
         {
             "title": "Database for Cricket Statistics",
@@ -9789,17 +10021,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Cricket-Statistics/"
         },
         {
-            "title": "sharedspaces",
+            "title": "Department Space Management System Web Application",
             "category": {
                 "code": "co225",
                 "title": "Software Constructions Projects (CO225)",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/sharedspaces/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co225-sharedspaces",
-            "page_url": "https://cepdnaclk.github.io/e19-co225-sharedspaces",
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Department-Space-Management-System-Web-Application/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Department-Space-Management-System-Web-Application",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Department-Space-Management-System-Web-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/sharedspaces/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Department-Space-Management-System-Web-Application/"
         }
     ],
     "E/19/375": [
@@ -9847,17 +10079,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Cricket-Statistics/"
         },
         {
-            "title": "sharedspaces",
+            "title": "Department Space Management System Web Application",
             "category": {
                 "code": "co225",
                 "title": "Software Constructions Projects (CO225)",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/sharedspaces/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co225-sharedspaces",
-            "page_url": "https://cepdnaclk.github.io/e19-co225-sharedspaces",
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Department-Space-Management-System-Web-Application/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Department-Space-Management-System-Web-Application",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Department-Space-Management-System-Web-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/sharedspaces/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Department-Space-Management-System-Web-Application/"
         }
     ],
     "E/19/409": [
@@ -9873,6 +10105,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developement-Tracking-System-Mobileapplication",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developement-Tracking-System-Mobileapplication/"
+        }
+    ],
+    "E/19/413": [
+        {
+            "title": "Library Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Library-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Library-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System/"
         }
     ],
     "E/19/423": [
@@ -9905,6 +10152,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
         }
     ],
+    "E/19/426": [
+        {
+            "title": "Mobile app for Inpatient Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
+        }
+    ],
     "E/19/431": [
         {
             "title": "Library Management System Web App",
@@ -9920,7 +10182,35 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
         }
     ],
+    "E/19/432": [
+        {
+            "title": "Mobile app for Inpatient Management System",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Mobile-app-for-Inpatient-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
+        }
+    ],
     "E/19/436": [
+        {
+            "title": "database for a social media site",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-for-a-social-media-site/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-database-for-a-social-media-site",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-database-for-a-social-media-site",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-for-a-social-media-site/"
+        },
         {
             "title": "student results management system webapp",
             "category": {
@@ -9951,6 +10241,19 @@
         }
     ],
     "E/19/446": [
+        {
+            "title": "database for a social media site",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-for-a-social-media-site/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-database-for-a-social-media-site",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-database-for-a-social-media-site",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-for-a-social-media-site/"
+        },
         {
             "title": "student results management system webapp",
             "category": {

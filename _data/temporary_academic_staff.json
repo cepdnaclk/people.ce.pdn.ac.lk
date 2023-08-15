@@ -200,5 +200,16 @@
     "linkedin": "https://www.linkedin.com/in/oshadhi-rajapakshe-321132207",
     "joined_date": "2023-07-10",
     "left_date": ""
+  },
+  {
+    "staff_name": "Kavindu Herath",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/staff/temporary-academic-staff/kavindu.jpg",
+    "email": "kavindu@eng.pdn.ac.lk",
+    "url_profile": "",
+    "linkedin": "https://www.linkedin.com/in/kavindu-herath",
+    "github": "https://github.com/kavindu1997129",
+    "joined_date": "2023-08-02",
+    "left_date": ""
   }
 ]
