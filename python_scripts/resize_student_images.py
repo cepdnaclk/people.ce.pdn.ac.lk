@@ -16,8 +16,9 @@ def run():
 
         for eachImage in os.listdir(imagesPath + f"/{eachFolder}"):
             try:
-                imagePath = imagesPath + f"/{eachFolder}/{eachImage}"
-                crop_to_square(imagePath)
+                if eachFolder == "e09":
+                    imagePath = imagesPath + f"/{eachFolder}/{eachImage}"
+                    crop_to_square(imagePath)
 
             except Exception as e:
                 print(f"\t Failed to resize image {imagePath}, {e}")

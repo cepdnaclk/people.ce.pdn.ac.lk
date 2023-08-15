@@ -16,7 +16,7 @@ def crop_to_square(imagePath):
             # Crop - Center
             size = min(new_width, new_height)
             left = (new_width - size) // 2
-            upper = (new_height - size) // 2
+            upper = (new_height - size) // 4
             right = left + size
             lower = upper + size
 
