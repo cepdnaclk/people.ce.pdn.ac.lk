@@ -16,7 +16,7 @@ def crop_to_square(imagePath):
             # Crop - Center
             size = min(new_width, new_height)
             left = (new_width - size) // 2
-            upper = (new_height - size) // 4
+            upper = (new_height - size) // 2
             right = left + size
             lower = upper + size
 
@@ -26,6 +26,6 @@ def crop_to_square(imagePath):
                 cropped_image.save(imagePath)
                 print("\t Resized \t {}".format(imagePath))
             else:
-                print("\t {} No resize \t {}".format(imagePath))
+                print("\t No resize \t {}".format(imagePath))
     else:
         print("\t Not supported \t {}".format(imagePath))
