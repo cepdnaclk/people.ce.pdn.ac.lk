@@ -25,3 +25,4 @@ personalNotes.txt
 # force rebuild
 
 .vscode
+.DS_Store
