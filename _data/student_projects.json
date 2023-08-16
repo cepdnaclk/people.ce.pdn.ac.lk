@@ -6756,6 +6756,19 @@
     ],
     "E/18/059": [
         {
+            "title": "Database for Bank Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-for-Bank-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-for-Bank-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Bank-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Bank-Management-System/"
+        },
+        {
             "title": "student results management system webapp",
             "category": {
                 "code": "co225",
@@ -10188,6 +10201,19 @@
         }
     ],
     "E/19/366": [
+        {
+            "title": "Database for Bank Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-for-Bank-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-for-Bank-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Bank-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Bank-Management-System/"
+        },
         {
             "title": "student results management system webapp",
             "category": {
