@@ -4342,6 +4342,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-E-Parking-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/E-Parking-System/"
+        },
+        {
+            "title": "RV32IM Pipeline Implementation Group1",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e17/RV32IM-Pipeline-Implementation-Group1/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co502-RV32IM-Pipeline-Implementation-Group1",
+            "page_url": "https://cepdnaclk.github.io/e17-co502-RV32IM-Pipeline-Implementation-Group1",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E17/RV32IM-Pipeline-Implementation-Group1/"
         }
     ],
     "E/17/027": [
@@ -4646,6 +4659,21 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-Remote-Gatekeeping-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Remote-Gatekeeping-System/"
+        }
+    ],
+    "E/17/091": [
+        {
+            "title": "RV32IM Pipeline Implementation Group1",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e17/RV32IM-Pipeline-Implementation-Group1/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co502-RV32IM-Pipeline-Implementation-Group1",
+            "page_url": "https://cepdnaclk.github.io/e17-co502-RV32IM-Pipeline-Implementation-Group1",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E17/RV32IM-Pipeline-Implementation-Group1/"
         }
     ],
     "E/17/100": [
@@ -5742,6 +5770,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-E-Parking-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/E-Parking-System/"
+        },
+        {
+            "title": "RV32IM Pipeline Implementation Group1",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e17/RV32IM-Pipeline-Implementation-Group1/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co502-RV32IM-Pipeline-Implementation-Group1",
+            "page_url": "https://cepdnaclk.github.io/e17-co502-RV32IM-Pipeline-Implementation-Group1",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E17/RV32IM-Pipeline-Implementation-Group1/"
         }
     ],
     "E/17/297": [
@@ -5990,6 +6031,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-maker-mate",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/maker-mate/"
+        },
+        {
+            "title": "RV32IM Pipeline Implementation Group1",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e17/RV32IM-Pipeline-Implementation-Group1/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co502-RV32IM-Pipeline-Implementation-Group1",
+            "page_url": "https://cepdnaclk.github.io/e17-co502-RV32IM-Pipeline-Implementation-Group1",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E17/RV32IM-Pipeline-Implementation-Group1/"
         }
     ],
     "E/17/352": [
