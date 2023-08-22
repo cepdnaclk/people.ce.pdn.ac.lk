@@ -1389,6 +1389,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/"
         },
         {
+            "title": "Pera Knowledge Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
+            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
+        },
+        {
             "title": "Remotely Controlled CNC Robot",
             "category": {
                 "code": "co326",
@@ -1413,19 +1426,6 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
-        },
-        {
-            "title": "Pera Knowledge Portal",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
-            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
         }
     ],
     "E/15/142": [
@@ -1540,6 +1540,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/"
         },
         {
+            "title": "Pera Knowledge Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
+            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
+        },
+        {
             "title": "Remotely Controlled CNC Robot",
             "category": {
                 "code": "co326",
@@ -1564,19 +1577,6 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
-        },
-        {
-            "title": "Pera Knowledge Portal",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
-            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
         }
     ],
     "E/15/179": [
@@ -2393,6 +2393,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/"
         },
         {
+            "title": "Pera Knowledge Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
+            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
+        },
+        {
             "title": "Remotely Controlled CNC Robot",
             "category": {
                 "code": "co326",
@@ -2417,19 +2430,6 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
-        },
-        {
-            "title": "Pera Knowledge Portal",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e15/Pera-Knowledge-Portal/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co227-Pera-Knowledge-Portal",
-            "page_url": "https://cepdnaclk.github.io/e15-co227-Pera-Knowledge-Portal",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E15/Pera-Knowledge-Portal/"
         }
     ],
     "E/15/351": [
@@ -6417,19 +6417,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-glove/"
         },
         {
-            "title": "Smart Home Security System",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Home-Security-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/"
-        },
-        {
             "title": "Department Course Page Group B",
             "category": {
                 "code": "co227",
@@ -6441,6 +6428,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-B/"
+        },
+        {
+            "title": "Smart Home Security System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Home-Security-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/"
         },
         {
             "title": "RV32IM pipeline implementation group05",
@@ -6484,19 +6484,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Corals-Protector/"
         },
         {
-            "title": "Patient monitoring system",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Patient-monitoring-system/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Patient-monitoring-system",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Patient-monitoring-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Patient-monitoring-system/"
-        },
-        {
             "title": "SnaT Meal Tracking App Group A",
             "category": {
                 "code": "co227",
@@ -6508,6 +6495,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-A/"
+        },
+        {
+            "title": "Patient monitoring system",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Patient-monitoring-system/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Patient-monitoring-system",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Patient-monitoring-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Patient-monitoring-system/"
         }
     ],
     "E/18/017": [
@@ -6538,19 +6538,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Poultry-Farming/"
         },
         {
-            "title": "Smart Energy Meter",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Meter/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Energy-Meter",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Energy-Meter",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Meter/"
-        },
-        {
             "title": "Poultry Feed Efficiency Tracking System Group 12",
             "category": {
                 "code": "co227",
@@ -6562,6 +6549,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-12/"
+        },
+        {
+            "title": "Smart Energy Meter",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Meter/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Energy-Meter",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Energy-Meter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Meter/"
         }
     ],
     "E/18/022": [
@@ -6592,19 +6592,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Patient-Monitoring-System-for-Ambulances/"
         },
         {
-            "title": "Smart Cooling System for a Machinery Room Group5",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Cooling-System-for-a-Machinery-Room-Group5/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Cooling-System-for-a-Machinery-Room-Group5/"
-        },
-        {
             "title": "Molding Machine Dashboard",
             "category": {
                 "code": "co227",
@@ -6616,9 +6603,35 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Molding-Machine-Dashboard",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Molding-Machine-Dashboard/"
+        },
+        {
+            "title": "Smart Cooling System for a Machinery Room Group5",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Cooling-System-for-a-Machinery-Room-Group5/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Cooling-System-for-a-Machinery-Room-Group5/"
         }
     ],
     "E/18/028": [
+        {
+            "title": "Price Prediction in Stock Market",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Price-Prediction-in-Stock-Market/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Price-Prediction-in-Stock-Market",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Price-Prediction-in-Stock-Market",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Price-Prediction-in-Stock-Market/"
+        },
         {
             "title": "smart safety helmet",
             "category": {
@@ -6674,19 +6687,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Medicine-Dispenser/"
         },
         {
-            "title": "water level monitoring and control system",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/water-level-monitoring-and-control-system/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-water-level-monitoring-and-control-system",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-water-level-monitoring-and-control-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/water-level-monitoring-and-control-system/"
-        },
-        {
             "title": "SnaT Meal Tracking App Group B",
             "category": {
                 "code": "co227",
@@ -6698,6 +6698,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-B/"
+        },
+        {
+            "title": "water level monitoring and control system",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/water-level-monitoring-and-control-system/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-water-level-monitoring-and-control-system",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-water-level-monitoring-and-control-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/water-level-monitoring-and-control-system/"
         }
     ],
     "E/18/036": [
@@ -6756,19 +6769,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Traffic-Ecosystem/"
         },
         {
-            "title": "Patient monitoring system",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Patient-monitoring-system/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Patient-monitoring-system",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Patient-monitoring-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Patient-monitoring-system/"
-        },
-        {
             "title": "Smart Inventory Management System Group C",
             "category": {
                 "code": "co227",
@@ -6780,6 +6780,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
+        },
+        {
+            "title": "Patient monitoring system",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Patient-monitoring-system/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Patient-monitoring-system",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Patient-monitoring-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Patient-monitoring-system/"
         },
         {
             "title": "RV32IM pipeline implementation group03",
@@ -6948,19 +6961,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
         },
         {
-            "title": "Smart Traffic Light System",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Traffic-Light-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Traffic-Light-System",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Traffic-Light-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Traffic-Light-System/"
-        },
-        {
             "title": "Smart Inventory Management System Group A",
             "category": {
                 "code": "co227",
@@ -6972,6 +6972,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-A/"
+        },
+        {
+            "title": "Smart Traffic Light System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Traffic-Light-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Traffic-Light-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Traffic-Light-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Traffic-Light-System/"
         }
     ],
     "E/18/100": [
@@ -7002,19 +7015,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
         },
         {
-            "title": "Smart Traffic Light System",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Traffic-Light-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Traffic-Light-System",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Traffic-Light-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Traffic-Light-System/"
-        },
-        {
             "title": "Smart Inventory Management System Group A",
             "category": {
                 "code": "co227",
@@ -7026,6 +7026,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-A/"
+        },
+        {
+            "title": "Smart Traffic Light System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Traffic-Light-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Traffic-Light-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Traffic-Light-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Traffic-Light-System/"
         }
     ],
     "E/18/115": [
@@ -7056,19 +7069,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Corals-Protector/"
         },
         {
-            "title": "Patient monitoring system",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Patient-monitoring-system/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Patient-monitoring-system",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Patient-monitoring-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Patient-monitoring-system/"
-        },
-        {
             "title": "Smart Inventory Management System Group C",
             "category": {
                 "code": "co227",
@@ -7080,6 +7080,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
+        },
+        {
+            "title": "Patient monitoring system",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Patient-monitoring-system/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Patient-monitoring-system",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Patient-monitoring-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Patient-monitoring-system/"
         }
     ],
     "E/18/118": [
@@ -7207,19 +7220,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Mini-Greenhouse-Monitoring-And-Control-System/"
         },
         {
-            "title": "Smart Home Security System",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Home-Security-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/"
-        },
-        {
             "title": "Logging Microservice for IoT based Smart Agriculture Project",
             "category": {
                 "code": "co227",
@@ -7231,6 +7231,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Logging-Microservice-for-IoT-based-Smart-Agriculture-Project",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Logging-Microservice-for-IoT-based-Smart-Agriculture-Project/"
+        },
+        {
+            "title": "Smart Home Security System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Home-Security-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/"
         }
     ],
     "E/18/150": [
@@ -7289,19 +7302,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Planting-System/"
         },
         {
-            "title": "Automated Smart Lighting System",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Automated-Smart-Lighting-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Automated-Smart-Lighting-System",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Automated-Smart-Lighting-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Automated-Smart-Lighting-System/"
-        },
-        {
             "title": "Molding Machine Dashboard",
             "category": {
                 "code": "co227",
@@ -7313,6 +7313,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Molding-Machine-Dashboard",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Molding-Machine-Dashboard/"
+        },
+        {
+            "title": "Automated Smart Lighting System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Automated-Smart-Lighting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Automated-Smart-Lighting-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Automated-Smart-Lighting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Automated-Smart-Lighting-System/"
         }
     ],
     "E/18/155": [
@@ -7343,19 +7356,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
         },
         {
-            "title": "Smart Traffic Light System",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Traffic-Light-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Traffic-Light-System",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Traffic-Light-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Traffic-Light-System/"
-        },
-        {
             "title": "Smart Inventory Management System Group A",
             "category": {
                 "code": "co227",
@@ -7367,6 +7367,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-A/"
+        },
+        {
+            "title": "Smart Traffic Light System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Traffic-Light-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Traffic-Light-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Traffic-Light-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Traffic-Light-System/"
         }
     ],
     "E/18/156": [
@@ -7397,19 +7410,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-glove/"
         },
         {
-            "title": "Smart Home Security System",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Home-Security-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/"
-        },
-        {
             "title": "Auto Marking and Student Performance Analyser System for Continuous Assessments Group A",
             "category": {
                 "code": "co227",
@@ -7421,6 +7421,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A/"
+        },
+        {
+            "title": "Smart Home Security System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Home-Security-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Home-Security-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Home-Security-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Home-Security-System/"
         }
     ],
     "E/18/168": [
@@ -7492,19 +7505,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/non-invaisve-glucose-meter/"
         },
         {
-            "title": "home automation system group01",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/home-automation-system-group01/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-home-automation-system-group01",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-home-automation-system-group01",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/home-automation-system-group01/"
-        },
-        {
             "title": "Image Data Handling System for Research Group A",
             "category": {
                 "code": "co227",
@@ -7516,6 +7516,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Image-Data-Handling-System-for-Research-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-A/"
+        },
+        {
+            "title": "home automation system group01",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/home-automation-system-group01/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-home-automation-system-group01",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-home-automation-system-group01",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/home-automation-system-group01/"
         },
         {
             "title": "RV32IM pipeline implementation group03",
@@ -7532,6 +7545,19 @@
         }
     ],
     "E/18/173": [
+        {
+            "title": "Price Prediction in Stock Market",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Price-Prediction-in-Stock-Market/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Price-Prediction-in-Stock-Market",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Price-Prediction-in-Stock-Market",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Price-Prediction-in-Stock-Market/"
+        },
         {
             "title": "smart safety helmet",
             "category": {
@@ -7587,19 +7613,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Poultry-Farming/"
         },
         {
-            "title": "Smart Energy Meter",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Meter/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Energy-Meter",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Energy-Meter",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Meter/"
-        },
-        {
             "title": "Poultry Feed Efficiency Tracking System Group 12",
             "category": {
                 "code": "co227",
@@ -7611,6 +7624,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-12/"
+        },
+        {
+            "title": "Smart Energy Meter",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Meter/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Energy-Meter",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Energy-Meter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Meter/"
         }
     ],
     "E/18/180": [
@@ -7641,19 +7667,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Locker-System/"
         },
         {
-            "title": "Smart Energy Management System",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-CO326-Smart-Energy-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e18-CO326-Smart-Energy-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Management-System/"
-        },
-        {
             "title": "Poultry Feed Efficiency Tracking System Group 17",
             "category": {
                 "code": "co227",
@@ -7665,6 +7678,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-17",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-17/"
+        },
+        {
+            "title": "Smart Energy Management System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-CO326-Smart-Energy-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e18-CO326-Smart-Energy-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Management-System/"
         }
     ],
     "E/18/181": [
@@ -7736,19 +7762,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Accident-Detection-And-Notification-System/"
         },
         {
-            "title": "home automation system group01",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/home-automation-system-group01/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-home-automation-system-group01",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-home-automation-system-group01",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/home-automation-system-group01/"
-        },
-        {
             "title": "Department Course Page Group B",
             "category": {
                 "code": "co227",
@@ -7760,6 +7773,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-B/"
+        },
+        {
+            "title": "home automation system group01",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/home-automation-system-group01/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-home-automation-system-group01",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-home-automation-system-group01",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/home-automation-system-group01/"
         },
         {
             "title": "RV32IM pipeline implementation group03",
@@ -7818,6 +7844,19 @@
     ],
     "E/18/224": [
         {
+            "title": "Department Course Page Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Department-Course-Page-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
+        },
+        {
             "title": "home automation system group01",
             "category": {
                 "code": "co326",
@@ -7829,7 +7868,9 @@
             "page_url": "https://cepdnaclk.github.io/e18-co326-home-automation-system-group01",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/home-automation-system-group01/"
-        },
+        }
+    ],
+    "E/18/227": [
         {
             "title": "Department Course Page Group A",
             "category": {
@@ -7842,9 +7883,7 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
-        }
-    ],
-    "E/18/227": [
+        },
         {
             "title": "Smart Energy Management System",
             "category": {
@@ -7857,19 +7896,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-CO326-Smart-Energy-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Management-System/"
-        },
-        {
-            "title": "Department Course Page Group A",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Department-Course-Page-Group-A/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A",
-            "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
         },
         {
             "title": "RV32IM pipeline implementation group05",
@@ -8023,19 +8049,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Locker-System/"
         },
         {
-            "title": "Smart Energy Management System",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-CO326-Smart-Energy-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e18-CO326-Smart-Energy-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Management-System/"
-        },
-        {
             "title": "Poultry Feed Efficiency Tracking System Group 17",
             "category": {
                 "code": "co227",
@@ -8047,6 +8060,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-17",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-17/"
+        },
+        {
+            "title": "Smart Energy Management System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-CO326-Smart-Energy-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e18-CO326-Smart-Energy-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Management-System/"
         }
     ],
     "E/18/276": [
@@ -8105,19 +8131,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/non-invaisve-glucose-meter/"
         },
         {
-            "title": "water level monitoring and control system",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/water-level-monitoring-and-control-system/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-water-level-monitoring-and-control-system",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-water-level-monitoring-and-control-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/water-level-monitoring-and-control-system/"
-        },
-        {
             "title": "Image Data Handling System for Research Group B",
             "category": {
                 "code": "co227",
@@ -8129,6 +8142,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Image-Data-Handling-System-for-Research-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-B/"
+        },
+        {
+            "title": "water level monitoring and control system",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/water-level-monitoring-and-control-system/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-water-level-monitoring-and-control-system",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-water-level-monitoring-and-control-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/water-level-monitoring-and-control-system/"
         }
     ],
     "E/18/283": [
@@ -8159,19 +8185,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Health-Watch-with-Emergency-Detection/"
         },
         {
-            "title": "water level monitoring and control system",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/water-level-monitoring-and-control-system/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-water-level-monitoring-and-control-system",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-water-level-monitoring-and-control-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/water-level-monitoring-and-control-system/"
-        },
-        {
             "title": "Automated Notification System for Examinations",
             "category": {
                 "code": "co227",
@@ -8183,9 +8196,35 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Automated-Notification-System-for-Examinations",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Automated-Notification-System-for-Examinations/"
+        },
+        {
+            "title": "water level monitoring and control system",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/water-level-monitoring-and-control-system/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-water-level-monitoring-and-control-system",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-water-level-monitoring-and-control-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/water-level-monitoring-and-control-system/"
         }
     ],
     "E/18/285": [
+        {
+            "title": "Price Prediction in Stock Market",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Price-Prediction-in-Stock-Market/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Price-Prediction-in-Stock-Market",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Price-Prediction-in-Stock-Market",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Price-Prediction-in-Stock-Market/"
+        },
         {
             "title": "smart safety helmet",
             "category": {
@@ -8241,19 +8280,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-pet-collar/"
         },
         {
-            "title": "laboratory environment monitoring",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/laboratory-environment-monitoring/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-laboratory-environment-monitoring",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-laboratory-environment-monitoring",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/laboratory-environment-monitoring/"
-        },
-        {
             "title": "Augmented Reality Guidance System",
             "category": {
                 "code": "co227",
@@ -8265,6 +8291,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Augmented-Reality-Guidance-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Augmented-Reality-Guidance-System/"
+        },
+        {
+            "title": "laboratory environment monitoring",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/laboratory-environment-monitoring/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-laboratory-environment-monitoring",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-laboratory-environment-monitoring",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/laboratory-environment-monitoring/"
         }
     ],
     "E/18/304": [
@@ -8295,19 +8334,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Poultry-Farming/"
         },
         {
-            "title": "Smart Energy Meter",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Meter/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Energy-Meter",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Energy-Meter",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Meter/"
-        },
-        {
             "title": "Poultry Feed Efficiency Tracking System Group 12",
             "category": {
                 "code": "co227",
@@ -8319,6 +8345,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-12/"
+        },
+        {
+            "title": "Smart Energy Meter",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Energy-Meter/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Energy-Meter",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Energy-Meter",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Energy-Meter/"
         }
     ],
     "E/18/318": [
@@ -8349,19 +8388,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Patient-Monitoring-System-for-Ambulances/"
         },
         {
-            "title": "Smart Cooling System for a Machinery Room Group5",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Cooling-System-for-a-Machinery-Room-Group5/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Cooling-System-for-a-Machinery-Room-Group5/"
-        },
-        {
             "title": "Interactive Department Map GroupA",
             "category": {
                 "code": "co227",
@@ -8373,6 +8399,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Interactive-Department-Map-GroupA",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Interactive-Department-Map-GroupA/"
+        },
+        {
+            "title": "Smart Cooling System for a Machinery Room Group5",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Cooling-System-for-a-Machinery-Room-Group5/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Cooling-System-for-a-Machinery-Room-Group5/"
         }
     ],
     "E/18/323": [
@@ -8444,19 +8483,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Planting-System/"
         },
         {
-            "title": "Automated Smart Lighting System",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Automated-Smart-Lighting-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Automated-Smart-Lighting-System",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Automated-Smart-Lighting-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Automated-Smart-Lighting-System/"
-        },
-        {
             "title": "Interactive Department Map GroupA",
             "category": {
                 "code": "co227",
@@ -8468,6 +8494,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Interactive-Department-Map-GroupA",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Interactive-Department-Map-GroupA/"
+        },
+        {
+            "title": "Automated Smart Lighting System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Automated-Smart-Lighting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Automated-Smart-Lighting-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Automated-Smart-Lighting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Automated-Smart-Lighting-System/"
         }
     ],
     "E/18/329": [
@@ -8621,19 +8660,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Planting-System/"
         },
         {
-            "title": "Automated Smart Lighting System",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Automated-Smart-Lighting-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Automated-Smart-Lighting-System",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Automated-Smart-Lighting-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Automated-Smart-Lighting-System/"
-        },
-        {
             "title": "Molding Machine Dashboard",
             "category": {
                 "code": "co227",
@@ -8645,6 +8671,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Molding-Machine-Dashboard",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Molding-Machine-Dashboard/"
+        },
+        {
+            "title": "Automated Smart Lighting System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Automated-Smart-Lighting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Automated-Smart-Lighting-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Automated-Smart-Lighting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Automated-Smart-Lighting-System/"
         }
     ],
     "E/18/354": [
@@ -8675,19 +8714,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Patient-Monitoring-System-for-Ambulances/"
         },
         {
-            "title": "Smart Cooling System for a Machinery Room Group5",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Cooling-System-for-a-Machinery-Room-Group5/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Cooling-System-for-a-Machinery-Room-Group5/"
-        },
-        {
             "title": "Interactive Department Map GroupA",
             "category": {
                 "code": "co227",
@@ -8699,6 +8725,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Interactive-Department-Map-GroupA",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Interactive-Department-Map-GroupA/"
+        },
+        {
+            "title": "Smart Cooling System for a Machinery Room Group5",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Cooling-System-for-a-Machinery-Room-Group5/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Cooling-System-for-a-Machinery-Room-Group5/"
         }
     ],
     "E/18/366": [
@@ -8949,19 +8988,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Locker-System/"
         },
         {
-            "title": "laboratory environment monitoring",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/laboratory-environment-monitoring/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-laboratory-environment-monitoring",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-laboratory-environment-monitoring",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/laboratory-environment-monitoring/"
-        },
-        {
             "title": "Poultry Feed Efficiency Tracking System Group 17",
             "category": {
                 "code": "co227",
@@ -8973,6 +8999,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-17",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-17/"
+        },
+        {
+            "title": "laboratory environment monitoring",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/laboratory-environment-monitoring/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-laboratory-environment-monitoring",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-laboratory-environment-monitoring",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/laboratory-environment-monitoring/"
         },
         {
             "title": "RV32IM Pipeline Implementation Group4",
@@ -9057,19 +9096,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-pet-collar/"
         },
         {
-            "title": "laboratory environment monitoring",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/laboratory-environment-monitoring/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-laboratory-environment-monitoring",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-laboratory-environment-monitoring",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/laboratory-environment-monitoring/"
-        },
-        {
             "title": "Augmented Reality Guidance System",
             "category": {
                 "code": "co227",
@@ -9081,6 +9107,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Augmented-Reality-Guidance-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Augmented-Reality-Guidance-System/"
+        },
+        {
+            "title": "laboratory environment monitoring",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/laboratory-environment-monitoring/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-laboratory-environment-monitoring",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-laboratory-environment-monitoring",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/laboratory-environment-monitoring/"
         },
         {
             "title": "RV32IM Pipeline Implementation Group4",
@@ -9371,6 +9410,19 @@
     ],
     "E/19/074": [
         {
+            "title": "A Simple Web or Mobile Application For A Gym",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/A-Simple-Web-or-Mobile-Application-For-A-Gym/",
+            "repo_url": "https://github.com/cepdnaclk/e19-CO227-A-Simple-Web-or-Mobile-Application-For-A-Gym",
+            "page_url": "https://cepdnaclk.github.io/e19-CO227-A-Simple-Web-or-Mobile-Application-For-A-Gym",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/A-Simple-Web-or-Mobile-Application-For-A-Gym/"
+        },
+        {
             "title": "Database for Bank Management System",
             "category": {
                 "code": "co226",
@@ -9627,6 +9679,19 @@
     ],
     "E/19/124": [
         {
+            "title": "A Simple Web or Mobile Application For A Gym",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/A-Simple-Web-or-Mobile-Application-For-A-Gym/",
+            "repo_url": "https://github.com/cepdnaclk/e19-CO227-A-Simple-Web-or-Mobile-Application-For-A-Gym",
+            "page_url": "https://cepdnaclk.github.io/e19-CO227-A-Simple-Web-or-Mobile-Application-For-A-Gym",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/A-Simple-Web-or-Mobile-Application-For-A-Gym/"
+        },
+        {
             "title": "Library Management System Web App",
             "category": {
                 "code": "co225",
@@ -9788,17 +9853,17 @@
     ],
     "E/19/166": [
         {
-            "title": "Online Shopping System",
+            "title": "A Simple Web or Mobile Application For A Gym",
             "category": {
-                "code": "co226",
-                "title": "Database Projects (CO226)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping-System",
-            "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping-System/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/A-Simple-Web-or-Mobile-Application-For-A-Gym/",
+            "repo_url": "https://github.com/cepdnaclk/e19-CO227-A-Simple-Web-or-Mobile-Application-For-A-Gym",
+            "page_url": "https://cepdnaclk.github.io/e19-CO227-A-Simple-Web-or-Mobile-Application-For-A-Gym",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/A-Simple-Web-or-Mobile-Application-For-A-Gym/"
         },
         {
             "title": "practice",
@@ -9812,6 +9877,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-practice",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/practice/"
+        },
+        {
+            "title": "Online Shopping System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping-System/"
         },
         {
             "title": "Library Management System Web App",
@@ -10481,6 +10559,19 @@
         }
     ],
     "E/19/424": [
+        {
+            "title": "A Simple Web or Mobile Application For A Gym",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/A-Simple-Web-or-Mobile-Application-For-A-Gym/",
+            "repo_url": "https://github.com/cepdnaclk/e19-CO227-A-Simple-Web-or-Mobile-Application-For-A-Gym",
+            "page_url": "https://cepdnaclk.github.io/e19-CO227-A-Simple-Web-or-Mobile-Application-For-A-Gym",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/A-Simple-Web-or-Mobile-Application-For-A-Gym/"
+        },
         {
             "title": "Library Management System Web App",
             "category": {
