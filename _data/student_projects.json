@@ -9225,6 +9225,19 @@
     ],
     "E/19/008": [
         {
+            "title": "digital reporting of technical visits",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/digital-reporting-of-technical-visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-digital-reporting-of-technical-visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-digital-reporting-of-technical-visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-reporting-of-technical-visits/"
+        },
+        {
             "title": "database management system for a restaurant",
             "category": {
                 "code": "co226",
@@ -9252,6 +9265,19 @@
         }
     ],
     "E/19/009": [
+        {
+            "title": "digital reporting of technical visits",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/digital-reporting-of-technical-visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-digital-reporting-of-technical-visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-digital-reporting-of-technical-visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-reporting-of-technical-visits/"
+        },
         {
             "title": "database management system for a restaurant",
             "category": {
@@ -9380,7 +9406,35 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developement-Tracking-System-Mobileapplication/"
         }
     ],
+    "E/19/060": [
+        {
+            "title": "school attendance management system",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/school-attendance-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-school-attendance-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-school-attendance-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/school-attendance-management-system/"
+        }
+    ],
     "E/19/063": [
+        {
+            "title": "digital reporting of technical visits",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/digital-reporting-of-technical-visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-digital-reporting-of-technical-visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-digital-reporting-of-technical-visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-reporting-of-technical-visits/"
+        },
         {
             "title": "database management system for a restaurant",
             "category": {
@@ -9406,6 +9460,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developing-Tracking-System-Web-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developing-Tracking-System-Web-Application/"
+        }
+    ],
+    "E/19/069": [
+        {
+            "title": "school attendance management system",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/school-attendance-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-school-attendance-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-school-attendance-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/school-attendance-management-system/"
         }
     ],
     "E/19/074": [
@@ -10171,6 +10240,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developing-Tracking-System-Web-Application/"
         }
     ],
+    "E/19/266": [
+        {
+            "title": "school attendance management system",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/school-attendance-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-school-attendance-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-school-attendance-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/school-attendance-management-system/"
+        }
+    ],
     "E/19/275": [
         {
             "title": "student results management system webapp",
@@ -10199,6 +10283,36 @@
             "page_url": "https://cepdnaclk.github.io/e19-CO225-Student-Result-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Student-Result-Management-System/"
+        }
+    ],
+    "E/19/295": [
+        {
+            "title": "school attendance management system",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/school-attendance-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-school-attendance-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-school-attendance-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/school-attendance-management-system/"
+        }
+    ],
+    "E/19/300": [
+        {
+            "title": "school attendance management system",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/school-attendance-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-school-attendance-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-school-attendance-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/school-attendance-management-system/"
         }
     ],
     "E/19/304": [
@@ -10301,6 +10415,19 @@
         }
     ],
     "E/19/324": [
+        {
+            "title": "digital reporting of technical visits",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/digital-reporting-of-technical-visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-digital-reporting-of-technical-visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-digital-reporting-of-technical-visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-reporting-of-technical-visits/"
+        },
         {
             "title": "Online Shopping System",
             "category": {
@@ -10715,6 +10842,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/student-results-management-system-webapp/"
         }
     ],
+    "E/19/452": [
+        {
+            "title": "school attendance management system",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/school-attendance-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-school-attendance-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-school-attendance-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/school-attendance-management-system/"
+        }
+    ],
     "E/19/453": [
         {
             "title": "Flight Management System",
@@ -10771,6 +10913,36 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developing-Tracking-System-Web-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developing-Tracking-System-Web-Application/"
+        }
+    ],
+    "E/19/492": [
+        {
+            "title": "school attendance management system",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/school-attendance-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-school-attendance-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-school-attendance-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/school-attendance-management-system/"
+        }
+    ],
+    "E/19/494": [
+        {
+            "title": "school attendance management system",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/school-attendance-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-school-attendance-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-school-attendance-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/school-attendance-management-system/"
         }
     ],
     "E/19/495": [
