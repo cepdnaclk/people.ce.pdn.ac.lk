@@ -6823,6 +6823,19 @@
     ],
     "E/18/059": [
         {
+            "title": "aiesec local committee manangement system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/aiesec-local-committee-manangement-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-aiesec-local-committee-manangement-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-aiesec-local-committee-manangement-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/aiesec-local-committee-manangement-system/"
+        },
+        {
             "title": "Database for Bank Management System",
             "category": {
                 "code": "co226",
@@ -6834,19 +6847,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Bank-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Bank-Management-System/"
-        },
-        {
-            "title": "aiesec local committee manangement system",
-            "category": {
-                "code": "co226",
-                "title": "Database Projects (CO226)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/aiesec-local-committee-manangement-system/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co226-aiesec-local-committee-manangement-system",
-            "page_url": "https://cepdnaclk.github.io/e19-co226-aiesec-local-committee-manangement-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/aiesec-local-committee-manangement-system/"
         },
         {
             "title": "student results management system webapp",
@@ -9391,15 +9391,15 @@
         {
             "title": "aiesec local committee manangement system",
             "category": {
-                "code": "co226",
-                "title": "Database Projects (CO226)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/aiesec-local-committee-manangement-system/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co226-aiesec-local-committee-manangement-system",
-            "page_url": "https://cepdnaclk.github.io/e19-co226-aiesec-local-committee-manangement-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/aiesec-local-committee-manangement-system/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/aiesec-local-committee-manangement-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-aiesec-local-committee-manangement-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-aiesec-local-committee-manangement-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/aiesec-local-committee-manangement-system/"
         },
         {
             "title": "student results management system webapp",
@@ -9798,6 +9798,19 @@
     ],
     "E/19/111": [
         {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ACES-Project-Fund-Requests/"
+        },
+        {
             "title": "Online Shopping",
             "category": {
                 "code": "co226",
@@ -10140,6 +10153,19 @@
     ],
     "E/19/210": [
         {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ACES-Project-Fund-Requests/"
+        },
+        {
             "title": "Student Result Management System",
             "category": {
                 "code": "co225",
@@ -10154,6 +10180,19 @@
         }
     ],
     "E/19/224": [
+        {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ACES-Project-Fund-Requests/"
+        },
         {
             "title": "Student Result Management System",
             "category": {
@@ -10286,6 +10325,19 @@
     ],
     "E/19/249": [
         {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ACES-Project-Fund-Requests/"
+        },
+        {
             "title": "Student Result Management System",
             "category": {
                 "code": "co225",
@@ -10376,15 +10428,15 @@
         {
             "title": "aiesec local committee manangement system",
             "category": {
-                "code": "co226",
-                "title": "Database Projects (CO226)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/aiesec-local-committee-manangement-system/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co226-aiesec-local-committee-manangement-system",
-            "page_url": "https://cepdnaclk.github.io/e19-co226-aiesec-local-committee-manangement-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/aiesec-local-committee-manangement-system/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/aiesec-local-committee-manangement-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-aiesec-local-committee-manangement-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-aiesec-local-committee-manangement-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/aiesec-local-committee-manangement-system/"
         },
         {
             "title": "student results management system webapp",
@@ -10708,6 +10760,19 @@
     ],
     "E/19/366": [
         {
+            "title": "aiesec local committee manangement system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/aiesec-local-committee-manangement-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-aiesec-local-committee-manangement-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-aiesec-local-committee-manangement-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/aiesec-local-committee-manangement-system/"
+        },
+        {
             "title": "Database for Bank Management System",
             "category": {
                 "code": "co226",
@@ -10719,19 +10784,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Bank-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Bank-Management-System/"
-        },
-        {
-            "title": "aiesec local committee manangement system",
-            "category": {
-                "code": "co226",
-                "title": "Database Projects (CO226)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/aiesec-local-committee-manangement-system/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co226-aiesec-local-committee-manangement-system",
-            "page_url": "https://cepdnaclk.github.io/e19-co226-aiesec-local-committee-manangement-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/aiesec-local-committee-manangement-system/"
         },
         {
             "title": "student results management system webapp",
