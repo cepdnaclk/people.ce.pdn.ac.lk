@@ -216,6 +216,7 @@ image_url: {image_path}
                 print("Student doesnt exist in the json files. Creating new entry", "*"*20)
                 dataInJSON[studentData[REG_NO].upper()] = {}
                 thisStudent = dataInJSON[studentData[REG_NO].upper()]
+                thisStudent['reg_no'] = studentData[REG_NO].upper()
                 
                 # reorder the dict
                 dataInJSON = dict(sorted(dataInJSON.items()))
