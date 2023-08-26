@@ -210,7 +210,15 @@ image_url: {image_path}
             # select student from json file
             jsonPath = f"../_data/stud/e{batch.lower()}.json"
             dataInJSON = json.load(open(jsonPath))
-            thisStudent = dataInJSON[studentData[REG_NO].upper()]
+            try:
+                thisStudent = dataInJSON[studentData[REG_NO].upper()]
+            except KeyError as e:
+                print("Student doesnt exist in the json files. Creating new entry", "*"*20)
+                dataInJSON[studentData[REG_NO].upper()] = {}
+                thisStudent = dataInJSON[studentData[REG_NO].upper()]
+                
+                # reorder the dict
+                dataInJSON = dict(sorted(dataInJSON.items()))
 
             # change data
             thisStudent["page_url"] = f"/students/e{batch.lower()}/{regNo}/"
