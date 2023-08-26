@@ -9236,6 +9236,19 @@
     ],
     "E/19/007": [
         {
+            "title": "Plants disease dataset collection in SriLanka",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Plants-disease-dataset-collection-in-SriLanka/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Plants-disease-dataset-collection-in-SriLanka/"
+        },
+        {
             "title": "School Attendance Management System Mobile Application",
             "category": {
                 "code": "co225",
@@ -9502,6 +9515,19 @@
         }
     ],
     "E/19/069": [
+        {
+            "title": "Plants disease dataset collection in SriLanka",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Plants-disease-dataset-collection-in-SriLanka/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Plants-disease-dataset-collection-in-SriLanka/"
+        },
         {
             "title": "school attendance management system",
             "category": {
@@ -9925,6 +9951,19 @@
     ],
     "E/19/134": [
         {
+            "title": "Plants disease dataset collection in SriLanka",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Plants-disease-dataset-collection-in-SriLanka/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Plants-disease-dataset-collection-in-SriLanka/"
+        },
+        {
             "title": "School Attendance Management System Mobile Application",
             "category": {
                 "code": "co225",
@@ -10106,6 +10145,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System/"
+        }
+    ],
+    "E/19/174": [
+        {
+            "title": "Plants disease dataset collection in SriLanka",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Plants-disease-dataset-collection-in-SriLanka/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Plants-disease-dataset-collection-in-SriLanka/"
         }
     ],
     "E/19/193": [
