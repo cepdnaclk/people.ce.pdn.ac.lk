@@ -9374,6 +9374,19 @@
     ],
     "E/19/028": [
         {
+            "title": "TecHub help desk ticketing system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/TecHub-help-desk-ticketing-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-TecHub-help-desk-ticketing-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-TecHub-help-desk-ticketing-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/TecHub-help-desk-ticketing-system/"
+        },
+        {
             "title": "Medical Clinic Manager",
             "category": {
                 "code": "co226",
@@ -9628,6 +9641,19 @@
     ],
     "E/19/091": [
         {
+            "title": "Dental faculty management system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-faculty-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-faculty-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-faculty-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-faculty-management-system/"
+        },
+        {
             "title": "Library Management System",
             "category": {
                 "code": "co225",
@@ -9642,6 +9668,19 @@
         }
     ],
     "E/19/094": [
+        {
+            "title": "Leaf Colour Quantifier",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Leaf-Colour-Quantifier/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Leaf-Colour-Quantifier",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Leaf-Colour-Quantifier",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Leaf-Colour-Quantifier/"
+        },
         {
             "title": "Department Space Management System Web Application",
             "category": {
@@ -9893,6 +9932,19 @@
     ],
     "E/19/129": [
         {
+            "title": "Leaf Colour Quantifier",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Leaf-Colour-Quantifier/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Leaf-Colour-Quantifier",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Leaf-Colour-Quantifier",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Leaf-Colour-Quantifier/"
+        },
+        {
             "title": "Database for Cricket Statistics",
             "category": {
                 "code": "co226",
@@ -10093,6 +10145,19 @@
     ],
     "E/19/167": [
         {
+            "title": "TecHub help desk ticketing system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/TecHub-help-desk-ticketing-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-TecHub-help-desk-ticketing-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-TecHub-help-desk-ticketing-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/TecHub-help-desk-ticketing-system/"
+        },
+        {
             "title": "Mobile app for Inpatient Management System",
             "category": {
                 "code": "co225",
@@ -10278,6 +10343,19 @@
     ],
     "E/19/227": [
         {
+            "title": "Dental faculty management system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-faculty-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-faculty-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-faculty-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-faculty-management-system/"
+        },
+        {
             "title": "School Attendance Management System Mobile Application",
             "category": {
                 "code": "co225",
@@ -10450,6 +10528,19 @@
     ],
     "E/19/264": [
         {
+            "title": "Dental faculty management system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-faculty-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-faculty-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-faculty-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-faculty-management-system/"
+        },
+        {
             "title": "Baby Developing Tracking System Web Application",
             "category": {
                 "code": "co225",
@@ -10536,6 +10627,19 @@
     ],
     "E/19/295": [
         {
+            "title": "Automatic IC Testing Application",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Automatic-IC-Testing-Application/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Automatic-IC-Testing-Application",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Automatic-IC-Testing-Application",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application/"
+        },
+        {
             "title": "agriculture management system",
             "category": {
                 "code": "co226",
@@ -10564,6 +10668,19 @@
     ],
     "E/19/300": [
         {
+            "title": "Automatic IC Testing Application",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Automatic-IC-Testing-Application/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Automatic-IC-Testing-Application",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Automatic-IC-Testing-Application",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application/"
+        },
+        {
             "title": "agriculture management system",
             "category": {
                 "code": "co226",
@@ -10591,6 +10708,19 @@
         }
     ],
     "E/19/304": [
+        {
+            "title": "Dental faculty management system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-faculty-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-faculty-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-faculty-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-faculty-management-system/"
+        },
         {
             "title": "agriculture management system",
             "category": {
@@ -10688,6 +10818,19 @@
         }
     ],
     "E/19/310": [
+        {
+            "title": "TecHub help desk ticketing system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/TecHub-help-desk-ticketing-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-TecHub-help-desk-ticketing-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-TecHub-help-desk-ticketing-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/TecHub-help-desk-ticketing-system/"
+        },
         {
             "title": "Flight Management System",
             "category": {
@@ -10870,6 +11013,19 @@
     ],
     "E/19/372": [
         {
+            "title": "Leaf Colour Quantifier",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Leaf-Colour-Quantifier/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Leaf-Colour-Quantifier",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Leaf-Colour-Quantifier",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Leaf-Colour-Quantifier/"
+        },
+        {
             "title": "Database for Cricket Statistics",
             "category": {
                 "code": "co226",
@@ -10927,6 +11083,19 @@
         }
     ],
     "E/19/408": [
+        {
+            "title": "Leaf Colour Quantifier",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Leaf-Colour-Quantifier/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Leaf-Colour-Quantifier",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Leaf-Colour-Quantifier",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Leaf-Colour-Quantifier/"
+        },
         {
             "title": "Database for Cricket Statistics",
             "category": {
@@ -11096,6 +11265,19 @@
     ],
     "E/19/431": [
         {
+            "title": "TecHub help desk ticketing system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/TecHub-help-desk-ticketing-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-TecHub-help-desk-ticketing-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-TecHub-help-desk-ticketing-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/TecHub-help-desk-ticketing-system/"
+        },
+        {
             "title": "Library Management System Web App",
             "category": {
                 "code": "co225",
@@ -11223,6 +11405,19 @@
     ],
     "E/19/452": [
         {
+            "title": "Automatic IC Testing Application",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Automatic-IC-Testing-Application/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Automatic-IC-Testing-Application",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Automatic-IC-Testing-Application",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application/"
+        },
+        {
             "title": "Faculty Management System",
             "category": {
                 "code": "co226",
@@ -11308,6 +11503,19 @@
         }
     ],
     "E/19/492": [
+        {
+            "title": "Automatic IC Testing Application",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Automatic-IC-Testing-Application/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Automatic-IC-Testing-Application",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Automatic-IC-Testing-Application",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application/"
+        },
         {
             "title": "Faculty Management System",
             "category": {
