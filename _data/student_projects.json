@@ -4286,6 +4286,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-Milk-Testing-and-Collecting-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Milk-Testing-and-Collecting-System/"
+        },
+        {
+            "title": "RV32IM Pipeline Implementation_Group2",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e17/RV32IM-Pipeline-Implementation_Group2/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co502-RV32IM-Pipeline-Implementation_Group2",
+            "page_url": "https://cepdnaclk.github.io/e17-co502-RV32IM-Pipeline-Implementation_Group2",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E17/RV32IM-Pipeline-Implementation_Group2/"
         }
     ],
     "E/17/015": [
@@ -5466,6 +5479,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-Covid-Tracer",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Covid-Tracer/"
+        },
+        {
+            "title": "RV32IM Pipeline Implementation_Group2",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e17/RV32IM-Pipeline-Implementation_Group2/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co502-RV32IM-Pipeline-Implementation_Group2",
+            "page_url": "https://cepdnaclk.github.io/e17-co502-RV32IM-Pipeline-Implementation_Group2",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E17/RV32IM-Pipeline-Implementation_Group2/"
         }
     ],
     "E/17/246": [
@@ -5658,6 +5684,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Pet-Feeder",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Pet-Feeder/"
+        },
+        {
+            "title": "RV32IM Pipeline Implementation_Group2",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e17/RV32IM-Pipeline-Implementation_Group2/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co502-RV32IM-Pipeline-Implementation_Group2",
+            "page_url": "https://cepdnaclk.github.io/e17-co502-RV32IM-Pipeline-Implementation_Group2",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E17/RV32IM-Pipeline-Implementation_Group2/"
         }
     ],
     "E/17/286": [
@@ -9641,17 +9680,17 @@
     ],
     "E/19/091": [
         {
-            "title": "Dental faculty management system",
+            "title": "Dental patient management system",
             "category": {
                 "code": "co227",
                 "title": "Software Systems Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-faculty-management-system/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-faculty-management-system",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-faculty-management-system",
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-patient-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-patient-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-patient-management-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-faculty-management-system/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-patient-management-system/"
         },
         {
             "title": "Library Management System",
@@ -10343,17 +10382,17 @@
     ],
     "E/19/227": [
         {
-            "title": "Dental faculty management system",
+            "title": "Dental patient management system",
             "category": {
                 "code": "co227",
                 "title": "Software Systems Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-faculty-management-system/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-faculty-management-system",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-faculty-management-system",
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-patient-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-patient-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-patient-management-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-faculty-management-system/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-patient-management-system/"
         },
         {
             "title": "School Attendance Management System Mobile Application",
@@ -10385,6 +10424,19 @@
         }
     ],
     "E/19/240": [
+        {
+            "title": "ESCAL Reservations and Borrowing",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/ESCAL-Reservations-and-Borrowing/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
+        },
         {
             "title": "In Patient Management System For a Hospital",
             "category": {
@@ -10528,17 +10580,17 @@
     ],
     "E/19/264": [
         {
-            "title": "Dental faculty management system",
+            "title": "Dental patient management system",
             "category": {
                 "code": "co227",
                 "title": "Software Systems Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-faculty-management-system/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-faculty-management-system",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-faculty-management-system",
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-patient-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-patient-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-patient-management-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-faculty-management-system/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-patient-management-system/"
         },
         {
             "title": "Baby Developing Tracking System Web Application",
@@ -10598,6 +10650,19 @@
         }
     ],
     "E/19/278": [
+        {
+            "title": "ESCAL Reservations and Borrowing",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/ESCAL-Reservations-and-Borrowing/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
+        },
         {
             "title": "Faculty Management System",
             "category": {
@@ -10709,17 +10774,17 @@
     ],
     "E/19/304": [
         {
-            "title": "Dental faculty management system",
+            "title": "Dental patient management system",
             "category": {
                 "code": "co227",
                 "title": "Software Systems Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-faculty-management-system/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-faculty-management-system",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-faculty-management-system",
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-patient-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-patient-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-patient-management-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-faculty-management-system/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-patient-management-system/"
         },
         {
             "title": "agriculture management system",
@@ -11237,6 +11302,19 @@
     ],
     "E/19/426": [
         {
+            "title": "ESCAL Reservations and Borrowing",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/ESCAL-Reservations-and-Borrowing/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
+        },
+        {
             "title": "Flight Management System",
             "category": {
                 "code": "co226",
@@ -11445,6 +11523,19 @@
         }
     ],
     "E/19/453": [
+        {
+            "title": "ESCAL Reservations and Borrowing",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/ESCAL-Reservations-and-Borrowing/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
+        },
         {
             "title": "Flight Management System",
             "category": {
