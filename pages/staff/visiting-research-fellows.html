@@ -84,7 +84,7 @@ title: Honorary Visiting Research Fellows
                                     aria-label="Close"></button>
                             </div>
                             <div class="modal-body text-start">
-                                <p>Email : <a href="mailto:{{each.email}}">{{each.email}}</a></p>
+                                <p>Email : {% include email_reveal.html email=each.email %}</p>
 
                                 {%- assign numberOfDesignations = each.designations | size -%}
                                 {%- if numberOfDesignations > 0 -%}
@@ -98,16 +98,16 @@ title: Honorary Visiting Research Fellows
                                 </p>
                                 {%- endif -%}
 
-                                {%- if remarks != "#" -%}
-
+                                {%- if each.remarks != "" -%}
                                 <p>
                                     <b>Remarks</b>
                                 <ul>
-                                    <li>{{each.remarks}}</li>
+                                    {%- for eachRemark in each.remarks -%}
+                                    <li>{{eachRemark}}</li>
+                                    {%- endfor -%}
                                 </ul>
-
-                                {%- endif -%}
                                 </p>
+                                {%- endif -%}
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
