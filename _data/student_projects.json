@@ -4286,6 +4286,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-Milk-Testing-and-Collecting-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Milk-Testing-and-Collecting-System/"
+        },
+        {
+            "title": "RV32IM Pipeline Implementation_Group2",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e17/RV32IM-Pipeline-Implementation_Group2/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co502-RV32IM-Pipeline-Implementation_Group2",
+            "page_url": "https://cepdnaclk.github.io/e17-co502-RV32IM-Pipeline-Implementation_Group2",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E17/RV32IM-Pipeline-Implementation_Group2/"
         }
     ],
     "E/17/015": [
@@ -5466,6 +5479,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-Covid-Tracer",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Covid-Tracer/"
+        },
+        {
+            "title": "RV32IM Pipeline Implementation_Group2",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e17/RV32IM-Pipeline-Implementation_Group2/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co502-RV32IM-Pipeline-Implementation_Group2",
+            "page_url": "https://cepdnaclk.github.io/e17-co502-RV32IM-Pipeline-Implementation_Group2",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E17/RV32IM-Pipeline-Implementation_Group2/"
         }
     ],
     "E/17/246": [
@@ -5658,6 +5684,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Pet-Feeder",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Pet-Feeder/"
+        },
+        {
+            "title": "RV32IM Pipeline Implementation_Group2",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e17/RV32IM-Pipeline-Implementation_Group2/",
+            "repo_url": "https://github.com/cepdnaclk/e17-co502-RV32IM-Pipeline-Implementation_Group2",
+            "page_url": "https://cepdnaclk.github.io/e17-co502-RV32IM-Pipeline-Implementation_Group2",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E17/RV32IM-Pipeline-Implementation_Group2/"
         }
     ],
     "E/17/286": [
@@ -9191,6 +9230,19 @@
     ],
     "E/19/003": [
         {
+            "title": "Keyboard for Visually Impaired",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Keyboard-for-Visually-Impaired/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Keyboard-for-Visually-Impaired",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Keyboard-for-Visually-Impaired",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Keyboard-for-Visually-Impaired/"
+        },
+        {
             "title": "Baby Developement Tracking System Mobileapplication",
             "category": {
                 "code": "co225",
@@ -9205,6 +9257,19 @@
         }
     ],
     "E/19/004": [
+        {
+            "title": "Keyboard for Visually Impaired",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Keyboard-for-Visually-Impaired/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Keyboard-for-Visually-Impaired",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Keyboard-for-Visually-Impaired",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Keyboard-for-Visually-Impaired/"
+        },
         {
             "title": "Baby Developement Tracking System Mobileapplication",
             "category": {
@@ -9221,6 +9286,19 @@
     ],
     "E/19/006": [
         {
+            "title": "Mobile app to measure the area of a leaf flower or fruit",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/"
+        },
+        {
             "title": "Mobile app for Inpatient Management System",
             "category": {
                 "code": "co225",
@@ -9235,6 +9313,19 @@
         }
     ],
     "E/19/007": [
+        {
+            "title": "Plants disease dataset collection in SriLanka",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Plants-disease-dataset-collection-in-SriLanka/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Plants-disease-dataset-collection-in-SriLanka/"
+        },
         {
             "title": "School Attendance Management System Mobile Application",
             "category": {
@@ -9333,6 +9424,19 @@
     ],
     "E/19/017": [
         {
+            "title": "Empowering Counselors and Students through Interactive Web and Mobile App",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/"
+        },
+        {
             "title": "Medical Clinic Manager",
             "category": {
                 "code": "co226",
@@ -9360,6 +9464,19 @@
         }
     ],
     "E/19/028": [
+        {
+            "title": "TecHub help desk ticketing system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/TecHub-help-desk-ticketing-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-TecHub-help-desk-ticketing-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-TecHub-help-desk-ticketing-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/TecHub-help-desk-ticketing-system/"
+        },
         {
             "title": "Medical Clinic Manager",
             "category": {
@@ -9416,6 +9533,19 @@
         }
     ],
     "E/19/034": [
+        {
+            "title": "Mobile app to measure the area of a leaf flower or fruit",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/"
+        },
         {
             "title": "Mobile app for Inpatient Management System",
             "category": {
@@ -9503,6 +9633,19 @@
     ],
     "E/19/069": [
         {
+            "title": "Plants disease dataset collection in SriLanka",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Plants-disease-dataset-collection-in-SriLanka/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Plants-disease-dataset-collection-in-SriLanka/"
+        },
+        {
             "title": "school attendance management system",
             "category": {
                 "code": "co225",
@@ -9559,6 +9702,19 @@
     ],
     "E/19/087": [
         {
+            "title": "Empowering Counselors and Students through Interactive Web and Mobile App",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/"
+        },
+        {
             "title": "Baby Developing Tracking System Web Application",
             "category": {
                 "code": "co225",
@@ -9602,6 +9758,19 @@
     ],
     "E/19/091": [
         {
+            "title": "Dental patient management system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-patient-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-patient-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-patient-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-patient-management-system/"
+        },
+        {
             "title": "Library Management System",
             "category": {
                 "code": "co225",
@@ -9617,6 +9786,19 @@
     ],
     "E/19/094": [
         {
+            "title": "Leaf Colour Quantifier",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Leaf-Colour-Quantifier/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Leaf-Colour-Quantifier",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Leaf-Colour-Quantifier",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Leaf-Colour-Quantifier/"
+        },
+        {
             "title": "Department Space Management System Web Application",
             "category": {
                 "code": "co225",
@@ -9631,6 +9813,19 @@
         }
     ],
     "E/19/095": [
+        {
+            "title": "Training Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Training-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Training-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Training-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Training-Management-System/"
+        },
         {
             "title": "Online Learning Platform",
             "category": {
@@ -9659,6 +9854,19 @@
         }
     ],
     "E/19/096": [
+        {
+            "title": "Inventory Management System of Agricultural Biotechnology Centre",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/"
+        },
         {
             "title": "Online Student Registration System",
             "category": {
@@ -9867,6 +10075,19 @@
     ],
     "E/19/129": [
         {
+            "title": "Leaf Colour Quantifier",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Leaf-Colour-Quantifier/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Leaf-Colour-Quantifier",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Leaf-Colour-Quantifier",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Leaf-Colour-Quantifier/"
+        },
+        {
             "title": "Database for Cricket Statistics",
             "category": {
                 "code": "co226",
@@ -9925,6 +10146,19 @@
     ],
     "E/19/134": [
         {
+            "title": "Plants disease dataset collection in SriLanka",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Plants-disease-dataset-collection-in-SriLanka/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Plants-disease-dataset-collection-in-SriLanka/"
+        },
+        {
             "title": "School Attendance Management System Mobile Application",
             "category": {
                 "code": "co225",
@@ -9955,6 +10189,19 @@
     ],
     "E/19/142": [
         {
+            "title": "voice based attendance management system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/voice-based-attendance-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-voice-based-attendance-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-voice-based-attendance-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/voice-based-attendance-management-system/"
+        },
+        {
             "title": "Department Space Management System Mobile App",
             "category": {
                 "code": "co225",
@@ -9970,6 +10217,19 @@
     ],
     "E/19/155": [
         {
+            "title": "Training Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Training-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Training-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Training-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Training-Management-System/"
+        },
+        {
             "title": "Department Space Management System Mobile App",
             "category": {
                 "code": "co225",
@@ -9984,6 +10244,19 @@
         }
     ],
     "E/19/163": [
+        {
+            "title": "Training Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Training-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Training-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Training-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Training-Management-System/"
+        },
         {
             "title": "Medical Clinic Manager",
             "category": {
@@ -10054,6 +10327,19 @@
     ],
     "E/19/167": [
         {
+            "title": "TecHub help desk ticketing system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/TecHub-help-desk-ticketing-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-TecHub-help-desk-ticketing-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-TecHub-help-desk-ticketing-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/TecHub-help-desk-ticketing-system/"
+        },
+        {
             "title": "Mobile app for Inpatient Management System",
             "category": {
                 "code": "co225",
@@ -10106,6 +10392,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System/"
+        }
+    ],
+    "E/19/174": [
+        {
+            "title": "Plants disease dataset collection in SriLanka",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Plants-disease-dataset-collection-in-SriLanka/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Plants-disease-dataset-collection-in-SriLanka/"
         }
     ],
     "E/19/193": [
@@ -10209,6 +10510,19 @@
     ],
     "E/19/226": [
         {
+            "title": "Mobile app to measure the area of a leaf flower or fruit",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/"
+        },
+        {
             "title": "Mobile app for Inpatient Management System",
             "category": {
                 "code": "co225",
@@ -10223,6 +10537,19 @@
         }
     ],
     "E/19/227": [
+        {
+            "title": "Dental patient management system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-patient-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-patient-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-patient-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-patient-management-system/"
+        },
         {
             "title": "School Attendance Management System Mobile Application",
             "category": {
@@ -10239,6 +10566,19 @@
     ],
     "E/19/236": [
         {
+            "title": "Keyboard for Visually Impaired",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Keyboard-for-Visually-Impaired/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Keyboard-for-Visually-Impaired",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Keyboard-for-Visually-Impaired",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Keyboard-for-Visually-Impaired/"
+        },
+        {
             "title": "In Patient Management System For a Hospital",
             "category": {
                 "code": "co225",
@@ -10253,6 +10593,19 @@
         }
     ],
     "E/19/240": [
+        {
+            "title": "ESCAL Reservations and Borrowing",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/ESCAL-Reservations-and-Borrowing/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
+        },
         {
             "title": "In Patient Management System For a Hospital",
             "category": {
@@ -10353,6 +10706,19 @@
     ],
     "E/19/253": [
         {
+            "title": "Training Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Training-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Training-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Training-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Training-Management-System/"
+        },
+        {
             "title": "Online Learning Platform",
             "category": {
                 "code": "co226",
@@ -10381,6 +10747,19 @@
     ],
     "E/19/260": [
         {
+            "title": "Empowering Counselors and Students through Interactive Web and Mobile App",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/"
+        },
+        {
             "title": "Baby Developing Tracking System Web Application",
             "category": {
                 "code": "co225",
@@ -10395,6 +10774,19 @@
         }
     ],
     "E/19/264": [
+        {
+            "title": "Dental patient management system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-patient-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-patient-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-patient-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-patient-management-system/"
+        },
         {
             "title": "Baby Developing Tracking System Web Application",
             "category": {
@@ -10454,6 +10846,19 @@
     ],
     "E/19/278": [
         {
+            "title": "ESCAL Reservations and Borrowing",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/ESCAL-Reservations-and-Borrowing/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
+        },
+        {
             "title": "Faculty Management System",
             "category": {
                 "code": "co226",
@@ -10481,6 +10886,19 @@
         }
     ],
     "E/19/295": [
+        {
+            "title": "Automatic IC Testing Application Using FPGA",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Automatic-IC-Testing-Application-Using-FPGA/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Automatic-IC-Testing-Application-Using-FPGA",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Automatic-IC-Testing-Application-Using-FPGA",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application-Using-FPGA/"
+        },
         {
             "title": "agriculture management system",
             "category": {
@@ -10510,6 +10928,19 @@
     ],
     "E/19/300": [
         {
+            "title": "Automatic IC Testing Application Using FPGA",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Automatic-IC-Testing-Application-Using-FPGA/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Automatic-IC-Testing-Application-Using-FPGA",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Automatic-IC-Testing-Application-Using-FPGA",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application-Using-FPGA/"
+        },
+        {
             "title": "agriculture management system",
             "category": {
                 "code": "co226",
@@ -10538,6 +10969,19 @@
     ],
     "E/19/304": [
         {
+            "title": "Dental patient management system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-patient-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-patient-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-patient-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-patient-management-system/"
+        },
+        {
             "title": "agriculture management system",
             "category": {
                 "code": "co226",
@@ -10565,6 +11009,19 @@
         }
     ],
     "E/19/306": [
+        {
+            "title": "Inventory Management System of Agricultural Biotechnology Centre",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/"
+        },
         {
             "title": "Online Learning Platform",
             "category": {
@@ -10634,6 +11091,19 @@
         }
     ],
     "E/19/310": [
+        {
+            "title": "TecHub help desk ticketing system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/TecHub-help-desk-ticketing-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-TecHub-help-desk-ticketing-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-TecHub-help-desk-ticketing-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/TecHub-help-desk-ticketing-system/"
+        },
         {
             "title": "Flight Management System",
             "category": {
@@ -10745,6 +11215,19 @@
     ],
     "E/19/363": [
         {
+            "title": "voice based attendance management system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/voice-based-attendance-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-voice-based-attendance-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-voice-based-attendance-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/voice-based-attendance-management-system/"
+        },
+        {
             "title": "School Attendance Management System Mobile Application",
             "category": {
                 "code": "co225",
@@ -10816,6 +11299,19 @@
     ],
     "E/19/372": [
         {
+            "title": "Leaf Colour Quantifier",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Leaf-Colour-Quantifier/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Leaf-Colour-Quantifier",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Leaf-Colour-Quantifier",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Leaf-Colour-Quantifier/"
+        },
+        {
             "title": "Database for Cricket Statistics",
             "category": {
                 "code": "co226",
@@ -10844,6 +11340,19 @@
     ],
     "E/19/375": [
         {
+            "title": "voice based attendance management system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/voice-based-attendance-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-voice-based-attendance-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-voice-based-attendance-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/voice-based-attendance-management-system/"
+        },
+        {
             "title": "School Attendance Management System Mobile Application",
             "category": {
                 "code": "co225",
@@ -10859,6 +11368,19 @@
     ],
     "E/19/405": [
         {
+            "title": "Inventory Management System of Agricultural Biotechnology Centre",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/"
+        },
+        {
             "title": "In Patient Management System For a Hospital",
             "category": {
                 "code": "co225",
@@ -10873,6 +11395,19 @@
         }
     ],
     "E/19/408": [
+        {
+            "title": "Leaf Colour Quantifier",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Leaf-Colour-Quantifier/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Leaf-Colour-Quantifier",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Leaf-Colour-Quantifier",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Leaf-Colour-Quantifier/"
+        },
         {
             "title": "Database for Cricket Statistics",
             "category": {
@@ -11014,6 +11549,19 @@
     ],
     "E/19/426": [
         {
+            "title": "ESCAL Reservations and Borrowing",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/ESCAL-Reservations-and-Borrowing/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
+        },
+        {
             "title": "Flight Management System",
             "category": {
                 "code": "co226",
@@ -11042,6 +11590,19 @@
     ],
     "E/19/431": [
         {
+            "title": "TecHub help desk ticketing system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/TecHub-help-desk-ticketing-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-TecHub-help-desk-ticketing-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-TecHub-help-desk-ticketing-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/TecHub-help-desk-ticketing-system/"
+        },
+        {
             "title": "Library Management System Web App",
             "category": {
                 "code": "co225",
@@ -11056,6 +11617,19 @@
         }
     ],
     "E/19/432": [
+        {
+            "title": "Mobile app to measure the area of a leaf flower or fruit",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/"
+        },
         {
             "title": "Mobile app for Inpatient Management System",
             "category": {
@@ -11113,6 +11687,19 @@
     ],
     "E/19/443": [
         {
+            "title": "Keyboard for Visually Impaired",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Keyboard-for-Visually-Impaired/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Keyboard-for-Visually-Impaired",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Keyboard-for-Visually-Impaired",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Keyboard-for-Visually-Impaired/"
+        },
+        {
             "title": "Baby Developement Tracking System Mobileapplication",
             "category": {
                 "code": "co225",
@@ -11169,6 +11756,19 @@
     ],
     "E/19/452": [
         {
+            "title": "Automatic IC Testing Application Using FPGA",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Automatic-IC-Testing-Application-Using-FPGA/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Automatic-IC-Testing-Application-Using-FPGA",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Automatic-IC-Testing-Application-Using-FPGA",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application-Using-FPGA/"
+        },
+        {
             "title": "Faculty Management System",
             "category": {
                 "code": "co226",
@@ -11196,6 +11796,19 @@
         }
     ],
     "E/19/453": [
+        {
+            "title": "ESCAL Reservations and Borrowing",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/ESCAL-Reservations-and-Borrowing/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-ESCAL-Reservations-and-Borrowing",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
+        },
         {
             "title": "Flight Management System",
             "category": {
@@ -11253,7 +11866,35 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developing-Tracking-System-Web-Application/"
         }
     ],
+    "E/19/465 ": [
+        {
+            "title": "Empowering Counselors and Students through Interactive Web and Mobile App",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/"
+        }
+    ],
     "E/19/492": [
+        {
+            "title": "Automatic IC Testing Application Using FPGA",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Automatic-IC-Testing-Application-Using-FPGA/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Automatic-IC-Testing-Application-Using-FPGA",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Automatic-IC-Testing-Application-Using-FPGA",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application-Using-FPGA/"
+        },
         {
             "title": "Faculty Management System",
             "category": {
@@ -11298,6 +11939,19 @@
     ],
     "E/19/495": [
         {
+            "title": "Inventory Management System of Agricultural Biotechnology Centre",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/"
+        },
+        {
             "title": "Online Student Registration System",
             "category": {
                 "code": "co226",
@@ -11325,6 +11979,19 @@
         }
     ],
     "E/19/505": [
+        {
+            "title": "voice based attendance management system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/voice-based-attendance-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-voice-based-attendance-management-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-voice-based-attendance-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/voice-based-attendance-management-system/"
+        },
         {
             "title": "Library Management System Web App",
             "category": {
