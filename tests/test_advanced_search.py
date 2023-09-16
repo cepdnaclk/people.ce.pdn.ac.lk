@@ -39,8 +39,8 @@ class Tests(unittest.TestCase):
     def test_by_interest_student(self):
         driver = b_webdriver_functions.getSearchByInterestStudent()
         driver.find_element(by=By.ID, value="search-input").send_keys("art")
-        link = driver.find_element(by=By.LINK_TEXT, value="Dhammika Marasinghe - E/11/258").get_attribute("href")
-        self.assertEqual(link, a_config_test.SERVER_URL + "students/e11/258/", "Search by interest student is wrong")
+        link = driver.find_element(by=By.LINK_TEXT, value="Amaradasage Kasun Buddika Karunathilake - E/04/145").get_attribute("href")
+        self.assertEqual(link, a_config_test.SERVER_URL + "students/e04/145/", "Search by interest student is wrong")
 
     def test_by_interest_staff(self):
         driver = b_webdriver_functions.getSearchByInterestStaff()
