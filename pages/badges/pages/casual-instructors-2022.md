@@ -8,7 +8,7 @@ badge_description: "The casual Instructor program in the Department of Computer 
 badge_criteria: "Actively contribute to the course works for more than 6 working hours"
 edit: "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/badges/casual-instructors-2022"
 students: 
- - { eNumber: "E/16/276", name: "Perera G.K.B.H.", position: "CO321, CO324", profile_url: "/students/e16/276/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e16/e16276.png", link: "#" }
+ - { eNumber: "E/16/276", name: "G.K.B.H. Perera", position: "CO321, CO324", profile_url: "/students/e16/276/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e16/e16276.jpg", link: "#" }
  - { eNumber: "E/16/369", name: "K. A. R. Thushara", position: "CO322, CO324", profile_url: "/students/e16/369/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e16/e16369.jpg", link: "#" }
  - { eNumber: "E/16/388", name: "Weerasundara W.M.T.M.P.B.", position: "CO323, CO325", profile_url: "/students/e16/388/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e16/e16388.jpg", link: "#" }
  - { eNumber: "E/16/069", name: "De Silva M.D.S. Ms", position: "CO321, CO324", profile_url: "/students/e16/069/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e16/e16069.jpg", link: "#" }
