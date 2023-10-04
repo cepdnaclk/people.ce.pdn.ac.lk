@@ -1,8 +1,96 @@
 {
     "alawatugoda@eng.pdn.ac.lk": {
-        "publication_count": 12,
-        "year_count": 5,
+        "publication_count": 13,
+        "year_count": 6,
         "publications": {
+            "2023": [
+                {
+                    "title": "Mixed-Reality Based Multi-Agent Robotics Framework for Artificial Swarm Intelligence Experiments",
+                    "venue": "IEEE Access",
+                    "year": "2023",
+                    "authors": [
+                        "Dilshani Karunarathna",
+                        "Nuwan Jaliyagoda",
+                        "Ganindu Jayalath",
+                        "Janaka Alawatugoda",
+                        "Roshan Ragel",
+                        "Isuru Nawinne"
+                    ],
+                    "author_info": [
+                        {
+                            "name": "Dilshani Karunarathna",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e15/173/",
+                            "type": "STUDENT",
+                            "id": "E/15/173",
+                            "email": "dilshanik@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15173.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/173/"
+                        },
+                        {
+                            "name": "Nuwan Jaliyagoda",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e15/140/",
+                            "type": "STUDENT",
+                            "id": "E/15/140",
+                            "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15140.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/140/"
+                        },
+                        {
+                            "name": "Ganindu Jayalath",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e15/142/",
+                            "type": "STUDENT",
+                            "id": "E/15/142",
+                            "email": "dhananja.jayalath@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15142.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/142/"
+                        },
+                        {
+                            "name": "Janaka Alawatugoda",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
+                            "type": "STAFF",
+                            "id": "alawatugoda",
+                            "email": "alawatugoda@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
+                        },
+                        {
+                            "name": "Roshan Ragel",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                            "type": "STAFF",
+                            "id": "roshanr",
+                            "email": "roshanr@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                        },
+                        {
+                            "name": "Isuru Nawinne",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                            "type": "STAFF",
+                            "id": "isurunawinne",
+                            "email": "isurunawinne@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1109/ACCESS.2023.3317434",
+                    "is_dept_affiliated": true,
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "https://youtu.be/UxYynRS6BR0",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics/",
+                    "codebase": "https://github.com/Pera-Swarm",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Robotics",
+                        "Simulation"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ACCESS.2023.3317434/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ACCESS.2023.3317434/index.json"
+                }
+            ],
             "2022": [
                 {
                     "title": "On power analysis attacks against hardware stream ciphers",
@@ -3376,9 +3464,97 @@
         }
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "publication_count": 6,
-        "year_count": 4,
+        "publication_count": 7,
+        "year_count": 5,
         "publications": {
+            "2023": [
+                {
+                    "title": "Mixed-Reality Based Multi-Agent Robotics Framework for Artificial Swarm Intelligence Experiments",
+                    "venue": "IEEE Access",
+                    "year": "2023",
+                    "authors": [
+                        "Dilshani Karunarathna",
+                        "Nuwan Jaliyagoda",
+                        "Ganindu Jayalath",
+                        "Janaka Alawatugoda",
+                        "Roshan Ragel",
+                        "Isuru Nawinne"
+                    ],
+                    "author_info": [
+                        {
+                            "name": "Dilshani Karunarathna",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e15/173/",
+                            "type": "STUDENT",
+                            "id": "E/15/173",
+                            "email": "dilshanik@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15173.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/173/"
+                        },
+                        {
+                            "name": "Nuwan Jaliyagoda",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e15/140/",
+                            "type": "STUDENT",
+                            "id": "E/15/140",
+                            "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15140.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/140/"
+                        },
+                        {
+                            "name": "Ganindu Jayalath",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e15/142/",
+                            "type": "STUDENT",
+                            "id": "E/15/142",
+                            "email": "dhananja.jayalath@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15142.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/142/"
+                        },
+                        {
+                            "name": "Janaka Alawatugoda",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
+                            "type": "STAFF",
+                            "id": "alawatugoda",
+                            "email": "alawatugoda@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
+                        },
+                        {
+                            "name": "Roshan Ragel",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                            "type": "STAFF",
+                            "id": "roshanr",
+                            "email": "roshanr@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                        },
+                        {
+                            "name": "Isuru Nawinne",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                            "type": "STAFF",
+                            "id": "isurunawinne",
+                            "email": "isurunawinne@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1109/ACCESS.2023.3317434",
+                    "is_dept_affiliated": true,
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "https://youtu.be/UxYynRS6BR0",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics/",
+                    "codebase": "https://github.com/Pera-Swarm",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Robotics",
+                        "Simulation"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ACCESS.2023.3317434/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ACCESS.2023.3317434/index.json"
+                }
+            ],
             "2021": [
                 {
                     "title": "Using Near-Infrared Spectroscopy for Vein Visualization",
@@ -4759,7 +4935,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "publication_count": 44,
+        "publication_count": 45,
         "year_count": 16,
         "publications": {
             "2023": [
@@ -4825,6 +5001,92 @@
                     "tags": [],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-023-05151-0/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1186/s12859-023-05151-0/index.json"
+                },
+                {
+                    "title": "Mixed-Reality Based Multi-Agent Robotics Framework for Artificial Swarm Intelligence Experiments",
+                    "venue": "IEEE Access",
+                    "year": "2023",
+                    "authors": [
+                        "Dilshani Karunarathna",
+                        "Nuwan Jaliyagoda",
+                        "Ganindu Jayalath",
+                        "Janaka Alawatugoda",
+                        "Roshan Ragel",
+                        "Isuru Nawinne"
+                    ],
+                    "author_info": [
+                        {
+                            "name": "Dilshani Karunarathna",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e15/173/",
+                            "type": "STUDENT",
+                            "id": "E/15/173",
+                            "email": "dilshanik@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15173.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/173/"
+                        },
+                        {
+                            "name": "Nuwan Jaliyagoda",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e15/140/",
+                            "type": "STUDENT",
+                            "id": "E/15/140",
+                            "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15140.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/140/"
+                        },
+                        {
+                            "name": "Ganindu Jayalath",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e15/142/",
+                            "type": "STUDENT",
+                            "id": "E/15/142",
+                            "email": "dhananja.jayalath@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e15/e15142.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e15/142/"
+                        },
+                        {
+                            "name": "Janaka Alawatugoda",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/",
+                            "type": "STAFF",
+                            "id": "alawatugoda",
+                            "email": "alawatugoda@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/janaka-alawatugoda.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/janaka-alawatugoda/"
+                        },
+                        {
+                            "name": "Roshan Ragel",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                            "type": "STAFF",
+                            "id": "roshanr",
+                            "email": "roshanr@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                        },
+                        {
+                            "name": "Isuru Nawinne",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                            "type": "STAFF",
+                            "id": "isurunawinne",
+                            "email": "isurunawinne@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1109/ACCESS.2023.3317434",
+                    "is_dept_affiliated": true,
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "https://youtu.be/UxYynRS6BR0",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics/",
+                    "codebase": "https://github.com/Pera-Swarm",
+                    "researchgroups": [
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Robotics",
+                        "Simulation"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ACCESS.2023.3317434/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ACCESS.2023.3317434/index.json"
                 }
             ],
             "2021": [
