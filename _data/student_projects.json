@@ -7011,6 +7011,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
         },
         {
+            "title": "Water Quality Monitoring System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Water-Quality-Monitoring-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Water-Quality-Monitoring-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Water-Quality-Monitoring-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Water-Quality-Monitoring-System/"
+        },
+        {
             "title": "RV32IM Pipeline Implementation Group4",
             "category": {
                 "code": "co502",
@@ -7294,6 +7307,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-B/"
+        },
+        {
+            "title": "Water Quality Monitoring System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Water-Quality-Monitoring-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Water-Quality-Monitoring-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Water-Quality-Monitoring-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Water-Quality-Monitoring-System/"
         }
     ],
     "E/18/149": [
@@ -9034,6 +9060,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-B/"
+        },
+        {
+            "title": "Water Quality Monitoring System",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Water-Quality-Monitoring-System/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co326-Water-Quality-Monitoring-System",
+            "page_url": "https://cepdnaclk.github.io/e18-co326-Water-Quality-Monitoring-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Water-Quality-Monitoring-System/"
         }
     ],
     "E/18/382": [
