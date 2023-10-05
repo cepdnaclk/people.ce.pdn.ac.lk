@@ -6998,19 +6998,6 @@
     ],
     "E/18/077": [
         {
-            "title": "Department Course Page Group A",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Department-Course-Page-Group-A/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A",
-            "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
-        },
-        {
             "title": "Water Quality Monitoring System",
             "category": {
                 "code": "co326",
@@ -7974,19 +7961,6 @@
     ],
     "E/18/224": [
         {
-            "title": "Department Course Page Group A",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Department-Course-Page-Group-A/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A",
-            "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
-        },
-        {
             "title": "home automation system group01",
             "category": {
                 "code": "co326",
@@ -8001,19 +7975,6 @@
         }
     ],
     "E/18/227": [
-        {
-            "title": "Department Course Page Group A",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Department-Course-Page-Group-A/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co227-Department-Course-Page-Group-A",
-            "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
-        },
         {
             "title": "Smart Energy Management System",
             "category": {
