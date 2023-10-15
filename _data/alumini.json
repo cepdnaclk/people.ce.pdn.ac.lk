@@ -98,5 +98,15 @@
         "title": "E98 Batch",
         "url": "/students/e98",
         "graduation_year": "#"
+    },
+    {
+        "title": "E97 Batch",
+        "url": "/students/e97",
+        "graduation_year": "#"
+    },
+    {
+        "title": "E96 Batch",
+        "url": "/students/e96",
+        "graduation_year": "#"
     }
 ]
