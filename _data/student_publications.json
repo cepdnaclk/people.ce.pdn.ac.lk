@@ -1572,12 +1572,12 @@
                 },
                 {
                     "name": "Anjana Senanayake",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/317/",
-                    "type": "STUDENT",
-                    "id": "E/14/317",
-                    "email": "e14317@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14317.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/317/"
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Jillian M. Hammond",
@@ -1690,12 +1690,12 @@
                 },
                 {
                     "name": "Anjana Senanayake",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/317/",
-                    "type": "STUDENT",
-                    "id": "E/14/317",
-                    "email": "e14317@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14317.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/317/"
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
                 },
                 {
                     "name": "Jillian M. Hammond",
@@ -1873,124 +1873,6 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-020-03697-x/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1186/s12859-020-03697-x/index.json"
-        }
-    ],
-    "E/14/317": [
-        {
-            "title": "Genopo: a nanopore sequencing analysis toolkit for portable Android devices",
-            "venue": "Communications Biology",
-            "year": "2020",
-            "authors": [
-                "Hiruna Samarakoon",
-                "Sanoj Punchihewa",
-                "Anjana Senanayake",
-                "Jillian M. Hammond",
-                "Igor Stevanovski",
-                "James M. Ferguson",
-                "Roshan Ragel",
-                "Hasindu Gamaarachchi",
-                "Ira W. Deveson"
-            ],
-            "author_info": [
-                {
-                    "name": "Hiruna Samarakoon",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/302/",
-                    "type": "STUDENT",
-                    "id": "E/14/302",
-                    "email": "e14302@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
-                },
-                {
-                    "name": "Sanoj Punchihewa",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/262/",
-                    "type": "STUDENT",
-                    "id": "E/14/262",
-                    "email": "e14262@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14262.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/262/"
-                },
-                {
-                    "name": "Anjana Senanayake",
-                    "profile": "https://people.ce.pdn.ac.lk/students/e14/317/",
-                    "type": "STUDENT",
-                    "id": "E/14/317",
-                    "email": "e14317@ce.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14317.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/317/"
-                },
-                {
-                    "name": "Jillian M. Hammond",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Igor Stevanovski",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "James M. Ferguson",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Roshan Ragel",
-                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
-                    "type": "STAFF",
-                    "id": "roshanr",
-                    "email": "roshanr@eng.pdn.ac.lk",
-                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
-                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
-                },
-                {
-                    "name": "Hasindu Gamaarachchi",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                },
-                {
-                    "name": "Ira W. Deveson",
-                    "profile": "#",
-                    "type": "OUTSIDER",
-                    "id": "",
-                    "email": "",
-                    "profile_image": "#",
-                    "profile_url": "#"
-                }
-            ],
-            "doi": "https://doi.org/10.1038/s42003-020-01270-z",
-            "is_dept_affiliated": true,
-            "preprint": "#",
-            "pdf": "https://www.nature.com/articles/s42003-020-01270-z.pdf",
-            "presentation": "#",
-            "project": "#",
-            "codebase": "#",
-            "researchgroups": [
-                "Computational BioEngineering"
-            ],
-            "funding": "MRFF grant APP1173594 (to I.W.D.), Cancer Institute NSW Early Career Fellowship 2018/ECF013 (to I.W.D.) and philanthropic support from The Kinghorn Foundation (to I.W.D. and H.G.).",
-            "tags": [
-                "Genopo",
-                "Nanopore Sequencing"
-            ],
-            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1038/s42003-020-01270-z/",
-            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1038/s42003-020-01270-z/index.json"
         }
     ],
     "E/14/339": [
