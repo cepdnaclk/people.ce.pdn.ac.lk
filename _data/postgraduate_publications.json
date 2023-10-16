@@ -1,0 +1,42 @@
+{
+  "romiyal07@gmail.com": [
+    {
+      "title": "Title of the publication",
+      "venue": "Venue of the publication",
+      "year": "year of pub",
+      "authors": ["Author 1", "Author 2"],
+      "author_info": [
+        {
+          "name": "Author 1",
+          "profile": "link to profile",
+          "type": "STAFF",
+          "id": "id",
+          "email": "author1@email.com",
+          "profile_image": "profile image url",
+          "profile_url": "profile url"
+        },
+        {
+          "name": "Author 2",
+          "profile": "link to profile",
+          "type": "STAFF",
+          "id": "id",
+          "email": "author2@email.com",
+          "profile_image": "profile image url",
+          "profile_url": "profile url"
+        }
+      ],
+      "doi": "https://doi.org",
+      "is_dept_affiliated": true,
+      "preprint": "#",
+      "pdf": "https://researchonline.ljmu.ac.u",
+      "presentation": "#",
+      "project": "#",
+      "codebase": "#",
+      "researchgroups": [],
+      "funding": "",
+      "tags": ["Cloud computing", "Security"],
+      "api_url": "https://api.ce.pdn.ac.lk/",
+      "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk"
+    }
+  ]
+}
