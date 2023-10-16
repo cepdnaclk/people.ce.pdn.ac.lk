@@ -26,7 +26,7 @@ Added postgraduates to this json too.
     {%- assign profile_url = '/images/students/default.jpg' | prepend: site.absolute_url -%}
     {%- endif -%}
     {% assign reg_no_splitted = postgrad_student.reg_no | split: '/' %}
-    "{{ postgrad_student.reg_no }}" : {
+    "{{ postgrad_student.email }}" : {
     "eNumber": "{{ postgrad_student.reg_no }}",
     "batch": "{{ reg_no_splitted[1] }}",
     "department": "{{postgrad_student.department}}",
