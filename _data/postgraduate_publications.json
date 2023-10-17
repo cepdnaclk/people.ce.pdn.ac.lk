@@ -176,5 +176,129 @@
       "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1038/s42003-020-01270-z/index.json",
       "submitted": "2022/05/24 23:14:25"
     }
+  ],
+  "pabudia@eng.pdn.ac.lk": [
+    {
+      "title": "Offloading specific performance-related kernel functions into an FPGA",
+      "venue": "2021 IEEE 30th International Symposium on Industrial Electronics (ISIE)",
+      "year": "2021",
+      "abstract": "Today's network transactions are usually handled using kernel-based network protocols residing on general-purpose processors (GPPs). Over time, network transmission speeds have developed rapidly without a corresponding increase in processing speeds of host processors. With devices featuring advanced connectivity and Internet functionality, protocol processing has created a heavy workload on the GPP and has become a limiting factor in high performance networking applications such as online High Frequency Trading Systems (HFTS). It encourages designers to increase processor performance or designing application specific processors for handling heavy network workloads. Then there is the choice of hardware/software implementations based on results from hardware acceleration. Offloading the whole network protocol stack implementation into hardware is not very attractive since handling large linked data structures inside the hardware is not as easy as in software. In this paper we claim that relieving the CPU from bulk processing by offloading selected, performance-related kernel code into hardware is a better option for such scenarios. Hence, we design a scalable system for offloading specific performance-related kernel functions into an FPGA. In this paper we discuss the logic behind our new architecture and the results up to now.",
+      "authors": [
+        "Pabudi T Abeyrathne",
+        "S. Devapriya Dewasurendra",
+        "Dhammika Elkaduwa"
+      ],
+      "author_info": [
+        {
+          "name": "Pabudi T Abeyrathne",
+          "profile": "https://people.ce.pdn.ac.lk/students/postgraduate/KMPTAbeyrathne/",
+          "type": "Student",
+          "id": "",
+          "email": "pabudia@eng.pdn.ac.lk",
+          "profile_image": "https://people.ce.pdn.ac.lk/images/students/postgraduate/KMPTAbeyrathne.jpg",
+          "profile_url": "https://people.ce.pdn.ac.lk/students/postgraduate/KMPTAbeyrathne/"
+        },
+        {
+          "name": "S. Devapriya Dewasurendra",
+          "profile": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/",
+          "type": "STAFF",
+          "id": "dewasuren",
+          "email": "dewasuren@gmail.com",
+          "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+          "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+        },
+        {
+          "name": "Dhammika Elkaduwa",
+          "profile": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/",
+          "type": "STAFF",
+          "id": "dhammika",
+          "email": "dhammika@eng.pdn.ac.lk",
+          "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+          "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/"
+        }
+      ],
+      "doi": "https://doi.org/10.1109/ISIE45552.2021.9576256",
+      "is_dept_affiliated": true,
+      "preprint_url": "https://www.academia.edu/download/75534730/KF_003255_ISIE2021paper.pdf",
+      "pdf_url": "#",
+      "presentation_url": "#",
+      "project_url": "#",
+      "codebase": "#",
+      "research_groups": [],
+      "tags": [
+        "Performance evaluation",
+        "Protocols",
+        "Profitability",
+        "Linux",
+        "Computer architecture",
+        "Software",
+        "Security"
+      ],
+      "funding": "",
+      "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ISIE45552.2021.9576256/",
+      "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ISIE45552.2021.9576256/index.json",
+      "submitted": "2022/06/27 03:53:57"
+    },
+    {
+      "title": "Strategy to Design Formally Verified hardware/software implementation of Network Protocols on Reconfigurable Hardware",
+      "venue": "2015 IEEE 10th International Conference on Industrial and Information Systems (ICIIS)",
+      "year": "2015",
+      "abstract": "Kernel-based network protocol implementation has led to major performance limitations in high-performance networking owing to excessive transaction latencies. Designing such protocols in reconfigurable hardware such as FPGA has been attempted to overcome these limitations. The use of reconfigurable hardware is needed in the development phase and could eventually lead to ASICs for better performance. However, mission critical nature of such applications needs a performance guarantee on design. This paper proposes a strategy to design formally verified reconfigurable hardware/software based implementation of network protocols in a compositional manner.",
+      "authors": [
+        "Pabudi T Abeyrathne",
+        "S.D. Dewasurendra",
+        "Dhammika Elkaduwa"
+      ],
+      "author_info": [
+        {
+          "name": "Pabudi T Abeyrathne",
+          "profile": "https://people.ce.pdn.ac.lk/students/postgraduate/KMPTAbeyrathne/",
+          "type": "Student",
+          "id": "",
+          "email": "pabudia@eng.pdn.ac.lk",
+          "profile_image": "https://people.ce.pdn.ac.lk/images/students/postgraduate/KMPTAbeyrathne.jpg",
+          "profile_url": "https://people.ce.pdn.ac.lk/students/postgraduate/KMPTAbeyrathne/"
+        },
+        {
+          "name": "S.D. Dewasurendra",
+          "profile": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/",
+          "type": "STAFF",
+          "id": "dewasuren",
+          "email": "dewasuren@gmail.com",
+          "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/shirley-dewasurendra.jpg",
+          "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/shirley-dewasurendra/"
+        },
+        {
+          "name": "Dhammika Elkaduwa",
+          "profile": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/",
+          "type": "STAFF",
+          "id": "dhammika",
+          "email": "dhammika@eng.pdn.ac.lk",
+          "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/dhammika-elkaduwe.png",
+          "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/dhammika-elkaduwe/"
+        }
+      ],
+      "doi": "https://doi.org/10.1109/ICIINFS.2015.7398980",
+      "is_dept_affiliated": true,
+      "preprint_url": "https://www.academia.edu/download/53590902/Abeyrathne.pdf",
+      "pdf_url": "#",
+      "presentation_url": "#",
+      "project_url": "#",
+      "codebase": "#",
+      "research_groups": [],
+      "tags": [
+        "application specific integrated circuits",
+        "computer networks",
+        "field programmable gate arrays",
+        "financial data processing",
+        "hardware-software codesign",
+        "protocols",
+        "reconfigurable architectures"
+      ],
+      "funding": "",
+      "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2015.7398980/",
+      "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2015.7398980/index.json",
+      "submitted": "2022/06/27 03:40:07"
+    }
   ]
 }
