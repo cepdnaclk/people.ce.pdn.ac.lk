@@ -7,60 +7,11 @@ sitemap: false
 {%- comment -%}
 This works only with the layout, 'studentDetails'
 Information from the older batches will not consider for the API due to lack of information
-
-Added postgraduates to this json too.
 {%- endcomment -%}
 
 {%- assign student_list = site.html_pages | where: "layout", "studentDetails" -%}
-{%- assign postgrad_list = site.html_pages | where: "layout", "postgraduateDetails" -%}
 {
     {% for student in student_list -%}
-    {%- include api_student.html student=student -%},
+    {%- include api_student.html student=student -%}{% if forloop.last %}{% else %},{% endif %}
     {% endfor -%}
-
-
-    {% for postgrad_student in postgrad_list -%}
-    {%- if postgrad_student.image_url -%}
-    {%- assign profile_url = postgrad_student.image_url | prepend: '/' | prepend: site.absolute_url -%}
-    {%- else -%}
-    {%- assign profile_url = '/images/students/default.jpg' | prepend: site.absolute_url -%}
-    {%- endif -%}
-    {% assign reg_no_splitted = postgrad_student.reg_no | split: '/' %}
-    "{{ postgrad_student.email }}" : {
-    "eNumber": "{{ postgrad_student.reg_no }}",
-    "batch": "{{ reg_no_splitted[1] }}",
-    "department": "{{postgrad_student.department}}",
-    "current_affiliation": "{{postgrad_student.current_affiliation}}",
-    "honorific": "{{ postgrad_student.honorific }}",
-    "full_name": "{{ postgrad_student.full_name }}",
-    "name_with_initials": "{{ postgrad_student.name_with_initials }}",
-    "preferred_short_name": "{{ postgrad_student.preferred_short_name }}",
-    "preferred_long_name": "{{ postgrad_student.preferred_long_name }}",
-    "degree": "{{postgrad_student.degree}}",
-    "mode_of_study": "{{postgrad_student.mode_of_study}}", 
-    "research_topic": "{{postgrad_student.research_topic}}", 
-    "emails":{
-    "personal": "{{ postgrad_student.email }}",
-    "faculty": "{{ postgrad_student.email_faculty }}"
-    },
-    "location": "{{ postgrad_student.location }}",
-    "interests": [
-    {% assign interests_1 = postgrad_student.interests | split: "," %}
-    {% for member in interests_1 %}
-    "{{ member | strip }}"{% if forloop.last %}{% else %},{% endif %}
-    {% endfor %}
-    ],
-    "profile_image": "{{profile_url}}",
-    "urls":{
-    "cv":"{{ postgrad_student.url_cv }}",
-    "website":"{{ postgrad_student.url_website }}",
-    "linkedin":"{{ postgrad_student.url_linkedin }}",
-    "github":"{{ postgrad_student.url_github }}",
-    "facebook":"{{ postgrad_student.url_facebook }}",
-    "researchgate":"{{ postgrad_student.url_researchgate }}",
-    "twitter":"{{ postgrad_student.url_twitter }}"
-    }}
-    {% if forloop.last %}{% else %},{% endif %}
-    {% endfor -%}
-
 }
