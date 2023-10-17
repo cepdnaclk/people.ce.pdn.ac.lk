@@ -9640,6 +9640,19 @@
     ],
     "E/19/057": [
         {
+            "title": "subclinical mastitis prediction gui",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/subclinical-mastitis-prediction-gui/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-subclinical-mastitis-prediction-gui",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-subclinical-mastitis-prediction-gui",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/subclinical-mastitis-prediction-gui/"
+        },
+        {
             "title": "Baby Developement Tracking System Mobileapplication",
             "category": {
                 "code": "co225",
