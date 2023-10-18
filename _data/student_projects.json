@@ -9888,19 +9888,6 @@
     ],
     "E/19/091": [
         {
-            "title": "Dental patient management system",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-patient-management-system/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-patient-management-system",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-patient-management-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-patient-management-system/"
-        },
-        {
             "title": "Library Management System",
             "category": {
                 "code": "co225",
@@ -10595,6 +10582,19 @@
     ],
     "E/19/205": [
         {
+            "title": "subclinical mastitis prediction gui",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/subclinical-mastitis-prediction-gui/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-subclinical-mastitis-prediction-gui",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-subclinical-mastitis-prediction-gui",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/subclinical-mastitis-prediction-gui/"
+        },
+        {
             "title": "Baby Developement Tracking System Mobileapplication",
             "category": {
                 "code": "co225",
@@ -10693,19 +10693,6 @@
         }
     ],
     "E/19/227": [
-        {
-            "title": "Dental patient management system",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-patient-management-system/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-patient-management-system",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-patient-management-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-patient-management-system/"
-        },
         {
             "title": "School Attendance Management System Mobile Application",
             "category": {
@@ -10931,19 +10918,6 @@
     ],
     "E/19/264": [
         {
-            "title": "Dental patient management system",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-patient-management-system/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-patient-management-system",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-patient-management-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-patient-management-system/"
-        },
-        {
             "title": "Baby Developing Tracking System Web Application",
             "category": {
                 "code": "co225",
@@ -11137,19 +11111,6 @@
         }
     ],
     "E/19/304": [
-        {
-            "title": "Dental patient management system",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Dental-patient-management-system/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Dental-patient-management-system",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Dental-patient-management-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Dental-patient-management-system/"
-        },
         {
             "title": "agriculture management system",
             "category": {
@@ -11606,6 +11567,19 @@
     ],
     "E/19/409": [
         {
+            "title": "subclinical mastitis prediction gui",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/subclinical-mastitis-prediction-gui/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-subclinical-mastitis-prediction-gui",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-subclinical-mastitis-prediction-gui",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/subclinical-mastitis-prediction-gui/"
+        },
+        {
             "title": "Baby Developement Tracking System Mobileapplication",
             "category": {
                 "code": "co225",
@@ -12006,6 +11980,19 @@
         }
     ],
     "E/19/455": [
+        {
+            "title": "subclinical mastitis prediction gui",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/subclinical-mastitis-prediction-gui/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-subclinical-mastitis-prediction-gui",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-subclinical-mastitis-prediction-gui",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/subclinical-mastitis-prediction-gui/"
+        },
         {
             "title": "Baby Developement Tracking System Mobileapplication",
             "category": {
