@@ -1532,7 +1532,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 30,
+        "count": 31,
         "projects": {
             "e17": [
                 {
@@ -1599,6 +1599,19 @@
                     "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
+                },
+                {
+                    "title": "Low Complexity Algorithm for Arrhythmia Detection",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/"
                 },
                 {
                     "title": "Music Emotion Recognition",
@@ -2255,6 +2268,26 @@
     "thusharab@eng.pdn.ac.lk": {
         "count": 0,
         "projects": {}
+    },
+    "titus.nandakumara@gmail.com": {
+        "count": 1,
+        "projects": {
+            "e17": [
+                {
+                    "title": "Low Complexity Algorithm for Arrhythmia Detection",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/"
+                }
+            ]
+        }
     },
     "titus@eng.pdn.ac.lk": {
         "count": 2,
