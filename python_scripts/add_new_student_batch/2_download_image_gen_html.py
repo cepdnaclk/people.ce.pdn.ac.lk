@@ -28,11 +28,11 @@ permalink: "/students/e20/{int(regNo[2:]):03d}/"
 title: will be filled by GH action
 
 
-reg_no: E/20/{int(regNo[2:]):03d}
-batch: E20
+reg_no: E/19/{int(regNo[2:]):03d}
+batch: E19
 
 department: Computer Engineering
-current_affiliation: Department of Computer Engineering, University of Peradeniya
+current_affiliation: Department of Mechanical Engineering, University of Peradeniya
 
 full_name: {name}
 name_with_initials: {name}
@@ -40,7 +40,7 @@ preferred_short_name: {name}
 preferred_long_name: #
 honorific: #
 
-email_faculty: e20{int(regNo[2:]):03d}@eng.pdn.ac.lk
+email_faculty: e19{int(regNo[2:]):03d}@eng.pdn.ac.lk
 email_personal: #
 
 location: #
