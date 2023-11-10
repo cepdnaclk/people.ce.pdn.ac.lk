@@ -55,7 +55,7 @@ url_twitter: #
 
 interests: #
 
-image_url: "images/students/e20/e{regNo}.jpg"
+image_url: "images/students/default.jpg"
 ---
         """
         htmlFile.write(text)
