@@ -24,7 +24,7 @@ for each in batch_allStudents:
         htmlFile = open(f"../../pages/students/e20/e{int(regNo):03d}.html", "w")
         text = f"""---
 layout: studentDetails
-permalink: "/students/e20/{int(regNo[2:]):03d}/"
+permalink: "/students/e19/{int(regNo[2:]):03d}/"
 title: will be filled by GH action
 
 
