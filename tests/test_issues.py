@@ -8,13 +8,13 @@ import os
 
 
 class Tests(unittest.TestCase):
-    def test_E19_doesnt_have_mechanical_students(self):
+    def test_E19_have_mechanical_students(self):
         driver = b_webdriver_functions.getURL("students/e19/")
         if (
             "External Students - Department of Mechanical Engineering"
-            in driver.page_source
+            not in driver.page_source
         ):
-            self.fail("E19 has mechanical students")
+            self.fail("E19 doesnt have mechanical students")
 
     def test_E18_have_mechanical_students(self):
         driver = b_webdriver_functions.getURL("students/e18/")
