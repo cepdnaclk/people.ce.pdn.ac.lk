@@ -31,7 +31,7 @@ title: will be filled by GH action
 reg_no: E/19/{int(regNo[2:]):03d}
 batch: E19
 
-department: Computer Engineering
+department: Mechanical Engineering
 current_affiliation: Department of Mechanical Engineering, University of Peradeniya
 
 full_name: {name}
