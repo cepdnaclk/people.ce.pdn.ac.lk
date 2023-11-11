@@ -24,15 +24,15 @@ for each in batch_allStudents:
         htmlFile = open(f"../../pages/students/e20/e{int(regNo):03d}.html", "w")
         text = f"""---
 layout: studentDetails
-permalink: "/students/e19/{int(regNo[2:]):03d}/"
+permalink: "/students/e20/{int(regNo[2:]):03d}/"
 title: will be filled by GH action
 
 
-reg_no: E/19/{int(regNo[2:]):03d}
-batch: E19
+reg_no: E/20/{int(regNo[2:]):03d}
+batch: E20
 
-department: Mechanical Engineering
-current_affiliation: Department of Mechanical Engineering, University of Peradeniya
+department: Computer Engineering
+current_affiliation: Department of Computer Engineering, University of Peradeniya
 
 full_name: {name}
 name_with_initials: {name}
@@ -40,7 +40,7 @@ preferred_short_name: {name}
 preferred_long_name: #
 honorific: #
 
-email_faculty: e19{int(regNo[2:]):03d}@eng.pdn.ac.lk
+email_faculty: e20{int(regNo[2:]):03d}@eng.pdn.ac.lk
 email_personal: #
 
 location: #
@@ -55,7 +55,7 @@ url_twitter: #
 
 interests: #
 
-image_url: "images/students/default.jpg"
+image_url: "images/students/e20/e{regNo}.jpg"
 
 ---
         """
