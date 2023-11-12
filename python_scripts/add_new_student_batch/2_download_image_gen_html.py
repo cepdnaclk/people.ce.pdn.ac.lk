@@ -1,7 +1,7 @@
 # Download images from FEeLS and generate profile pages html for the new batch
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 
-import urllib.request
+# import urllib.request
 
 batch_ComputerEngOnly = open("./ComputerEngOnly.txt", "r")
 CO = {}
@@ -14,22 +14,22 @@ for each in batch_allStudents:
     link = "https" + each.split("https")[1]
     regNo = name[0:8]
     name = name[8:-2]
+    # print(f"'{regNo}'")
     if regNo in CO.keys():
         name = name.strip().title().replace("Miss", "").replace("Mr", "")
-        link = link.strip()
+        # link = link.strip()
         regNo = "".join(regNo.split("/")[1:])
-        print(link)
-        urllib.request.urlretrieve(link, f"../../images/students/e19/e{regNo}.jpg")
-
-        htmlFile = open(f"../../pages/students/e19/e{int(regNo):03d}.html", "w")
+        # print(link)
+        # urllib.request.urlretrieve(link, f"../../images/students/e19/e{regNo}.jpg")
+        htmlFile = open(f"../../pages/students/e20/e{int(regNo):03d}.html", "w")
         text = f"""---
 layout: studentDetails
-permalink: "/students/e19/{int(regNo[2:]):03d}/"
+permalink: "/students/e20/{int(regNo[2:]):03d}/"
 title: will be filled by GH action
 
 
-reg_no: E/19/{int(regNo[2:]):03d}
-batch: E19
+reg_no: E/20/{int(regNo[2:]):03d}
+batch: E20
 
 department: Computer Engineering
 current_affiliation: Department of Computer Engineering, University of Peradeniya
@@ -40,7 +40,7 @@ preferred_short_name: {name}
 preferred_long_name: #
 honorific: #
 
-email_faculty: e19{int(regNo[2:]):03d}@eng.pdn.ac.lk
+email_faculty: e20{int(regNo[2:]):03d}@eng.pdn.ac.lk
 email_personal: #
 
 location: #
@@ -55,7 +55,8 @@ url_twitter: #
 
 interests: #
 
-image_url: "images/students/e19/e{regNo}.jpg"
+image_url: "images/students/e20/e{regNo}.jpg"
+
 ---
         """
         htmlFile.write(text)

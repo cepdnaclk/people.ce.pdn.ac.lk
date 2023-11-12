@@ -14,21 +14,24 @@ s.headers.update({
 })
 r = s.get(url)
 # add your cookie here
-s.cookies['MoodleSessionfeels'] = '######Login and copy your cookie here########'
-for x in range(0, 10000):
+s.cookies['MoodleSession'] = 'q4s60b297suihk00pjc79njkh3'
+for x in range(2870, 10000):
     url = f'https://feels.pdn.ac.lk/user/profile.php?id={x}'
     r = s.get(url, headers={'X-Requested-With': 'XMLHttpRequest'})
     text = r.text
 
     if text.find("The details of this user are not available to you") != -1:
+        print("not available to me")
         continue
     else:
-        link = r.text[text.find('''<div class="page-context-header"><div class="page-header-image"><img src="''') +
-                      74:text.find('''class=''', text.find('''<div class="page-context-header"><div class="page-header-image"><img src="''') +
-                      74)-2]
+        # link = r.text[text.find('''<div class="page-context-header"><div class="page-header-image"><img src="''') +
+        #               74:text.find('''class=''', text.find('''<div class="page-context-header"><div class="page-header-image"><img src="''') +
+        #               74)-2]
         name = text[text.find("<title>")+7:text.find("</title>")-14]
-        if len(name+link) > 200:
-            continue
-        print(name, link)
-        fileOpened.write(name + link + "\n")
+        # if len(name+link) > 200:
+        #     print(name)
+        #     continue
+        # print(name, link)
+        print(name)
+        fileOpened.write(name + "\n")
 fileOpened.close()
