@@ -44,7 +44,7 @@ students:
  - { eNumber: "E/19/166", name: "W.W.K.Jayathunga", position: "GP106", profile_url: "/students/e19/166/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e19/e19166.jpg", link: "#" }
  - { eNumber: "E/19/443", name: "Wijayawardana K.G.D.T.", position: "GP106", profile_url: "/students/e19/443/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e19/e19443.jpg", link: "#" }
  - { eNumber: "E/19/324", name: "Rathnayake R.M.B.D.K.", position: "GP106", profile_url: "/students/e19/324/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e19/e19324.jpg", link: "#" }
- - { eNumber: "E/19/063", name: "Dassanayake D.M.G.S.", position: "GP106", profile_url: "/students/e19/063/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e19/e19063.jpg", link: "#" }
+ - { eNumber: "E/19/063", name: "D.M.G.S. Dassanayake", position: "GP106", profile_url: "/students/e19/063/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e19/e19063.jpg", link: "#" }
  - { eNumber: "E/19/300", name: "L. M. A. H. Premawansha", position: "GP106", profile_url: "/students/e19/300/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e19/e19300.jpg", link: "#" }
  - { eNumber: "E/19/210", name: "Kumarasiri R.P.J.R.", position: "GP106", profile_url: "/students/e19/210/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e19/e19210.jpg", link: "#" }
  - { eNumber: "E/19/236", name: "Manikdiwela W.L.", position: "GP106", profile_url: "/students/e19/236/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e19/e19236.jpg", link: "#" }
