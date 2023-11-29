@@ -10703,6 +10703,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Crop-Modelling-Tool-For-SriLanka/"
         },
         {
+            "title": "Election_Data_Base_Management_System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Election_Data_Base_Management_System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Election_Data_Base_Management_System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Election_Data_Base_Management_System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Election_Data_Base_Management_System/"
+        },
+        {
             "title": "Library Management System",
             "category": {
                 "code": "co225",
@@ -10783,6 +10796,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Crop-Modelling-Tool-For-SriLanka",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Crop-Modelling-Tool-For-SriLanka/"
+        },
+        {
+            "title": "Election_Data_Base_Management_System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Election_Data_Base_Management_System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Election_Data_Base_Management_System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Election_Data_Base_Management_System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Election_Data_Base_Management_System/"
         },
         {
             "title": "Library Management System",
@@ -12270,6 +12296,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Crop-Modelling-Tool-For-SriLanka",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Crop-Modelling-Tool-For-SriLanka/"
+        },
+        {
+            "title": "Election_Data_Base_Management_System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Election_Data_Base_Management_System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Election_Data_Base_Management_System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Election_Data_Base_Management_System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Election_Data_Base_Management_System/"
         },
         {
             "title": "Library Management System",
