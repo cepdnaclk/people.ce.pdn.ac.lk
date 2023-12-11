@@ -1665,19 +1665,6 @@
     ],
     "E/15/188": [
         {
-            "title": "Health Watch",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Health-Watch/",
-            "repo_url": "https://github.com/cepdnaclk/e15-3yp-Health-Watch",
-            "page_url": "https://cepdnaclk.github.io/e15-3yp-Health-Watch",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Health-Watch/"
-        },
-        {
             "title": "nearIR spectroscopy",
             "category": {
                 "code": "4yp",
@@ -2339,19 +2326,6 @@
     ],
     "E/15/349": [
         {
-            "title": "Health Watch",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Health-Watch/",
-            "repo_url": "https://github.com/cepdnaclk/e15-3yp-Health-Watch",
-            "page_url": "https://cepdnaclk.github.io/e15-3yp-Health-Watch",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Health-Watch/"
-        },
-        {
             "title": "nearIR spectroscopy",
             "category": {
                 "code": "4yp",
@@ -2561,19 +2535,6 @@
     ],
     "E/15/383": [
         {
-            "title": "Health Watch",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/Health-Watch/",
-            "repo_url": "https://github.com/cepdnaclk/e15-3yp-Health-Watch",
-            "page_url": "https://cepdnaclk.github.io/e15-3yp-Health-Watch",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/Health-Watch/"
-        },
-        {
             "title": "nearIR spectroscopy",
             "category": {
                 "code": "4yp",
@@ -2746,19 +2707,6 @@
     ],
     "E/16/055": [
         {
-            "title": "smart vending machine",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-vending-machine/",
-            "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-vending-machine",
-            "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-vending-machine",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-vending-machine/"
-        },
-        {
             "title": "Enhancement of Efficiency of Vehicular Communication using SDN",
             "category": {
                 "code": "4yp",
@@ -2871,19 +2819,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/chessMATE/"
         },
         {
-            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
-        },
-        {
             "title": "RV32IM pipeline implementation group1",
             "category": {
                 "code": "co502",
@@ -2910,19 +2845,6 @@
             "page_url": "https://cepdnaclk.github.io/e16-3yp-chessMATE",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/chessMATE/"
-        },
-        {
-            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
         }
     ],
     "E/16/076": [
@@ -3194,19 +3116,6 @@
     ],
     "E/16/115": [
         {
-            "title": "smart vending machine",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-vending-machine/",
-            "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-vending-machine",
-            "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-vending-machine",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-vending-machine/"
-        },
-        {
             "title": "Enhancement of Efficiency of Vehicular Communication using SDN",
             "category": {
                 "code": "4yp",
@@ -3236,19 +3145,6 @@
         }
     ],
     "E/16/127": [
-        {
-            "title": "automatic fish tank control system",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/automatic-fish-tank-control-system/",
-            "repo_url": "https://github.com/cepdnaclk/e16-3yp-automatic-fish-tank-control-system",
-            "page_url": "https://cepdnaclk.github.io/e16-3yp-automatic-fish-tank-control-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/automatic-fish-tank-control-system/"
-        },
         {
             "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
             "category": {
@@ -3348,19 +3244,6 @@
         }
     ],
     "E/16/172": [
-        {
-            "title": "smart vending machine",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-vending-machine/",
-            "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-vending-machine",
-            "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-vending-machine",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-vending-machine/"
-        },
         {
             "title": "Enhancement of Efficiency of Vehicular Communication using SDN",
             "category": {
@@ -3541,21 +3424,6 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
-        }
-    ],
-    "E/16/232": [
-        {
-            "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
-            "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
         }
     ],
     "E/16/232 ": [
@@ -3816,19 +3684,6 @@
     ],
     "E/16/332": [
         {
-            "title": "automatic fish tank control system",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/automatic-fish-tank-control-system/",
-            "repo_url": "https://github.com/cepdnaclk/e16-3yp-automatic-fish-tank-control-system",
-            "page_url": "https://cepdnaclk.github.io/e16-3yp-automatic-fish-tank-control-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/automatic-fish-tank-control-system/"
-        },
-        {
             "title": "Hardware Cache Switching with Operating System Context Switches",
             "category": {
                 "code": "4yp",
@@ -4008,21 +3863,6 @@
             "page_url": "https://cepdnaclk.github.io/e16-4yp-open-world-object-detection-and-discovery",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/open-world-object-detection-and-discovery/"
-        }
-    ],
-    "E/16/377": [
-        {
-            "title": "automatic fish tank control system",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/automatic-fish-tank-control-system/",
-            "repo_url": "https://github.com/cepdnaclk/e16-3yp-automatic-fish-tank-control-system",
-            "page_url": "https://cepdnaclk.github.io/e16-3yp-automatic-fish-tank-control-system",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/automatic-fish-tank-control-system/"
         }
     ],
     "E/16/388": [
@@ -6694,19 +6534,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Molding-Machine-Dashboard",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Molding-Machine-Dashboard/"
-        },
-        {
-            "title": "Smart Cooling System for a Machinery Room Group5",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Cooling-System-for-a-Machinery-Room-Group5/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Cooling-System-for-a-Machinery-Room-Group5/"
         }
     ],
     "E/18/028": [
@@ -6884,19 +6711,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-co326-Patient-monitoring-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Patient-monitoring-system/"
-        },
-        {
-            "title": "RV32IM pipeline implementation group03",
-            "category": {
-                "code": "co502",
-                "title": "Advanced Computer Architecture (CO502)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co502/e18/RV32IM-pipeline-implementation-group03/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co502-RV32IM-pipeline-implementation-group03",
-            "page_url": "https://cepdnaclk.github.io/e18-co502-RV32IM-pipeline-implementation-group03",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E18/RV32IM-pipeline-implementation-group03/"
         }
     ],
     "E/18/059": [
@@ -7698,19 +7512,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-co326-home-automation-system-group01",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/home-automation-system-group01/"
-        },
-        {
-            "title": "RV32IM pipeline implementation group03",
-            "category": {
-                "code": "co502",
-                "title": "Advanced Computer Architecture (CO502)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co502/e18/RV32IM-pipeline-implementation-group03/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co502-RV32IM-pipeline-implementation-group03",
-            "page_url": "https://cepdnaclk.github.io/e18-co502-RV32IM-pipeline-implementation-group03",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E18/RV32IM-pipeline-implementation-group03/"
         }
     ],
     "E/18/173": [
@@ -7955,19 +7756,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-co326-home-automation-system-group01",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/home-automation-system-group01/"
-        },
-        {
-            "title": "RV32IM pipeline implementation group03",
-            "category": {
-                "code": "co502",
-                "title": "Advanced Computer Architecture (CO502)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co502/e18/RV32IM-pipeline-implementation-group03/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co502-RV32IM-pipeline-implementation-group03",
-            "page_url": "https://cepdnaclk.github.io/e18-co502-RV32IM-pipeline-implementation-group03",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E18/RV32IM-pipeline-implementation-group03/"
         }
     ],
     "E/18/214": [
@@ -8581,19 +8369,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Interactive-Department-Map-GroupA",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Interactive-Department-Map-GroupA/"
-        },
-        {
-            "title": "Smart Cooling System for a Machinery Room Group5",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Cooling-System-for-a-Machinery-Room-Group5/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Cooling-System-for-a-Machinery-Room-Group5/"
         }
     ],
     "E/18/323": [
@@ -8907,19 +8682,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Interactive-Department-Map-GroupA",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Interactive-Department-Map-GroupA/"
-        },
-        {
-            "title": "Smart Cooling System for a Machinery Room Group5",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Smart-Cooling-System-for-a-Machinery-Room-Group5/",
-            "repo_url": "https://github.com/cepdnaclk/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
-            "page_url": "https://cepdnaclk.github.io/e18-co326-Smart-Cooling-System-for-a-Machinery-Room-Group5",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Smart-Cooling-System-for-a-Machinery-Room-Group5/"
         }
     ],
     "E/18/366": [
@@ -9455,19 +9217,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/3d-led-cube-holographical-display/"
         },
         {
-            "title": "Mobile app to measure the area of a leaf flower or fruit",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/"
-        },
-        {
             "title": "Mobile app for Inpatient Management System",
             "category": {
                 "code": "co225",
@@ -9766,19 +9515,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-3d-led-cube-holographical-display",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/3d-led-cube-holographical-display/"
-        },
-        {
-            "title": "Mobile app to measure the area of a leaf flower or fruit",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/"
         },
         {
             "title": "Mobile app for Inpatient Management System",
@@ -10351,19 +10087,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping/"
-        },
-        {
-            "title": "Student Result Management System",
-            "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Student-Result-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-CO225-Student-Result-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e19-CO225-Student-Result-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Student-Result-Management-System/"
         }
     ],
     "E/19/106": [
@@ -10405,19 +10128,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping/"
-        },
-        {
-            "title": "Student Result Management System",
-            "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Student-Result-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-CO225-Student-Result-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e19-CO225-Student-Result-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Student-Result-Management-System/"
         }
     ],
     "E/19/111": [
@@ -11141,19 +10851,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-ACES-Project-Fund-Requests",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ACES-Project-Fund-Requests/"
-        },
-        {
-            "title": "Student Result Management System",
-            "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Student-Result-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-CO225-Student-Result-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e19-CO225-Student-Result-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Student-Result-Management-System/"
         }
     ],
     "E/19/224": [
@@ -11182,19 +10879,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-ACES-Project-Fund-Requests",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ACES-Project-Fund-Requests/"
-        },
-        {
-            "title": "Student Result Management System",
-            "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Student-Result-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-CO225-Student-Result-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e19-CO225-Student-Result-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Student-Result-Management-System/"
         }
     ],
     "E/19/226": [
@@ -11210,19 +10894,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-3d-led-cube-holographical-display",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/3d-led-cube-holographical-display/"
-        },
-        {
-            "title": "Mobile app to measure the area of a leaf flower or fruit",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/"
         },
         {
             "title": "Mobile app for Inpatient Management System",
@@ -11374,19 +11045,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Remote-Controlled-PLC-Training-Kit",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Remote-Controlled-PLC-Training-Kit/"
-        },
-        {
-            "title": "Student Result Management System",
-            "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Student-Result-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-CO225-Student-Result-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e19-CO225-Student-Result-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Student-Result-Management-System/"
         }
     ],
     "E/19/247": [
@@ -11415,19 +11073,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Remote-Controlled-PLC-Training-Kit",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Remote-Controlled-PLC-Training-Kit/"
-        },
-        {
-            "title": "Student Result Management System",
-            "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Student-Result-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-CO225-Student-Result-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e19-CO225-Student-Result-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Student-Result-Management-System/"
         }
     ],
     "E/19/249": [
@@ -11456,19 +11101,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-ACES-Project-Fund-Requests",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ACES-Project-Fund-Requests/"
-        },
-        {
-            "title": "Student Result Management System",
-            "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Student-Result-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-CO225-Student-Result-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e19-CO225-Student-Result-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Student-Result-Management-System/"
         }
     ],
     "E/19/253": [
@@ -11702,19 +11334,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co226-Faculty-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Faculty-Management-System/"
-        },
-        {
-            "title": "Student Result Management System",
-            "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Student-Result-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-CO225-Student-Result-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e19-CO225-Student-Result-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Student-Result-Management-System/"
         }
     ],
     "E/19/295": [
@@ -12721,19 +12340,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-3d-led-cube-holographical-display",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/3d-led-cube-holographical-display/"
-        },
-        {
-            "title": "Mobile app to measure the area of a leaf flower or fruit",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Mobile-app-to-measure-the-area-of-a-leaf-flower-or-fruit/"
         },
         {
             "title": "Mobile app for Inpatient Management System",
