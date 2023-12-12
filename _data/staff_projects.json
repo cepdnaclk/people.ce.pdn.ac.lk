@@ -835,7 +835,7 @@
         "projects": {}
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "count": 16,
+        "count": 17,
         "projects": {
             "e16": [
                 {
@@ -876,6 +876,19 @@
                     "page_url": "https://cepdnaclk.github.io/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
+                },
+                {
+                    "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
+                    "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+                    "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
                 },
                 {
                     "title": "neuromorphic architecture",
@@ -1096,7 +1109,7 @@
         "projects": {}
     },
     "mahanamaw@eng.pdn.ac.lk": {
-        "count": 9,
+        "count": 10,
         "projects": {
             "e16": [
                 {
@@ -1137,6 +1150,19 @@
                     "page_url": "https://cepdnaclk.github.io/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
+                },
+                {
+                    "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
+                    "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+                    "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
                 },
                 {
                     "title": "neuromorphic architecture",
@@ -1506,7 +1532,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 30,
+        "count": 31,
         "projects": {
             "e16": [
                 {
@@ -1547,6 +1573,19 @@
                     "page_url": "https://cepdnaclk.github.io/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
+                },
+                {
+                    "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
+                    "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+                    "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
                 },
                 {
                     "title": "Smart Agriculture Use of Computer Vision ML and IoT to Improve Crop Productivity",
@@ -2098,8 +2137,23 @@
         }
     },
     "suranjisk@gmail.com": {
-        "count": 1,
+        "count": 2,
         "projects": {
+            "e16": [
+                {
+                    "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
+                    "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+                    "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
+                }
+            ],
             "e15": [
                 {
                     "title": "Real Time Emotion Recognition using Electrocardiogram Analysis",
@@ -2138,7 +2192,7 @@
         }
     },
     "theekshanadis@eng.pdn.ac.lk": {
-        "count": 4,
+        "count": 5,
         "projects": {
             "e16": [
                 {
@@ -2153,6 +2207,19 @@
                     "page_url": "https://cepdnaclk.github.io/e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/"
+                },
+                {
+                    "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/",
+                    "repo_url": "https://github.com/cepdnaclk/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+                    "page_url": "https://cepdnaclk.github.io/e16-4yp-Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Human-Animal-Emotion-Detection-Using-ECG-and-ML-Techniques/"
                 }
             ],
             "e15": [
