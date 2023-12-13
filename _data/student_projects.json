@@ -10273,6 +10273,19 @@
     ],
     "E/19/100": [
         {
+            "title": "Smart Chessboard",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Smart-Chessboard/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Smart-Chessboard",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Chessboard",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Chessboard/"
+        },
+        {
             "title": "Engineering Education Unit",
             "category": {
                 "code": "co227",
