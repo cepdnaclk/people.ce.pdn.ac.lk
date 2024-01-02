@@ -5026,6 +5026,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Neuromorphic-NoC-Architecture-for-SNNs/"
+        },
+        {
+            "title": "DL Based Stereo Matching Estimation",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/DL-Based-Stereo-Matching-Estimation/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-DL-Based-Stereo-Matching-Estimation",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-DL-Based-Stereo-Matching-Estimation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/DL-Based-Stereo-Matching-Estimation/"
         }
     ],
     "E/17/159": [

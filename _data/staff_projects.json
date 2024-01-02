@@ -262,6 +262,26 @@
         "count": 0,
         "projects": {}
     },
+    "assklam@ntu.edu.sg": {
+        "count": 1,
+        "projects": {
+            "e18": [
+                {
+                    "title": "DL Based Stereo Matching Estimation",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/DL-Based-Stereo-Matching-Estimation/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-DL-Based-Stereo-Matching-Estimation",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-DL-Based-Stereo-Matching-Estimation",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/DL-Based-Stereo-Matching-Estimation/"
+                }
+            ]
+        }
+    },
     "cds@eng.pdn.ac.lk": {
         "count": 0,
         "projects": {}
@@ -1267,6 +1287,26 @@
             ]
         }
     },
+    "meiqingwu@ntu.edu.sg": {
+        "count": 1,
+        "projects": {
+            "e18": [
+                {
+                    "title": "DL Based Stereo Matching Estimation",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/DL-Based-Stereo-Matching-Estimation/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-DL-Based-Stereo-Matching-Estimation",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-DL-Based-Stereo-Matching-Estimation",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/DL-Based-Stereo-Matching-Estimation/"
+                }
+            ]
+        }
+    },
     "nadeeshaa@eng.pdn.ac.lk": {
         "count": 1,
         "projects": {
@@ -1532,7 +1572,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 31,
+        "count": 32,
         "projects": {
             "e16": [
                 {
@@ -1941,6 +1981,21 @@
                     "page_url": "https://cepdnaclk.github.io/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/novel-compression-methods-for-nanopore-raw-signal-data/"
+                }
+            ],
+            "e18": [
+                {
+                    "title": "DL Based Stereo Matching Estimation",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/DL-Based-Stereo-Matching-Estimation/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-DL-Based-Stereo-Matching-Estimation",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-DL-Based-Stereo-Matching-Estimation",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/DL-Based-Stereo-Matching-Estimation/"
                 }
             ]
         }
