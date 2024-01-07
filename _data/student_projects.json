@@ -7076,6 +7076,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
         },
         {
+            "title": "collaborative mapping with swarm robots",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/collaborative-mapping-with-swarm-robots/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/collaborative-mapping-with-swarm-robots/"
+        },
+        {
             "title": "Water Quality Monitoring System",
             "category": {
                 "code": "co326",
@@ -7480,6 +7493,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Logging-Microservice-for-IoT-based-Smart-Agriculture-Project",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Logging-Microservice-for-IoT-based-Smart-Agriculture-Project/"
+        },
+        {
+            "title": "collaborative mapping with swarm robots",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/collaborative-mapping-with-swarm-robots/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/collaborative-mapping-with-swarm-robots/"
         }
     ],
     "E/18/154": [
@@ -8117,6 +8143,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
+        },
+        {
+            "title": "collaborative mapping with swarm robots",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/collaborative-mapping-with-swarm-robots/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/collaborative-mapping-with-swarm-robots/"
         },
         {
             "title": "Smart Energy Management System",
@@ -10295,6 +10334,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/First-Person-AR-Game-with-Localization/"
         },
         {
+            "title": "Training Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Training-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Training-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Training-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Training-Management-System/"
+        },
+        {
             "title": "Online Learning Platform",
             "category": {
                 "code": "co226",
@@ -10945,6 +10997,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Chessboard/"
         },
         {
+            "title": "Training Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Training-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Training-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Training-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Training-Management-System/"
+        },
+        {
             "title": "Department Space Management System Mobile App",
             "category": {
                 "code": "co225",
@@ -10971,6 +11036,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-First-Person-AR-Game-with-Localization",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/First-Person-AR-Game-with-Localization/"
+        },
+        {
+            "title": "Training Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Training-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Training-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Training-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Training-Management-System/"
         },
         {
             "title": "Medical Clinic Manager",
@@ -11601,6 +11679,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Chessboard",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Chessboard/"
+        },
+        {
+            "title": "Training Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Training-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-Training-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-Training-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Training-Management-System/"
         },
         {
             "title": "Online Learning Platform",

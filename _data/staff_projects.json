@@ -855,7 +855,7 @@
         "projects": {}
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "count": 18,
+        "count": 19,
         "projects": {
             "e16": [
                 {
@@ -1084,6 +1084,19 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
+                },
+                {
+                    "title": "collaborative mapping with swarm robots",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/collaborative-mapping-with-swarm-robots/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/collaborative-mapping-with-swarm-robots/"
                 }
             ],
             "e14": [
@@ -1376,7 +1389,7 @@
         }
     },
     "nuwanjaliyagoda@eng.pdn.ac.lk": {
-        "count": 1,
+        "count": 2,
         "projects": {
             "e16": [
                 {
@@ -1391,6 +1404,21 @@
                     "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
+                }
+            ],
+            "e18": [
+                {
+                    "title": "collaborative mapping with swarm robots",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/collaborative-mapping-with-swarm-robots/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/collaborative-mapping-with-swarm-robots/"
                 }
             ]
         }
@@ -1587,7 +1615,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 33,
+        "count": 34,
         "projects": {
             "e16": [
                 {
@@ -2024,6 +2052,19 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
+                },
+                {
+                    "title": "collaborative mapping with swarm robots",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/collaborative-mapping-with-swarm-robots/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/collaborative-mapping-with-swarm-robots/"
                 }
             ]
         }
