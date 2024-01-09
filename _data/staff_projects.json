@@ -490,7 +490,7 @@
         "projects": {}
     },
     "dhanulb@dental.pdn.ac.lk": {
-        "count": 2,
+        "count": 4,
         "projects": {
             "e16": [
                 {
@@ -520,6 +520,34 @@
                     "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+                }
+            ],
+            "e18": [
+                {
+                    "title": "Using AI in determining alveolar bone loss in DPT to aid in periodontal diagnosis",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis/"
+                },
+                {
+                    "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
                 }
             ]
         }
@@ -855,7 +883,7 @@
         "projects": {}
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "count": 19,
+        "count": 21,
         "projects": {
             "e16": [
                 {
@@ -1084,6 +1112,32 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
+                },
+                {
+                    "title": "Neuromorphic NoC Architecture for SNNs",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Neuromorphic-NoC-Architecture-for-SNNs/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Neuromorphic-NoC-Architecture-for-SNNs/"
+                },
+                {
+                    "title": "Using AI in determining alveolar bone loss in DPT to aid in periodontal diagnosis",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis/"
                 },
                 {
                     "title": "collaborative mapping with swarm robots",
@@ -1615,7 +1669,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 34,
+        "count": 37,
         "projects": {
             "e16": [
                 {
@@ -2054,6 +2108,45 @@
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
                 },
                 {
+                    "title": "Neuromorphic NoC Architecture for SNNs",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Neuromorphic-NoC-Architecture-for-SNNs/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Neuromorphic-NoC-Architecture-for-SNNs/"
+                },
+                {
+                    "title": "Using AI in determining alveolar bone loss in DPT to aid in periodontal diagnosis",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis/"
+                },
+                {
+                    "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+                },
+                {
                     "title": "collaborative mapping with swarm robots",
                     "category": {
                         "code": "4yp",
@@ -2240,6 +2333,26 @@
             ]
         }
     },
+    "srasnayaka@dental.pdn.ac.lk": {
+        "count": 1,
+        "projects": {
+            "e18": [
+                {
+                    "title": "Using AI in determining alveolar bone loss in DPT to aid in periodontal diagnosis",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis/"
+                }
+            ]
+        }
+    },
     "sunethn@pdn.ac.lk": {
         "count": 1,
         "projects": {
@@ -2414,7 +2527,7 @@
         }
     },
     "titus@eng.pdn.ac.lk": {
-        "count": 2,
+        "count": 3,
         "projects": {
             "e17": [
                 {
@@ -2443,11 +2556,26 @@
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/"
                 }
+            ],
+            "e18": [
+                {
+                    "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+                }
             ]
         }
     },
     "upuljm@eng.pdn.ac.lk": {
-        "count": 8,
+        "count": 9,
         "projects": {
             "e16": [
                 {
@@ -2558,6 +2686,21 @@
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/using-machine-learning-in-high-stake-settings/"
                 }
+            ],
+            "e18": [
+                {
+                    "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+                }
             ]
         }
     },
@@ -2582,7 +2725,7 @@
         }
     },
     "vajira@simula.no": {
-        "count": 2,
+        "count": 3,
         "projects": {
             "e17": [
                 {
@@ -2612,6 +2755,19 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
+                },
+                {
+                    "title": "Using AI in determining alveolar bone loss in DPT to aid in periodontal diagnosis",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Using-AI-in-determining-alveolar-bone-loss-in-DPT-to-aid-in-periodontal-diagnosis/"
                 }
             ]
         }
