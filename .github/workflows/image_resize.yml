@@ -30,6 +30,7 @@ jobs:
         run: |
           cd ./python_scripts
           python3 resize_student_images.py
+          python3 resize_staff_images.py
           cd ../
 
       - name: Commit and push into the main branch
