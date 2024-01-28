@@ -211,5 +211,27 @@
     "github": "https://github.com/kavindu1997129",
     "joined_date": "2023-08-02",
     "left_date": ""
+  },
+  {
+    "staff_name": "Isuri Devindi",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/staff/temporary-academic-staff/isuri.jpg",
+    "email": "e17058@eng.pdn.ac.lk",
+    "url_profile": "/students/e17/058",
+    "linkedin": "https://www.linkedin.com/in/isuri-devindi-b8602a206",
+    "github": "https://github.com/isuridevindi",
+    "joined_date": "2024-01-01",
+    "left_date": ""
+  },
+  {
+    "staff_name": "Ravisha Rupasinghe",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/staff/temporary-academic-staff/ravisha.jpg",
+    "email": "e17296@eng.pdn.ac.lk",
+    "url_profile": "/students/e17/296",
+    "linkedin": "https://www.linkedin.com/in/ravisha-rupasinghe",
+    "github": "https://github.com/RavishaHR",
+    "joined_date": "2024-01-01",
+    "left_date": ""
   }
 ]
