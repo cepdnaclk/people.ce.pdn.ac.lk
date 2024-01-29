@@ -233,5 +233,27 @@
     "github": "https://github.com/RavishaHR",
     "joined_date": "2024-01-01",
     "left_date": ""
+  },
+  {
+    "staff_name": "Sashini Liyanage",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/staff/temporary-academic-staff/sashini.jpg",
+    "email": "e17190@eng.pdn.ac.lk",
+    "url_profile": "/students/e17/190",
+    "linkedin": "https://www.linkedin.com/in/sashini-liyanage/",
+    "github": "https://github.com/SashiniLiyanage",
+    "joined_date": "2024-01-01",
+    "left_date": ""
+  },
+  {
+    "staff_name": "Keshawa Ratnayake",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/staff/temporary-academic-staff/keshawa.jpg",
+    "email": "e17290@eng.pdn.ac.lk",
+    "url_profile": "",
+    "linkedin": "https://www.linkedin.com/in/keshawa-ratnayake",
+    "github": "",
+    "joined_date": "2024-01-01",
+    "left_date": ""
   }
 ]
