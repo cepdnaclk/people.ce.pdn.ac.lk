@@ -6735,6 +6735,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Molding-Machine-Dashboard/"
         },
         {
+            "title": "Multimodal Emotion Prediction Using Reinforcement Learning",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Multimodal-Emotion-Prediction-Using-Reinforcement-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Multimodal-Emotion-Prediction-Using-Reinforcement-Learning",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Multimodal-Emotion-Prediction-Using-Reinforcement-Learning",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Multimodal-Emotion-Prediction-Using-Reinforcement-Learning/"
+        },
+        {
             "title": "Smart Cooling System for a Machinery Room Group5",
             "category": {
                 "code": "co326",
@@ -7748,6 +7761,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
+        },
+        {
+            "title": "machine vision for quality inspection",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/machine-vision-for-quality-inspection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-machine-vision-for-quality-inspection",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-machine-vision-for-quality-inspection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/machine-vision-for-quality-inspection/"
         }
     ],
     "E/18/170": [
@@ -8778,6 +8804,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Interactive-Department-Map-GroupA/"
         },
         {
+            "title": "Multimodal Emotion Prediction Using Reinforcement Learning",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Multimodal-Emotion-Prediction-Using-Reinforcement-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Multimodal-Emotion-Prediction-Using-Reinforcement-Learning",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Multimodal-Emotion-Prediction-Using-Reinforcement-Learning",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Multimodal-Emotion-Prediction-Using-Reinforcement-Learning/"
+        },
+        {
             "title": "Smart Cooling System for a Machinery Room Group5",
             "category": {
                 "code": "co326",
@@ -9104,6 +9143,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Interactive-Department-Map-GroupA/"
         },
         {
+            "title": "Multimodal Emotion Prediction Using Reinforcement Learning",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Multimodal-Emotion-Prediction-Using-Reinforcement-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Multimodal-Emotion-Prediction-Using-Reinforcement-Learning",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Multimodal-Emotion-Prediction-Using-Reinforcement-Learning",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Multimodal-Emotion-Prediction-Using-Reinforcement-Learning/"
+        },
+        {
             "title": "Smart Cooling System for a Machinery Room Group5",
             "category": {
                 "code": "co326",
@@ -9225,6 +9277,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring/"
+        },
+        {
+            "title": "machine vision for quality inspection",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/machine-vision-for-quality-inspection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-machine-vision-for-quality-inspection",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-machine-vision-for-quality-inspection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/machine-vision-for-quality-inspection/"
         }
     ],
     "E/18/375": [

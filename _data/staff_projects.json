@@ -144,8 +144,23 @@
         "projects": {}
     },
     "asithab@eng.pdn.ac.lk": {
-        "count": 8,
+        "count": 9,
         "projects": {
+            "e18": [
+                {
+                    "title": "machine vision for quality inspection",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/machine-vision-for-quality-inspection/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-machine-vision-for-quality-inspection",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-machine-vision-for-quality-inspection",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/machine-vision-for-quality-inspection/"
+                }
+            ],
             "e17": [
                 {
                     "title": "Comparative Analysis of 2nd and 3rd Generation Sequencing",
@@ -596,6 +611,26 @@
                     "page_url": "https://cepdnaclk.github.io/e17-4yp-Music-Emotion-Recognition",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Music-Emotion-Recognition/"
+                }
+            ]
+        }
+    },
+    "dharshana.k@sliit.lk": {
+        "count": 1,
+        "projects": {
+            "e18": [
+                {
+                    "title": "Multimodal Emotion Prediction Using Reinforcement Learning",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Multimodal-Emotion-Prediction-Using-Reinforcement-Learning/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Multimodal-Emotion-Prediction-Using-Reinforcement-Learning",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Multimodal-Emotion-Prediction-Using-Reinforcement-Learning",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Multimodal-Emotion-Prediction-Using-Reinforcement-Learning/"
                 }
             ]
         }
@@ -1405,8 +1440,23 @@
         }
     },
     "nadeeshaa@eng.pdn.ac.lk": {
-        "count": 1,
+        "count": 2,
         "projects": {
+            "e18": [
+                {
+                    "title": "machine vision for quality inspection",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/machine-vision-for-quality-inspection/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-machine-vision-for-quality-inspection",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-machine-vision-for-quality-inspection",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/machine-vision-for-quality-inspection/"
+                }
+            ],
             "e16": [
                 {
                     "title": "Food Recommendation System Using Machine Learning for Diabetic Patients",
@@ -2802,8 +2852,24 @@
         }
     },
     "yasodhav@eng.pdn.ac.lk": {
-        "count": 0,
-        "projects": {}
+        "count": 1,
+        "projects": {
+            "e18": [
+                {
+                    "title": "Multimodal Emotion Prediction Using Reinforcement Learning",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Multimodal-Emotion-Prediction-Using-Reinforcement-Learning/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Multimodal-Emotion-Prediction-Using-Reinforcement-Learning",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Multimodal-Emotion-Prediction-Using-Reinforcement-Learning",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Multimodal-Emotion-Prediction-Using-Reinforcement-Learning/"
+                }
+            ]
+        }
     },
     "ziyanm@eng.pdn.ac.lk": {
         "count": 1,
