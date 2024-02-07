@@ -7409,6 +7409,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-A/"
+        },
+        {
+            "title": "Machine Vision For Quality Inspection",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Machine-Vision-For-Quality-Inspection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Machine-Vision-For-Quality-Inspection",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Machine-Vision-For-Quality-Inspection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Machine-Vision-For-Quality-Inspection/"
         }
     ],
     "E/18/147": [
@@ -7763,17 +7776,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
         },
         {
-            "title": "machine vision for quality inspection",
+            "title": "Machine Vision For Quality Inspection",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/machine-vision-for-quality-inspection/",
-            "repo_url": "https://github.com/cepdnaclk/e18-4yp-machine-vision-for-quality-inspection",
-            "page_url": "https://cepdnaclk.github.io/e18-4yp-machine-vision-for-quality-inspection",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Machine-Vision-For-Quality-Inspection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Machine-Vision-For-Quality-Inspection",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Machine-Vision-For-Quality-Inspection",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/machine-vision-for-quality-inspection/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Machine-Vision-For-Quality-Inspection/"
         }
     ],
     "E/18/170": [
@@ -9279,17 +9292,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring/"
         },
         {
-            "title": "machine vision for quality inspection",
+            "title": "Machine Vision For Quality Inspection",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/machine-vision-for-quality-inspection/",
-            "repo_url": "https://github.com/cepdnaclk/e18-4yp-machine-vision-for-quality-inspection",
-            "page_url": "https://cepdnaclk.github.io/e18-4yp-machine-vision-for-quality-inspection",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Machine-Vision-For-Quality-Inspection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Machine-Vision-For-Quality-Inspection",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Machine-Vision-For-Quality-Inspection",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/machine-vision-for-quality-inspection/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Machine-Vision-For-Quality-Inspection/"
         }
     ],
     "E/18/375": [
