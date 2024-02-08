@@ -1,4 +1,4 @@
-
+sample change to test a pr
 [![Update Profile Details](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/daily.yml/badge.svg)](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/daily.yml)
 [![Update Project and Publication Details](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/update_projects_n_publications.yml/badge.svg)](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/update_projects_n_publications.yml)
 [![pages-build-deployment](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment)
