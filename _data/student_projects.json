@@ -7141,17 +7141,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
         },
         {
-            "title": "collaborative mapping with swarm robots",
+            "title": "PeraSwarm Simultaneous Localization and Mapping in Mixed Reality Environment",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/collaborative-mapping-with-swarm-robots/",
-            "repo_url": "https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots",
-            "page_url": "https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/collaborative-mapping-with-swarm-robots/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/"
         },
         {
             "title": "Water Quality Monitoring System",
@@ -7221,19 +7221,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-A/"
         },
         {
-            "title": "GPU Acceleration for Deep Learning based Comprehensive ECG analysis",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/",
-            "repo_url": "https://github.com/cepdnaclk/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
-            "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
-        },
-        {
             "title": "Smart Traffic Light System",
             "category": {
                 "code": "co326",
@@ -7286,19 +7273,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-A/"
-        },
-        {
-            "title": "GPU Acceleration for Deep Learning based Comprehensive ECG analysis",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/",
-            "repo_url": "https://github.com/cepdnaclk/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
-            "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
         },
         {
             "title": "Smart Traffic Light System",
@@ -7599,17 +7573,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Logging-Microservice-for-IoT-based-Smart-Agriculture-Project/"
         },
         {
-            "title": "collaborative mapping with swarm robots",
+            "title": "PeraSwarm Simultaneous Localization and Mapping in Mixed Reality Environment",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/collaborative-mapping-with-swarm-robots/",
-            "repo_url": "https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots",
-            "page_url": "https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/collaborative-mapping-with-swarm-robots/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/"
         }
     ],
     "E/18/154": [
@@ -7705,19 +7679,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-A/"
-        },
-        {
-            "title": "GPU Acceleration for Deep Learning based Comprehensive ECG analysis",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/",
-            "repo_url": "https://github.com/cepdnaclk/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
-            "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
         },
         {
             "title": "Smart Traffic Light System",
@@ -8314,17 +8275,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
         },
         {
-            "title": "collaborative mapping with swarm robots",
+            "title": "PeraSwarm Simultaneous Localization and Mapping in Mixed Reality Environment",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/collaborative-mapping-with-swarm-robots/",
-            "repo_url": "https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots",
-            "page_url": "https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/collaborative-mapping-with-swarm-robots/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/"
         },
         {
             "title": "Smart Energy Management System",

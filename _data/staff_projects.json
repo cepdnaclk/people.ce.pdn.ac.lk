@@ -1072,7 +1072,7 @@
         "projects": {}
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "count": 23,
+        "count": 22,
         "projects": {
             "e18": [
                 {
@@ -1087,19 +1087,6 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-Automated-Medical-Image-Annotation-for-Dataset-Building",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Automated-Medical-Image-Annotation-for-Dataset-Building/"
-                },
-                {
-                    "title": "GPU Acceleration for Deep Learning based Comprehensive ECG analysis",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/",
-                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
-                    "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
                 },
                 {
                     "title": "Machine Vision For Quality Inspection",
@@ -1128,6 +1115,19 @@
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Neuromorphic-NoC-Architecture-for-SNNs/"
                 },
                 {
+                    "title": "PeraSwarm Simultaneous Localization and Mapping in Mixed Reality Environment",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/"
+                },
+                {
                     "title": "Using AI in determining alveolar bone loss in Dental X rays to aid in periodontal diagnosis",
                     "category": {
                         "code": "4yp",
@@ -1139,19 +1139,6 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis/"
-                },
-                {
-                    "title": "collaborative mapping with swarm robots",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/collaborative-mapping-with-swarm-robots/",
-                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots",
-                    "page_url": "https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/collaborative-mapping-with-swarm-robots/"
                 }
             ],
             "e17": [
@@ -1677,17 +1664,17 @@
         "projects": {
             "e18": [
                 {
-                    "title": "collaborative mapping with swarm robots",
+                    "title": "PeraSwarm Simultaneous Localization and Mapping in Mixed Reality Environment",
                     "category": {
                         "code": "4yp",
                         "title": "Undergraduate Research Projects",
                         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
                     },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/collaborative-mapping-with-swarm-robots/",
-                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots",
-                    "page_url": "https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots",
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/collaborative-mapping-with-swarm-robots/"
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/"
                 }
             ],
             "e16": [
@@ -1919,7 +1906,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 40,
+        "count": 39,
         "projects": {
             "e18": [
                 {
@@ -1962,19 +1949,6 @@
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/"
                 },
                 {
-                    "title": "GPU Acceleration for Deep Learning based Comprehensive ECG analysis",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/",
-                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
-                    "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
-                },
-                {
                     "title": "Machine Vision For Quality Inspection",
                     "category": {
                         "code": "4yp",
@@ -2001,6 +1975,19 @@
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Neuromorphic-NoC-Architecture-for-SNNs/"
                 },
                 {
+                    "title": "PeraSwarm Simultaneous Localization and Mapping in Mixed Reality Environment",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/"
+                },
+                {
                     "title": "Using AI in determining alveolar bone loss in Dental X rays to aid in periodontal diagnosis",
                     "category": {
                         "code": "4yp",
@@ -2025,19 +2012,6 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
-                },
-                {
-                    "title": "collaborative mapping with swarm robots",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/collaborative-mapping-with-swarm-robots/",
-                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots",
-                    "page_url": "https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/collaborative-mapping-with-swarm-robots/"
                 }
             ],
             "e17": [
@@ -3014,22 +2988,9 @@
         }
     },
     "vajira@simula.no": {
-        "count": 3,
+        "count": 2,
         "projects": {
             "e18": [
-                {
-                    "title": "GPU Acceleration for Deep Learning based Comprehensive ECG analysis",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/",
-                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
-                    "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
-                },
                 {
                     "title": "Using AI in determining alveolar bone loss in Dental X rays to aid in periodontal diagnosis",
                     "category": {
