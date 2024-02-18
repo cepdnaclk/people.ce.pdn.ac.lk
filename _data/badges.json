@@ -8,20 +8,28 @@
             "page": "/badges/volunteered-admin-moderator/",
             "show": "true"
         },
+        "CO-seminar-organisers-badge": {
+            "title": "Seminar Organizing Team",
+            "subtitle": "",
+            "image": "images/badges/CO-seminar-organisers-badge.png",
+            "description": "The Seminar Organizing Team is a group of volunteers assisting to Organize seminars for students in the University of Peradeniya as well as other student's in other universities.",
+            "page": "/badges/CO-seminar-organisers-badge/",
+            "show": "true"
+        },
+        "casual-instructors-2022": {
+            "title": "Casual Instructors - 2022/2023",
+            "subtitle": "Semester 3 and 5",
+            "image": "images/badges/causal-instructors.png",
+            "description": "The casual Instructor program in the Department of Computer Engineering provides undergraduate students with the opportunity to be an instructor/teaching assistant in the courses offered for their junior batches.",
+            "page": "/badges/casual-instructors-2022/",
+            "show": "true"
+        },
         "volunteered-developer": {
             "title": "Volunteered Developer",
             "subtitle": "",
             "image": "images/badges/volunteered-developer.png",
             "description": "Department of Computer Engineering offers various types of development projects for the students to get real-world problem-solving experience. Students can voluntarily join those projects, and get mentorship and good work experience. This Badge was offered as an acknowledgment to the students who are actively involved in such kinds of projects related to the Department Websites.",
             "page": "/badges/volunteered-developer/",
-            "show": "true"
-        },
-        "casual-instructors-2021": {
-            "title": "Casual Instructors - 2021/2022",
-            "subtitle": "Semester 4 and 6",
-            "image": "images/badges/causal-instructors.png",
-            "description": "The casual Instructor program in the Department of Computer Engineering provides undergraduate students with the opportunity to be an instructor/teaching assistant in the courses offered for their junior batches.",
-            "page": "/badges/casual-instructors-2021/",
             "show": "true"
         },
         "casual-instructors-2023": {
@@ -32,12 +40,12 @@
             "page": "/badges/casual-instructors-2023/",
             "show": "true"
         },
-        "CO-seminar-organisers-badge": {
-            "title": "Seminar Organizing Team",
-            "subtitle": "",
-            "image": "images/badges/CO-seminar-organisers-badge.png",
-            "description": "The Seminar Organizing Team is a group of volunteers assisting to Organize seminars for students in the University of Peradeniya as well as other student's in other universities.",
-            "page": "/badges/CO-seminar-organisers-badge/",
+        "casual-instructors-2021": {
+            "title": "Casual Instructors - 2021/2022",
+            "subtitle": "Semester 4 and 6",
+            "image": "images/badges/causal-instructors.png",
+            "description": "The casual Instructor program in the Department of Computer Engineering provides undergraduate students with the opportunity to be an instructor/teaching assistant in the courses offered for their junior batches.",
+            "page": "/badges/casual-instructors-2021/",
             "show": "true"
         },
         "web-consultation-team": {
@@ -46,14 +54,6 @@
             "image": "images/badges/web-consultation-team.png",
             "description": "The Web Consultation Team is a group of volunteers assisting to improve the web presence of the University of Peradeniya. They  coordinate between staff/students and the webmasters of the websites under the pdn domain.",
             "page": "/badges/web-consultation-team/",
-            "show": "true"
-        },
-        "casual-instructors-2022": {
-            "title": "Casual Instructors - 2022/2023",
-            "subtitle": "Semester 3 and 5",
-            "image": "images/badges/causal-instructors.png",
-            "description": "The casual Instructor program in the Department of Computer Engineering provides undergraduate students with the opportunity to be an instructor/teaching assistant in the courses offered for their junior batches.",
-            "page": "/badges/casual-instructors-2022/",
             "show": "true"
         }
     },
@@ -82,27 +82,152 @@
                 "link": "#"
             }
         ],
-        "E/18/098": [
+        "E/18/118": [
             {
-                "tag": "volunteered-developer",
-                "position": "Developer of [people.ce.pdn.ac.lk](https://people.ce.pdn.ac.lk)",
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
                 "link": "#"
             }
         ],
-        "E/18/100": [
+        "E/16/012": [
             {
-                "tag": "casual-instructors-2022",
-                "position": "CO221, CO222",
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/16/049": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/16/134": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/17/398": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/18/154": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/18/068": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
                 "link": "#"
             },
             {
-                "tag": "volunteered-developer",
-                "position": "Developer of [faq.ce.pdn.ac.lk](https://faq.ce.pdn.ac.lk)",
+                "tag": "casual-instructors-2023",
+                "position": "CO224",
+                "link": "#"
+            }
+        ],
+        "E/17/194": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            },
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO253",
+                "link": "#"
+            },
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO325",
+                "link": "#"
+            },
+            {
+                "tag": "casual-instructors-2023",
+                "position": "CO328",
                 "link": "#"
             },
             {
                 "tag": "web-consultation-team",
                 "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/16/332": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            }
+        ],
+        "E/17/065": [
+            {
+                "tag": "CO-seminar-organisers-badge",
+                "position": "Organiser",
+                "link": "#"
+            },
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO322",
+                "link": "#"
+            }
+        ],
+        "E/16/276": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO321, CO324",
+                "link": "#"
+            }
+        ],
+        "E/16/369": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO322, CO324",
+                "link": "#"
+            }
+        ],
+        "E/16/388": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO323, CO325",
+                "link": "#"
+            }
+        ],
+        "E/16/069": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO321, CO324",
+                "link": "#"
+            }
+        ],
+        "E/16/070": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO322, CO323",
+                "link": "#"
+            }
+        ],
+        "E/16/275": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO321, CO324",
+                "link": "#"
+            }
+        ],
+        "E/16/364": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO322, CO323",
                 "link": "#"
             }
         ],
@@ -140,6 +265,18 @@
                 "link": "#"
             }
         ],
+        "E/17/296": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO323, CO325",
+                "link": "#"
+            },
+            {
+                "tag": "casual-instructors-2023",
+                "position": "CO326, CO327",
+                "link": "#"
+            }
+        ],
         "E/17/190": [
             {
                 "tag": "casual-instructors-2021",
@@ -154,6 +291,18 @@
             {
                 "tag": "casual-instructors-2023",
                 "position": "CO326, CO327",
+                "link": "#"
+            }
+        ],
+        "E/17/072": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO253",
+                "link": "#"
+            },
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO321, CO322",
                 "link": "#"
             }
         ],
@@ -191,54 +340,10 @@
                 "link": "#"
             }
         ],
-        "E/17/134": [
-            {
-                "tag": "casual-instructors-2021",
-                "position": "CO253",
-                "link": "#"
-            },
+        "E/17/207": [
             {
                 "tag": "casual-instructors-2022",
                 "position": "CO324",
-                "link": "#"
-            }
-        ],
-        "E/17/194": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            },
-            {
-                "tag": "casual-instructors-2021",
-                "position": "CO253",
-                "link": "#"
-            },
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO325",
-                "link": "#"
-            },
-            {
-                "tag": "casual-instructors-2023",
-                "position": "CO328",
-                "link": "#"
-            },
-            {
-                "tag": "web-consultation-team",
-                "position": "Member",
-                "link": "#"
-            }
-        ],
-        "E/17/072": [
-            {
-                "tag": "casual-instructors-2021",
-                "position": "CO253",
-                "link": "#"
-            },
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO321, CO322",
                 "link": "#"
             }
         ],
@@ -251,6 +356,37 @@
             {
                 "tag": "casual-instructors-2022",
                 "position": "CO321, CO323",
+                "link": "#"
+            }
+        ],
+        "E/17/134": [
+            {
+                "tag": "casual-instructors-2021",
+                "position": "CO253",
+                "link": "#"
+            },
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO324",
+                "link": "#"
+            }
+        ],
+        "E/17/201": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO324",
+                "link": "#"
+            },
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/17/148": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO324",
                 "link": "#"
             }
         ],
@@ -271,30 +407,6 @@
                 "link": "#"
             }
         ],
-        "E/17/296": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO323, CO325",
-                "link": "#"
-            },
-            {
-                "tag": "casual-instructors-2023",
-                "position": "CO326, CO327",
-                "link": "#"
-            }
-        ],
-        "E/17/027": [
-            {
-                "tag": "casual-instructors-2023",
-                "position": "CO327",
-                "link": "#"
-            },
-            {
-                "tag": "web-consultation-team",
-                "position": "Member",
-                "link": "#"
-            }
-        ],
         "E/17/012": [
             {
                 "tag": "casual-instructors-2022",
@@ -307,15 +419,67 @@
                 "link": "#"
             }
         ],
-        "E/18/329": [
+        "E/17/407": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO322, CO324",
+                "link": "#"
+            }
+        ],
+        "E/17/153": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO324",
+                "link": "#"
+            }
+        ],
+        "E/17/342": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO321",
+                "link": "#"
+            },
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/17/122": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO324",
+                "link": "#"
+            }
+        ],
+        "E/18/147": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO221, CO223",
+                "link": "#"
+            }
+        ],
+        "E/18/379": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO221, CO222",
+                "link": "#"
+            }
+        ],
+        "E/18/100": [
             {
                 "tag": "casual-instructors-2022",
                 "position": "CO221, CO222",
                 "link": "#"
             },
             {
-                "tag": "casual-instructors-2023",
-                "position": "CO225, CO226",
+                "tag": "volunteered-developer",
+                "position": "Developer of [faq.ce.pdn.ac.lk](https://faq.ce.pdn.ac.lk)",
+                "link": "#"
+            },
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
                 "link": "#"
             }
         ],
@@ -328,6 +492,18 @@
             {
                 "tag": "casual-instructors-2023",
                 "position": "CO224, CO253",
+                "link": "#"
+            }
+        ],
+        "E/18/329": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO221, CO222",
+                "link": "#"
+            },
+            {
+                "tag": "casual-instructors-2023",
+                "position": "CO225, CO226",
                 "link": "#"
             }
         ],
@@ -352,6 +528,80 @@
             {
                 "tag": "casual-instructors-2023",
                 "position": "CO224, CO226",
+                "link": "#"
+            },
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/18/375": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO222",
+                "link": "#"
+            }
+        ],
+        "E/18/170": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO222, CO223",
+                "link": "#"
+            }
+        ],
+        "E/18/010": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO222",
+                "link": "#"
+            },
+            {
+                "tag": "casual-instructors-2023",
+                "position": "CO225",
+                "link": "#"
+            }
+        ],
+        "E/18/168": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO222",
+                "link": "#"
+            },
+            {
+                "tag": "casual-instructors-2023",
+                "position": "CO226",
+                "link": "#"
+            }
+        ],
+        "E/18/382": [
+            {
+                "tag": "casual-instructors-2022",
+                "position": "CO221, CO223",
+                "link": "#"
+            },
+            {
+                "tag": "casual-instructors-2023",
+                "position": "CO253",
+                "link": "#"
+            },
+            {
+                "tag": "web-consultation-team",
+                "position": "Member",
+                "link": "#"
+            }
+        ],
+        "E/18/098": [
+            {
+                "tag": "volunteered-developer",
+                "position": "Developer of [people.ce.pdn.ac.lk](https://people.ce.pdn.ac.lk)",
+                "link": "#"
+            }
+        ],
+        "E/17/027": [
+            {
+                "tag": "casual-instructors-2023",
+                "position": "CO327",
                 "link": "#"
             },
             {
@@ -388,18 +638,6 @@
                 "link": "#"
             }
         ],
-        "E/18/010": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO222",
-                "link": "#"
-            },
-            {
-                "tag": "casual-instructors-2023",
-                "position": "CO225",
-                "link": "#"
-            }
-        ],
         "E/18/058": [
             {
                 "tag": "casual-instructors-2023",
@@ -408,18 +646,6 @@
             }
         ],
         "E/18/266": [
-            {
-                "tag": "casual-instructors-2023",
-                "position": "CO226",
-                "link": "#"
-            }
-        ],
-        "E/18/168": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO222",
-                "link": "#"
-            },
             {
                 "tag": "casual-instructors-2023",
                 "position": "CO226",
@@ -462,35 +688,6 @@
             }
         ],
         "E/18/013": [
-            {
-                "tag": "casual-instructors-2023",
-                "position": "CO253",
-                "link": "#"
-            },
-            {
-                "tag": "web-consultation-team",
-                "position": "Member",
-                "link": "#"
-            }
-        ],
-        "E/18/068": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            },
-            {
-                "tag": "casual-instructors-2023",
-                "position": "CO224",
-                "link": "#"
-            }
-        ],
-        "E/18/382": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO221, CO223",
-                "link": "#"
-            },
             {
                 "tag": "casual-instructors-2023",
                 "position": "CO253",
@@ -621,67 +818,6 @@
                 "link": "#"
             }
         ],
-        "E/18/118": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/16/012": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/16/049": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/16/134": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/17/398": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/18/154": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/16/332": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            }
-        ],
-        "E/17/065": [
-            {
-                "tag": "CO-seminar-organisers-badge",
-                "position": "Organiser",
-                "link": "#"
-            },
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO322",
-                "link": "#"
-            }
-        ],
         "E/17/064": [
             {
                 "tag": "web-consultation-team",
@@ -697,30 +833,6 @@
             }
         ],
         "E/17/230": [
-            {
-                "tag": "web-consultation-team",
-                "position": "Member",
-                "link": "#"
-            }
-        ],
-        "E/17/342": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO321",
-                "link": "#"
-            },
-            {
-                "tag": "web-consultation-team",
-                "position": "Member",
-                "link": "#"
-            }
-        ],
-        "E/17/201": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO324",
-                "link": "#"
-            },
             {
                 "tag": "web-consultation-team",
                 "position": "Member",
@@ -766,118 +878,6 @@
             {
                 "tag": "web-consultation-team",
                 "position": "Member",
-                "link": "#"
-            }
-        ],
-        "E/16/276": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO321, CO324",
-                "link": "#"
-            }
-        ],
-        "E/16/369": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO322, CO324",
-                "link": "#"
-            }
-        ],
-        "E/16/388": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO323, CO325",
-                "link": "#"
-            }
-        ],
-        "E/16/069": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO321, CO324",
-                "link": "#"
-            }
-        ],
-        "E/16/070": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO322, CO323",
-                "link": "#"
-            }
-        ],
-        "E/16/275": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO321, CO324",
-                "link": "#"
-            }
-        ],
-        "E/16/364": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO322, CO323",
-                "link": "#"
-            }
-        ],
-        "E/17/207": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO324",
-                "link": "#"
-            }
-        ],
-        "E/17/148": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO324",
-                "link": "#"
-            }
-        ],
-        "E/17/407": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO322, CO324",
-                "link": "#"
-            }
-        ],
-        "E/17/153": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO324",
-                "link": "#"
-            }
-        ],
-        "E/17/122": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO324",
-                "link": "#"
-            }
-        ],
-        "E/18/147": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO221, CO223",
-                "link": "#"
-            }
-        ],
-        "E/18/379": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO221, CO222",
-                "link": "#"
-            }
-        ],
-        "E/18/375": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO222",
-                "link": "#"
-            }
-        ],
-        "E/18/170": [
-            {
-                "tag": "casual-instructors-2022",
-                "position": "CO222, CO223",
                 "link": "#"
             }
         ]
