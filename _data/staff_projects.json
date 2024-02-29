@@ -581,6 +581,26 @@
             ]
         }
     },
+    "darshana.jayasinghe@sydney.edu.au": {
+        "count": 1,
+        "projects": {
+            "e18": [
+                {
+                    "title": "RPA attacks using Machine Learning Algorithms",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/RPA-attacks-using-Machine-Learning-Algorithms/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/RPA-attacks-using-Machine-Learning-Algorithms/"
+                }
+            ]
+        }
+    },
     "dhammika@eng.pdn.ac.lk": {
         "count": 0,
         "projects": {}
@@ -1548,8 +1568,23 @@
         }
     },
     "manjula.sandirigama@eng.pdn.ac.lk": {
-        "count": 1,
+        "count": 2,
         "projects": {
+            "e18": [
+                {
+                    "title": "RPA attacks using Machine Learning Algorithms",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/RPA-attacks-using-Machine-Learning-Algorithms/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/RPA-attacks-using-Machine-Learning-Algorithms/"
+                }
+            ],
             "e17": [
                 {
                     "title": "Deep Learning for Side Channel Attacks",
