@@ -164,7 +164,7 @@
         "projects": {}
     },
     "asithab@eng.pdn.ac.lk": {
-        "count": 9,
+        "count": 10,
         "projects": {
             "e18": [
                 {
@@ -179,6 +179,19 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/"
+                },
+                {
+                    "title": "Gamification of Orthodontic Treatment Success with Pre and Post Dental Models",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Gamification-of-Orthodontic-Treatment-Success-with-Pre-and-Post-Dental-Models/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Gamification-of-Orthodontic-Treatment-Success-with-Pre-and-Post-Dental-Models",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Gamification-of-Orthodontic-Treatment-Success-with-Pre-and-Post-Dental-Models",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Gamification-of-Orthodontic-Treatment-Success-with-Pre-and-Post-Dental-Models/"
                 }
             ],
             "e17": [
@@ -1419,6 +1432,26 @@
     "kesharaw@eng.pdn.ac.lk": {
         "count": 0,
         "projects": {}
+    },
+    "ksandamala2002@dental.pdn.ac.lk": {
+        "count": 1,
+        "projects": {
+            "e18": [
+                {
+                    "title": "Gamification of Orthodontic Treatment Success with Pre and Post Dental Models",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Gamification-of-Orthodontic-Treatment-Success-with-Pre-and-Post-Dental-Models/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Gamification-of-Orthodontic-Treatment-Success-with-Pre-and-Post-Dental-Models",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Gamification-of-Orthodontic-Treatment-Success-with-Pre-and-Post-Dental-Models",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Gamification-of-Orthodontic-Treatment-Success-with-Pre-and-Post-Dental-Models/"
+                }
+            ]
+        }
     },
     "lankaniperera@eng.pdn.ac.lk": {
         "count": 0,
