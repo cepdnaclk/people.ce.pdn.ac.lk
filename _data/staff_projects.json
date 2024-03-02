@@ -164,9 +164,22 @@
         "projects": {}
     },
     "asithab@eng.pdn.ac.lk": {
-        "count": 10,
+        "count": 11,
         "projects": {
             "e18": [
+                {
+                    "title": "Detection And Repair Data Quality Issues In Process Mining",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/"
+                },
                 {
                     "title": "Extending and Implementing Process Mining Techniques Prevention and Mitigation",
                     "category": {
@@ -363,9 +376,22 @@
         "projects": {}
     },
     "damayanthiherath@eng.pdn.ac.lk": {
-        "count": 14,
+        "count": 15,
         "projects": {
             "e18": [
+                {
+                    "title": "Detection And Repair Data Quality Issues In Process Mining",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/"
+                },
                 {
                     "title": "Extending and Implementing Process Mining Techniques Prevention and Mitigation",
                     "category": {
@@ -1101,7 +1127,7 @@
         "projects": {}
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "count": 22,
+        "count": 23,
         "projects": {
             "e18": [
                 {
@@ -1116,6 +1142,19 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-Automated-Medical-Image-Annotation-for-Dataset-Building",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Automated-Medical-Image-Annotation-for-Dataset-Building/"
+                },
+                {
+                    "title": "GPU Acceleration for Deep Learning based Comprehensive ECG analysis",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
                 },
                 {
                     "title": "Machine Vision For Quality Inspection",
@@ -1970,7 +2009,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 38,
+        "count": 40,
         "projects": {
             "e18": [
                 {
@@ -2000,6 +2039,19 @@
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/DL-Based-Stereo-Matching-Estimation/"
                 },
                 {
+                    "title": "Detection And Repair Data Quality Issues In Process Mining",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/"
+                },
+                {
                     "title": "Extending and Implementing Process Mining Techniques Prevention and Mitigation",
                     "category": {
                         "code": "4yp",
@@ -2011,6 +2063,19 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/"
+                },
+                {
+                    "title": "GPU Acceleration for Deep Learning based Comprehensive ECG analysis",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
                 },
                 {
                     "title": "Machine Vision For Quality Inspection",
@@ -3019,9 +3084,22 @@
         }
     },
     "vajira@simula.no": {
-        "count": 2,
+        "count": 3,
         "projects": {
             "e18": [
+                {
+                    "title": "GPU Acceleration for Deep Learning based Comprehensive ECG analysis",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
+                },
                 {
                     "title": "Using AI in determining alveolar bone loss in Dental X rays to aid in periodontal diagnosis",
                     "category": {
