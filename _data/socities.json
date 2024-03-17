@@ -1,12 +1,5 @@
 {
     "committee": {
-        "aces-2020": {
-            "title": "ACES Committee 2020-2021",
-            "image": "images/badges/aces.png",
-            "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2020-2021",
-            "page": "/societies/aces-2020/",
-            "show": "false"
-        },
         "aces-2016": {
             "title": "ACES Committee 2016",
             "image": "images/badges/aces.png",
@@ -21,11 +14,11 @@
             "page": "/societies/aces-2019/",
             "show": "false"
         },
-        "aces-2015": {
-            "title": "ACES Committee 2015",
+        "aces-2020": {
+            "title": "ACES Committee 2020-2021",
             "image": "images/badges/aces.png",
-            "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2015",
-            "page": "/societies/aces-2015/",
+            "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2020-2021",
+            "page": "/societies/aces-2020/",
             "show": "false"
         },
         "aces-2021": {
@@ -34,105 +27,16 @@
             "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2021-2022",
             "page": "/societies/aces-2021/",
             "show": "false"
+        },
+        "aces-2015": {
+            "title": "ACES Committee 2015",
+            "image": "images/badges/aces.png",
+            "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2015",
+            "page": "/societies/aces-2015/",
+            "show": "false"
         }
     },
     "members": {
-        "E/15/299": [
-            {
-                "tag": "aces-2020",
-                "position": "President",
-                "link": "#"
-            }
-        ],
-        "E/16/275": [
-            {
-                "tag": "aces-2020",
-                "position": "Secretary",
-                "link": "#"
-            }
-        ],
-        "E/15/187": [
-            {
-                "tag": "aces-2020",
-                "position": "Vice President",
-                "link": "#"
-            }
-        ],
-        "E/15/077": [
-            {
-                "tag": "aces-2020",
-                "position": "Editor",
-                "link": "#"
-            }
-        ],
-        "E/15/065": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/15/316": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/15/265": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/16/290": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/16/389": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/16/222": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/17/398": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/17/065": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/17/018": [
-            {
-                "tag": "aces-2020",
-                "position": "Committee Member",
-                "link": "#"
-            },
-            {
-                "tag": "aces-2021",
-                "position": "Secretary",
-                "link": "#"
-            }
-        ],
         "E/11/024": [
             {
                 "tag": "aces-2016",
@@ -280,6 +184,193 @@
                 "link": "#"
             }
         ],
+        "E/15/299": [
+            {
+                "tag": "aces-2020",
+                "position": "President",
+                "link": "#"
+            }
+        ],
+        "E/16/275": [
+            {
+                "tag": "aces-2020",
+                "position": "Secretary",
+                "link": "#"
+            }
+        ],
+        "E/15/187": [
+            {
+                "tag": "aces-2020",
+                "position": "Vice President",
+                "link": "#"
+            }
+        ],
+        "E/15/077": [
+            {
+                "tag": "aces-2020",
+                "position": "Editor",
+                "link": "#"
+            }
+        ],
+        "E/15/065": [
+            {
+                "tag": "aces-2020",
+                "position": "Committee Member",
+                "link": "#"
+            }
+        ],
+        "E/15/316": [
+            {
+                "tag": "aces-2020",
+                "position": "Committee Member",
+                "link": "#"
+            }
+        ],
+        "E/15/265": [
+            {
+                "tag": "aces-2020",
+                "position": "Committee Member",
+                "link": "#"
+            }
+        ],
+        "E/16/290": [
+            {
+                "tag": "aces-2020",
+                "position": "Committee Member",
+                "link": "#"
+            }
+        ],
+        "E/16/389": [
+            {
+                "tag": "aces-2020",
+                "position": "Committee Member",
+                "link": "#"
+            }
+        ],
+        "E/16/222": [
+            {
+                "tag": "aces-2020",
+                "position": "Committee Member",
+                "link": "#"
+            }
+        ],
+        "E/17/398": [
+            {
+                "tag": "aces-2020",
+                "position": "Committee Member",
+                "link": "#"
+            }
+        ],
+        "E/17/065": [
+            {
+                "tag": "aces-2020",
+                "position": "Committee Member",
+                "link": "#"
+            }
+        ],
+        "E/17/018": [
+            {
+                "tag": "aces-2020",
+                "position": "Committee Member",
+                "link": "#"
+            },
+            {
+                "tag": "aces-2021",
+                "position": "Secretary",
+                "link": "#"
+            }
+        ],
+        "E/16/332": [
+            {
+                "tag": "aces-2021",
+                "position": "President",
+                "link": "#"
+            }
+        ],
+        "E/16/388": [
+            {
+                "tag": "aces-2021",
+                "position": "Vice President",
+                "link": "#"
+            }
+        ],
+        "E/18/155": [
+            {
+                "tag": "aces-2021",
+                "position": "Assistant Secretary",
+                "link": "#"
+            }
+        ],
+        "E/16/126": [
+            {
+                "tag": "aces-2021",
+                "position": "Editor",
+                "link": "#"
+            }
+        ],
+        "E/17/352": [
+            {
+                "tag": "aces-2021",
+                "position": "Junior Editor",
+                "link": "#"
+            }
+        ],
+        "E/16/221": [
+            {
+                "tag": "aces-2021",
+                "position": "Committee Member",
+                "link": "#"
+            }
+        ],
+        "E/16/076": [
+            {
+                "tag": "aces-2021",
+                "position": "Committee Member",
+                "link": "#"
+            }
+        ],
+        "E/16/088": [
+            {
+                "tag": "aces-2021",
+                "position": "Committee Member",
+                "link": "#"
+            }
+        ],
+        "E/17/027": [
+            {
+                "tag": "aces-2021",
+                "position": "Committee Member",
+                "link": "#"
+            }
+        ],
+        "E/17/091": [
+            {
+                "tag": "aces-2021",
+                "position": "Committee Member",
+                "link": "#"
+            }
+        ],
+        "E/18/149": [
+            {
+                "tag": "aces-2021",
+                "position": "Committee Member",
+                "link": "#"
+            }
+        ],
+        "E/18/330": [
+            {
+                "tag": "aces-2021",
+                "position": "Committee Member",
+                "link": "#"
+            }
+        ],
+        "E/18/354": [
+            {
+                "tag": "aces-2021",
+                "position": "Committee Member",
+                "link": "#"
+            }
+        ],
         "E/10/064": [
             {
                 "tag": "aces-2015",
@@ -374,97 +465,6 @@
         "E/12/269": [
             {
                 "tag": "aces-2015",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/16/332": [
-            {
-                "tag": "aces-2021",
-                "position": "President",
-                "link": "#"
-            }
-        ],
-        "E/16/388": [
-            {
-                "tag": "aces-2021",
-                "position": "Vice President",
-                "link": "#"
-            }
-        ],
-        "E/18/155": [
-            {
-                "tag": "aces-2021",
-                "position": "Assistant Secretary",
-                "link": "#"
-            }
-        ],
-        "E/16/126": [
-            {
-                "tag": "aces-2021",
-                "position": "Editor",
-                "link": "#"
-            }
-        ],
-        "E/17/352": [
-            {
-                "tag": "aces-2021",
-                "position": "Junior Editor",
-                "link": "#"
-            }
-        ],
-        "E/16/221": [
-            {
-                "tag": "aces-2021",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/16/076": [
-            {
-                "tag": "aces-2021",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/16/088": [
-            {
-                "tag": "aces-2021",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/17/027": [
-            {
-                "tag": "aces-2021",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/17/091": [
-            {
-                "tag": "aces-2021",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/18/149": [
-            {
-                "tag": "aces-2021",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/18/330": [
-            {
-                "tag": "aces-2021",
-                "position": "Committee Member",
-                "link": "#"
-            }
-        ],
-        "E/18/354": [
-            {
-                "tag": "aces-2021",
                 "position": "Committee Member",
                 "link": "#"
             }
