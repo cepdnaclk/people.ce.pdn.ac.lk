@@ -1090,8 +1090,24 @@
         }
     },
     "imeshuek@eng.pdn.ac.lk": {
-        "count": 0,
-        "projects": {}
+        "count": 1,
+        "projects": {
+            "e18": [
+                {
+                    "title": "Dengue outbreak prediction in Sri Lanka using machine learning techniques",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/"
+                }
+            ]
+        }
     },
     "indika.kahanda@unf.edu": {
         "count": 1,
@@ -1728,9 +1744,22 @@
         }
     },
     "namal@eng.pdn.ac.lk": {
-        "count": 3,
+        "count": 4,
         "projects": {
             "e18": [
+                {
+                    "title": "Dengue outbreak prediction in Sri Lanka using machine learning techniques",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/"
+                },
                 {
                     "title": "Predicting Forex Currency Exchange Rate using Machine Learning",
                     "category": {
