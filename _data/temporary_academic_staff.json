@@ -256,7 +256,7 @@
     "joined_date": "2024-01-01",
     "left_date": ""
   },
-    {
+  {
     "staff_name": "Nishankar Sathiyamohan",
     "text_below_name": "Temporary Instructor",
     "url_image": "images/staff/temporary-academic-staff/Nishankar.jpg",
@@ -265,6 +265,17 @@
     "linkedin": "https://www.linkedin.com/in/nishankar-sathiyamohan/",
     "github": "https://github.com/Nishan-Charlie",
     "joined_date": "2024-01-01",
+    "left_date": ""
+  },
+  {
+    "staff_name": "Shakthi Perera",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/staff/temporary-academic-staff/shakthi.jpg",
+    "email": "e17245@eng.pdn.ac.lk",
+    "url_profile": "",
+    "linkedin": "www.linkedin.com/in/shakthi-perera",
+    "github": "",
+    "joined_date": "2024-04-02",
     "left_date": ""
   }
 ]
