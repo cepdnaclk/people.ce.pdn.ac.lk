@@ -8,7 +8,7 @@ badge_description: "The casual Instructor program in the Department of Computer 
 badge_criteria: "Actively contribute to the course works for more than 6 working hours"
 edit: "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/badges/casual-instructors-2024"
 students: 
- - { eNumber: "E/18/147", name: "S. Jameel", position: "COCO327, EE387", profile_url: "/students/e18/147/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18147.jpg", link: "#" }
+ - { eNumber: "E/18/147", name: "S. Jameel", position: "CO327, EE387", profile_url: "/students/e18/147/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18147.jpg", link: "#" }
  - { eNumber: "E/18/100", name: "Fernando K.N.A.", position: "CO326, CO544", profile_url: "/students/e18/100/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18100.jpg", link: "#" }
  - { eNumber: "E/18/379", name: "T.D.B. Wanduragala", position: "CO327, CO328", profile_url: "/students/e18/379/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18379.jpg", link: "#" }
  - { eNumber: "E/18/245", name: "Nishani K.", position: "CO326, CO544", profile_url: "/students/e18/245/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18245.jpg", link: "#" }
