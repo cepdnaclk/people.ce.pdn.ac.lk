@@ -1,0 +1,120 @@
+{
+    "title": "ACES Committee 2024",
+    "tag": "aces-2024",
+    "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2024",
+    "image": "images/badges/aces.png",
+    "show_in_profile": "false",
+    "criteria": "",
+    "students": [
+        {
+            "eNumber": "E/18/285",
+            "name": "Tharindu Ranasinghe",
+            "position": "President"
+        },
+        {
+            "eNumber": "E/18/028",
+            "name": "Jeewantha Ariyawansha",
+            "position": "Vice President"
+        },
+        {
+            "eNumber": "E/19/095",
+            "name": "Lakshitha Edirisinghe",
+            "position": "General Secretary"
+        },
+        {
+            "eNumber": "E/20/069",
+            "name": "Tharaka Dilshan",
+            "position": "Assistant Secretary"
+        },
+        {
+            "eNumber": "E/19/063",
+            "name": "Sandeep Dassanayake",
+            "position": "Junior Treasurer"
+        },
+        {
+            "eNumber": "E/19/147",
+            "name": "Saadia Jameel",
+            "position": "Editor"
+        },
+        {
+            "eNumber": "E/19/142",
+            "name": "Hashini Illangarathne",
+            "position": "Junior Editor"
+        },
+        {
+            "eNumber": "E/18/349",
+            "name": "Anushanga Pavith",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/18/412",
+            "name": "Sanjaya De Silva",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/18/329",
+            "name": "Nirasha Sewwandi",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/18/402",
+            "name": "Chathura Wimalasiri",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/18/245",
+            "name": "K.Nishani",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/19/163",
+            "name": "Eshan Jayasundara",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/19/034",
+            "name": "Kavindu Bambaragama",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/19/060",
+            "name": "S. Danujan",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/19/028",
+            "name": "Nilakshi Atugedara",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/19/413",
+            "name": "Nipul Viduranga",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/20/420",
+            "name": "Janith Wanasinghe",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/20/271",
+            "name": "Hasini Nirmani",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/20/338",
+            "name": "Rishanthan Sridharan",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/20/049",
+            "name": "Kamesh Chanuka",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/20/036",
+            "name": "Rusiru Induwara",
+            "position": "Committee Member"
+        }
+    ]
+}
