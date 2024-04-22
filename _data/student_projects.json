@@ -1402,19 +1402,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics/"
         },
         {
-            "title": "Remotely Controlled CNC Robot",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
-            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
-        },
-        {
             "title": "Zero Trash",
             "category": {
                 "code": "co328",
@@ -1426,6 +1413,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
+        },
+        {
+            "title": "Remotely Controlled CNC Robot",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
+            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         }
     ],
     "E/15/142": [
@@ -1553,19 +1553,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics/"
         },
         {
-            "title": "Remotely Controlled CNC Robot",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
-            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
-        },
-        {
             "title": "Zero Trash",
             "category": {
                 "code": "co328",
@@ -1577,6 +1564,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
+        },
+        {
+            "title": "Remotely Controlled CNC Robot",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
+            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         }
     ],
     "E/15/179": [
@@ -2406,19 +2406,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/anonymous-authentication/"
         },
         {
-            "title": "Remotely Controlled CNC Robot",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
-            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
-        },
-        {
             "title": "Zero Trash",
             "category": {
                 "code": "co328",
@@ -2430,6 +2417,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
+        },
+        {
+            "title": "Remotely Controlled CNC Robot",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
+            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         }
     ],
     "E/15/351": [
