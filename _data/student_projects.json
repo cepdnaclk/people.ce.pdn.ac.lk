@@ -4549,6 +4549,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-proctoring-system/"
         },
         {
+            "title": "Low Complexity Algorithm for Arrhythmia Detection",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/"
+        },
+        {
             "title": "business to business database",
             "category": {
                 "code": "co226",
@@ -5136,6 +5149,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-remote-proctoring-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-proctoring-system/"
+        },
+        {
+            "title": "Low Complexity Algorithm for Arrhythmia Detection",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/"
         }
     ],
     "E/17/194": [
