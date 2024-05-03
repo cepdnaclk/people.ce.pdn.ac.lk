@@ -11971,6 +11971,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Online-Retail-System/"
         },
         {
+            "title": "Database project Hospital Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-project-Hospital-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-project-Hospital-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Database-project-Hospital-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-project-Hospital-Management-System/"
+        },
+        {
             "title": "School Attendance Management System Mobile Application",
             "category": {
                 "code": "co225",
@@ -11997,6 +12010,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Waste-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Waste-Management-System/"
+        },
+        {
+            "title": "Database project Hospital Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-project-Hospital-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-project-Hospital-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Database-project-Hospital-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-project-Hospital-Management-System/"
         },
         {
             "title": "Baby Developement Tracking System Mobileapplication",
@@ -12038,6 +12064,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-ACES-Project-Fund-Requests",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ACES-Project-Fund-Requests/"
+        },
+        {
+            "title": "Database project Hospital Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-project-Hospital-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-project-Hospital-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Database-project-Hospital-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-project-Hospital-Management-System/"
         },
         {
             "title": "Student Result Management System",
