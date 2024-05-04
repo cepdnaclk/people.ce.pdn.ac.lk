@@ -181,6 +181,19 @@
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/"
                 },
                 {
+                    "title": "Automated PAR Index Calculation on Orthodontic Treatment Using Software and Machine Learning",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning/"
+                },
+                {
                     "title": "Detection And Repair Data Quality Issues In Process Mining",
                     "category": {
                         "code": "4yp",
@@ -205,19 +218,6 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/"
-                },
-                {
-                    "title": "Gamification of Orthodontic Treatment Success with Pre and Post Dental Models",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Gamification-of-Orthodontic-Treatment-Success-with-Pre-and-Post-Dental-Models/",
-                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Gamification-of-Orthodontic-Treatment-Success-with-Pre-and-Post-Dental-Models",
-                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Gamification-of-Orthodontic-Treatment-Success-with-Pre-and-Post-Dental-Models",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Gamification-of-Orthodontic-Treatment-Success-with-Pre-and-Post-Dental-Models/"
                 },
                 {
                     "title": "Generating Patient Clinical Letters Using LLMs",
@@ -1532,17 +1532,17 @@
         "projects": {
             "e18": [
                 {
-                    "title": "Gamification of Orthodontic Treatment Success with Pre and Post Dental Models",
+                    "title": "Automated PAR Index Calculation on Orthodontic Treatment Using Software and Machine Learning",
                     "category": {
                         "code": "4yp",
                         "title": "Undergraduate Research Projects",
                         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
                     },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Gamification-of-Orthodontic-Treatment-Success-with-Pre-and-Post-Dental-Models/",
-                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Gamification-of-Orthodontic-Treatment-Success-with-Pre-and-Post-Dental-Models",
-                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Gamification-of-Orthodontic-Treatment-Success-with-Pre-and-Post-Dental-Models",
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning/",
+                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning",
+                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Gamification-of-Orthodontic-Treatment-Success-with-Pre-and-Post-Dental-Models/"
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning/"
                 }
             ]
         }
