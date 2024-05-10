@@ -10412,6 +10412,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/"
         },
         {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
+        },
+        {
             "title": "Medical Clinic Manager",
             "category": {
                 "code": "co226",
@@ -10818,6 +10831,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/A-Simple-Web-or-Mobile-Application-For-A-Gym/"
         },
         {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
+        },
+        {
             "title": "Database for Bank Management System",
             "category": {
                 "code": "co226",
@@ -10855,6 +10881,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co544-personalised-promotion-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/personalised-promotion-system/"
+        }
+    ],
+    "E/19/083": [
+        {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
         }
     ],
     "E/19/087": [
@@ -10980,6 +11021,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Ride/"
         },
         {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
+        },
+        {
             "title": "Library Management System",
             "category": {
                 "code": "co225",
@@ -10991,6 +11045,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System/"
+        },
+        {
+            "title": "Bitcoin Cost Forecast System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Bitcoin-Cost-Forecast-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Bitcoin-Cost-Forecast-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Bitcoin-Cost-Forecast-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Bitcoin-Cost-Forecast-System/"
         }
     ],
     "E/19/094": [
@@ -11345,6 +11412,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ACES-Project-Fund-Requests/"
         },
         {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
+        },
+        {
             "title": "Online Shopping",
             "category": {
                 "code": "co226",
@@ -11369,6 +11449,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-School-Attendance-Management-System-Mobile-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/School-Attendance-Management-System-Mobile-Application/"
+        },
+        {
+            "title": "Bitcoin Cost Forecast System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Bitcoin-Cost-Forecast-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Bitcoin-Cost-Forecast-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Bitcoin-Cost-Forecast-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Bitcoin-Cost-Forecast-System/"
         }
     ],
     "E/19/124": [
@@ -11833,6 +11926,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/A-Simple-Web-or-Mobile-Application-For-A-Gym/"
         },
         {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
+        },
+        {
             "title": "Online Shopping System",
             "category": {
                 "code": "co226",
@@ -11857,6 +11963,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System-Web-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
+        },
+        {
+            "title": "Bitcoin Cost Forecast System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Bitcoin-Cost-Forecast-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Bitcoin-Cost-Forecast-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Bitcoin-Cost-Forecast-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Bitcoin-Cost-Forecast-System/"
         }
     ],
     "E/19/167": [
@@ -12241,6 +12360,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Ride/"
         },
         {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
+        },
+        {
             "title": "School Attendance Management System Mobile Application",
             "category": {
                 "code": "co225",
@@ -12252,6 +12384,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-School-Attendance-Management-System-Mobile-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/School-Attendance-Management-System-Mobile-Application/"
+        },
+        {
+            "title": "Bitcoin Cost Forecast System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Bitcoin-Cost-Forecast-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Bitcoin-Cost-Forecast-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Bitcoin-Cost-Forecast-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Bitcoin-Cost-Forecast-System/"
         }
     ],
     "E/19/236": [
@@ -12880,6 +13025,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/automated-warehouse-management-and-monitoring-system/"
         },
         {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
+        },
+        {
             "title": "agriculture management system",
             "category": {
                 "code": "co226",
@@ -12904,6 +13062,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-School-Attendance-Management-System-Mobile-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/School-Attendance-Management-System-Mobile-Application/"
+        },
+        {
+            "title": "Bitcoin Cost Forecast System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Bitcoin-Cost-Forecast-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Bitcoin-Cost-Forecast-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Bitcoin-Cost-Forecast-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Bitcoin-Cost-Forecast-System/"
         }
     ],
     "E/19/306": [
