@@ -11816,6 +11816,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/voice-based-attendance-management-system/"
         },
         {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
+        },
+        {
             "title": "Department Space Management System Mobile App",
             "category": {
                 "code": "co225",
@@ -12684,6 +12697,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Training-Management-System/"
         },
         {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
+        },
+        {
             "title": "Online Learning Platform",
             "category": {
                 "code": "co226",
@@ -13291,6 +13317,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/TecHub-help-desk-ticketing-system/"
         },
         {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
+        },
+        {
             "title": "Flight Management System",
             "category": {
                 "code": "co226",
@@ -13315,6 +13354,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
+        },
+        {
+            "title": "Heart Disease Prediction System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Heart-Disease-Prediction-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Heart-Disease-Prediction-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Heart-Disease-Prediction-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Heart-Disease-Prediction-System/"
         }
     ],
     "E/19/324": [
@@ -13926,6 +13978,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Developing-image-capturing-and-analysing-system-using-FPGA/"
         },
         {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
+        },
+        {
             "title": "Department Space Management System Mobile App",
             "category": {
                 "code": "co225",
@@ -14008,6 +14073,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
         },
         {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
+        },
+        {
             "title": "Flight Management System",
             "category": {
                 "code": "co226",
@@ -14032,6 +14110,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
+        },
+        {
+            "title": "Heart Disease Prediction System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Heart-Disease-Prediction-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Heart-Disease-Prediction-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Heart-Disease-Prediction-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Heart-Disease-Prediction-System/"
         }
     ],
     "E/19/431": [
@@ -14062,6 +14153,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/TecHub-help-desk-ticketing-system/"
         },
         {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
+        },
+        {
             "title": "Library Management System Web App",
             "category": {
                 "code": "co225",
@@ -14073,6 +14177,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System-Web-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
+        },
+        {
+            "title": "Heart Disease Prediction System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Heart-Disease-Prediction-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Heart-Disease-Prediction-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Heart-Disease-Prediction-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Heart-Disease-Prediction-System/"
         }
     ],
     "E/19/432": [
@@ -14360,6 +14477,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
         },
         {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
+        },
+        {
             "title": "Flight Management System",
             "category": {
                 "code": "co226",
@@ -14384,6 +14514,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System-Web-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
+        },
+        {
+            "title": "Heart Disease Prediction System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Heart-Disease-Prediction-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Heart-Disease-Prediction-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Heart-Disease-Prediction-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Heart-Disease-Prediction-System/"
         }
     ],
     "E/19/455": [
@@ -14440,6 +14583,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-Pera-Ride",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Ride/"
+        },
+        {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
         },
         {
             "title": "Baby Developing Tracking System Web Application",
