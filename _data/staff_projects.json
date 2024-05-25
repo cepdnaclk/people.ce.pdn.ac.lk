@@ -164,7 +164,7 @@
         "projects": {}
     },
     "asithab@eng.pdn.ac.lk": {
-        "count": 13,
+        "count": 12,
         "projects": {
             "e18": [
                 {
@@ -192,19 +192,6 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning/"
-                },
-                {
-                    "title": "Detection And Repair Data Quality Issues In Process Mining",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/",
-                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
-                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/"
                 },
                 {
                     "title": "Extending and Implementing Process Mining Techniques Prevention and Mitigation",
@@ -406,7 +393,7 @@
         "projects": {}
     },
     "damayanthiherath@eng.pdn.ac.lk": {
-        "count": 17,
+        "count": 16,
         "projects": {
             "e18": [
                 {
@@ -421,19 +408,6 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/"
-                },
-                {
-                    "title": "Detection And Repair Data Quality Issues In Process Mining",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/",
-                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
-                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/"
                 },
                 {
                     "title": "Extending and Implementing Process Mining Techniques Prevention and Mitigation",
@@ -2085,7 +2059,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 42,
+        "count": 41,
         "projects": {
             "e18": [
                 {
@@ -2126,19 +2100,6 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-DL-Based-Stereo-Matching-Estimation",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/DL-Based-Stereo-Matching-Estimation/"
-                },
-                {
-                    "title": "Detection And Repair Data Quality Issues In Process Mining",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/",
-                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
-                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/"
                 },
                 {
                     "title": "Extending and Implementing Process Mining Techniques Prevention and Mitigation",

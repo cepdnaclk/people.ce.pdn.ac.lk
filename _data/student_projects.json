@@ -7921,19 +7921,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-A/"
         },
         {
-            "title": "Detection And Repair Data Quality Issues In Process Mining",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/",
-            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
-            "page_url": "https://cepdnaclk.github.io/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/"
-        },
-        {
             "title": "home automation system group01",
             "category": {
                 "code": "co326",
@@ -8699,19 +8686,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Automated-Notification-System-for-Examinations",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Automated-Notification-System-for-Examinations/"
-        },
-        {
-            "title": "Detection And Repair Data Quality Issues In Process Mining",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/",
-            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
-            "page_url": "https://cepdnaclk.github.io/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/"
         }
     ],
     "E/18/282": [
@@ -10071,19 +10045,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Automated-Notification-System-for-Examinations",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Automated-Notification-System-for-Examinations/"
-        },
-        {
-            "title": "Detection And Repair Data Quality Issues In Process Mining",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/",
-            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
-            "page_url": "https://cepdnaclk.github.io/e18-4yp-Detection-And-Repair-Data-Quality-Issues-In-Process-Mining",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Detection-And-Repair-Data-Quality-Issues-In-Process-Mining/"
         }
     ],
     "E/19/003": [
@@ -10125,19 +10086,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developement-Tracking-System-Mobileapplication",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developement-Tracking-System-Mobileapplication/"
-        },
-        {
-            "title": "Hand Tremor Prediction System",
-            "category": {
-                "code": "co544",
-                "title": "Machine Learning Projects (CO544)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Hand-Tremor-Prediction-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co544-Hand-Tremor-Prediction-System",
-            "page_url": "https://cepdnaclk.github.io/e19-co544-Hand-Tremor-Prediction-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Hand-Tremor-Prediction-System/"
         }
     ],
     "E/19/004": [
@@ -11179,19 +11127,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-In-Patient-Management-System-For-a-Hospital",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/In-Patient-Management-System-For-a-Hospital/"
-        },
-        {
-            "title": "Hand Tremor Prediction System",
-            "category": {
-                "code": "co544",
-                "title": "Machine Learning Projects (CO544)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Hand-Tremor-Prediction-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co544-Hand-Tremor-Prediction-System",
-            "page_url": "https://cepdnaclk.github.io/e19-co544-Hand-Tremor-Prediction-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Hand-Tremor-Prediction-System/"
         }
     ],
     "E/19/096": [
@@ -11935,19 +11870,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Department-Space-Management-System-Mobile-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Department-Space-Management-System-Mobile-App/"
-        },
-        {
-            "title": "Hand Tremor Prediction System",
-            "category": {
-                "code": "co544",
-                "title": "Machine Learning Projects (CO544)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Hand-Tremor-Prediction-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co544-Hand-Tremor-Prediction-System",
-            "page_url": "https://cepdnaclk.github.io/e19-co544-Hand-Tremor-Prediction-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Hand-Tremor-Prediction-System/"
         }
     ],
     "E/19/166": [
@@ -12490,19 +12412,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-In-Patient-Management-System-For-a-Hospital",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/In-Patient-Management-System-For-a-Hospital/"
-        },
-        {
-            "title": "Hand Tremor Prediction System",
-            "category": {
-                "code": "co544",
-                "title": "Machine Learning Projects (CO544)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Hand-Tremor-Prediction-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co544-Hand-Tremor-Prediction-System",
-            "page_url": "https://cepdnaclk.github.io/e19-co544-Hand-Tremor-Prediction-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Hand-Tremor-Prediction-System/"
         }
     ],
     "E/19/240": [
@@ -14326,19 +14235,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developement-Tracking-System-Mobileapplication",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developement-Tracking-System-Mobileapplication/"
-        },
-        {
-            "title": "Hand Tremor Prediction System",
-            "category": {
-                "code": "co544",
-                "title": "Machine Learning Projects (CO544)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Hand-Tremor-Prediction-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co544-Hand-Tremor-Prediction-System",
-            "page_url": "https://cepdnaclk.github.io/e19-co544-Hand-Tremor-Prediction-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Hand-Tremor-Prediction-System/"
         }
     ],
     "E/19/446": [
