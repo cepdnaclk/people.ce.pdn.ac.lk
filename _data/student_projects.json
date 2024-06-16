@@ -10213,6 +10213,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-reporting-of-technical-visits/"
         },
         {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
+        },
+        {
             "title": "database management system for a restaurant",
             "category": {
                 "code": "co226",
@@ -10278,6 +10291,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-digital-reporting-of-technical-visits",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-reporting-of-technical-visits/"
+        },
+        {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
         },
         {
             "title": "database management system for a restaurant",
@@ -10658,6 +10684,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-reporting-of-technical-visits/"
         },
         {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
+        },
+        {
             "title": "database management system for a restaurant",
             "category": {
                 "code": "co226",
@@ -11021,6 +11060,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Leaf-Colour-Quantifier",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Leaf-Colour-Quantifier/"
+        },
+        {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
         },
         {
             "title": "Department Space Management System Web Application",
@@ -11440,6 +11492,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/A-Simple-Web-or-Mobile-Application-For-A-Gym/"
         },
         {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
+        },
+        {
             "title": "Airline Booking System",
             "category": {
                 "code": "co226",
@@ -11492,6 +11557,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Leaf-Colour-Quantifier",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Leaf-Colour-Quantifier/"
+        },
+        {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
         },
         {
             "title": "Database for Cricket Statistics",
@@ -13319,6 +13397,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-reporting-of-technical-visits/"
         },
         {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
+        },
+        {
             "title": "Online Shopping System",
             "category": {
                 "code": "co226",
@@ -13576,6 +13667,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Leaf-Colour-Quantifier/"
         },
         {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
+        },
+        {
             "title": "Database for Cricket Statistics",
             "category": {
                 "code": "co226",
@@ -13736,6 +13840,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Leaf-Colour-Quantifier",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Leaf-Colour-Quantifier/"
+        },
+        {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
         },
         {
             "title": "Database for Cricket Statistics",
