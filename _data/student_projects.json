@@ -15009,6 +15009,36 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
         }
     ],
+    "E/20/036": [
+        {
+            "title": "Food Buddy",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Food-Buddy/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Food-Buddy",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Food-Buddy",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Food-Buddy/"
+        }
+    ],
+    "E/20/037": [
+        {
+            "title": "Food Buddy",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Food-Buddy/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Food-Buddy",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Food-Buddy",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Food-Buddy/"
+        }
+    ],
     "E/20/054": [
         {
             "title": "software to analyse FMD of arteries",
@@ -15144,6 +15174,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Denture-Design-Studio/"
         }
     ],
+    "E/20/350": [
+        {
+            "title": "Food Buddy",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Food-Buddy/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Food-Buddy",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Food-Buddy",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Food-Buddy/"
+        }
+    ],
     "E/20/363": [
         {
             "title": "Mentormate",
@@ -15202,6 +15247,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co225-Mentormate",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Mentormate/"
+        }
+    ],
+    "E/20/377": [
+        {
+            "title": "Food Buddy",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Food-Buddy/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Food-Buddy",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Food-Buddy",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Food-Buddy/"
         }
     ],
     "E/20/419": [
