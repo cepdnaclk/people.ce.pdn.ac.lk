@@ -15216,6 +15216,66 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Erasmus-plus-Project-Web-and-MIS/"
         }
     ],
+    "E/20/197": [
+        {
+            "title": "Postgraduate Student Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Postgraduate-Student-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Postgraduate-Student-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Postgraduate-Student-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Postgraduate-Student-Management-System/"
+        }
+    ],
+    "E/20/211": [
+        {
+            "title": "Postgraduate Student Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Postgraduate-Student-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Postgraduate-Student-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Postgraduate-Student-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Postgraduate-Student-Management-System/"
+        }
+    ],
+    "E/20/212": [
+        {
+            "title": "Postgraduate Student Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Postgraduate-Student-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Postgraduate-Student-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Postgraduate-Student-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Postgraduate-Student-Management-System/"
+        }
+    ],
+    "E/20/242": [
+        {
+            "title": "Postgraduate Student Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Postgraduate-Student-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Postgraduate-Student-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Postgraduate-Student-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Postgraduate-Student-Management-System/"
+        }
+    ],
     "E/20/285": [
         {
             "title": "software to analyse FMD of arteries",
