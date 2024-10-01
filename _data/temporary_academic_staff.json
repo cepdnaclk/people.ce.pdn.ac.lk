@@ -288,7 +288,7 @@
     "github": "https://github.com/Thamish99",
     "joined_date": "2024-10-01",
     "left_date": ""
-  }, 
+  },
   {
     "staff_name": "Saadia Jameel",
     "text_below_name": "Temporary Instructor",
@@ -297,6 +297,17 @@
     "url_profile": "/students/e18/147",
     "linkedin": "https://www.linkedin.com/in/saadia-jameel-531007180",
     "github": "https://github.com/SaadiaJameel",
+    "joined_date": "2024-10-01",
+    "left_date": ""
+  },
+  {
+    "staff_name": "Chathura Wimalasiri",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/students/e18/E18402.jpg",
+    "email": "e18402@eng.pdn.ac.lk",
+    "url_profile": "/students/e18/402",
+    "linkedin": "https://www.linkedin.com/in/chathura-wimalasiri-b0637b1a1",
+    "github": "https://github.com/chathurawimalasiri",
     "joined_date": "2024-10-01",
     "left_date": ""
   }
