@@ -5,10 +5,27 @@
         <div class="container">
             <div class="clearfix">
                 <b><span class="text-primary">{{ pub.title }}</span></b><br>
-                {{ pub.authors | join: ", " }},
+
+                <!-- Author list -->
+                <div>
+                    <!-- {{ pub.authors | join: ", " }}, -->
+                    {%- for author in pub.author_info -%}
+
+                    {%- if author.profile == "#" -%}
+                    <span class="me-1">{{ author.name }}</span>
+                    {%- else -%}
+                    <a class="text-decoration-none" href="{{ author.profile }}" target="_blank">
+                        {{ author.name }}
+                    </a>
+                    {%- endif -%}
+                    {% if forloop.last %}{% else %}, {% endif %}
+                    {%- endfor -%}
+                </div>
+
                 <i>{{ pub.venue }}</i>, {{ pub.year }}<br>
                 <span>
-                    doi: <a class="text-muted" href="{{p.doi}}" target="_blank">{{ p.doi | replace: "https://doi.org/", "" }}</a>
+                    doi: <a class="text-muted" href="{{p.doi}}" target="_blank">{{ p.doi | replace: "https://doi.org/",
+                        "" }}</a>
                 </span>
             </div>
 

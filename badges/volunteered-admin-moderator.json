@@ -1,0 +1,21 @@
+{
+    "title": "Volunteered Administrator/Moderator",
+    "subtitle": "",
+    "tag": "volunteered-admin-moderator",
+    "description": "Department of Computer Engineering allows students to participate in various activities to improve their leadership and management skills. This Badge was offered as an acknowledgment to the students who are actively involved in managing and moderating digital spaces of the Department Communities. ",
+    "image": "images/badges/admin-moderator.png",
+    "show_in_profile": "true",
+    "criteria": "Active involvement in each domain for at least a year",
+    "students": [
+        {
+            "eNumber": "E/17/154",
+            "name": "Akila Karunanayake",
+            "position": "[cepdnaclk](https://github.com/cepdnaclk/) GitHub Organization (2020-2023)"
+        },
+        {
+            "eNumber": "E/16/088",
+            "name": "Heshan Dissanayake",
+            "position": "PeraCom Discord Server (2022-2023)"
+        }
+    ]
+}

@@ -1,8 +1,9 @@
 {
     "E/11/010": {
         "reg_no": "E/11/010",
-        "name_with_initials": " T.M.S.U.B.Abeysinghe",
-        "image_url": "images/students/e11/e11010.jpg"
+        "name_with_initials": "T.M.S.U.B Abeysinghe",
+        "image_url": "images/students/e11/e11010.jpg",
+        "page_url": "/students/e11/010/"
     },
     "E/11/014": {
         "reg_no": "E/11/014",
@@ -11,8 +12,9 @@
     },
     "E/11/019": {
         "reg_no": "E/11/019",
-        "name_with_initials": " W.G.N.M.Amarasinghe",
-        "image_url": "images/students/e11/e11019.jpg"
+        "name_with_initials": "W.G.N.M. Amarasinghe",
+        "image_url": "images/students/e11/e11019.jpg",
+        "page_url": "/students/e11/019/"
     },
     "E/11/020": {
         "reg_no": "E/11/020",
@@ -21,7 +23,7 @@
     },
     "E/11/024": {
         "reg_no": "E/11/024",
-        "name_with_initials": "A. S. P. Athukorala",
+        "name_with_initials": "A.S.P. Athukorala",
         "image_url": "images/students/e11/e11024.jpg",
         "page_url": "/students/e11/024/"
     },
@@ -37,8 +39,9 @@
     },
     "E/11/032": {
         "reg_no": "E/11/032",
-        "name_with_initials": " B.M.N.M.Balasooriya",
-        "image_url": "images/students/e11/e11032.jpg"
+        "name_with_initials": "B.M.N.M. Balasooriya",
+        "image_url": "images/students/e11/e11032.jpg",
+        "page_url": "/students/e11/032/"
     },
     "E/11/037": {
         "reg_no": "E/11/037",
@@ -157,8 +160,9 @@
     },
     "E/11/188": {
         "reg_no": "E/11/188",
-        "name_with_initials": " J.L.M.M.Jayawardena",
-        "image_url": "images/students/e11/e11188.jpg"
+        "name_with_initials": "J.L.M.M. Jayawardena ",
+        "image_url": "images/students/e11/e11188.jpg",
+        "page_url": "/students/e11/188/"
     },
     "E/11/193": {
         "reg_no": "E/11/193",
@@ -192,8 +196,9 @@
     },
     "E/11/258": {
         "reg_no": "E/11/258",
-        "name_with_initials": " M.M.D.B.Marasinghe",
-        "image_url": "images/students/e11/e11258.jpg"
+        "name_with_initials": "M.M.D.B. Marasinghe",
+        "image_url": "images/students/e11/e11258.jpg",
+        "page_url": "/students/e11/258/"
     },
     "E/11/268": {
         "reg_no": "E/11/268",
@@ -243,8 +248,9 @@
     },
     "E/11/343": {
         "reg_no": "E/11/343",
-        "name_with_initials": " A.R.S.P.Rodrigo",
-        "image_url": "images/students/e11/e11343.jpg"
+        "name_with_initials": "A.R.S.P. Rodrigo",
+        "image_url": "images/students/e11/e11343.jpg",
+        "page_url": "/students/e11/343/"
     },
     "E/11/353": {
         "reg_no": "E/11/353",

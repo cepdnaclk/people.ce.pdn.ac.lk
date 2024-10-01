@@ -1,4 +1,10 @@
 {
+    "E/99/006": {
+        "reg_no": "E/99/006",
+        "page_url": "/students/e99/006/",
+        "name_with_initials": "A.S.B. Amunugama",
+        "image_url": "images/students/e99/e99006.jpg"
+    },
     "E/99/009": {
         "reg_no": "E/99/009",
         "name_with_initials": "ANGELO A.J.",
@@ -21,8 +27,9 @@
     },
     "E/99/047": {
         "reg_no": "E/99/047",
-        "name_with_initials": "DISSANAYAKE D.M.H.B.",
-        "image_url": "images/students/default.jpg"
+        "name_with_initials": "D.M.H.B. Dissanayake",
+        "image_url": "images/students/default.jpg",
+        "page_url": "/students/e99/047/"
     },
     "E/99/108": {
         "reg_no": "E/99/108",
@@ -126,8 +133,9 @@
     },
     "E/99/312": {
         "reg_no": "E/99/312",
-        "name_with_initials": "YAALINI B.",
-        "image_url": "images/students/default.jpg"
+        "name_with_initials": "Y. Balathasan",
+        "image_url": "images/students/default.jpg",
+        "page_url": "/students/e99/312/"
     },
     "E/99/317": {
         "reg_no": "E/99/317",

@@ -16,8 +16,9 @@
     },
     "E/05/036": {
         "reg_no": "E/05/036",
-        "name_with_initials": "C.R.W.Basnayaka",
-        "image_url": "images/students/e05/e05036.jpg"
+        "name_with_initials": "C.R.W. Basnayake",
+        "image_url": "images/students/e05/e05036.jpg",
+        "page_url": "/students/e05/036/"
     },
     "E/05/042": {
         "reg_no": "E/05/042",
@@ -116,8 +117,9 @@
     },
     "E/05/126": {
         "reg_no": "E/05/126",
-        "name_with_initials": "K.I.P.Jayamini",
-        "image_url": "images/students/e05/e05126.jpg"
+        "name_with_initials": "K.I.T Jayamini",
+        "image_url": "images/students/e05/e05126.jpg",
+        "page_url": "/students/e05/126/"
     },
     "E/05/129": {
         "reg_no": "E/05/129",
@@ -154,6 +156,12 @@
         "name_with_initials": "A.D.K.S.Kumari",
         "image_url": "images/students/e05/e05178.jpg"
     },
+    "E/05/182": {
+        "reg_no": "E/05/182",
+        "name_with_initials": "L.S. Liyanage ",
+        "image_url": "images/students/e05/e05182.jpg",
+        "page_url": "/students/e05/182/"
+    },
     "E/05/186": {
         "reg_no": "E/05/186",
         "name_with_initials": "M.P.Lokuhetti",
@@ -166,8 +174,9 @@
     },
     "E/05/190": {
         "reg_no": "E/05/190",
-        "name_with_initials": "S.R.B.Malalgoda",
-        "image_url": "images/students/e05/e05190.jpg"
+        "name_with_initials": "S.R.B. Malalgoda",
+        "image_url": "images/students/e05/e05190.jpg",
+        "page_url": "/students/e05/190/"
     },
     "E/05/193": {
         "reg_no": "E/05/193",

@@ -35,9 +35,10 @@
         "url_image" : "images/students/default.jpg"
     },
     {
-        "staff_name" : "Prof S.P.H Hoole",
+        "staff_name" : "Prof S.R.H Hoole",
         "text_below_name" : "25/01/2000 to 30/06/2001",
-        "url_image" : "images/students/default.jpg"
+        "permalink": "https://en.wikipedia.org/wiki/Ratnajeevan_Hoole",
+        "url_image" : "images/staff/past-heads-of-dep/ProfHoole.jpg"
     },
     {
         "staff_name" : "Prof E.M.N Ekanayake",

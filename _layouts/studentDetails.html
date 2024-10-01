@@ -96,7 +96,8 @@ NOTES:
                     {% if page.image_url %}
                     <img src="{{ page.image_url | relative_url}}" alt="image" style="border-radius: 10%" width="250">
                     {% else %}
-                    <img src="{{ 'images/students/default.jpg' | relative_url}}" alt="image" style="border-radius: 10%" width="175">
+                    <img src="{{ 'images/students/default.jpg' | relative_url}}" alt="image" style="border-radius: 10%"
+                        width="175">
                     {% endif %}
 
                     <div class="mt-2">
@@ -116,57 +117,47 @@ NOTES:
             <!-- Social Media and Profile Links -->
             <div class="container d-flex justify-content-start py-1">
                 {% if page.url_linkedin %}
-                <a class="btn btn-link" href="{{ page.url_linkedin }}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Linkedin">
+                <a class="btn btn-link" href="{{ page.url_linkedin }}" target="_blank" data-bs-toggle="tooltip"
+                    data-bs-html="true" data-bs-placement="top" title="Linkedin">
                     <i style="color: #0e76a8;" class="fab social-icon fa-2x fa-linkedin"></i>
                 </a>
                 {% endif %}
 
                 {% if page.url_github %}
-                <a class="btn btn-link" href="{{ page.url_github }}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="GitHub">
+                <a class="btn btn-link" href="{{ page.url_github }}" target="_blank" data-bs-toggle="tooltip"
+                    data-bs-html="true" data-bs-placement="top" title="GitHub">
                     <i style="color: #333;" class="fab social-icon fa-2x fa-github"></i>
                 </a>
                 {% endif %}
 
                 {% if page.url_researchgate %}
-                <a class="btn btn-link" href="{{ page.url_researchgate | relative_url}}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Researchgate">
+                <a class="btn btn-link" href="{{ page.url_researchgate | relative_url}}" target="_blank"
+                    data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Researchgate">
                     <i style="color: #0cb;" class="fab social-icon fa-2x fa-researchgate"></i>
                 </a>
                 {% endif %}
 
                 {% if page.url_website %}
-                <a class="btn btn-link" href="{{ page.url_website | relative_url}}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Personal Website">
+                <a class="btn btn-link" href="{{ page.url_website | relative_url}}" target="_blank"
+                    data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Personal Website">
                     <i style="color: #000;" class="fa social-icon fa-2x fa-globe"></i>
                 </a>
                 {% endif %}
 
                 {% if page.url_twitter %}
-                <a class="btn btn-link" href="{{ page.url_twitter | relative_url}}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Twitter">
+                <a class="btn btn-link" href="{{ page.url_twitter | relative_url}}" target="_blank"
+                    data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Twitter">
                     <i style="color: #00acee;" class="fab social-icon fa-2x fa-twitter"></i>
                 </a>
                 {% endif %}
 
                 {% if page.url_facebook %}
-                <a class="btn btn-link" href="{{ page.url_facebook | relative_url}}" target="_blank" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Facebook">
+                <a class="btn btn-link" href="{{ page.url_facebook | relative_url}}" target="_blank"
+                    data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="top" title="Facebook">
                     <i style="color: #4267B2;" class="fab social-icon fa-2x fa-facebook"></i>
                 </a>
                 {% endif %}
             </div>
-
-            {%- if badge_count > 0 -%}
-            <!-- Badges -->
-            <hr>
-            <div class=""py-2 ">
-                <p class="d-none">
-                    Badges<sup><i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="right" title="Badges are offered by the department based on the student activities and performance"></i></sup>
-                </p>
-                <div class="d-flex justify-content-start">
-                    {% for badge in badges %}
-                    {%- assign badge_details = site.data.badges.badges[badge.tag] -%}
-                    {%- include badge.html badge_details=badge_details -%}
-                    {%- endfor -%}
-                </div>
-            </div>
-            {%- endif -%}
 
             <!-- Resume / CV -->
             <div class="container d-flex justify-content-center pt-4">
@@ -176,6 +167,25 @@ NOTES:
                 </a>
                 {% endif %}
             </div>
+
+            {%- if badge_count > 0 -%}
+            <!-- Badges -->
+            <hr>
+            <div class="py-2">
+                <p class="d-none">
+                    Badges<sup><i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-html="true"
+                            data-bs-placement="right"
+                            title="Badges are offered by the department based on the student activities and performance"></i></sup>
+                </p>
+                <div class="container">
+                    {% for badge in badges %}
+                    {%- assign badge_details = site.data.badges.badges[badge.tag] -%}
+                    {%- include badge.html badge_details=badge_details position=badge.position -%}
+                    {%- endfor -%}
+                </div>
+            </div>
+            {%- endif -%}
+
         </div>
 
         <div class="col-md-8">
@@ -237,15 +247,15 @@ NOTES:
                         </div>
                         <div class="col-sm-9 text-secondary">
                             {%- if page.email_faculty -%}
-                                <a href="mailto:{{ page.email_faculty }}">{{page.email_faculty}}</a>
+                            <a href="mailto:{{ page.email_faculty }}">{{page.email_faculty}}</a>
                             {%- endif -%}
 
                             {%- if page.email_faculty and page.email_personal -%}
-                            &nbsp;,&nbsp; 
+                            &nbsp;,&nbsp;
                             {%- endif -%}
 
                             {%- if page.email_personal -%}
-                                {% include email_reveal.html email=page.email_personal text="Show Personal Email" %}
+                            {% include email_reveal.html email=page.email_personal text="Show Personal Email" %}
                             {%- endif -%}
                         </div>
                     </div>
@@ -299,12 +309,15 @@ NOTES:
             <div class="card mt-3">
                 <div class="card-header" style="font-weight: 500">
                     Projects
-                    <sup><i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-html="true" data-bs-placement="right" title="Projects done by the student, which are listed in the projects.ce.pdn.ac.lk"></i></sup>
+                    <sup><i class="fa fa-info-circle" data-bs-toggle="tooltip" data-bs-html="true"
+                            data-bs-placement="right"
+                            title="Projects done by the student, which are listed in the projects.ce.pdn.ac.lk"></i></sup>
                 </div>
                 <div class="card-body mx-2">
                     <div class="row">
                         {%- for p in projects -%}
-                        {%- include projectCard.html title=p.title thumb=p.thumbnail_url url=p.project_url cat=p.category.title -%}
+                        {%- include projectCard.html title=p.title thumb=p.thumbnail_url url=p.project_url
+                        cat=p.category.title -%}
                         {%- endfor -%}
                     </div>
                 </div>
@@ -331,7 +344,8 @@ NOTES:
                     <div class="row">
                         <hr>
                         <p class="text-muted small">
-                            Please note  that here only contain the <i>'Publications'</i> affiliated with the <i>Department of Computer Engineering</i>. To see the full publication profile, visit the
+                            Please note that here only contain the <i>'Publications'</i> affiliated with the
+                            <i>Department of Computer Engineering</i>. To see the full publication profile, visit the
                             {%- if page.url_researchgate -%}
                             <span> <a href="{{ page.url_researchgate }}" target="_blank">ResearchGate</a> </span>
                             {%- else -%}

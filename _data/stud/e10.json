@@ -102,8 +102,9 @@
     },
     "E/10/104": {
         "reg_no": "E/10/104",
-        "name_with_initials": " P.B.H.B.B.Ganegoda",
-        "image_url": "images/students/e10/e10104.jpg"
+        "name_with_initials": "P.B.H.B.B. Ganegoda",
+        "image_url": "images/students/e10/e10104.jpg",
+        "page_url": "/students/e10/104/"
     },
     "E/10/111": {
         "reg_no": "E/10/111",
@@ -295,8 +296,9 @@
     },
     "E/10/401": {
         "reg_no": "E/10/401",
-        "name_with_initials": " W.M.D.A.Wijethunga",
-        "image_url": "images/students/e10/e10401.jpg"
+        "name_with_initials": "W.M.D.A Wijethunga",
+        "image_url": "images/students/e10/e10401.jpg",
+        "page_url": "/students/e10/401/"
     },
     "E/10/406": {
         "reg_no": "E/10/406",

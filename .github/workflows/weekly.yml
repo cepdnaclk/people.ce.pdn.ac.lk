@@ -1,0 +1,67 @@
+name: Weekly Updates
+
+on:
+  schedule:
+    # At 19:00 on Sunday. (12.30 mid night in Sri Lanka)
+    - cron: "0 19 * * 0"
+
+  # Enables a button on Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@master
+        with:
+          ref: main
+          # used for 'git log' command at python_scripts/update_profile_from_google_form.py line 154
+          fetch-depth: 0
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install gdown
+          pip install requests
+          pip install pillow
+          pip install googledrivedownloader
+          pip install pytz
+
+      # This may not really needed now
+      - name: Download Academic Staff pages from Google Drive
+        run: |
+          cd ./python_scripts
+          python3 download_staff_pages_from_drive.py
+          cd ../
+      # -------------------------------
+      - name: Generate Performance Badges for the students
+        run: |
+          cd ./python_scripts
+          python3 update_badges.py
+          cd ../
+
+      - name: Update ACES Committee Details
+        run: |
+          cd ./python_scripts
+          python3 update_socities.py
+          cd ../
+
+      - name: Resize staff images
+        run: |
+          cd ./python_scripts
+          python3 resize_staff_images.py
+          cd ../
+
+      - name: Commit and push into the main branch
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add --all
+          git commit -m "Weekly workflow" || echo "No changes"
+          git push

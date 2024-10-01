@@ -31,9 +31,12 @@ title: Badges
                     <div class="col-md-8">
                         <div class="card-body">
                             <h5 class="card-title">{{ p.title }}</h5>
+                            {% if p.subtitle != "" %}<h6 class="card-title test-secondary">{{ p.subtitle }}</h6>{% endif
+                            %}
                             <p class="card-text">{{ p.badge_description }}</p>
                             <div class="text-end clearfix">
-                                <a class="btn btn-primary btn-sm mx-3" href="{{ p.permalink | relative_url }}">Explore</a>
+                                <a class="btn btn-primary btn-sm mx-3"
+                                    href="{{ p.permalink | relative_url }}">Explore</a>
                             </div>
                         </div>
                     </div>

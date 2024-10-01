@@ -37,7 +37,8 @@ breadcrumb
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
                 <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
-                <li class="breadcrumb-item"><a href="{{ '/students/postgraduate/' | relative_url }}" class="link-light">Postgraduate Students</a></li>
+                <li class="breadcrumb-item"><a href="{{ '/students/postgraduate/' | relative_url }}"
+                        class="link-light">Postgraduate Students</a></li>
                 <li class="breadcrumb-item text-white">
                     {{page.name_with_initials}}
                 </li>
@@ -56,9 +57,11 @@ breadcrumb
                         Image
                         {%- endcomment -%}
                         {% if page.image_url %}
-                        <img src="{{ page.image_url | relative_url}}" alt="image" style="border-radius: 10%" width="250">
+                        <img src="{{ page.image_url | relative_url}}" alt="image" style="border-radius: 10%"
+                            width="250">
                         {% else %}
-                        <img src="{{ 'images/students/default.jpg' | relative_url}}" alt="image" style="border-radius: 10%" width="175">
+                        <img src="{{ 'images/students/default.jpg' | relative_url}}" alt="image"
+                            style="border-radius: 10%" width="175">
                         {% endif %}
 
                         <div class="mt-2">
@@ -78,7 +81,8 @@ breadcrumb
                     <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
                         <h6 class="mb-0"> <i class="fas fa-globe"></i> Website</h6>
                         {% if page.url_website %}
-                        <span class="text-secondary"> <a href="{{page.url_website}}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
+                        <span class="text-secondary"> <a href="{{page.url_website}}" target="_blank"><button
+                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
                         {% else %}
                         <span class="text-secondary"> N/A</span>
                         {% endif %}
@@ -167,6 +171,42 @@ breadcrumb
                     {% endif %}
                 </div>
             </div>
+
+            <!-- Publications -->
+            {%- assign publications = site.data.postgraduate_publications[page.email] -%}
+            {%- assign pub_count = publications | size -%}
+            {% if pub_count > 0 %}
+            <div class="card mt-3">
+                <div class="card-header" style="font-weight: 500">Publications</div>
+                <div class="card-body mx-2 p-3">
+                    <div class="row px-3">
+                        <ul>
+                            {%- for p in publications -%}
+                            <li>
+                                {%- include publicationCard.html data=p title=p.title path=page.path -%}
+                            </li>
+                            {%- endfor -%}
+                        </ul>
+
+                    </div>
+                    <div class="row">
+                        <hr>
+                        <p class="text-muted small">
+                            Please note that here only contain the <i>'Publications'</i> affiliated with the
+                            <i>Department of Computer Engineering</i>. To see the full publication profile, visit the
+                            {%- if page.url_researchgate -%}
+                            <span> <a href="{{ page.url_researchgate }}" target="_blank">ResearchGate</a> </span>
+                            {%- else -%}
+                            <span> ResearchGate </span>
+                            {%- endif -%} or Google Scholar profile of the student.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            {%- endif -%}
+
+            <br>
+            <br>
             {{content}}
         </div>
     </div>

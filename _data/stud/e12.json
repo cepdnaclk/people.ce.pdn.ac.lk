@@ -119,8 +119,9 @@
     },
     "E/12/206": {
         "reg_no": "E/12/206",
-        "name_with_initials": " A.H.T.I.Madhusanka",
-        "image_url": "images/students/e12/e12206.jpg"
+        "name_with_initials": "A.H.T.I. Madhusanka",
+        "image_url": "images/students/e12/e12206.jpg",
+        "page_url": "/students/e12/206/"
     },
     "E/12/211": {
         "reg_no": "E/12/211",

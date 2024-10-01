@@ -1,3 +1,8 @@
+{%- if student.image_url -%}
+{%- assign profile_url = student.image_url | prepend: '/' | prepend: site.absolute_url -%}
+{%- else -%}
+{%- assign profile_url = '/images/students/default.jpg' | prepend: site.absolute_url -%}
+{%- endif -%}
 "{{ student.reg_no }}" : {
 "eNumber": "{{ student.reg_no }}",
 "batch": "{{ student.batch }}",
@@ -19,7 +24,7 @@
 "{{ member | strip }}"{% if forloop.last %}{% else %},{% endif %}
 {% endfor %}
 ],
-"profile_image": "{{ student.image_url || absolute_url}}",
+"profile_image": "{{profile_url}}",
 "urls":{
 "cv":"{{ student.url_cv }}",
 "website":"{{ student.url_website }}",

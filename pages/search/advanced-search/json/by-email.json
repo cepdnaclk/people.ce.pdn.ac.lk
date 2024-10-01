@@ -13,6 +13,18 @@ permalink : /search/by-email.json
         },
     {% endif %}
   {% endfor %}
+  
+  {% for eachPerson in site.data.visiting-research-fellows %}
+        {%- if eachPerson.name != "#" -%}
+        {
+          "title" : "{{eachPerson.name}}",
+          "email" : "{{eachPerson.email}}",
+          "url" : "{{ "/staff/visiting-research-fellows/" | relative_url }}"
+        },
+        {%- endif -%}
+
+  {% endfor %}
+  
   {% for post in site.pages %}
       {% if post.layout == "studentDetails" %}
       {%- comment -%}Student profile page{%- endcomment -%}
@@ -24,12 +36,12 @@ permalink : /search/by-email.json
       {% endif %}
   {% endfor %}
 
-  {% for post in site.data.academic_support_staff %}
-  {%- comment -%}academic support staff pages{%- endcomment -%}
+  {% for post in site.data.non_academic_staff %}
+  {%- comment -%} Non Academic Staff pages{%- endcomment -%}
     {
-        "title" : "{{ post.staff_name }} - Academic Support Staff",
+        "title" : "{{ post.staff_name }} - Non Academic Staff",
         "email": "{{post.email}}",
-        "url"      : "{{ '/staff/academic-support-staff/' | relative_url }}"
+        "url"      : "{{ '/staff/non-academic-staff/' | relative_url }}"
     },
   {% endfor %}
 

@@ -18,11 +18,24 @@ Permalinks should be changed in sync with the link inside pages/home.html
         },
     {% endif %}
   {% endfor %}
+
+  {% for eachPerson in site.data.visiting-research-fellows %}
+        {%- if eachPerson.name != "#" -%}
+        {
+          "title" : "{{eachPerson.name}}",
+          "designation" : "{{eachPerson.designations | join: ", " }}",
+          "email" : "{{eachPerson.email}}",
+          "url" : "{{ "/staff/visiting-research-fellows/" | relative_url }}"
+        },
+        {%- endif -%}
+
+  {% endfor %}
+  
   {% for post in site.pages %}
       {% if post.layout == "studentDetails" %}
       {%- comment -%}Student profile page{%- endcomment -%}
         {
-        "title" : "{{post.full_name}} - {{post.reg_no}}",
+        "title" : " {% if post.full_name %} {{post.full_name}}  {% else %}  {{ post.name_with_initials }} {% endif %}- {{post.reg_no}}",
         "name_with_initials": "{{post.name_with_initials}}",
         "preferred_short_name": "{{post.preferred_short_name}}",
         "preferred_long_name": "{{post.preferred_long_name}}",
@@ -49,11 +62,11 @@ Permalinks should be changed in sync with the link inside pages/home.html
 
   {% endfor %}
 
-  {% for post in site.data.academic_support_staff %}
-  {%- comment -%}academic support staff pages{%- endcomment -%}
+  {% for post in site.data.non_academic_staff %}
+  {%- comment -%} non-academic staff pages{%- endcomment -%}
     {
-        "title" : "{{ post.staff_name }} - Academic Support Staff",
-        "url"      : "{{ '/staff/academic-support-staff/' | relative_url }}"
+        "title" : "{{ post.staff_name }} - Non-Academic Staff",
+        "url"      : "{{ '/staff/non-academic-staff/' | relative_url }}"
     },
   {% endfor %}
 
@@ -179,57 +192,9 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
         "reg_no" : "{{item[1].reg_no}}",
         "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
-        "url" : "/students/e02/"
+        "url" : "/students/e02a/"
       },
   {% endfor %}
-  {% assign batch = site.data.stud.e01  %}
-  {% for item in batch %}
-      {
-        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
-        "reg_no" : "{{item[1].reg_no}}",
-        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
-        "url" : "/students/e02/"
-      },
-  {% endfor %}
-  {% assign batch = site.data.stud.e00  %}
-  {% for item in batch %}
-      {
-        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
-        "reg_no" : "{{item[1].reg_no}}",
-        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
-        "url" : "/students/e02/"
-      },
-  {% endfor %}
-  {% assign batch = site.data.stud.e99  %}
-  {% for item in batch %}
-      {
-        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
-        "reg_no" : "{{item[1].reg_no}}",
-        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
-        "url" : "/students/e02/"
-      },
-  {% endfor %}
-  {% assign batch = site.data.stud.e98  %}
-  {% for item in batch %}
-      {
-        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
-        "reg_no" : "{{item[1].reg_no}}",
-        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
-        "url" : "/students/e02/"
-      },
-  {% endfor %}
-
-  {% assign batch = site.data.stud.e2a  %}
-  {% for item in batch %}
-      {
-        "title" : "{{item[1].name_with_initials | strip}} - {{item[1].reg_no}}",
-        "reg_no" : "{{item[1].reg_no}}",
-        "reg_no_slashless" : "{{ item[1].reg_no | remove: "/"}}",
-        "url" : "/students/e2a/"
-      },
-  {% endfor %}
-
-
   {% assign batch = site.data.stud.e01  %}
   {% for item in batch %}
       {
@@ -239,7 +204,6 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "url" : "/students/e01/"
       },
   {% endfor %}
-
   {% assign batch = site.data.stud.e00  %}
   {% for item in batch %}
       {
@@ -249,7 +213,6 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "url" : "/students/e00/"
       },
   {% endfor %}
-
   {% assign batch = site.data.stud.e99  %}
   {% for item in batch %}
       {
@@ -259,7 +222,6 @@ Permalinks should be changed in sync with the link inside pages/home.html
         "url" : "/students/e99/"
       },
   {% endfor %}
-
   {% assign batch = site.data.stud.e98  %}
   {% for item in batch %}
       {

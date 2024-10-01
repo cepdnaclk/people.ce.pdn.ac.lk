@@ -159,7 +159,7 @@
     },
     "E/13/206": {
         "reg_no": "E/13/206",
-        "name_with_initials": "L.K.R.Liyanage",
+        "name_with_initials": "L.K.R. Liyanage",
         "image_url": "images/students/e13/e13206.jpg",
         "page_url": "/students/e13/206/"
     },
@@ -195,8 +195,9 @@
     },
     "E/13/244": {
         "reg_no": "E/13/244",
-        "name_with_initials": " N.B.I.I.Nugawela",
-        "image_url": "images/students/e13/e13244.jpg"
+        "name_with_initials": "N B Irindu Indeera Nugawela",
+        "image_url": "images/students/e13/e13244.jpg",
+        "page_url": "/students/e13/244/"
     },
     "E/13/258": {
         "reg_no": "E/13/258",

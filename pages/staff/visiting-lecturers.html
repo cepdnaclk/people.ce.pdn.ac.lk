@@ -1,0 +1,70 @@
+---
+layout: default
+permalink: /staff/visiting-lecturers/
+type: "Visiting Lecturers"
+
+title: Visiting Lecturers
+---
+
+<!-- breadcrumb -->
+<main class="container">
+    <div class="bg-secondary p-3 pb-1 rounded">
+        <h1 class="text-white">Visiting Lecturers</h1>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
+                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
+                <li class="breadcrumb-item text-white">Staff</li>
+                <li class="breadcrumb-item text-white">Visiting Lecturers</li>
+            </ol>
+        </nav>
+    </div>
+</main>
+
+<div class="container py-4 px-lg-5">
+    <div class="row justify-content-center">
+        {%- for each in site.data.visiting-lecturers -%}
+        {%- if each.name != "" -%}
+        <div class="container card text-center p-2 border-primary m-1" style="width: 13rem;">
+            <img src="{{ each.image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
+                alt="{{each.name}}">
+            <div class="card-body d-flex flex-column">
+                <h6 class="card-title">{{each.name}}</h6>
+
+                <!-- {%- for designation in each.designations -%}
+                <p class="card-text text-muted">{{designation}}</p>
+                {%- endfor -%} -->
+
+                <!-- <p class="card-text text-muted">{{each.position}}</p> -->
+
+                <!-- {% if each.url_profile %}
+                <a class="btn btn-outline-primary w-100" href="{{ each.url_profile | relative_url }}">View</a>
+                {% endif %} -->
+
+                <div class="d-flex flex-row justify-content-evenly mt-auto pb-1">
+                    {% if each.linkedin != "#" %}
+                    <a class="btn btn-link" href="{{ each.linkedin }}" target="_blank"><i
+                            class="fab fa-lg fa-linkedin"></i></a>
+                    {% endif %}
+
+                    {% if each.researchgate != "#" %}
+                    <a class="btn btn-link" href="{{ each.researchgate | relative_url }}" target="_blank"><i
+                            class="fab social-icon fa-researchgate"></i></a>
+                    {% endif %}
+
+                    {% if each.google_scholar != "#" %}
+                    <a class="btn btn-link" href="{{ each.google_scholar | relative_url }}" target="_blank"><i
+                            class="fab social-icon fa-google"></i></a>
+                    {% endif %}
+
+                    {% if each.profile != "#" %}
+                    <a class="btn btn-link" href="{{ each.profile | relative_url }}" target="_blank"><i
+                            class="fa fa-lg fa-user"></i></a>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+        {%- endif -%}
+        {%- endfor -%}
+    </div>
+</div>

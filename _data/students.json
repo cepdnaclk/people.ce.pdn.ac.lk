@@ -1,14 +1,18 @@
 [
     {
+        "title": "E20 Batch",
+        "url": "/students/e20/"
+    },
+    {
+        "title": "E19 Batch",
+        "url": "/students/e19/"
+    },
+    {
         "title": "E18 Batch",
         "url": "/students/e18/"
     },
     {
         "title": "E17 Batch",
         "url": "/students/e17/"
-    },
-    {
-        "title": "E16 Batch",
-        "url": "/students/e16/"
     }
 ]

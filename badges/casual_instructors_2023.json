@@ -1,0 +1,236 @@
+{
+    "title": "Casual Instructors - 2023",
+    "subtitle": "Semester 2, 4 and 6",
+    "tag": "casual-instructors-2023",
+    "description": "The casual Instructor program in the Department of Computer Engineering provides undergraduate students with the opportunity to be an instructor/teaching assistant in the courses offered for their junior batches.",
+    "image": "images/badges/causal-instructors.png",
+    "show_in_profile": "true",
+    "criteria": "Actively contribute to the course works for more than 6 working hours",
+    "students": [
+        {
+            "eNumber": "E/17/296",
+            "name": "Ravisha",
+            "position": "CO326, CO327"
+        },
+        {
+            "eNumber": "E/17/190",
+            "name": "Sashini",
+            "position": "CO326, CO327"
+        },
+        {
+            "eNumber": "E/17/018",
+            "name": "Imesh",
+            "position": "CO327"
+        },
+        {
+            "eNumber": "E/17/044",
+            "name": "Deanna",
+            "position": "CO328"
+        },
+        {
+            "eNumber": "E/17/144",
+            "name": "Denuka",
+            "position": "CO326"
+        },
+        {
+            "eNumber": "E/17/027",
+            "name": "Pubudu",
+            "position": "CO327"
+        },
+        {
+            "eNumber": "E/17/194",
+            "name": "Madhushan",
+            "position": "CO328"
+        },
+        {
+            "eNumber": "E/17/012",
+            "name": "Aminda",
+            "position": "CO328"
+        },
+        {
+            "eNumber": "E/18/329",
+            "name": "Nirasha",
+            "position": "CO225, CO226"
+        },
+        {
+            "eNumber": "E/18/402",
+            "name": "Chathura",
+            "position": "CO224, CO253"
+        },
+        {
+            "eNumber": "E/18/203",
+            "name": "Shehan",
+            "position": "CO225, CO253"
+        },
+        {
+            "eNumber": "E/18/245",
+            "name": "Nishani",
+            "position": "CO224, CO226"
+        },
+        {
+            "eNumber": "E/18/115",
+            "name": "Gowsigan",
+            "position": "CO225, CO253"
+        },
+        {
+            "eNumber": "E/18/340",
+            "name": "Vithurshini",
+            "position": "CO225, CO253"
+        },
+        {
+            "eNumber": "E/18/156",
+            "name": "Thakshila",
+            "position": "CO224, CO226"
+        },
+        {
+            "eNumber": "E/18/264",
+            "name": "Madhushan",
+            "position": "CO224, CO225"
+        },
+        {
+            "eNumber": "E/18/010",
+            "name": "Avishka",
+            "position": "CO225"
+        },
+        {
+            "eNumber": "E/18/058",
+            "name": "Muthuni",
+            "position": "CO225"
+        },
+        {
+            "eNumber": "E/18/266",
+            "name": "Nisala",
+            "position": "CO226"
+        },
+        {
+            "eNumber": "E/18/168",
+            "name": "Karan",
+            "position": "CO226"
+        },
+        {
+            "eNumber": "E/18/214",
+            "name": "Kushan",
+            "position": "CO226"
+        },
+        {
+            "eNumber": "E/18/073",
+            "name": "Dhananjaya",
+            "position": "CO224"
+        },
+        {
+            "eNumber": "E/18/180",
+            "name": "Nimnad",
+            "position": "CO225"
+        },
+        {
+            "eNumber": "E/18/366",
+            "name": "Thulasiyan",
+            "position": "CO226"
+        },
+        {
+            "eNumber": "E/18/397",
+            "name": "Shamod",
+            "position": "CO226"
+        },
+        {
+            "eNumber": "E/18/013",
+            "name": "Abilash",
+            "position": "CO253"
+        },
+        {
+            "eNumber": "E/18/068",
+            "name": "Chiran",
+            "position": "CO224"
+        },
+        {
+            "eNumber": "E/18/382",
+            "name": "Denuwan",
+            "position": "CO253"
+        },
+        {
+            "eNumber": "E/19/372",
+            "name": "Kaushitha",
+            "position": "GP106"
+        },
+        {
+            "eNumber": "E/19/275",
+            "name": "Sanka",
+            "position": "GP106"
+        },
+        {
+            "eNumber": "E/19/408",
+            "name": "Sanduni",
+            "position": "GP106"
+        },
+        {
+            "eNumber": "E/19/129",
+            "name": "Kanishka",
+            "position": "GP106"
+        },
+        {
+            "eNumber": "E/19/003",
+            "name": "Harith",
+            "position": "GP106"
+        },
+        {
+            "eNumber": "E/19/166",
+            "name": "Wishula",
+            "position": "GP106"
+        },
+        {
+            "eNumber": "E/19/443",
+            "name": "Dasun",
+            "position": "GP106"
+        },
+        {
+            "eNumber": "E/19/324",
+            "name": "Bimbara",
+            "position": "GP106"
+        },
+        {
+            "eNumber": "E/19/063",
+            "name": "Sandeep",
+            "position": "GP106"
+        },
+        {
+            "eNumber": "E/19/300",
+            "name": "Asela",
+            "position": "GP106"
+        },
+        {
+            "eNumber": "E/19/210",
+            "name": "Jaliya",
+            "position": "GP106"
+        },
+        {
+            "eNumber": "E/19/236",
+            "name": "Lahiru",
+            "position": "GP106"
+        },
+        {
+            "eNumber": "E/19/009",
+            "name": "Kaumini",
+            "position": "GP106"
+        },
+        {
+            "eNumber": "E/19/452",
+            "name": "Ashan",
+            "position": "GP106"
+        },
+        {
+            "eNumber": "E/19/163",
+            "name": "Eshan",
+            "position": "GP106"
+        },
+        {
+            "eNumber": "E/19/453",
+            "name": "Akash",
+            "position": "GP106"
+        },
+        {
+            "eNumber": "E/19/095",
+            "name": "Lakshitha",
+            "position": "GP106"
+        }
+    ]
+}
