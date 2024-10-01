@@ -290,6 +290,17 @@
     "left_date": ""
   },
   {
+    "staff_name": "Saadia Jameel",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/staff/temporary-academic-staff/saadia.png",
+    "email": "e18147@eng.pdn.ac.lk",
+    "url_profile": "/students/e18/147",
+    "linkedin": "https://www.linkedin.com/in/saadia-jameel-531007180",
+    "github": "https://github.com/SaadiaJameel",
+    "joined_date": "2024-10-01",
+    "left_date": ""
+  },
+  {
     "staff_name": "Chathura Wimalasiri",
     "text_below_name": "Temporary Instructor",
     "url_image": "images/students/e18/E18402.jpg",
@@ -299,5 +310,5 @@
     "github": "https://github.com/chathurawimalasiri",
     "joined_date": "2024-10-01",
     "left_date": ""
-  }
+  }, 
 ]
