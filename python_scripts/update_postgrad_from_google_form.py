@@ -13,6 +13,8 @@ import shutil
 import json
 import csv
 
+TO_SKIP_EMAILS = ['arudchutha@gmail.com', 'imesheuk@eng.pdn.ac.lk' , 'pabudia@eng.pdn.ac.lk' , 'Suthaa78@gmail.com' , 'maheshi14d@gmail.com']
+
 googleFromCSV_link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR6ntuDUUuzQS84Am7NMcCc6LCTYKmUfMbVhp4dvy1AXWoVxNrjWfeQntWg5cAfLsFvb4WASQRp-erT/pub?output=csv"
 googleFromCSV = requests.get(
     googleFromCSV_link, headers={"Cache-Control": "no-cache"}
@@ -66,6 +68,10 @@ if __name__ == "__main__":
             studentData[NAME_WITH_INITIALS].replace(" ", "").replace(".", "")
         )
         permalink = f"/students/postgraduate/{nameConverted}/"
+        
+        if studentData[EMAIL] in TO_SKIP_EMAILS:
+            print(f"Skipping {studentData[EMAIL]}") 
+            continue
 
         # image
         image_path = f"images/students/postgraduate/{nameConverted}.jpg"
