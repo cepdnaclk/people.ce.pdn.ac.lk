@@ -3,39 +3,38 @@
     "subtitle": "",
     "tag": "web-consultation-team",
     "description": "The Web Consultation Team is a group of volunteers assisting to improve the web presence of the University of Peradeniya. They  coordinate between staff/students and the webmasters of the websites under the pdn domain.",
-    "criteria": "Actively contributed to the Web Consultation Team",
+    "criteria": "Actively contributed to the Web Consultation Team activities",
     "image": "images/badges/web-consultation-team.png",
     "show_in_profile": "true",
-    "criteria": "Actively contributed to the Web Consultation Team activities",
-    "students":[
+    "students": [
+        {
+            "eNumber": "E/15/140",
+            "name": "Nuwan Jaliyagoda",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/17/154",
+            "name": "Akila Ilaksha Karunanayake",
+            "position": "Member"
+        },
         {
             "eNumber": "E/17/064",
-            "name": "Dhushintha",
+            "name": "Dhushintha Ramalingam",
             "position": "Member"
         },
         {
             "eNumber": "E/17/058",
-            "name": "Isuri",
+            "name": "Isuri Devindi",
             "position": "Member"
         },
         {
             "eNumber": "E/17/194",
-            "name": "Madushan",
-            "position": "Member"
-        },
-        {
-            "eNumber": "E/17/035",
-            "name": "Madusha",
-            "position": "Member"
-        },
-        {
-            "eNumber": "E/17/230",
-            "name": "Nishan",
+            "name": "Madhushan Ramalingam",
             "position": "Member"
         },
         {
             "eNumber": "E/17/027",
-            "name": "Pubudu",
+            "name": "Pubudu Bandara",
             "position": "Member"
         },
         {
@@ -45,63 +44,143 @@
         },
         {
             "eNumber": "E/17/342",
-            "name": "Thanujan",
-            "position": "Member"
-        },
-        {
-            "eNumber": "E/17/201",
-            "name": "Thilini",
-            "position": "Member"
-        },
-        {
-            "eNumber": "E/14/158",
-            "name": "Gihan",
-            "position": "Member"
-        },
-        {
-            "eNumber": "E/14/240",
-            "name": "Danushki",
+            "name": "Tharmapalan Thanujan",
             "position": "Member"
         },
         {
             "eNumber": "E/18/013",
-            "name": "Abilash",
-            "position": "Member"
-        },
-        {
-            "eNumber": "E/18/297",
-            "name": "Piumal",
+            "name": "Abilash R.",
             "position": "Member"
         },
         {
             "eNumber": "E/18/100",
-            "name": "Adeepa",
-            "position": "Member"
-        },
-        {
-            "eNumber": "E/18/373",
-            "name": "Vilakshan",
+            "name": "Adeepa Fernando",
             "position": "Member"
         },
         {
             "eNumber": "E/18/382",
-            "name": "Denuwan ",
+            "name": "Denuwan Weerarathne",
             "position": "Member"
         },
         {
-            "eNumber": "E/18/186",
-            "name": "Hirun",
+            "eNumber": "E/18/297",
+            "name": "Piumal Rathnayake",
             "position": "Member"
         },
         {
             "eNumber": "E/18/245",
-            "name": "Nishani",
+            "name": "Nishani Kasineshan",
             "position": "Member"
         },
         {
-            "eNumber": "E/18/105",
-            "name": "Sameera",
+            "eNumber": "E/18/373",
+            "name": "Vilakshan V.",
             "position": "Member"
+        },
+        {
+            "eNumber": "E/18/340",
+            "name": "Vithurshini Subramanieam",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/XX/YYY",
+            "name": "Hirun Kumarasinghe",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/XX/YYY",
+            "name": "Sameera Gajanayaka",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/18/168",
+            "name": "Karan R.",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/19/371",
+            "name": "Shantosh Muraleetharan",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/18/366",
+            "name": "Thulasiyan Yogeswaran",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/18/115",
+            "name": "Gowsigan A.",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/19/300",
+            "name": "Asela Hemantha ",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/19/295",
+            "name": "Janitha Dilshan",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/19/443",
+            "name": "Dasun Theekshana",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/19/003",
+            "name": "Harith Abeysinghe",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/19/210",
+            "name": "Jaliya Kumarasiri",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/19/111",
+            "name": "Mewan Galappaththi",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/19/492",
+            "name": "Nuwantha Somawansha",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/19/133",
+            "name": "Arudchelvan Harishanth",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/19/137",
+            "name": "Hayanan T.",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/19/452",
+            "name": "Ashan Wimalasiri",
+            "position": "Member"
+        },
+        {
+            "eNumber": "E/14/158",
+            "name": "Gihan Jayatilaka",
+            "position": "Past Member"
+        },
+        {
+            "eNumber": "E/14/240",
+            "name": "Dhanushki Pavithya",
+            "position": "Past Member"
+        },
+        {
+            "eNumber": "E/17/035",
+            "name": "Madusha Chamika",
+            "position": "Past Member"
+        },
+        {
+            "eNumber": "E/17/230",
+            "name": "Nishankar Sathiyamohan",
+            "position": "Past Member"
         }
     ]
 }

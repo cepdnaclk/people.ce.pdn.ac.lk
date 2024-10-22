@@ -129,7 +129,7 @@
     "url_profile": "",
     "linkedin": "",
     "joined_date": "2022-07-04",
-    "left_date": ""
+    "left_date": "2025-09-30"
   },
   {
     "staff_name": "Isuru Madugalla",
@@ -169,17 +169,17 @@
     "url_profile": "",
     "linkedin": "https://lk.linkedin.com/in/isuru-pamuditha",
     "joined_date": "2023-04-17",
-    "left_date": ""
+    "left_date": "2024-10-11"
   },
   {
     "staff_name": "Thilina Dissanayake",
-    "text_below_name": "Temporary Instructor",
+    "text_below_name": "Temporary Lecturer",
     "url_image": "images/staff/temporary-academic-staff/thilina-dissanayake.jpg",
     "email": "thilinald@eng.pdn.ac.lk",
     "url_profile": "",
     "linkedin": "http://linkedin.com/in/thilinaldissanayake",
     "joined_date": "2023-04-17",
-    "left_date": ""
+    "left_date": "2025-04-16"
   },
   {
     "staff_name": "Sachintha Kavishan",
@@ -189,7 +189,7 @@
     "url_profile": "",
     "linkedin": "http://linkedin.com/in/sachintha-kavishan-8a09a7207",
     "joined_date": "2023-06-01",
-    "left_date": ""
+    "left_date": "2024-08-12"
   },
   {
     "staff_name": "Oshadhi Rajapakshe",
@@ -199,7 +199,7 @@
     "url_profile": "",
     "linkedin": "https://www.linkedin.com/in/oshadhi-rajapakshe-321132207",
     "joined_date": "2023-07-10",
-    "left_date": ""
+    "left_date": "2024-08-12"
   },
   {
     "staff_name": "Kavindu Herath",
@@ -210,18 +210,18 @@
     "linkedin": "https://www.linkedin.com/in/kavindu-herath",
     "github": "https://github.com/kavindu1997129",
     "joined_date": "2023-08-02",
-    "left_date": ""
+    "left_date": "2024-04-22"
   },
   {
     "staff_name": "Isuri Devindi",
-    "text_below_name": "Temporary Instructor",
+    "text_below_name": "Temporary Lecturer",
     "url_image": "images/staff/temporary-academic-staff/isuri.jpg",
     "email": "e17058@eng.pdn.ac.lk",
     "url_profile": "/students/e17/058",
     "linkedin": "https://www.linkedin.com/in/isuri-devindi-b8602a206",
     "github": "https://github.com/isuridevindi",
     "joined_date": "2024-01-01",
-    "left_date": ""
+    "left_date": "2024-12-31"
   },
   {
     "staff_name": "Ravisha Rupasinghe",
@@ -232,7 +232,7 @@
     "linkedin": "https://www.linkedin.com/in/ravisha-rupasinghe",
     "github": "https://github.com/RavishaHR",
     "joined_date": "2024-01-01",
-    "left_date": ""
+    "left_date": "2024-06-28"
   },
   {
     "staff_name": "Sashini Liyanage",
@@ -243,7 +243,7 @@
     "linkedin": "https://www.linkedin.com/in/sashini-liyanage/",
     "github": "https://github.com/SashiniLiyanage",
     "joined_date": "2024-01-01",
-    "left_date": ""
+    "left_date": "2024-04-01"
   },
   {
     "staff_name": "Keshawa Ratnayake",
@@ -254,9 +254,9 @@
     "linkedin": "https://www.linkedin.com/in/keshawa-ratnayake",
     "github": "",
     "joined_date": "2024-01-01",
-    "left_date": ""
+    "left_date": "2024-04-01"
   },
-    {
+  {
     "staff_name": "Nishankar Sathiyamohan",
     "text_below_name": "Temporary Instructor",
     "url_image": "images/staff/temporary-academic-staff/Nishankar.jpg",
@@ -265,6 +265,81 @@
     "linkedin": "https://www.linkedin.com/in/nishankar-sathiyamohan/",
     "github": "https://github.com/Nishan-Charlie",
     "joined_date": "2024-01-01",
-    "left_date": ""
+    "left_date": "2024-04-15"
+  },
+  {
+    "staff_name": "Shakthi Perera",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/staff/temporary-academic-staff/shakthi.jpg",
+    "email": "e17245@eng.pdn.ac.lk",
+    "url_profile": "",
+    "linkedin": "http://www.linkedin.com/in/shakthi-perera",
+    "github": "",
+    "joined_date": "2024-04-02",
+    "left_date": "2025-04-01"
+  }, 
+  {
+    "staff_name": "Thamish Wanduragala",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/staff/temporary-academic-staff/thamish.jpg",
+    "email": "e18379@eng.pdn.ac.lk",
+    "url_profile": "/students/e18/379",
+    "linkedin": "https://www.linkedin.com/in/thamish-wanduragala-5a4b23216",
+    "github": "https://github.com/Thamish99",
+    "joined_date": "2024-10-01",
+    "left_date": "2025-09-30"
+  },
+  {
+    "staff_name": "Saadia Jameel",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/staff/temporary-academic-staff/saadia.png",
+    "email": "e18147@eng.pdn.ac.lk",
+    "url_profile": "/students/e18/147",
+    "linkedin": "https://www.linkedin.com/in/saadia-jameel-531007180",
+    "github": "https://github.com/SaadiaJameel",
+    "joined_date": "2024-10-01",
+    "left_date": "2025-09-30"
+  },
+  {
+    "staff_name": "Chathura Wimalasiri",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/students/e18/E18402.jpg",
+    "email": "e18402@eng.pdn.ac.lk",
+    "url_profile": "/students/e18/402",
+    "linkedin": "https://www.linkedin.com/in/chathura-wimalasiri-b0637b1a1",
+    "github": "https://github.com/chathurawimalasiri",
+    "joined_date": "2024-10-01",
+    "left_date": "2025-09-30"
+  },
+  {
+    "staff_name": "Ridma Jayasundara",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/students/e18/e18155.jpg",
+    "email": "e18155@eng.pdn.ac.lk",
+    "url_profile": "/students/e18/155",
+    "linkedin": "https://www.linkedin.com/in/ridma-jayasundara-9471b8213",
+    "github": "https://github.com/ridmajayasundara",
+    "joined_date": "2024-10-01",
+    "left_date": "2025-09-30"
+  },
+  {
+    "staff_name": "Ishta Jayakody",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/students/e18/e18149.jpg",
+    "email": "e18149@eng.pdn.ac.lk",
+    "url_profile": "/students/e18/149",
+    "linkedin": "https://www.linkedin.com/in/ishta-jayakody-b3055123b/",
+    "github": "https://github.com/IshtaJayakody",
+    "joined_date": "2024-10-01",
+    "left_date": "2025-09-30"
+  },
+  {
+    "staff_name": "Nethmi Dissanayake",
+    "text_below_name": "Temporary Instructor",
+    "url_image": "images/staff/temporary-academic-staff/nethmi.jpg",
+    "email": "e17075@eng.pdn.ac.lk",
+    "linkedin": "https://www.linkedin.com/in/nethmi-dissanayake-88044a29a",
+    "joined_date": "2024-10-08",
+    "left_date": "2025-10-07"
   }
 ]

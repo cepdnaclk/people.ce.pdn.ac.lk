@@ -1402,19 +1402,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics/"
         },
         {
-            "title": "Remotely Controlled CNC Robot",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
-            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
-        },
-        {
             "title": "Zero Trash",
             "category": {
                 "code": "co328",
@@ -1426,6 +1413,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
+        },
+        {
+            "title": "Remotely Controlled CNC Robot",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
+            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         }
     ],
     "E/15/142": [
@@ -1553,19 +1553,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics/"
         },
         {
-            "title": "Remotely Controlled CNC Robot",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
-            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
-        },
-        {
             "title": "Zero Trash",
             "category": {
                 "code": "co328",
@@ -1577,6 +1564,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
+        },
+        {
+            "title": "Remotely Controlled CNC Robot",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
+            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         }
     ],
     "E/15/179": [
@@ -2406,19 +2406,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/anonymous-authentication/"
         },
         {
-            "title": "Remotely Controlled CNC Robot",
-            "category": {
-                "code": "co326",
-                "title": "Industrial Automation Projects (CO326)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
-            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
-            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
-        },
-        {
             "title": "Zero Trash",
             "category": {
                 "code": "co328",
@@ -2430,6 +2417,19 @@
             "page_url": "https://cepdnaclk.github.io/e15-co328-Zero-Trash",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E15/Zero-Trash/"
+        },
+        {
+            "title": "Remotely Controlled CNC Robot",
+            "category": {
+                "code": "co326",
+                "title": "Industrial Automation Projects (CO326)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co326/e15/Remotely-Controlled-CNC-Robot/",
+            "repo_url": "https://github.com/cepdnaclk/e15-co326-Remotely-Controlled-CNC-Robot",
+            "page_url": "https://cepdnaclk.github.io/e15-co326-Remotely-Controlled-CNC-Robot",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E15/Remotely-Controlled-CNC-Robot/"
         }
     ],
     "E/15/351": [
@@ -6534,6 +6534,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-B/"
         },
         {
+            "title": "Extending and Implementing Process Mining Techniques Prevention and Mitigation",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/"
+        },
+        {
             "title": "Smart Home Security System",
             "category": {
                 "code": "co326",
@@ -6735,6 +6748,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Molding-Machine-Dashboard/"
         },
         {
+            "title": "Personalized Multimodal Emotion Prediction",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Personalized-Multimodal-Emotion-Prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Personalized-Multimodal-Emotion-Prediction",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Personalized-Multimodal-Emotion-Prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Personalized-Multimodal-Emotion-Prediction/"
+        },
+        {
             "title": "Smart Cooling System for a Machinery Room Group5",
             "category": {
                 "code": "co326",
@@ -6787,6 +6813,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Postgraduate-Student-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Postgraduate-Student-Management-System/"
+        },
+        {
+            "title": "RPA attacks using Machine Learning Algorithms",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/RPA-attacks-using-Machine-Learning-Algorithms/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/RPA-attacks-using-Machine-Learning-Algorithms/"
         }
     ],
     "E/18/030": [
@@ -6882,6 +6921,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A/"
+        },
+        {
+            "title": "Analyzing and predicting the volatile market patterns for trading using a Digital Twin",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/"
         }
     ],
     "E/18/058": [
@@ -6923,6 +6975,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
+        },
+        {
+            "title": "Generating Patient Clinical Letters Using LLMs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Generating-Patient-Clinical-Letters-Using-LLMs/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Generating-Patient-Clinical-Letters-Using-LLMs/"
         },
         {
             "title": "Patient monitoring system",
@@ -7102,6 +7167,19 @@
     ],
     "E/18/077": [
         {
+            "title": "Automatically categorizing Sinhala news items from selected news sources",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Automatically-categorizing-Sinhala-news-items-from-selected-news-sources/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Automatically-categorizing-Sinhala-news-items-from-selected-news-sources",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Automatically-categorizing-Sinhala-news-items-from-selected-news-sources",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Automatically-categorizing-Sinhala-news-items-from-selected-news-sources/"
+        },
+        {
             "title": "Department Course Page Group A",
             "category": {
                 "code": "co227",
@@ -7115,17 +7193,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
         },
         {
-            "title": "collaborative mapping with swarm robots",
+            "title": "PeraSwarm Simultaneous Localization and Mapping in Mixed Reality Environment",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/collaborative-mapping-with-swarm-robots/",
-            "repo_url": "https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots",
-            "page_url": "https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/collaborative-mapping-with-swarm-robots/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/"
         },
         {
             "title": "Water Quality Monitoring System",
@@ -7195,6 +7273,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-A/"
         },
         {
+            "title": "GPU Acceleration for Deep Learning based Comprehensive ECG analysis",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
+        },
+        {
             "title": "Smart Traffic Light System",
             "category": {
                 "code": "co326",
@@ -7247,6 +7338,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-A/"
+        },
+        {
+            "title": "GPU Acceleration for Deep Learning based Comprehensive ECG analysis",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
         },
         {
             "title": "Smart Traffic Light System",
@@ -7368,6 +7472,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Logging-Microservice-for-IoT-based-Smart-Agriculture-Project",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Logging-Microservice-for-IoT-based-Smart-Agriculture-Project/"
+        },
+        {
+            "title": "An Empirical Study On Prompt Injection Attacks And Defences",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/"
         }
     ],
     "E/18/128": [
@@ -7396,6 +7513,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-A/"
+        },
+        {
+            "title": "Machine Vision For Quality Inspection",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Machine-Vision-For-Quality-Inspection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Machine-Vision-For-Quality-Inspection",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Machine-Vision-For-Quality-Inspection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Machine-Vision-For-Quality-Inspection/"
         }
     ],
     "E/18/147": [
@@ -7493,6 +7623,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Logging-Microservice-for-IoT-based-Smart-Agriculture-Project/"
         },
         {
+            "title": "Analyzing and predicting the volatile market patterns for trading using a Digital Twin",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/"
+        },
+        {
             "title": "Smart Home Security System",
             "category": {
                 "code": "co326",
@@ -7534,17 +7677,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Logging-Microservice-for-IoT-based-Smart-Agriculture-Project/"
         },
         {
-            "title": "collaborative mapping with swarm robots",
+            "title": "PeraSwarm Simultaneous Localization and Mapping in Mixed Reality Environment",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/collaborative-mapping-with-swarm-robots/",
-            "repo_url": "https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots",
-            "page_url": "https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/collaborative-mapping-with-swarm-robots/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/"
         }
     ],
     "E/18/154": [
@@ -7586,6 +7729,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Molding-Machine-Dashboard",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Molding-Machine-Dashboard/"
+        },
+        {
+            "title": "Automated PAR Index Calculation on Orthodontic Treatment Using Software and Machine Learning",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning/"
         },
         {
             "title": "Automated Smart Lighting System",
@@ -7642,6 +7798,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-A/"
         },
         {
+            "title": "GPU Acceleration for Deep Learning based Comprehensive ECG analysis",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
+        },
+        {
             "title": "Smart Traffic Light System",
             "category": {
                 "code": "co326",
@@ -7696,6 +7865,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A/"
         },
         {
+            "title": "Extending and Implementing Process Mining Techniques Prevention and Mitigation",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/"
+        },
+        {
             "title": "Smart Home Security System",
             "category": {
                 "code": "co326",
@@ -7748,6 +7930,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
+        },
+        {
+            "title": "Machine Vision For Quality Inspection",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Machine-Vision-For-Quality-Inspection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Machine-Vision-For-Quality-Inspection",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Machine-Vision-For-Quality-Inspection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Machine-Vision-For-Quality-Inspection/"
         }
     ],
     "E/18/170": [
@@ -7856,6 +8051,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Postgraduate-Student-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Postgraduate-Student-Management-System/"
+        },
+        {
+            "title": "RPA attacks using Machine Learning Algorithms",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/RPA-attacks-using-Machine-Learning-Algorithms/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/RPA-attacks-using-Machine-Learning-Algorithms/"
         }
     ],
     "E/18/177": [
@@ -7966,6 +8174,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-17/"
         },
         {
+            "title": "Reinforcement Learning enabled Recommendation System For Emotional Support",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support/"
+        },
+        {
             "title": "Smart Energy Management System",
             "category": {
                 "code": "co326",
@@ -8018,6 +8239,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Augmented-Reality-Guidance-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Augmented-Reality-Guidance-System/"
+        },
+        {
+            "title": "Dengue outbreak prediction in Sri Lanka using machine learning techniques",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/"
         }
     ],
     "E/18/203": [
@@ -8156,6 +8390,19 @@
     ],
     "E/18/224": [
         {
+            "title": "Automatically categorizing Sinhala news items from selected news sources",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Automatically-categorizing-Sinhala-news-items-from-selected-news-sources/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Automatically-categorizing-Sinhala-news-items-from-selected-news-sources",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Automatically-categorizing-Sinhala-news-items-from-selected-news-sources",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Automatically-categorizing-Sinhala-news-items-from-selected-news-sources/"
+        },
+        {
             "title": "Department Course Page Group A",
             "category": {
                 "code": "co227",
@@ -8167,6 +8414,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
+        },
+        {
+            "title": "Dengue outbreak prediction in Sri Lanka using machine learning techniques",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/"
         },
         {
             "title": "home automation system group01",
@@ -8184,6 +8444,19 @@
     ],
     "E/18/227": [
         {
+            "title": "Automatically categorizing Sinhala news items from selected news sources",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Automatically-categorizing-Sinhala-news-items-from-selected-news-sources/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Automatically-categorizing-Sinhala-news-items-from-selected-news-sources",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Automatically-categorizing-Sinhala-news-items-from-selected-news-sources",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Automatically-categorizing-Sinhala-news-items-from-selected-news-sources/"
+        },
+        {
             "title": "Department Course Page Group A",
             "category": {
                 "code": "co227",
@@ -8197,17 +8470,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-A/"
         },
         {
-            "title": "collaborative mapping with swarm robots",
+            "title": "PeraSwarm Simultaneous Localization and Mapping in Mixed Reality Environment",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/collaborative-mapping-with-swarm-robots/",
-            "repo_url": "https://github.com/cepdnaclk/e18-4yp-collaborative-mapping-with-swarm-robots",
-            "page_url": "https://cepdnaclk.github.io/e18-4yp-collaborative-mapping-with-swarm-robots",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/collaborative-mapping-with-swarm-robots/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/"
         },
         {
             "title": "Smart Energy Management System",
@@ -8275,6 +8548,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-B/"
+        },
+        {
+            "title": "Reinforcement Learning enabled Recommendation System For Emotional Support",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support/"
         }
     ],
     "E/18/245": [
@@ -8303,6 +8589,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring/"
+        },
+        {
+            "title": "Automated Medical Image Annotation for Dataset Building",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-Medical-Image-Annotation-for-Dataset-Building/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Automated-Medical-Image-Annotation-for-Dataset-Building",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Automated-Medical-Image-Annotation-for-Dataset-Building",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Automated-Medical-Image-Annotation-for-Dataset-Building/"
         }
     ],
     "E/18/264": [
@@ -8344,6 +8643,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Department-Course-Page-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Department-Course-Page-Group-B/"
+        },
+        {
+            "title": "Generating Patient Clinical Letters Using LLMs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Generating-Patient-Clinical-Letters-Using-LLMs/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Generating-Patient-Clinical-Letters-Using-LLMs/"
         }
     ],
     "E/18/266": [
@@ -8385,6 +8697,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-17",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Poultry-Feed-Efficiency-Tracking-System-Group-17/"
+        },
+        {
+            "title": "Reinforcement Learning enabled Recommendation System For Emotional Support",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support/"
         },
         {
             "title": "Smart Energy Management System",
@@ -8601,6 +8926,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Postgraduate-Student-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Postgraduate-Student-Management-System/"
+        },
+        {
+            "title": "RPA attacks using Machine Learning Algorithms",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/RPA-attacks-using-Machine-Learning-Algorithms/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/RPA-attacks-using-Machine-Learning-Algorithms/"
         }
     ],
     "E/18/297": [
@@ -8778,6 +9116,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Interactive-Department-Map-GroupA/"
         },
         {
+            "title": "Personalized Multimodal Emotion Prediction",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Personalized-Multimodal-Emotion-Prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Personalized-Multimodal-Emotion-Prediction",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Personalized-Multimodal-Emotion-Prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Personalized-Multimodal-Emotion-Prediction/"
+        },
+        {
             "title": "Smart Cooling System for a Machinery Room Group5",
             "category": {
                 "code": "co326",
@@ -8830,6 +9181,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B/"
+        },
+        {
+            "title": "Predicting Forex Currency Exchange Rate using Machine Learning",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/"
         }
     ],
     "E/18/327": [
@@ -8871,6 +9235,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Interactive-Department-Map-GroupA",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Interactive-Department-Map-GroupA/"
+        },
+        {
+            "title": "Automated PAR Index Calculation on Orthodontic Treatment Using Software and Machine Learning",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning/"
         },
         {
             "title": "Automated Smart Lighting System",
@@ -8927,6 +9304,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-A/"
         },
         {
+            "title": "Extending and Implementing Process Mining Techniques Prevention and Mitigation",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/"
+        },
+        {
             "title": "RV32IM pipeline implementation group05",
             "category": {
                 "code": "co502",
@@ -8979,6 +9369,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B/"
+        },
+        {
+            "title": "Predicting Forex Currency Exchange Rate using Machine Learning",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/"
         }
     ],
     "E/18/340": [
@@ -9007,6 +9410,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring/"
+        },
+        {
+            "title": "Automated Medical Image Annotation for Dataset Building",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-Medical-Image-Annotation-for-Dataset-Building/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Automated-Medical-Image-Annotation-for-Dataset-Building",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Automated-Medical-Image-Annotation-for-Dataset-Building",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Automated-Medical-Image-Annotation-for-Dataset-Building/"
         }
     ],
     "E/18/349": [
@@ -9048,6 +9464,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Molding-Machine-Dashboard",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Molding-Machine-Dashboard/"
+        },
+        {
+            "title": "Automated PAR Index Calculation on Orthodontic Treatment Using Software and Machine Learning",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning/"
         },
         {
             "title": "Automated Smart Lighting System",
@@ -9104,6 +9533,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Interactive-Department-Map-GroupA/"
         },
         {
+            "title": "Personalized Multimodal Emotion Prediction",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Personalized-Multimodal-Emotion-Prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Personalized-Multimodal-Emotion-Prediction",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Personalized-Multimodal-Emotion-Prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Personalized-Multimodal-Emotion-Prediction/"
+        },
+        {
             "title": "Smart Cooling System for a Machinery Room Group5",
             "category": {
                 "code": "co326",
@@ -9156,6 +9598,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-A/"
+        },
+        {
+            "title": "Automated Medical Image Annotation for Dataset Building",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-Medical-Image-Annotation-for-Dataset-Building/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Automated-Medical-Image-Annotation-for-Dataset-Building",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Automated-Medical-Image-Annotation-for-Dataset-Building",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Automated-Medical-Image-Annotation-for-Dataset-Building/"
         }
     ],
     "E/18/368": [
@@ -9197,6 +9652,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-B/"
+        },
+        {
+            "title": "Dengue outbreak prediction in Sri Lanka using machine learning techniques",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/"
         }
     ],
     "E/18/373": [
@@ -9225,6 +9693,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Development-of-an-Image-Capturing-Unit-for-Remote-Monitoring/"
+        },
+        {
+            "title": "Machine Vision For Quality Inspection",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Machine-Vision-For-Quality-Inspection/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Machine-Vision-For-Quality-Inspection",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Machine-Vision-For-Quality-Inspection",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Machine-Vision-For-Quality-Inspection/"
         }
     ],
     "E/18/375": [
@@ -9266,6 +9747,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Auto-Marking-and-Student-Performance-Analyser-System-for-Continuous-Assessments-Group-B/"
+        },
+        {
+            "title": "Predicting Forex Currency Exchange Rate using Machine Learning",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/"
         }
     ],
     "E/18/379": [
@@ -9361,6 +9855,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Image-Data-Handling-System-for-Research-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-A/"
+        },
+        {
+            "title": "An Empirical Study On Prompt Injection Attacks And Defences",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/"
         }
     ],
     "E/18/397": [
@@ -9482,6 +9989,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-co227-Image-Data-Handling-System-for-Research-Group-A",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-A/"
+        },
+        {
+            "title": "An Empirical Study On Prompt Injection Attacks And Defences",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/",
+            "repo_url": "https://github.com/cepdnaclk/e18-4yp-An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences",
+            "page_url": "https://cepdnaclk.github.io/e18-4yp-An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/"
         }
     ],
     "E/18/402": [
@@ -9631,6 +10151,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developement-Tracking-System-Mobileapplication",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developement-Tracking-System-Mobileapplication/"
+        },
+        {
+            "title": "Hand Tremor Based Biometric Recognition",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Hand-Tremor-Based-Biometric-Recognition/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Hand-Tremor-Based-Biometric-Recognition",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Hand-Tremor-Based-Biometric-Recognition",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Hand-Tremor-Based-Biometric-Recognition/"
         }
     ],
     "E/19/004": [
@@ -9784,6 +10317,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-reporting-of-technical-visits/"
         },
         {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
+        },
+        {
             "title": "database management system for a restaurant",
             "category": {
                 "code": "co226",
@@ -9808,6 +10354,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developing-Tracking-System-Web-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developing-Tracking-System-Web-Application/"
+        },
+        {
+            "title": "cricket analytics and prediction",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/cricket-analytics-and-prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-cricket-analytics-and-prediction",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-cricket-analytics-and-prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/cricket-analytics-and-prediction/"
         }
     ],
     "E/19/009": [
@@ -9838,6 +10397,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-reporting-of-technical-visits/"
         },
         {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
+        },
+        {
             "title": "database management system for a restaurant",
             "category": {
                 "code": "co226",
@@ -9862,6 +10434,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developing-Tracking-System-Web-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developing-Tracking-System-Web-Application/"
+        },
+        {
+            "title": "cricket analytics and prediction",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/cricket-analytics-and-prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-cricket-analytics-and-prediction",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-cricket-analytics-and-prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/cricket-analytics-and-prediction/"
         }
     ],
     "E/19/017": [
@@ -9890,6 +10475,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/"
+        },
+        {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
         },
         {
             "title": "Medical Clinic Manager",
@@ -10052,6 +10650,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
+        },
+        {
+            "title": "Demand Location Prediction For Taxis",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Demand-Location-Prediction-For-Taxis/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Demand-Location-Prediction-For-Taxis",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Demand-Location-Prediction-For-Taxis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Demand-Location-Prediction-For-Taxis/"
         }
     ],
     "E/19/057": [
@@ -10067,6 +10678,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-smart-supermarket-navigation-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/smart-supermarket-navigation-system/"
+        },
+        {
+            "title": "subclinical mastitis prediction gui",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/subclinical-mastitis-prediction-gui/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-subclinical-mastitis-prediction-gui",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-subclinical-mastitis-prediction-gui",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/subclinical-mastitis-prediction-gui/"
         },
         {
             "title": "Baby Developement Tracking System Mobileapplication",
@@ -10162,6 +10786,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-digital-reporting-of-technical-visits",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-reporting-of-technical-visits/"
+        },
+        {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
         },
         {
             "title": "database management system for a restaurant",
@@ -10272,6 +10909,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/A-Simple-Web-or-Mobile-Application-For-A-Gym/"
         },
         {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
+        },
+        {
             "title": "Database for Bank Management System",
             "category": {
                 "code": "co226",
@@ -10296,6 +10946,34 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developing-Tracking-System-Web-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developing-Tracking-System-Web-Application/"
+        },
+        {
+            "title": "personalised promotion system",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/personalised-promotion-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-personalised-promotion-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-personalised-promotion-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/personalised-promotion-system/"
+        }
+    ],
+    "E/19/083": [
+        {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
         }
     ],
     "E/19/087": [
@@ -10350,6 +11028,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developing-Tracking-System-Web-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developing-Tracking-System-Web-Application/"
+        },
+        {
+            "title": "personalised promotion system",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/personalised-promotion-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-personalised-promotion-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-personalised-promotion-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/personalised-promotion-system/"
         }
     ],
     "E/19/090": [
@@ -10408,6 +11099,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Ride/"
         },
         {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
+        },
+        {
             "title": "Library Management System",
             "category": {
                 "code": "co225",
@@ -10419,6 +11123,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System/"
+        },
+        {
+            "title": "Bitcoin Cost Forecast System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Bitcoin-Cost-Forecast-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Bitcoin-Cost-Forecast-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Bitcoin-Cost-Forecast-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Bitcoin-Cost-Forecast-System/"
         }
     ],
     "E/19/094": [
@@ -10449,6 +11166,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Leaf-Colour-Quantifier/"
         },
         {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
+        },
+        {
             "title": "Department Space Management System Web Application",
             "category": {
                 "code": "co225",
@@ -10460,6 +11190,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Department-Space-Management-System-Web-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Department-Space-Management-System-Web-Application/"
+        },
+        {
+            "title": "cricket analytics and prediction",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/cricket-analytics-and-prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-cricket-analytics-and-prediction",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-cricket-analytics-and-prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/cricket-analytics-and-prediction/"
         }
     ],
     "E/19/095": [
@@ -10514,6 +11257,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-In-Patient-Management-System-For-a-Hospital",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/In-Patient-Management-System-For-a-Hospital/"
+        },
+        {
+            "title": "Hand Tremor Based Biometric Recognition",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Hand-Tremor-Based-Biometric-Recognition/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Hand-Tremor-Based-Biometric-Recognition",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Hand-Tremor-Based-Biometric-Recognition",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Hand-Tremor-Based-Biometric-Recognition/"
         }
     ],
     "E/19/096": [
@@ -10676,6 +11432,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-CO225-Student-Result-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Student-Result-Management-System/"
+        },
+        {
+            "title": "Online Shoppers Purchase Prediction",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Online-Shoppers-Purchase-Prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e19-CO544-Online-Shoppers-Purchase-Prediction",
+            "page_url": "https://cepdnaclk.github.io/e19-CO544-Online-Shoppers-Purchase-Prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Online-Shoppers-Purchase-Prediction/"
         }
     ],
     "E/19/106": [
@@ -10730,6 +11499,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-CO225-Student-Result-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Student-Result-Management-System/"
+        },
+        {
+            "title": "Online Shoppers Purchase Prediction",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Online-Shoppers-Purchase-Prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e19-CO544-Online-Shoppers-Purchase-Prediction",
+            "page_url": "https://cepdnaclk.github.io/e19-CO544-Online-Shoppers-Purchase-Prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Online-Shoppers-Purchase-Prediction/"
         }
     ],
     "E/19/111": [
@@ -10760,6 +11542,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ACES-Project-Fund-Requests/"
         },
         {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
+        },
+        {
             "title": "Online Shopping",
             "category": {
                 "code": "co226",
@@ -10784,6 +11579,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-School-Attendance-Management-System-Mobile-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/School-Attendance-Management-System-Mobile-Application/"
+        },
+        {
+            "title": "Bitcoin Cost Forecast System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Bitcoin-Cost-Forecast-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Bitcoin-Cost-Forecast-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Bitcoin-Cost-Forecast-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Bitcoin-Cost-Forecast-System/"
         }
     ],
     "E/19/124": [
@@ -10812,6 +11620,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-CO227-A-Simple-Web-or-Mobile-Application-For-A-Gym",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/A-Simple-Web-or-Mobile-Application-For-A-Gym/"
+        },
+        {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
         },
         {
             "title": "Airline Booking System",
@@ -10866,6 +11687,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Leaf-Colour-Quantifier",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Leaf-Colour-Quantifier/"
+        },
+        {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
         },
         {
             "title": "Database for Cricket Statistics",
@@ -10987,6 +11821,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System/"
+        },
+        {
+            "title": "Online Shoppers Purchase Prediction",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Online-Shoppers-Purchase-Prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e19-CO544-Online-Shoppers-Purchase-Prediction",
+            "page_url": "https://cepdnaclk.github.io/e19-CO544-Online-Shoppers-Purchase-Prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Online-Shoppers-Purchase-Prediction/"
         }
     ],
     "E/19/134": [
@@ -11112,6 +11959,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/voice-based-attendance-management-system/"
         },
         {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
+        },
+        {
             "title": "Department Space Management System Mobile App",
             "category": {
                 "code": "co225",
@@ -11218,6 +12078,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Department-Space-Management-System-Mobile-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Department-Space-Management-System-Mobile-App/"
+        },
+        {
+            "title": "Hand Tremor Based Biometric Recognition",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Hand-Tremor-Based-Biometric-Recognition/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Hand-Tremor-Based-Biometric-Recognition",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Hand-Tremor-Based-Biometric-Recognition",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Hand-Tremor-Based-Biometric-Recognition/"
         }
     ],
     "E/19/166": [
@@ -11248,6 +12121,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/A-Simple-Web-or-Mobile-Application-For-A-Gym/"
         },
         {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
+        },
+        {
             "title": "Online Shopping System",
             "category": {
                 "code": "co226",
@@ -11272,6 +12158,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System-Web-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
+        },
+        {
+            "title": "Bitcoin Cost Forecast System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Bitcoin-Cost-Forecast-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Bitcoin-Cost-Forecast-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Bitcoin-Cost-Forecast-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Bitcoin-Cost-Forecast-System/"
         }
     ],
     "E/19/167": [
@@ -11316,6 +12215,19 @@
         }
     ],
     "E/19/170": [
+        {
+            "title": "Pera Swarm Modular Robots",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Pera-Swarm-Modular-Robots/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Pera-Swarm-Modular-Robots",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Pera-Swarm-Modular-Robots",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Swarm-Modular-Robots/"
+        },
         {
             "title": "Online Retail System",
             "category": {
@@ -11412,6 +12324,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Online-Retail-System/"
         },
         {
+            "title": "Database project Hospital Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-project-Hospital-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-project-Hospital-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Database-project-Hospital-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-project-Hospital-Management-System/"
+        },
+        {
             "title": "School Attendance Management System Mobile Application",
             "category": {
                 "code": "co225",
@@ -11438,6 +12363,32 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Waste-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Waste-Management-System/"
+        },
+        {
+            "title": "subclinical mastitis prediction gui",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/subclinical-mastitis-prediction-gui/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-subclinical-mastitis-prediction-gui",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-subclinical-mastitis-prediction-gui",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/subclinical-mastitis-prediction-gui/"
+        },
+        {
+            "title": "Database project Hospital Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-project-Hospital-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-project-Hospital-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Database-project-Hospital-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-project-Hospital-Management-System/"
         },
         {
             "title": "Baby Developement Tracking System Mobileapplication",
@@ -11479,6 +12430,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-ACES-Project-Fund-Requests",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ACES-Project-Fund-Requests/"
+        },
+        {
+            "title": "Database project Hospital Management System",
+            "category": {
+                "code": "co226",
+                "title": "Database Projects (CO226)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-project-Hospital-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-project-Hospital-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co226-Database-project-Hospital-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-project-Hospital-Management-System/"
         },
         {
             "title": "Student Result Management System",
@@ -11574,6 +12538,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
+        },
+        {
+            "title": "Demand Location Prediction For Taxis",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Demand-Location-Prediction-For-Taxis/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Demand-Location-Prediction-For-Taxis",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Demand-Location-Prediction-For-Taxis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Demand-Location-Prediction-For-Taxis/"
         }
     ],
     "E/19/227": [
@@ -11591,6 +12568,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Ride/"
         },
         {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
+        },
+        {
             "title": "School Attendance Management System Mobile Application",
             "category": {
                 "code": "co225",
@@ -11602,6 +12592,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-School-Attendance-Management-System-Mobile-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/School-Attendance-Management-System-Mobile-Application/"
+        },
+        {
+            "title": "Bitcoin Cost Forecast System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Bitcoin-Cost-Forecast-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Bitcoin-Cost-Forecast-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Bitcoin-Cost-Forecast-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Bitcoin-Cost-Forecast-System/"
         }
     ],
     "E/19/236": [
@@ -11643,6 +12646,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-In-Patient-Management-System-For-a-Hospital",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/In-Patient-Management-System-For-a-Hospital/"
+        },
+        {
+            "title": "Hand Tremor Based Biometric Recognition",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Hand-Tremor-Based-Biometric-Recognition/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Hand-Tremor-Based-Biometric-Recognition",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Hand-Tremor-Based-Biometric-Recognition",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Hand-Tremor-Based-Biometric-Recognition/"
         }
     ],
     "E/19/240": [
@@ -11766,6 +12782,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-CO225-Student-Result-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Student-Result-Management-System/"
+        },
+        {
+            "title": "Online Shoppers Purchase Prediction",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Online-Shoppers-Purchase-Prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e19-CO544-Online-Shoppers-Purchase-Prediction",
+            "page_url": "https://cepdnaclk.github.io/e19-CO544-Online-Shoppers-Purchase-Prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Online-Shoppers-Purchase-Prediction/"
         }
     ],
     "E/19/249": [
@@ -11835,6 +12864,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Training-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Training-Management-System/"
+        },
+        {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
         },
         {
             "title": "Online Learning Platform",
@@ -11915,6 +12957,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developing-Tracking-System-Web-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developing-Tracking-System-Web-Application/"
+        },
+        {
+            "title": "personalised promotion system",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/personalised-promotion-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-personalised-promotion-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-personalised-promotion-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/personalised-promotion-system/"
         }
     ],
     "E/19/264": [
@@ -11943,6 +12998,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developing-Tracking-System-Web-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developing-Tracking-System-Web-Application/"
+        },
+        {
+            "title": "personalised promotion system",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/personalised-promotion-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-personalised-promotion-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-personalised-promotion-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/personalised-promotion-system/"
         }
     ],
     "E/19/266": [
@@ -11987,6 +13055,19 @@
         }
     ],
     "E/19/275": [
+        {
+            "title": "Pera Swarm Modular Robots",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Pera-Swarm-Modular-Robots/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Pera-Swarm-Modular-Robots",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Pera-Swarm-Modular-Robots",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Swarm-Modular-Robots/"
+        },
         {
             "title": "aiesec local committee manangement system",
             "category": {
@@ -12066,6 +13147,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-CO225-Student-Result-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Student-Result-Management-System/"
+        },
+        {
+            "title": "Demand Location Prediction For Taxis",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Demand-Location-Prediction-For-Taxis/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Demand-Location-Prediction-For-Taxis",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Demand-Location-Prediction-For-Taxis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Demand-Location-Prediction-For-Taxis/"
         }
     ],
     "E/19/295": [
@@ -12120,6 +13214,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-school-attendance-management-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/school-attendance-management-system/"
+        },
+        {
+            "title": "Diabetes Health Indicator",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Diabetes-Health-Indicator/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Diabetes-Health-Indicator",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Diabetes-Health-Indicator",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Diabetes-Health-Indicator/"
         }
     ],
     "E/19/300": [
@@ -12174,6 +13281,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-school-attendance-management-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/school-attendance-management-system/"
+        },
+        {
+            "title": "Diabetes Health Indicator",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Diabetes-Health-Indicator/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Diabetes-Health-Indicator",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Diabetes-Health-Indicator",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Diabetes-Health-Indicator/"
         }
     ],
     "E/19/304": [
@@ -12189,6 +13309,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-automated-warehouse-management-and-monitoring-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/automated-warehouse-management-and-monitoring-system/"
+        },
+        {
+            "title": "ACES Project Fund Requests",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/ACES-Project-Fund-Requests/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-ACES-Project-Fund-Requests",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
         },
         {
             "title": "agriculture management system",
@@ -12215,6 +13348,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-School-Attendance-Management-System-Mobile-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/School-Attendance-Management-System-Mobile-Application/"
+        },
+        {
+            "title": "Bitcoin Cost Forecast System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Bitcoin-Cost-Forecast-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Bitcoin-Cost-Forecast-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Bitcoin-Cost-Forecast-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Bitcoin-Cost-Forecast-System/"
         }
     ],
     "E/19/306": [
@@ -12353,6 +13499,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/TecHub-help-desk-ticketing-system/"
         },
         {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
+        },
+        {
             "title": "Flight Management System",
             "category": {
                 "code": "co226",
@@ -12377,6 +13536,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
+        },
+        {
+            "title": "Heart Disease Prediction System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Heart-Disease-Prediction-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Heart-Disease-Prediction-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Heart-Disease-Prediction-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Heart-Disease-Prediction-System/"
         }
     ],
     "E/19/324": [
@@ -12407,6 +13579,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-reporting-of-technical-visits/"
         },
         {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
+        },
+        {
             "title": "Online Shopping System",
             "category": {
                 "code": "co226",
@@ -12431,6 +13616,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System-Web-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
+        },
+        {
+            "title": "cricket analytics and prediction",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/cricket-analytics-and-prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-cricket-analytics-and-prediction",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-cricket-analytics-and-prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/cricket-analytics-and-prediction/"
         }
     ],
     "E/19/349": [
@@ -12530,6 +13728,19 @@
     ],
     "E/19/366": [
         {
+            "title": "Pera Swarm Modular Robots",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Pera-Swarm-Modular-Robots/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Pera-Swarm-Modular-Robots",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Pera-Swarm-Modular-Robots",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Swarm-Modular-Robots/"
+        },
+        {
             "title": "aiesec local committee manangement system",
             "category": {
                 "code": "co227",
@@ -12621,6 +13832,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System/"
+        },
+        {
+            "title": "Online Shoppers Purchase Prediction",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Online-Shoppers-Purchase-Prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e19-CO544-Online-Shoppers-Purchase-Prediction",
+            "page_url": "https://cepdnaclk.github.io/e19-CO544-Online-Shoppers-Purchase-Prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Online-Shoppers-Purchase-Prediction/"
         }
     ],
     "E/19/372": [
@@ -12651,6 +13875,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Leaf-Colour-Quantifier/"
         },
         {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
+        },
+        {
             "title": "Database for Cricket Statistics",
             "category": {
                 "code": "co226",
@@ -12675,6 +13912,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Department-Space-Management-System-Web-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Department-Space-Management-System-Web-Application/"
+        },
+        {
+            "title": "cricket analytics and prediction",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/cricket-analytics-and-prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-cricket-analytics-and-prediction",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-cricket-analytics-and-prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/cricket-analytics-and-prediction/"
         }
     ],
     "E/19/375": [
@@ -12716,6 +13966,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-School-Attendance-Management-System-Mobile-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/School-Attendance-Management-System-Mobile-Application/"
+        },
+        {
+            "title": "personalised promotion system",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/personalised-promotion-system/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-personalised-promotion-system",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-personalised-promotion-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/personalised-promotion-system/"
         }
     ],
     "E/19/405": [
@@ -12787,6 +14050,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Leaf-Colour-Quantifier/"
         },
         {
+            "title": "Digital Reporting of Technical Visits",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Digital-Reporting-of-Technical-Visits/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
+        },
+        {
             "title": "Database for Cricket Statistics",
             "category": {
                 "code": "co226",
@@ -12828,6 +14104,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/smart-supermarket-navigation-system/"
         },
         {
+            "title": "subclinical mastitis prediction gui",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/subclinical-mastitis-prediction-gui/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-subclinical-mastitis-prediction-gui",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-subclinical-mastitis-prediction-gui",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/subclinical-mastitis-prediction-gui/"
+        },
+        {
             "title": "Baby Developement Tracking System Mobileapplication",
             "category": {
                 "code": "co225",
@@ -12839,6 +14128,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developement-Tracking-System-Mobileapplication",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developement-Tracking-System-Mobileapplication/"
+        },
+        {
+            "title": "Demand Location Prediction For Taxis",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Demand-Location-Prediction-For-Taxis/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Demand-Location-Prediction-For-Taxis",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Demand-Location-Prediction-For-Taxis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Demand-Location-Prediction-For-Taxis/"
         }
     ],
     "E/19/413": [
@@ -12923,6 +14225,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Developing-image-capturing-and-analysing-system-using-FPGA/"
         },
         {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
+        },
+        {
             "title": "Department Space Management System Mobile App",
             "category": {
                 "code": "co225",
@@ -13005,6 +14320,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
         },
         {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
+        },
+        {
             "title": "Flight Management System",
             "category": {
                 "code": "co226",
@@ -13029,6 +14357,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
+        },
+        {
+            "title": "Heart Disease Prediction System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Heart-Disease-Prediction-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Heart-Disease-Prediction-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Heart-Disease-Prediction-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Heart-Disease-Prediction-System/"
         }
     ],
     "E/19/431": [
@@ -13059,6 +14400,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/TecHub-help-desk-ticketing-system/"
         },
         {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
+        },
+        {
             "title": "Library Management System Web App",
             "category": {
                 "code": "co225",
@@ -13070,6 +14424,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System-Web-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
+        },
+        {
+            "title": "Heart Disease Prediction System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Heart-Disease-Prediction-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Heart-Disease-Prediction-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Heart-Disease-Prediction-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Heart-Disease-Prediction-System/"
         }
     ],
     "E/19/432": [
@@ -13111,9 +14478,35 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Mobile-app-for-Inpatient-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Mobile-app-for-Inpatient-Management-System/"
+        },
+        {
+            "title": "Demand Location Prediction For Taxis",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Demand-Location-Prediction-For-Taxis/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Demand-Location-Prediction-For-Taxis",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Demand-Location-Prediction-For-Taxis",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Demand-Location-Prediction-For-Taxis/"
         }
     ],
     "E/19/436": [
+        {
+            "title": "Pera Swarm Modular Robots",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Pera-Swarm-Modular-Robots/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Pera-Swarm-Modular-Robots",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Pera-Swarm-Modular-Robots",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Swarm-Modular-Robots/"
+        },
         {
             "title": "digital signage content management system",
             "category": {
@@ -13193,9 +14586,35 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developement-Tracking-System-Mobileapplication",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developement-Tracking-System-Mobileapplication/"
+        },
+        {
+            "title": "Hand Tremor Based Biometric Recognition",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Hand-Tremor-Based-Biometric-Recognition/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Hand-Tremor-Based-Biometric-Recognition",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Hand-Tremor-Based-Biometric-Recognition",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Hand-Tremor-Based-Biometric-Recognition/"
         }
     ],
     "E/19/446": [
+        {
+            "title": "Pera Swarm Modular Robots",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e19/Pera-Swarm-Modular-Robots/",
+            "repo_url": "https://github.com/cepdnaclk/e19-3yp-Pera-Swarm-Modular-Robots",
+            "page_url": "https://cepdnaclk.github.io/e19-3yp-Pera-Swarm-Modular-Robots",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Swarm-Modular-Robots/"
+        },
         {
             "title": "digital signage content management system",
             "category": {
@@ -13288,6 +14707,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-school-attendance-management-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/school-attendance-management-system/"
+        },
+        {
+            "title": "Diabetes Health Indicator",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Diabetes-Health-Indicator/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Diabetes-Health-Indicator",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Diabetes-Health-Indicator",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Diabetes-Health-Indicator/"
         }
     ],
     "E/19/453": [
@@ -13318,6 +14750,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
         },
         {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
+        },
+        {
             "title": "Flight Management System",
             "category": {
                 "code": "co226",
@@ -13342,6 +14787,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System-Web-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
+        },
+        {
+            "title": "Heart Disease Prediction System",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Heart-Disease-Prediction-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Heart-Disease-Prediction-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Heart-Disease-Prediction-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Heart-Disease-Prediction-System/"
         }
     ],
     "E/19/455": [
@@ -13357,6 +14815,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-School-Van-Tracking-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/School-Van-Tracking-System/"
+        },
+        {
+            "title": "subclinical mastitis prediction gui",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/subclinical-mastitis-prediction-gui/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co227-subclinical-mastitis-prediction-gui",
+            "page_url": "https://cepdnaclk.github.io/e19-co227-subclinical-mastitis-prediction-gui",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/subclinical-mastitis-prediction-gui/"
         },
         {
             "title": "Baby Developement Tracking System Mobileapplication",
@@ -13387,21 +14858,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Ride/"
         },
         {
-            "title": "Baby Developing Tracking System Web Application",
-            "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Baby-Developing-Tracking-System-Web-Application/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co225-Baby-Developing-Tracking-System-Web-Application",
-            "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developing-Tracking-System-Web-Application",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developing-Tracking-System-Web-Application/"
-        }
-    ],
-    "E/19/465 ": [
-        {
             "title": "Empowering Counselors and Students through Interactive Web and Mobile App",
             "category": {
                 "code": "co227",
@@ -13413,6 +14869,32 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/"
+        },
+        {
+            "title": "Helpdesk Ticketing System",
+            "category": {
+                "code": "co328",
+                "title": "Software Engineering Projects (CO328)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co328/e19/Helpdesk-Ticketing-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co328-Helpdesk-Ticketing-System",
+            "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
+        },
+        {
+            "title": "Baby Developing Tracking System Web Application",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Baby-Developing-Tracking-System-Web-Application/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co225-Baby-Developing-Tracking-System-Web-Application",
+            "page_url": "https://cepdnaclk.github.io/e19-co225-Baby-Developing-Tracking-System-Web-Application",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Baby-Developing-Tracking-System-Web-Application/"
         }
     ],
     "E/19/492": [
@@ -13467,6 +14949,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-school-attendance-management-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/school-attendance-management-system/"
+        },
+        {
+            "title": "Diabetes Health Indicator",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Diabetes-Health-Indicator/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Diabetes-Health-Indicator",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Diabetes-Health-Indicator",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Diabetes-Health-Indicator/"
         }
     ],
     "E/19/494": [
@@ -13575,6 +15070,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-In-Patient-Management-System-For-a-Hospital",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/In-Patient-Management-System-For-a-Hospital/"
+        },
+        {
+            "title": "Diabetes Health Indicator",
+            "category": {
+                "code": "co544",
+                "title": "Machine Learning Projects (CO544)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co544/e19/Diabetes-Health-Indicator/",
+            "repo_url": "https://github.com/cepdnaclk/e19-co544-Diabetes-Health-Indicator",
+            "page_url": "https://cepdnaclk.github.io/e19-co544-Diabetes-Health-Indicator",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co544/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/Diabetes-Health-Indicator/"
         }
     ],
     "E/19/505": [
@@ -13616,6 +15124,366 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Library-Management-System-Web-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
+        }
+    ],
+    "E/20/036": [
+        {
+            "title": "Food Buddy",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Food-Buddy/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Food-Buddy",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Food-Buddy",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Food-Buddy/"
+        }
+    ],
+    "E/20/037": [
+        {
+            "title": "Food Buddy",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Food-Buddy/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Food-Buddy",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Food-Buddy",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Food-Buddy/"
+        }
+    ],
+    "E/20/054": [
+        {
+            "title": "software to analyse FMD of arteries",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/software-to-analyse-FMD-of-arteries/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-software-to-analyse-FMD-of-arteries",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-software-to-analyse-FMD-of-arteries",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/software-to-analyse-FMD-of-arteries/"
+        }
+    ],
+    "E/20/122": [
+        {
+            "title": "Erasmus plus Project Web and MIS",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Erasmus-plus-Project-Web-and-MIS/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Erasmus-plus-Project-Web-and-MIS",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Erasmus-plus-Project-Web-and-MIS",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Erasmus-plus-Project-Web-and-MIS/"
+        }
+    ],
+    "E/20/148": [
+        {
+            "title": "Erasmus plus Project Web and MIS",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Erasmus-plus-Project-Web-and-MIS/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Erasmus-plus-Project-Web-and-MIS",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Erasmus-plus-Project-Web-and-MIS",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Erasmus-plus-Project-Web-and-MIS/"
+        }
+    ],
+    "E/20/178": [
+        {
+            "title": "Erasmus plus Project Web and MIS",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Erasmus-plus-Project-Web-and-MIS/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Erasmus-plus-Project-Web-and-MIS",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Erasmus-plus-Project-Web-and-MIS",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Erasmus-plus-Project-Web-and-MIS/"
+        }
+    ],
+    "E/20/197": [
+        {
+            "title": "Postgraduate Student Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Postgraduate-Student-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Postgraduate-Student-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Postgraduate-Student-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Postgraduate-Student-Management-System/"
+        }
+    ],
+    "E/20/211": [
+        {
+            "title": "Postgraduate Student Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Postgraduate-Student-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Postgraduate-Student-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Postgraduate-Student-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Postgraduate-Student-Management-System/"
+        }
+    ],
+    "E/20/212": [
+        {
+            "title": "Postgraduate Student Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Postgraduate-Student-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Postgraduate-Student-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Postgraduate-Student-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Postgraduate-Student-Management-System/"
+        }
+    ],
+    "E/20/242": [
+        {
+            "title": "Postgraduate Student Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Postgraduate-Student-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Postgraduate-Student-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Postgraduate-Student-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Postgraduate-Student-Management-System/"
+        }
+    ],
+    "E/20/285": [
+        {
+            "title": "software to analyse FMD of arteries",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/software-to-analyse-FMD-of-arteries/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-software-to-analyse-FMD-of-arteries",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-software-to-analyse-FMD-of-arteries",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/software-to-analyse-FMD-of-arteries/"
+        }
+    ],
+    "E/20/288": [
+        {
+            "title": "software to analyse FMD of arteries",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/software-to-analyse-FMD-of-arteries/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-software-to-analyse-FMD-of-arteries",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-software-to-analyse-FMD-of-arteries",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/software-to-analyse-FMD-of-arteries/"
+        }
+    ],
+    "E/20/316": [
+        {
+            "title": "Erasmus plus Project Web and MIS",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Erasmus-plus-Project-Web-and-MIS/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Erasmus-plus-Project-Web-and-MIS",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Erasmus-plus-Project-Web-and-MIS",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Erasmus-plus-Project-Web-and-MIS/"
+        }
+    ],
+    "E/20/342": [
+        {
+            "title": "Mentormate",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Mentormate/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Mentormate",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Mentormate",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Mentormate/"
+        }
+    ],
+    "E/20/346": [
+        {
+            "title": "Denture Design Studio",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Denture-Design-Studio/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Denture-Design-Studio",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Denture-Design-Studio",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Denture-Design-Studio/"
+        }
+    ],
+    "E/20/350": [
+        {
+            "title": "Food Buddy",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Food-Buddy/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Food-Buddy",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Food-Buddy",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Food-Buddy/"
+        }
+    ],
+    "E/20/363": [
+        {
+            "title": "Mentormate",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Mentormate/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Mentormate",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Mentormate",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Mentormate/"
+        }
+    ],
+    "E/20/365": [
+        {
+            "title": "Mentormate",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Mentormate/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Mentormate",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Mentormate",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Mentormate/"
+        }
+    ],
+    "E/20/367": [
+        {
+            "title": "Denture Design Studio",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Denture-Design-Studio/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Denture-Design-Studio",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Denture-Design-Studio",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Denture-Design-Studio/"
+        }
+    ],
+    "E/20/370": [
+        {
+            "title": "Mentormate",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Mentormate/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Mentormate",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Mentormate",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Mentormate/"
+        }
+    ],
+    "E/20/377": [
+        {
+            "title": "Food Buddy",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Food-Buddy/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Food-Buddy",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Food-Buddy",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Food-Buddy/"
+        }
+    ],
+    "E/20/419": [
+        {
+            "title": "Denture Design Studio",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Denture-Design-Studio/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Denture-Design-Studio",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Denture-Design-Studio",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Denture-Design-Studio/"
+        }
+    ],
+    "E/20/439": [
+        {
+            "title": "Denture Design Studio",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Denture-Design-Studio/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-Denture-Design-Studio",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-Denture-Design-Studio",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Denture-Design-Studio/"
+        }
+    ],
+    "E/20/449": [
+        {
+            "title": "software to analyse FMD of arteries",
+            "category": {
+                "code": "co225",
+                "title": "Software Constructions Projects (CO225)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/software-to-analyse-FMD-of-arteries/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co225-software-to-analyse-FMD-of-arteries",
+            "page_url": "https://cepdnaclk.github.io/e20-co225-software-to-analyse-FMD-of-arteries",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/software-to-analyse-FMD-of-arteries/"
         }
     ]
 }
