@@ -79,7 +79,8 @@ if __name__ == "__main__":
 
         isImageDownloaded = False
         if (
-            studentData[PROFILE_PIC_LINK] != ""
+            len(studentData) >= PROFILE_PIC_LINK
+            and studentData[PROFILE_PIC_LINK] != ""
             and len(studentData[PROFILE_PIC_LINK]) > 1
         ):
             if not os.path.exists("../" + image_path):
@@ -100,8 +101,10 @@ if __name__ == "__main__":
 
         # add # to all empty fields
         for i in range(0, WEBSITE_URL + 1):
-            if studentData[i] == "":
+            if len(studentData) > i and studentData[i] == "":
                 studentData[i] = "#"
+            else:
+                studentData.append("#")
 
         reg_number = studentData[REG_NO]
         if reg_number.lower() == "provisional":
