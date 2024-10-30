@@ -15126,6 +15126,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Library-Management-System-Web-App/"
         }
     ],
+    "E/20/016": [
+        {
+            "title": "Student Academic Tracker",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Student-Academic-Tracker/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Student-Academic-Tracker",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Student-Academic-Tracker",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Student-Academic-Tracker/"
+        }
+    ],
     "E/20/034": [
         {
             "title": "MLink A Pharmacy Linking Platform",
@@ -15186,7 +15201,35 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/software-to-analyse-FMD-of-arteries/"
         }
     ],
+    "E/20/055": [
+        {
+            "title": "Student Academic Tracker",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Student-Academic-Tracker/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Student-Academic-Tracker",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Student-Academic-Tracker",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Student-Academic-Tracker/"
+        }
+    ],
     "E/20/087": [
+        {
+            "title": "Computer Engineering Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Computer-Engineering-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Computer-Engineering-Portal",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Computer-Engineering-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Computer-Engineering-Portal/"
+        },
         {
             "title": "Computer Engineering Portal",
             "category": {
@@ -15202,6 +15245,19 @@
         }
     ],
     "E/20/094": [
+        {
+            "title": "Computer Engineering Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Computer-Engineering-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Computer-Engineering-Portal",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Computer-Engineering-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Computer-Engineering-Portal/"
+        },
         {
             "title": "Computer Engineering Portal",
             "category": {
@@ -15232,6 +15288,19 @@
         }
     ],
     "E/20/131": [
+        {
+            "title": "Computer Engineering Portal",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Computer-Engineering-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Computer-Engineering-Portal",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Computer-Engineering-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Computer-Engineering-Portal/"
+        },
         {
             "title": "Computer Engineering Portal",
             "category": {
@@ -15310,6 +15379,19 @@
         {
             "title": "Computer Engineering Portal",
             "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Computer-Engineering-Portal/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Computer-Engineering-Portal",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Computer-Engineering-Portal",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Computer-Engineering-Portal/"
+        },
+        {
+            "title": "Computer Engineering Portal",
+            "category": {
                 "code": "co225",
                 "title": "Software Constructions Projects (CO225)",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
@@ -15364,6 +15446,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Postgraduate-Student-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Postgraduate-Student-Management-System/"
+        }
+    ],
+    "E/20/231": [
+        {
+            "title": "Student Academic Tracker",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Student-Academic-Tracker/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Student-Academic-Tracker",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Student-Academic-Tracker",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Student-Academic-Tracker/"
         }
     ],
     "E/20/242": [
@@ -15559,6 +15656,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co225-Food-Buddy",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Food-Buddy/"
+        }
+    ],
+    "E/20/404": [
+        {
+            "title": "Student Academic Tracker",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Student-Academic-Tracker/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Student-Academic-Tracker",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Student-Academic-Tracker",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Student-Academic-Tracker/"
         }
     ],
     "E/20/419": [
