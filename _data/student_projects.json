@@ -15141,6 +15141,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Student-Academic-Tracker/"
         }
     ],
+    "E/20/032": [
+        {
+            "title": "e Conductor",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/e-Conductor/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-e-Conductor",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-e-Conductor",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/e-Conductor/"
+        }
+    ],
     "E/20/034": [
         {
             "title": "MLink A Pharmacy Linking Platform",
@@ -15154,6 +15169,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-MLink-A-Pharmacy-Linking-Platform",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MLink-A-Pharmacy-Linking-Platform/"
+        }
+    ],
+    "E/20/035": [
+        {
+            "title": "e Conductor",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/e-Conductor/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-e-Conductor",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-e-Conductor",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/e-Conductor/"
         }
     ],
     "E/20/036": [
@@ -15214,6 +15244,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Student-Academic-Tracker",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Student-Academic-Tracker/"
+        }
+    ],
+    "E/20/069": [
+        {
+            "title": "OASIS Teledentistry Mobile Application",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/OASIS-Teledentistry-Mobile-Application/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-OASIS-Teledentistry-Mobile-Application",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-OASIS-Teledentistry-Mobile-Application",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/OASIS-Teledentistry-Mobile-Application/"
         }
     ],
     "E/20/087": [
@@ -15315,6 +15360,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Computer-Engineering-Portal/"
         }
     ],
+    "E/20/133": [
+        {
+            "title": "e Conductor",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/e-Conductor/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-e-Conductor",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-e-Conductor",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/e-Conductor/"
+        }
+    ],
     "E/20/148": [
         {
             "title": "Erasmus plus Project Web and MIS",
@@ -15328,6 +15388,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Erasmus-plus-Project-Web-and-MIS",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Erasmus-plus-Project-Web-and-MIS/"
+        }
+    ],
+    "E/20/157": [
+        {
+            "title": "e Conductor",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/e-Conductor/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-e-Conductor",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-e-Conductor",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/e-Conductor/"
         }
     ],
     "E/20/168": [
@@ -15401,6 +15476,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co225-Computer-Engineering-Portal",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Computer-Engineering-Portal/"
+        }
+    ],
+    "E/20/189": [
+        {
+            "title": "OASIS Teledentistry Mobile Application",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/OASIS-Teledentistry-Mobile-Application/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-OASIS-Teledentistry-Mobile-Application",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-OASIS-Teledentistry-Mobile-Application",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/OASIS-Teledentistry-Mobile-Application/"
         }
     ],
     "E/20/197": [
@@ -15478,6 +15568,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Postgraduate-Student-Management-System/"
         }
     ],
+    "E/20/276": [
+        {
+            "title": "ACES fund and inventory management system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/ACES-fund-and-inventory-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-ACES-fund-and-inventory-management-system",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-ACES-fund-and-inventory-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/ACES-fund-and-inventory-management-system/"
+        }
+    ],
     "E/20/285": [
         {
             "title": "software to analyse FMD of arteries",
@@ -15508,6 +15613,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/software-to-analyse-FMD-of-arteries/"
         }
     ],
+    "E/20/305": [
+        {
+            "title": "ACES fund and inventory management system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/ACES-fund-and-inventory-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-ACES-fund-and-inventory-management-system",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-ACES-fund-and-inventory-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/ACES-fund-and-inventory-management-system/"
+        }
+    ],
     "E/20/316": [
         {
             "title": "Erasmus plus Project Web and MIS",
@@ -15521,6 +15641,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Erasmus-plus-Project-Web-and-MIS",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Erasmus-plus-Project-Web-and-MIS/"
+        }
+    ],
+    "E/20/318": [
+        {
+            "title": "ACES fund and inventory management system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/ACES-fund-and-inventory-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-ACES-fund-and-inventory-management-system",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-ACES-fund-and-inventory-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/ACES-fund-and-inventory-management-system/"
         }
     ],
     "E/20/342": [
@@ -15658,6 +15793,36 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Food-Buddy/"
         }
     ],
+    "E/20/381": [
+        {
+            "title": "OASIS Teledentistry Mobile Application",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/OASIS-Teledentistry-Mobile-Application/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-OASIS-Teledentistry-Mobile-Application",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-OASIS-Teledentistry-Mobile-Application",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/OASIS-Teledentistry-Mobile-Application/"
+        }
+    ],
+    "E/20/385": [
+        {
+            "title": "OASIS Teledentistry Mobile Application",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/OASIS-Teledentistry-Mobile-Application/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-OASIS-Teledentistry-Mobile-Application",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-OASIS-Teledentistry-Mobile-Application",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/OASIS-Teledentistry-Mobile-Application/"
+        }
+    ],
     "E/20/404": [
         {
             "title": "Student Academic Tracker",
@@ -15688,6 +15853,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Denture-Design-Studio/"
         }
     ],
+    "E/20/420": [
+        {
+            "title": "OASIS Teledentistry Mobile Application",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/OASIS-Teledentistry-Mobile-Application/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-OASIS-Teledentistry-Mobile-Application",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-OASIS-Teledentistry-Mobile-Application",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/OASIS-Teledentistry-Mobile-Application/"
+        }
+    ],
     "E/20/439": [
         {
             "title": "Denture Design Studio",
@@ -15701,6 +15881,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co225-Denture-Design-Studio",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Denture-Design-Studio/"
+        }
+    ],
+    "E/20/447": [
+        {
+            "title": "ACES fund and inventory management system",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/ACES-fund-and-inventory-management-system/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-ACES-fund-and-inventory-management-system",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-ACES-fund-and-inventory-management-system",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/ACES-fund-and-inventory-management-system/"
         }
     ],
     "E/20/449": [
