@@ -15141,6 +15141,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Student-Academic-Tracker/"
         }
     ],
+    "E/20/024": [
+        {
+            "title": "MONA Dashboard",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/MONA-Dashboard/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-MONA-Dashboard",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-MONA-Dashboard",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MONA-Dashboard/"
+        }
+    ],
     "E/20/032": [
         {
             "title": "e Conductor",
@@ -15190,30 +15205,30 @@
         {
             "title": "Food Buddy",
             "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Food-Buddy/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co225-Food-Buddy",
-            "page_url": "https://cepdnaclk.github.io/e20-co225-Food-Buddy",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Food-Buddy/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Food-Buddy/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Food-Buddy",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Food-Buddy",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Food-Buddy/"
         }
     ],
     "E/20/037": [
         {
             "title": "Food Buddy",
             "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Food-Buddy/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co225-Food-Buddy",
-            "page_url": "https://cepdnaclk.github.io/e20-co225-Food-Buddy",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Food-Buddy/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Food-Buddy/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Food-Buddy",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Food-Buddy",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Food-Buddy/"
         }
     ],
     "E/20/054": [
@@ -15287,6 +15302,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co225-Computer-Engineering-Portal",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Computer-Engineering-Portal/"
+        }
+    ],
+    "E/20/089": [
+        {
+            "title": "MONA Dashboard",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/MONA-Dashboard/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-MONA-Dashboard",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-MONA-Dashboard",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MONA-Dashboard/"
         }
     ],
     "E/20/094": [
@@ -15692,15 +15722,30 @@
         {
             "title": "Food Buddy",
             "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Food-Buddy/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co225-Food-Buddy",
-            "page_url": "https://cepdnaclk.github.io/e20-co225-Food-Buddy",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Food-Buddy/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Food-Buddy/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Food-Buddy",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Food-Buddy",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Food-Buddy/"
+        }
+    ],
+    "E/20/361": [
+        {
+            "title": "MONA Dashboard",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/MONA-Dashboard/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-MONA-Dashboard",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-MONA-Dashboard",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MONA-Dashboard/"
         }
     ],
     "E/20/363": [
@@ -15731,6 +15776,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Mentormate",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Mentormate/"
+        }
+    ],
+    "E/20/366": [
+        {
+            "title": "MONA Dashboard",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/MONA-Dashboard/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-MONA-Dashboard",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-MONA-Dashboard",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MONA-Dashboard/"
         }
     ],
     "E/20/367": [
@@ -15782,15 +15842,30 @@
         {
             "title": "Food Buddy",
             "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/Food-Buddy/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co225-Food-Buddy",
-            "page_url": "https://cepdnaclk.github.io/e20-co225-Food-Buddy",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Food-Buddy/"
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Food-Buddy/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Food-Buddy",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Food-Buddy",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Food-Buddy/"
+        }
+    ],
+    "E/20/378": [
+        {
+            "title": "MONA Dashboard",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/MONA-Dashboard/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-MONA-Dashboard",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-MONA-Dashboard",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MONA-Dashboard/"
         }
     ],
     "E/20/381": [
