@@ -27,6 +27,3 @@ e17154@eng.pdn.ac.lk</a> | <a href="https://people.ce.pdn.ac.lk/students/e17/154
 - Piumal Rathnayake (<a href="mailto:
 e18297@eng.pdn.ac.lk">
 e18297@eng.pdn.ac.lk</a> | <a href="https://people.ce.pdn.ac.lk/students/e18/297/">more info</a> )
-### Contribute
-
-If you are willing to contribute to improving this website, please feel free to send us a pull request or contact one of the developers.
