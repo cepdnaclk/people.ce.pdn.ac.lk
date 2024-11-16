@@ -6,9 +6,26 @@ sitemap: false
 {
     "academic":
     {
+        "headce@eng.pdn.ac.lk": {
+            "name": "Head of the Department",
+            "designation": "HoD",
+            "link": "#",
+            "contact_number": "",
+            "email": "headce@eng.pdn.ac.lk",
+            "location": "",
+            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/default.jpg",
+            "urls": {
+                "linkedin": "",
+                "google_scholar": "",
+                "researchgate": "",
+                "website": "",
+                "orcid": ""
+            },
+            "research_interests": []
+        },
         {%- assign staff_list = site.html_pages | where: "layout", "staffDetails" -%}
         {% for staff in staff_list -%}
-        {%- include api_staff.html staff=staff -%}{% if forloop.last %}{% else %},{% endif %}
+{%- include api_staff.html staff=staff -%}{% if forloop.last %}{% else %},{% endif %}
         {% endfor -%}
     },
     "temporary-academic":{
