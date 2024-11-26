@@ -63,6 +63,52 @@ class Tests(unittest.TestCase):
                                 self.fail(
                                     "URL in " + filePath + " does not contain http"
                                 )
+                                
+    def test_student_pages_have_space_after_colon(self):
+        # page will not show up if the space is not there
+
+        studentsFolder = "../pages/students"
+        for eachFolder in os.listdir(studentsFolder):
+            # e18 e19 etc
+
+            # skip the html files and the indexPages folder
+            if "indexPages" in eachFolder or ".html" in eachFolder:
+                continue
+
+            for eachStudent in os.listdir(studentsFolder + "/" + eachFolder + "/"):
+                # e18098.html e18xxx.html files
+                filePath = studentsFolder + "/" + eachFolder + "/" + eachStudent
+
+                with open(filePath, "r") as f:
+                    # inside of each file
+
+                    triple_dash_count = 0
+                    for eachLine in f:
+                        eachLine = eachLine.strip()
+                        
+                        if triple_dash_count == 2: # if frontmatter has ended
+                            break
+                        
+                        if eachLine == "---": # keeping track of frontmatter
+                            triple_dash_count += 1
+                            continue
+                        
+                        if ":" not in eachLine: # if no colon in the line
+                            continue
+                        
+                        splitted = eachLine.split(":")
+                        
+                        if len(splitted) == 1:
+                            continue
+                        
+                        word_after_colon = splitted[1]
+                        
+                        if len(word_after_colon) > 0:
+                            first_character_after_colon = word_after_colon[0]
+                        
+                            if first_character_after_colon != " ":
+                                self.fail("No space after colon in " + filePath)
+                                
 
 
 if __name__ == "__main__":
