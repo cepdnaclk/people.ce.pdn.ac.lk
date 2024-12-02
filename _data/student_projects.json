@@ -15169,6 +15169,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-e-Conductor",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/e-Conductor/"
+        },
+        {
+            "title": "RV32IM_Pipelined_Processor_Group 04",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e20/RV32IM_Pipelined_Processor_Group-04/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM_Pipelined_Processor_Group-04",
+            "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM_Pipelined_Processor_Group-04",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM_Pipelined_Processor_Group-04/"
         }
     ],
     "E/20/034": [
@@ -15184,6 +15197,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-MLink-A-Pharmacy-Linking-Platform",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MLink-A-Pharmacy-Linking-Platform/"
+        },
+        {
+            "title": "RV32IM_Pipelined_Processor_Group 04",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e20/RV32IM_Pipelined_Processor_Group-04/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM_Pipelined_Processor_Group-04",
+            "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM_Pipelined_Processor_Group-04",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM_Pipelined_Processor_Group-04/"
         }
     ],
     "E/20/035": [
@@ -15259,21 +15285,6 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Student-Academic-Tracker",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Student-Academic-Tracker/"
-        }
-    ],
-    "E/20/062": [
-        {
-            "title": "Job Magnet",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Job-Magnet/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co227-Job-Magnet",
-            "page_url": "https://cepdnaclk.github.io/e20-co227-Job-Magnet",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Job-Magnet/"
         }
     ],
     "E/20/069": [
@@ -15362,19 +15373,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Computer-Engineering-Portal/"
         }
     ],
-    "E/20/121": [
+    "E/20/100": [
         {
-            "title": "Job Magnet",
+            "title": "BookWallet",
             "category": {
                 "code": "co227",
                 "title": "Software Systems Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Job-Magnet/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co227-Job-Magnet",
-            "page_url": "https://cepdnaclk.github.io/e20-co227-Job-Magnet",
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/BookWallet/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-BookWallet",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-BookWallet",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Job-Magnet/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/BookWallet/"
         }
     ],
     "E/20/122": [
@@ -15463,6 +15474,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-e-Conductor",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/e-Conductor/"
+        },
+        {
+            "title": "RV32IM_Pipelined_Processor_Group 04",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e20/RV32IM_Pipelined_Processor_Group-04/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM_Pipelined_Processor_Group-04",
+            "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM_Pipelined_Processor_Group-04",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM_Pipelined_Processor_Group-04/"
         }
     ],
     "E/20/158": [
@@ -15643,6 +15667,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Postgraduate-Student-Management-System/"
         }
     ],
+    "E/20/243": [
+        {
+            "title": "BookWallet",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/BookWallet/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-BookWallet",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-BookWallet",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/BookWallet/"
+        }
+    ],
     "E/20/248": [
         {
             "title": "TourMate",
@@ -15658,21 +15697,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/TourMate/"
         }
     ],
-    "E/20/259": [
-        {
-            "title": "Job Magnet",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Job-Magnet/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co227-Job-Magnet",
-            "page_url": "https://cepdnaclk.github.io/e20-co227-Job-Magnet",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Job-Magnet/"
-        }
-    ],
     "E/20/276": [
         {
             "title": "ACES fund and inventory management system",
@@ -15686,6 +15710,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-ACES-fund-and-inventory-management-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/ACES-fund-and-inventory-management-system/"
+        }
+    ],
+    "E/20/280": [
+        {
+            "title": "BookWallet",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/BookWallet/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-BookWallet",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-BookWallet",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/BookWallet/"
         }
     ],
     "E/20/285": [
@@ -15898,21 +15937,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Mentormate/"
         }
     ],
-    "E/20/376": [
-        {
-            "title": "Job Magnet",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Job-Magnet/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co227-Job-Magnet",
-            "page_url": "https://cepdnaclk.github.io/e20-co227-Job-Magnet",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Job-Magnet/"
-        }
-    ],
     "E/20/377": [
         {
             "title": "Food Buddy",
@@ -16001,6 +16025,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-OASIS-Teledentistry-Mobile-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/OASIS-Teledentistry-Mobile-Application/"
+        }
+    ],
+    "E/20/434": [
+        {
+            "title": "BookWallet",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/BookWallet/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-BookWallet",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-BookWallet",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/BookWallet/"
         }
     ],
     "E/20/447": [
