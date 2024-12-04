@@ -15255,6 +15255,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Food-Buddy",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Food-Buddy/"
+        },
+        {
+            "title": "RV32IM pipeline implementation group 2",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e20/RV32IM-pipeline-implementation-group-2/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM-pipeline-implementation-group-2",
+            "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM-pipeline-implementation-group-2",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM-pipeline-implementation-group-2/"
         }
     ],
     "E/20/037": [
@@ -15270,21 +15283,6 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Food-Buddy",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Food-Buddy/"
-        }
-    ],
-    "E/20/054": [
-        {
-            "title": "software to analyse FMD of arteries",
-            "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/software-to-analyse-FMD-of-arteries/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co225-software-to-analyse-FMD-of-arteries",
-            "page_url": "https://cepdnaclk.github.io/e20-co225-software-to-analyse-FMD-of-arteries",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/software-to-analyse-FMD-of-arteries/"
         }
     ],
     "E/20/055": [
@@ -15315,6 +15313,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-OASIS-Teledentistry-Mobile-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/OASIS-Teledentistry-Mobile-Application/"
+        }
+    ],
+    "E/20/084": [
+        {
+            "title": "Cardiac Patient Data Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Cardiac-Patient-Data-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Cardiac-Patient-Data-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Cardiac-Patient-Data-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Cardiac-Patient-Data-Management-System/"
         }
     ],
     "E/20/087": [
@@ -15727,6 +15740,51 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/TourMate/"
         }
     ],
+    "E/20/254": [
+        {
+            "title": "Cardiac Patient Data Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Cardiac-Patient-Data-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Cardiac-Patient-Data-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Cardiac-Patient-Data-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Cardiac-Patient-Data-Management-System/"
+        }
+    ],
+    "E/20/262": [
+        {
+            "title": "Cardiac Patient Data Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Cardiac-Patient-Data-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Cardiac-Patient-Data-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Cardiac-Patient-Data-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Cardiac-Patient-Data-Management-System/"
+        }
+    ],
+    "E/20/266": [
+        {
+            "title": "Cardiac Patient Data Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Cardiac-Patient-Data-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Cardiac-Patient-Data-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Cardiac-Patient-Data-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Cardiac-Patient-Data-Management-System/"
+        }
+    ],
     "E/20/276": [
         {
             "title": "ACES fund and inventory management system",
@@ -15755,36 +15813,6 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-BookWallet",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/BookWallet/"
-        }
-    ],
-    "E/20/285": [
-        {
-            "title": "software to analyse FMD of arteries",
-            "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/software-to-analyse-FMD-of-arteries/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co225-software-to-analyse-FMD-of-arteries",
-            "page_url": "https://cepdnaclk.github.io/e20-co225-software-to-analyse-FMD-of-arteries",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/software-to-analyse-FMD-of-arteries/"
-        }
-    ],
-    "E/20/288": [
-        {
-            "title": "software to analyse FMD of arteries",
-            "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/software-to-analyse-FMD-of-arteries/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co225-software-to-analyse-FMD-of-arteries",
-            "page_url": "https://cepdnaclk.github.io/e20-co225-software-to-analyse-FMD-of-arteries",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/software-to-analyse-FMD-of-arteries/"
         }
     ],
     "E/20/300": [
@@ -15892,6 +15920,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Mentormate/"
         }
     ],
+    "E/20/346": [
+        {
+            "title": "Denture Design Studio",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Denture-Design-Studio/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Denture-Design-Studio",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Denture-Design-Studio",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Denture-Design-Studio/"
+        }
+    ],
     "E/20/350": [
         {
             "title": "Food Buddy",
@@ -15967,6 +16010,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MONA-Dashboard/"
         }
     ],
+    "E/20/367": [
+        {
+            "title": "Denture Design Studio",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Denture-Design-Studio/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Denture-Design-Studio",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Denture-Design-Studio",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Denture-Design-Studio/"
+        }
+    ],
     "E/20/369": [
         {
             "title": "MLink A Pharmacy Linking Platform",
@@ -15980,6 +16038,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-MLink-A-Pharmacy-Linking-Platform",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MLink-A-Pharmacy-Linking-Platform/"
+        },
+        {
+            "title": "RV32IM_Pipelined_Processor_Group 03",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e20/RV32IM_Pipelined_Processor_Group-03/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM_Pipelined_Processor_Group-03",
+            "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM_Pipelined_Processor_Group-03",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM_Pipelined_Processor_Group-03/"
         }
     ],
     "E/20/370": [
@@ -16040,6 +16111,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-OASIS-Teledentistry-Mobile-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/OASIS-Teledentistry-Mobile-Application/"
+        },
+        {
+            "title": "RV32IM_Pipelined_Processor_Group 03",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e20/RV32IM_Pipelined_Processor_Group-03/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM_Pipelined_Processor_Group-03",
+            "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM_Pipelined_Processor_Group-03",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM_Pipelined_Processor_Group-03/"
         }
     ],
     "E/20/385": [
@@ -16055,6 +16139,34 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-OASIS-Teledentistry-Mobile-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/OASIS-Teledentistry-Mobile-Application/"
+        },
+        {
+            "title": "RV32IM_Pipelined_Processor_Group 03",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e20/RV32IM_Pipelined_Processor_Group-03/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM_Pipelined_Processor_Group-03",
+            "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM_Pipelined_Processor_Group-03",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM_Pipelined_Processor_Group-03/"
+        }
+    ],
+    "E/20/397": [
+        {
+            "title": "Cardiac Patient Data Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Cardiac-Patient-Data-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Cardiac-Patient-Data-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Cardiac-Patient-Data-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Cardiac-Patient-Data-Management-System/"
         }
     ],
     "E/20/404": [
@@ -16070,6 +16182,34 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Student-Academic-Tracker",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Student-Academic-Tracker/"
+        }
+    ],
+    "E/20/419": [
+        {
+            "title": "Denture Design Studio",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Denture-Design-Studio/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Denture-Design-Studio",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Denture-Design-Studio",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Denture-Design-Studio/"
+        },
+        {
+            "title": "RV32IM pipeline implementation group 2",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e20/RV32IM-pipeline-implementation-group-2/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM-pipeline-implementation-group-2",
+            "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM-pipeline-implementation-group-2",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM-pipeline-implementation-group-2/"
         }
     ],
     "E/20/420": [
@@ -16102,6 +16242,34 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/BookWallet/"
         }
     ],
+    "E/20/439": [
+        {
+            "title": "Denture Design Studio",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Denture-Design-Studio/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Denture-Design-Studio",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Denture-Design-Studio",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Denture-Design-Studio/"
+        },
+        {
+            "title": "RV32IM pipeline implementation group 2",
+            "category": {
+                "code": "co502",
+                "title": "Advanced Computer Architecture (CO502)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co502/e20/RV32IM-pipeline-implementation-group-2/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co502-RV32IM-pipeline-implementation-group-2",
+            "page_url": "https://cepdnaclk.github.io/e20-co502-RV32IM-pipeline-implementation-group-2",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co502/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co502/E20/RV32IM-pipeline-implementation-group-2/"
+        }
+    ],
     "E/20/447": [
         {
             "title": "ACES fund and inventory management system",
@@ -16115,21 +16283,6 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-ACES-fund-and-inventory-management-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/ACES-fund-and-inventory-management-system/"
-        }
-    ],
-    "E/20/449": [
-        {
-            "title": "software to analyse FMD of arteries",
-            "category": {
-                "code": "co225",
-                "title": "Software Constructions Projects (CO225)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co225/e20/software-to-analyse-FMD-of-arteries/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co225-software-to-analyse-FMD-of-arteries",
-            "page_url": "https://cepdnaclk.github.io/e20-co225-software-to-analyse-FMD-of-arteries",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/software-to-analyse-FMD-of-arteries/"
         }
     ],
     "E/20/453": [
