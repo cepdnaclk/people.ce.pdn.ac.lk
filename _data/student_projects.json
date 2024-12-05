@@ -12294,6 +12294,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Plants-disease-dataset-collection-in-SriLanka",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Plants-disease-dataset-collection-in-SriLanka/"
+        },
+        {
+            "title": "MIS for Non Academic Establishment Division",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/MIS-for-Non-Academic-Establishment-Division/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-MIS-for-Non-Academic-Establishment-Division",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-MIS-for-Non-Academic-Establishment-Division",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MIS-for-Non-Academic-Establishment-Division/"
         }
     ],
     "E/19/193": [
@@ -15285,6 +15298,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Food-Buddy/"
         }
     ],
+    "E/20/049": [
+        {
+            "title": "Academic Staff Management Information System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Academic-Staff-Management-Information-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Academic-Staff-Management-Information-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Academic-Staff-Management-Information-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Academic-Staff-Management-Information-System/"
+        }
+    ],
     "E/20/055": [
         {
             "title": "Student Academic Tracker",
@@ -15373,6 +15401,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MONA-Dashboard/"
         }
     ],
+    "E/20/093": [
+        {
+            "title": "Academic Staff Management Information System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Academic-Staff-Management-Information-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Academic-Staff-Management-Information-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Academic-Staff-Management-Information-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Academic-Staff-Management-Information-System/"
+        }
+    ],
     "E/20/094": [
         {
             "title": "Computer Engineering Portal",
@@ -15399,6 +15442,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co225-Computer-Engineering-Portal",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E20/Computer-Engineering-Portal/"
+        }
+    ],
+    "E/20/099": [
+        {
+            "title": "MIS for Non Academic Establishment Division",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/MIS-for-Non-Academic-Establishment-Division/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-MIS-for-Non-Academic-Establishment-Division",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-MIS-for-Non-Academic-Establishment-Division",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MIS-for-Non-Academic-Establishment-Division/"
         }
     ],
     "E/20/100": [
@@ -15725,6 +15783,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/BookWallet/"
         }
     ],
+    "E/20/244": [
+        {
+            "title": "Academic Staff Management Information System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Academic-Staff-Management-Information-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Academic-Staff-Management-Information-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Academic-Staff-Management-Information-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Academic-Staff-Management-Information-System/"
+        }
+    ],
     "E/20/248": [
         {
             "title": "TourMate",
@@ -15783,6 +15856,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Cardiac-Patient-Data-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Cardiac-Patient-Data-Management-System/"
+        }
+    ],
+    "E/20/271": [
+        {
+            "title": "Academic Staff Management Information System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Academic-Staff-Management-Information-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-Academic-Staff-Management-Information-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-Academic-Staff-Management-Information-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Academic-Staff-Management-Information-System/"
         }
     ],
     "E/20/276": [
@@ -16068,6 +16156,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Mentormate/"
         }
     ],
+    "E/20/371": [
+        {
+            "title": "MIS for Non Academic Establishment Division",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/MIS-for-Non-Academic-Establishment-Division/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-MIS-for-Non-Academic-Establishment-Division",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-MIS-for-Non-Academic-Establishment-Division",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MIS-for-Non-Academic-Establishment-Division/"
+        }
+    ],
     "E/20/377": [
         {
             "title": "Food Buddy",
@@ -16182,6 +16285,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Student-Academic-Tracker",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Student-Academic-Tracker/"
+        }
+    ],
+    "E/20/416": [
+        {
+            "title": "MIS for Non Academic Establishment Division",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/MIS-for-Non-Academic-Establishment-Division/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-MIS-for-Non-Academic-Establishment-Division",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-MIS-for-Non-Academic-Establishment-Division",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MIS-for-Non-Academic-Establishment-Division/"
         }
     ],
     "E/20/419": [
