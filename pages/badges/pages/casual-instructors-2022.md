@@ -30,7 +30,7 @@ students:
  - { eNumber: "E/17/194", name: "Madhushan R.", position: "CO325", profile_url: "/students/e17/194/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e17/e17194.jpg", link: "#" }
  - { eNumber: "E/17/148", name: "M. W. V. Kalpana", position: "CO324", profile_url: "/students/e17/148/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e17/e17148.jpg", link: "#" }
  - { eNumber: "E/17/144", name: "K.P.C.D.B. Jayaweera", position: "CO321", profile_url: "/students/e17/144/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e17/e17144.jpg", link: "#" }
- - { eNumber: "E/17/012", name: "Amarasinghe R.A.A.U.", position: "CO324", profile_url: "/students/e17/012/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e17/e17012.jpg", link: "#" }
+ - { eNumber: "E/17/012", name: "R.A.A.U. Amarasinghe", position: "CO324", profile_url: "/students/e17/012/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e17/e17012.jpg", link: "#" }
  - { eNumber: "E/17/407", name: "H.D Wijesooriya", position: "CO322, CO324", profile_url: "/students/e17/407/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e17/e17407.jpg", link: "#" }
  - { eNumber: "E/17/065", name: "Dilhan M.A.K.", position: "CO322", profile_url: "/students/e17/065/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e17/e17065.jpg", link: "#" }
  - { eNumber: "E/17/153", name: "R.H.I.O.Karunachandra", position: "CO324", profile_url: "/students/e17/153/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e17/e17153.jpg", link: "#" }
