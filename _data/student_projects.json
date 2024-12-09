@@ -8148,19 +8148,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/"
         },
         {
-            "title": "Smart Locker System",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Locker-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Locker-System",
-            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Locker-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Locker-System/"
-        },
-        {
             "title": "Poultry Feed Efficiency Tracking System Group 17",
             "category": {
                 "code": "co227",
@@ -8671,19 +8658,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-For-Structural-Health-Monitoring",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/"
-        },
-        {
-            "title": "Smart Locker System",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Locker-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Locker-System",
-            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Locker-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Locker-System/"
         },
         {
             "title": "Poultry Feed Efficiency Tracking System Group 17",
@@ -9883,19 +9857,6 @@
             "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-For-Structural-Health-Monitoring",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/"
-        },
-        {
-            "title": "Smart Locker System",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Smart-Locker-System/",
-            "repo_url": "https://github.com/cepdnaclk/e18-3yp-Smart-Locker-System",
-            "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Locker-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Locker-System/"
         },
         {
             "title": "Poultry Feed Efficiency Tracking System Group 17",
