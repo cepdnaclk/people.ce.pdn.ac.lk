@@ -15199,6 +15199,19 @@
     ],
     "E/20/032": [
         {
+            "title": "SkyT",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SkyT/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
+        },
+        {
             "title": "e Conductor",
             "category": {
                 "code": "co227",
@@ -15226,6 +15239,19 @@
         }
     ],
     "E/20/034": [
+        {
+            "title": "SkyT",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SkyT/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
+        },
         {
             "title": "MLink A Pharmacy Linking Platform",
             "category": {
@@ -15577,6 +15603,19 @@
     ],
     "E/20/157": [
         {
+            "title": "SkyT",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SkyT/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
+        },
+        {
             "title": "e Conductor",
             "category": {
                 "code": "co227",
@@ -15634,6 +15673,19 @@
         }
     ],
     "E/20/173": [
+        {
+            "title": "SkyT",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SkyT/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
+        },
         {
             "title": "MLink A Pharmacy Linking Platform",
             "category": {
