@@ -15412,6 +15412,19 @@
     ],
     "E/20/084": [
         {
+            "title": "Smart Canteen Management System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Canteen-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Canteen-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Canteen-Management-System/"
+        },
+        {
             "title": "Cardiac Patient Data Management System",
             "category": {
                 "code": "co227",
@@ -15539,6 +15552,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-BookWallet",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/BookWallet/"
+        }
+    ],
+    "E/20/121": [
+        {
+            "title": "Smart Canteen Management System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Canteen-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Canteen-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Canteen-Management-System/"
         }
     ],
     "E/20/122": [
@@ -15960,6 +15988,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Cardiac-Patient-Data-Management-System/"
         }
     ],
+    "E/20/259": [
+        {
+            "title": "Smart Canteen Management System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Canteen-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Canteen-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Canteen-Management-System/"
+        }
+    ],
     "E/20/262": [
         {
             "title": "Cardiac Patient Data Management System",
@@ -16370,6 +16413,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-MIS-for-Non-Academic-Establishment-Division",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MIS-for-Non-Academic-Establishment-Division/"
+        }
+    ],
+    "E/20/376": [
+        {
+            "title": "Smart Canteen Management System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Canteen-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Canteen-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Canteen-Management-System/"
         }
     ],
     "E/20/377": [
