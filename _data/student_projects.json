@@ -15184,6 +15184,19 @@
     ],
     "E/20/024": [
         {
+            "title": "tivo desk companion",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/tivo-desk-companion/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-tivo-desk-companion",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-tivo-desk-companion",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/tivo-desk-companion/"
+        },
+        {
             "title": "MONA Dashboard",
             "category": {
                 "code": "co227",
@@ -15423,6 +15436,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/OASIS-Teledentistry-Mobile-Application/"
         }
     ],
+    "E/20/078": [
+        {
+            "title": "CathLab Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/CathLab-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-CathLab-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-CathLab-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/CathLab-Management-System/"
+        }
+    ],
     "E/20/084": [
         {
             "title": "Smart Canteen Management System",
@@ -15480,6 +15508,19 @@
         }
     ],
     "E/20/089": [
+        {
+            "title": "tivo desk companion",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/tivo-desk-companion/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-tivo-desk-companion",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-tivo-desk-companion",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/tivo-desk-companion/"
+        },
         {
             "title": "MONA Dashboard",
             "category": {
@@ -15584,6 +15625,19 @@
     ],
     "E/20/122": [
         {
+            "title": "OceanEyes",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
+        },
+        {
             "title": "Erasmus plus Project Web and MIS",
             "category": {
                 "code": "co227",
@@ -15595,6 +15649,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Erasmus-plus-Project-Web-and-MIS",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Erasmus-plus-Project-Web-and-MIS/"
+        },
+        {
+            "title": "Low Light Image Enhancement",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/Low-Light-Image-Enhancement/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-Low-Light-Image-Enhancement",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-Low-Light-Image-Enhancement",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Low-Light-Image-Enhancement/"
         }
     ],
     "E/20/131": [
@@ -15642,6 +15709,19 @@
     ],
     "E/20/148": [
         {
+            "title": "OceanEyes",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
+        },
+        {
             "title": "Erasmus plus Project Web and MIS",
             "category": {
                 "code": "co227",
@@ -15653,6 +15733,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Erasmus-plus-Project-Web-and-MIS",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Erasmus-plus-Project-Web-and-MIS/"
+        },
+        {
+            "title": "Low Light Image Enhancement",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/Low-Light-Image-Enhancement/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-Low-Light-Image-Enhancement",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-Low-Light-Image-Enhancement",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Low-Light-Image-Enhancement/"
         }
     ],
     "E/20/157": [
@@ -15756,6 +15849,19 @@
     ],
     "E/20/178": [
         {
+            "title": "OceanEyes",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
+        },
+        {
             "title": "Erasmus plus Project Web and MIS",
             "category": {
                 "code": "co227",
@@ -15767,6 +15873,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Erasmus-plus-Project-Web-and-MIS",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Erasmus-plus-Project-Web-and-MIS/"
+        },
+        {
+            "title": "Low Light Image Enhancement",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/Low-Light-Image-Enhancement/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-Low-Light-Image-Enhancement",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-Low-Light-Image-Enhancement",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Low-Light-Image-Enhancement/"
         }
     ],
     "E/20/179": [
@@ -16141,6 +16260,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/ACES-fund-and-inventory-management-system/"
         }
     ],
+    "E/20/279": [
+        {
+            "title": "CathLab Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/CathLab-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-CathLab-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-CathLab-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/CathLab-Management-System/"
+        }
+    ],
     "E/20/280": [
         {
             "title": "BookWallet",
@@ -16154,6 +16288,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-BookWallet",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/BookWallet/"
+        }
+    ],
+    "E/20/284": [
+        {
+            "title": "CathLab Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/CathLab-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-CathLab-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-CathLab-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/CathLab-Management-System/"
         }
     ],
     "E/20/285": [
@@ -16182,6 +16331,34 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Artery-Resolver",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Artery-Resolver/"
+        },
+        {
+            "title": "Low Light Image Enhancement",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/Low-Light-Image-Enhancement/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-Low-Light-Image-Enhancement",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-Low-Light-Image-Enhancement",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Low-Light-Image-Enhancement/"
+        }
+    ],
+    "E/20/286": [
+        {
+            "title": "CathLab Management System",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/CathLab-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co227-CathLab-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e20-co227-CathLab-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/CathLab-Management-System/"
         }
     ],
     "E/20/288": [
@@ -16231,6 +16408,19 @@
     ],
     "E/20/316": [
         {
+            "title": "OceanEyes",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
+        },
+        {
             "title": "Erasmus plus Project Web and MIS",
             "category": {
                 "code": "co227",
@@ -16242,6 +16432,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Erasmus-plus-Project-Web-and-MIS",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Erasmus-plus-Project-Web-and-MIS/"
+        },
+        {
+            "title": "Low Light Image Enhancement",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/Low-Light-Image-Enhancement/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-Low-Light-Image-Enhancement",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-Low-Light-Image-Enhancement",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Low-Light-Image-Enhancement/"
         }
     ],
     "E/20/318": [
@@ -16362,6 +16565,19 @@
     ],
     "E/20/361": [
         {
+            "title": "tivo desk companion",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/tivo-desk-companion/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-tivo-desk-companion",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-tivo-desk-companion",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/tivo-desk-companion/"
+        },
+        {
             "title": "MONA Dashboard",
             "category": {
                 "code": "co227",
@@ -16406,6 +16622,19 @@
         }
     ],
     "E/20/366": [
+        {
+            "title": "tivo desk companion",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/tivo-desk-companion/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-tivo-desk-companion",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-tivo-desk-companion",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/tivo-desk-companion/"
+        },
         {
             "title": "MONA Dashboard",
             "category": {
