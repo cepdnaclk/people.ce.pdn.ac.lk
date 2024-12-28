@@ -164,7 +164,7 @@
         "projects": {}
     },
     "asithab@eng.pdn.ac.lk": {
-        "count": 13,
+        "count": 12,
         "projects": {
             "e18": [
                 {
@@ -218,19 +218,6 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/"
-                },
-                {
-                    "title": "Generating Patient Clinical Letters Using LLMs",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Generating-Patient-Clinical-Letters-Using-LLMs/",
-                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
-                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Generating-Patient-Clinical-Letters-Using-LLMs/"
                 }
             ],
             "e17": [
@@ -410,7 +397,7 @@
         "projects": {}
     },
     "damayanthiherath@eng.pdn.ac.lk": {
-        "count": 16,
+        "count": 15,
         "projects": {
             "e18": [
                 {
@@ -438,19 +425,6 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/"
-                },
-                {
-                    "title": "Generating Patient Clinical Letters Using LLMs",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Generating-Patient-Clinical-Letters-Using-LLMs/",
-                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
-                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Generating-Patient-Clinical-Letters-Using-LLMs/"
                 },
                 {
                     "title": "Multi Kingdom Binning of Long Read Metagenomes",
@@ -2113,7 +2087,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 42,
+        "count": 41,
         "projects": {
             "e18": [
                 {
@@ -2180,19 +2154,6 @@
                     "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
-                },
-                {
-                    "title": "Generating Patient Clinical Letters Using LLMs",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Generating-Patient-Clinical-Letters-Using-LLMs/",
-                    "repo_url": "https://github.com/cepdnaclk/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
-                    "page_url": "https://cepdnaclk.github.io/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Generating-Patient-Clinical-Letters-Using-LLMs/"
                 },
                 {
                     "title": "Machine Vision For Quality Inspection",
