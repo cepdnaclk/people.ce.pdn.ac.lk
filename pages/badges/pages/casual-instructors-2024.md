@@ -67,7 +67,7 @@ students:
  - { eNumber: "E/20/420", name: "J. K. Wanasinghe", position: "GP106", profile_url: "/students/e20/420/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e20/e20420.jpg", link: "#" }
  - { eNumber: "E/20/158", name: "T.G.C.Jananga", position: "GP106", profile_url: "/students/e20/158/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e20/e20158.jpg", link: "#" }
  - { eNumber: "E/20/242", name: "G.A.I.Malinga", position: "GP106", profile_url: "/students/e20/242/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e20/e20242.jpg", link: "#" }
- - { eNumber: "E/20/122", name: "N.R.P.Gunathilake", position: "GP106", profile_url: "/students/e20/122/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e20/e20122.jpg", link: "#" }
+ - { eNumber: "E/20/122", name: "N.R.P. Gunathilake", position: "GP106", profile_url: "/students/e20/122/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e20/e20122.jpg", link: "#" }
  - { eNumber: "E/20/199", name: "Ketharagan P", position: "GP106", profile_url: "/students/e20/199/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e20/e20199.jpg", link: "#" }
  - { eNumber: "E/20/284", name: "T.M.S.U. Peiris", position: "GP106", profile_url: "/students/e20/284/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e20/e20284.jpg", link: "#" }
  - { eNumber: "E/20/370", name: "K.T.R.Sewmini", position: "GP106", profile_url: "/students/e20/370/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e20/e20370.jpg", link: "#" }
