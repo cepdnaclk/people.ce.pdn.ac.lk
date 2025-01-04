@@ -15169,6 +15169,19 @@
     ],
     "E/20/016": [
         {
+            "title": "Smart Aquarium",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Aquarium/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Aquarium",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Aquarium/"
+        },
+        {
             "title": "Student Academic Tracker",
             "category": {
                 "code": "co227",
@@ -15208,6 +15221,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-MONA-Dashboard",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MONA-Dashboard/"
+        },
+        {
+            "title": "Colorization of Grayscale Images Using Classical Image Processing Techniques",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques/"
         },
         {
             "title": "RV32IM_Pipelined_Processor_Group 05",
@@ -15420,6 +15446,19 @@
         }
     ],
     "E/20/055": [
+        {
+            "title": "Smart Aquarium",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Aquarium/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Aquarium",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Aquarium/"
+        },
         {
             "title": "Student Academic Tracker",
             "category": {
@@ -16071,6 +16110,19 @@
     ],
     "E/20/231": [
         {
+            "title": "Smart Aquarium",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Aquarium/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Aquarium",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Aquarium/"
+        },
+        {
             "title": "Student Academic Tracker",
             "category": {
                 "code": "co227",
@@ -16196,6 +16248,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Cardiac-Patient-Data-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Cardiac-Patient-Data-Management-System/"
+        },
+        {
+            "title": "Colorization of Grayscale Images Using Classical Image Processing Techniques",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques/"
         },
         {
             "title": "RV32IM_Pipelined_Processor_Group 06",
@@ -16740,6 +16805,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MONA-Dashboard/"
         },
         {
+            "title": "Colorization of Grayscale Images Using Classical Image Processing Techniques",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques/"
+        },
+        {
             "title": "RV32IM_Pipelined_Processor_Group 05",
             "category": {
                 "code": "co502",
@@ -16895,6 +16973,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-MONA-Dashboard",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MONA-Dashboard/"
+        },
+        {
+            "title": "Colorization of Grayscale Images Using Classical Image Processing Techniques",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques/"
         }
     ],
     "E/20/381": [
@@ -16969,6 +17060,19 @@
         }
     ],
     "E/20/404": [
+        {
+            "title": "Smart Aquarium",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Aquarium/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Aquarium",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Aquarium/"
+        },
         {
             "title": "Student Academic Tracker",
             "category": {
@@ -17052,6 +17156,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-OASIS-Teledentistry-Mobile-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/OASIS-Teledentistry-Mobile-Application/"
+        },
+        {
+            "title": "Colorization of Grayscale Images Using Classical Image Processing Techniques",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Colorization-of-Grayscale-Images-Using-Classical-Image-Processing-Techniques/"
         }
     ],
     "E/20/434": [
