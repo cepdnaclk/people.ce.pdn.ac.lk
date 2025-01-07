@@ -12283,6 +12283,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-grass-cutter/"
         },
         {
+            "title": "Green House Automation",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Green-House-Automation/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Green-House-Automation",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Green-House-Automation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Green-House-Automation/"
+        },
+        {
             "title": "Plants disease dataset collection in SriLanka",
             "category": {
                 "code": "co227",
@@ -15333,6 +15346,19 @@
     ],
     "E/20/035": [
         {
+            "title": "Smart Shopping Cart",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Shopping-Cart/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Shopping-Cart",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Shopping-Cart",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Shopping-Cart/"
+        },
+        {
             "title": "e Conductor",
             "category": {
                 "code": "co227",
@@ -15499,6 +15525,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Student-Academic-Tracker/"
         }
     ],
+    "E/20/062": [
+        {
+            "title": "Smart Shopping Cart",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Shopping-Cart/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Shopping-Cart",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Shopping-Cart",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Shopping-Cart/"
+        }
+    ],
     "E/20/069": [
         {
             "title": "OASIS Teledentistry Mobile Application",
@@ -15558,6 +15599,19 @@
         }
     ],
     "E/20/087": [
+        {
+            "title": "MediFlow",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/MediFlow/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-MediFlow",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/MediFlow/"
+        },
         {
             "title": "Computer Engineering Portal",
             "category": {
@@ -15643,6 +15697,19 @@
     ],
     "E/20/094": [
         {
+            "title": "MediFlow",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/MediFlow/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-MediFlow",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/MediFlow/"
+        },
+        {
             "title": "Computer Engineering Portal",
             "category": {
                 "code": "co227",
@@ -15670,6 +15737,19 @@
         }
     ],
     "E/20/099": [
+        {
+            "title": "Green House Automation",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Green-House-Automation/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Green-House-Automation",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Green-House-Automation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Green-House-Automation/"
+        },
         {
             "title": "MIS for Non Academic Establishment Division",
             "category": {
@@ -15756,6 +15836,19 @@
         }
     ],
     "E/20/131": [
+        {
+            "title": "MediFlow",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/MediFlow/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-MediFlow",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/MediFlow/"
+        },
         {
             "title": "Computer Engineering Portal",
             "category": {
@@ -15882,6 +15975,19 @@
     ],
     "E/20/158": [
         {
+            "title": "Vascueye",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vascueye/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vascueye",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Vascueye",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vascueye/"
+        },
+        {
             "title": "TourMate",
             "category": {
                 "code": "co227",
@@ -15980,6 +16086,19 @@
         }
     ],
     "E/20/179": [
+        {
+            "title": "MediFlow",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/MediFlow/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-MediFlow",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/MediFlow/"
+        },
         {
             "title": "Computer Engineering Portal",
             "category": {
@@ -16273,6 +16392,19 @@
         }
     ],
     "E/20/248": [
+        {
+            "title": "Vascueye",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vascueye/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vascueye",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Vascueye",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vascueye/"
+        },
         {
             "title": "TourMate",
             "category": {
@@ -16573,6 +16705,19 @@
     ],
     "E/20/300": [
         {
+            "title": "Vascueye",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vascueye/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vascueye",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Vascueye",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vascueye/"
+        },
+        {
             "title": "TourMate",
             "category": {
                 "code": "co227",
@@ -16643,6 +16788,19 @@
         }
     ],
     "E/20/318": [
+        {
+            "title": "Smart Shopping Cart",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Shopping-Cart/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Shopping-Cart",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Shopping-Cart",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Shopping-Cart/"
+        },
         {
             "title": "ACES fund and inventory management system",
             "category": {
@@ -16742,6 +16900,19 @@
         }
     ],
     "E/20/346": [
+        {
+            "title": "SheildV",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SheildV/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-SheildV",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-SheildV",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SheildV/"
+        },
         {
             "title": "Denture Design Studio",
             "category": {
@@ -17008,6 +17179,19 @@
     ],
     "E/20/371": [
         {
+            "title": "Green House Automation",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Green-House-Automation/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Green-House-Automation",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Green-House-Automation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Green-House-Automation/"
+        },
+        {
             "title": "MIS for Non Academic Establishment Division",
             "category": {
                 "code": "co227",
@@ -17065,6 +17249,19 @@
         }
     ],
     "E/20/378": [
+        {
+            "title": "SheildV",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SheildV/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-SheildV",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-SheildV",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SheildV/"
+        },
         {
             "title": "MONA Dashboard",
             "category": {
@@ -17150,6 +17347,19 @@
     ],
     "E/20/397": [
         {
+            "title": "Smart Shopping Cart",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Shopping-Cart/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Shopping-Cart",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Shopping-Cart",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Shopping-Cart/"
+        },
+        {
             "title": "Cardiac Patient Data Management System",
             "category": {
                 "code": "co227",
@@ -17193,6 +17403,19 @@
     ],
     "E/20/416": [
         {
+            "title": "Green House Automation",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Green-House-Automation/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Green-House-Automation",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Green-House-Automation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Green-House-Automation/"
+        },
+        {
             "title": "MIS for Non Academic Establishment Division",
             "category": {
                 "code": "co227",
@@ -17207,6 +17430,19 @@
         }
     ],
     "E/20/419": [
+        {
+            "title": "SheildV",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SheildV/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-SheildV",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-SheildV",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SheildV/"
+        },
         {
             "title": "Denture Design Studio",
             "category": {
@@ -17292,6 +17528,19 @@
     ],
     "E/20/439": [
         {
+            "title": "SheildV",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SheildV/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-SheildV",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-SheildV",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SheildV/"
+        },
+        {
             "title": "Denture Design Studio",
             "category": {
                 "code": "co227",
@@ -17349,6 +17598,19 @@
         }
     ],
     "E/20/453": [
+        {
+            "title": "Vascueye",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vascueye/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vascueye",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Vascueye",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vascueye/"
+        },
         {
             "title": "TourMate",
             "category": {
