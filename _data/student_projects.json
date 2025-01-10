@@ -16925,6 +16925,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Denture-Design-Studio",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Denture-Design-Studio/"
+        },
+        {
+            "title": "real time shadow removal from images",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/real-time-shadow-removal-from-images/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-real-time-shadow-removal-from-images",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-real-time-shadow-removal-from-images",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/real-time-shadow-removal-from-images/"
         }
     ],
     "E/20/350": [
@@ -16953,6 +16966,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Food-Buddy",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Food-Buddy/"
+        },
+        {
+            "title": "real time shadow removal from images",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/real-time-shadow-removal-from-images/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-real-time-shadow-removal-from-images",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-real-time-shadow-removal-from-images",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/real-time-shadow-removal-from-images/"
         }
     ],
     "E/20/361": [
@@ -17457,6 +17483,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Denture-Design-Studio/"
         },
         {
+            "title": "real time shadow removal from images",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/real-time-shadow-removal-from-images/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-real-time-shadow-removal-from-images",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-real-time-shadow-removal-from-images",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/real-time-shadow-removal-from-images/"
+        },
+        {
             "title": "RV32IM pipeline implementation group 2",
             "category": {
                 "code": "co502",
@@ -17554,6 +17593,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Denture-Design-Studio/"
         },
         {
+            "title": "real time shadow removal from images",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/real-time-shadow-removal-from-images/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-real-time-shadow-removal-from-images",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-real-time-shadow-removal-from-images",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/real-time-shadow-removal-from-images/"
+        },
+        {
             "title": "RV32IM pipeline implementation group 2",
             "category": {
                 "code": "co502",
@@ -17623,6 +17675,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-CO227-TourMate",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/TourMate/"
+        }
+    ],
+    "E/20/456": [
+        {
+            "title": "real time shadow removal from images",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/real-time-shadow-removal-from-images/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-real-time-shadow-removal-from-images",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-real-time-shadow-removal-from-images",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/real-time-shadow-removal-from-images/"
         }
     ]
 }
