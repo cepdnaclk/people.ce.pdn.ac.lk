@@ -15542,6 +15542,19 @@
     ],
     "E/20/069": [
         {
+            "title": "FlickNest",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/FlickNest/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-FlickNest",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-FlickNest",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/FlickNest/"
+        },
+        {
             "title": "OASIS Teledentistry Mobile Application",
             "category": {
                 "code": "co227",
@@ -15835,6 +15848,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Erasmus-plus-Project-Web-and-MIS/"
         },
         {
+            "title": "Automatic English Text Summarization",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Automatic-English-Text-Summarization/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-Automatic-English-Text-Summarization",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-Automatic-English-Text-Summarization",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Automatic-English-Text-Summarization/"
+        },
+        {
             "title": "Low Light Image Enhancement",
             "category": {
                 "code": "co543",
@@ -15930,6 +15956,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Erasmus-plus-Project-Web-and-MIS",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Erasmus-plus-Project-Web-and-MIS/"
+        },
+        {
+            "title": "Automatic English Text Summarization",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Automatic-English-Text-Summarization/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-Automatic-English-Text-Summarization",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-Automatic-English-Text-Summarization",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Automatic-English-Text-Summarization/"
         },
         {
             "title": "Low Light Image Enhancement",
@@ -16085,6 +16124,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Erasmus-plus-Project-Web-and-MIS/"
         },
         {
+            "title": "Automatic English Text Summarization",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Automatic-English-Text-Summarization/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-Automatic-English-Text-Summarization",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-Automatic-English-Text-Summarization",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Automatic-English-Text-Summarization/"
+        },
+        {
             "title": "Low Light Image Enhancement",
             "category": {
                 "code": "co543",
@@ -16140,6 +16192,19 @@
         }
     ],
     "E/20/189": [
+        {
+            "title": "FlickNest",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/FlickNest/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-FlickNest",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-FlickNest",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/FlickNest/"
+        },
         {
             "title": "OASIS Teledentistry Mobile Application",
             "category": {
@@ -16841,6 +16906,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Erasmus-plus-Project-Web-and-MIS/"
         },
         {
+            "title": "Automatic English Text Summarization",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Automatic-English-Text-Summarization/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-Automatic-English-Text-Summarization",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-Automatic-English-Text-Summarization",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Automatic-English-Text-Summarization/"
+        },
+        {
             "title": "Low Light Image Enhancement",
             "category": {
                 "code": "co543",
@@ -16883,6 +16961,19 @@
         }
     ],
     "E/20/328": [
+        {
+            "title": "FlickNest",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/FlickNest/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-FlickNest",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-FlickNest",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/FlickNest/"
+        },
         {
             "title": "Village Management System",
             "category": {
@@ -17786,6 +17877,19 @@
         }
     ],
     "E/20/455": [
+        {
+            "title": "FlickNest",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/FlickNest/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-FlickNest",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-FlickNest",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/FlickNest/"
+        },
         {
             "title": "Village Management System",
             "category": {
