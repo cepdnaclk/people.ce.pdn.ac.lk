@@ -15290,6 +15290,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/e-Conductor/"
         },
         {
+            "title": "ProVision",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/ProVision/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-ProVision",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-ProVision",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/ProVision/"
+        },
+        {
             "title": "RV32IM_Pipelined_Processor_Group 04",
             "category": {
                 "code": "co502",
@@ -15329,6 +15342,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-MLink-A-Pharmacy-Linking-Platform",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/MLink-A-Pharmacy-Linking-Platform/"
+        },
+        {
+            "title": "ProVision",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/ProVision/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-ProVision",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-ProVision",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/ProVision/"
         },
         {
             "title": "RV32IM_Pipelined_Processor_Group 04",
@@ -15609,6 +15635,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Cardiac-Patient-Data-Management-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Cardiac-Patient-Data-Management-System/"
+        },
+        {
+            "title": "ProVision",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/ProVision/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-ProVision",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-ProVision",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/ProVision/"
         }
     ],
     "E/20/087": [
@@ -16012,6 +16051,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/e-Conductor/"
         },
         {
+            "title": "ProVision",
+            "category": {
+                "code": "co543",
+                "title": "Image Processing Projects (CO543)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/ProVision/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co543-ProVision",
+            "page_url": "https://cepdnaclk.github.io/e20-co543-ProVision",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/ProVision/"
+        },
+        {
             "title": "RV32IM_Pipelined_Processor_Group 04",
             "category": {
                 "code": "co502",
@@ -16054,6 +16106,19 @@
         }
     ],
     "E/20/168": [
+        {
+            "title": "Smart Site Printing Rover",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Site-Printing-Rover/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Site-Printing-Rover",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Site-Printing-Rover",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Site-Printing-Rover/"
+        },
         {
             "title": "MLink A Pharmacy Linking Platform",
             "category": {
@@ -16387,6 +16452,19 @@
     ],
     "E/20/242": [
         {
+            "title": "Smart Site Printing Rover",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Site-Printing-Rover/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Site-Printing-Rover",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Site-Printing-Rover",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Site-Printing-Rover/"
+        },
+        {
             "title": "Postgraduate Student Management System",
             "category": {
                 "code": "co227",
@@ -16581,6 +16659,19 @@
     ],
     "E/20/262": [
         {
+            "title": "Smart IOT Indoor Lighting System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-IOT-Indoor-Lighting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-IOT-Indoor-Lighting-System",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-IOT-Indoor-Lighting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-IOT-Indoor-Lighting-System/"
+        },
+        {
             "title": "Cardiac Patient Data Management System",
             "category": {
                 "code": "co227",
@@ -16595,6 +16686,19 @@
         }
     ],
     "E/20/266": [
+        {
+            "title": "Smart IOT Indoor Lighting System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-IOT-Indoor-Lighting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-IOT-Indoor-Lighting-System",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-IOT-Indoor-Lighting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-IOT-Indoor-Lighting-System/"
+        },
         {
             "title": "Cardiac Patient Data Management System",
             "category": {
@@ -16666,6 +16770,19 @@
         }
     ],
     "E/20/276": [
+        {
+            "title": "Smart Site Printing Rover",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Site-Printing-Rover/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Site-Printing-Rover",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Site-Printing-Rover",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Site-Printing-Rover/"
+        },
         {
             "title": "ACES fund and inventory management system",
             "category": {
@@ -16821,6 +16938,19 @@
         }
     ],
     "E/20/288": [
+        {
+            "title": "Smart IOT Indoor Lighting System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-IOT-Indoor-Lighting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-IOT-Indoor-Lighting-System",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-IOT-Indoor-Lighting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-IOT-Indoor-Lighting-System/"
+        },
         {
             "title": "Artery Resolver",
             "category": {
@@ -17321,6 +17451,19 @@
         }
     ],
     "E/20/369": [
+        {
+            "title": "Smart Site Printing Rover",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Site-Printing-Rover/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Site-Printing-Rover",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Site-Printing-Rover",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Site-Printing-Rover/"
+        },
         {
             "title": "MLink A Pharmacy Linking Platform",
             "category": {
@@ -17834,6 +17977,19 @@
         }
     ],
     "E/20/449": [
+        {
+            "title": "Smart IOT Indoor Lighting System",
+            "category": {
+                "code": "3yp",
+                "title": "Cyber-Physical Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-IOT-Indoor-Lighting-System/",
+            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-IOT-Indoor-Lighting-System",
+            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-IOT-Indoor-Lighting-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-IOT-Indoor-Lighting-System/"
+        },
         {
             "title": "Artery Resolver",
             "category": {
