@@ -11622,6 +11622,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/A-Simple-Web-or-Mobile-Application-For-A-Gym/"
         },
         {
+            "title": "Extending the Growing Self Organizing Map for Unsupervised Learning Based Modelling",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/"
+        },
+        {
             "title": "Digital Reporting of Technical Visits",
             "category": {
                 "code": "co328",
@@ -11959,6 +11972,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/voice-based-attendance-management-system/"
         },
         {
+            "title": "Classification of Motor Imagery EEG based Tasks for Brain Computer Interfacing Applications",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications/"
+        },
+        {
             "title": "Helpdesk Ticketing System",
             "category": {
                 "code": "co328",
@@ -12024,6 +12050,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-Department-Space-Management-System-Mobile-App",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Department-Space-Management-System-Mobile-App/"
+        }
+    ],
+    "E/19/159": [
+        {
+            "title": "NeuronGlow",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/NeuronGlow/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-NeuronGlow",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-NeuronGlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/NeuronGlow/"
         }
     ],
     "E/19/163": [
@@ -12851,6 +12892,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ACES-Project-Fund-Requests/"
         },
         {
+            "title": "Classification of Motor Imagery EEG based Tasks for Brain Computer Interfacing Applications",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications/"
+        },
+        {
             "title": "Student Result Management System",
             "category": {
                 "code": "co225",
@@ -13605,6 +13659,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-reporting-of-technical-visits/"
         },
         {
+            "title": "Extending the Growing Self Organizing Map for Unsupervised Learning Based Modelling",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/"
+        },
+        {
             "title": "Digital Reporting of Technical Visits",
             "category": {
                 "code": "co328",
@@ -13750,6 +13817,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-School-Attendance-Management-System-Mobile-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/School-Attendance-Management-System-Mobile-Application/"
+        }
+    ],
+    "E/19/365": [
+        {
+            "title": "NeuronGlow",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/NeuronGlow/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-NeuronGlow",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-NeuronGlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/NeuronGlow/"
         }
     ],
     "E/19/366": [
@@ -14007,6 +14089,21 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co544/E19/personalised-promotion-system/"
         }
     ],
+    "E/19/393": [
+        {
+            "title": "NeuronGlow",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/NeuronGlow/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-NeuronGlow",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-NeuronGlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/NeuronGlow/"
+        }
+    ],
     "E/19/405": [
         {
             "title": "Pera Ride",
@@ -14046,6 +14143,21 @@
             "page_url": "https://cepdnaclk.github.io/e19-co225-In-Patient-Management-System-For-a-Hospital",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/In-Patient-Management-System-For-a-Hospital/"
+        }
+    ],
+    "E/19/407": [
+        {
+            "title": "NeuronGlow",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/NeuronGlow/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-NeuronGlow",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-NeuronGlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/NeuronGlow/"
         }
     ],
     "E/19/408": [
@@ -14707,6 +14819,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-co227-Automatic-IC-Testing-Application-Using-FPGA",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application-Using-FPGA/"
+        },
+        {
+            "title": "Classification of Motor Imagery EEG based Tasks for Brain Computer Interfacing Applications",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications/"
         },
         {
             "title": "Faculty Management System",
@@ -17903,6 +18028,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-OASIS-Teledentistry-Mobile-Application",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/OASIS-Teledentistry-Mobile-Application/"
+        },
+        {
+            "title": "NeuronGlow",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/NeuronGlow/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-NeuronGlow",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-NeuronGlow",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/NeuronGlow/"
         },
         {
             "title": "Colorization of Grayscale Images Using Image Processing Techniques",
