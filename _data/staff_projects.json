@@ -430,7 +430,7 @@
         "projects": {}
     },
     "damayanthiherath@eng.pdn.ac.lk": {
-        "count": 17,
+        "count": 18,
         "projects": {
             "e19": [
                 {
@@ -445,6 +445,19 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/"
+                },
+                {
+                    "title": "Legal Chain Resolver With Mixture of Experts and Multi Agent System for Legal Assistance",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance/"
                 }
             ],
             "e18": [
@@ -1253,8 +1266,23 @@
         "projects": {}
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "count": 23,
+        "count": 24,
         "projects": {
+            "e19": [
+                {
+                    "title": "Quality Assessment of Final Root Canal Treatment Using Intra Oral Periapical Radiographs",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs/"
+                }
+            ],
             "e18": [
                 {
                     "title": "Automated Medical Image Annotation for Dataset Building",
@@ -1844,6 +1872,26 @@
             ]
         }
     },
+    "nalin.arachchilage@rmit.edu.au": {
+        "count": 1,
+        "projects": {
+            "e19": [
+                {
+                    "title": "Putting Privacy into Practice A serious game teaches software developers secure coding",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding/"
+                }
+            ]
+        }
+    },
     "namal@eng.pdn.ac.lk": {
         "count": 4,
         "projects": {
@@ -2152,7 +2200,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 43,
+        "count": 45,
         "projects": {
             "e19": [
                 {
@@ -2167,6 +2215,32 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications/"
+                },
+                {
+                    "title": "Putting Privacy into Practice A serious game teaches software developers secure coding",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding/"
+                },
+                {
+                    "title": "Quality Assessment of Final Root Canal Treatment Using Intra Oral Periapical Radiographs",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs/"
                 }
             ],
             "e18": [
@@ -3381,8 +3455,24 @@
         }
     },
     "yashodhav@eng.pdn.ac.lk": {
-        "count": 0,
-        "projects": {}
+        "count": 1,
+        "projects": {
+            "e19": [
+                {
+                    "title": "Legal Chain Resolver With Mixture of Experts and Multi Agent System for Legal Assistance",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance/"
+                }
+            ]
+        }
     },
     "yasodhav@eng.pdn.ac.lk": {
         "count": 2,
