@@ -184,8 +184,36 @@
         "projects": {}
     },
     "asithab@eng.pdn.ac.lk": {
-        "count": 13,
+        "count": 15,
         "projects": {
+            "e19": [
+                {
+                    "title": "AI Driven Decision Making Models for Corporate Applications",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Driven-Decision-Making-Models-for-Corporate-Applications/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Driven-Decision-Making-Models-for-Corporate-Applications",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Driven-Decision-Making-Models-for-Corporate-Applications",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Driven-Decision-Making-Models-for-Corporate-Applications/"
+                },
+                {
+                    "title": "Machine Learning Based Automated PAR Index Calculation for Orthodontic Treatment",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Machine-Learning-Based-Automated-PAR-Index-Calculation-for-Orthodontic-Treatment/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Machine-Learning-Based-Automated-PAR-Index-Calculation-for-Orthodontic-Treatment",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Machine-Learning-Based-Automated-PAR-Index-Calculation-for-Orthodontic-Treatment",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Machine-Learning-Based-Automated-PAR-Index-Calculation-for-Orthodontic-Treatment/"
+                }
+            ],
             "e18": [
                 {
                     "title": "An Empirical Study On Prompt Injection Attacks And Defences",
@@ -430,7 +458,7 @@
         "projects": {}
     },
     "damayanthiherath@eng.pdn.ac.lk": {
-        "count": 18,
+        "count": 19,
         "projects": {
             "e19": [
                 {
@@ -445,6 +473,19 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/"
+                },
+                {
+                    "title": "HDL Code Generation LLMs",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/HDL-Code-Generation-LLMs/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-HDL-Code-Generation-LLMs",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-HDL-Code-Generation-LLMs",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/HDL-Code-Generation-LLMs/"
                 },
                 {
                     "title": "Legal Chain Resolver With Mixture of Experts and Multi Agent System for Legal Assistance",
@@ -940,8 +981,23 @@
         }
     },
     "e17058@eng.pdn.ac.lk": {
-        "count": 1,
+        "count": 2,
         "projects": {
+            "e19": [
+                {
+                    "title": "LowComplexity Algorithms For EnergyEfficient Arrhythmia Classification In Wearable Devices",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices/"
+                }
+            ],
             "e18": [
                 {
                     "title": "Automated Medical Image Annotation for Dataset Building",
@@ -960,8 +1016,23 @@
         }
     },
     "e17190@eng.pdn.ac.lk": {
-        "count": 1,
+        "count": 2,
         "projects": {
+            "e19": [
+                {
+                    "title": "LowComplexity Algorithms For EnergyEfficient Arrhythmia Classification In Wearable Devices",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices/"
+                }
+            ],
             "e18": [
                 {
                     "title": "Automated Medical Image Annotation for Dataset Building",
@@ -1266,9 +1337,22 @@
         "projects": {}
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "count": 24,
+        "count": 27,
         "projects": {
             "e19": [
+                {
+                    "title": "HDL Code Generation LLMs",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/HDL-Code-Generation-LLMs/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-HDL-Code-Generation-LLMs",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-HDL-Code-Generation-LLMs",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/HDL-Code-Generation-LLMs/"
+                },
                 {
                     "title": "Quality Assessment of Final Root Canal Treatment Using Intra Oral Periapical Radiographs",
                     "category": {
@@ -1281,6 +1365,32 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs/"
+                },
+                {
+                    "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
+                },
+                {
+                    "title": "RISC V SoC With Neuromorphic Accelerator for SNNs",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs/"
                 }
             ],
             "e18": [
@@ -1794,8 +1904,23 @@
         }
     },
     "manjula.sandirigama@eng.pdn.ac.lk": {
-        "count": 2,
+        "count": 3,
         "projects": {
+            "e19": [
+                {
+                    "title": "blockchain based e voting system",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/blockchain-based-e-voting-system/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-blockchain-based-e-voting-system",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-blockchain-based-e-voting-system",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/blockchain-based-e-voting-system/"
+                }
+            ],
             "e18": [
                 {
                     "title": "RPA attacks using Machine Learning Algorithms",
@@ -2200,9 +2325,22 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 45,
+        "count": 50,
         "projects": {
             "e19": [
+                {
+                    "title": "AI Driven Decision Making Models for Corporate Applications",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Driven-Decision-Making-Models-for-Corporate-Applications/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Driven-Decision-Making-Models-for-Corporate-Applications",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Driven-Decision-Making-Models-for-Corporate-Applications",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Driven-Decision-Making-Models-for-Corporate-Applications/"
+                },
                 {
                     "title": "Classification of Motor Imagery EEG based Tasks for Brain Computer Interfacing Applications",
                     "category": {
@@ -2215,6 +2353,32 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Classification-of-Motor-Imagery-EEG-based-Tasks-for-Brain-Computer-Interfacing-Applications/"
+                },
+                {
+                    "title": "HDL Code Generation LLMs",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/HDL-Code-Generation-LLMs/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-HDL-Code-Generation-LLMs",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-HDL-Code-Generation-LLMs",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/HDL-Code-Generation-LLMs/"
+                },
+                {
+                    "title": "LowComplexity Algorithms For EnergyEfficient Arrhythmia Classification In Wearable Devices",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices/"
                 },
                 {
                     "title": "Putting Privacy into Practice A serious game teaches software developers secure coding",
@@ -2241,6 +2405,32 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs/"
+                },
+                {
+                    "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-Based-ASIP-for-Accelerating-DNA-Sequence-Alignment-on-Embedded-Systems/"
+                },
+                {
+                    "title": "RISC V SoC With Neuromorphic Accelerator for SNNs",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs/"
                 }
             ],
             "e18": [
@@ -3182,6 +3372,26 @@
     "thusharab@eng.pdn.ac.lk": {
         "count": 0,
         "projects": {}
+    },
+    "titus.Jayarathna@westernsydney.edu.au": {
+        "count": 1,
+        "projects": {
+            "e19": [
+                {
+                    "title": "LowComplexity Algorithms For EnergyEfficient Arrhythmia Classification In Wearable Devices",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/LowComplexity-Algorithms-For-EnergyEfficient-Arrhythmia-Classification-In-Wearable-Devices/"
+                }
+            ]
+        }
     },
     "titus.nandakumara@gmail.com": {
         "count": 1,
