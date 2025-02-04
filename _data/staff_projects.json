@@ -458,7 +458,7 @@
         "projects": {}
     },
     "damayanthiherath@eng.pdn.ac.lk": {
-        "count": 19,
+        "count": 20,
         "projects": {
             "e19": [
                 {
@@ -499,6 +499,19 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance/"
+                },
+                {
+                    "title": "Out of domain generalization in Computer Vision",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Out-of-domain-generalization-in-Computer-Vision/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Out-of-domain-generalization-in-Computer-Vision/"
                 }
             ],
             "e18": [
@@ -1997,6 +2010,26 @@
             ]
         }
     },
+    "nalin.arachchilage@gmail.com": {
+        "count": 1,
+        "projects": {
+            "e19": [
+                {
+                    "title": "A Behavioural Plugin Tool For Fake News Identification",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/A-Behavioural-Plugin-Tool-For-Fake-News-Identification/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-A-Behavioural-Plugin-Tool-For-Fake-News-Identification",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-A-Behavioural-Plugin-Tool-For-Fake-News-Identification",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/A-Behavioural-Plugin-Tool-For-Fake-News-Identification/"
+                }
+            ]
+        }
+    },
     "nalin.arachchilage@rmit.edu.au": {
         "count": 1,
         "projects": {
@@ -2325,9 +2358,22 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 50,
+        "count": 51,
         "projects": {
             "e19": [
+                {
+                    "title": "A Behavioural Plugin Tool For Fake News Identification",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/A-Behavioural-Plugin-Tool-For-Fake-News-Identification/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-A-Behavioural-Plugin-Tool-For-Fake-News-Identification",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-A-Behavioural-Plugin-Tool-For-Fake-News-Identification",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/A-Behavioural-Plugin-Tool-For-Fake-News-Identification/"
+                },
                 {
                     "title": "AI Driven Decision Making Models for Corporate Applications",
                     "category": {
@@ -3009,6 +3055,26 @@
             ]
         }
     },
+    "ruwan.tennakoon@rmit.edu.au": {
+        "count": 1,
+        "projects": {
+            "e19": [
+                {
+                    "title": "Out of domain generalization in Computer Vision",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Out-of-domain-generalization-in-Computer-Vision/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Out-of-domain-generalization-in-Computer-Vision/"
+                }
+            ]
+        }
+    },
     "ruwan@eng.pdn.ac.lk": {
         "count": 1,
         "projects": {
@@ -3685,8 +3751,23 @@
         }
     },
     "yasodhav@eng.pdn.ac.lk": {
-        "count": 2,
+        "count": 3,
         "projects": {
+            "e19": [
+                {
+                    "title": "NursingVR WoundCareAI",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/NursingVR-WoundCareAI/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-NursingVR-WoundCareAI",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-NursingVR-WoundCareAI",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/NursingVR-WoundCareAI/"
+                }
+            ],
             "e18": [
                 {
                     "title": "Personalized Multimodal Emotion Prediction",
