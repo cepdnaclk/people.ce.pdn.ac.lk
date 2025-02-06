@@ -16220,19 +16220,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/"
         },
         {
-            "title": "Artery Resolver",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Artery-Resolver/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co227-Artery-Resolver",
-            "page_url": "https://cepdnaclk.github.io/e20-co227-Artery-Resolver",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Artery-Resolver/"
-        },
-        {
             "title": "Historical Image Restoration",
             "category": {
                 "code": "co543",
@@ -17684,19 +17671,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/"
         },
         {
-            "title": "Artery Resolver",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Artery-Resolver/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co227-Artery-Resolver",
-            "page_url": "https://cepdnaclk.github.io/e20-co227-Artery-Resolver",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Artery-Resolver/"
-        },
-        {
             "title": "Low Light Image Enhancement",
             "category": {
                 "code": "co543",
@@ -17751,19 +17725,6 @@
             "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-IOT-Indoor-Lighting-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-IOT-Indoor-Lighting-System/"
-        },
-        {
-            "title": "Artery Resolver",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Artery-Resolver/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co227-Artery-Resolver",
-            "page_url": "https://cepdnaclk.github.io/e20-co227-Artery-Resolver",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Artery-Resolver/"
         }
     ],
     "E/20/300": [
@@ -18881,19 +18842,6 @@
             "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-IOT-Indoor-Lighting-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-IOT-Indoor-Lighting-System/"
-        },
-        {
-            "title": "Artery Resolver",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Artery-Resolver/",
-            "repo_url": "https://github.com/cepdnaclk/e20-co227-Artery-Resolver",
-            "page_url": "https://cepdnaclk.github.io/e20-co227-Artery-Resolver",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Artery-Resolver/"
         }
     ],
     "E/20/453": [
