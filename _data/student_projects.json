@@ -14762,6 +14762,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/smart-supermarket-navigation-system/"
         },
         {
+            "title": "NLP Driven IBN Layered Architecture for SDNs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/"
+        },
+        {
             "title": "subclinical mastitis prediction gui",
             "category": {
                 "code": "co227",
@@ -14814,6 +14827,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-smart-supermarket-navigation-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/smart-supermarket-navigation-system/"
+        },
+        {
+            "title": "NLP Driven IBN Layered Architecture for SDNs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/"
         },
         {
             "title": "Online Retail System",
@@ -15298,6 +15324,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-Pera-Swarm-Modular-Robots",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Swarm-Modular-Robots/"
+        },
+        {
+            "title": "NLP Driven IBN Layered Architecture for SDNs",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/"
         },
         {
             "title": "digital signage content management system",
@@ -16231,6 +16270,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Artery-Resolver",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Artery-Resolver/"
+        },
+        {
+            "title": "Panic Attack Prediction",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Panic-Attack-Prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-Panic-Attack-Prediction",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-Panic-Attack-Prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Panic-Attack-Prediction/"
         },
         {
             "title": "Historical Image Restoration",
@@ -17559,6 +17611,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/ACES-fund-and-inventory-management-system/"
         },
         {
+            "title": "Panic Attack Prediction",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Panic-Attack-Prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-Panic-Attack-Prediction",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-Panic-Attack-Prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Panic-Attack-Prediction/"
+        },
+        {
             "title": "Historical Image Restoration",
             "category": {
                 "code": "co543",
@@ -17874,6 +17939,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/ACES-fund-and-inventory-management-system/"
         },
         {
+            "title": "Panic Attack Prediction",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Panic-Attack-Prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-Panic-Attack-Prediction",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-Panic-Attack-Prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Panic-Attack-Prediction/"
+        },
+        {
             "title": "Historical Image Restoration",
             "category": {
                 "code": "co543",
@@ -18079,6 +18157,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Mentormate",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Mentormate/"
+        },
+        {
+            "title": "Panic Attack Prediction",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Panic-Attack-Prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-Panic-Attack-Prediction",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-Panic-Attack-Prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Panic-Attack-Prediction/"
         },
         {
             "title": "Historical Image Restoration",
@@ -18905,6 +18996,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-ACES-fund-and-inventory-management-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/ACES-fund-and-inventory-management-system/"
+        },
+        {
+            "title": "Panic Attack Prediction",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Panic-Attack-Prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-Panic-Attack-Prediction",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-Panic-Attack-Prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Panic-Attack-Prediction/"
         },
         {
             "title": "Historical Image Restoration",
