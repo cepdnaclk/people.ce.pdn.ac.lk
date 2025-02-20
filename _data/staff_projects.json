@@ -1400,9 +1400,22 @@
         "projects": {}
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "count": 27,
+        "count": 28,
         "projects": {
             "e19": [
+                {
+                    "title": "Active bionic antennas for object detection and 3D localization with ego motion cancellation",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Active-bionic-antennas-for-object-detection-and-3D-localization-with-ego-motion-cancellation/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Active-bionic-antennas-for-object-detection-and-3D-localization-with-ego-motion-cancellation",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Active-bionic-antennas-for-object-detection-and-3D-localization-with-ego-motion-cancellation",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Active-bionic-antennas-for-object-detection-and-3D-localization-with-ego-motion-cancellation/"
+                },
                 {
                     "title": "HDL Code Generation Using LLMs",
                     "category": {
@@ -2096,6 +2109,26 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Putting-Privacy-into-Practice-A-serious-game-teaches-software-developers-secure-coding/"
+                }
+            ]
+        }
+    },
+    "nalin@eng.pdn.ac.lk": {
+        "count": 1,
+        "projects": {
+            "e19": [
+                {
+                    "title": "Active bionic antennas for object detection and 3D localization with ego motion cancellation",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Active-bionic-antennas-for-object-detection-and-3D-localization-with-ego-motion-cancellation/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Active-bionic-antennas-for-object-detection-and-3D-localization-with-ego-motion-cancellation",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Active-bionic-antennas-for-object-detection-and-3D-localization-with-ego-motion-cancellation",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Active-bionic-antennas-for-object-detection-and-3D-localization-with-ego-motion-cancellation/"
                 }
             ]
         }
