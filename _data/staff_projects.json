@@ -471,7 +471,7 @@
         "projects": {}
     },
     "damayanthiherath@eng.pdn.ac.lk": {
-        "count": 21,
+        "count": 20,
         "projects": {
             "e19": [
                 {
@@ -486,19 +486,6 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/"
-                },
-                {
-                    "title": "HDL Code Generation Using LLMs",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/HDL-Code-Generation-Using-LLMs/",
-                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-HDL-Code-Generation-Using-LLMs",
-                    "page_url": "https://cepdnaclk.github.io/e19-4yp-HDL-Code-Generation-Using-LLMs",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/HDL-Code-Generation-Using-LLMs/"
                 },
                 {
                     "title": "Legal Chain Resolver With Mixture of Experts and Multi Agent System for Legal Assistance",
@@ -1400,7 +1387,7 @@
         "projects": {}
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "count": 28,
+        "count": 27,
         "projects": {
             "e19": [
                 {
@@ -1415,19 +1402,6 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Active-bionic-antennas-for-object-detection-and-3D-localization-with-ego-motion-cancellation",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Active-bionic-antennas-for-object-detection-and-3D-localization-with-ego-motion-cancellation/"
-                },
-                {
-                    "title": "HDL Code Generation Using LLMs",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/HDL-Code-Generation-Using-LLMs/",
-                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-HDL-Code-Generation-Using-LLMs",
-                    "page_url": "https://cepdnaclk.github.io/e19-4yp-HDL-Code-Generation-Using-LLMs",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/HDL-Code-Generation-Using-LLMs/"
                 },
                 {
                     "title": "Quality Assessment of Final Root Canal Treatment Using Intra Oral Periapical Radiographs",
@@ -2456,7 +2430,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 52,
+        "count": 51,
         "projects": {
             "e19": [
                 {
@@ -2510,19 +2484,6 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Enhancing-Multimodal-Fusion-Techniques-for-Depression-Detection",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Enhancing-Multimodal-Fusion-Techniques-for-Depression-Detection/"
-                },
-                {
-                    "title": "HDL Code Generation Using LLMs",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/HDL-Code-Generation-Using-LLMs/",
-                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-HDL-Code-Generation-Using-LLMs",
-                    "page_url": "https://cepdnaclk.github.io/e19-4yp-HDL-Code-Generation-Using-LLMs",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/HDL-Code-Generation-Using-LLMs/"
                 },
                 {
                     "title": "LowComplexity Algorithms For EnergyEfficient Arrhythmia Classification In Wearable Devices",
