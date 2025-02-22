@@ -471,7 +471,7 @@
         "projects": {}
     },
     "damayanthiherath@eng.pdn.ac.lk": {
-        "count": 20,
+        "count": 21,
         "projects": {
             "e19": [
                 {
@@ -525,6 +525,19 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Using-LMs-to-Write-Patient-Clinical-Letters",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Using-LMs-to-Write-Patient-Clinical-Letters/"
+                },
+                {
+                    "title": "Verilog Code Generation With Variations Fine Tuned Large Languag Models",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models/"
                 }
             ],
             "e18": [
@@ -1387,7 +1400,7 @@
         "projects": {}
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "count": 27,
+        "count": 28,
         "projects": {
             "e19": [
                 {
@@ -1441,6 +1454,19 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs/"
+                },
+                {
+                    "title": "Verilog Code Generation With Variations Fine Tuned Large Languag Models",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models/"
                 }
             ],
             "e18": [
@@ -2430,7 +2456,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 51,
+        "count": 52,
         "projects": {
             "e19": [
                 {
@@ -2549,6 +2575,19 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs/"
+                },
+                {
+                    "title": "Verilog Code Generation With Variations Fine Tuned Large Languag Models",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Verilog-Code-Generation-With-Variations-Fine-Tuned-Large-Languag-Models/"
                 }
             ],
             "e18": [
