@@ -1134,7 +1134,7 @@
         }
     },
     "ggeesara@gmail.com": {
-        "count": 2,
+        "count": 1,
         "projects": {
             "e17": [
                 {
@@ -1149,19 +1149,6 @@
                     "page_url": "https://cepdnaclk.github.io/e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving/"
-                },
-                {
-                    "title": "S2TPVFormer",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/S2TPVFormer/",
-                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-S2TPVFormer",
-                    "page_url": "https://cepdnaclk.github.io/e17-4yp-S2TPVFormer",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/S2TPVFormer/"
                 }
             ]
         }
@@ -2052,6 +2039,26 @@
     "mmathusha@eng.pdn.ac.lk": {
         "count": 0,
         "projects": {}
+    },
+    "muhammad.haris@mbzuai.ac.ae": {
+        "count": 1,
+        "projects": {
+            "e17": [
+                {
+                    "title": "S2TPVFormer",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/S2TPVFormer/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-S2TPVFormer",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-S2TPVFormer",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/S2TPVFormer/"
+                }
+            ]
+        }
     },
     "nadeeshaa@eng.pdn.ac.lk": {
         "count": 1,
