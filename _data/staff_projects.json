@@ -1133,6 +1133,26 @@
             ]
         }
     },
+    "firstname_AT_umd_DOT_edu": {
+        "count": 1,
+        "projects": {
+            "e17": [
+                {
+                    "title": "S2TPVFormer",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/S2TPVFormer/",
+                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-S2TPVFormer",
+                    "page_url": "https://cepdnaclk.github.io/e17-4yp-S2TPVFormer",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/S2TPVFormer/"
+                }
+            ]
+        }
+    },
     "ggeesara@gmail.com": {
         "count": 1,
         "projects": {
@@ -1154,23 +1174,8 @@
         }
     },
     "gihan@umd.edu": {
-        "count": 2,
+        "count": 1,
         "projects": {
-            "e17": [
-                {
-                    "title": "S2TPVFormer",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/S2TPVFormer/",
-                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-S2TPVFormer",
-                    "page_url": "https://cepdnaclk.github.io/e17-4yp-S2TPVFormer",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/S2TPVFormer/"
-                }
-            ],
             "e16": [
                 {
                     "title": "open world object detection and discovery",
