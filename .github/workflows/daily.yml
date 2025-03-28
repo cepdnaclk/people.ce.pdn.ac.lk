@@ -27,11 +27,7 @@ jobs:
       - name: Install Python Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install gdown
-          pip install requests
-          pip install pillow
-          pip install googledrivedownloader
-          pip install pytz
+          pip install gdown requests pillow googledrivedownloader pytz
 
       - name: Update student profiles from Google Form
         env:
