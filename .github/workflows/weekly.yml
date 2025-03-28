@@ -19,11 +19,10 @@ jobs:
           # used for 'git log' command at python_scripts/update_profile_from_google_form.py line 154
           fetch-depth: 0
 
-      - name: Set up Python 3.13
-        uses: actions/setup-python@v5
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
         with:
           python-version: 3.8
-          cache: 'pip'
 
       - name: Install Python Dependencies
         run: |
