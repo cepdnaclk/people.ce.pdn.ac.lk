@@ -24,10 +24,10 @@ jobs:
           docker run -d -p 80:8080 --name jekyll_serve syntaqx/serve
           docker cp ./ jekyll_serve:/var/www
 
-      - name: Set up Python 3.13
+      - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
-          python-version: 3.13
+          python-version: 3.12
 
       - name: Install software
         run: sudo apt-get install -y chromium-browser
@@ -37,6 +37,6 @@ jobs:
 
       - name: Run Server and Test
         run: |
-          cd tests; 
+          cd tests;
           echo 'SERVER_URL = "http://localhost/"' > a_config_test.py
           python3 -m unittest discover -v -f
