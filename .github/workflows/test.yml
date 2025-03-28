@@ -24,10 +24,10 @@ jobs:
           docker run -d -p 80:8080 --name jekyll_serve syntaqx/serve
           docker cp ./ jekyll_serve:/var/www
 
-      - name: Set up Python 3.8
-        uses: actions/setup-python@v2
+      - name: Set up Python 3.13
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.8
+          python-version: 3.13
 
       - name: Install software
         run: sudo apt-get install -y chromium-browser
