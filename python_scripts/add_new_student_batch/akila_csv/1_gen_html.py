@@ -4,8 +4,8 @@
 import csv
 
 
-BATCH = '21'
-CSV = 'E_21CO.csv'
+BATCH = '22'
+CSV = 'Book1.csv'
 
 with open(CSV, mode ='r') as file:    
        csvFile = csv.reader(file)
@@ -20,7 +20,7 @@ with open(CSV, mode ='r') as file:
             # regNo = int(eno[-3:]) 
             print(eno,eno_strip,name,email)
 
-            htmlFile = open(f"../../../pages/students/e{BATCH}/e{eno_strip[1:]}.html", 'w+')
+            htmlFile = open(f"C:\\Users\\prama\\Downloads\\people.ce.pdn.ac.lk\\pages\\students\\e{BATCH}\\e{eno_strip[1:]}.html", 'w+')
             text = f"""---
 layout: studentDetails
 permalink: "/students/e{BATCH}/{eno_strip[3:]}/"
