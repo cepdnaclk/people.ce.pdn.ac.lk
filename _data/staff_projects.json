@@ -1292,26 +1292,6 @@
             ]
         }
     },
-    "hasindu@unsw.edu.au": {
-        "count": 1,
-        "projects": {
-            "e17": [
-                {
-                    "title": "novel compression methods for nanopore raw signal data",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/novel-compression-methods-for-nanopore-raw-signal-data/",
-                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
-                    "page_url": "https://cepdnaclk.github.io/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/novel-compression-methods-for-nanopore-raw-signal-data/"
-                }
-            ]
-        }
-    },
     "imeshuek@eng.pdn.ac.lk": {
         "count": 1,
         "projects": {
@@ -2468,7 +2448,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 52,
+        "count": 51,
         "projects": {
             "e19": [
                 {
@@ -2903,19 +2883,6 @@
                     "page_url": "https://cepdnaclk.github.io/e17-4yp-network-anomaly-detection",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/"
-                },
-                {
-                    "title": "novel compression methods for nanopore raw signal data",
-                    "category": {
-                        "code": "4yp",
-                        "title": "Undergraduate Research Projects",
-                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-                    },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/novel-compression-methods-for-nanopore-raw-signal-data/",
-                    "repo_url": "https://github.com/cepdnaclk/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
-                    "page_url": "https://cepdnaclk.github.io/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
-                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/novel-compression-methods-for-nanopore-raw-signal-data/"
                 }
             ],
             "e16": [
