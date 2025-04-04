@@ -4,8 +4,8 @@
 import csv
 
 
-BATCH = '21'
-CSV = 'E_21CO.csv'
+BATCH = '22'
+CSV = 'Book1.csv'
 
 with open(CSV, mode ='r') as file:    
        csvFile = csv.reader(file)
@@ -24,7 +24,7 @@ with open(CSV, mode ='r') as file:
             text = f"""---
 layout: studentDetails
 permalink: "/students/e{BATCH}/{eno_strip[3:]}/"
-title: will be filled by GH action
+title: {name}
 
 
 reg_no: E/{BATCH}/{eno_strip[-3:]}
