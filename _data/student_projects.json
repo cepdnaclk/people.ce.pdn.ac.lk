@@ -11495,19 +11495,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Chessboard/"
         },
         {
-            "title": "Inventory Management System of Agricultural Biotechnology Centre",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/"
-        },
-        {
             "title": "Online Student Registration System",
             "category": {
                 "code": "co226",
@@ -12472,19 +12459,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
-        },
-        {
-            "title": "Online Shopping System",
-            "category": {
-                "code": "co226",
-                "title": "Database Projects (CO226)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping-System",
-            "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping-System/"
         },
         {
             "title": "Library Management System Web App",
@@ -13978,19 +13952,6 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Chessboard/"
         },
         {
-            "title": "Inventory Management System of Agricultural Biotechnology Centre",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/"
-        },
-        {
             "title": "Online Learning Platform",
             "category": {
                 "code": "co226",
@@ -14242,19 +14203,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
-        },
-        {
-            "title": "Online Shopping System",
-            "category": {
-                "code": "co226",
-                "title": "Database Projects (CO226)",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping-System/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping-System",
-            "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping-System/"
         },
         {
             "title": "Library Management System Web App",
@@ -14741,19 +14689,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-Pera-Ride",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Ride/"
-        },
-        {
-            "title": "Inventory Management System of Agricultural Biotechnology Centre",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/"
         },
         {
             "title": "In Patient Management System For a Hospital",
@@ -15962,19 +15897,6 @@
             "page_url": "https://cepdnaclk.github.io/e19-4yp-Active-bionic-antennas-for-object-detection-and-3D-localization-with-ego-motion-cancellation",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Active-bionic-antennas-for-object-detection-and-3D-localization-with-ego-motion-cancellation/"
-        },
-        {
-            "title": "Inventory Management System of Agricultural Biotechnology Centre",
-            "category": {
-                "code": "co227",
-                "title": "Software Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/",
-            "repo_url": "https://github.com/cepdnaclk/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
-            "page_url": "https://cepdnaclk.github.io/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/"
         },
         {
             "title": "Online Student Registration System",
