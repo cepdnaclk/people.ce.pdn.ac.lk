@@ -54,7 +54,7 @@ url_twitter: #
 
 interests: #
 
-image_url: "images/students/e{BATCH}/e{eno_strip[1:]}.JPG"
+image_url: "images/students/e{BATCH}/e{eno_strip[1:]}.jpg"
 
 ---
             """
