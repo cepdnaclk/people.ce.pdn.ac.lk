@@ -4,8 +4,8 @@
 import csv
 
 
-BATCH = '22'
-CSV = 'Book1.csv'
+BATCH = '23'
+CSV = 'e23.csv'
 
 with open(CSV, mode ='r') as file:    
        csvFile = csv.reader(file)
