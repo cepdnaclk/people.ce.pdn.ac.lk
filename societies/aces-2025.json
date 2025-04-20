@@ -1,0 +1,115 @@
+{
+    "title": "ACES Committee 2025",
+    "tag": "aces-2025",
+    "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2025",
+    "image": "images/badges/aces.png",
+    "show_in_profile": "false",
+    "criteria": "",
+    "students": [
+        {
+            "eNumber": "E/19/409",
+            "name": "Dineth Pramuditha Udugamasooriya",
+            "position": "President"
+        },
+        {
+            "eNumber": "E/19/310",
+            "name": "R.D. Pasindu Rangana",
+            "position": "Vice President"
+        },
+        {
+            "eNumber": "E/20/363",
+            "name": "Yohan Senanayake",
+            "position": "Secretary"
+        },
+        {
+            "eNumber": "E/21/231",
+            "name": "H.L.T Lakdinu",
+            "position": "Assistant Secretary"
+        },
+        {
+            "eNumber": "E/20/385",
+            "name": "Devin Hasnaka Sriyarathna",
+            "position": "Junior Treasurer"
+        },
+        {
+            "eNumber": "E/19/249",
+            "name": "Sayumi Muthukumarana",
+            "position": "Editor"
+        },
+        {
+            "eNumber": "E/20/346",
+            "name": "S.M.P.H Samarakoon",
+            "position": "Junior Editor"
+        },
+        {
+            "eNumber": "E/19/095",
+            "name": "Lakshitha Kaveen Edirisinghe",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/20/199",
+            "name": "Ketharagan Parameswaran",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/21/361",
+            "name": "KT Sasindu",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/21/148",
+            "name": "Ganathipan Sivasakthynathan",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/21/416",
+            "name": "J.A. Sandali Uthpala",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/20/131",
+            "name": "Suriya Thalpawilage Sahith Hasantha",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/20/069",
+            "name": "Tharaka Dilshan Dissanayake",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/19/266",
+            "name": "Nithusikan Thasavaran",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/21/442",
+            "name": "Pushpika Anuradha Wijenayaka",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/20/350",
+            "name": "J.P.D.N. Sandamali",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/21/269",
+            "name": "A.P. Sachith Nirmal",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/19/057",
+            "name": "Chamath Colombage",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/19/275",
+            "name": "Malwathuge Sanka Peeris",
+            "position": "Committee Member"
+        },
+        {
+            "eNumber": "E/19/063",
+            "name": "Dassanayake Mudiyanselage Gayantha Sandeep Dassanayake",
+            "position": "Committee Member"
+        }
+    ]
+}

@@ -4892,6 +4892,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-medical-diagnostics/"
         },
         {
+            "title": "novel compression methods for nanopore raw signal data",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/novel-compression-methods-for-nanopore-raw-signal-data/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/novel-compression-methods-for-nanopore-raw-signal-data/"
+        },
+        {
             "title": "business to business database",
             "category": {
                 "code": "co226",
@@ -5326,6 +5339,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-remote-medical-diagnostics",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-medical-diagnostics/"
+        },
+        {
+            "title": "novel compression methods for nanopore raw signal data",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/novel-compression-methods-for-nanopore-raw-signal-data/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/novel-compression-methods-for-nanopore-raw-signal-data/"
         }
     ],
     "E/17/212": [
@@ -5971,6 +5997,19 @@
             "page_url": "https://cepdnaclk.github.io/e17-3yp-remote-medical-diagnostics",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/remote-medical-diagnostics/"
+        },
+        {
+            "title": "novel compression methods for nanopore raw signal data",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/novel-compression-methods-for-nanopore-raw-signal-data/",
+            "repo_url": "https://github.com/cepdnaclk/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+            "page_url": "https://cepdnaclk.github.io/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/novel-compression-methods-for-nanopore-raw-signal-data/"
         }
     ],
     "E/17/327": [
@@ -16359,6 +16398,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Academic-Staff-Management-Information-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Academic-Staff-Management-Information-System/"
+        },
+        {
+            "title": "stock price prediction",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/stock-price-prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-stock-price-prediction",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-stock-price-prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/stock-price-prediction/"
         }
     ],
     "E/20/054": [
@@ -16689,6 +16741,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Academic-Staff-Management-Information-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Academic-Staff-Management-Information-System/"
+        },
+        {
+            "title": "stock price prediction",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/stock-price-prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-stock-price-prediction",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-stock-price-prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/stock-price-prediction/"
         }
     ],
     "E/20/094": [
@@ -17580,6 +17645,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Academic-Staff-Management-Information-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Academic-Staff-Management-Information-System/"
+        },
+        {
+            "title": "stock price prediction",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/stock-price-prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-stock-price-prediction",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-stock-price-prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/stock-price-prediction/"
         }
     ],
     "E/20/248": [
@@ -17761,6 +17839,19 @@
             "page_url": "https://cepdnaclk.github.io/e20-co227-Academic-Staff-Management-Information-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Academic-Staff-Management-Information-System/"
+        },
+        {
+            "title": "stock price prediction",
+            "category": {
+                "code": "co542",
+                "title": "Neural Networks Projects (CO542)",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/stock-price-prediction/",
+            "repo_url": "https://github.com/cepdnaclk/e20-co542-stock-price-prediction",
+            "page_url": "https://cepdnaclk.github.io/e20-co542-stock-price-prediction",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/stock-price-prediction/"
         }
     ],
     "E/20/272": [
