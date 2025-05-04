@@ -1392,9 +1392,22 @@
         "projects": {}
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "count": 28,
+        "count": 29,
         "projects": {
             "e19": [
+                {
+                    "title": "AI Dirven Latency Constrained Resource Management In Kubernetes",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/"
+                },
                 {
                     "title": "Active bionic antennas for object detection and 3D localization with ego motion cancellation",
                     "category": {
@@ -1971,6 +1984,26 @@
             ]
         }
     },
+    "malithj@wso2.com": {
+        "count": 1,
+        "projects": {
+            "e19": [
+                {
+                    "title": "AI Dirven Latency Constrained Resource Management In Kubernetes",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/"
+                }
+            ]
+        }
+    },
     "manjula.sandirigama@eng.pdn.ac.lk": {
         "count": 3,
         "projects": {
@@ -2468,7 +2501,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 52,
+        "count": 53,
         "projects": {
             "e19": [
                 {
@@ -2483,6 +2516,19 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-A-Behavioural-Plugin-Tool-For-Fake-News-Identification",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/A-Behavioural-Plugin-Tool-For-Fake-News-Identification/"
+                },
+                {
+                    "title": "AI Dirven Latency Constrained Resource Management In Kubernetes",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/"
                 },
                 {
                     "title": "AI Driven Decision Making Models for Corporate Applications",

@@ -10153,6 +10153,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/First-Person-AR-Game-with-Localization/"
         },
         {
+            "title": "AI Dirven Latency Constrained Resource Management In Kubernetes",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/"
+        },
+        {
             "title": "Keyboard for Visually Impaired",
             "category": {
                 "code": "co227",
@@ -12351,6 +12364,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Chessboard/"
         },
         {
+            "title": "AI Dirven Latency Constrained Resource Management In Kubernetes",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/"
+        },
+        {
             "title": "Training Management System",
             "category": {
                 "code": "co227",
@@ -12472,6 +12498,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-Automated-Hydroponic-System",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-Hydroponic-System/"
+        },
+        {
+            "title": "AI Dirven Latency Constrained Resource Management In Kubernetes",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/"
         },
         {
             "title": "A Simple Web or Mobile Application For A Gym",
