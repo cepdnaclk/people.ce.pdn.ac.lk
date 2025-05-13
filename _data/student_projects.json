@@ -4318,19 +4318,6 @@
     ],
     "E/17/018": [
         {
-            "title": "Skim Sequencing Analysis",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Skim-Sequencing-Analysis/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Skim-Sequencing-Analysis",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-Skim-Sequencing-Analysis",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Skim-Sequencing-Analysis/"
-        },
-        {
             "title": "E Parking System",
             "category": {
                 "code": "3yp",
@@ -5179,19 +5166,6 @@
     ],
     "E/17/194": [
         {
-            "title": "Skim Sequencing Analysis",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Skim-Sequencing-Analysis/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Skim-Sequencing-Analysis",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-Skim-Sequencing-Analysis",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Skim-Sequencing-Analysis/"
-        },
-        {
             "title": "maker mate",
             "category": {
                 "code": "3yp",
@@ -5849,19 +5823,6 @@
         }
     ],
     "E/17/296": [
-        {
-            "title": "Skim Sequencing Analysis",
-            "category": {
-                "code": "6sp",
-                "title": "Sixth Semester Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Skim-Sequencing-Analysis/",
-            "repo_url": "https://github.com/cepdnaclk/e17-6sp-Skim-Sequencing-Analysis",
-            "page_url": "https://cepdnaclk.github.io/e17-6sp-Skim-Sequencing-Analysis",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Skim-Sequencing-Analysis/"
-        },
         {
             "title": "E Parking System",
             "category": {
