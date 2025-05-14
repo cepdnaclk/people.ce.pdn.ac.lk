@@ -462,12 +462,16 @@
             ]
         }
     },
+    "contact@shyaman.me": {
+        "count": 0,
+        "projects": {}
+    },
     "damaanthiherath@eng.pdn.ac.lk": {
         "count": 0,
         "projects": {}
     },
     "damayanthiherath@eng.pdn.ac.lk": {
-        "count": 21,
+        "count": 22,
         "projects": {
             "e19": [
                 {
@@ -508,6 +512,19 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Out-of-domain-generalization-in-Computer-Vision/"
+                },
+                {
+                    "title": "Solve Issues In Large Code Repositories",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Solve-Issues-In-Large-Code-Repositories/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Solve-Issues-In-Large-Code-Repositories",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Solve-Issues-In-Large-Code-Repositories",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Solve-Issues-In-Large-Code-Repositories/"
                 },
                 {
                     "title": "Using LMs to Write Patient Clinical Letters",
@@ -2497,7 +2514,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 53,
+        "count": 54,
         "projects": {
             "e19": [
                 {
@@ -2629,6 +2646,19 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/RISC-V-SoC-With-Neuromorphic-Accelerator-for-SNNs/"
+                },
+                {
+                    "title": "Solve Issues In Large Code Repositories",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Solve-Issues-In-Large-Code-Repositories/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Solve-Issues-In-Large-Code-Repositories",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Solve-Issues-In-Large-Code-Repositories",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Solve-Issues-In-Large-Code-Repositories/"
                 },
                 {
                     "title": "Verilog Code Generation With Variations Fine Tuned Large Languag Models",
