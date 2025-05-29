@@ -10220,6 +10220,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Event-Attendance-Management-System/"
         },
         {
+            "title": "AI Powered Knowledge Management System",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Powered-Knowledge-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Powered-Knowledge-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Powered-Knowledge-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Powered-Knowledge-Management-System/"
+        },
+        {
             "title": "Keyboard for Visually Impaired",
             "category": {
                 "code": "co227",
@@ -10890,6 +10903,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-Hydroponic-System/"
         },
         {
+            "title": "The Compound Prediction Analysis of Cybersecurity",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/The-Compound-Prediction-Analysis-of-Cybersecurity/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/The-Compound-Prediction-Analysis-of-Cybersecurity/"
+        },
+        {
             "title": "Engineering Education Unit",
             "category": {
                 "code": "co227",
@@ -11102,6 +11128,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-beehive-monitoring-system",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/beehive-monitoring-system/"
+        },
+        {
+            "title": "Integrating Neuro Symbolic AI for Pneumonia Diagnosis from Chest X trays",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays/"
         },
         {
             "title": "A Simple Web or Mobile Application For A Gym",
@@ -11480,6 +11519,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/First-Person-AR-Game-with-Localization/"
         },
         {
+            "title": "AI Driven Renal Care Management for Hospitals in Sri Lanka",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka/"
+        },
+        {
             "title": "Training Management System",
             "category": {
                 "code": "co227",
@@ -11547,6 +11599,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Chessboard/"
         },
         {
+            "title": "AI Powered Knowledge Management System",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Powered-Knowledge-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Powered-Knowledge-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Powered-Knowledge-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Powered-Knowledge-Management-System/"
+        },
+        {
             "title": "Inventory Management System of Agricultural Biotechnology Centre",
             "category": {
                 "code": "co227",
@@ -11599,6 +11664,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-Smart-Chessboard",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Chessboard/"
+        },
+        {
+            "title": "AI Powered Knowledge Management System",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Powered-Knowledge-Management-System/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Powered-Knowledge-Management-System",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Powered-Knowledge-Management-System",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Powered-Knowledge-Management-System/"
         },
         {
             "title": "Engineering Education Unit",
@@ -12189,6 +12267,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-grass-cutter/"
         },
         {
+            "title": "The Compound Prediction Analysis of Cybersecurity",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/The-Compound-Prediction-Analysis-of-Cybersecurity/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/The-Compound-Prediction-Analysis-of-Cybersecurity/"
+        },
+        {
             "title": "Plants disease dataset collection in SriLanka",
             "category": {
                 "code": "co227",
@@ -12645,6 +12736,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-Pera-Swarm-Modular-Robots",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Swarm-Modular-Robots/"
+        },
+        {
+            "title": "AI Driven Renal Care Management for Hospitals in Sri Lanka",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka/"
         },
         {
             "title": "Online Retail System",
@@ -13749,6 +13853,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Attendance-Monitoring-and-Access-Authentication-with-Face-Recognition/"
         },
         {
+            "title": "Multi Modal Data Fusion for Trading Market Price Forecasting",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting/"
+        },
+        {
             "title": "ESCAL Reservations and Borrowing",
             "category": {
                 "code": "co227",
@@ -14056,6 +14173,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Smart-Chessboard/"
         },
         {
+            "title": "AI Driven Renal Care Management for Hospitals in Sri Lanka",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka/"
+        },
+        {
             "title": "Inventory Management System of Agricultural Biotechnology Centre",
             "category": {
                 "code": "co227",
@@ -14361,6 +14491,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-automated-sun-tracking-solar-pv-power-plant-monitoring",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/automated-sun-tracking-solar-pv-power-plant-monitoring/"
+        },
+        {
+            "title": "Multi Modal Data Fusion for Trading Market Price Forecasting",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting/"
         },
         {
             "title": "Online Retail System",
@@ -14808,6 +14951,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Ride/"
         },
         {
+            "title": "Integrating Neuro Symbolic AI for Pneumonia Diagnosis from Chest X trays",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays/"
+        },
+        {
             "title": "Inventory Management System of Agricultural Biotechnology Centre",
             "category": {
                 "code": "co227",
@@ -15130,6 +15286,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-Project-Smart-Water-Tank",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Project-Smart-Water-Tank/"
+        },
+        {
+            "title": "Integrating Neuro Symbolic AI for Pneumonia Diagnosis from Chest X trays",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays/"
         },
         {
             "title": "A Simple Web or Mobile Application For A Gym",
@@ -15895,6 +16064,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-Attendance-Monitoring-and-Access-Authentication-with-Face-Recognition",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Attendance-Monitoring-and-Access-Authentication-with-Face-Recognition/"
+        },
+        {
+            "title": "Multi Modal Data Fusion for Trading Market Price Forecasting",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting/"
         },
         {
             "title": "Automatic IC Testing Application Using FPGA",
@@ -19591,6 +19773,21 @@
             "page_url": "https://cepdnaclk.github.io/e20-co543-real-time-shadow-removal-from-images",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/real-time-shadow-removal-from-images/"
+        }
+    ],
+    "E19266@ENG.PDN.AC.LK": [
+        {
+            "title": "The Compound Prediction Analysis of Cybersecurity",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/The-Compound-Prediction-Analysis-of-Cybersecurity/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/The-Compound-Prediction-Analysis-of-Cybersecurity/"
         }
     ]
 }

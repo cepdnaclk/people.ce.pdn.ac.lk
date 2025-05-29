@@ -184,7 +184,7 @@
         "projects": {}
     },
     "asithab@eng.pdn.ac.lk": {
-        "count": 16,
+        "count": 17,
         "projects": {
             "e19": [
                 {
@@ -199,6 +199,19 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Driven-Decision-Making-Models-for-Corporate-Applications",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Driven-Decision-Making-Models-for-Corporate-Applications/"
+                },
+                {
+                    "title": "AI Powered Knowledge Management System",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Powered-Knowledge-Management-System/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Powered-Knowledge-Management-System",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Powered-Knowledge-Management-System",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Powered-Knowledge-Management-System/"
                 },
                 {
                     "title": "Machine Learning Based Automated PAR Index Calculation for Orthodontic Treatment",
@@ -431,8 +444,24 @@
         }
     },
     "biswajithd@eng.pdn.ac.lk": {
-        "count": 0,
-        "projects": {}
+        "count": 1,
+        "projects": {
+            "e19": [
+                {
+                    "title": "The Compound Prediction Analysis of Cybersecurity",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/The-Compound-Prediction-Analysis-of-Cybersecurity/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/The-Compound-Prediction-Analysis-of-Cybersecurity/"
+                }
+            ]
+        }
     },
     "cds@eng.pdn.ac.lk": {
         "count": 0,
@@ -471,7 +500,7 @@
         "projects": {}
     },
     "damayanthiherath@eng.pdn.ac.lk": {
-        "count": 22,
+        "count": 23,
         "projects": {
             "e19": [
                 {
@@ -486,6 +515,19 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Extending-the-Growing-Self-Organizing-Map-for-Unsupervised-Learning-Based-Modelling/"
+                },
+                {
+                    "title": "Integrating Neuro Symbolic AI for Pneumonia Diagnosis from Chest X trays",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays/"
                 },
                 {
                     "title": "Legal Chain Resolver With Mixture of Experts and Multi Agent System for Legal Assistance",
@@ -2005,9 +2047,22 @@
         }
     },
     "manjula.sandirigama@eng.pdn.ac.lk": {
-        "count": 3,
+        "count": 4,
         "projects": {
             "e19": [
+                {
+                    "title": "Multi Modal Data Fusion for Trading Market Price Forecasting",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting/"
+                },
                 {
                     "title": "blockchain based e voting system",
                     "category": {
@@ -2114,6 +2169,26 @@
                     "page_url": "https://cepdnaclk.github.io/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/"
+                }
+            ]
+        }
+    },
+    "nadheesh@wso2.com": {
+        "count": 1,
+        "projects": {
+            "e19": [
+                {
+                    "title": "AI Dirven Latency Constrained Resource Management In Kubernetes",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/"
                 }
             ]
         }
@@ -2501,7 +2576,7 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "count": 53,
+        "count": 54,
         "projects": {
             "e19": [
                 {
@@ -2542,6 +2617,19 @@
                     "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Driven-Decision-Making-Models-for-Corporate-Applications",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
                     "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Driven-Decision-Making-Models-for-Corporate-Applications/"
+                },
+                {
+                    "title": "AI Powered Knowledge Management System",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Powered-Knowledge-Management-System/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Powered-Knowledge-Management-System",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Powered-Knowledge-Management-System",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Powered-Knowledge-Management-System/"
                 },
                 {
                     "title": "Classification of Motor Imagery EEG based Tasks for Brain Computer Interfacing Applications",
@@ -3349,8 +3437,36 @@
         "projects": {}
     },
     "sampath@eng.pdn.ac.lk": {
-        "count": 3,
+        "count": 5,
         "projects": {
+            "e19": [
+                {
+                    "title": "Integrating Neuro Symbolic AI for Pneumonia Diagnosis from Chest X trays",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays/"
+                },
+                {
+                    "title": "Multi Modal Data Fusion for Trading Market Price Forecasting",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Multi-Modal-Data-Fusion-for-Trading-Market-Price-Forecasting/"
+                }
+            ],
             "e16": [
                 {
                     "title": "Food Recommendation System Using Machine Learning for Diabetic Patients",
@@ -3706,9 +3822,22 @@
         }
     },
     "upuljm@eng.pdn.ac.lk": {
-        "count": 10,
+        "count": 11,
         "projects": {
             "e19": [
+                {
+                    "title": "AI Driven Renal Care Management for Hospitals in Sri Lanka",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Driven-Renal-Care-Management-for-Hospitals-in-Sri-Lanka/"
+                },
                 {
                     "title": "NursingVR WoundCareAI",
                     "category": {
