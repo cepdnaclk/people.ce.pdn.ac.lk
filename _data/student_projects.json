@@ -9170,6 +9170,19 @@
     ],
     "E/18/323": [
         {
+            "title": "Finding the Outliers Group20",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Finding-the-Outliers-Group20/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Finding-the-Outliers-Group20",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Finding-the-Outliers-Group20",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Finding-the-Outliers-Group20/"
+        },
+        {
             "title": "smart polling booth",
             "category": {
                 "code": "3yp",
@@ -9344,6 +9357,19 @@
         }
     ],
     "E/18/330": [
+        {
+            "title": "Finding the Outliers Group20",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Finding-the-Outliers-Group20/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Finding-the-Outliers-Group20",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Finding-the-Outliers-Group20",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Finding-the-Outliers-Group20/"
+        },
         {
             "title": "Smart Gate Keeping and Authentication System",
             "category": {
@@ -9709,6 +9735,19 @@
         }
     ],
     "E/18/375": [
+        {
+            "title": "Finding the Outliers Group20",
+            "category": {
+                "code": "6sp",
+                "title": "Sixth Semester Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Finding-the-Outliers-Group20/",
+            "repo_url": "https://github.com/cepdnaclk/e18-6sp-Finding-the-Outliers-Group20",
+            "page_url": "https://cepdnaclk.github.io/e18-6sp-Finding-the-Outliers-Group20",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Finding-the-Outliers-Group20/"
+        },
         {
             "title": "Road Accident Detection And Notification System",
             "category": {
@@ -10864,17 +10903,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-Hydroponic-System/"
         },
         {
-            "title": "The Compound Prediction Analysis of Cybersecurity",
+            "title": "Predicting Cybersecurity Attacks Using Compound Analysis with Classification Algorithms",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/The-Compound-Prediction-Analysis-of-Cybersecurity/",
-            "repo_url": "https://github.com/cepdnaclk/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
-            "page_url": "https://cepdnaclk.github.io/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/The-Compound-Prediction-Analysis-of-Cybersecurity/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms/"
         },
         {
             "title": "Engineering Education Unit",
@@ -12228,17 +12267,17 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-grass-cutter/"
         },
         {
-            "title": "The Compound Prediction Analysis of Cybersecurity",
+            "title": "Predicting Cybersecurity Attacks Using Compound Analysis with Classification Algorithms",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/The-Compound-Prediction-Analysis-of-Cybersecurity/",
-            "repo_url": "https://github.com/cepdnaclk/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
-            "page_url": "https://cepdnaclk.github.io/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/The-Compound-Prediction-Analysis-of-Cybersecurity/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms/"
         },
         {
             "title": "Plants disease dataset collection in SriLanka",
@@ -19777,17 +19816,17 @@
     ],
     "E19266@ENG.PDN.AC.LK": [
         {
-            "title": "The Compound Prediction Analysis of Cybersecurity",
+            "title": "Predicting Cybersecurity Attacks Using Compound Analysis with Classification Algorithms",
             "category": {
                 "code": "4yp",
                 "title": "Undergraduate Research Projects",
                 "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
             },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/The-Compound-Prediction-Analysis-of-Cybersecurity/",
-            "repo_url": "https://github.com/cepdnaclk/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
-            "page_url": "https://cepdnaclk.github.io/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/The-Compound-Prediction-Analysis-of-Cybersecurity/"
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms/"
         }
     ]
 }

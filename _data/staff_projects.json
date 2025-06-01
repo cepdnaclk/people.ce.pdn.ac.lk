@@ -448,17 +448,17 @@
         "projects": {
             "e19": [
                 {
-                    "title": "The Compound Prediction Analysis of Cybersecurity",
+                    "title": "Predicting Cybersecurity Attacks Using Compound Analysis with Classification Algorithms",
                     "category": {
                         "code": "4yp",
                         "title": "Undergraduate Research Projects",
                         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
                     },
-                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/The-Compound-Prediction-Analysis-of-Cybersecurity/",
-                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
-                    "page_url": "https://cepdnaclk.github.io/e19-4yp-The-Compound-Prediction-Analysis-of-Cybersecurity",
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms/",
+                    "repo_url": "https://github.com/cepdnaclk/e19-4yp-Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms",
+                    "page_url": "https://cepdnaclk.github.io/e19-4yp-Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms",
                     "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/The-Compound-Prediction-Analysis-of-Cybersecurity/"
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms/"
                 }
             ]
         }
