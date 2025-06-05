@@ -7999,6 +7999,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/non-invaisve-glucose-meter/"
         },
         {
+            "title": "Image Data Handling System for Research Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Image-Data-Handling-System-for-Research-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Image-Data-Handling-System-for-Research-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Image-Data-Handling-System-for-Research-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-A/"
+        },
+        {
             "title": "home automation system group01",
             "category": {
                 "code": "co326",
@@ -9868,6 +9881,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-4yp-An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/"
+        },
+        {
+            "title": "Image Data Handling System for Research Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Image-Data-Handling-System-for-Research-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Image-Data-Handling-System-for-Research-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Image-Data-Handling-System-for-Research-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-A/"
         }
     ],
     "E/18/397": [
@@ -9989,6 +10015,19 @@
             "page_url": "https://cepdnaclk.github.io/e18-4yp-An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/"
+        },
+        {
+            "title": "Image Data Handling System for Research Group A",
+            "category": {
+                "code": "co227",
+                "title": "Software Systems Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Image-Data-Handling-System-for-Research-Group-A/",
+            "repo_url": "https://github.com/cepdnaclk/e18-co227-Image-Data-Handling-System-for-Research-Group-A",
+            "page_url": "https://cepdnaclk.github.io/e18-co227-Image-Data-Handling-System-for-Research-Group-A",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Image-Data-Handling-System-for-Research-Group-A/"
         }
     ],
     "E/18/402": [
