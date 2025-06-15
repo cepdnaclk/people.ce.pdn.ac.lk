@@ -26,7 +26,7 @@ students:
  - { eNumber: "E/18/264", name: "N.G.L.M. Prasanna", position: "CO224, CO225", profile_url: "/students/e18/264/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18264.jpg", link: "#" }
  - { eNumber: "E/18/010", name: "Abeywickrama A.K.D.A.S.", position: "CO225", profile_url: "/students/e18/010/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18010.jpg", link: "#" }
  - { eNumber: "E/18/058", name: "De Alwis K.K.M.", position: "CO225", profile_url: "/students/e18/058/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18058.jpg", link: "#" }
- - { eNumber: "E/18/266", name: "Premathilaka K.N.I.", position: "CO226", profile_url: "/students/e18/266/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18266.jpg", link: "#" }
+ - { eNumber: "E/18/266", name: "K.N.I Premathilaka", position: "CO226", profile_url: "/students/e18/266/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18266.jpg", link: "#" }
  - { eNumber: "E/18/168", name: "Karan R", position: "CO226", profile_url: "/students/e18/168/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18168.jpg", link: "#" }
  - { eNumber: "E/18/214", name: "H.K. Manahara", position: "CO226", profile_url: "/students/e18/214/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18214.jpg", link: "#" }
  - { eNumber: "E/18/073", name: "W. M. T. Dhananjaya", position: "CO224", profile_url: "/students/e18/073/", profile_image: "https://people.ce.pdn.ac.lk/images/students/e18/e18073.jpg", link: "#" }
