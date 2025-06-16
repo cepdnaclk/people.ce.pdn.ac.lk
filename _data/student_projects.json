@@ -13758,6 +13758,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Automated-Hydroponic-System/"
         },
         {
+            "title": "Predicting Cybersecurity Attacks Using Compound Analysis with Classification Algorithms",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms",
+            "page_url": "https://cepdnaclk.github.io/e19-4yp-Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms/"
+        },
+        {
             "title": "Engineering Education Unit",
             "category": {
                 "code": "co227",
@@ -19812,21 +19825,6 @@
             "page_url": "https://cepdnaclk.github.io/e20-co543-real-time-shadow-removal-from-images",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/real-time-shadow-removal-from-images/"
-        }
-    ],
-    "E19266@ENG.PDN.AC.LK": [
-        {
-            "title": "Predicting Cybersecurity Attacks Using Compound Analysis with Classification Algorithms",
-            "category": {
-                "code": "4yp",
-                "title": "Undergraduate Research Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms/",
-            "repo_url": "https://github.com/cepdnaclk/e19-4yp-Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms",
-            "page_url": "https://cepdnaclk.github.io/e19-4yp-Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Predicting-Cybersecurity-Attacks-Using-Compound-Analysis-with-Classification-Algorithms/"
         }
     ]
 }

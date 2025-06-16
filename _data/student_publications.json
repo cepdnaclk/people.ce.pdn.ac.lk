@@ -871,6 +871,351 @@
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185206/index.json"
         }
     ],
+    "E/14/154": [
+        {
+            "title": "Genetic features of Sri Lankan elephant, Elephas maximus maximus Linnaeus revealed by high throughput sequencing of mitogenome and ddRAD-seq",
+            "venue": "PLOS One",
+            "year": "2023",
+            "authors": [
+                "MGC Sooriyabandara",
+                "JMSM Jayasundara",
+                "MSLRP Marasinghe",
+                "HABM Hathurusinghe",
+                "AU Bandaranayake",
+                "KANC Jayawardane",
+                "RMR Nilanthi",
+                "RC Rajapakse",
+                "PCG Bandaranayake"
+            ],
+            "author_info": [
+                {
+                    "name": "MGC Sooriyabandara",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "JMSM Jayasundara",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/154/",
+                    "type": "STUDENT",
+                    "id": "E/14/154",
+                    "email": "jmshyaman@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14154.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/154/"
+                },
+                {
+                    "name": "MSLRP Marasinghe",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "HABM Hathurusinghe",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "AU Bandaranayake",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                    "type": "STAFF",
+                    "id": "asithab",
+                    "email": "asithab@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake-sq.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+                },
+                {
+                    "name": "KANC Jayawardane",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "RMR Nilanthi",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "RC Rajapakse",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "PCG Bandaranayake",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1371/journal.pone.0285572",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0285572&type=printable",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "Eco-System Conservation Management Project (ESCAMP) of the World Bank [through Department of Wildlife Conservation (DWC)]",
+            "tags": [],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pone.0285572/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1371/journal.pone.0285572/index.json"
+        },
+        {
+            "title": "A unique single nucleotide polymorphism in Agouti Signalling Protein (ASIP) gene changes coat colour of Sri Lankan leopard (Panthera pardus kotiya) to dark black",
+            "venue": "PLOS One",
+            "year": "2023",
+            "authors": [
+                "M. G. C. Sooriyabandara",
+                "A. U. Bandaranayake",
+                "H. A. B. M. Hathurusinghe",
+                "S. M. Jayasundara",
+                "M. S. R. R. P. Marasinghe",
+                "G. A. T. Prasad",
+                "V. P. M. K. Abeywardana",
+                "M. A. Pinidiya",
+                "R. M. R. Nilanthi",
+                "P. C. G. Bandaranayake"
+            ],
+            "author_info": [
+                {
+                    "name": "M. G. C. Sooriyabandara",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "A. U. Bandaranayake",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                    "type": "STAFF",
+                    "id": "asithab",
+                    "email": "asithab@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake-sq.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+                },
+                {
+                    "name": "H. A. B. M. Hathurusinghe",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "S. M. Jayasundara",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/154/",
+                    "type": "STUDENT",
+                    "id": "E/14/154",
+                    "email": "jmshyaman@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14154.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/154/"
+                },
+                {
+                    "name": "M. S. R. R. P. Marasinghe",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "G. A. T. Prasad",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "V. P. M. K. Abeywardana",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "M. A. Pinidiya",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "R. M. R. Nilanthi",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "P. C. G. Bandaranayake",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1371/journal.pone.0269967",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0269967&type=printable",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "Eco-System Conservation Management Project (ESCAMP) of the World Bank through the Department of Wildlife Conservation (DWC)",
+            "tags": [],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pone.0269967/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1371/journal.pone.0269967/index.json"
+        },
+        {
+            "title": "Chloroplast genome, nuclear ITS regions, mitogenome regions, and Skmer analysis resolved the genetic relationship among Cinnamomum species in Sri Lanka",
+            "venue": "PLOS One",
+            "year": "2023",
+            "authors": [
+                "Pradeepa CG Bandaranayake",
+                "Nathasha Naranpanawa",
+                "CHWMR Bhagya Chandrasekara",
+                "Hiruna Samarakoon",
+                "S Lokuge",
+                "S Jayasundara",
+                "Asitha U Bandaranayake",
+                "DKNG Pushpakumara",
+                "D Siril A Wijesundara"
+            ],
+            "author_info": [
+                {
+                    "name": "Pradeepa CG Bandaranayake",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Nathasha Naranpanawa",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "CHWMR Bhagya Chandrasekara",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Hiruna Samarakoon",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/302/",
+                    "type": "STUDENT",
+                    "id": "E/14/302",
+                    "email": "e14302@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
+                },
+                {
+                    "name": "S Lokuge",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/194/",
+                    "type": "STUDENT",
+                    "id": "E/14/194",
+                    "email": "e14194@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14194.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/194/"
+                },
+                {
+                    "name": "S Jayasundara",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/154/",
+                    "type": "STUDENT",
+                    "id": "E/14/154",
+                    "email": "jmshyaman@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14154.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/154/"
+                },
+                {
+                    "name": "Asitha U Bandaranayake",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                    "type": "STAFF",
+                    "id": "asithab",
+                    "email": "asithab@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake-sq.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+                },
+                {
+                    "name": "DKNG Pushpakumara",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "D Siril A Wijesundara",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1371/journal.pone.0291763",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0291763&type=printable",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "National Science Foundation (NSF SP/CIN/2016/01)",
+            "tags": [],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pone.0291763/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1371/journal.pone.0291763/index.json"
+        }
+    ],
     "E/14/158": [
         {
             "title": "A Retinex based GAN Pipeline to Utilize Paired and Unpaired Datasets for Enhancing Low Light Images",
@@ -1442,6 +1787,117 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pone.0278440/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1371/journal.pone.0278440/index.json"
+        },
+        {
+            "title": "Chloroplast genome, nuclear ITS regions, mitogenome regions, and Skmer analysis resolved the genetic relationship among Cinnamomum species in Sri Lanka",
+            "venue": "PLOS One",
+            "year": "2023",
+            "authors": [
+                "Pradeepa CG Bandaranayake",
+                "Nathasha Naranpanawa",
+                "CHWMR Bhagya Chandrasekara",
+                "Hiruna Samarakoon",
+                "S Lokuge",
+                "S Jayasundara",
+                "Asitha U Bandaranayake",
+                "DKNG Pushpakumara",
+                "D Siril A Wijesundara"
+            ],
+            "author_info": [
+                {
+                    "name": "Pradeepa CG Bandaranayake",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Nathasha Naranpanawa",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "CHWMR Bhagya Chandrasekara",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Hiruna Samarakoon",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/302/",
+                    "type": "STUDENT",
+                    "id": "E/14/302",
+                    "email": "e14302@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
+                },
+                {
+                    "name": "S Lokuge",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/194/",
+                    "type": "STUDENT",
+                    "id": "E/14/194",
+                    "email": "e14194@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14194.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/194/"
+                },
+                {
+                    "name": "S Jayasundara",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/154/",
+                    "type": "STUDENT",
+                    "id": "E/14/154",
+                    "email": "jmshyaman@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14154.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/154/"
+                },
+                {
+                    "name": "Asitha U Bandaranayake",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                    "type": "STAFF",
+                    "id": "asithab",
+                    "email": "asithab@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake-sq.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+                },
+                {
+                    "name": "DKNG Pushpakumara",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "D Siril A Wijesundara",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1371/journal.pone.0291763",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0291763&type=printable",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "National Science Foundation (NSF SP/CIN/2016/01)",
+            "tags": [],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pone.0291763/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1371/journal.pone.0291763/index.json"
         }
     ],
     "E/14/237": [
@@ -1873,6 +2329,117 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1186/s12859-020-03697-x/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1186/s12859-020-03697-x/index.json"
+        },
+        {
+            "title": "Chloroplast genome, nuclear ITS regions, mitogenome regions, and Skmer analysis resolved the genetic relationship among Cinnamomum species in Sri Lanka",
+            "venue": "PLOS One",
+            "year": "2023",
+            "authors": [
+                "Pradeepa CG Bandaranayake",
+                "Nathasha Naranpanawa",
+                "CHWMR Bhagya Chandrasekara",
+                "Hiruna Samarakoon",
+                "S Lokuge",
+                "S Jayasundara",
+                "Asitha U Bandaranayake",
+                "DKNG Pushpakumara",
+                "D Siril A Wijesundara"
+            ],
+            "author_info": [
+                {
+                    "name": "Pradeepa CG Bandaranayake",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Nathasha Naranpanawa",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "CHWMR Bhagya Chandrasekara",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Hiruna Samarakoon",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/302/",
+                    "type": "STUDENT",
+                    "id": "E/14/302",
+                    "email": "e14302@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14302.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/302/"
+                },
+                {
+                    "name": "S Lokuge",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/194/",
+                    "type": "STUDENT",
+                    "id": "E/14/194",
+                    "email": "e14194@ce.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14194.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/194/"
+                },
+                {
+                    "name": "S Jayasundara",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e14/154/",
+                    "type": "STUDENT",
+                    "id": "E/14/154",
+                    "email": "jmshyaman@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e14/e14154.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e14/154/"
+                },
+                {
+                    "name": "Asitha U Bandaranayake",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                    "type": "STAFF",
+                    "id": "asithab",
+                    "email": "asithab@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake-sq.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+                },
+                {
+                    "name": "DKNG Pushpakumara",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "D Siril A Wijesundara",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.1371/journal.pone.0291763",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0291763&type=printable",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "National Science Foundation (NSF SP/CIN/2016/01)",
+            "tags": [],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pone.0291763/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1371/journal.pone.0291763/index.json"
         }
     ],
     "E/14/339": [
@@ -3324,6 +3891,739 @@
             ],
             "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAfS52090.2021.9606126/",
             "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAfS52090.2021.9606126/index.json"
+        }
+    ],
+    "E/16/057": [
+        {
+            "title": "Semantic segmentation using Vision Transformers: A survey",
+            "venue": "Engineering Applications of Artificial Intelligence",
+            "year": "2023",
+            "authors": [
+                "Hans Thisanke",
+                "Chamli Deshan",
+                "Kavindu Chamith",
+                "Sachith Seneviratne",
+                "Rajith Vidanaarachchi",
+                "Damayanthi Herath"
+            ],
+            "author_info": [
+                {
+                    "name": "Hans Thisanke",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e16/368/",
+                    "type": "STUDENT",
+                    "id": "E/16/368",
+                    "email": "e16368@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16368.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e16/368/"
+                },
+                {
+                    "name": "Chamli Deshan",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e16/076/",
+                    "type": "STUDENT",
+                    "id": "E/16/076",
+                    "email": "e16076@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16076.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e16/076/"
+                },
+                {
+                    "name": "Kavindu Chamith",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e16/057/",
+                    "type": "STUDENT",
+                    "id": "E/16/057",
+                    "email": "e16057@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16057.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e16/057/"
+                },
+                {
+                    "name": "Sachith Seneviratne",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Rajith Vidanaarachchi",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Damayanthi Herath",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/"
+                }
+            ],
+            "doi": "https://doi.org/10.1016/j.engappai.2023.106669",
+            "is_dept_affiliated": true,
+            "preprint": "https://arxiv.org/pdf/2305.03273",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/",
+            "codebase": "https://github.com/cepdnaclk/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "vision transformer",
+                "semantic segmentation",
+                "review",
+                "survey",
+                "convolution neural networks",
+                "self-supervised learning",
+                "deep learning"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1016/j.engappai.2023.106669/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1016/j.engappai.2023.106669/index.json"
+        }
+    ],
+    "E/16/076": [
+        {
+            "title": "Semantic segmentation using Vision Transformers: A survey",
+            "venue": "Engineering Applications of Artificial Intelligence",
+            "year": "2023",
+            "authors": [
+                "Hans Thisanke",
+                "Chamli Deshan",
+                "Kavindu Chamith",
+                "Sachith Seneviratne",
+                "Rajith Vidanaarachchi",
+                "Damayanthi Herath"
+            ],
+            "author_info": [
+                {
+                    "name": "Hans Thisanke",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e16/368/",
+                    "type": "STUDENT",
+                    "id": "E/16/368",
+                    "email": "e16368@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16368.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e16/368/"
+                },
+                {
+                    "name": "Chamli Deshan",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e16/076/",
+                    "type": "STUDENT",
+                    "id": "E/16/076",
+                    "email": "e16076@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16076.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e16/076/"
+                },
+                {
+                    "name": "Kavindu Chamith",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e16/057/",
+                    "type": "STUDENT",
+                    "id": "E/16/057",
+                    "email": "e16057@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16057.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e16/057/"
+                },
+                {
+                    "name": "Sachith Seneviratne",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Rajith Vidanaarachchi",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Damayanthi Herath",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/"
+                }
+            ],
+            "doi": "https://doi.org/10.1016/j.engappai.2023.106669",
+            "is_dept_affiliated": true,
+            "preprint": "https://arxiv.org/pdf/2305.03273",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/",
+            "codebase": "https://github.com/cepdnaclk/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "vision transformer",
+                "semantic segmentation",
+                "review",
+                "survey",
+                "convolution neural networks",
+                "self-supervised learning",
+                "deep learning"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1016/j.engappai.2023.106669/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1016/j.engappai.2023.106669/index.json"
+        }
+    ],
+    "E/16/368": [
+        {
+            "title": "Semantic segmentation using Vision Transformers: A survey",
+            "venue": "Engineering Applications of Artificial Intelligence",
+            "year": "2023",
+            "authors": [
+                "Hans Thisanke",
+                "Chamli Deshan",
+                "Kavindu Chamith",
+                "Sachith Seneviratne",
+                "Rajith Vidanaarachchi",
+                "Damayanthi Herath"
+            ],
+            "author_info": [
+                {
+                    "name": "Hans Thisanke",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e16/368/",
+                    "type": "STUDENT",
+                    "id": "E/16/368",
+                    "email": "e16368@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16368.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e16/368/"
+                },
+                {
+                    "name": "Chamli Deshan",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e16/076/",
+                    "type": "STUDENT",
+                    "id": "E/16/076",
+                    "email": "e16076@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16076.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e16/076/"
+                },
+                {
+                    "name": "Kavindu Chamith",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e16/057/",
+                    "type": "STUDENT",
+                    "id": "E/16/057",
+                    "email": "e16057@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e16/e16057.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e16/057/"
+                },
+                {
+                    "name": "Sachith Seneviratne",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Rajith Vidanaarachchi",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Damayanthi Herath",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/",
+                    "type": "STAFF",
+                    "id": "damayanthiherath",
+                    "email": "damayanthiherath@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/damayanthi-herath.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/damayanthi-herath/"
+                }
+            ],
+            "doi": "https://doi.org/10.1016/j.engappai.2023.106669",
+            "is_dept_affiliated": true,
+            "preprint": "https://arxiv.org/pdf/2305.03273",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/",
+            "codebase": "https://github.com/cepdnaclk/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
+            "researchgroups": [
+                "Computer Vision"
+            ],
+            "funding": "",
+            "tags": [
+                "vision transformer",
+                "semantic segmentation",
+                "review",
+                "survey",
+                "convolution neural networks",
+                "self-supervised learning",
+                "deep learning"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1016/j.engappai.2023.106669/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1016/j.engappai.2023.106669/index.json"
+        }
+    ],
+    "E/17/230": [
+        {
+            "title": "ViT-RoT: Vision Transformer-Based Robust Framework for Tomato Leaf Disease Recognition",
+            "venue": "AgriEngineering (MDPI) Journal",
+            "year": "2025",
+            "authors": [
+                "Sathiyamohan Nishankar",
+                "Velalagan Pavindran",
+                "Thurairatnam Mithuran",
+                "Sivaraj Nimishan",
+                "Selvarajah Thuseethan",
+                "Yakub Sebastian"
+            ],
+            "author_info": [
+                {
+                    "name": "Sathiyamohan Nishankar",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e17/230/",
+                    "type": "STUDENT",
+                    "id": "E/17/230",
+                    "email": "e17230@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17230.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e17/230/"
+                },
+                {
+                    "name": "Velalagan Pavindran",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e21/283/",
+                    "type": "STUDENT",
+                    "id": "E/21/283",
+                    "email": "e21283@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21283.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e21/283/"
+                },
+                {
+                    "name": "Thurairatnam Mithuran",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Sivaraj Nimishan",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Selvarajah Thuseethan",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Yakub Sebastian",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.3390/agriengineering7060185",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Vision Transformer (ViT)",
+                "Plant Disease Detection",
+                "Deep Learning",
+                "ViT-RoT Framework",
+                "Precision Agriculture"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/agriengineering7060185/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/agriengineering7060185/index.json"
+        }
+    ],
+    "E/18/181": [
+        {
+            "title": "Prediction of Dengue Outbreaks in Sri Lanka Using Machine Learning Techniques",
+            "venue": "Sri Lanka Journal of Medicine",
+            "year": "2025",
+            "authors": [
+                "HU Uduwanage",
+                "KMSL Konara",
+                "GDR Mihiranga",
+                "SN Karunarathna",
+                "F Noordeen",
+                "I Ekanayake"
+            ],
+            "author_info": [
+                {
+                    "name": "HU Uduwanage",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e18/368/",
+                    "type": "STUDENT",
+                    "id": "E/18/368",
+                    "email": "e18368@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18368.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e18/368/"
+                },
+                {
+                    "name": "KMSL Konara",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e18/181/",
+                    "type": "STUDENT",
+                    "id": "E/18/181",
+                    "email": "e18181@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18181.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e18/181/"
+                },
+                {
+                    "name": "GDR Mihiranga",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e18/224/",
+                    "type": "STUDENT",
+                    "id": "E/18/224",
+                    "email": "e18224@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18224.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e18/224/"
+                },
+                {
+                    "name": "SN Karunarathna",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/",
+                    "type": "STAFF",
+                    "id": "namal",
+                    "email": "namal@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/"
+                },
+                {
+                    "name": "F Noordeen",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "I Ekanayake",
+                    "profile": "https://people.ce.pdn.ac.lk//students/e15/092",
+                    "type": "STAFF",
+                    "id": "imeshuek",
+                    "email": "imeshuek@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/imesh.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk//students/e15/092"
+                }
+            ],
+            "doi": "https://sljm.sljol.info/articles/10.4038/sljm.v34i1.568",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "https://sljm.sljol.info/articles/568/files/68060c4a7bc38.pdf",
+            "presentation": "https://gamma.app/docs/FYP-Forecasting-Dengue-Outbreaks-in-Sri-Lanka-q0tby8ocrsu3brh?mode=doc",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/",
+            "codebase": "https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+            "researchgroups": [
+                "Computational BioEngineering",
+                "Machine Learning and Data Mining"
+            ],
+            "funding": "",
+            "tags": [
+                "Dengue",
+                "Dengue outbreak prediction",
+                "Machine learning",
+                "Early warning system",
+                "Time series forecasting"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/sljm.sljol.info/articles/10.4038/sljm.v34i1.568/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/sljm.sljol.info/articles/10.4038/sljm.v34i1.568/index.json"
+        }
+    ],
+    "E/18/224": [
+        {
+            "title": "Prediction of Dengue Outbreaks in Sri Lanka Using Machine Learning Techniques",
+            "venue": "Sri Lanka Journal of Medicine",
+            "year": "2025",
+            "authors": [
+                "HU Uduwanage",
+                "KMSL Konara",
+                "GDR Mihiranga",
+                "SN Karunarathna",
+                "F Noordeen",
+                "I Ekanayake"
+            ],
+            "author_info": [
+                {
+                    "name": "HU Uduwanage",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e18/368/",
+                    "type": "STUDENT",
+                    "id": "E/18/368",
+                    "email": "e18368@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18368.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e18/368/"
+                },
+                {
+                    "name": "KMSL Konara",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e18/181/",
+                    "type": "STUDENT",
+                    "id": "E/18/181",
+                    "email": "e18181@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18181.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e18/181/"
+                },
+                {
+                    "name": "GDR Mihiranga",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e18/224/",
+                    "type": "STUDENT",
+                    "id": "E/18/224",
+                    "email": "e18224@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18224.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e18/224/"
+                },
+                {
+                    "name": "SN Karunarathna",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/",
+                    "type": "STAFF",
+                    "id": "namal",
+                    "email": "namal@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/"
+                },
+                {
+                    "name": "F Noordeen",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "I Ekanayake",
+                    "profile": "https://people.ce.pdn.ac.lk//students/e15/092",
+                    "type": "STAFF",
+                    "id": "imeshuek",
+                    "email": "imeshuek@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/imesh.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk//students/e15/092"
+                }
+            ],
+            "doi": "https://sljm.sljol.info/articles/10.4038/sljm.v34i1.568",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "https://sljm.sljol.info/articles/568/files/68060c4a7bc38.pdf",
+            "presentation": "https://gamma.app/docs/FYP-Forecasting-Dengue-Outbreaks-in-Sri-Lanka-q0tby8ocrsu3brh?mode=doc",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/",
+            "codebase": "https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+            "researchgroups": [
+                "Computational BioEngineering",
+                "Machine Learning and Data Mining"
+            ],
+            "funding": "",
+            "tags": [
+                "Dengue",
+                "Dengue outbreak prediction",
+                "Machine learning",
+                "Early warning system",
+                "Time series forecasting"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/sljm.sljol.info/articles/10.4038/sljm.v34i1.568/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/sljm.sljol.info/articles/10.4038/sljm.v34i1.568/index.json"
+        }
+    ],
+    "E/18/368": [
+        {
+            "title": "Prediction of Dengue Outbreaks in Sri Lanka Using Machine Learning Techniques",
+            "venue": "Sri Lanka Journal of Medicine",
+            "year": "2025",
+            "authors": [
+                "HU Uduwanage",
+                "KMSL Konara",
+                "GDR Mihiranga",
+                "SN Karunarathna",
+                "F Noordeen",
+                "I Ekanayake"
+            ],
+            "author_info": [
+                {
+                    "name": "HU Uduwanage",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e18/368/",
+                    "type": "STUDENT",
+                    "id": "E/18/368",
+                    "email": "e18368@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18368.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e18/368/"
+                },
+                {
+                    "name": "KMSL Konara",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e18/181/",
+                    "type": "STUDENT",
+                    "id": "E/18/181",
+                    "email": "e18181@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18181.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e18/181/"
+                },
+                {
+                    "name": "GDR Mihiranga",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e18/224/",
+                    "type": "STUDENT",
+                    "id": "E/18/224",
+                    "email": "e18224@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18224.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e18/224/"
+                },
+                {
+                    "name": "SN Karunarathna",
+                    "profile": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/",
+                    "type": "STAFF",
+                    "id": "namal",
+                    "email": "namal@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/suneth-namal-karunarathna.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/suneth-namal-karunarathna/"
+                },
+                {
+                    "name": "F Noordeen",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "I Ekanayake",
+                    "profile": "https://people.ce.pdn.ac.lk//students/e15/092",
+                    "type": "STAFF",
+                    "id": "imeshuek",
+                    "email": "imeshuek@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/imesh.png",
+                    "profile_url": "https://people.ce.pdn.ac.lk//students/e15/092"
+                }
+            ],
+            "doi": "https://sljm.sljol.info/articles/10.4038/sljm.v34i1.568",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "https://sljm.sljol.info/articles/568/files/68060c4a7bc38.pdf",
+            "presentation": "https://gamma.app/docs/FYP-Forecasting-Dengue-Outbreaks-in-Sri-Lanka-q0tby8ocrsu3brh?mode=doc",
+            "project": "https://projects.ce.pdn.ac.lk/4yp/e18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/",
+            "codebase": "https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+            "researchgroups": [
+                "Computational BioEngineering",
+                "Machine Learning and Data Mining"
+            ],
+            "funding": "",
+            "tags": [
+                "Dengue",
+                "Dengue outbreak prediction",
+                "Machine learning",
+                "Early warning system",
+                "Time series forecasting"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/sljm.sljol.info/articles/10.4038/sljm.v34i1.568/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/sljm.sljol.info/articles/10.4038/sljm.v34i1.568/index.json"
+        }
+    ],
+    "E/21/283": [
+        {
+            "title": "ViT-RoT: Vision Transformer-Based Robust Framework for Tomato Leaf Disease Recognition",
+            "venue": "AgriEngineering (MDPI) Journal",
+            "year": "2025",
+            "authors": [
+                "Sathiyamohan Nishankar",
+                "Velalagan Pavindran",
+                "Thurairatnam Mithuran",
+                "Sivaraj Nimishan",
+                "Selvarajah Thuseethan",
+                "Yakub Sebastian"
+            ],
+            "author_info": [
+                {
+                    "name": "Sathiyamohan Nishankar",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e17/230/",
+                    "type": "STUDENT",
+                    "id": "E/17/230",
+                    "email": "e17230@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17230.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e17/230/"
+                },
+                {
+                    "name": "Velalagan Pavindran",
+                    "profile": "https://people.ce.pdn.ac.lk/students/e21/283/",
+                    "type": "STUDENT",
+                    "id": "E/21/283",
+                    "email": "e21283@eng.pdn.ac.lk",
+                    "profile_image": "https://people.ce.pdn.ac.lk/images/students/e21/e21283.jpg",
+                    "profile_url": "https://people.ce.pdn.ac.lk/students/e21/283/"
+                },
+                {
+                    "name": "Thurairatnam Mithuran",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Sivaraj Nimishan",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Selvarajah Thuseethan",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                },
+                {
+                    "name": "Yakub Sebastian",
+                    "profile": "#",
+                    "type": "OUTSIDER",
+                    "id": "",
+                    "email": "",
+                    "profile_image": "#",
+                    "profile_url": "#"
+                }
+            ],
+            "doi": "https://doi.org/10.3390/agriengineering7060185",
+            "is_dept_affiliated": true,
+            "preprint": "#",
+            "pdf": "#",
+            "presentation": "#",
+            "project": "#",
+            "codebase": "#",
+            "researchgroups": [],
+            "funding": "",
+            "tags": [
+                "Vision Transformer (ViT)",
+                "Plant Disease Detection",
+                "Deep Learning",
+                "ViT-RoT Framework",
+                "Precision Agriculture"
+            ],
+            "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/agriengineering7060185/",
+            "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/agriengineering7060185/index.json"
         }
     ]
 }
