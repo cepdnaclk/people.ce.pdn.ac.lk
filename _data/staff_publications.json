@@ -866,9 +866,113 @@
         }
     },
     "asithab@eng.pdn.ac.lk": {
-        "publication_count": 9,
-        "year_count": 6,
+        "publication_count": 11,
+        "year_count": 7,
         "publications": {
+            "2025": [
+                {
+                    "title": "Analyzing and Predicting the Volatile Market Patterns for Trading in International Markets Using a Digital Twin",
+                    "venue": "International Conference on Asia Pacific Advanced Network (APANConf 2024)",
+                    "year": "2025",
+                    "authors": [
+                        "Ishta H Jayakody",
+                        "Mahela Bandara",
+                        "Asitha U Bandaranayake"
+                    ],
+                    "author_info": [
+                        {
+                            "name": "Ishta H Jayakody",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/149/",
+                            "type": "STUDENT",
+                            "id": "E/18/149",
+                            "email": "e18149@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18149.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/149/"
+                        },
+                        {
+                            "name": "Mahela Bandara",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/036/",
+                            "type": "STUDENT",
+                            "id": "E/18/036",
+                            "email": "e18036@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18036.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/036/"
+                        },
+                        {
+                            "name": "Asitha U Bandaranayake",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                            "type": "STAFF",
+                            "id": "asithab",
+                            "email": "asithab@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake-sq.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1007/978-3-031-89813-6_9",
+                    "is_dept_affiliated": true,
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e18/Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/",
+                    "codebase": "#",
+                    "researchgroups": [],
+                    "funding": "",
+                    "tags": [],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/978-3-031-89813-6_9/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/978-3-031-89813-6_9/index.json"
+                },
+                {
+                    "title": "Analyzing and Predicting the Volatile Market Patterns for Trading in International Markets Using a Digital Twin",
+                    "venue": "International Conference on Asia Pacific Advanced Network (APANConf 2024)",
+                    "year": "2025",
+                    "authors": [
+                        "Ishta H Jayakody",
+                        "Mahela Bandara",
+                        "Asitha U Bandaranayake"
+                    ],
+                    "author_info": [
+                        {
+                            "name": "Ishta H Jayakody",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/149/",
+                            "type": "STUDENT",
+                            "id": "E/18/149",
+                            "email": "e18149@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18149.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/149/"
+                        },
+                        {
+                            "name": "Mahela Bandara",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/036/",
+                            "type": "STUDENT",
+                            "id": "E/18/036",
+                            "email": "e18036@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18036.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/036/"
+                        },
+                        {
+                            "name": "Asitha U Bandaranayake",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/",
+                            "type": "STAFF",
+                            "id": "asithab",
+                            "email": "asithab@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/asitha-bandaranayake-sq.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/asitha-bandaranayake/"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1007/978-3-031-89813-6_9",
+                    "is_dept_affiliated": true,
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "#",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e18/Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/",
+                    "codebase": "#",
+                    "researchgroups": [],
+                    "funding": "",
+                    "tags": [],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1007/978-3-031-89813-6_9/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1007/978-3-031-89813-6_9/index.json"
+                }
+            ],
             "2023": [
                 {
                     "title": "Internet of things (IoT) for smart agriculture: Assembling and assessment of a low-cost IoT system for polytunnels",
@@ -3897,6 +4001,115 @@
             ]
         }
     },
+    "e17190@eng.pdn.ac.lk": {
+        "publication_count": 1,
+        "year_count": 1,
+        "publications": {
+            "2025": [
+                {
+                    "title": "A Comparative Study on Generalized Automated Medical Image Segmentation for Dataset Building",
+                    "venue": "2025 5th International Conference on Advanced Research in Computing (ICARC)",
+                    "year": "2025",
+                    "authors": [
+                        "Nishani Kasineshan",
+                        "Vithurshini Subramanieam",
+                        "Thulasiyan Yogeswaran",
+                        "Sashini Liyanage",
+                        "Isuri Devindi",
+                        "Roshan G. Ragel",
+                        "Vajira Thambawita",
+                        "Isuru Nawinne"
+                    ],
+                    "author_info": [
+                        {
+                            "name": "Nishani Kasineshan",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/245/",
+                            "type": "STUDENT",
+                            "id": "E/18/245",
+                            "email": "e18245@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18245.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/245/"
+                        },
+                        {
+                            "name": "Vithurshini Subramanieam",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/340/",
+                            "type": "STUDENT",
+                            "id": "E/18/340",
+                            "email": "e18340@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18340.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/340/"
+                        },
+                        {
+                            "name": "Thulasiyan Yogeswaran",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/366/",
+                            "type": "STUDENT",
+                            "id": "E/18/366",
+                            "email": "e18366@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18366.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/366/"
+                        },
+                        {
+                            "name": "Sashini Liyanage",
+                            "profile": "https://people.ce.pdn.ac.lk//students/e17/190",
+                            "type": "STAFF",
+                            "id": "e17190",
+                            "email": "e17190@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/sashini.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk//students/e17/190"
+                        },
+                        {
+                            "name": "Isuri Devindi",
+                            "profile": "https://people.ce.pdn.ac.lk//students/e17/058",
+                            "type": "STAFF",
+                            "id": "isurid",
+                            "email": "isurid@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/isuri.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk//students/e17/058"
+                        },
+                        {
+                            "name": "Roshan G. Ragel",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                            "type": "STAFF",
+                            "id": "roshanr",
+                            "email": "roshanr@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                        },
+                        {
+                            "name": "Vajira Thambawita",
+                            "profile": "#",
+                            "type": "OUTSIDER",
+                            "id": "",
+                            "email": "",
+                            "profile_image": "#",
+                            "profile_url": "#"
+                        },
+                        {
+                            "name": "Isuru Nawinne",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                            "type": "STAFF",
+                            "id": "isurunawinne",
+                            "email": "isurunawinne@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1109/ICARC64760.2025.10963209",
+                    "is_dept_affiliated": true,
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "https://docs.google.com/presentation/d/1DkLqAkhmkS3W8LeAGbo-FGcpYn9kMrSI/edit?usp=sharing&ouid=114988696377185749026&rtpof=true&sd=true",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-Medical-Image-Annotation-for-Dataset-Building/",
+                    "codebase": "https://github.com/cepdnaclk/e18-4yp-Automated-Medical-Image-Annotation-for-Dataset-Building",
+                    "researchgroups": [],
+                    "funding": "",
+                    "tags": [],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC64760.2025.10963209/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC64760.2025.10963209/index.json"
+                }
+            ]
+        }
+    },
     "imeshuek@eng.pdn.ac.lk": {
         "publication_count": 1,
         "year_count": 1,
@@ -3995,10 +4208,286 @@
             ]
         }
     },
-    "isurunawinne@eng.pdn.ac.lk": {
-        "publication_count": 7,
-        "year_count": 5,
+    "isurid@eng.pdn.ac.lk": {
+        "publication_count": 1,
+        "year_count": 1,
         "publications": {
+            "2025": [
+                {
+                    "title": "A Comparative Study on Generalized Automated Medical Image Segmentation for Dataset Building",
+                    "venue": "2025 5th International Conference on Advanced Research in Computing (ICARC)",
+                    "year": "2025",
+                    "authors": [
+                        "Nishani Kasineshan",
+                        "Vithurshini Subramanieam",
+                        "Thulasiyan Yogeswaran",
+                        "Sashini Liyanage",
+                        "Isuri Devindi",
+                        "Roshan G. Ragel",
+                        "Vajira Thambawita",
+                        "Isuru Nawinne"
+                    ],
+                    "author_info": [
+                        {
+                            "name": "Nishani Kasineshan",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/245/",
+                            "type": "STUDENT",
+                            "id": "E/18/245",
+                            "email": "e18245@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18245.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/245/"
+                        },
+                        {
+                            "name": "Vithurshini Subramanieam",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/340/",
+                            "type": "STUDENT",
+                            "id": "E/18/340",
+                            "email": "e18340@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18340.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/340/"
+                        },
+                        {
+                            "name": "Thulasiyan Yogeswaran",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/366/",
+                            "type": "STUDENT",
+                            "id": "E/18/366",
+                            "email": "e18366@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18366.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/366/"
+                        },
+                        {
+                            "name": "Sashini Liyanage",
+                            "profile": "https://people.ce.pdn.ac.lk//students/e17/190",
+                            "type": "STAFF",
+                            "id": "e17190",
+                            "email": "e17190@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/sashini.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk//students/e17/190"
+                        },
+                        {
+                            "name": "Isuri Devindi",
+                            "profile": "https://people.ce.pdn.ac.lk//students/e17/058",
+                            "type": "STAFF",
+                            "id": "isurid",
+                            "email": "isurid@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/isuri.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk//students/e17/058"
+                        },
+                        {
+                            "name": "Roshan G. Ragel",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                            "type": "STAFF",
+                            "id": "roshanr",
+                            "email": "roshanr@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                        },
+                        {
+                            "name": "Vajira Thambawita",
+                            "profile": "#",
+                            "type": "OUTSIDER",
+                            "id": "",
+                            "email": "",
+                            "profile_image": "#",
+                            "profile_url": "#"
+                        },
+                        {
+                            "name": "Isuru Nawinne",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                            "type": "STAFF",
+                            "id": "isurunawinne",
+                            "email": "isurunawinne@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1109/ICARC64760.2025.10963209",
+                    "is_dept_affiliated": true,
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "https://docs.google.com/presentation/d/1DkLqAkhmkS3W8LeAGbo-FGcpYn9kMrSI/edit?usp=sharing&ouid=114988696377185749026&rtpof=true&sd=true",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-Medical-Image-Annotation-for-Dataset-Building/",
+                    "codebase": "https://github.com/cepdnaclk/e18-4yp-Automated-Medical-Image-Annotation-for-Dataset-Building",
+                    "researchgroups": [],
+                    "funding": "",
+                    "tags": [],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC64760.2025.10963209/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC64760.2025.10963209/index.json"
+                }
+            ]
+        }
+    },
+    "isurunawinne@eng.pdn.ac.lk": {
+        "publication_count": 9,
+        "year_count": 7,
+        "publications": {
+            "2025": [
+                {
+                    "title": "A Comparative Study on Generalized Automated Medical Image Segmentation for Dataset Building",
+                    "venue": "2025 5th International Conference on Advanced Research in Computing (ICARC)",
+                    "year": "2025",
+                    "authors": [
+                        "Nishani Kasineshan",
+                        "Vithurshini Subramanieam",
+                        "Thulasiyan Yogeswaran",
+                        "Sashini Liyanage",
+                        "Isuri Devindi",
+                        "Roshan G. Ragel",
+                        "Vajira Thambawita",
+                        "Isuru Nawinne"
+                    ],
+                    "author_info": [
+                        {
+                            "name": "Nishani Kasineshan",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/245/",
+                            "type": "STUDENT",
+                            "id": "E/18/245",
+                            "email": "e18245@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18245.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/245/"
+                        },
+                        {
+                            "name": "Vithurshini Subramanieam",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/340/",
+                            "type": "STUDENT",
+                            "id": "E/18/340",
+                            "email": "e18340@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18340.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/340/"
+                        },
+                        {
+                            "name": "Thulasiyan Yogeswaran",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/366/",
+                            "type": "STUDENT",
+                            "id": "E/18/366",
+                            "email": "e18366@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18366.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/366/"
+                        },
+                        {
+                            "name": "Sashini Liyanage",
+                            "profile": "https://people.ce.pdn.ac.lk//students/e17/190",
+                            "type": "STAFF",
+                            "id": "e17190",
+                            "email": "e17190@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/sashini.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk//students/e17/190"
+                        },
+                        {
+                            "name": "Isuri Devindi",
+                            "profile": "https://people.ce.pdn.ac.lk//students/e17/058",
+                            "type": "STAFF",
+                            "id": "isurid",
+                            "email": "isurid@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/isuri.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk//students/e17/058"
+                        },
+                        {
+                            "name": "Roshan G. Ragel",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                            "type": "STAFF",
+                            "id": "roshanr",
+                            "email": "roshanr@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                        },
+                        {
+                            "name": "Vajira Thambawita",
+                            "profile": "#",
+                            "type": "OUTSIDER",
+                            "id": "",
+                            "email": "",
+                            "profile_image": "#",
+                            "profile_url": "#"
+                        },
+                        {
+                            "name": "Isuru Nawinne",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                            "type": "STAFF",
+                            "id": "isurunawinne",
+                            "email": "isurunawinne@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1109/ICARC64760.2025.10963209",
+                    "is_dept_affiliated": true,
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "https://docs.google.com/presentation/d/1DkLqAkhmkS3W8LeAGbo-FGcpYn9kMrSI/edit?usp=sharing&ouid=114988696377185749026&rtpof=true&sd=true",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-Medical-Image-Annotation-for-Dataset-Building/",
+                    "codebase": "https://github.com/cepdnaclk/e18-4yp-Automated-Medical-Image-Annotation-for-Dataset-Building",
+                    "researchgroups": [],
+                    "funding": "",
+                    "tags": [],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC64760.2025.10963209/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC64760.2025.10963209/index.json"
+                }
+            ],
+            "2024": [
+                {
+                    "title": "Optimized Multi-Processor System-on-Chip (MPSoC) Design for Low-Resource JPEG Encoding",
+                    "venue": "2024 6th International Conference on Advancements in Computing (ICAC)",
+                    "year": "2024",
+                    "authors": [
+                        "Kanishka Gunawardana",
+                        "Chandula Adhikari",
+                        "Isuru Nawinne"
+                    ],
+                    "author_info": [
+                        {
+                            "name": "Kanishka Gunawardana",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e19/129/",
+                            "type": "STUDENT",
+                            "id": "E/19/129",
+                            "email": "e19129@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19129.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/129/"
+                        },
+                        {
+                            "name": "Chandula Adhikari",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e19/008/",
+                            "type": "STUDENT",
+                            "id": "E/19/008",
+                            "email": "e19008@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e19/e19008.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e19/008/"
+                        },
+                        {
+                            "name": "Isuru Nawinne",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                            "type": "STAFF",
+                            "id": "isurunawinne",
+                            "email": "isurunawinne@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1109/ICAC64487.2024.10851123",
+                    "is_dept_affiliated": true,
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "https://docs.google.com/presentation/d/1HL9plLBTpVUnhCRvR60QFavVoz-p8put/edit?usp=sharing&ouid=102981076134475622858&rtpof=true&sd=true",
+                    "project": "#",
+                    "codebase": "#",
+                    "researchgroups": [],
+                    "funding": "",
+                    "tags": [
+                        "Image coding",
+                        "Quantization (signal)",
+                        "Pipelines",
+                        "Transform coding",
+                        "Computer architecture",
+                        "Throughput",
+                        "Hardware",
+                        "System-on-chip",
+                        "Discrete cosine transforms",
+                        "Optimization"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICAC64487.2024.10851123/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICAC64487.2024.10851123/index.json"
+                }
+            ],
             "2023": [
                 {
                     "title": "Mixed-Reality Based Multi-Agent Robotics Framework for Artificial Swarm Intelligence Experiments",
@@ -5559,9 +6048,112 @@
         }
     },
     "roshanr@eng.pdn.ac.lk": {
-        "publication_count": 45,
-        "year_count": 16,
+        "publication_count": 46,
+        "year_count": 17,
         "publications": {
+            "2025": [
+                {
+                    "title": "A Comparative Study on Generalized Automated Medical Image Segmentation for Dataset Building",
+                    "venue": "2025 5th International Conference on Advanced Research in Computing (ICARC)",
+                    "year": "2025",
+                    "authors": [
+                        "Nishani Kasineshan",
+                        "Vithurshini Subramanieam",
+                        "Thulasiyan Yogeswaran",
+                        "Sashini Liyanage",
+                        "Isuri Devindi",
+                        "Roshan G. Ragel",
+                        "Vajira Thambawita",
+                        "Isuru Nawinne"
+                    ],
+                    "author_info": [
+                        {
+                            "name": "Nishani Kasineshan",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/245/",
+                            "type": "STUDENT",
+                            "id": "E/18/245",
+                            "email": "e18245@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18245.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/245/"
+                        },
+                        {
+                            "name": "Vithurshini Subramanieam",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/340/",
+                            "type": "STUDENT",
+                            "id": "E/18/340",
+                            "email": "e18340@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18340.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/340/"
+                        },
+                        {
+                            "name": "Thulasiyan Yogeswaran",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/366/",
+                            "type": "STUDENT",
+                            "id": "E/18/366",
+                            "email": "e18366@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18366.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/366/"
+                        },
+                        {
+                            "name": "Sashini Liyanage",
+                            "profile": "https://people.ce.pdn.ac.lk//students/e17/190",
+                            "type": "STAFF",
+                            "id": "e17190",
+                            "email": "e17190@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/sashini.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk//students/e17/190"
+                        },
+                        {
+                            "name": "Isuri Devindi",
+                            "profile": "https://people.ce.pdn.ac.lk//students/e17/058",
+                            "type": "STAFF",
+                            "id": "isurid",
+                            "email": "isurid@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/isuri.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk//students/e17/058"
+                        },
+                        {
+                            "name": "Roshan G. Ragel",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                            "type": "STAFF",
+                            "id": "roshanr",
+                            "email": "roshanr@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                        },
+                        {
+                            "name": "Vajira Thambawita",
+                            "profile": "#",
+                            "type": "OUTSIDER",
+                            "id": "",
+                            "email": "",
+                            "profile_image": "#",
+                            "profile_url": "#"
+                        },
+                        {
+                            "name": "Isuru Nawinne",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                            "type": "STAFF",
+                            "id": "isurunawinne",
+                            "email": "isurunawinne@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1109/ICARC64760.2025.10963209",
+                    "is_dept_affiliated": true,
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "https://docs.google.com/presentation/d/1DkLqAkhmkS3W8LeAGbo-FGcpYn9kMrSI/edit?usp=sharing&ouid=114988696377185749026&rtpof=true&sd=true",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-Medical-Image-Annotation-for-Dataset-Building/",
+                    "codebase": "https://github.com/cepdnaclk/e18-4yp-Automated-Medical-Image-Annotation-for-Dataset-Building",
+                    "researchgroups": [],
+                    "funding": "",
+                    "tags": [],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC64760.2025.10963209/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC64760.2025.10963209/index.json"
+                }
+            ],
             "2023": [
                 {
                     "title": "DeepSelectNet: deep neural network based selective sequencing for oxford nanopore sequencing",
