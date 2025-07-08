@@ -306,5 +306,11 @@
         "reg_no": "E/12/410",
         "name_with_initials": " D.T.Munasinghe",
         "image_url": "images/students/e12/e12410.jpg"
+    },
+    "E/12/687": {
+        "reg_no": "E/12/687",
+        "page_url": "/students/e12/687/",
+        "name_with_initials": "T.T.N",
+        "image_url": "images/students/e12/e12687.jpg"
     }
 }
