@@ -19676,19 +19676,6 @@
     ],
     "E/20/447": [
         {
-            "title": "Smart Vehicle Tracking and Management System",
-            "category": {
-                "code": "3yp",
-                "title": "Cyber-Physical Systems Projects",
-                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-            },
-            "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Vehicle-Tracking-and-Management-System/",
-            "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Vehicle-Tracking-and-Management-System",
-            "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Vehicle-Tracking-and-Management-System",
-            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Vehicle-Tracking-and-Management-System/"
-        },
-        {
             "title": "ACES fund and inventory management system",
             "category": {
                 "code": "co227",
