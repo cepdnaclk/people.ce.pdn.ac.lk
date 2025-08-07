@@ -12710,6 +12710,19 @@
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Event-Attendance-Management-System/"
         },
         {
+            "title": "Peraswarm Active Localization and Navigation",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Peraswarm-Active-Localization-and-Navigation/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4YP-Peraswarm-Active-Localization-and-Navigation",
+            "page_url": "https://cepdnaclk.github.io/e19-4YP-Peraswarm-Active-Localization-and-Navigation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Peraswarm-Active-Localization-and-Navigation/"
+        },
+        {
             "title": "TecHub help desk ticketing system",
             "category": {
                 "code": "co227",
@@ -15271,6 +15284,19 @@
             "page_url": "https://cepdnaclk.github.io/e19-3yp-Project-Smart-Water-Tank",
             "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Project-Smart-Water-Tank/"
+        },
+        {
+            "title": "Peraswarm Active Localization and Navigation",
+            "category": {
+                "code": "4yp",
+                "title": "Undergraduate Research Projects",
+                "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+            },
+            "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Peraswarm-Active-Localization-and-Navigation/",
+            "repo_url": "https://github.com/cepdnaclk/e19-4YP-Peraswarm-Active-Localization-and-Navigation",
+            "page_url": "https://cepdnaclk.github.io/e19-4YP-Peraswarm-Active-Localization-and-Navigation",
+            "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Peraswarm-Active-Localization-and-Navigation/"
         },
         {
             "title": "Developing image capturing and analysing system using FPGA",
