@@ -4318,7 +4318,7 @@
         }
     },
     "isurunawinne@eng.pdn.ac.lk": {
-        "publication_count": 9,
+        "publication_count": 10,
         "year_count": 7,
         "publications": {
             "2025": [
@@ -4422,6 +4422,105 @@
                     "tags": [],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC64760.2025.10963209/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC64760.2025.10963209/index.json"
+                },
+                {
+                    "title": "Simultaneous Localization and Mapping with Cost Effective Sensors",
+                    "venue": "2025 International Research Conference on Smart Computing and Systems Engineering (SCSE)",
+                    "year": "2025",
+                    "authors": [
+                        "Dinuka Mudalige",
+                        "Nipun Dharmarathne",
+                        "Yojith Jayarathna",
+                        "Nuwan Jaliyagoda",
+                        "Akila Karunanayake",
+                        "Roshan Ragel",
+                        "Isuru Nawinne"
+                    ],
+                    "author_info": [
+                        {
+                            "name": "Dinuka Mudalige",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/227/",
+                            "type": "STUDENT",
+                            "id": "E/18/227",
+                            "email": "e18227@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/227/"
+                        },
+                        {
+                            "name": "Nipun Dharmarathne",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/077/",
+                            "type": "STUDENT",
+                            "id": "E/18/077",
+                            "email": "e18077@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18077.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/077/"
+                        },
+                        {
+                            "name": "Yojith Jayarathna",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/150/",
+                            "type": "STUDENT",
+                            "id": "E/18/150",
+                            "email": "e18150@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18150.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/150/"
+                        },
+                        {
+                            "name": "Nuwan Jaliyagoda",
+                            "profile": "https://people.ce.pdn.ac.lk//students/e15/140",
+                            "type": "STAFF",
+                            "id": "nuwanjaliyagoda",
+                            "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/nuwan.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk//students/e15/140"
+                        },
+                        {
+                            "name": "Akila Karunanayake",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e17/154/",
+                            "type": "STUDENT",
+                            "id": "E/17/154",
+                            "email": "e17154@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17154.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/154/"
+                        },
+                        {
+                            "name": "Roshan Ragel",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                            "type": "STAFF",
+                            "id": "roshanr",
+                            "email": "roshanr@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                        },
+                        {
+                            "name": "Isuru Nawinne",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                            "type": "STAFF",
+                            "id": "isurunawinne",
+                            "email": "isurunawinne@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1109/SCSE65633.2025.11030968",
+                    "is_dept_affiliated": true,
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "https://docs.google.com/presentation/d/1Sn4Bnb49-N23yy5Edn8H73UVxVlOOfMW/edit?usp=sharing&ouid=109340424230456226213&rtpof=true&sd=true",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/",
+                    "codebase": "https://github.com/cepdnaclk/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
+                    "researchgroups": [
+                        "Smart and Intelligent Systems (IoT / AI / Wearable Computing)",
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Swarm Robotics",
+                        "Collaborative Mapping",
+                        "Swarm Intelligence",
+                        "Mixed Reality"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/SCSE65633.2025.11030968/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/SCSE65633.2025.11030968/index.json"
                 }
             ],
             "2024": [
@@ -6047,8 +6146,115 @@
             ]
         }
     },
+    "nuwanjaliyagoda@eng.pdn.ac.lk": {
+        "publication_count": 1,
+        "year_count": 1,
+        "publications": {
+            "2025": [
+                {
+                    "title": "Simultaneous Localization and Mapping with Cost Effective Sensors",
+                    "venue": "2025 International Research Conference on Smart Computing and Systems Engineering (SCSE)",
+                    "year": "2025",
+                    "authors": [
+                        "Dinuka Mudalige",
+                        "Nipun Dharmarathne",
+                        "Yojith Jayarathna",
+                        "Nuwan Jaliyagoda",
+                        "Akila Karunanayake",
+                        "Roshan Ragel",
+                        "Isuru Nawinne"
+                    ],
+                    "author_info": [
+                        {
+                            "name": "Dinuka Mudalige",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/227/",
+                            "type": "STUDENT",
+                            "id": "E/18/227",
+                            "email": "e18227@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/227/"
+                        },
+                        {
+                            "name": "Nipun Dharmarathne",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/077/",
+                            "type": "STUDENT",
+                            "id": "E/18/077",
+                            "email": "e18077@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18077.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/077/"
+                        },
+                        {
+                            "name": "Yojith Jayarathna",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/150/",
+                            "type": "STUDENT",
+                            "id": "E/18/150",
+                            "email": "e18150@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18150.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/150/"
+                        },
+                        {
+                            "name": "Nuwan Jaliyagoda",
+                            "profile": "https://people.ce.pdn.ac.lk//students/e15/140",
+                            "type": "STAFF",
+                            "id": "nuwanjaliyagoda",
+                            "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/nuwan.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk//students/e15/140"
+                        },
+                        {
+                            "name": "Akila Karunanayake",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e17/154/",
+                            "type": "STUDENT",
+                            "id": "E/17/154",
+                            "email": "e17154@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17154.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/154/"
+                        },
+                        {
+                            "name": "Roshan Ragel",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                            "type": "STAFF",
+                            "id": "roshanr",
+                            "email": "roshanr@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                        },
+                        {
+                            "name": "Isuru Nawinne",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                            "type": "STAFF",
+                            "id": "isurunawinne",
+                            "email": "isurunawinne@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1109/SCSE65633.2025.11030968",
+                    "is_dept_affiliated": true,
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "https://docs.google.com/presentation/d/1Sn4Bnb49-N23yy5Edn8H73UVxVlOOfMW/edit?usp=sharing&ouid=109340424230456226213&rtpof=true&sd=true",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/",
+                    "codebase": "https://github.com/cepdnaclk/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
+                    "researchgroups": [
+                        "Smart and Intelligent Systems (IoT / AI / Wearable Computing)",
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Swarm Robotics",
+                        "Collaborative Mapping",
+                        "Swarm Intelligence",
+                        "Mixed Reality"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/SCSE65633.2025.11030968/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/SCSE65633.2025.11030968/index.json"
+                }
+            ]
+        }
+    },
     "roshanr@eng.pdn.ac.lk": {
-        "publication_count": 46,
+        "publication_count": 47,
         "year_count": 17,
         "publications": {
             "2025": [
@@ -6152,6 +6358,105 @@
                     "tags": [],
                     "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICARC64760.2025.10963209/",
                     "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICARC64760.2025.10963209/index.json"
+                },
+                {
+                    "title": "Simultaneous Localization and Mapping with Cost Effective Sensors",
+                    "venue": "2025 International Research Conference on Smart Computing and Systems Engineering (SCSE)",
+                    "year": "2025",
+                    "authors": [
+                        "Dinuka Mudalige",
+                        "Nipun Dharmarathne",
+                        "Yojith Jayarathna",
+                        "Nuwan Jaliyagoda",
+                        "Akila Karunanayake",
+                        "Roshan Ragel",
+                        "Isuru Nawinne"
+                    ],
+                    "author_info": [
+                        {
+                            "name": "Dinuka Mudalige",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/227/",
+                            "type": "STUDENT",
+                            "id": "E/18/227",
+                            "email": "e18227@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/default.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/227/"
+                        },
+                        {
+                            "name": "Nipun Dharmarathne",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/077/",
+                            "type": "STUDENT",
+                            "id": "E/18/077",
+                            "email": "e18077@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18077.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/077/"
+                        },
+                        {
+                            "name": "Yojith Jayarathna",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e18/150/",
+                            "type": "STUDENT",
+                            "id": "E/18/150",
+                            "email": "e18150@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e18/e18150.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e18/150/"
+                        },
+                        {
+                            "name": "Nuwan Jaliyagoda",
+                            "profile": "https://people.ce.pdn.ac.lk//students/e15/140",
+                            "type": "STAFF",
+                            "id": "nuwanjaliyagoda",
+                            "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/temporary-academic-staff/nuwan.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk//students/e15/140"
+                        },
+                        {
+                            "name": "Akila Karunanayake",
+                            "profile": "https://people.ce.pdn.ac.lk/students/e17/154/",
+                            "type": "STUDENT",
+                            "id": "E/17/154",
+                            "email": "e17154@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17154.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/students/e17/154/"
+                        },
+                        {
+                            "name": "Roshan Ragel",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+                            "type": "STAFF",
+                            "id": "roshanr",
+                            "email": "roshanr@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/roshan-ragel.jpg",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+                        },
+                        {
+                            "name": "Isuru Nawinne",
+                            "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+                            "type": "STAFF",
+                            "id": "isurunawinne",
+                            "email": "isurunawinne@eng.pdn.ac.lk",
+                            "profile_image": "https://people.ce.pdn.ac.lk/images/staff/academic-staff/isuru-nawinne.png",
+                            "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+                        }
+                    ],
+                    "doi": "https://doi.org/10.1109/SCSE65633.2025.11030968",
+                    "is_dept_affiliated": true,
+                    "preprint": "#",
+                    "pdf": "#",
+                    "presentation": "https://docs.google.com/presentation/d/1Sn4Bnb49-N23yy5Edn8H73UVxVlOOfMW/edit?usp=sharing&ouid=109340424230456226213&rtpof=true&sd=true",
+                    "project": "https://projects.ce.pdn.ac.lk/4yp/e18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/",
+                    "codebase": "https://github.com/cepdnaclk/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
+                    "researchgroups": [
+                        "Smart and Intelligent Systems (IoT / AI / Wearable Computing)",
+                        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
+                    ],
+                    "funding": "",
+                    "tags": [
+                        "Swarm Robotics",
+                        "Collaborative Mapping",
+                        "Swarm Intelligence",
+                        "Mixed Reality"
+                    ],
+                    "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/SCSE65633.2025.11030968/",
+                    "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/SCSE65633.2025.11030968/index.json"
                 }
             ],
             "2023": [
