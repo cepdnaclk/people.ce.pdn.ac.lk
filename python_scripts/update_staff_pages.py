@@ -13,13 +13,13 @@ api_metadata = {
         "title": "Academic Support Staff",
         "description": "List of academic support staff members.",
         "source": f"{BASE_URL}/academic-support-staff",
-        "last_updated": datetime.now().isoformat(),
+        # "last_updated": datetime.now().isoformat(),
     },
     "TEMPORARY_STAFF": {
         "title": "Temporary Academic Staff",
         "description": "List of temporary academic staff members.",
         "source": f"{BASE_URL}/temporary-academic-staff",
-        "last_updated": datetime.now().isoformat(),
+        # "last_updated": datetime.now().isoformat(),
     },
 }
 
