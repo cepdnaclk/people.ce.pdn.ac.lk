@@ -1,367 +1,325 @@
-[
-  {
-    "staff_name": "Amila Indika",
-    "text_below_name": "System Administrator",
-    "url_image": "images/staff/temporary-academic-staff/amila.jpg",
-    "email": "amilaindika@eng.pdn.ac.lk",
-    "url_profile": "students/e14/142",
-    "linkedin": "https://www.linkedin.com/in/amila-indika/",
-    "joined_date": "2020-08-10",
-    "left_date": "2022-07-25"
-  },
-  {
-    "staff_name": "Chathuri Aththanayake",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/chathuri.jpg",
-    "email": "chathurimalee@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "https://www.linkedin.com/in/chathuriaththanayake/",
-    "joined_date": "",
-    "left_date": "2021-11-31"
-  },
-  {
-    "staff_name": "Arjuna Thennakoon",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/arjuna.jpg",
-    "email": "arjunat@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "https://www.linkedin.com/in/arjunat/",
-    "joined_date": "",
-    "left_date": "2022-02-07"
-  },
-  {
-    "staff_name": "Kanchana Jayasinghe",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/kanchana.jpg",
-    "email": "kc43224jayasinghe@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "#",
-    "joined_date": "",
-    "left_date": "2021-11-01"
-  },
-  {
-    "staff_name": "Anjalee Wanigarathne",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/anjalee.jpg",
-    "email": "anj.wanigarathne@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "https://www.linkedin.com/in/anjalee-wanigarathne-1b7571160/",
-    "joined_date": "",
-    "left_date": "2021-03-25"
-  },
-  {
-    "staff_name": "Thushara Bandara",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/thushara.jpeg",
-    "email": "thusharab@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "https://www.linkedin.com/in/thusharabandara/",
-    "joined_date": "2021-07-12",
-    "left_date": "2023-07-21"
-  },
-  {
-    "staff_name": "Kalani Hansima",
-    "text_below_name": "Temporary Lecturer",
-    "url_image": "images/staff/temporary-academic-staff/kalani.jpeg",
-    "email": "kalaniu@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "https://www.linkedin.com/in/kalani-hansima-b55187179/",
-    "joined_date": "",
-    "left_date": "2022-01-12"
-  },
-  {
-    "staff_name": "Dilshani Karunarathna",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/dilshani.jpg",
-    "email": "dilshanik@eng.pdn.ac.lk",
-    "url_profile": "students/e15/173",
-    "linkedin": "https://www.linkedin.com/in/dilshanikarunarathna/",
-    "github": "https://github.com/DDilshani",
-    "joined_date": "2021-09-21",
-    "left_date": "2022-09-15"
-  },
-  {
-    "staff_name": "Nuwan Jaliyagoda",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/nuwan.jpg",
-    "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
-    "url_profile": "/students/e15/140",
-    "linkedin": "https://www.linkedin.com/in/nuwan-jaliyagoda/",
-    "github": "https://github.com/NuwanJ",
-    "joined_date": "2021-09-21",
-    "left_date": "2022-08-12"
-  },
-  {
-    "staff_name": "Imesh Ekanayake",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/imesh.png",
-    "email": "imeshuek@eng.pdn.ac.lk",
-    "url_profile": "/students/e15/092",
-    "linkedin": "https://www.linkedin.com/in/imesh-ekanayake/",
-    "joined_date": "2021-09-21",
-    "left_date": "2023-04-28"
-  },
-  {
-    "staff_name": "Keshara Weerasinghe",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/keshara.jpg",
-    "email": "kesharaw@eng.pdn.ac.lk",
-    "url_profile": "/students/e15/383",
-    "linkedin": "",
-    "joined_date": "2021-09-21",
-    "left_date": "2022-07-27"
-  },
-  {
-    "staff_name": "Poornima Lankani",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/poornima.jpg",
-    "email": "lankaniperera@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "https://www.linkedin.com/in/poornima-lankani-b54969103/",
-    "joined_date": "2022-05-23",
-    "left_date": "2023-01-31"
-  },
-  {
-    "staff_name": "Jayamini Jayasundara",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/jayamini.jpg",
-    "email": "jayaminij@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "",
-    "joined_date": "2022-07-04",
-    "left_date": "2025-09-30"
-  },
-  {
-    "staff_name": "Isuru Madugalla",
-    "text_below_name": "Temporary Lecturer",
-    "url_image": "images/staff/temporary-academic-staff/isuru.png",
-    "email": "isurumadugalla@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "https://www.linkedin.com/in/isuru-madugalla-704393136/",
-    "joined_date": "2022-09-05",
-    "left_date": "2023-10-20"
-  },
-  {
-    "staff_name": "Rashmi Wimansa Neelawathura",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/rashmi.JPEG",
-    "email": "rwimansa@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "https://www.linkedin.com/in/rashmi-neelawathura-b8b94b21a/",
-    "joined_date": "2022-09-05",
-    "left_date": "2023-07-21"
-  },
-  {
-    "staff_name": "Dinindu Thilakarathna",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/dinind.jpg",
-    "email": "dininduwm@eng.pdn.ac.lk",
-    "url_profile": "/students/e16/366/",
-    "linkedin": "https://www.linkedin.com/in/dinindu-thilakarathna/",
-    "joined_date": "2023-03-01",
-    "left_date": "2023-06-01"
-  },
-  {
-    "staff_name": "Isuru Pamuditha Thilakasiri",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/isuru_pamuditha.jpeg",
-    "email": "isurupt@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "https://lk.linkedin.com/in/isuru-pamuditha",
-    "joined_date": "2023-04-17",
-    "left_date": "2024-10-11"
-  },
-  {
-    "staff_name": "Thilina Dissanayake",
-    "text_below_name": "Temporary Lecturer",
-    "url_image": "images/staff/temporary-academic-staff/thilina-dissanayake.jpg",
-    "email": "thilinald@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "http://linkedin.com/in/thilinaldissanayake",
-    "joined_date": "2023-04-17",
-    "left_date": "2024-12-12"
-  },
-  {
-    "staff_name": "Sachintha Kavishan",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/sachintha.jpg",
-    "email": "kavishan@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "http://linkedin.com/in/sachintha-kavishan-8a09a7207",
-    "joined_date": "2023-06-01",
-    "left_date": "2024-08-12"
-  },
-  {
-    "staff_name": "Oshadhi Rajapakshe",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/oshadi.jpg",
-    "email": "oshadhi@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "https://www.linkedin.com/in/oshadhi-rajapakshe-321132207",
-    "joined_date": "2023-07-10",
-    "left_date": "2024-08-12"
-  },
-  {
-    "staff_name": "Kavindu Herath",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/kavindu.jpg",
-    "email": "kavindu@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "https://www.linkedin.com/in/kavindu-herath",
-    "github": "https://github.com/kavindu1997129",
-    "joined_date": "2023-08-02",
-    "left_date": "2024-04-22"
-  },
-  {
-    "staff_name": "Isuri Devindi",
-    "text_below_name": "Temporary Lecturer",
-    "url_image": "images/staff/temporary-academic-staff/isuri.jpg",
-    "email": "isurid@eng.pdn.ac.lk",
-    "url_profile": "/students/e17/058",
-    "linkedin": "https://www.linkedin.com/in/isuri-devindi-b8602a206",
-    "github": "https://github.com/isuridevindi",
-    "joined_date": "2024-01-01",
-    "left_date": "2025-04-04"
-  },
-  {
-    "staff_name": "Ravisha Rupasinghe",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/ravisha.jpg",
-    "email": "e17296@eng.pdn.ac.lk",
-    "url_profile": "/students/e17/296",
-    "linkedin": "https://www.linkedin.com/in/ravisha-rupasinghe",
-    "github": "https://github.com/RavishaHR",
-    "joined_date": "2024-01-01",
-    "left_date": "2024-06-28"
-  },
-  {
-    "staff_name": "Sashini Liyanage",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/sashini.jpg",
-    "email": "e17190@eng.pdn.ac.lk",
-    "url_profile": "/students/e17/190",
-    "linkedin": "https://www.linkedin.com/in/sashini-liyanage/",
-    "github": "https://github.com/SashiniLiyanage",
-    "joined_date": "2024-01-01",
-    "left_date": "2024-04-01"
-  },
-  {
-    "staff_name": "Keshawa Ratnayake",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/keshawa.jpg",
-    "email": "e17290@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "https://www.linkedin.com/in/keshawa-ratnayake",
-    "github": "",
-    "joined_date": "2024-01-01",
-    "left_date": "2024-04-01"
-  },
-  {
-    "staff_name": "Nishankar Sathiyamohan",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/Nishankar.jpg",
-    "email": "e17230@eng.pdn.ac.lk",
-    "url_profile": "/students/e17/230",
-    "linkedin": "https://www.linkedin.com/in/nishankar-sathiyamohan/",
-    "github": "https://github.com/Nishan-Charlie",
-    "joined_date": "2024-01-01",
-    "left_date": "2024-04-15"
-  },
-  {
-    "staff_name": "Shakthi Perera",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/shakthi.jpg",
-    "email": "e17245@eng.pdn.ac.lk",
-    "url_profile": "",
-    "linkedin": "http://www.linkedin.com/in/shakthi-perera",
-    "github": "",
-    "joined_date": "2024-04-02",
-    "left_date": "2025-10-01"
-  }, 
-  {
-    "staff_name": "Thamish Wanduragala",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/thamish.jpg",
-    "email": "e18379@eng.pdn.ac.lk",
-    "url_profile": "/students/e18/379",
-    "linkedin": "https://www.linkedin.com/in/thamish-wanduragala-5a4b23216",
-    "github": "https://github.com/Thamish99",
-    "joined_date": "2024-10-01",
-    "left_date": "2025-07-31"
-  },
-  {
-    "staff_name": "Saadia Jameel",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/saadia.png",
-    "email": "e18147@eng.pdn.ac.lk",
-    "url_profile": "/students/e18/147",
-    "linkedin": "https://www.linkedin.com/in/saadia-jameel-531007180",
-    "github": "https://github.com/SaadiaJameel",
-    "joined_date": "2024-10-01",
-    "left_date": "2025-08-04"
-  },
-  {
-    "staff_name": "Chathura Wimalasiri",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/students/e18/E18402.jpg",
-    "email": "e18402@eng.pdn.ac.lk",
-    "url_profile": "/students/e18/402",
-    "linkedin": "https://www.linkedin.com/in/chathura-wimalasiri-b0637b1a1",
-    "github": "https://github.com/chathurawimalasiri",
-    "joined_date": "2024-10-01",
-    "left_date": "2025-09-30"
-  },
-  {
-    "staff_name": "Ridma Jayasundara",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/students/e18/e18155.jpg",
-    "email": "ridmajayasundara@eng.pdn.ac.lk",
-    "url_profile": "/students/e18/155",
-    "linkedin": "https://www.linkedin.com/in/ridma-jayasundara-9471b8213",
-    "github": "https://github.com/ridmajayasundara",
-    "joined_date": "2024-10-01",
-    "left_date": "2025-09-30"
-  },
-  {
-    "staff_name": "Ishta Jayakody",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/students/e18/e18149.jpg",
-    "email": "e18149@eng.pdn.ac.lk",
-    "url_profile": "/students/e18/149",
-    "linkedin": "https://www.linkedin.com/in/ishta-jayakody-b3055123b/",
-    "github": "https://github.com/IshtaJayakody",
-    "joined_date": "2024-10-01",
-    "left_date": "2025-09-30"
-  },
-  {
-    "staff_name": "Nethmi Dissanayake",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/nethmi.jpg",
-    "email": "e17075@eng.pdn.ac.lk",
-    "linkedin": "https://www.linkedin.com/in/nethmi-dissanayake-88044a29a",
-    "joined_date": "2024-10-08",
-    "left_date": "2025-06-09"
-  },
-  {
-    "staff_name": "Akila Karunanayake",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/students/e17/e17154.jpg",
-    "email": "e17154@eng.pdn.ac.lk",
-    "url_profile": "/students/e17/154",
-    "linkedin": "https://www.linkedin.com/in/akila-karunanayake-978bba211/",
-    "github": "https://github.com/Akilax0",
-    "joined_date": "2024-11-01",
-    "left_date": "2025-07-31"
-  },
-  {
-    "staff_name": "Savindu Wannigama",
-    "text_below_name": "Temporary Instructor",
-    "url_image": "images/staff/temporary-academic-staff/savindu_wannigama.jpg",
-    "email": "e17369@eng.pdn.ac.lk",
-    "url_profile": "/students/e17/369",
-    "linkedin": "https://www.linkedin.com/in/savindu-wannigama-a62141216/",
-    "github": "https://github.com/savinduwannigama",
-    "joined_date": "2024-12-30",
-    "left_date": "2025-07-10"
-  }
-]
+{
+    "metadata": {
+        "title": "Temporary Academic Staff",
+        "description": "List of temporary academic staff members.",
+        "source": "https://portal.ce.pdn.ac.lk/api/taxonomy/v1/term/temporary-academic-staff",
+        "last_updated": "2025-08-19T12:03:45.485825"
+    },
+    "data": [
+        {
+            "staff_name": "Anjalee Wanigarathne",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/anjalee-wanigarathne.jpg",
+            "email": "anj.wanigarathne@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/anjalee-wanigarathne-1b7571160/",
+            "joined_date": "",
+            "left_date": "2021-03-25"
+        },
+        {
+            "staff_name": "Arjuna Thennakoon",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/arjuna-thennakoon.jpg",
+            "email": "arjunat@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/arjunat/",
+            "joined_date": "",
+            "left_date": "2022-02-07"
+        },
+        {
+            "staff_name": "Chathuri Aththanayake",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/chathuri-aththanayake.jpg",
+            "email": "chathurimalee@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/chathuriaththanayake/",
+            "joined_date": "",
+            "left_date": "2021-11-30"
+        },
+        {
+            "staff_name": "Kalani Hansima",
+            "text_below_name": "Temporary Lecturer",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/kalani-hansima.jpeg",
+            "email": "kalaniu@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/kalani-hansima-b55187179/",
+            "joined_date": "",
+            "left_date": "2022-01-12"
+        },
+        {
+            "staff_name": "Kanchana Jayasinghe",
+            "text_below_name": "-",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/kanchana-jayasinghe.jpg",
+            "email": "kc43224jayasinghe@eng.pdn.ac.lk",
+            "linkedin": "#",
+            "joined_date": "",
+            "left_date": "2021-11-01"
+        },
+        {
+            "staff_name": "Amila Indika",
+            "text_below_name": "System Administrator",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/amila-indika.jpg",
+            "email": "amilaindika@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/amila-indika/",
+            "joined_date": "2020-08-10",
+            "left_date": "2022-07-25"
+        },
+        {
+            "staff_name": "Thushara Bandara",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/thushara-bandara.jpeg",
+            "email": "thusharab@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/thusharabandara/",
+            "joined_date": "2021-07-12",
+            "left_date": "2023-07-21"
+        },
+        {
+            "staff_name": "Dilshani Karunarathna",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/dilshani-karunarathna.jpg",
+            "email": "dilshanik@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/dilshanikarunarathna/",
+            "joined_date": "2021-09-21",
+            "left_date": "2022-09-15"
+        },
+        {
+            "staff_name": "Imesh Ekanayake",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/imesh-ekanayake.png",
+            "email": "imeshuek@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/imesh-ekanayake/",
+            "joined_date": "2021-09-21",
+            "left_date": "2023-04-28"
+        },
+        {
+            "staff_name": "Keshara Weerasinghe",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/keshara-weerasinghe.jpg",
+            "email": "kesharaw@eng.pdn.ac.lk",
+            "linkedin": "#",
+            "joined_date": "2021-09-21",
+            "left_date": "2022-07-27"
+        },
+        {
+            "staff_name": "Nuwan Jaliyagoda",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/nuwan-jaliyagoda.jpg",
+            "email": "nuwanjaliyagoda@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/nuwan-jaliyagoda/",
+            "joined_date": "2021-09-21",
+            "left_date": "2022-08-12"
+        },
+        {
+            "staff_name": "Poornima Lankani",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/poornima-lankani.jpg",
+            "email": "lankaniperera@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/poornima-lankani-b54969103/",
+            "joined_date": "2022-05-23",
+            "left_date": "2023-01-31"
+        },
+        {
+            "staff_name": "Jayamini Jayasundara",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/jayamini-jayasundara.jpg",
+            "email": "jayaminij@eng.pdn.ac.lk",
+            "linkedin": "#",
+            "joined_date": "2022-07-04",
+            "left_date": ""
+        },
+        {
+            "staff_name": "Isuru Madugalla",
+            "text_below_name": "Temporary Lecturer",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/isuru-madugalla.png",
+            "email": "isurumadugalla@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/isuru-madugalla-704393136/",
+            "joined_date": "2022-09-05",
+            "left_date": "2023-10-20"
+        },
+        {
+            "staff_name": "Rashmi Wimansa",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/rashmi-wimansa-neelawathura.JPEG",
+            "email": "rwimansa@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/rashmi-neelawathura-b8b94b21a/",
+            "joined_date": "2022-09-05",
+            "left_date": "2023-07-21"
+        },
+        {
+            "staff_name": "Dinindu Thilakarathna",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/dinindu-thilakarathna.jpg",
+            "email": "dininduwm@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/dinindu-thilakarathna/",
+            "joined_date": "2023-03-01",
+            "left_date": "2023-06-01"
+        },
+        {
+            "staff_name": "Isuru Pamuditha Thilakasiri",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/isuru-pamuditha-thilakasiri.jpeg",
+            "email": "isurupt@eng.pdn.ac.lk",
+            "linkedin": "https://lk.linkedin.com/in/isuru-pamuditha",
+            "joined_date": "2023-04-17",
+            "left_date": "2024-10-11"
+        },
+        {
+            "staff_name": "Thilina Dissanayake",
+            "text_below_name": "Temporary Lecturer",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/thilina-dissanayake.jpg",
+            "email": "thilinald@eng.pdn.ac.lk",
+            "linkedin": "#",
+            "joined_date": "2023-04-17",
+            "left_date": "2024-12-12"
+        },
+        {
+            "staff_name": "Sachintha Kavishan",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/sachintha-kavishan.jpg",
+            "email": "kavishan@eng.pdn.ac.lk",
+            "linkedin": "#",
+            "joined_date": "2023-06-01",
+            "left_date": "2024-08-12"
+        },
+        {
+            "staff_name": "Oshadhi Rajapakshe",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/oshadhi-rajapakshe.jpg",
+            "email": "oshadhi@eng.pdn.ac.lk",
+            "linkedin": "#",
+            "joined_date": "2023-07-10",
+            "left_date": "2024-08-12"
+        },
+        {
+            "staff_name": "Kavindu Herath",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/kavindu-herath.jpg",
+            "email": "kavindu@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/kavindu-herath",
+            "joined_date": "2023-08-02",
+            "left_date": "2024-04-22"
+        },
+        {
+            "staff_name": "Isuri Devindi",
+            "text_below_name": "Temporary Lecturer",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/isuri-devindi.jpg",
+            "email": "isurid@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/isuri-devindi-b8602a206",
+            "joined_date": "2024-01-01",
+            "left_date": "2025-04-04"
+        },
+        {
+            "staff_name": "Keshawa Ratnayake",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/keshawa-ratnayake.jpg",
+            "email": "e17290@eng.pdn.ac.lk",
+            "linkedin": "#",
+            "joined_date": "2024-01-01",
+            "left_date": "2024-04-01"
+        },
+        {
+            "staff_name": "Nishankar Sathiyamohan",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/nishankar-sathiyamohan.jpg",
+            "email": "e17230@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/nishankar-sathiyamohan/",
+            "joined_date": "2024-01-01",
+            "left_date": "2024-04-15"
+        },
+        {
+            "staff_name": "Ravisha Rupasinghe",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/ravisha-rupasinghe.jpg",
+            "email": "e17296@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/ravisha-rupasinghe",
+            "joined_date": "2024-01-01",
+            "left_date": "2024-06-28"
+        },
+        {
+            "staff_name": "Sashini Liyanage",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/sashini-liyanage.jpg",
+            "email": "e17190@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/sashini-liyanage/",
+            "joined_date": "2024-01-01",
+            "left_date": "2024-04-01"
+        },
+        {
+            "staff_name": "Shakthi Perera",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/shakthi-perera.jpg",
+            "email": "e17245@eng.pdn.ac.lk",
+            "linkedin": "http://www.linkedin.com/in/shakthi-perera",
+            "joined_date": "2024-04-02",
+            "left_date": ""
+        },
+        {
+            "staff_name": "Chathura Wimalasiri",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/chathura-wimalasiri.jpg",
+            "email": "e18402@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/chathura-wimalasiri-b0637b1a1",
+            "joined_date": "2024-10-01",
+            "left_date": ""
+        },
+        {
+            "staff_name": "Ishta Jayakody",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/ishta-jayakody.jpg",
+            "email": "e18149@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/ishta-jayakody-b3055123b/",
+            "joined_date": "2024-10-01",
+            "left_date": ""
+        },
+        {
+            "staff_name": "Ridma Jayasundara",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/ridma-jayasundara.jpg",
+            "email": "ridmajayasundara@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/ridma-jayasundara-9471b8213",
+            "joined_date": "2024-10-01",
+            "left_date": ""
+        },
+        {
+            "staff_name": "Saadia Jameel",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/saadia-jameel.jpg",
+            "email": "e18147@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/saadia-jameel-531007180",
+            "joined_date": "2024-10-01",
+            "left_date": "2025-08-04"
+        },
+        {
+            "staff_name": "Thamish Wanduragala",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/thamish-wanduragala.jpg",
+            "email": "e18379@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/thamish-wanduragala-5a4b23216",
+            "joined_date": "2024-10-01",
+            "left_date": "2025-07-31"
+        },
+        {
+            "staff_name": "Nethmi Dissanayake",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/nethmi-dissanayake.jpg",
+            "email": "e17075@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/nethmi-dissanayake-88044a29a",
+            "joined_date": "2024-10-08",
+            "left_date": "2025-06-09"
+        },
+        {
+            "staff_name": "Akila Karunanayake",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/akila-karunanayake.jpg",
+            "email": "e17154@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/akila-karunanayake-978bba211/",
+            "joined_date": "2024-11-01",
+            "left_date": "2025-07-31"
+        },
+        {
+            "staff_name": "Savindu Wannigama",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/savindu-wannigama.jpg",
+            "email": "e17369@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/savindu-wannigama-a62141216/",
+            "joined_date": "2024-12-30",
+            "left_date": "2025-07-10"
+        }
+    ]
+}

@@ -6,101 +6,125 @@ type: "Temporary Academic"
 title: Temporary Academic Staff
 ---
 
-{%- comment -%}
-
-Update the JSON, _data/temporary-academic-staff.json, and it will add the profiles into here.
-
-{%- endcomment -%}
-
+<!-- Set current date -->
 {% assign today_date = 'now' | date: '%s' %}
 
 <!-- breadcrumb -->
 <main class="container">
-    <div class="bg-secondary p-3 pb-1 rounded">
-        <h1 class="text-white">Temporary Academic Staff</h1>
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
-                <li class="breadcrumb-item text-white">Temporary Academic Staff</li>
-            </ol>
-        </nav>
-    </div>
+  <div class="bg-secondary p-3 pb-1 rounded">
+    <h1 class="text-white">Temporary Academic Staff</h1>
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="{{ site.home }}" class="link-light">Home</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="{{ '/' | relative_url }}" class="link-light">People</a>
+        </li>
+        <li class="breadcrumb-item text-white">Temporary Academic Staff</li>
+      </ol>
+    </nav>
+  </div>
 </main>
 
 <div class="container py-4 px-lg-5">
-    <div class="row justify-content-center">
-        <!-- curent temp academic staff -->
-        {%- for each in site.data.temporary_academic_staff -%}
-        {%- assign left_date = each.left_date | date: '%s' -%}
+  <div class="row justify-content-center">
+    <!-- current temp academic staff -->
+    {%- for each in site.data.temporary_academic_staff.data -%}
 
-        {%- if each.left_date == "" or left_date > today_date -%}
-        <div class="container card text-center p-2 border-primary m-1" style="width: 13rem;">
-            <img src="{{ each.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{each.staff_name}}">
-            <div class="card-body">
-                <h6 class="card-title">{{each.staff_name}}</h6>
-                <p class="card-text text-muted">{{each.text_below_name}}</p>
+    <!-- Check left date -->
+    {%- assign left_date = each.left_date | date: '%s' -%}
 
-                {% if each.email != "" %}
-                <p class="card-text text-muted small">{{ each.email }}</p>
-                {% endif %}
-            </div>
+    <!-- Compare the left date with today -->
+    {%- if each.left_date == "" or left_date > today_date -%}
+    <div
+      class="container card text-center p-2 border-primary m-1"
+      style="width: 13rem"
+    >
+      <img
+        src="{{ each.url_image | relative_url }}"
+        style="border-radius: 7%"
+        class="card-img-top p-1"
+        alt="{{each.staff_name}}"
+      />
+      <div class="card-body">
+        <h6 class="card-title">{{each.staff_name}}</h6>
+        <p class="card-text text-muted">{{each.text_below_name}}</p>
 
-            <div class="d-flex flex-row justify-content-evenly mt-auto pb-1">
-                {% if each.linkedin and  each.linkedin != "" %}
-                <a class="btn btn-link" href="{{ each.linkedin }}" target="_blank"><i class="fab fa-lg fa-linkedin"></i></a>
-                {% endif %}
+        {% if each.email != "" %}
+        <p class="card-text text-muted small">{{ each.email }}</p>
+        {% endif %}
+      </div>
 
-                {% if each.github and each.github != "" %}
-                <a class="btn btn-link" href="{{ each.github }}" target="_blank"><i class="fab fa-lg fa-github"></i></a>
-                {% endif %}
-
-                {% if each.url_profile and each.url_profile != "" %}
-                <a class="btn btn-link" href="{{ each.url_profile | relative_url}}" target="_blank"><i class="fa fa-lg fa-user"></i></a>
-                {% endif %}
-            </div>
-        </div>
-        {%- endif -%}
-
-        {%- endfor -%}
+      <div class="d-flex flex-row justify-content-evenly mt-auto pb-1">
+        {% if each.linkedin and each.linkedin != "" %}
+        <a class="btn btn-link" href="{{ each.linkedin }}" target="_blank"
+          ><i class="fab fa-lg fa-linkedin"></i
+        ></a>
+        {% endif %} {% if each.github and each.github != "" %}
+        <a class="btn btn-link" href="{{ each.github }}" target="_blank"
+          ><i class="fab fa-lg fa-github"></i
+        ></a>
+        {% endif %} {% if each.url_profile and each.url_profile != "" %}
+        <a
+          class="btn btn-link"
+          href="{{ each.url_profile | relative_url}}"
+          target="_blank"
+          ><i class="fa fa-lg fa-user"></i
+        ></a>
+        {% endif %}
+      </div>
     </div>
+    {%- endif -%} {%- endfor -%}
+  </div>
 
-    <div class="row justify-content-center pt-5">
-        <h3 class="text-center">Past Temporary Academic Staff</h3>
-        <hr>
-        <!-- past academic staff -->
-        {%- assign past_temp = site.data.temporary_academic_staff | sort: 'left_date' | reverse-%}
-        {%- for each in past_temp -%}
+  <div class="row justify-content-center pt-5">
+    <h3 class="text-center">Past Temporary Academic Staff</h3>
+    <hr />
+    <!-- past academic staff -->
 
-        {%- if each.left_date != "" -%}
-        {%- assign left_date = each.left_date | date: '%s' -%}
-        {%- if left_date < today_date -%} <div class="container card text-center p-2 border-primary m-1" style="width: 13rem;">
-            <img src="{{ each.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{each.staff_name}}">
-            <div class="card-body">
-                <h6 class="card-title">{{each.staff_name}}</h6>
-                <p class="card-text text-muted">{{each.text_below_name}}</p>
-                {% if each.email != "" %}
-                <p class="card-text text-muted small">{{ each.email }}</p>
-                {% endif %}
-            </div>
+    <!-- Check left date -->
+    {%- assign left_date = each.left_date | date: '%s' -%}
 
-            <div class="d-flex flex-row justify-content-evenly mt-auto pb-1">
-                {% if each.linkedin and each.linkedin != "" %}
-                <a class="btn btn-link" href="{{ each.linkedin }}" target="_blank"><i class="fab fa-lg fa-linkedin"></i></a>
-                {% endif %}
+    <!-- Compare the left date with today -->
+    {%- if left_date < today_date -%}
+    <div
+      class="container card text-center p-2 border-primary m-1"
+      style="width: 13rem"
+    >
+      <img
+        src="{{ each.url_image | relative_url }}"
+        style="border-radius: 7%"
+        class="card-img-top p-1"
+        alt="{{each.staff_name}}"
+      />
+      <div class="card-body">
+        <h6 class="card-title">{{each.staff_name}}</h6>
+        <p class="card-text text-muted">{{each.text_below_name}}</p>
+        {% if each.email != "" %}
+        <p class="card-text text-muted small">{{ each.email }}</p>
+        {% endif %}
+      </div>
 
-                {% if each.github and each.github != "" %}
-                <a class="btn btn-link" href="{{ each.github }}" target="_blank"><i class="fab fa-lg fa-github"></i></a>
-                {% endif %}
-
-                {% if each.url_profile and each.url_profile != "" %}
-                <a class="btn btn-link" href="{{ each.url_profile | relative_url}}" target="_blank"><i class="fa fa-lg fa-user"></i></a>
-                {% endif %}
-            </div>
-
-        </div>
-        {%- endif -%}
-        {%- endif -%}
-        {%- endfor -%}
+      <div class="d-flex flex-row justify-content-evenly mt-auto pb-1">
+        {% if each.linkedin and each.linkedin != "" %}
+        <a class="btn btn-link" href="{{ each.linkedin }}" target="_blank"
+          ><i class="fab fa-lg fa-linkedin"></i
+        ></a>
+        {% endif %} {% if each.github and each.github != "" %}
+        <a class="btn btn-link" href="{{ each.github }}" target="_blank"
+          ><i class="fab fa-lg fa-github"></i
+        ></a>
+        {% endif %} {% if each.url_profile and each.url_profile != "" %}
+        <a
+          class="btn btn-link"
+          href="{{ each.url_profile | relative_url}}"
+          target="_blank"
+          ><i class="fa fa-lg fa-user"></i
+        ></a>
+        {% endif %}
+      </div>
     </div>
+    {%- endif -%} {%- endif -%} {%- endfor -%}
+  </div>
 </div>
