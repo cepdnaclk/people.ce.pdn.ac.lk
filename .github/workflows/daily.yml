@@ -29,6 +29,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install gdown requests pillow googledrivedownloader pytz
 
+      - name: Update staff pages from portal
+        run: |
+          cd ./python_scripts
+          python3 update_staff_pages.py
+          cd ../
+
       - name: Update student profiles from Google Form
         env:
           GOOGLE_FORM_CSV_LINK: ${{ secrets.GOOGLE_FORM_CSV_LINK }}

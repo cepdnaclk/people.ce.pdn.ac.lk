@@ -3,13 +3,13 @@
         "title": "Academic Support Staff",
         "description": "List of academic support staff members.",
         "source": "https://portal.ce.pdn.ac.lk/api/taxonomy/v1/term/academic-support-staff",
-        "last_updated": "2025-08-19T12:03:45.485815"
+        "last_updated": "2025-08-19T12:48:54.246681"
     },
     "data": [
         {
             "staff_name": "Anuradha Bandara",
             "text_below_name": "Staff Assistant",
-            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/anuradha-bandara.jpg",
+            "url_image": "/images/staff/non-academic-staff/anuradha-bandara.jpg",
             "contact_number": "+94 81 2393471",
             "email": "anuradhasb@eng.pdn.ac.lk",
             "joined_date": "",
@@ -18,7 +18,7 @@
         {
             "staff_name": "Bandara Wasundara",
             "text_below_name": "Technical Officer",
-            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/bandara-wasundara.jpg",
+            "url_image": "/images/staff/non-academic-staff/bandara-wasundara.jpg",
             "contact_number": "+94 81 2393911",
             "email": "bandaraw@eng.pdn.ac.lk",
             "joined_date": "",
@@ -27,7 +27,7 @@
         {
             "staff_name": "Hemantha Kumara",
             "text_below_name": "Staff Assistant",
-            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/hemantha-kumara.jpg",
+            "url_image": "/images/staff/non-academic-staff/hemantha-kumara.jpg",
             "contact_number": "+94 81 2393471",
             "email": "hemanthak@eng.pdn.ac.lk",
             "joined_date": "",
@@ -36,7 +36,7 @@
         {
             "staff_name": "Kelum Gunarathne",
             "text_below_name": "Technical Officer",
-            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/kelum-gunarathne.jpg",
+            "url_image": "/images/staff/non-academic-staff/kelum-gunarathne.jpg",
             "contact_number": "+94 81 2393910",
             "email": "kalumg@eng.pdn.ac.lk",
             "joined_date": "",
@@ -45,7 +45,7 @@
         {
             "staff_name": "Priyangani Samaratunge",
             "text_below_name": "Computer Operator",
-            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/priyangani-samaratunge.jpg",
+            "url_image": "/images/staff/non-academic-staff/priyangani-samaratunge.jpg",
             "contact_number": "+94 81 2393471",
             "email": "priyangani@eng.pdn.ac.lk",
             "joined_date": "",
@@ -54,7 +54,7 @@
         {
             "staff_name": "Sarojini Madahapola",
             "text_below_name": "Computer Operator",
-            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/sarojini-madahapola.jpg",
+            "url_image": "/images/staff/non-academic-staff/sarojini-madahapola.jpg",
             "contact_number": "",
             "email": "sarojinim@eng.pdn.ac.lk",
             "joined_date": "",
@@ -63,7 +63,7 @@
         {
             "staff_name": "U.B. Weebadda",
             "text_below_name": "Staff Assistant",
-            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/ub-weebadda.jpg",
+            "url_image": "/images/staff/non-academic-staff/ub-weebadda.jpg",
             "contact_number": "",
             "email": "",
             "joined_date": "",
@@ -72,7 +72,7 @@
         {
             "staff_name": "Umega Rathnayake",
             "text_below_name": "Technical Officer",
-            "url_image": "https://portal.ce.pdn.ac.lk/download/taxonomy/umega-rathnayake.jpg",
+            "url_image": "/images/staff/non-academic-staff/umega-rathnayake.jpg",
             "contact_number": "+94 81 2393471",
             "email": "urathnayake@eng.pdn.ac.lk",
             "joined_date": "",
