@@ -34,9 +34,16 @@ def delete_folder(dir_path):
 
 def get_staff_list(url):
     """Fetch the staff list from the given API URL."""
-    response = requests.get(url, timeout=10)
-    api_data = response.json()
-    return api_data.get("data", []).get("terms", [])
+    try:
+        response = requests.get(url, timeout=10)
+        api_data = response.json()
+        return api_data.get("data", []).get("terms", [])
+    except requests.RequestException as e:
+        print(f"Failed to fetch staff list from {url}: {e}")
+        return []
+    except ValueError as e:
+        print(f"Failed to parse JSON response from {url}: {e}")
+        return []
 
 
 def save_staff_list(staff_list, file_url: str, metadata: dict):
@@ -48,34 +55,43 @@ def save_staff_list(staff_list, file_url: str, metadata: dict):
         "data": staff_list,
     }
 
-    # Save the data to a JSON file
-    if not os.path.exists(os.path.dirname(file_url)):
-        os.makedirs(os.path.dirname(file_url))
-    with open(file_url, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
+    try:
+        # Save the data to a JSON file
+        if not os.path.exists(os.path.dirname(file_url)):
+            os.makedirs(os.path.dirname(file_url))
+        with open(file_url, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=4, ensure_ascii=False)
+    except IOError as e:
+        print(f"Failed to save staff list to {file_url}: {e}")
 
 
 def download_image(image_url, save_dir):
     """Download an image from a URL and save it to a local path."""
     # Download profile image and update the url_image path
-    if image_url and image_url != "#":
-        image_filename = f"/{save_dir}/{image_url.split('/')[-1]}"
-        file_url = "../" + image_filename
-        try:
-            image_response = requests.get(image_url, timeout=10)
-            if image_response.status_code == 200:
-                os.makedirs(os.path.dirname(file_url), exist_ok=True)
-                with open(file_url, "wb") as img_file:
-                    img_file.write(image_response.content)
-                return image_filename
-        except requests.RequestException as e:
-            print(f"Failed to download image for {s.get('name', 'unknown')}: {e}")
+    try:
+        if image_url and image_url != "#":
+            image_filename = f"/{save_dir}/{image_url.split('/')[-1]}"
+            file_url = "../" + image_filename
+            try:
+                image_response = requests.get(image_url, timeout=10)
+                if image_response.status_code == 200:
+                    os.makedirs(os.path.dirname(file_url), exist_ok=True)
+                    with open(file_url, "wb") as img_file:
+                        img_file.write(image_response.content)
+                    return image_filename
+            except requests.RequestException as e:
+                print(f"Failed to download image for {s.get('name', 'unknown')}: {e}")
+    except IOError as e:
+        print(f"Failed to save image {image_url} to {save_dir}: {e}")
+
+    return "#"
 
 
 # ---------------------------------------------------------------------------
 # Clean up existing staff folders
 delete_folder("../images/staff/non-academic-staff")
 
+print(">> Fetching and saving academic support staff list...")
 
 # Fetch and save academic support staff list
 support_staff_raw = get_staff_list(api_metadata["SUPPORT_STAFF"]["source"])
@@ -105,6 +121,8 @@ save_staff_list(support_staff, file_url, api_metadata["SUPPORT_STAFF"])
 # ---------------------------------------------------------------------------
 # Clean up existing staff folders
 delete_folder("../images/staff/temporary-academic-staff")
+
+print(">> Fetching and saving temporary academic staff list...")
 
 # Fetch and save the temporary academic staff list
 temporary_staff_raw = get_staff_list(api_metadata["TEMPORARY_STAFF"]["source"])
