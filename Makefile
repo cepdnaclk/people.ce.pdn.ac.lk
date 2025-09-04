@@ -20,6 +20,5 @@ emptyCommit:
 	git commit --allow-empty -m "Empty commit (Force rebuild)"
 	git push
 
-# Ubuntu doesnt need force-polling
-serveUbuntu: clean
-	bundle exec jekyll serve --livereload 
+run: clean
+	bundle exec jekyll serve --livereload
