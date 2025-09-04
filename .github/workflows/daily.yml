@@ -54,7 +54,7 @@ jobs:
           python3 resize_student_images.py
           cd ../
 
-      - name: Commit and push into the main branch
+      - name: Commit and push changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
@@ -94,7 +94,10 @@ jobs:
           python3 update_publications.py
           cd ../
 
-      - name: Commit and push into the main branch
+      - name: Commit and push changes
         run: |
           git config user.name github-actions
-          git config user.email
+          git config user.email github-actions@github.com
+          git add --all
+          git commit -m "Projects and Publications were updated" || echo "No changes"
+          git push
