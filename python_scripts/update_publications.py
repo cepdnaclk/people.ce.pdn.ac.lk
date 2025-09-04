@@ -1,11 +1,14 @@
+# -------------------------------------------------------------------------------------------
 # Update the Publication information from the Publication API, pre-process and
 # link with the student and staff profile pages
 
 # Author: E/15/150 Nuwan Jaliyagoda - nuwanjaliyagoda@eng.pdn.ac.lk
+# -------------------------------------------------------------------------------------------
+
+import json
+import os
 
 import requests
-import os
-import json
 
 # Get student publications
 try:
@@ -24,8 +27,8 @@ try:
     else:
         print("Student: Failed")
 
-except:
-    print("parse failed; " + url)
+except Exception as e:
+    print(f"Student Publications: Parse failed; {url}. Error: {e}")
 
 # Get staff publications
 try:
@@ -83,7 +86,7 @@ try:
     else:
         print("Staff: Failed")
 
-except:
-    print("parse failed; " + url)
+except Exception as e:
+    print(f"Staff Publications: Parse failed; {url}. Error: {e}")
 
 # PG Students will be updated and managed manually

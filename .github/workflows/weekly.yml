@@ -45,7 +45,7 @@ jobs:
       - name: Update ACES Committee Details
         run: |
           cd ./python_scripts
-          python3 update_socities.py
+          python3 update_societies.py
           cd ../
 
       - name: Resize staff images

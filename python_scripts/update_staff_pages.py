@@ -1,9 +1,16 @@
+# -------------------------------------------------------------------------------------------
+# Update the staff pages by fetching data from the Taxonomy APIs and saving it to JSON files.
+# Also downloads and saves profile images locally.
+
+# Author: E/15/150 Nuwan Jaliyagoda - nuwanjaliyagoda@eng.pdn.ac.lk
+# -------------------------------------------------------------------------------------------
+
 import json
 import os
-import shutil
-from datetime import datetime
 
 import requests
+
+from python_scripts.util.helpers import delete_folder, download_image
 
 DIRECTORY = "../_data/"
 BASE_URL = "https://portal.ce.pdn.ac.lk/api/taxonomy/v1/term"
@@ -22,14 +29,6 @@ api_metadata = {
         # "last_updated": datetime.now().isoformat(),
     },
 }
-
-
-def delete_folder(dir_path):
-    """Delete the existing folder"""
-    try:
-        shutil.rmtree(dir_path)
-    except FileNotFoundError:
-        print(f"Error: Courses Folder Not Found at path: {dir_path}")
 
 
 def get_staff_list(url):
@@ -65,29 +64,8 @@ def save_staff_list(staff_list, file_url: str, metadata: dict):
         print(f"Failed to save staff list to {file_url}: {e}")
 
 
-def download_image(image_url, save_dir):
-    """Download an image from a URL and save it to a local path."""
-    # Download profile image and update the url_image path
-    try:
-        if image_url and image_url != "#":
-            image_filename = f"/{save_dir}/{image_url.split('/')[-1]}"
-            file_url = "../" + image_filename
-            try:
-                image_response = requests.get(image_url, timeout=10)
-                if image_response.status_code == 200:
-                    os.makedirs(os.path.dirname(file_url), exist_ok=True)
-                    with open(file_url, "wb") as img_file:
-                        img_file.write(image_response.content)
-                    return image_filename
-            except requests.RequestException as e:
-                print(f"Failed to download image for {s.get('name', 'unknown')}: {e}")
-    except IOError as e:
-        print(f"Failed to save image {image_url} to {save_dir}: {e}")
-
-    return "#"
-
-
 # ---------------------------------------------------------------------------
+
 # Clean up existing staff folders
 delete_folder("../images/staff/non-academic-staff")
 
