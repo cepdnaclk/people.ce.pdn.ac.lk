@@ -35,7 +35,7 @@ def get_staff_list(url):
     try:
         response = requests.get(url, timeout=10)
         api_data = response.json()
-        return api_data.get("data", []).get("terms", [])
+        return api_data.get("data", {}).get("terms", [])
     except requests.RequestException as e:
         print(f"Failed to fetch staff list from {url}: {e}")
         return []

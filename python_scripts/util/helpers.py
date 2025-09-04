@@ -27,7 +27,7 @@ def download_image(image_url, save_dir):
                         img_file.write(image_response.content)
                     return image_filename
             except requests.RequestException as e:
-                print(f"Failed to download image for {s.get('name', 'unknown')}: {e}")
+                print(f"Failed to download image from {image_url}: {e}")
 
             try:
                 crop_to_square(file_url)
