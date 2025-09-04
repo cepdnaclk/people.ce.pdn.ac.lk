@@ -9,8 +9,7 @@ import json
 import os
 
 import requests
-
-from python_scripts.util.helpers import delete_folder, download_image
+from util.helpers import delete_folder, download_image
 
 DIRECTORY = "../_data/"
 BASE_URL = "https://portal.ce.pdn.ac.lk/api/taxonomy/v1/term"
