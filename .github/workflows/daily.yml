@@ -68,9 +68,9 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v5
-        with:
-          ref: main
-          fetch-depth: 0
+        # with:
+        #   ref: main
+        #   fetch-depth: 0
 
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
