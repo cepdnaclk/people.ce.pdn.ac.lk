@@ -8,65 +8,18 @@
 import json
 import os
 
-import requests
 import yaml
-from util.helpers import delete_folder
+from util.helpers import delete_folder, get_student_profile, get_students_dict
 
 # Where the data is available
 BASE_URL = "https://api.ce.pdn.ac.lk/people/v1/students/all/"
-
-
-def get_student_profile(data):
-    """Fetch the student profile details from the people.ce.pdn.ac.lk data."""
-    name = ""
-    if data["name_with_initials"] != "":
-        name = data["name_with_initials"]
-    elif data["preferred_long_name"] != "":
-        name = data["preferred_long_name"]
-    elif data["full_name"] != "":
-        name = data["full_name"]
-    else:
-        # Name not found
-        return {}
-
-    profile_img = (
-        "/assets/images/profile_default.jpg"
-        if (data["profile_image"] == "")
-        else data["profile_image"]
-    )
-    profile_url = data["profile_page"].replace("https://people.ce.pdn.ac.lk", "")
-
-    return {
-        "name": name,
-        "eNumber": data["eNumber"],
-        "affiliation": data["current_affiliation"],
-        "profile_url": profile_url,
-        "profile_image": profile_img,
-    }
-
-
-def get_students_dict(url=BASE_URL):
-    # All student details
-    try:
-        response = requests.get(url, timeout=10)
-        api_data = response.json()
-        return api_data
-    except requests.RequestException as e:
-        print(f"Failed to fetch students list from {url}: {e}")
-        return []
-    except ValueError as e:
-        print(f"Failed to parse JSON response from {url}: {e}")
-        return {}
 
 
 def create_society_page(data, students):
     print(" ", data["title"])
 
     page_url = "../pages/societies/pages/{0}.md".format(data["tag"])
-    gh_link = (
-        "https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/societies/"
-        + data["tag"]
-    )
+    gh_link = f"https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/societies/{data['tag']}"
     student_list = []
 
     for s in data["students"]:
@@ -133,7 +86,7 @@ for filename in directory_list:
 
         # Append the student details
         for student in society_data["students"]:
-            eNumber = student["eNumber"]
+            eNumber = student.get("eNumber")
 
             if eNumber not in societies_file["members"]:
                 societies_file["members"][eNumber] = []

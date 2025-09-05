@@ -67,3 +67,45 @@ def crop_to_square(imagePath):
                 print("\t No resize \t {}".format(imagePath))
     else:
         print("\t Not supported \t {}".format(imagePath))
+
+
+def get_student_profile(data):
+    """Fetch the student profile details from the people.ce.pdn.ac.lk data."""
+    name = ""
+    if data["name_with_initials"] != "":
+        name = data["name_with_initials"]
+    elif data["preferred_long_name"] != "":
+        name = data["preferred_long_name"]
+    elif data["full_name"] != "":
+        name = data["full_name"]
+    else:
+        # Name not found
+        return {}
+
+    profile_img = (
+        "/assets/images/profile_default.jpg"
+        if (data["profile_image"] == "")
+        else data["profile_image"]
+    )
+    profile_url = data["profile_page"].replace("https://people.ce.pdn.ac.lk", "")
+
+    return {
+        "name": name,
+        "eNumber": data["eNumber"],
+        "profile_url": profile_url,
+        "profile_image": profile_img,
+    }
+
+
+def get_students_dict(url="https://api.ce.pdn.ac.lk/people/v1/students/all/"):
+    # All student details
+    try:
+        response = requests.get(url, timeout=10)
+        api_data = response.json()
+        return api_data
+    except requests.RequestException as e:
+        print(f"Failed to fetch students list from {url}: {e}")
+        return []
+    except ValueError as e:
+        print(f"Failed to parse JSON response from {url}: {e}")
+        return {}
