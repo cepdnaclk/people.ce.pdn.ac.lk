@@ -4,13 +4,15 @@ import shutil
 import requests
 from PIL import Image  # pip install pillow
 
+MAX_FILE_SIZE_KB = 25
+
 
 def delete_folder(dir_path):
     """Delete the existing folder"""
     try:
         shutil.rmtree(dir_path)
     except FileNotFoundError:
-        print(f"Error: Courses Folder Not Found at path: {dir_path}")
+        print(f"Error: Folder not found at path: {dir_path}")
 
 
 def download_image(image_url, save_dir):
@@ -45,7 +47,7 @@ def crop_to_square(imagePath):
         image = Image.open(imagePath)
         width, height = image.size
         size = os.path.getsize(imagePath) / 1024
-        if size > 25 or (width != height):
+        if size > MAX_FILE_SIZE_KB or (width != height):
             # Resize
             new_width = int(width * 300 / width)
             new_height = int(height * 300 / width)
