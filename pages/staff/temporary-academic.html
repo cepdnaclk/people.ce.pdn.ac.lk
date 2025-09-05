@@ -50,18 +50,22 @@ title: Temporary Academic Staff
       <div class="card-body">
         <h6 class="card-title">{{each.staff_name}}</h6>
         <p class="card-text text-muted">{{each.text_below_name}}</p>
-
-        {% if each.email != "" %}
-        <p class="card-text text-muted small">{{ each.email }}</p>
-        {% endif %}
       </div>
 
       <div class="d-flex flex-row justify-content-evenly mt-auto pb-1">
+        <!-- Linkedin -->
         {% if each.linkedin and each.linkedin != "" %}
         <a class="btn btn-link" href="{{ each.linkedin }}" target="_blank"
           ><i class="fab fa-lg fa-linkedin"></i
         ></a>
-        {%- endif -%}
+        {% endif %}
+
+        <!-- Email -->
+        {% if each.email != "" %}
+        <a class="btn btn-link" href="mailto:{{ each.email }}" target="_blank">
+          <i class="fas fa-lg fa-envelope"></i>
+        </a>
+        {% endif %}
       </div>
     </div>
     {%- endif -%} {%- endfor -%}
@@ -91,16 +95,21 @@ title: Temporary Academic Staff
       <div class="card-body">
         <h6 class="card-title">{{each.staff_name}}</h6>
         <p class="card-text text-muted">{{each.text_below_name}}</p>
-        {% if each.email != "" %}
-        <p class="card-text text-muted small">{{ each.email }}</p>
-        {% endif %}
       </div>
 
-      <div class="d-flex flex-row justify-content-evenly mt-auto pb-1">
+      <div class="d-flex flex-row justify-content-evenly mt-auto">
+        <!-- Linkedin -->
         {% if each.linkedin and each.linkedin != "" %}
         <a class="btn btn-link" href="{{ each.linkedin }}" target="_blank"
           ><i class="fab fa-lg fa-linkedin"></i
         ></a>
+        {% endif %}
+
+        <!-- Email -->
+        {% if each.email != "" %}
+        <a class="btn btn-link" href="mailto:{{ each.email }}" target="_blank">
+          <i class="fas fa-lg fa-envelope"></i>
+        </a>
         {% endif %}
       </div>
     </div>

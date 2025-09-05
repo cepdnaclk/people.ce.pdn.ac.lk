@@ -48,14 +48,29 @@ title: Non-Academic Staff
       <div class="card-body">
         <h6 class="card-title">{{each.staff_name}}</h6>
         <p class="card-text text-muted">{{each.text_below_name}}</p>
+        <div class="d-flex flex-row justify-content-evenly mt-auto">
+          <!-- Email -->
+          {% if each.email != "" %}
+          <a
+            class="btn btn-link"
+            href="mailto:{{ each.email }}"
+            target="_blank"
+          >
+            <i class="fas fa-lg fa-envelope"></i>
+          </a>
+          {% endif %}
 
-        {% if each.contact_number %}
-        <a href="tel:{{each.contact_number}}">{{each.contact_number}}</a>
-        {% endif %}
-        <br />
-        {% if each.email %}
-        <a href="mailto:{{each.email}}">{{each.email}}</a>
-        {% endif %}
+          <!-- Telephone -->
+          {% if each.contact_number %}
+          <a
+            class="btn btn-link"
+            href="tel:{{ each.contact_number }}"
+            target="_blank"
+          >
+            <i class="fas fa-lg fa-phone"></i>
+          </a>
+          {% endif %}
+        </div>
       </div>
     </div>
     {%- endif -%} {%- endfor -%}
@@ -84,14 +99,6 @@ title: Non-Academic Staff
       <div class="card-body">
         <h6 class="card-title">{{each.staff_name}}</h6>
         <p class="card-text text-muted">{{each.text_below_name}}</p>
-
-        {% if each.contact_number %}
-        <a href="tel:{{each.contact_number}}">{{each.contact_number}}</a>
-        {% endif %}
-        <br />
-        {% if each.email %}
-        <a href="mailto:{{each.email}}">{{each.email}}</a>
-        {% endif %}
       </div>
     </div>
     {%- endif -%} {%- endfor -%}
