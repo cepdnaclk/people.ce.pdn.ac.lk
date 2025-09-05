@@ -21,4 +21,4 @@ emptyCommit:
 	git push
 
 run: clean
-	bundle exec jekyll serve --livereload
+	bundle exec jekyll serve --livereload --incremental
