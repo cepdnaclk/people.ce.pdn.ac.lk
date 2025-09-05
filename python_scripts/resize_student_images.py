@@ -1,9 +1,13 @@
+# -------------------------------------------------------------------------------------------
 # Resize all student images to make their size smaller
+
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
+# -------------------------------------------------------------------------------------------
 
 import os
+
 from PIL import Image  # pip install pillow
-from util.crop import crop_to_square
+from util.helpers import crop_to_square
 
 
 def run():
