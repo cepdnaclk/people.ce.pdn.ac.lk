@@ -2280,8 +2280,23 @@
         }
     },
     "namal@eng.pdn.ac.lk": {
-        "count": 5,
+        "count": 6,
         "projects": {
+            "e20": [
+                {
+                    "title": "XAI Driven Threat Intelligence for WiFi 7 6G Using FL and Blockchain Based Trust Sharing",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/XAI-Driven-Threat-Intelligence-for-WiFi-7-6G-Using-FL-and-Blockchain-Based-Trust-Sharing/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-XAI-Driven-Threat-Intelligence-for-WiFi-7-6G-Using-FL-and-Blockchain-Based-Trust-Sharing",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-XAI-Driven-Threat-Intelligence-for-WiFi-7-6G-Using-FL-and-Blockchain-Based-Trust-Sharing",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/XAI-Driven-Threat-Intelligence-for-WiFi-7-6G-Using-FL-and-Blockchain-Based-Trust-Sharing/"
+                }
+            ],
             "e19": [
                 {
                     "title": "NLP Driven IBN Layered Architecture for SDNs",
@@ -3881,8 +3896,23 @@
         }
     },
     "upuljm@eng.pdn.ac.lk": {
-        "count": 11,
+        "count": 12,
         "projects": {
+            "e20": [
+                {
+                    "title": "XAI Driven Threat Intelligence for WiFi 7 6G Using FL and Blockchain Based Trust Sharing",
+                    "category": {
+                        "code": "4yp",
+                        "title": "Undergraduate Research Projects",
+                        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+                    },
+                    "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/XAI-Driven-Threat-Intelligence-for-WiFi-7-6G-Using-FL-and-Blockchain-Based-Trust-Sharing/",
+                    "repo_url": "https://github.com/cepdnaclk/e20-4yp-XAI-Driven-Threat-Intelligence-for-WiFi-7-6G-Using-FL-and-Blockchain-Based-Trust-Sharing",
+                    "page_url": "https://cepdnaclk.github.io/e20-4yp-XAI-Driven-Threat-Intelligence-for-WiFi-7-6G-Using-FL-and-Blockchain-Based-Trust-Sharing",
+                    "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+                    "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/XAI-Driven-Threat-Intelligence-for-WiFi-7-6G-Using-FL-and-Blockchain-Based-Trust-Sharing/"
+                }
+            ],
             "e19": [
                 {
                     "title": "AI Driven Renal Care Management for Hospitals in Sri Lanka",
