@@ -75,13 +75,13 @@ title: Temporary Academic Staff
     <h3 class="text-center">Past Temporary Academic Staff</h3>
     <hr />
     <!-- past academic staff -->
-    {%- for each in site.data.temporary_academic_staff.data -%}
+    {%- for each in site.data.temporary_academic_staff.data reversed -%}
 
     <!-- Check left date -->
     {%- assign left_date = each.left_date | date: '%s' -%}
 
     <!-- Compare the left date with today -->
-    {%- if left_date < today_date -%}
+    {%- if left_date != "" and left_date < today_date -%}
     <div
       class="container card text-center p-2 border-primary m-1"
       style="width: 13rem"
