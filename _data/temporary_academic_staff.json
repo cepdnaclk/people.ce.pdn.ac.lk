@@ -255,7 +255,7 @@
             "email": "e18402@eng.pdn.ac.lk",
             "linkedin": "https://www.linkedin.com/in/chathura-wimalasiri-b0637b1a1",
             "joined_date": "2024-10-01",
-            "left_date": ""
+            "left_date": "2025-09-30"
         },
         {
             "staff_name": "Ishta Jayakody",
@@ -264,7 +264,7 @@
             "email": "e18149@eng.pdn.ac.lk",
             "linkedin": "https://www.linkedin.com/in/ishta-jayakody-b3055123b/",
             "joined_date": "2024-10-01",
-            "left_date": ""
+            "left_date": "2025-09-01"
         },
         {
             "staff_name": "Ridma Jayasundara",
@@ -319,6 +319,33 @@
             "linkedin": "https://www.linkedin.com/in/savindu-wannigama-a62141216/",
             "joined_date": "2024-12-30",
             "left_date": "2025-07-10"
+        },
+        {
+            "staff_name": "Bimbara Rathnayake",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "/images/staff/temporary-academic-staff/bimbara-rathnayake.jpg",
+            "email": "e19324@eng.pdn.ac.lk",
+            "linkedin": "https://linkedin.com/in/bimbara-ratnayake",
+            "joined_date": "2025-08-18",
+            "left_date": "2026-08-17"
+        },
+        {
+            "staff_name": "Chandula Adhikari",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "/images/staff/temporary-academic-staff/chandula-adhikari.jpg",
+            "email": "e19008@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/janith-chandula-adhikari-5543a5223",
+            "joined_date": "2025-08-18",
+            "left_date": "2026-08-17"
+        },
+        {
+            "staff_name": "Sandeep Dassanayake",
+            "text_below_name": "Temporary Instructor",
+            "url_image": "/images/staff/temporary-academic-staff/sandeep-dassanayake.jpg",
+            "email": "e19063@eng.pdn.ac.lk",
+            "linkedin": "https://www.linkedin.com/in/sandeep-dassanayake-37b940244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+            "joined_date": "2025-08-18",
+            "left_date": "2026-08-17"
         }
     ]
 }
