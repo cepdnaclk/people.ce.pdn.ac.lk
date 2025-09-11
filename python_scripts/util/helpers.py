@@ -111,3 +111,8 @@ def get_students_dict(url="https://api.ce.pdn.ac.lk/people/v1/students/all/"):
     except ValueError as e:
         print(f"Failed to parse JSON response from {url}: {e}")
         return {}
+
+
+def get_taxonomy_page(page_url):
+    response = requests.get(page_url, timeout=10)
+    return response.text
