@@ -40,7 +40,7 @@ api_metadata = {
 def get_staff_list(url):
     """Fetch the staff list from the given API URL."""
     try:
-        response = requests.get(url, timeout=10)
+        response = requests.get(url, timeout=30)
         api_data = response.json()
         return api_data.get("data", {}).get("terms", [])
     except requests.RequestException as e:
