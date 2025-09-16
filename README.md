@@ -1,4 +1,3 @@
-
 [![Daily Updates](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/daily.yml/badge.svg)](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/daily.yml)
 [![Weekly Updates](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/weekly.yml/badge.svg)](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/weekly.yml)
 [![pages-build-deployment](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment)
@@ -22,12 +21,12 @@ If you have any doubt about implementation or need to report a bug or a suggesti
 
 - Nuwan Jaliyagoda (<a href="mailto:nuwanjaliyagoda@eng.pdn.ac.lk">nuwanjaliyagoda@eng.pdn.ac.lk</a> | <a href="https://people.ce.pdn.ac.lk/students/e15/140/">more info</a>)
 - Akila Karunanayake (<a href="mailto:
-e17154@eng.pdn.ac.lk">
-e17154@eng.pdn.ac.lk</a> | <a href="https://people.ce.pdn.ac.lk/students/e17/154/">more info</a>)
+  e17154@eng.pdn.ac.lk">
+  e17154@eng.pdn.ac.lk</a> | <a href="https://people.ce.pdn.ac.lk/students/e17/154/">more info</a>)
 - Ishan Fernando (<a href="mailto:e18098@eng.pdn.ac.lk">e18098@eng.pdn.ac.lk</a> | <a href="https://people.ce.pdn.ac.lk/students/e18/098/">more info</a> )
 - Piumal Rathnayake (<a href="mailto:
-e18297@eng.pdn.ac.lk">
-e18297@eng.pdn.ac.lk</a> | <a href="https://people.ce.pdn.ac.lk/students/e18/297/">more info</a> )
+  e18297@eng.pdn.ac.lk">
+  e18297@eng.pdn.ac.lk</a> | <a href="https://people.ce.pdn.ac.lk/students/e18/297/">more info</a> )
 
 ### Contribute
 
