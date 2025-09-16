@@ -111,7 +111,7 @@ for role in academic_staff_raw:
 
         data = {
             "layout": "staffDetails",
-            "permalink": f"/staff/academic/roshan-ragel/{s.get('code', '').strip()}",
+            "permalink": f"/staff/academic/{s.get('code', '').strip()}",
             "title": s.get("name", "").strip(),
             "name_below_image": metadata.get("designation", "").strip(),
             "contact_number": metadata.get("telephone", "").strip(),
@@ -134,7 +134,7 @@ for role in academic_staff_raw:
             "is_hod": metadata.get("is_hod", False),
             "on_duty": metadata.get("on_duty", False),
             "research_interests": [
-                interest.strip()
+                interest.strip('"').strip("'").strip()
                 for interest in metadata.get("research_interests", "").split(",")
             ],
             "page": metadata.get("profile_content", "").strip(),
