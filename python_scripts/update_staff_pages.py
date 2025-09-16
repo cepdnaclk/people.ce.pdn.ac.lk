@@ -109,6 +109,7 @@ for role in academic_staff_raw:
         print(role["name"], ">", s["name"])
         metadata = s.get("metadata", {})
 
+        # TODO Update the keys in staff pages to match new configs
         data = {
             "layout": "staffDetails",
             "permalink": f"/staff/academic/{s.get('code', '').strip()}",
@@ -116,7 +117,7 @@ for role in academic_staff_raw:
             "name_below_image": metadata.get("designation", "").strip(),
             "contact_number": metadata.get("telephone", "").strip(),
             "email": metadata.get("email", "").strip(),
-            "location": "-",
+            "location": metadata.get("location", "-").strip(),
             "text_below_name": metadata.get("designation", "").strip(),
             "url_image": download_image(
                 metadata.get("profile_image", "#").strip(),
