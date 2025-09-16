@@ -247,7 +247,7 @@ image_url: {image_path}
 
             # write data back into json file
             jsonFile = open(jsonPath, "w")
-            jsonFile.write(json.dumps(dataInJSON, indent=4))
+            jsonFile.write(json.dumps(dataInJSON, indent=2))
 
         print("-------------")
 

@@ -69,7 +69,7 @@ if __name__ == "__main__":
             "Processing: " + studentData[REG_NO] + " " + studentData[NAME_WITH_INITIALS]
         )
 
-        print(json.dumps(studentData, indent=4))
+        print(json.dumps(studentData, indent=2))
 
         nameConverted = (
             studentData[NAME_WITH_INITIALS].replace(" ", "").replace(".", "")

@@ -8,16 +8,18 @@
 # This differ form students from the fields department and current appiliation
 # Alumini details may overwrite the details filled in the Student form
 
-import requests
-import os
-import gdown  # pip install gdown
 import json  # to edit _data/exx.json
-import student_profile_page_titles
+import os
+
+import gdown  # pip install gdown
+import requests
 import resize_student_images
+import student_profile_page_titles
 
 googleFromCSV_link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6vtkNtEmxBOW3kAe_8OtJGF4Vcr-BglZgRYF2xvHDwXpLd1yUpzU4Wudxbi4G1WUYT3E-4sVhamjo/pub?output=csv"
-googleFromCSV = requests.get(googleFromCSV_link, headers={
-                             'Cache-Control': 'no-cache'}).text.split("\n")
+googleFromCSV = requests.get(
+    googleFromCSV_link, headers={"Cache-Control": "no-cache"}
+).text.split("\n")
 
 # Index of the CSV parameters
 TIMESTAMP = 0
@@ -44,11 +46,12 @@ URL_IMAGE = 20
 
 if __name__ == "__main__":
     for eachLine in googleFromCSV:
-        studentData = eachLine.replace('\r', '').split(",")
+        studentData = eachLine.replace("\r", "").split(",")
 
         if len(studentData) != 21:
             print(
-                f"Splitted csv is longer/shorter than it should be! {len(studentData)}")
+                f"Splitted csv is longer/shorter than it should be! {len(studentData)}"
+            )
             quit()
 
         if ":" not in studentData[0]:
@@ -79,15 +82,19 @@ if __name__ == "__main__":
             print(f"Downloading image to {image_path}")
             isImageDownloaded = True
             # print(len(studentData[URL_IMAGE]))
-            gdown.download("https://drive.google.com/uc?id=" +
-                           studentData[URL_IMAGE].split("=")[1].strip(), "../"+image_path, quiet=True)
+            gdown.download(
+                "https://drive.google.com/uc?id="
+                + studentData[URL_IMAGE].split("=")[1].strip(),
+                "../" + image_path,
+                quiet=True,
+            )
             # os.system(
             #     f"wget https://drive.google.com/uc?id={studentData[URL_IMAGE].split('=')[1].strip()} -O ../{image_path}")
         else:
             print("Image not specified")
 
         # add # to all empty fields
-        for i in range(0, URL_IMAGE+1):
+        for i in range(0, URL_IMAGE + 1):
             if studentData[i] == "":
                 studentData[i] = "#"
 
@@ -127,7 +134,7 @@ image_url: {image_path}
 ---"""
 
         # write to html file
-        file_url = "../"+f"pages/students/e{batch}/e{batch}{regNo}.html"
+        file_url = "../" + f"pages/students/e{batch}/e{batch}{regNo}.html"
         os.makedirs(os.path.dirname(file_url), exist_ok=True)
         htmlFile = open(file_url, "w")
         htmlFile.write(outputString)
@@ -154,7 +161,7 @@ image_url: {image_path}
 
             # write data back into json file
             jsonFile = open(jsonPath, "w")
-            jsonFile.write(json.dumps(dataInJSON, indent=4))
+            jsonFile.write(json.dumps(dataInJSON, indent=2))
 
         print("-------------")
 

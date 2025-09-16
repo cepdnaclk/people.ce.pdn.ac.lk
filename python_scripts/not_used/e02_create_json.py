@@ -1,3 +1,5 @@
+import json
+
 ## Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 input = """E/02A/002		P.A.C. Abeywicrama		2nd class honours (Upper)
 E/02A/004		B.A.S.P. Abeysekara		2nd class honours (Lower)
@@ -47,10 +49,14 @@ for eachLine in inputSplitted:
     data = eachLine.split("\t")
     regNo = data[0]
     name = data[2]
-    outputJSON[regNo] = {"reg_no": regNo, "name_with_initials": name,
-                         "image_url": "images/students/default.jpg"}
+    outputJSON[regNo] = {
+        "reg_no": regNo,
+        "name_with_initials": name,
+        "image_url": "images/students/default.jpg",
+    }
 
-outputFile = open("../_data/stud/e02.json","w")
-import json
-outputFile.write(json.dumps(outputJSON,indent=4))
+outputFile = open("../_data/stud/e02.json", "w")
+
+
+outputFile.write(json.dumps(outputJSON, indent=2))
 outputFile.close()

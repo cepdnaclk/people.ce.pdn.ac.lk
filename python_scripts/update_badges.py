@@ -63,7 +63,7 @@ def save_badges_json(badges_file):
     """Save the badges data to a JSON file."""
     os.makedirs(os.path.dirname(BADGES_JSON_PATH), exist_ok=True)
     with open(BADGES_JSON_PATH, "w") as f:
-        f.write(json.dumps(badges_file, indent=4))
+        f.write(json.dumps(badges_file, indent=2))
 
 
 students = get_students_dict()
