@@ -1,102 +1,102 @@
 {
-    "E/97/307": {
-        "reg_no": "E/97/307",
-        "name_with_initials": "Silva R.L.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/009": {
-        "reg_no": "E/98/009",
-        "name_with_initials": "Alahakoon A.A.R.D.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/050": {
-        "reg_no": "E/98/050",
-        "name_with_initials": "Dissanayake Y.M.Y.P.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/052": {
-        "reg_no": "E/98/052",
-        "name_with_initials": "Edirisinghe L.G.S.N.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/062": {
-        "reg_no": "E/98/062",
-        "name_with_initials": "Gajan P.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/067": {
-        "reg_no": "E/98/067",
-        "name_with_initials": "Gamalath G.H.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/069": {
-        "reg_no": "E/98/069",
-        "name_with_initials": "Ganes T.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/095": {
-        "reg_no": "E/98/095",
-        "name_with_initials": "Janagan S.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/103": {
-        "reg_no": "E/98/103",
-        "name_with_initials": "Jayasundara S.R.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/106": {
-        "reg_no": "E/98/106",
-        "name_with_initials": "Jayatilake W.M.D.N.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/116": {
-        "reg_no": "E/98/116",
-        "name_with_initials": "Kalubowila K.S.D.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/124": {
-        "reg_no": "E/98/124",
-        "name_with_initials": "Karunarathna J.D.D.M.K.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/179": {
-        "reg_no": "E/98/179",
-        "name_with_initials": "Panangalage R.T.A.L.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/180": {
-        "reg_no": "E/98/180",
-        "name_with_initials": "Panangalage T.R.A.W.L.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/206": {
-        "reg_no": "E/98/206",
-        "name_with_initials": "Rajapaksa R.M.N.B.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/219": {
-        "reg_no": "E/98/219",
-        "name_with_initials": "Rohitha L.K.T.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/229": {
-        "reg_no": "E/98/229",
-        "name_with_initials": "Samarasinghe R.K.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/241": {
-        "reg_no": "E/98/241",
-        "name_with_initials": "Senthilkumar S.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/258": {
-        "reg_no": "E/98/258",
-        "name_with_initials": "Sivasothy S.",
-        "image_url": "images/students/default.jpg"
-    },
-    "E/98/280": {
-        "reg_no": "E/98/280",
-        "name_with_initials": "Thisankar A.",
-        "image_url": "images/students/default.jpg"
-    }
+  "E/97/307": {
+    "reg_no": "E/97/307",
+    "name_with_initials": "Silva R.L.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/009": {
+    "reg_no": "E/98/009",
+    "name_with_initials": "Alahakoon A.A.R.D.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/050": {
+    "reg_no": "E/98/050",
+    "name_with_initials": "Dissanayake Y.M.Y.P.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/052": {
+    "reg_no": "E/98/052",
+    "name_with_initials": "Edirisinghe L.G.S.N.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/062": {
+    "reg_no": "E/98/062",
+    "name_with_initials": "Gajan P.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/067": {
+    "reg_no": "E/98/067",
+    "name_with_initials": "Gamalath G.H.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/069": {
+    "reg_no": "E/98/069",
+    "name_with_initials": "Ganes T.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/095": {
+    "reg_no": "E/98/095",
+    "name_with_initials": "Janagan S.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/103": {
+    "reg_no": "E/98/103",
+    "name_with_initials": "Jayasundara S.R.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/106": {
+    "reg_no": "E/98/106",
+    "name_with_initials": "Jayatilake W.M.D.N.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/116": {
+    "reg_no": "E/98/116",
+    "name_with_initials": "Kalubowila K.S.D.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/124": {
+    "reg_no": "E/98/124",
+    "name_with_initials": "Karunarathna J.D.D.M.K.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/179": {
+    "reg_no": "E/98/179",
+    "name_with_initials": "Panangalage R.T.A.L.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/180": {
+    "reg_no": "E/98/180",
+    "name_with_initials": "Panangalage T.R.A.W.L.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/206": {
+    "reg_no": "E/98/206",
+    "name_with_initials": "Rajapaksa R.M.N.B.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/219": {
+    "reg_no": "E/98/219",
+    "name_with_initials": "Rohitha L.K.T.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/229": {
+    "reg_no": "E/98/229",
+    "name_with_initials": "Samarasinghe R.K.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/241": {
+    "reg_no": "E/98/241",
+    "name_with_initials": "Senthilkumar S.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/258": {
+    "reg_no": "E/98/258",
+    "name_with_initials": "Sivasothy S.",
+    "image_url": "images/students/default.jpg"
+  },
+  "E/98/280": {
+    "reg_no": "E/98/280",
+    "name_with_initials": "Thisankar A.",
+    "image_url": "images/students/default.jpg"
+  }
 }
