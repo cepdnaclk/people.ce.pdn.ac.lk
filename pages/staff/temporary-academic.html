@@ -37,10 +37,7 @@ title: Temporary Academic Staff
 
     <!-- Compare the left date with today -->
     {%- if each.left_date == "" or left_date > today_date -%}
-    <div
-      class="container card text-center p-2 border-primary m-1"
-      style="width: 13rem"
-    >
+    <div class="container card text-center p-2 border-primary m-1" style="width: 13rem">
       <img
         src="{{ each.url_image | relative_url }}"
         style="border-radius: 7%"
@@ -55,9 +52,9 @@ title: Temporary Academic Staff
       <div class="d-flex flex-row justify-content-center mt-auto pb-1">
         <!-- Linkedin -->
         {% if each.linkedin and each.linkedin != "#" %}
-        <a class="btn btn-link" href="{{ each.linkedin }}" target="_blank"
-          ><i class="fab fa-lg fa-linkedin"></i
-        ></a>
+        <a class="btn btn-link" href="{{ each.linkedin }}" target="_blank">
+          <i class="fab fa-lg fa-linkedin"></i>
+        </a>
         {% endif %}
 
         <!-- Email -->
@@ -82,10 +79,7 @@ title: Temporary Academic Staff
 
     <!-- Compare the left date with today -->
     {%- if left_date != "" and left_date < today_date -%}
-    <div
-      class="container card text-center p-2 border-primary m-1"
-      style="width: 13rem"
-    >
+    <div class="container card text-center p-2 border-primary m-1" style="width: 13rem">
       <img
         src="{{ each.url_image | relative_url }}"
         style="border-radius: 7%"
@@ -100,9 +94,9 @@ title: Temporary Academic Staff
       <div class="d-flex flex-row justify-content-center mt-auto">
         <!-- Linkedin -->
         {% if each.linkedin and each.linkedin != "#" %}
-        <a class="btn btn-link" href="{{ each.linkedin }}" target="_blank"
-          ><i class="fab fa-lg fa-linkedin"></i
-        ></a>
+        <a class="btn btn-link" href="{{ each.linkedin }}" target="_blank">
+          <i class="fab fa-lg fa-linkedin"></i>
+        </a>
         {% endif %}
 
         <!-- Email -->

@@ -25,8 +25,7 @@
       if (n < r) return !1;
       if (r === n) return t === e;
       t: for (var i = 0, o = 0; i < r; i++) {
-        for (var u = t.charCodeAt(i); o < n; )
-          if (e.charCodeAt(o++) === u) continue t;
+        for (var u = t.charCodeAt(i); o < n; ) if (e.charCodeAt(o++) === u) continue t;
         return !1;
       }
       return !0;
@@ -52,17 +51,13 @@
         if (l(t)) return a(t);
         if (
           (function (t) {
-            return (
-              Boolean(t) &&
-              "[object Array]" === Object.prototype.toString.call(t)
-            );
+            return Boolean(t) && "[object Array]" === Object.prototype.toString.call(t);
           })(t)
         )
           return (function (n) {
             const r = [];
             s();
-            for (let t = 0, e = n.length; t < e; t++)
-              l(n[t]) && r.push(a(n[t]));
+            for (let t = 0, e = n.length; t < e; t++) l(n[t]) && r.push(a(n[t]));
             return r;
           })(t);
         return undefined;
@@ -111,9 +106,7 @@
     return ((u.length = 0), u);
   }
   function l(t) {
-    return (
-      Boolean(t) && "[object Object]" === Object.prototype.toString.call(t)
-    );
+    return Boolean(t) && "[object Object]" === Object.prototype.toString.call(t);
   }
   function a(t) {
     return (u.push(t), u);
@@ -142,10 +135,7 @@
     };
   }
   var m = function y(t) {
-      if (
-        !(e = t) ||
-        !("undefined" != typeof e.required && e.required instanceof Array)
-      )
+      if (!(e = t) || !("undefined" != typeof e.required && e.required instanceof Array))
         throw new Error("-- OptionsValidator: required options missing");
       var e;
       if (!(this instanceof y)) return new y(t);
@@ -166,8 +156,7 @@
     w = {
       merge: function (t, e) {
         const n = {};
-        for (const r in t)
-          ((n[r] = t[r]), "undefined" != typeof e[r] && (n[r] = e[r]));
+        for (const r in t) ((n[r] = t[r]), "undefined" != typeof e[r] && (n[r] = e[r]));
         return n;
       },
       isJSON: function (t) {
@@ -234,8 +223,7 @@
     }
     t.SimpleJekyllSearch = function (t) {
       var n;
-      (0 < o.validate(t).length &&
-        a("You must specify the following required options: " + r),
+      (0 < o.validate(t).length && a("You must specify the following required options: " + r),
         (i = w.merge(i, t)),
         f.setOptions({
           template: i.searchResultTemplate,

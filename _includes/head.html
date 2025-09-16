@@ -7,25 +7,13 @@
   integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
   crossorigin="anonymous"
 />
-<link
-  href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900"
-  rel="stylesheet"
-/>
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet" />
 <link href="{{ '/assets/css/index.css' | relative_url }}" rel="stylesheet" />
 
 <!-- Load brand icons -->
-<link
-  href="{{ '/assets/fontawesome/fontawesome.min.css' | relative_url }}"
-  rel="stylesheet"
-/>
-<link
-  href="{{ '/assets/fontawesome/solid.min.css' | relative_url }}"
-  rel="stylesheet"
-/>
-<link
-  href="{{ '/assets/fontawesome/brands.min.css' | relative_url }}"
-  rel="stylesheet"
-/>
+<link href="{{ '/assets/fontawesome/fontawesome.min.css' | relative_url }}" rel="stylesheet" />
+<link href="{{ '/assets/fontawesome/solid.min.css' | relative_url }}" rel="stylesheet" />
+<link href="{{ '/assets/fontawesome/brands.min.css' | relative_url }}" rel="stylesheet" />
 
 <!-- JavaScript files -->
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
@@ -41,23 +29,23 @@
 ></script>
 <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
 
-{%- if page.layout=="documentation" -%} {%- comment -%} Add the syntax
-highlighter for the documentation pages {%- endcomment -%}
+{%- if page.layout=="documentation" -%} {%- comment -%} Add the syntax highlighter for the
+documentation pages {%- endcomment -%}
 <link
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/atom-one-light.min.css"
 />
 <link rel="stylesheet" href="{{ '/assets/css/dracula.css' | relative_url }}" />
-{%- endif -%} {%- comment -%} Prevent the page from shifting a bit when there is
-no scrollbar {%- endcomment -%}
+{%- endif -%} {%- comment -%} Prevent the page from shifting a bit when there is no scrollbar {%-
+endcomment -%}
 <style>
   body {
     overflow-y: scroll;
   }
 </style>
 
-{%- comment -%} Wrap the code block around the command in documentation pages
-{%- endcomment -%} {% if page.layout == "documentation" %}
+{%- comment -%} Wrap the code block around the command in documentation pages {%- endcomment -%} {%
+if page.layout == "documentation" %}
 <style>
   pre {
     display: flex;

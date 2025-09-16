@@ -4,8 +4,7 @@ title: Seminar Organizing Team
 subtitle: ""
 permalink: /badges/CO-seminar-organisers-badge/
 badge_image: images/badges/CO-seminar-organisers-badge.png
-badge_description:
-  The Seminar Organizing Team is a group of volunteers assisting
+badge_description: The Seminar Organizing Team is a group of volunteers assisting
   to Organize seminars for students in the University of Peradeniya as well as other
   student's in other universities.
 badge_criteria: Actively contributed to the Seminar Organizing Team activities

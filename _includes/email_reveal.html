@@ -1,13 +1,10 @@
-{%- assign hash_0 = include.email | split: "@" | first | replace: ".", "_" -%}
-{%- assign hash_1 = hash_0 | append: "_target" | replace: ".", "_" -%} {%-
-assign encrypted_email = include.email | replace: "@", "*9gUdm]" -%} {%- if
-include.text -%} {%- assign text_msg = include.text -%} {%- else -%} {%- assign
-text_msg = "Show" -%} {%- endif -%}
+{%- assign hash_0 = include.email | split: "@" | first | replace: ".", "_" -%} {%- assign hash_1 =
+hash_0 | append: "_target" | replace: ".", "_" -%} {%- assign encrypted_email = include.email |
+replace: "@", "*9gUdm]" -%} {%- if include.text -%} {%- assign text_msg = include.text -%} {%- else
+-%} {%- assign text_msg = "Show" -%} {%- endif -%}
 
 <span id="{{hash_1}}" style="display: none">
-  <a id="{{hash_0}}_email" href="mailto:{{encrypted_email}}"
-    >{{encrypted_email}}</a
-  >
+  <a id="{{hash_0}}_email" href="mailto:{{encrypted_email}}">{{encrypted_email}}</a>
 </span>
 <button
   id="{{hash_0}}"

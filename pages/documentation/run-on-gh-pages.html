@@ -10,25 +10,29 @@ title: How to run this website on GitHub Pages?
 
 <ol>
   <li>
-    First, <i>Fork</i> the GitHub Repository (<a
-      target="_blank"
-      href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk"
-      >this</a
-    >) into your GitHub account/organization
+    First,
+    <i>Fork</i>
+    the GitHub Repository (
+    <a target="_blank" href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk">this</a>
+    ) into your GitHub account/organization
   </li>
 
   <li>
-    Next, delete the file named, <i>CNAME</i> in the root folder. (This is the
-    file used to configure the subdomain people.ce.pdn.ac.lk and you may not
-    need it)
+    Next, delete the file named,
+    <i>CNAME</i>
+    in the root folder. (This is the file used to configure the subdomain people.ce.pdn.ac.lk and
+    you may not need it)
   </li>
 
   <li>
     Since now you are hosting the website in a directory like
-    <i>https://{your-github-profile-id}.github.io/people.ce.pdn.ac.lk/</i>, you
-    need to alter the configuration file to generate the links according to it.
-    Please visit the <i>_config.yml</i> file in the root folder, and update the
-    <i>baseurl</i> as follows:
+    <i>https://{your-github-profile-id}.github.io/people.ce.pdn.ac.lk/</i>
+    , you need to alter the configuration file to generate the links according to it. Please visit
+    the
+    <i>_config.yml</i>
+    file in the root folder, and update the
+    <i>baseurl</i>
+    as follows:
     <br />
     <pre>
             <code class="language-yaml">baseurl: "/people.ce.pdn.ac.lk"</code>
@@ -36,10 +40,17 @@ title: How to run this website on GitHub Pages?
   </li>
 
   <li>
-    Now, you can go to <i>Settings > Pages</i> in your forked GitHub repository,
-    select the <b>Source</b> as your default branch (by default, it is
-    <i>main</i>) and the folder as <i>/(root)</i>, and hit the
-    <b>Save</b> button.
+    Now, you can go to
+    <i>Settings > Pages</i>
+    in your forked GitHub repository, select the
+    <b>Source</b>
+    as your default branch (by default, it is
+    <i>main</i>
+    ) and the folder as
+    <i>/(root)</i>
+    , and hit the
+    <b>Save</b>
+    button.
     <br />
     <img
       class="img"
@@ -49,9 +60,10 @@ title: How to run this website on GitHub Pages?
   </li>
 
   <li>
-    The <i>page-build</i> process will take several minutes and after that, you
-    can visit the people site under your GitHub pages subdomain, from a URL in
-    format,
+    The
+    <i>page-build</i>
+    process will take several minutes and after that, you can visit the people site under your
+    GitHub pages subdomain, from a URL in format,
     <i>https://{your-github-profile-id}.github.io/people.ce.pdn.ac.lk/</i>
   </li>
 </ol>
@@ -60,10 +72,14 @@ title: How to run this website on GitHub Pages?
   <div class="card text-white bg-danger m-3">
     <div class="card-header">Warning</div>
     <div class="card-body">
-      Here, you are deleting the <i>CNAME</i> record and altering the
-      <i>_config.yml</i> file. But make sure to set them back into the original
-      status if you are making a pull request from your repository to the base
-      repository in <i>cepdnaclk</i> organization
+      Here, you are deleting the
+      <i>CNAME</i>
+      record and altering the
+      <i>_config.yml</i>
+      file. But make sure to set them back into the original status if you are making a pull request
+      from your repository to the base repository in
+      <i>cepdnaclk</i>
+      organization
     </div>
   </div>
 </div>

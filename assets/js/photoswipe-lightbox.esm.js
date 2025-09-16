@@ -73,9 +73,7 @@ function getElementsFromOption(option, legacySelector, parent = document) {
 }
 
 function dynamicImportModule(module) {
-  return typeof module === "string"
-    ? import(/* webpackIgnore: true */ module)
-    : module;
+  return typeof module === "string" ? import(/* webpackIgnore: true */ module) : module;
 }
 
 /**
@@ -119,9 +117,7 @@ class Eventable {
 
   removeFilter(name, fn) {
     if (this._filters[name]) {
-      this._filters[name] = this._filters[name].filter(
-        (filter) => filter.fn !== fn
-      );
+      this._filters[name] = this._filters[name].filter((filter) => filter.fn !== fn);
     }
 
     if (this.pswp) {
@@ -154,9 +150,7 @@ class Eventable {
 
   off(name, fn) {
     if (this._listeners[name]) {
-      this._listeners[name] = this._listeners[name].filter(
-        (listener) => fn !== listener
-      );
+      this._listeners[name] = this._listeners[name].filter((listener) => fn !== listener);
     }
 
     if (this.pswp) {
@@ -335,8 +329,7 @@ class ImageContent extends Content {
       // so we store largest used size in dataset.
       if (
         image.srcset &&
-        (!image.dataset.largestUsedSize ||
-          width > image.dataset.largestUsedSize)
+        (!image.dataset.largestUsedSize || width > image.dataset.largestUsedSize)
       ) {
         image.sizes = width + "px";
         image.dataset.largestUsedSize = width;
@@ -563,11 +556,8 @@ class PhotoSwipeBase extends Eventable {
   _getGalleryDOMElements(galleryElement) {
     if (this.options.children || this.options.childSelector) {
       return (
-        getElementsFromOption(
-          this.options.children,
-          this.options.childSelector,
-          galleryElement
-        ) || []
+        getElementsFromOption(this.options.children, this.options.childSelector, galleryElement) ||
+        []
       );
     }
 
@@ -585,8 +575,7 @@ class PhotoSwipeBase extends Eventable {
       element,
     };
 
-    const linkEl =
-      element.tagName === "A" ? element : element.querySelector("a");
+    const linkEl = element.tagName === "A" ? element : element.querySelector("a");
 
     if (linkEl) {
       // src comes from data-pswp-src attribute,
@@ -914,9 +903,7 @@ function lazyLoadData(itemData, instance, index) {
 function lazyLoadSlide(index, instance) {
   const itemData = instance.getItemData(index);
 
-  if (
-    instance.dispatch("lazyLoadSlide", { index, itemData }).defaultPrevented
-  ) {
+  if (instance.dispatch("lazyLoadSlide", { index, itemData }).defaultPrevented) {
     return;
   }
 
@@ -950,12 +937,11 @@ class PhotoSwipeLightbox extends PhotoSwipeBase {
     this.onThumbnailsClick = this.onThumbnailsClick.bind(this);
 
     // Bind click events to each gallery
-    getElementsFromOption(
-      this.options.gallery,
-      this.options.gallerySelector
-    ).forEach((galleryElement) => {
-      galleryElement.addEventListener("click", this.onThumbnailsClick, false);
-    });
+    getElementsFromOption(this.options.gallery, this.options.gallerySelector).forEach(
+      (galleryElement) => {
+        galleryElement.addEventListener("click", this.onThumbnailsClick, false);
+      }
+    );
   }
 
   onThumbnailsClick(e) {
@@ -1148,16 +1134,11 @@ class PhotoSwipeLightbox extends PhotoSwipeBase {
     this.shouldOpen = false;
     this._listeners = null;
 
-    getElementsFromOption(
-      this.options.gallery,
-      this.options.gallerySelector
-    ).forEach((galleryElement) => {
-      galleryElement.removeEventListener(
-        "click",
-        this.onThumbnailsClick,
-        false
-      );
-    });
+    getElementsFromOption(this.options.gallery, this.options.gallerySelector).forEach(
+      (galleryElement) => {
+        galleryElement.removeEventListener("click", this.onThumbnailsClick, false);
+      }
+    );
   }
 }
 

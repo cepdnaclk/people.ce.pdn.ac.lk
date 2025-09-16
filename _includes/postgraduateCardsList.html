@@ -1,13 +1,11 @@
-{%- comment -%} Used to create the cards in the postgraduate index page inputs:
-degree {%- endcomment -%} {% assign profilePages = site.pages | where: "layout",
-"postgraduateDetails" | where: "degree", include.degree | sort:
-"index_in_card_list" | reverse%} {% if profilePages[0] %}
+{%- comment -%} Used to create the cards in the postgraduate index page inputs: degree {%-
+endcomment -%} {% assign profilePages = site.pages | where: "layout", "postgraduateDetails" | where:
+"degree", include.degree | sort: "index_in_card_list" | reverse%} {% if profilePages[0] %}
 <h3 id="{{ include.degree }}" class="text-center pt-2">
   <!-- Will add some custom title in future -->
-  {%- if include.degree == "PhD" -%} PhD Students {%- elsif include.degree ==
-  "MPhil" -%} MPhil Students {%- elsif include.degree == "MSc" -%} MSc Students
-  {%- elsif include.degree == "MEng" -%} MEng Students {%- elsif include.degree
-  == "Provisional" -%} Other {%- endif -%}
+  {%- if include.degree == "PhD" -%} PhD Students {%- elsif include.degree == "MPhil" -%} MPhil
+  Students {%- elsif include.degree == "MSc" -%} MSc Students {%- elsif include.degree == "MEng" -%}
+  MEng Students {%- elsif include.degree == "Provisional" -%} Other {%- endif -%}
 </h3>
 <hr />
 
@@ -38,11 +36,7 @@ degree {%- endcomment -%} {% assign profilePages = site.pages | where: "layout",
     {% endif %}
     <!-- card button -->
     <div class="d-flex flex-row justify-content-center mt-auto">
-      <a
-        class="btn btn-outline-primary w-100"
-        href="{{ item.permalink | relative_url }}"
-        >View</a
-      >
+      <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
     </div>
   </div>
 </div>

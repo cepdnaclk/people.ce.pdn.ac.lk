@@ -10,13 +10,17 @@ title: How to add a new Student Profile page?
 
 There are 2 methods of adding a new Student Profile page.
 <ol>
-  <li>Update using the <i>Google Form</i></li>
+  <li>
+    Update using the
+    <i>Google Form</i>
+  </li>
   <ul>
     <li>This is the easiest method to add a new profile page.</li>
     <!-- <li>The batches, E14 and after, use this <a href="{{ '/forms/student' | relative_url }}">Form.</a></li>
         <li>For previous batches, use this <a href="{{ '/forms/alumni' | relative_url }}">Form.</a></li> -->
     <li>
-      View Google <a href="{{ '/form/unified' | relative_url }}">Form.</a>
+      View Google
+      <a href="{{ '/form/unified' | relative_url }}">Form.</a>
     </li>
   </ul>
   <ul>
@@ -24,24 +28,33 @@ There are 2 methods of adding a new Student Profile page.
     <ul>
       <li>
         Do not update using Pull Requests if you have already filled the
-        <i>Google Form</i>.
+        <i>Google Form</i>
+        .
       </li>
     </ul>
   </ul>
-  <li>Update using <i>GitHub Pull Request</i></li>
+  <li>
+    Update using
+    <i>GitHub Pull Request</i>
+  </li>
   <ul>
     <li>This method is comparatively harder.</li>
     <li>
-      Follow the steps below to add a new profile page using <i>Pull Request</i>
+      Follow the steps below to add a new profile page using
+      <i>Pull Request</i>
     </li>
   </ul>
 </ol>
-<h5>Update using <i>GitHub Pull Request</i></h5>
+<h5>
+  Update using
+  <i>GitHub Pull Request</i>
+</h5>
 <ol>
   <li>
-    <a href="https://github.com/login" target="_blank">Login</a> to your GitHub
-    account. If you don't have an account. Please
-    <a href="https://github.com/signup" target="_blank">Sign up</a>.
+    <a href="https://github.com/login" target="_blank">Login</a>
+    to your GitHub account. If you don't have an account. Please
+    <a href="https://github.com/signup" target="_blank">Sign up</a>
+    .
   </li>
   <br />
 
@@ -50,15 +63,16 @@ There are 2 methods of adding a new Student Profile page.
     <a
       href="{{'https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/pages/students'}}"
       target="_blank"
-      >this</a
     >
+      this
+    </a>
     link.
   </li>
   <br />
 
   <li>
-    Select your {% include documentation_image.html
-    url_image='/images/docs/click_your_batch.PNG' text='batch'%}.
+    Select your {% include documentation_image.html url_image='/images/docs/click_your_batch.PNG'
+    text='batch'%}.
   </li>
   <br />
 
@@ -71,20 +85,17 @@ There are 2 methods of adding a new Student Profile page.
   <li>Write the file name in the given textbox.</li>
   <ul>
     <li>
-      It should be in "e18596.html" format. Please replace "18596" with your
-      registration number.
+      It should be in "e18596.html" format. Please replace "18596" with your registration number.
     </li>
     <li>
-      {% include documentation_image.html url_image='/images/docs/file_name.PNG'
-      text='Example' %}
+      {% include documentation_image.html url_image='/images/docs/file_name.PNG' text='Example' %}
     </li>
   </ul>
   <br />
 
   <li>
     Copy and paste the code below into the {% include documentation_image.html
-    url_image='/images/docs/copy_paste_text.PNG' text='textbox'%} in the opened
-    webpage
+    url_image='/images/docs/copy_paste_text.PNG' text='textbox'%} in the opened webpage
   </li>
   <br />
   <pre><code>---
@@ -126,19 +137,15 @@ image_url: "images/students/default.jpg"
   <li>Edit the following lines</li>
   <ul>
     <li>
-      permalink: Replace 18 with your batch number, and 596 with your reg
-      number. The result should look like if you are E/14/154,
+      permalink: Replace 18 with your batch number, and 596 with your reg number. The result should
+      look like if you are E/14/154,
       <pre><code>permalink: "/students/e14/154/"</code></pre>
     </li>
     <li>reg_no: Type your registration number in the given format</li>
     <li>batch: Type your batch number in the given format</li>
     <li>
       from "full_name:" to "projects_done:" please read step 4 of
-      <a
-        href="{{ '/documentation/edit-student-page/' | relative_url }}"
-        target="_blank"
-        >this</a
-      >
+      <a href="{{ '/documentation/edit-student-page/' | relative_url }}" target="_blank">this</a>
       documentation
     </li>
     <li>Do not change "image_url:" for now. It will be done later.</li>
@@ -168,10 +175,7 @@ image_url: "images/students/default.jpg"
 
   <li>
     After it its approved, Please follow
-    <a
-      href="{{ '/documentation/change-add-student-profile-pic/' | relative_url }}"
-      >these</a
-    >
+    <a href="{{ '/documentation/change-add-student-profile-pic/' | relative_url }}">these</a>
     instructions to add your profile picture.
   </li>
 </ol>

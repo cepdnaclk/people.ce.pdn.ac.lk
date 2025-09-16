@@ -38,8 +38,7 @@ body {
   z-index: 97;
   padding: 21px;
   background-color: #0d6efd !important;
-  background: url("https://people.ce.pdn.ac.lk/assets/img/cd-top-arrow.svg")
-    no-repeat center 50%;
+  background: url("https://people.ce.pdn.ac.lk/assets/img/cd-top-arrow.svg") no-repeat center 50%;
   background-color: hsla(5, 76%, 62%, 0.8);
 }
 
@@ -50,8 +49,7 @@ body {
   z-index: 98;
   padding: 21px;
   background-color: #0dfc5e !important;
-  background: url("https://people.ce.pdn.ac.lk/assets/img/cd-top-edit.svg")
-    no-repeat center 50%;
+  background: url("https://people.ce.pdn.ac.lk/assets/img/cd-top-edit.svg") no-repeat center 50%;
   background-color: hsla(5, 76%, 62%, 0.8);
 }
 
@@ -85,12 +83,7 @@ body {
   width: 40px;
   width: var(--cd-back-to-top-size);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.05) !important;
-  background-color: hsla(
-    var(--cd-color-3-h),
-    var(--cd-color-3-s),
-    var(--cd-color-3-l),
-    0.8
-  );
+  background-color: hsla(var(--cd-color-3-h), var(--cd-color-3-s), var(--cd-color-3-l), 0.8);
 }
 
 /* Custom css for breadcrumb divider color*/

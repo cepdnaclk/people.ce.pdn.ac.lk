@@ -29,6 +29,7 @@ permalink: pretty
 exclude:
   [
     "node_modules/",
+    ".mypy_cache/",
     "*.gemspec",
     "*.gem",
     "Gemfile",

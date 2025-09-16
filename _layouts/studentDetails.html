@@ -2,28 +2,24 @@
 layout: default
 ---
 
-{%- comment -%} This layout is for creating the single page containing the
-details of each student sample frontmatter, --- layout: studentDetails
-permalink: "/students/e18/098/" title: K.A.I. Fernando reg_no: E/18/098 batch:
-E18 department: Computer Engineering current_affiliation: Department of Computer
-Engineering, University of Peradeniya full_name: Kurukulasuriya Anton Ishan
-Fernando name_with_initials: K.A.I. Fernando preferred_short_name: Ishan
-preferred_long_name: Ishan Fernando honorific: Mr. email_faculty:
-e18098@eng.pdn.ac.lk email_personal: # location: Negombo url_cv: # url_website:
-# url_linkedin: # url_github: https://github.com/ishanfdo18098 url_facebook:
-https://facebook.com/ishanfdo url_researchgate: # url_twitter: # interests: #
-image_url: "images/students/e18/e18098.jpg" --- NOTES: 1) if url = # it will
-show N/A, for everything else it will show the View button 2) Social Media
-links, location are optional 3) title can be automatically updated using github
-action (uses python_scripts/student_profile_page_titles.py) {%- endcomment -%}
+{%- comment -%} This layout is for creating the single page containing the details of each student
+sample frontmatter, --- layout: studentDetails permalink: "/students/e18/098/" title: K.A.I.
+Fernando reg_no: E/18/098 batch: E18 department: Computer Engineering current_affiliation:
+Department of Computer Engineering, University of Peradeniya full_name: Kurukulasuriya Anton Ishan
+Fernando name_with_initials: K.A.I. Fernando preferred_short_name: Ishan preferred_long_name: Ishan
+Fernando honorific: Mr. email_faculty: e18098@eng.pdn.ac.lk email_personal: # location: Negombo
+url_cv: # url_website: # url_linkedin: # url_github: https://github.com/ishanfdo18098 url_facebook:
+https://facebook.com/ishanfdo url_researchgate: # url_twitter: # interests: # image_url:
+"images/students/e18/e18098.jpg" --- NOTES: 1) if url = # it will show N/A, for everything else it
+will show the View button 2) Social Media links, location are optional 3) title can be automatically
+updated using github action (uses python_scripts/student_profile_page_titles.py) {%- endcomment -%}
 
 <!-- Badges -->
-{%- assign badges = site.data.badges.members[page.reg_no] -%} {%- assign
-badge_count = 0 -%}
+{%- assign badges = site.data.badges.members[page.reg_no] -%} {%- assign badge_count = 0 -%}
 <!-- count the numbere of visible badges -->
-{% for badge in badges %} {%- assign badge_details =
-site.data.badges.badges[badge.tag] -%} {%- if badge_details.show == "true" -%}
-{%- assign badge_count = badge_count | plus:1 -%} {%- endif -%} {% endfor %}
+{% for badge in badges %} {%- assign badge_details = site.data.badges.badges[badge.tag] -%} {%- if
+badge_details.show == "true" -%} {%- assign badge_count = badge_count | plus:1 -%} {%- endif -%} {%
+endfor %}
 
 <main class="container">
   <div class="bg-secondary p-3 pb-1 rounded">
@@ -41,10 +37,10 @@ site.data.badges.badges[badge.tag] -%} {%- if badge_details.show == "true" -%}
           <a href="../" class="link-light">{{page.batch | upcase}} Batch</a>
         </li>
         <li class="breadcrumb-item text-white">
-          {%- if page.preferred_long_name -%} {{page.preferred_long_name}} {%-
-          elsif page.preferred_short_name -%} {{page.preferred_short_name}} {%-
-          elsif page.name_with_initials -%} {{page.name_with_initials}} {%- else
-          -%} {{page.reg_no}} {%- endif -%}
+          {%- if page.preferred_long_name -%} {{page.preferred_long_name}} {%- elsif
+          page.preferred_short_name -%} {{page.preferred_short_name}} {%- elsif
+          page.name_with_initials -%} {{page.name_with_initials}} {%- else -%} {{page.reg_no}} {%-
+          endif -%}
         </li>
       </ol>
     </nav>
@@ -74,10 +70,9 @@ site.data.badges.badges[badge.tag] -%} {%- if badge_details.show == "true" -%}
 
           <div class="mt-2">
             <h4>
-              {%- if page.preferred_short_name -%} {{page.preferred_short_name}}
-              {%- elsif page.preferred_long_name -%}
-              {{page.preferred_long_name}} {%- elsif page.name_with_initials -%}
-              {{page.name_with_initials}} {%- endif -%}
+              {%- if page.preferred_short_name -%} {{page.preferred_short_name}} {%- elsif
+              page.preferred_long_name -%} {{page.preferred_long_name}} {%- elsif
+              page.name_with_initials -%} {{page.name_with_initials}} {%- endif -%}
             </h4>
           </div>
         </div>
@@ -95,10 +90,7 @@ site.data.badges.badges[badge.tag] -%} {%- if badge_details.show == "true" -%}
           data-bs-placement="top"
           title="Linkedin"
         >
-          <i
-            style="color: #0e76a8"
-            class="fab social-icon fa-2x fa-linkedin"
-          ></i>
+          <i style="color: #0e76a8" class="fab social-icon fa-2x fa-linkedin"></i>
         </a>
         {% endif %} {% if page.url_github %}
         <a
@@ -122,10 +114,7 @@ site.data.badges.badges[badge.tag] -%} {%- if badge_details.show == "true" -%}
           data-bs-placement="top"
           title="Researchgate"
         >
-          <i
-            style="color: #0cb"
-            class="fab social-icon fa-2x fa-researchgate"
-          ></i>
+          <i style="color: #0cb" class="fab social-icon fa-2x fa-researchgate"></i>
         </a>
         {% endif %} {% if page.url_website %}
         <a
@@ -149,10 +138,7 @@ site.data.badges.badges[badge.tag] -%} {%- if badge_details.show == "true" -%}
           data-bs-placement="top"
           title="Twitter"
         >
-          <i
-            style="color: #00acee"
-            class="fab social-icon fa-2x fa-twitter"
-          ></i>
+          <i style="color: #00acee" class="fab social-icon fa-2x fa-twitter"></i>
         </a>
         {% endif %} {% if page.url_facebook %}
         <a
@@ -164,10 +150,7 @@ site.data.badges.badges[badge.tag] -%} {%- if badge_details.show == "true" -%}
           data-bs-placement="top"
           title="Facebook"
         >
-          <i
-            style="color: #4267b2"
-            class="fab social-icon fa-2x fa-facebook"
-          ></i>
+          <i style="color: #4267b2" class="fab social-icon fa-2x fa-facebook"></i>
         </a>
         {% endif %}
       </div>
@@ -175,12 +158,9 @@ site.data.badges.badges[badge.tag] -%} {%- if badge_details.show == "true" -%}
       <!-- Resume / CV -->
       <div class="container d-flex justify-content-center pt-4">
         {% if page.url_cv %}
-        <a
-          href="{{ page.url_cv }}"
-          target="_bl_blank"
-          class="btn btn-primary w-100"
-        >
-          <i class="fas fa-file-alt fa-fw me-3"></i> Curriculum Vitae
+        <a href="{{ page.url_cv }}" target="_bl_blank" class="btn btn-primary w-100">
+          <i class="fas fa-file-alt fa-fw me-3"></i>
+          Curriculum Vitae
         </a>
         {% endif %}
       </div>
@@ -190,20 +170,21 @@ site.data.badges.badges[badge.tag] -%} {%- if badge_details.show == "true" -%}
       <hr />
       <div class="py-2">
         <p class="d-none">
-          Badges<sup
-            ><i
+          Badges
+          <sup>
+            <i
               class="fa fa-info-circle"
               data-bs-toggle="tooltip"
               data-bs-html="true"
               data-bs-placement="right"
               title="Badges are offered by the department based on the student activities and performance"
-            ></i
-          ></sup>
+            ></i>
+          </sup>
         </p>
         <div class="container">
-          {% for badge in badges %} {%- assign badge_details =
-          site.data.badges.badges[badge.tag] -%} {%- include badge.html
-          badge_details=badge_details position=badge.position -%} {%- endfor -%}
+          {% for badge in badges %} {%- assign badge_details = site.data.badges.badges[badge.tag]
+          -%} {%- include badge.html badge_details=badge_details position=badge.position -%} {%-
+          endfor -%}
         </div>
       </div>
       {%- endif -%}
@@ -229,9 +210,7 @@ site.data.badges.badges[badge.tag] -%} {%- if badge_details.show == "true" -%}
             <div class="col-sm-3">
               <span class="mb-0" style="font-weight: 500">Preferred Name</span>
             </div>
-            <div class="col-sm-9 text-secondary">
-              {{page.preferred_long_name}}
-            </div>
+            <div class="col-sm-9 text-secondary">{{page.preferred_long_name}}</div>
           </div>
           <hr />
           {% endif %}
@@ -239,9 +218,7 @@ site.data.badges.badges[badge.tag] -%} {%- if badge_details.show == "true" -%}
           <!-- reg number -->
           <div class="row">
             <div class="col-sm-3">
-              <span class="mb-0" style="font-weight: 500"
-                >Registration Number</span
-              >
+              <span class="mb-0" style="font-weight: 500">Registration Number</span>
             </div>
             <div class="col-sm-9 text-secondary">{{page.reg_no}}</div>
           </div>
@@ -264,13 +241,10 @@ site.data.badges.badges[badge.tag] -%} {%- if badge_details.show == "true" -%}
             </div>
             <div class="col-sm-9 text-secondary">
               {%- if page.email_faculty -%}
-              <a href="mailto:{{ page.email_faculty }}"
-                >{{page.email_faculty}}</a
-              >
-              {%- endif -%} {%- if page.email_faculty and page.email_personal
-              -%} &nbsp;,&nbsp; {%- endif -%} {%- if page.email_personal -%} {%
-              include email_reveal.html email=page.email_personal text="Show
-              Personal Email" %} {%- endif -%}
+              <a href="mailto:{{ page.email_faculty }}">{{page.email_faculty}}</a>
+              {%- endif -%} {%- if page.email_faculty and page.email_personal -%} &nbsp;,&nbsp; {%-
+              endif -%} {%- if page.email_personal -%} {% include email_reveal.html
+              email=page.email_personal text="Show Personal Email" %} {%- endif -%}
             </div>
           </div>
           <hr />
@@ -302,57 +276,49 @@ site.data.badges.badges[badge.tag] -%} {%- if badge_details.show == "true" -%}
           {% if page.current_affiliation %}
           <div class="row">
             <div class="col-sm-3">
-              <span class="mb-0" style="font-weight: 500"
-                >Current Affiliation</span
-              >
+              <span class="mb-0" style="font-weight: 500">Current Affiliation</span>
             </div>
-            <div class="col-sm-9 text-secondary">
-              {{page.current_affiliation}}
-            </div>
+            <div class="col-sm-9 text-secondary">{{page.current_affiliation}}</div>
           </div>
           {% endif %}
         </div>
       </div>
 
       <!-- Projects -->
-      {%- assign projects = site.data.student_projects[page.reg_no] -%} {%-
-      assign project_count = projects | size -%} {% if project_count > 0 %}
+      {%- assign projects = site.data.student_projects[page.reg_no] -%} {%- assign project_count =
+      projects | size -%} {% if project_count > 0 %}
       <div class="card mt-3">
         <div class="card-header" style="font-weight: 500">
           Projects
-          <sup
-            ><i
+          <sup>
+            <i
               class="fa fa-info-circle"
               data-bs-toggle="tooltip"
               data-bs-html="true"
               data-bs-placement="right"
               title="Projects done by the student, which are listed in the projects.ce.pdn.ac.lk"
-            ></i
-          ></sup>
+            ></i>
+          </sup>
         </div>
         <div class="card-body mx-2">
           <div class="row">
             {%- for p in projects -%} {%- include projectCard.html title=p.title
-            thumb=p.thumbnail_url url=p.project_url cat=p.category.title -%} {%-
-            endfor -%}
+            thumb=p.thumbnail_url url=p.project_url cat=p.category.title -%} {%- endfor -%}
           </div>
         </div>
       </div>
       {%- endif -%}
 
       <!-- Publications -->
-      {%- assign publications = site.data.student_publications[page.reg_no] -%}
-      {%- assign pub_count = publications | size -%} {% if pub_count > 0 %}
+      {%- assign publications = site.data.student_publications[page.reg_no] -%} {%- assign pub_count
+      = publications | size -%} {% if pub_count > 0 %}
       <div class="card mt-3">
         <div class="card-header" style="font-weight: 500">Publications</div>
         <div class="card-body mx-2 p-3">
           <div class="row px-3">
             <ul>
               {%- for p in publications -%}
-              <li>
-                {%- include publicationCard.html data=p title=p.title
-                path=page.path -%}
-              </li>
+              <li>{%- include publicationCard.html data=p title=p.title path=page.path -%}</li>
               {%- endfor -%}
             </ul>
           </div>
@@ -360,16 +326,15 @@ site.data.badges.badges[badge.tag] -%} {%- if badge_details.show == "true" -%}
             <hr />
             <p class="text-muted small">
               Please note that here only contain the
-              <i>'Publications'</i> affiliated with the
-              <i>Department of Computer Engineering</i>. To see the full
-              publication profile, visit the {%- if page.url_researchgate -%}
+              <i>'Publications'</i>
+              affiliated with the
+              <i>Department of Computer Engineering</i>
+              . To see the full publication profile, visit the {%- if page.url_researchgate -%}
               <span>
-                <a href="{{ page.url_researchgate }}" target="_blank"
-                  >ResearchGate</a
-                >
+                <a href="{{ page.url_researchgate }}" target="_blank">ResearchGate</a>
               </span>
               {%- else -%}
-              <span> ResearchGate </span>
+              <span>ResearchGate</span>
               {%- endif -%} or Google Scholar profile of the student.
             </p>
           </div>

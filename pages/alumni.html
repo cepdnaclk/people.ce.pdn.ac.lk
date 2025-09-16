@@ -16,9 +16,7 @@ title: Alumni
         <li class="breadcrumb-item">
           <a href="{{ '/' | relative_url }}" class="link-light">People</a>
         </li>
-        <li class="breadcrumb-item active text-white" aria-current="page">
-          Alumni
-        </li>
+        <li class="breadcrumb-item active text-white" aria-current="page">Alumni</li>
       </ol>
     </nav>
   </div>
@@ -29,11 +27,9 @@ title: Alumni
   <div class="row justify-content-center">
     <!-- content taken from _data/alumni.json -->
     {%- for batch in site.data.alumini -%}
-    <a
-      class="btn btn-outline-primary w-25 m-2"
-      href="{{ batch.url | relative_url }}"
-      >{{ batch.title }}</a
-    >
+    <a class="btn btn-outline-primary w-25 m-2" href="{{ batch.url | relative_url }}">
+      {{ batch.title }}
+    </a>
     {%- endfor -%}
   </div>
 </div>

@@ -36,10 +36,7 @@ title: People
     <div id="main-container" class="container pt-2 px-5">
       <div class="row justify-content-center">
         <!-- staff -->
-        <div
-          class="card text-center p-2 cardSpacingHome border-primary"
-          style="width: 18rem"
-        >
+        <div class="card text-center p-2 cardSpacingHome border-primary" style="width: 18rem">
           <div class="card-header">
             <h5>Staff</h5>
           </div>
@@ -53,18 +50,21 @@ title: People
               <a
                 class="btn btn-outline-primary w-100 buttonBottomMargin"
                 href="{{ '/staff/academic/' | relative_url }}"
-                >Academic Staff</a
               >
+                Academic Staff
+              </a>
               <a
                 class="btn btn-outline-primary w-100 buttonBottomMargin"
                 href="{{ '/staff/temporary-academic-staff/' | relative_url }}"
-                >Temporary Academic Staff</a
               >
+                Temporary Academic Staff
+              </a>
               <a
                 class="btn btn-outline-primary w-100 buttonBottomMargin"
                 href="{{ '/staff/non-academic-staff/' | relative_url }}"
-                >Non-Academic Staff</a
               >
+                Non-Academic Staff
+              </a>
 
               <br />
 
@@ -72,30 +72,30 @@ title: People
               <a
                 class="btn btn-outline-primary w-100 buttonBottomMargin"
                 href="{{ '/staff/visiting-research-fellows/' | relative_url }}"
-                >Honorary Visiting Research Fellows</a
               >
+                Honorary Visiting Research Fellows
+              </a>
 
               <br />
 
               <a
                 class="btn btn-outline-primary w-100 buttonBottomMargin"
                 href="{{ '/staff/past-heads-of-dep/' | relative_url }}"
-                >Past HoDs</a
               >
+                Past HoDs
+              </a>
               <a
                 class="btn btn-outline-primary w-100 buttonBottomMargin"
                 href="{{ '/staff/academic/past/' | relative_url }}"
-                >Past Academic Staff</a
               >
+                Past Academic Staff
+              </a>
             </ul>
           </div>
         </div>
 
         <!-- students -->
-        <div
-          class="card text-center p-2 cardSpacingHome border-primary"
-          style="width: 18rem"
-        >
+        <div class="card text-center p-2 cardSpacingHome border-primary" style="width: 18rem">
           <div class="card-header">
             <h5>Students</h5>
           </div>
@@ -110,29 +110,30 @@ title: People
             <a
               class="btn btn-outline-primary w-100 buttonBottomMargin"
               href="{{ batch.url | relative_url }}"
-              >{{ batch.title }}</a
             >
+              {{ batch.title }}
+            </a>
             {%- endfor -%}
-            <br /><br />
+            <br />
+            <br />
 
             <a
               class="btn btn-outline-primary w-100 buttonBottomMargin"
               href="{{'/students/postgraduate/' | relative_url }}"
-              >Postgraduate</a
             >
+              Postgraduate
+            </a>
             <a
               class="btn btn-outline-primary w-100 buttonBottomMargin"
               href="{{'/societies/' | relative_url }}"
-              >Student Committees</a
             >
+              Student Committees
+            </a>
           </div>
         </div>
 
         <!-- alumni -->
-        <div
-          class="card text-center p-2 cardSpacingHome border-primary"
-          style="width: 18rem"
-        >
+        <div class="card text-center p-2 cardSpacingHome border-primary" style="width: 18rem">
           <div class="card-header">
             <h5>Alumni</h5>
           </div>
@@ -147,15 +148,18 @@ title: People
             <a
               class="btn btn-outline-primary w-100 buttonBottomMargin"
               href="{{ batch.url | relative_url }}"
-              >{{ batch.title }}</a
             >
+              {{ batch.title }}
+            </a>
             {% endif %} {%- endfor -%}
-            <br /><br />
+            <br />
+            <br />
             <a
               class="btn btn-outline-primary w-100 buttonBottomMargin"
               href="{{ '/alumni/' | relative_url }}"
-              >View more</a
             >
+              View more
+            </a>
           </div>
         </div>
       </div>
@@ -163,10 +167,7 @@ title: People
   </div>
 
   <!-- Script pointing to search-script.js -->
-  <script
-    src="{{ 'assets/js/search-script.js' | relative_url}}"
-    type="text/javascript"
-  ></script>
+  <script src="{{ 'assets/js/search-script.js' | relative_url}}" type="text/javascript"></script>
   <!-- Configuration -->
   <script>
     //prevent submit by pressing enter

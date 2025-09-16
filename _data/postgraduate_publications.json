@@ -5,12 +5,7 @@
       "venue": "BMC bioinformatics",
       "year": "2023",
       "abstract": "",
-      "authors": [
-        "Anjana Senanayake",
-        "Hasindu Gamaarachchi",
-        "Damayanthi Herath",
-        "Roshan Ragel"
-      ],
+      "authors": ["Anjana Senanayake", "Hasindu Gamaarachchi", "Damayanthi Herath", "Roshan Ragel"],
       "author_info": [
         {
           "name": "Anjana Senanayake",
@@ -183,11 +178,7 @@
       "venue": "2021 IEEE 30th International Symposium on Industrial Electronics (ISIE)",
       "year": "2021",
       "abstract": "Today's network transactions are usually handled using kernel-based network protocols residing on general-purpose processors (GPPs). Over time, network transmission speeds have developed rapidly without a corresponding increase in processing speeds of host processors. With devices featuring advanced connectivity and Internet functionality, protocol processing has created a heavy workload on the GPP and has become a limiting factor in high performance networking applications such as online High Frequency Trading Systems (HFTS). It encourages designers to increase processor performance or designing application specific processors for handling heavy network workloads. Then there is the choice of hardware/software implementations based on results from hardware acceleration. Offloading the whole network protocol stack implementation into hardware is not very attractive since handling large linked data structures inside the hardware is not as easy as in software. In this paper we claim that relieving the CPU from bulk processing by offloading selected, performance-related kernel code into hardware is a better option for such scenarios. Hence, we design a scalable system for offloading specific performance-related kernel functions into an FPGA. In this paper we discuss the logic behind our new architecture and the results up to now.",
-      "authors": [
-        "Pabudi T Abeyrathne",
-        "S. Devapriya Dewasurendra",
-        "Dhammika Elkaduwa"
-      ],
+      "authors": ["Pabudi T Abeyrathne", "S. Devapriya Dewasurendra", "Dhammika Elkaduwa"],
       "author_info": [
         {
           "name": "Pabudi T Abeyrathne",
@@ -244,11 +235,7 @@
       "venue": "2015 IEEE 10th International Conference on Industrial and Information Systems (ICIIS)",
       "year": "2015",
       "abstract": "Kernel-based network protocol implementation has led to major performance limitations in high-performance networking owing to excessive transaction latencies. Designing such protocols in reconfigurable hardware such as FPGA has been attempted to overcome these limitations. The use of reconfigurable hardware is needed in the development phase and could eventually lead to ASICs for better performance. However, mission critical nature of such applications needs a performance guarantee on design. This paper proposes a strategy to design formally verified reconfigurable hardware/software based implementation of network protocols in a compositional manner.",
-      "authors": [
-        "Pabudi T Abeyrathne",
-        "S.D. Dewasurendra",
-        "Dhammika Elkaduwa"
-      ],
+      "authors": ["Pabudi T Abeyrathne", "S.D. Dewasurendra", "Dhammika Elkaduwa"],
       "author_info": [
         {
           "name": "Pabudi T Abeyrathne",

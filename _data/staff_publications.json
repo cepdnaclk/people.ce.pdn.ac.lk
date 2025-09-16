@@ -79,9 +79,7 @@
           "presentation": "https://youtu.be/UxYynRS6BR0",
           "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics/",
           "codebase": "https://github.com/Pera-Swarm",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": ["Robotics", "Simulation"],
           "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ACCESS.2023.3317434/",
@@ -316,13 +314,7 @@
           "codebase": "#",
           "researchgroups": [],
           "funding": "",
-          "tags": [
-            "IoT",
-            "blockchain",
-            "data analytics",
-            "smart contracts",
-            "access management"
-          ],
+          "tags": ["IoT", "blockchain", "data analytics", "smart contracts", "access management"],
           "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
           "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
         },
@@ -330,11 +322,7 @@
           "title": "New approach to practical leakage-resilient public-key cryptography",
           "venue": "Journal of Mathematical Cryptology",
           "year": "2020",
-          "authors": [
-            "Suvradip Chakraborty",
-            "Janaka Alawatugoda",
-            "Chandrasekaran Pandu Rangan"
-          ],
+          "authors": ["Suvradip Chakraborty", "Janaka Alawatugoda", "Chandrasekaran Pandu Rangan"],
           "author_info": [
             {
               "name": "Suvradip Chakraborty",
@@ -422,11 +410,7 @@
           "title": "Review on leakage resilient key exchange security models",
           "venue": "International Journal of Communication Networks and Information Security",
           "year": "2019",
-          "authors": [
-            "Clement Chan Zheng Wei",
-            "Chuah Chai Wen",
-            "Janaka Alawatugoda\\"
-          ],
+          "authors": ["Clement Chan Zheng Wei", "Chuah Chai Wen", "Janaka Alawatugoda\\"],
           "author_info": [
             {
               "name": "Clement Chan Zheng Wei",
@@ -520,11 +504,7 @@
           "title": "Leakage-resilient non-interactive key exchange in the continuous-memory leakage setting",
           "venue": "International Conference on Provable Security",
           "year": "2017",
-          "authors": [
-            "Suvradip Chakraborty",
-            "Janaka Alawatugoda",
-            "C Pandu Rangan"
-          ],
+          "authors": ["Suvradip Chakraborty", "Janaka Alawatugoda", "C Pandu Rangan"],
           "author_info": [
             {
               "name": "Suvradip Chakraborty",
@@ -601,11 +581,7 @@
             "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
           ],
           "funding": "",
-          "tags": [
-            "Key exchange protocols",
-            "security models",
-            "leakage-resilient cryptography"
-          ],
+          "tags": ["Key exchange protocols", "security models", "leakage-resilient cryptography"],
           "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1515/jmc-2016-0003/",
           "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1515/jmc-2016-0003/index.json"
         },
@@ -862,11 +838,7 @@
           "title": "Analyzing and Predicting the Volatile Market Patterns for Trading in International Markets Using a Digital Twin",
           "venue": "International Conference on Asia Pacific Advanced Network (APANConf 2024)",
           "year": "2025",
-          "authors": [
-            "Ishta H Jayakody",
-            "Mahela Bandara",
-            "Asitha U Bandaranayake"
-          ],
+          "authors": ["Ishta H Jayakody", "Mahela Bandara", "Asitha U Bandaranayake"],
           "author_info": [
             {
               "name": "Ishta H Jayakody",
@@ -913,11 +885,7 @@
           "title": "Analyzing and Predicting the Volatile Market Patterns for Trading in International Markets Using a Digital Twin",
           "venue": "International Conference on Asia Pacific Advanced Network (APANConf 2024)",
           "year": "2025",
-          "authors": [
-            "Ishta H Jayakody",
-            "Mahela Bandara",
-            "Asitha U Bandaranayake"
-          ],
+          "authors": ["Ishta H Jayakody", "Mahela Bandara", "Asitha U Bandaranayake"],
           "author_info": [
             {
               "name": "Ishta H Jayakody",
@@ -1047,9 +1015,7 @@
           "presentation": "#",
           "project": "https://projects.ce.pdn.ac.lk/greenhouse-automation/",
           "codebase": "https://github.com/cepdnaclk/Smart-Agriculture-a-low-cost-IoT-system-for-polytunnels",
-          "researchgroups": [
-            "Smart and Intelligent Systems (IoT / AI / Wearable Computing)"
-          ],
+          "researchgroups": ["Smart and Intelligent Systems (IoT / AI / Wearable Computing)"],
           "funding": "The Early Career Fellowship of the Organization for Women in Science for Developing World (OWSD, Early Career Fellowship https://owsd.net/) funded this project \u00e2\u0080\u0093 the award agreement 4500406736 was awarded to Pradeepa C.G. Bandaranayake",
           "tags": ["IoT", "Smart Farming", "Control Systems", "Agriculture"],
           "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pone.0278440/",
@@ -1548,12 +1514,7 @@
           "title": "Visual Design Platform for Wireless Sensor Network",
           "venue": "2018 Moratuwa Engineering Research Conference (MERCon)",
           "year": "2018",
-          "authors": [
-            "Rosen Silva",
-            "Asela Dasanayaka",
-            "Roshan Ragel",
-            "Asitha Bandaranayake"
-          ],
+          "authors": ["Rosen Silva", "Asela Dasanayaka", "Roshan Ragel", "Asitha Bandaranayake"],
           "author_info": [
             {
               "name": "Rosen Silva",
@@ -1938,11 +1899,7 @@
           "title": "Interpretable Student Performance Prediction Using Explainable Boosting Machine for Multi-Class Classification",
           "venue": "2022 2nd International Conference on Advanced Research in Computing (ICARC)",
           "year": "2022",
-          "authors": [
-            "Shyaman Jayasundara",
-            "Amila Indika",
-            "Damayanthi Herath"
-          ],
+          "authors": ["Shyaman Jayasundara", "Amila Indika", "Damayanthi Herath"],
           "author_info": [
             {
               "name": "Shyaman Jayasundara",
@@ -1989,11 +1946,7 @@
           "title": "Forecasting Electricity Power Generation of Pawan Danavi Wind Farm, Sri Lanka, Using Gene Expression Programming",
           "venue": "Applied Computational Intelligence and Soft Computing",
           "year": "2022",
-          "authors": [
-            "Damayanthi Herath",
-            "Jeevani Jayasinghe",
-            "Upaka Rathnayake"
-          ],
+          "authors": ["Damayanthi Herath", "Jeevani Jayasinghe", "Upaka Rathnayake"],
           "author_info": [
             {
               "name": "Damayanthi Herath",
@@ -2184,11 +2137,7 @@
           "title": "Transfer Learning for Accurate and Efficient Tomato Plant Disease Classification Using Leaf Images",
           "venue": "2021 IEEE 16th International Conference on Industrial and Information Systems (ICIIS)",
           "year": "2021",
-          "authors": [
-            "LA Chamli Deshan",
-            "MK Hans Thisanke",
-            "Damayanthi Herath"
-          ],
+          "authors": ["LA Chamli Deshan", "MK Hans Thisanke", "Damayanthi Herath"],
           "author_info": [
             {
               "name": "LA Chamli Deshan",
@@ -2267,13 +2216,7 @@
           "codebase": "#",
           "researchgroups": ["Machine Learning and Data Mining"],
           "funding": "",
-          "tags": [
-            "Kidney",
-            "Diseases",
-            "Machine learning",
-            "Red blood cells",
-            "Hypertension"
-          ],
+          "tags": ["Kidney", "Diseases", "Machine learning", "Red blood cells", "Hypertension"],
           "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185249/",
           "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185249/index.json"
         },
@@ -2519,11 +2462,7 @@
           "title": "Accelerating string matching for bio-computing applications on multi-core CPUs",
           "venue": "2012 IEEE 7th International Conference on Industrial and Information Systems (ICIIS)",
           "year": "2012",
-          "authors": [
-            "Damayanthi Herath",
-            "Chathurika Lakmali",
-            "Roshan Ragel"
-          ],
+          "authors": ["Damayanthi Herath", "Chathurika Lakmali", "Roshan Ragel"],
           "author_info": [
             {
               "name": "Damayanthi Herath",
@@ -2588,11 +2527,7 @@
           "title": "Offloading specific performance-related kernel functions into an FPGA",
           "venue": "2021 IEEE 30th International Symposium on Industrial Electronics (ISIE)",
           "year": "2021",
-          "authors": [
-            "Pabudi T Abeyrathne",
-            "S. Devapriya Dewasurendra",
-            "Dhammika Elkaduwa"
-          ],
+          "authors": ["Pabudi T Abeyrathne", "S. Devapriya Dewasurendra", "Dhammika Elkaduwa"],
           "author_info": [
             {
               "name": "Pabudi T Abeyrathne",
@@ -2647,10 +2582,7 @@
           "title": "A Novel FPGA Architecture of Commentz-Walter Algorithm using Bit-Split String-Matching Engines",
           "venue": "2021 21st International Conference on Advances in ICT for Emerging Regions (ICter)",
           "year": "2021",
-          "authors": [
-            "Sugandima M. Vidanagamachchi",
-            "Shirley D. Dewasurendra"
-          ],
+          "authors": ["Sugandima M. Vidanagamachchi", "Shirley D. Dewasurendra"],
           "author_info": [
             {
               "name": "Sugandima M. Vidanagamachchi",
@@ -2866,11 +2798,7 @@
           "title": "Strategy to Design Formally Verified hardware/software implementation of Network Protocols on Reconfigurable Hardware",
           "venue": "2015 IEEE 10th International Conference on Industrial and Information Systems (ICIIS)",
           "year": "2015",
-          "authors": [
-            "Pabudi T Abeyrathne",
-            "S.D. Dewasurendra",
-            "Dhammika Elkaduwa"
-          ],
+          "authors": ["Pabudi T Abeyrathne", "S.D. Dewasurendra", "Dhammika Elkaduwa"],
           "author_info": [
             {
               "name": "Pabudi T Abeyrathne",
@@ -2998,11 +2926,7 @@
           "title": "Hardware software co-design of the Aho-Corasick algorithm: Scalable for protein identification?",
           "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
           "year": "2013",
-          "authors": [
-            "S.M. Vidanagamachchi",
-            "S.D. Dewasurendra",
-            "R.G. Ragel"
-          ],
+          "authors": ["S.M. Vidanagamachchi", "S.D. Dewasurendra", "R.G. Ragel"],
           "author_info": [
             {
               "name": "S.M. Vidanagamachchi",
@@ -3039,9 +2963,7 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": [
             "Hardware",
@@ -3058,11 +2980,7 @@
           "title": "Model in the loop testing of complex reactive systems",
           "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
           "year": "2013",
-          "authors": [
-            "A. Vidanapathirana",
-            "S. D. Dewasurendra",
-            "S. G. Abeyaratne"
-          ],
+          "authors": ["A. Vidanapathirana", "S. D. Dewasurendra", "S. G. Abeyaratne"],
           "author_info": [
             {
               "name": "A. Vidanapathirana",
@@ -3116,11 +3034,7 @@
           "title": "Hardware accelerated protein inference framework",
           "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
           "year": "2013",
-          "authors": [
-            "S. M. Vidanagamachchi",
-            "S. D. Dewasurendra",
-            "R. G. Ragel"
-          ],
+          "authors": ["S. M. Vidanagamachchi", "S. D. Dewasurendra", "R. G. Ragel"],
           "author_info": [
             {
               "name": "S. M. Vidanagamachchi",
@@ -3157,9 +3071,7 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": [
             "Proteins",
@@ -3179,12 +3091,7 @@
           "title": "Commentz-walter: Any better than aho-corasick for peptide identification?",
           "venue": "International Journal of Research in Computer Science",
           "year": "2012",
-          "authors": [
-            "SM Vidanagamachchi",
-            "SD Dewasurendra",
-            "RG Ragel",
-            "M Niranjan"
-          ],
+          "authors": ["SM Vidanagamachchi", "SD Dewasurendra", "RG Ragel", "M Niranjan"],
           "author_info": [
             {
               "name": "SM Vidanagamachchi",
@@ -3242,12 +3149,7 @@
           "title": "Tile optimization for area in FPGA based hardware acceleration of peptide identification",
           "venue": "2011 6th International Conference on Industrial and Information Systems (ICIIS)",
           "year": "2011",
-          "authors": [
-            "SM Vidanagamachchi",
-            "SD Dewasurendra",
-            "Roshan G Ragel",
-            "M Niranjan"
-          ],
+          "authors": ["SM Vidanagamachchi", "SD Dewasurendra", "Roshan G Ragel", "M Niranjan"],
           "author_info": [
             {
               "name": "SM Vidanagamachchi",
@@ -3463,11 +3365,7 @@
           "title": "Offloading specific performance-related kernel functions into an FPGA",
           "venue": "2021 IEEE 30th International Symposium on Industrial Electronics (ISIE)",
           "year": "2021",
-          "authors": [
-            "Pabudi T Abeyrathne",
-            "S. Devapriya Dewasurendra",
-            "Dhammika Elkaduwa"
-          ],
+          "authors": ["Pabudi T Abeyrathne", "S. Devapriya Dewasurendra", "Dhammika Elkaduwa"],
           "author_info": [
             {
               "name": "Pabudi T Abeyrathne",
@@ -3524,11 +3422,7 @@
           "title": "An optimized Parallel Failure-less Aho-Corasick algorithm for DNA sequence matching",
           "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
           "year": "2016",
-          "authors": [
-            "DRVLB Thambawita",
-            "Roshan G Ragel",
-            "Dhammike Elkaduwe"
-          ],
+          "authors": ["DRVLB Thambawita", "Roshan G Ragel", "Dhammike Elkaduwe"],
           "author_info": [
             {
               "name": "DRVLB Thambawita",
@@ -3583,11 +3477,7 @@
           "title": "An optimized Parallel Failure-less Aho-Corasick algorithm for DNA sequence matching",
           "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
           "year": "2016",
-          "authors": [
-            "DRVLB Thambawita",
-            "Roshan G Ragel",
-            "Dhammike Elkaduwe"
-          ],
+          "authors": ["DRVLB Thambawita", "Roshan G Ragel", "Dhammike Elkaduwe"],
           "author_info": [
             {
               "name": "DRVLB Thambawita",
@@ -3642,11 +3532,7 @@
           "title": "To use or not to use: CPUs' cache optimization techniques on GPGPUs",
           "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
           "year": "2016",
-          "authors": [
-            "DRVLB Thambawita",
-            "Roshan G Ragel",
-            "Dhammike Elkaduwe"
-          ],
+          "authors": ["DRVLB Thambawita", "Roshan G Ragel", "Dhammike Elkaduwe"],
           "author_info": [
             {
               "name": "DRVLB Thambawita",
@@ -3703,11 +3589,7 @@
           "title": "Strategy to Design Formally Verified hardware/software implementation of Network Protocols on Reconfigurable Hardware",
           "venue": "2015 IEEE 10th International Conference on Industrial and Information Systems (ICIIS)",
           "year": "2015",
-          "authors": [
-            "Pabudi T Abeyrathne",
-            "S.D. Dewasurendra",
-            "Dhammika Elkaduwa"
-          ],
+          "authors": ["Pabudi T Abeyrathne", "S.D. Dewasurendra", "Dhammika Elkaduwa"],
           "author_info": [
             {
               "name": "Pabudi T Abeyrathne",
@@ -3821,11 +3703,7 @@
           "title": "Constant time encryption as a countermeasure against remote cache timing attacks",
           "venue": "2012 IEEE 6th International Conference on Information and Automation for Sustainability",
           "year": "2012",
-          "authors": [
-            "Darshana Jayasinghe",
-            "Roshan Ragel",
-            "Dhammika Elkaduwe"
-          ],
+          "authors": ["Darshana Jayasinghe", "Roshan Ragel", "Dhammika Elkaduwe"],
           "author_info": [
             {
               "name": "Darshana Jayasinghe",
@@ -3864,14 +3742,7 @@
           "codebase": "#",
           "researchgroups": [],
           "funding": "",
-          "tags": [
-            "Encryption",
-            "Timing",
-            "Software",
-            "Hardware",
-            "Clocks",
-            "Computers"
-          ],
+          "tags": ["Encryption", "Timing", "Software", "Hardware", "Clocks", "Computers"],
           "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2012.6419893/",
           "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2012.6419893/index.json"
         }
@@ -4159,11 +4030,7 @@
           "title": "Optimized Multi-Processor System-on-Chip (MPSoC) Design for Low-Resource JPEG Encoding",
           "venue": "2024 6th International Conference on Advancements in Computing (ICAC)",
           "year": "2024",
-          "authors": [
-            "Kanishka Gunawardana",
-            "Chandula Adhikari",
-            "Isuru Nawinne"
-          ],
+          "authors": ["Kanishka Gunawardana", "Chandula Adhikari", "Isuru Nawinne"],
           "author_info": [
             {
               "name": "Kanishka Gunawardana",
@@ -4294,9 +4161,7 @@
           "presentation": "https://youtu.be/UxYynRS6BR0",
           "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics/",
           "codebase": "https://github.com/Pera-Swarm",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": ["Robotics", "Simulation"],
           "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ACCESS.2023.3317434/",
@@ -4460,9 +4325,7 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": [
             "Programming",
@@ -4710,9 +4573,7 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": [
             "bio-signal processing",
@@ -5043,10 +4904,7 @@
           "title": "Support of Mobile Phones in a Private Network for Science Teaching",
           "venue": "International Journal of Interactive Mobile Technologies",
           "year": "2016",
-          "authors": [
-            "Sakunthala Yatigammana Ekanayake",
-            "Kamalanath Samarakoon"
-          ],
+          "authors": ["Sakunthala Yatigammana Ekanayake", "Kamalanath Samarakoon"],
           "author_info": [
             {
               "name": "Sakunthala Yatigammana Ekanayake",
@@ -5310,13 +5168,7 @@
           "codebase": "#",
           "researchgroups": [],
           "funding": "",
-          "tags": [
-            "IoT",
-            "blockchain",
-            "data analytics",
-            "smart contracts",
-            "access management"
-          ],
+          "tags": ["IoT", "blockchain", "data analytics", "smart contracts", "access management"],
           "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
           "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
         }
@@ -5508,10 +5360,7 @@
           "presentation": "https://gamma.app/docs/FYP-Forecasting-Dengue-Outbreaks-in-Sri-Lanka-q0tby8ocrsu3brh?mode=doc",
           "project": "https://projects.ce.pdn.ac.lk/4yp/e18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/",
           "codebase": "https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
-          "researchgroups": [
-            "Computational BioEngineering",
-            "Machine Learning and Data Mining"
-          ],
+          "researchgroups": ["Computational BioEngineering", "Machine Learning and Data Mining"],
           "funding": "",
           "tags": [
             "Dengue",
@@ -5609,13 +5458,7 @@
           "title": "Implementation of OpenFlow based cognitive radio network architecture: SDN&R",
           "venue": "Wireless Networks",
           "year": "2016",
-          "authors": [
-            "Suneth Namal",
-            "Ijaz Ahmad",
-            "Saad Saud",
-            "Markku Jokinen",
-            "Andrei Gurtov"
-          ],
+          "authors": ["Suneth Namal", "Ijaz Ahmad", "Saad Saud", "Markku Jokinen", "Andrei Gurtov"],
           "author_info": [
             {
               "name": "Suneth Namal",
@@ -5690,12 +5533,7 @@
           "title": "Autonomic trust management in cloud-based and highly dynamic IoT applications",
           "venue": "2015 ITU Kaleidoscope: Trust in the Information Society (K-2015)",
           "year": "2015",
-          "authors": [
-            "Suneth Namal",
-            "Hasindu Gamaarachchi",
-            "Gyu MyoungLee",
-            "Tai-Won Um"
-          ],
+          "authors": ["Suneth Namal", "Hasindu Gamaarachchi", "Gyu MyoungLee", "Tai-Won Um"],
           "author_info": [
             {
               "name": "Suneth Namal",
@@ -6101,9 +5939,7 @@
           "presentation": "https://youtu.be/UxYynRS6BR0",
           "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics/",
           "codebase": "https://github.com/Pera-Swarm",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": ["Robotics", "Simulation"],
           "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ACCESS.2023.3317434/",
@@ -6723,9 +6559,7 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": [
             "Programming",
@@ -7061,9 +6895,7 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": [
             "bio-signal processing",
@@ -7081,12 +6913,7 @@
           "title": "Visual Design Platform for Wireless Sensor Network",
           "venue": "2018 Moratuwa Engineering Research Conference (MERCon)",
           "year": "2018",
-          "authors": [
-            "Rosen Silva",
-            "Asela Dasanayaka",
-            "Roshan Ragel",
-            "Asitha Bandaranayake"
-          ],
+          "authors": ["Rosen Silva", "Asela Dasanayaka", "Roshan Ragel", "Asitha Bandaranayake"],
           "author_info": [
             {
               "name": "Rosen Silva",
@@ -7311,11 +7138,7 @@
           "title": "An optimized Parallel Failure-less Aho-Corasick algorithm for DNA sequence matching",
           "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
           "year": "2016",
-          "authors": [
-            "DRVLB Thambawita",
-            "Roshan G Ragel",
-            "Dhammike Elkaduwe"
-          ],
+          "authors": ["DRVLB Thambawita", "Roshan G Ragel", "Dhammike Elkaduwe"],
           "author_info": [
             {
               "name": "DRVLB Thambawita",
@@ -7370,11 +7193,7 @@
           "title": "An optimized Parallel Failure-less Aho-Corasick algorithm for DNA sequence matching",
           "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
           "year": "2016",
-          "authors": [
-            "DRVLB Thambawita",
-            "Roshan G Ragel",
-            "Dhammike Elkaduwe"
-          ],
+          "authors": ["DRVLB Thambawita", "Roshan G Ragel", "Dhammike Elkaduwe"],
           "author_info": [
             {
               "name": "DRVLB Thambawita",
@@ -7429,11 +7248,7 @@
           "title": "To use or not to use: CPUs' cache optimization techniques on GPGPUs",
           "venue": "2016 IEEE International Conference on Information and Automation for Sustainability (ICIAfS)",
           "year": "2016",
-          "authors": [
-            "DRVLB Thambawita",
-            "Roshan G Ragel",
-            "Dhammike Elkaduwe"
-          ],
+          "authors": ["DRVLB Thambawita", "Roshan G Ragel", "Dhammike Elkaduwe"],
           "author_info": [
             {
               "name": "DRVLB Thambawita",
@@ -7800,9 +7615,7 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": [
             "Algorithm design and analysis",
@@ -7881,9 +7694,7 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": [
             "Algorithm design and analysis",
@@ -8162,11 +7973,7 @@
           "title": "Hardware software co-design of the Aho-Corasick algorithm: Scalable for protein identification?",
           "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
           "year": "2013",
-          "authors": [
-            "S.M. Vidanagamachchi",
-            "S.D. Dewasurendra",
-            "R.G. Ragel"
-          ],
+          "authors": ["S.M. Vidanagamachchi", "S.D. Dewasurendra", "R.G. Ragel"],
           "author_info": [
             {
               "name": "S.M. Vidanagamachchi",
@@ -8203,9 +8010,7 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": [
             "Hardware",
@@ -8222,11 +8027,7 @@
           "title": "Hardware accelerated protein inference framework",
           "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
           "year": "2013",
-          "authors": [
-            "S. M. Vidanagamachchi",
-            "S. D. Dewasurendra",
-            "R. G. Ragel"
-          ],
+          "authors": ["S. M. Vidanagamachchi", "S. D. Dewasurendra", "R. G. Ragel"],
           "author_info": [
             {
               "name": "S. M. Vidanagamachchi",
@@ -8263,9 +8064,7 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": [
             "Proteins",
@@ -8334,9 +8133,7 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": [
             "Hardware",
@@ -8444,17 +8241,9 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
-          "tags": [
-            "Redundancy",
-            "Time factors",
-            "Runtime",
-            "Integrated circuits",
-            "Programming"
-          ],
+          "tags": ["Redundancy", "Time factors", "Runtime", "Integrated circuits", "Programming"],
           "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7873/DATE.2013.152/",
           "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7873/DATE.2013.152/index.json"
         },
@@ -8543,9 +8332,7 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": [
             "Computer systems organization",
@@ -8561,12 +8348,7 @@
           "title": "AntiPlag: Plagiarism detection on electronic submissions of text based assignments",
           "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
           "year": "2013",
-          "authors": [
-            "MAC Jiffriya",
-            "MAC Akmal Jahan",
-            "Roshan G Ragel",
-            "Sampath Deegalla"
-          ],
+          "authors": ["MAC Jiffriya", "MAC Akmal Jahan", "Roshan G Ragel", "Sampath Deegalla"],
           "author_info": [
             {
               "name": "MAC Jiffriya",
@@ -8632,12 +8414,7 @@
           "title": "Commentz-walter: Any better than aho-corasick for peptide identification?",
           "venue": "International Journal of Research in Computer Science",
           "year": "2012",
-          "authors": [
-            "SM Vidanagamachchi",
-            "SD Dewasurendra",
-            "RG Ragel",
-            "M Niranjan"
-          ],
+          "authors": ["SM Vidanagamachchi", "SD Dewasurendra", "RG Ragel", "M Niranjan"],
           "author_info": [
             {
               "name": "SM Vidanagamachchi",
@@ -8693,11 +8470,7 @@
           "title": "Instruction-set selection for multi-application based ASIP design: An instruction-level study",
           "venue": "2012 IEEE 6th International Conference on Information and Automation for Sustainability",
           "year": "2012",
-          "authors": [
-            "Roshan Ragel",
-            "Swarnalatha Radhakrishnan",
-            "Angelo Ambrose"
-          ],
+          "authors": ["Roshan Ragel", "Swarnalatha Radhakrishnan", "Angelo Ambrose"],
           "author_info": [
             {
               "name": "Roshan Ragel",
@@ -8815,11 +8588,7 @@
           "title": "Constant time encryption as a countermeasure against remote cache timing attacks",
           "venue": "2012 IEEE 6th International Conference on Information and Automation for Sustainability",
           "year": "2012",
-          "authors": [
-            "Darshana Jayasinghe",
-            "Roshan Ragel",
-            "Dhammika Elkaduwe"
-          ],
+          "authors": ["Darshana Jayasinghe", "Roshan Ragel", "Dhammika Elkaduwe"],
           "author_info": [
             {
               "name": "Darshana Jayasinghe",
@@ -8858,14 +8627,7 @@
           "codebase": "#",
           "researchgroups": [],
           "funding": "",
-          "tags": [
-            "Encryption",
-            "Timing",
-            "Software",
-            "Hardware",
-            "Clocks",
-            "Computers"
-          ],
+          "tags": ["Encryption", "Timing", "Software", "Hardware", "Clocks", "Computers"],
           "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIAFS.2012.6419893/",
           "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIAFS.2012.6419893/index.json"
         },
@@ -8873,11 +8635,7 @@
           "title": "Accelerating string matching for bio-computing applications on multi-core CPUs",
           "venue": "2012 IEEE 7th International Conference on Industrial and Information Systems (ICIIS)",
           "year": "2012",
-          "authors": [
-            "Damayanthi Herath",
-            "Chathurika Lakmali",
-            "Roshan Ragel"
-          ],
+          "authors": ["Damayanthi Herath", "Chathurika Lakmali", "Roshan Ragel"],
           "author_info": [
             {
               "name": "Damayanthi Herath",
@@ -8936,12 +8694,7 @@
           "title": "Tile optimization for area in FPGA based hardware acceleration of peptide identification",
           "venue": "2011 6th International Conference on Industrial and Information Systems (ICIIS)",
           "year": "2011",
-          "authors": [
-            "SM Vidanagamachchi",
-            "SD Dewasurendra",
-            "Roshan G Ragel",
-            "M Niranjan"
-          ],
+          "authors": ["SM Vidanagamachchi", "SD Dewasurendra", "Roshan G Ragel", "M Niranjan"],
           "author_info": [
             {
               "name": "SM Vidanagamachchi",
@@ -9156,11 +8909,7 @@
           "title": "Loop unrolling in multi-pipeline ASIP design",
           "venue": "2009 International Conference on Industrial and Information Systems (ICIIS)",
           "year": "2009",
-          "authors": [
-            "HMRDB Navarathna",
-            "Swarnalatha Radhakrishnan",
-            "Roshan G Ragel"
-          ],
+          "authors": ["HMRDB Navarathna", "Swarnalatha Radhakrishnan", "Roshan G Ragel"],
           "author_info": [
             {
               "name": "HMRDB Navarathna",
@@ -9556,11 +9305,7 @@
           "title": "An accurate mathematical model predicting number of dengue cases in tropics",
           "venue": "PLoS Neglected Tropical Diseases",
           "year": "2021",
-          "authors": [
-            "Chathurangi Edussuriya",
-            "Sampath Deegalla",
-            "Indika Gawarammana"
-          ],
+          "authors": ["Chathurangi Edussuriya", "Sampath Deegalla", "Indika Gawarammana"],
           "author_info": [
             {
               "name": "Chathurangi Edussuriya",
@@ -10115,12 +9860,7 @@
           "title": "AntiPlag: Plagiarism detection on electronic submissions of text based assignments",
           "venue": "2013 IEEE 8th International Conference on Industrial and Information Systems",
           "year": "2013",
-          "authors": [
-            "MAC Jiffriya",
-            "MAC Akmal Jahan",
-            "Roshan G Ragel",
-            "Sampath Deegalla"
-          ],
+          "authors": ["MAC Jiffriya", "MAC Akmal Jahan", "Roshan G Ragel", "Sampath Deegalla"],
           "author_info": [
             {
               "name": "MAC Jiffriya",
@@ -10334,9 +10074,7 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": [
             "Algorithm design and analysis",
@@ -10415,9 +10153,7 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": [
             "Algorithm design and analysis",
@@ -10488,9 +10224,7 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": [
             "Hardware",
@@ -10598,17 +10332,9 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
-          "tags": [
-            "Redundancy",
-            "Time factors",
-            "Runtime",
-            "Integrated circuits",
-            "Programming"
-          ],
+          "tags": ["Redundancy", "Time factors", "Runtime", "Integrated circuits", "Programming"],
           "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.7873/DATE.2013.152/",
           "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.7873/DATE.2013.152/index.json"
         },
@@ -10697,9 +10423,7 @@
           "presentation": "#",
           "project": "#",
           "codebase": "#",
-          "researchgroups": [
-            "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-          ],
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
           "funding": "",
           "tags": [
             "Computer systems organization",
@@ -10717,11 +10441,7 @@
           "title": "Instruction-set selection for multi-application based ASIP design: An instruction-level study",
           "venue": "2012 IEEE 6th International Conference on Information and Automation for Sustainability",
           "year": "2012",
-          "authors": [
-            "Roshan Ragel",
-            "Swarnalatha Radhakrishnan",
-            "Angelo Ambrose"
-          ],
+          "authors": ["Roshan Ragel", "Swarnalatha Radhakrishnan", "Angelo Ambrose"],
           "author_info": [
             {
               "name": "Roshan Ragel",
@@ -10911,11 +10631,7 @@
           "title": "Loop unrolling in multi-pipeline ASIP design",
           "venue": "2009 International Conference on Industrial and Information Systems (ICIIS)",
           "year": "2009",
-          "authors": [
-            "HMRDB Navarathna",
-            "Swarnalatha Radhakrishnan",
-            "Roshan G Ragel"
-          ],
+          "authors": ["HMRDB Navarathna", "Swarnalatha Radhakrishnan", "Roshan G Ragel"],
           "author_info": [
             {
               "name": "HMRDB Navarathna",
@@ -11300,13 +11016,7 @@
           "codebase": "#",
           "researchgroups": [],
           "funding": "",
-          "tags": [
-            "IoT",
-            "blockchain",
-            "data analytics",
-            "smart contracts",
-            "access management"
-          ],
+          "tags": ["IoT", "blockchain", "data analytics", "smart contracts", "access management"],
           "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
           "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
         }

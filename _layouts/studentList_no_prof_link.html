@@ -2,9 +2,8 @@
 layout: default
 ---
 
-{%- comment -%} This layout is for creating the list of students in each batch,
-WITHOUT profile page link sample frontmatter, --- layout:
-studentList_no_prof_link permalink: /students/e09/ batch: E09
+{%- comment -%} This layout is for creating the list of students in each batch, WITHOUT profile page
+link sample frontmatter, --- layout: studentList_no_prof_link permalink: /students/e09/ batch: E09
 title_in_breadcrumb: E09 Batch title: E09 Batch --- {%- endcomment -%}
 
 <main class="container">
@@ -27,8 +26,8 @@ title_in_breadcrumb: E09 Batch title: E09 Batch --- {%- endcomment -%}
 
 <div class="container py-4 px-lg-5">
   <div class="row justify-content-center">
-    {% assign batch_lower = page.batch | downcase %} {% assign batch =
-    site.data.stud[batch_lower] %} {% for item in batch %}
+    {% assign batch_lower = page.batch | downcase %} {% assign batch = site.data.stud[batch_lower]
+    %} {% for item in batch %}
     <div class="card text-center p-2 m-1 border-primary" style="width: 11rem">
       {% if item[1].image_url != "#" %}
       <img
@@ -53,11 +52,9 @@ title_in_breadcrumb: E09 Batch title: E09 Batch --- {%- endcomment -%}
       {% if item[1].page_url %}
       <!-- card button -->
       <div class="d-flex flex-row justify-content-center mt-auto">
-        <a
-          class="btn btn-outline-primary w-100"
-          href="{{ item[1].page_url | relative_url }}"
-          >View</a
-        >
+        <a class="btn btn-outline-primary w-100" href="{{ item[1].page_url | relative_url }}">
+          View
+        </a>
       </div>
       {% endif %}
     </div>

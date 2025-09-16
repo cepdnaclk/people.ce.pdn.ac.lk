@@ -1,20 +1,18 @@
 <span class="pswp-gallery pswp-gallery--single-column" id="gallery--simple">
-  {% assign imageName = include.url_image | split: "/" %} {% assign imageName =
-  imageName[-1] %}
+  {% assign imageName = include.url_image | split: "/" %} {% assign imageName = imageName[-1] %}
   <a
     href="{{ include.url_image | relative_url}}"
     data-pswp-width="{{site.data.images[imageName].width}}"
     data-pswp-height="{{site.data.images[imageName].height}}"
     target="_blank"
-    >{{include.text}}</a
   >
+    {{include.text}}
+  </a>
 </span>
 
-{%- comment -%} Create a image that pops up using PhotoSwipe. Zoomable. Works on
-mobile. Eg: {% include documentation_image.html
-url_image='images/docs/create_pull_req.png' text='hi' %} run
-python_scripts/generate_image_links_for_docs.py after uploading images to
-generate the images.json in _data for this to work properly. PhotoSwipe requires
-the image height and width in the html code. The python script generates a json
-including the name, width, height of the image. Jekyll gets the height width
-from that json {%- endcomment -%}
+{%- comment -%} Create a image that pops up using PhotoSwipe. Zoomable. Works on mobile. Eg: {%
+include documentation_image.html url_image='images/docs/create_pull_req.png' text='hi' %} run
+python_scripts/generate_image_links_for_docs.py after uploading images to generate the images.json
+in _data for this to work properly. PhotoSwipe requires the image height and width in the html code.
+The python script generates a json including the name, width, height of the image. Jekyll gets the
+height width from that json {%- endcomment -%}

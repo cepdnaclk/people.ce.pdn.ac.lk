@@ -1,5 +1,5 @@
-{%- comment -%} Used to create the search box in home page and in advanced
-search pages {%- endcomment -%}
+{%- comment -%} Used to create the search box in home page and in advanced search pages {%-
+endcomment -%}
 
 <div class="row justify-content-center">
   <div class="col-12 col-md-10 col-lg-9">
@@ -8,10 +8,7 @@ search pages {%- endcomment -%}
         <div class="col">
           <div class="input-group">
             <!-- search icon -->
-            <span
-              class="input-group-text text-primary border-primary"
-              id="basic-addon1"
-            >
+            <span class="input-group-text text-primary border-primary" id="basic-addon1">
               <i class="fas fa-search"></i>
             </span>
 
@@ -35,36 +32,36 @@ search pages {%- endcomment -%}
             </button>
             <ul class="dropdown-menu dropdown-menu-end">
               <li>
-                <a
-                  id="byName"
-                  class="dropdown-item"
-                  href="{{ '/search/by-name/' | relative_url }}"
-                  >by Name</a
-                >
+                <a id="byName" class="dropdown-item" href="{{ '/search/by-name/' | relative_url }}">
+                  by Name
+                </a>
               </li>
               <li>
                 <a
                   id="byRegNo"
                   class="dropdown-item"
                   href="{{ '/search/by-reg-no/' | relative_url }}"
-                  >by Registration Number</a
                 >
+                  by Registration Number
+                </a>
               </li>
               <li>
                 <a
                   id="byCurrAff"
                   class="dropdown-item"
                   href="{{ '/search/by-current-affiliation/' | relative_url }}"
-                  >by Current Affiliation</a
                 >
+                  by Current Affiliation
+                </a>
               </li>
               <li>
                 <a
                   id="byLocation"
                   class="dropdown-item"
                   href="{{ '/search/by-location/' | relative_url }}"
-                  >by Location</a
                 >
+                  by Location
+                </a>
               </li>
               <li>
                 <hr class="dropdown-divider" />
@@ -74,16 +71,18 @@ search pages {%- endcomment -%}
                   id="byInterestStud"
                   class="dropdown-item"
                   href="{{ '/search/by-interests/' | relative_url }}"
-                  >by Interests (Students)</a
                 >
+                  by Interests (Students)
+                </a>
               </li>
               <li>
                 <a
                   id="byInterestStaff"
                   class="dropdown-item"
                   href="{{ '/search/by-research-interests/' | relative_url }}"
-                  >by Research Interest (Staff)</a
                 >
+                  by Research Interest (Staff)
+                </a>
               </li>
             </ul>
           </div>

@@ -2,14 +2,13 @@
 layout: default
 ---
 
-{%- comment -%} This layout is for creating the single page containing the
-details of each student sample frontmatter, --- layout: postgraduateDetails
-permalink: "/students/postgraduate/098/" title: K.A.I. Fernando reg_no: E/18/098
-name_with_initials: K.A.I. Fernando email: e18098@eng.pdn.ac.lk url_website:
-something degree: degree1 mode_of_study: modeofstudy1 research_topic: research
-topic 1 image_url: "images/students/e18/e18098.jpg" --- NOTES: 1) if url = # it
-will show N/A, for everything else it will show the View button {%- endcomment
--%} {%- comment -%} breadcrumb {%- endcomment -%}
+{%- comment -%} This layout is for creating the single page containing the details of each student
+sample frontmatter, --- layout: postgraduateDetails permalink: "/students/postgraduate/098/" title:
+K.A.I. Fernando reg_no: E/18/098 name_with_initials: K.A.I. Fernando email: e18098@eng.pdn.ac.lk
+url_website: something degree: degree1 mode_of_study: modeofstudy1 research_topic: research topic 1
+image_url: "images/students/e18/e18098.jpg" --- NOTES: 1) if url = # it will show N/A, for
+everything else it will show the View button {%- endcomment -%} {%- comment -%} breadcrumb {%-
+endcomment -%}
 <main class="container">
   <div class="bg-secondary p-3 pb-1 rounded">
     <!-- <h1 class="text-white">Student Details</h1> -->
@@ -22,11 +21,9 @@ will show N/A, for everything else it will show the View button {%- endcomment
           <a href="{{ '/' | relative_url }}" class="link-light">People</a>
         </li>
         <li class="breadcrumb-item">
-          <a
-            href="{{ '/students/postgraduate/' | relative_url }}"
-            class="link-light"
-            >Postgraduate Students</a
-          >
+          <a href="{{ '/students/postgraduate/' | relative_url }}" class="link-light">
+            Postgraduate Students
+          </a>
         </li>
         <li class="breadcrumb-item text-white">{{page.name_with_initials}}</li>
       </ol>
@@ -68,20 +65,19 @@ will show N/A, for everything else it will show the View button {%- endcomment
         <ul class="list-group list-group-flush">
           <!-- Website -->
 
-          <li
-            class="list-group-item d-flex justify-content-between align-items-center flex-wrap"
-          >
-            <h6 class="mb-0"><i class="fas fa-globe"></i> Website</h6>
+          <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
+            <h6 class="mb-0">
+              <i class="fas fa-globe"></i>
+              Website
+            </h6>
             {% if page.url_website %}
             <span class="text-secondary">
-              <a href="{{page.url_website}}" target="_blank"
-                ><button type="button" class="btn btn-outline-primary btn-sm">
-                  View
-                </button></a
-              ></span
-            >
+              <a href="{{page.url_website}}" target="_blank">
+                <button type="button" class="btn btn-outline-primary btn-sm">View</button>
+              </a>
+            </span>
             {% else %}
-            <span class="text-secondary"> N/A</span>
+            <span class="text-secondary">N/A</span>
             {% endif %}
           </li>
         </ul>
@@ -97,9 +93,7 @@ will show N/A, for everything else it will show the View button {%- endcomment
             <div class="col-sm-3">
               <span class="mb-0" style="font-weight: 500">Full Name</span>
             </div>
-            <div class="col-sm-9 text-secondary">
-              {{page.name_with_initials}}
-            </div>
+            <div class="col-sm-9 text-secondary">{{page.name_with_initials}}</div>
           </div>
           <hr />
           {% endif %}
@@ -107,9 +101,7 @@ will show N/A, for everything else it will show the View button {%- endcomment
           <!-- reg number -->
           <div class="row">
             <div class="col-sm-3">
-              <span class="mb-0" style="font-weight: 500"
-                >Registration Number</span
-              >
+              <span class="mb-0" style="font-weight: 500">Registration Number</span>
             </div>
             <div class="col-sm-9 text-secondary">{{page.reg_no}}</div>
           </div>
@@ -163,18 +155,15 @@ will show N/A, for everything else it will show the View button {%- endcomment
       </div>
 
       <!-- Publications -->
-      {%- assign publications = site.data.postgraduate_publications[page.email]
-      -%} {%- assign pub_count = publications | size -%} {% if pub_count > 0 %}
+      {%- assign publications = site.data.postgraduate_publications[page.email] -%} {%- assign
+      pub_count = publications | size -%} {% if pub_count > 0 %}
       <div class="card mt-3">
         <div class="card-header" style="font-weight: 500">Publications</div>
         <div class="card-body mx-2 p-3">
           <div class="row px-3">
             <ul>
               {%- for p in publications -%}
-              <li>
-                {%- include publicationCard.html data=p title=p.title
-                path=page.path -%}
-              </li>
+              <li>{%- include publicationCard.html data=p title=p.title path=page.path -%}</li>
               {%- endfor -%}
             </ul>
           </div>
@@ -182,16 +171,15 @@ will show N/A, for everything else it will show the View button {%- endcomment
             <hr />
             <p class="text-muted small">
               Please note that here only contain the
-              <i>'Publications'</i> affiliated with the
-              <i>Department of Computer Engineering</i>. To see the full
-              publication profile, visit the {%- if page.url_researchgate -%}
+              <i>'Publications'</i>
+              affiliated with the
+              <i>Department of Computer Engineering</i>
+              . To see the full publication profile, visit the {%- if page.url_researchgate -%}
               <span>
-                <a href="{{ page.url_researchgate }}" target="_blank"
-                  >ResearchGate</a
-                >
+                <a href="{{ page.url_researchgate }}" target="_blank">ResearchGate</a>
               </span>
               {%- else -%}
-              <span> ResearchGate </span>
+              <span>ResearchGate</span>
               {%- endif -%} or Google Scholar profile of the student.
             </p>
           </div>

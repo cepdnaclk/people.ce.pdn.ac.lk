@@ -29,9 +29,7 @@ title: Badges
     <div class="col-sm-12 col-md-6 mb-3">
       <div class="card h-100">
         <div class="row g-0">
-          <div
-            class="col-md-4 d-flex justify-content-center align-items-center"
-          >
+          <div class="col-md-4 d-flex justify-content-center align-items-center">
             <img
               src="{{ p.badge_image | relative_url }}"
               class="img-fluid rounded-start"
@@ -46,11 +44,9 @@ title: Badges
               {% endif %}
               <p class="card-text">{{ p.badge_description }}</p>
               <div class="text-end clearfix">
-                <a
-                  class="btn btn-primary btn-sm mx-3"
-                  href="{{ p.permalink | relative_url }}"
-                  >Explore</a
-                >
+                <a class="btn btn-primary btn-sm mx-3" href="{{ p.permalink | relative_url }}">
+                  Explore
+                </a>
               </div>
             </div>
           </div>

@@ -1,12 +1,10 @@
-"{{staff.email}}" : { "name": "{{staff.name_below_image}}", "designation":
-"{{staff.designation}}", "link" : "{{staff.permalink | prepend:
-site.absolute_url }}", "contact_number" : "{{staff.contact_number}}", "email":
-"{{staff.email}}", "location": "{{staff.location}}", "profile_image" :
-"{{staff.url_image | prepend: '/' | prepend: site.absolute_url }}", "urls":{
-"linkedin": "{{staff.url_linkedin}}", "google_scholar" :
-"{{staff.url_google_scholar}}", "researchgate" : "{{staff.url_researchgate}}",
-"website" : "{{staff.url_website}}", "orcid": "{{staff.url_orcid}}" },
-"research_interests": [ {%- for interest in staff.research_interests -%} {%- if
-forloop.last == true -%} "{{interest}}" {%- else -%} "{{interest}}", {%- endif
--%} {%- endfor -%} ] } {%- comment -%} used in /api/staff.json to generate json.
-Used by api.ce.pdn.ac.lk {%- endcomment -%}
+"{{staff.email}}" : { "name": "{{staff.name_below_image}}", "designation": "{{staff.designation}}",
+"link" : "{{staff.permalink | prepend: site.absolute_url }}", "contact_number" :
+"{{staff.contact_number}}", "email": "{{staff.email}}", "location": "{{staff.location}}",
+"profile_image" : "{{staff.url_image | prepend: '/' | prepend: site.absolute_url }}", "urls":{
+"linkedin": "{{staff.url_linkedin}}", "google_scholar" : "{{staff.url_google_scholar}}",
+"researchgate" : "{{staff.url_researchgate}}", "website" : "{{staff.url_website}}", "orcid":
+"{{staff.url_orcid}}" }, "research_interests": [ {%- for interest in staff.research_interests -%}
+{%- if forloop.last == true -%} "{{interest}}" {%- else -%} "{{interest}}", {%- endif -%} {%- endfor
+-%} ] } {%- comment -%} used in /api/staff.json to generate json. Used by api.ce.pdn.ac.lk {%-
+endcomment -%}

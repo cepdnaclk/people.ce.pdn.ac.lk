@@ -15,9 +15,7 @@ layout: default
           <a href="{{ '/' | relative_url }}" class="link-light">People</a>
         </li>
         <li class="breadcrumb-item">
-          <a href="{{ '/societies/' | relative_url }}" class="link-light"
-            >Societies</a
-          >
+          <a href="{{ '/societies/' | relative_url }}" class="link-light">Societies</a>
         </li>
         <li class="breadcrumb-item text-white">{{page.title}}</li>
       </ol>
@@ -29,22 +27,15 @@ layout: default
 <div class="container py-4 px-lg-5">
   <div class="d-none row pb-5">
     <div class="col-sm-3 d-flex justify-content-center">
-      <img
-        src="{{ page.badge_image | relative_url}}"
-        alt="{{ page.title }}"
-        class="img-fluid"
-      />
+      <img src="{{ page.badge_image | relative_url}}" alt="{{ page.title }}" class="img-fluid" />
     </div>
-    <div class="col-sm-9 d-flex align-items-center">
-      {{ page.badge_description }}
-    </div>
+    <div class="col-sm-9 d-flex align-items-center">{{ page.badge_description }}</div>
   </div>
   <!-- <hr> -->
 
   <div class="row justify-content-center pb-5">
-    {%- comment -%} {%- assign student = page.students | sort:"eNumber" -%} {%-
-    endcomment -%} {%- assign student = page.students -%} {% for item in student
-    %}
+    {%- comment -%} {%- assign student = page.students | sort:"eNumber" -%} {%- endcomment -%} {%-
+    assign student = page.students -%} {% for item in student %}
     <div class="card text-center p-2 m-1 border-primary" style="width: 11rem">
       {% if item.profile_image %}
       <img
@@ -70,8 +61,9 @@ layout: default
           <a
             class="btn btn-sm btn-outline-primary w-100"
             href="{{ item.profile_url | relative_url }}"
-            >Profile</a
           >
+            Profile
+          </a>
         </div>
         {%- endif -%}
       </div>

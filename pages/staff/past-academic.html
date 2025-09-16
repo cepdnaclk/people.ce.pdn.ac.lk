@@ -28,36 +28,28 @@ title: Past Academic Staff
   <div class="container">
     <ul class="nav nav-pills mb-3 nav-fill">
       <li class="nav-item">
-        <a class="nav-link filter-button active" data-filter="all" href="#"
-          >All</a
-        >
+        <a class="nav-link filter-button active" data-filter="all" href="#">All</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link filter-button" data-filter="professor" href="#"
-          >Professors</a
-        >
+        <a class="nav-link filter-button" data-filter="professor" href="#">Professors</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link filter-button" data-filter="senior_lecturer" href="#"
-          >Senior Lecturers</a
-        >
+        <a class="nav-link filter-button" data-filter="senior_lecturer" href="#">
+          Senior Lecturers
+        </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link filter-button" data-filter="lecturer" href="#"
-          >Lecturers</a
-        >
+        <a class="nav-link filter-button" data-filter="lecturer" href="#">Lecturers</a>
       </li>
       <!-- <li class="nav-item"><a class="nav-link filter-button" data-filter="past" href="#">Past Staff</a></li> -->
     </ul>
 
     <div class="row justify-content-center">
       <!-- add profile page to pages/staff/academic-staff. it will be added here automatically if on_duty = false -->
-      {% include staff_academic_cards.html filter_var="designation"
-      if_equal_to_this="Professor" past=true %} {% include
-      staff_academic_cards.html filter_var="designation"
-      if_equal_to_this="Senior Lecturer" past=true %} {% include
-      staff_academic_cards.html filter_var="designation"
-      if_equal_to_this="Lecturer" past=true %}
+      {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Professor"
+      past=true %} {% include staff_academic_cards.html filter_var="designation"
+      if_equal_to_this="Senior Lecturer" past=true %} {% include staff_academic_cards.html
+      filter_var="designation" if_equal_to_this="Lecturer" past=true %}
     </div>
   </div>
 </div>

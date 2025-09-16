@@ -36,17 +36,10 @@
       <div class="modal-header">
         <h5 class="modal-title">
           {{ include.badge_details.title }} {%- if p.subtitle != "" -%}
-          <small class="text-muted ms-1"
-            >({{ include.badge_details.subtitle }})</small
-          >
+          <small class="text-muted ms-1">({{ include.badge_details.subtitle }})</small>
           {%- endif -%}
         </h5>
-        <button
-          type="button"
-          class="btn-close"
-          data-bs-dismiss="modal"
-          aria-label="Close"
-        ></button>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
         <div class="row">
@@ -69,8 +62,9 @@
           href="{{ include.badge_details.page | relative_url }}"
           type="button"
           class="btn btn-primary"
-          >See more</a
         >
+          See more
+        </a>
       </div>
     </div>
   </div>

@@ -4,12 +4,7 @@
       "title": "Autonomic trust management in cloud-based and highly dynamic IoT applications",
       "venue": "2015 ITU Kaleidoscope: Trust in the Information Society (K-2015)",
       "year": "2015",
-      "authors": [
-        "Suneth Namal",
-        "Hasindu Gamaarachchi",
-        "Gyu MyoungLee",
-        "Tai-Won Um"
-      ],
+      "authors": ["Suneth Namal", "Hasindu Gamaarachchi", "Gyu MyoungLee", "Tai-Won Um"],
       "author_info": [
         {
           "name": "Suneth Namal",
@@ -231,13 +226,7 @@
         "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
       ],
       "funding": "",
-      "tags": [
-        "Bandwidth",
-        "Side-channel attacks",
-        "Dictionaries",
-        "Servers",
-        "Data compression"
-      ],
+      "tags": ["Bandwidth", "Side-channel attacks", "Dictionaries", "Servers", "Data compression"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300359/",
       "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300359/index.json"
     }
@@ -312,13 +301,7 @@
         "Secure and Reliable Computing (Formal Verification / Cryptography / Blockchain)"
       ],
       "funding": "",
-      "tags": [
-        "Bandwidth",
-        "Side-channel attacks",
-        "Dictionaries",
-        "Servers",
-        "Data compression"
-      ],
+      "tags": ["Bandwidth", "Side-channel attacks", "Dictionaries", "Servers", "Data compression"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIINFS.2017.8300359/",
       "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIINFS.2017.8300359/index.json"
     }
@@ -328,12 +311,7 @@
       "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
       "venue": "MDPI Sensors",
       "year": "2019",
-      "authors": [
-        "Theekshana Dissanayake",
-        "Yasitha Rajapaksha",
-        "Roshan Ragel",
-        "Isuru Nawinne"
-      ],
+      "authors": ["Theekshana Dissanayake", "Yasitha Rajapaksha", "Roshan Ragel", "Isuru Nawinne"],
       "author_info": [
         {
           "name": "Theekshana Dissanayake",
@@ -379,9 +357,7 @@
       "presentation": "#",
       "project": "#",
       "codebase": "#",
-      "researchgroups": [
-        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-      ],
+      "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
       "funding": "",
       "tags": [
         "bio-signal processing",
@@ -399,12 +375,7 @@
       "title": "An ensemble learning approach for electrocardiogram sensor based human emotion recognition",
       "venue": "MDPI Sensors",
       "year": "2019",
-      "authors": [
-        "Theekshana Dissanayake",
-        "Yasitha Rajapaksha",
-        "Roshan Ragel",
-        "Isuru Nawinne"
-      ],
+      "authors": ["Theekshana Dissanayake", "Yasitha Rajapaksha", "Roshan Ragel", "Isuru Nawinne"],
       "author_info": [
         {
           "name": "Theekshana Dissanayake",
@@ -450,9 +421,7 @@
       "presentation": "#",
       "project": "#",
       "codebase": "#",
-      "researchgroups": [
-        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-      ],
+      "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
       "funding": "",
       "tags": [
         "bio-signal processing",
@@ -531,9 +500,7 @@
       "presentation": "#",
       "project": "#",
       "codebase": "#",
-      "researchgroups": [
-        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-      ],
+      "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
       "funding": "",
       "tags": [
         "Programming",
@@ -613,9 +580,7 @@
       "presentation": "#",
       "project": "#",
       "codebase": "#",
-      "researchgroups": [
-        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-      ],
+      "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
       "funding": "",
       "tags": [
         "Programming",
@@ -727,13 +692,7 @@
       "codebase": "#",
       "researchgroups": [],
       "funding": "",
-      "tags": [
-        "IoT",
-        "blockchain",
-        "data analytics",
-        "smart contracts",
-        "access management"
-      ],
+      "tags": ["IoT", "blockchain", "data analytics", "smart contracts", "access management"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
       "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
     },
@@ -741,11 +700,7 @@
       "title": "An accurate mathematical model predicting number of dengue cases in tropics",
       "venue": "PLoS Neglected Tropical Diseases",
       "year": "2021",
-      "authors": [
-        "Chathurangi Edussuriya",
-        "Sampath Deegalla",
-        "Indika Gawarammana"
-      ],
+      "authors": ["Chathurangi Edussuriya", "Sampath Deegalla", "Indika Gawarammana"],
       "author_info": [
         {
           "name": "Chathurangi Edussuriya",
@@ -855,9 +810,7 @@
       "presentation": "#",
       "project": "#",
       "codebase": "#",
-      "researchgroups": [
-        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-      ],
+      "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
       "funding": "",
       "tags": [
         "Programming",
@@ -1391,12 +1344,7 @@
       "codebase": "#",
       "researchgroups": ["Computational BioEngineering", "Computer Vision"],
       "funding": "",
-      "tags": [
-        "Sleep apnea",
-        "Video processing",
-        "Bio medical engineering",
-        "Pattern recognition"
-      ],
+      "tags": ["Sleep apnea", "Video processing", "Bio medical engineering", "Pattern recognition"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/",
       "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
     },
@@ -1596,9 +1544,7 @@
       "presentation": "#",
       "project": "#",
       "codebase": "https://github.com/hasindu2008/f5c",
-      "researchgroups": [
-        "Accelerated and High-Performance Computing (FPGA / GPU)"
-      ],
+      "researchgroups": ["Accelerated and High-Performance Computing (FPGA / GPU)"],
       "funding": "Jared T. Simpson is supported by the Ontario Institute for Cancer Research through funds provided by the Government of Ontario and the Government of Canada through Genome Canada and Ontario Genomics (OGI-136).",
       "tags": [
         "Nanopore",
@@ -1619,12 +1565,7 @@
       "title": "DeepLight: Robust & Unobtrusive Real-time Screen-Camera Communication for Real-World Displays",
       "venue": "2021 20th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)",
       "year": "2021",
-      "authors": [
-        "Vu Tran",
-        "Gihan Jayatilaka",
-        "Ashwin Ashok",
-        "Archan Misra"
-      ],
+      "authors": ["Vu Tran", "Gihan Jayatilaka", "Ashwin Ashok", "Archan Misra"],
       "author_info": [
         {
           "name": "Vu Tran",
@@ -1768,9 +1709,7 @@
       "presentation": "#",
       "project": "https://projects.ce.pdn.ac.lk/greenhouse-automation/",
       "codebase": "https://github.com/cepdnaclk/Smart-Agriculture-a-low-cost-IoT-system-for-polytunnels",
-      "researchgroups": [
-        "Smart and Intelligent Systems (IoT / AI / Wearable Computing)"
-      ],
+      "researchgroups": ["Smart and Intelligent Systems (IoT / AI / Wearable Computing)"],
       "funding": "The Early Career Fellowship of the Organization for Women in Science for Developing World (OWSD, Early Career Fellowship https://owsd.net/) funded this project \u00e2\u0080\u0093 the award agreement 4500406736 was awarded to Pradeepa C.G. Bandaranayake",
       "tags": ["IoT", "Smart Farming", "Control Systems", "Agriculture"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pone.0278440/",
@@ -1966,12 +1905,7 @@
       "codebase": "#",
       "researchgroups": ["Computational BioEngineering", "Computer Vision"],
       "funding": "",
-      "tags": [
-        "Sleep apnea",
-        "Video processing",
-        "Bio medical engineering",
-        "Pattern recognition"
-      ],
+      "tags": ["Sleep apnea", "Video processing", "Bio medical engineering", "Pattern recognition"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/",
       "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
     }
@@ -2286,9 +2220,7 @@
       "presentation": "#",
       "project": "#",
       "codebase": "https://github.com/hasindu2008/f5c",
-      "researchgroups": [
-        "Accelerated and High-Performance Computing (FPGA / GPU)"
-      ],
+      "researchgroups": ["Accelerated and High-Performance Computing (FPGA / GPU)"],
       "funding": "Jared T. Simpson is supported by the Ontario Institute for Cancer Research through funds provided by the Government of Ontario and the Government of Canada through Genome Canada and Ontario Genomics (OGI-136).",
       "tags": [
         "Nanopore",
@@ -2592,12 +2524,7 @@
       "codebase": "#",
       "researchgroups": ["Computational BioEngineering", "Computer Vision"],
       "funding": "",
-      "tags": [
-        "Sleep apnea",
-        "Video processing",
-        "Bio medical engineering",
-        "Pattern recognition"
-      ],
+      "tags": ["Sleep apnea", "Video processing", "Bio medical engineering", "Pattern recognition"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/",
       "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
     }
@@ -2680,12 +2607,7 @@
       "codebase": "#",
       "researchgroups": ["Computational BioEngineering", "Computer Vision"],
       "funding": "",
-      "tags": [
-        "Sleep apnea",
-        "Video processing",
-        "Bio medical engineering",
-        "Pattern recognition"
-      ],
+      "tags": ["Sleep apnea", "Video processing", "Bio medical engineering", "Pattern recognition"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS47346.2019.9063269/",
       "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS47346.2019.9063269/index.json"
     }
@@ -2788,13 +2710,7 @@
       "codebase": "#",
       "researchgroups": [],
       "funding": "",
-      "tags": [
-        "IoT",
-        "blockchain",
-        "data analytics",
-        "smart contracts",
-        "access management"
-      ],
+      "tags": ["IoT", "blockchain", "data analytics", "smart contracts", "access management"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.3390/electronics9091525/",
       "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/electronics9091525/index.json"
     }
@@ -2986,13 +2902,7 @@
       "codebase": "#",
       "researchgroups": ["Machine Learning and Data Mining"],
       "funding": "",
-      "tags": [
-        "Kidney",
-        "Diseases",
-        "Machine learning",
-        "Red blood cells",
-        "Hypertension"
-      ],
+      "tags": ["Kidney", "Diseases", "Machine learning", "Red blood cells", "Hypertension"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/MERCon50084.2020.9185249/",
       "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/MERCon50084.2020.9185249/index.json"
     }
@@ -3164,9 +3074,7 @@
       "presentation": "#",
       "project": "https://projects.ce.pdn.ac.lk/greenhouse-automation/",
       "codebase": "https://github.com/cepdnaclk/Smart-Agriculture-a-low-cost-IoT-system-for-polytunnels",
-      "researchgroups": [
-        "Smart and Intelligent Systems (IoT / AI / Wearable Computing)"
-      ],
+      "researchgroups": ["Smart and Intelligent Systems (IoT / AI / Wearable Computing)"],
       "funding": "The Early Career Fellowship of the Organization for Women in Science for Developing World (OWSD, Early Career Fellowship https://owsd.net/) funded this project \u00e2\u0080\u0093 the award agreement 4500406736 was awarded to Pradeepa C.G. Bandaranayake",
       "tags": ["IoT", "Smart Farming", "Control Systems", "Agriculture"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1371/journal.pone.0278440/",
@@ -3247,9 +3155,7 @@
       "presentation": "https://youtu.be/UxYynRS6BR0",
       "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics/",
       "codebase": "https://github.com/Pera-Swarm",
-      "researchgroups": [
-        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-      ],
+      "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
       "funding": "",
       "tags": ["Robotics", "Simulation"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ACCESS.2023.3317434/",
@@ -3332,9 +3238,7 @@
       "presentation": "https://youtu.be/UxYynRS6BR0",
       "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics/",
       "codebase": "https://github.com/Pera-Swarm",
-      "researchgroups": [
-        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-      ],
+      "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
       "funding": "",
       "tags": ["Robotics", "Simulation"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ACCESS.2023.3317434/",
@@ -3417,9 +3321,7 @@
       "presentation": "https://youtu.be/UxYynRS6BR0",
       "project": "https://projects.ce.pdn.ac.lk/4yp/e15/Mixed-Reality-based-Simulation-Platform-for-Swarm-Robotics/",
       "codebase": "https://github.com/Pera-Swarm",
-      "researchgroups": [
-        "ESCAL: Computer Systems (Embedded Systems / Robotics )"
-      ],
+      "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
       "funding": "",
       "tags": ["Robotics", "Simulation"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ACCESS.2023.3317434/",
@@ -4205,12 +4107,7 @@
         "ESCAL: Computer Systems (Embedded Systems / Robotics )"
       ],
       "funding": "",
-      "tags": [
-        "Swarm Robotics",
-        "Collaborative Mapping",
-        "Swarm Intelligence",
-        "Mixed Reality"
-      ],
+      "tags": ["Swarm Robotics", "Collaborative Mapping", "Swarm Intelligence", "Mixed Reality"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/SCSE65633.2025.11030968/",
       "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/SCSE65633.2025.11030968/index.json"
     }
@@ -4309,11 +4206,7 @@
       "title": "Analyzing and Predicting the Volatile Market Patterns for Trading in International Markets Using a Digital Twin",
       "venue": "International Conference on Asia Pacific Advanced Network (APANConf 2024)",
       "year": "2025",
-      "authors": [
-        "Ishta H Jayakody",
-        "Mahela Bandara",
-        "Asitha U Bandaranayake"
-      ],
+      "authors": ["Ishta H Jayakody", "Mahela Bandara", "Asitha U Bandaranayake"],
       "author_info": [
         {
           "name": "Ishta H Jayakody",
@@ -4360,11 +4253,7 @@
       "title": "Analyzing and Predicting the Volatile Market Patterns for Trading in International Markets Using a Digital Twin",
       "venue": "International Conference on Asia Pacific Advanced Network (APANConf 2024)",
       "year": "2025",
-      "authors": [
-        "Ishta H Jayakody",
-        "Mahela Bandara",
-        "Asitha U Bandaranayake"
-      ],
+      "authors": ["Ishta H Jayakody", "Mahela Bandara", "Asitha U Bandaranayake"],
       "author_info": [
         {
           "name": "Ishta H Jayakody",
@@ -4499,12 +4388,7 @@
         "ESCAL: Computer Systems (Embedded Systems / Robotics )"
       ],
       "funding": "",
-      "tags": [
-        "Swarm Robotics",
-        "Collaborative Mapping",
-        "Swarm Intelligence",
-        "Mixed Reality"
-      ],
+      "tags": ["Swarm Robotics", "Collaborative Mapping", "Swarm Intelligence", "Mixed Reality"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/SCSE65633.2025.11030968/",
       "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/SCSE65633.2025.11030968/index.json"
     }
@@ -4514,11 +4398,7 @@
       "title": "Analyzing and Predicting the Volatile Market Patterns for Trading in International Markets Using a Digital Twin",
       "venue": "International Conference on Asia Pacific Advanced Network (APANConf 2024)",
       "year": "2025",
-      "authors": [
-        "Ishta H Jayakody",
-        "Mahela Bandara",
-        "Asitha U Bandaranayake"
-      ],
+      "authors": ["Ishta H Jayakody", "Mahela Bandara", "Asitha U Bandaranayake"],
       "author_info": [
         {
           "name": "Ishta H Jayakody",
@@ -4565,11 +4445,7 @@
       "title": "Analyzing and Predicting the Volatile Market Patterns for Trading in International Markets Using a Digital Twin",
       "venue": "International Conference on Asia Pacific Advanced Network (APANConf 2024)",
       "year": "2025",
-      "authors": [
-        "Ishta H Jayakody",
-        "Mahela Bandara",
-        "Asitha U Bandaranayake"
-      ],
+      "authors": ["Ishta H Jayakody", "Mahela Bandara", "Asitha U Bandaranayake"],
       "author_info": [
         {
           "name": "Ishta H Jayakody",
@@ -4704,12 +4580,7 @@
         "ESCAL: Computer Systems (Embedded Systems / Robotics )"
       ],
       "funding": "",
-      "tags": [
-        "Swarm Robotics",
-        "Collaborative Mapping",
-        "Swarm Intelligence",
-        "Mixed Reality"
-      ],
+      "tags": ["Swarm Robotics", "Collaborative Mapping", "Swarm Intelligence", "Mixed Reality"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/SCSE65633.2025.11030968/",
       "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/SCSE65633.2025.11030968/index.json"
     }
@@ -4790,10 +4661,7 @@
       "presentation": "https://gamma.app/docs/FYP-Forecasting-Dengue-Outbreaks-in-Sri-Lanka-q0tby8ocrsu3brh?mode=doc",
       "project": "https://projects.ce.pdn.ac.lk/4yp/e18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/",
       "codebase": "https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
-      "researchgroups": [
-        "Computational BioEngineering",
-        "Machine Learning and Data Mining"
-      ],
+      "researchgroups": ["Computational BioEngineering", "Machine Learning and Data Mining"],
       "funding": "",
       "tags": [
         "Dengue",
@@ -4882,10 +4750,7 @@
       "presentation": "https://gamma.app/docs/FYP-Forecasting-Dengue-Outbreaks-in-Sri-Lanka-q0tby8ocrsu3brh?mode=doc",
       "project": "https://projects.ce.pdn.ac.lk/4yp/e18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/",
       "codebase": "https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
-      "researchgroups": [
-        "Computational BioEngineering",
-        "Machine Learning and Data Mining"
-      ],
+      "researchgroups": ["Computational BioEngineering", "Machine Learning and Data Mining"],
       "funding": "",
       "tags": [
         "Dengue",
@@ -4989,12 +4854,7 @@
         "ESCAL: Computer Systems (Embedded Systems / Robotics )"
       ],
       "funding": "",
-      "tags": [
-        "Swarm Robotics",
-        "Collaborative Mapping",
-        "Swarm Intelligence",
-        "Mixed Reality"
-      ],
+      "tags": ["Swarm Robotics", "Collaborative Mapping", "Swarm Intelligence", "Mixed Reality"],
       "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/SCSE65633.2025.11030968/",
       "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/SCSE65633.2025.11030968/index.json"
     }
@@ -5384,10 +5244,7 @@
       "presentation": "https://gamma.app/docs/FYP-Forecasting-Dengue-Outbreaks-in-Sri-Lanka-q0tby8ocrsu3brh?mode=doc",
       "project": "https://projects.ce.pdn.ac.lk/4yp/e18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/",
       "codebase": "https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
-      "researchgroups": [
-        "Computational BioEngineering",
-        "Machine Learning and Data Mining"
-      ],
+      "researchgroups": ["Computational BioEngineering", "Machine Learning and Data Mining"],
       "funding": "",
       "tags": [
         "Dengue",

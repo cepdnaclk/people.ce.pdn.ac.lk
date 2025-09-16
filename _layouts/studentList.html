@@ -2,12 +2,10 @@
 layout: default
 ---
 
-{%- comment -%} This layout is for creating the list of students cards in each
-batch, has links to view profile page sameple frontmatter, --- layout:
-studentList permalink: /students/e18/ batch: E18 title_in_breadcrumb: E18 Batch
-title: E18 Batch --- {% assign folder1 = site.pages | where: "batch", page.batch
-| where: "studentDetails", page.layout | sort: "reg_no" %} {% for item in
-folder1 %}
+{%- comment -%} This layout is for creating the list of students cards in each batch, has links to
+view profile page sameple frontmatter, --- layout: studentList permalink: /students/e18/ batch: E18
+title_in_breadcrumb: E18 Batch title: E18 Batch --- {% assign folder1 = site.pages | where: "batch",
+page.batch | where: "studentDetails", page.layout | sort: "reg_no" %} {% for item in folder1 %}
 <div class="card text-center p-2" style="width: 11rem">
   <img
     src="{{ item.image_url | relative_url }}"
@@ -18,11 +16,7 @@ folder1 %}
   <div class="card-body">
     <h6 class="card-title">{{item.name_with_initials}}</h6>
     <p class="card-text">{{item.reg_no}}</p>
-    <a
-      class="btn btn-outline-primary w-100"
-      href="{{ item.permalink | relative_url }}"
-      >View</a
-    >
+    <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
   </div>
 </div>
 {% endfor %} {%- endcomment -%}
@@ -50,9 +44,9 @@ folder1 %}
 <div class="container py-4 px-lg-5">
   <div class="row justify-content-center pb-5">
     <!-- Computer Students -->
-    {% assign profilePages = site.pages | where: "layout", "studentDetails" |
-    where: "batch", page.batch | where: "department", "Computer Engineering"
-    |sort: "reg_no"%} {% for item in profilePages %}
+    {% assign profilePages = site.pages | where: "layout", "studentDetails" | where: "batch",
+    page.batch | where: "department", "Computer Engineering" |sort: "reg_no"%} {% for item in
+    profilePages %}
     <div class="card text-center p-2 m-1 border-primary" style="width: 11rem">
       <!-- card image -->
       {% if item.image_url %}
@@ -80,11 +74,9 @@ folder1 %}
         <p class="card-text">{{item.reg_no}}</p>
         <!-- card button -->
         <div class="d-flex flex-row justify-content-center mt-auto">
-          <a
-            class="btn btn-outline-primary w-100"
-            href="{{ item.permalink | relative_url }}"
-            >View</a
-          >
+          <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">
+            View
+          </a>
         </div>
       </div>
     </div>
@@ -92,18 +84,15 @@ folder1 %}
   </div>
 
   <!-- Mechanical Students -->
-  {% assign mech_count = site.pages | where: "layout", "studentDetails" | where:
-  "batch", page.batch | where: "department", "Mechanical Engineering" | size %}
-  {% if mech_count > 0 %}
+  {% assign mech_count = site.pages | where: "layout", "studentDetails" | where: "batch", page.batch
+  | where: "department", "Mechanical Engineering" | size %} {% if mech_count > 0 %}
   <div class="row justify-content-center pb-5">
-    <h3 class="text-center pt-3">
-      External Students - Department of Mechanical Engineering
-    </h3>
+    <h3 class="text-center pt-3">External Students - Department of Mechanical Engineering</h3>
     <hr />
 
-    {% assign profilePages = site.pages | where: "layout", "studentDetails" |
-    where: "batch", page.batch | where: "department", "Mechanical Engineering"
-    |sort: "reg_no"%} {% for item in profilePages %}
+    {% assign profilePages = site.pages | where: "layout", "studentDetails" | where: "batch",
+    page.batch | where: "department", "Mechanical Engineering" |sort: "reg_no"%} {% for item in
+    profilePages %}
     <div class="card text-center p-2 m-1 border-primary" style="width: 11rem">
       <!-- card image -->
       {% if item.image_url %}
@@ -131,11 +120,9 @@ folder1 %}
         <p class="card-text">{{item.reg_no}}</p>
         <!-- card button -->
         <div class="d-flex flex-row justify-content-center mt-auto">
-          <a
-            class="btn btn-outline-primary w-100"
-            href="{{ item.permalink | relative_url }}"
-            >View</a
-          >
+          <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">
+            View
+          </a>
         </div>
       </div>
     </div>
