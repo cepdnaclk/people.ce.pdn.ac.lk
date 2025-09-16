@@ -1,16 +1,16 @@
 /*!
-  * PhotoSwipe Lightbox 5.1.7 - https://photoswipe.com
-  * (c) 2021 Dmitry Semenov
-  */
+ * PhotoSwipe Lightbox 5.1.7 - https://photoswipe.com
+ * (c) 2021 Dmitry Semenov
+ */
 /**
-  * Creates element and optionally appends it to another.
-  *
-  * @param {String} className
-  * @param {String|NULL} tagName
-  * @param {Element|NULL} appendToEl
-  */
+ * Creates element and optionally appends it to another.
+ *
+ * @param {String} className
+ * @param {String|NULL} tagName
+ * @param {Element|NULL} appendToEl
+ */
 function createElement(className, tagName, appendToEl) {
-  const el = document.createElement(tagName || 'div');
+  const el = document.createElement(tagName || "div");
   if (className) {
     el.className = className;
   }
@@ -24,17 +24,16 @@ function createElement(className, tagName, appendToEl) {
  * Apply width and height CSS properties to element
  */
 function setWidthHeight(el, w, h) {
-  el.style.width = (typeof w === 'number') ? (w + 'px') : w;
-  el.style.height = (typeof h === 'number') ? (h + 'px') : h;
+  el.style.width = typeof w === "number" ? w + "px" : w;
+  el.style.height = typeof h === "number" ? h + "px" : h;
 }
 
 const LOAD_STATE = {
-  IDLE: 'idle',
-  LOADING: 'loading',
-  LOADED: 'loaded',
-  ERROR: 'error',
+  IDLE: "idle",
+  LOADING: "loading",
+  LOADED: "loaded",
+  ERROR: "error",
 };
-
 
 /**
  * Check if click or keydown event was dispatched
@@ -64,7 +63,7 @@ function getElementsFromOption(option, legacySelector, parent = document) {
   } else if (option instanceof NodeList || Array.isArray(option)) {
     elements = Array.from(option);
   } else {
-    const selector = typeof option === 'string' ? option : legacySelector;
+    const selector = typeof option === "string" ? option : legacySelector;
     if (selector) {
       elements = Array.from(parent.querySelectorAll(selector));
     }
@@ -74,7 +73,9 @@ function getElementsFromOption(option, legacySelector, parent = document) {
 }
 
 function dynamicImportModule(module) {
-  return typeof module === 'string' ? import(/* webpackIgnore: true */ module) : module;
+  return typeof module === "string"
+    ? import(/* webpackIgnore: true */ module)
+    : module;
 }
 
 /**
@@ -118,7 +119,9 @@ class Eventable {
 
   removeFilter(name, fn) {
     if (this._filters[name]) {
-      this._filters[name] = this._filters[name].filter(filter => (filter.fn !== fn));
+      this._filters[name] = this._filters[name].filter(
+        (filter) => filter.fn !== fn
+      );
     }
 
     if (this.pswp) {
@@ -151,7 +154,9 @@ class Eventable {
 
   off(name, fn) {
     if (this._listeners[name]) {
-      this._listeners[name] = this._listeners[name].filter(listener => (fn !== listener));
+      this._listeners[name] = this._listeners[name].filter(
+        (listener) => fn !== listener
+      );
     }
 
     if (this.pswp) {
@@ -212,11 +217,11 @@ class Content {
    */
   load(/* isLazy */) {
     if (!this.element) {
-      this.element = createElement('pswp__content');
-      this.element.style.position = 'absolute';
+      this.element = createElement("pswp__content");
+      this.element.style.position = "absolute";
       this.element.style.left = 0;
       this.element.style.top = 0;
-      this.element.innerHTML = this.data.html || '';
+      this.element.innerHTML = this.data.html || "";
     }
   }
 
@@ -228,13 +233,9 @@ class Content {
     return false;
   }
 
-  activate() {
+  activate() {}
 
-  }
-
-  deactivate() {
-
-  }
+  deactivate() {}
 
   setDisplayedSize(width, height) {
     if (this.element) {
@@ -246,28 +247,27 @@ class Content {
     this.state = LOAD_STATE.LOADED;
 
     if (this.slide) {
-      this.pswp.dispatch('loadComplete', { slide: this.slide });
+      this.pswp.dispatch("loadComplete", { slide: this.slide });
     }
   }
 
   // If the placeholder should be kept in DOM
   keepPlaceholder() {
-    return (this.state === LOAD_STATE.LOADING);
+    return this.state === LOAD_STATE.LOADING;
   }
 
   onError() {
     this.state = LOAD_STATE.ERROR;
 
     if (this.slide) {
-      this.pswp.dispatch('loadComplete', { slide: this.slide, isError: true });
-      this.pswp.dispatch('loadError', { slide: this.slide });
+      this.pswp.dispatch("loadComplete", { slide: this.slide, isError: true });
+      this.pswp.dispatch("loadError", { slide: this.slide });
     }
   }
 
   getErrorElement() {
     return false;
   }
-
 
   remove() {
     this.isAttached = false;
@@ -283,9 +283,7 @@ class Content {
     }
   }
 
-  destroy() {
-
-  }
+  destroy() {}
 }
 
 class ImageContent extends Content {
@@ -300,7 +298,7 @@ class ImageContent extends Content {
       return;
     }
 
-    this.element = createElement('pswp__img', 'img');
+    this.element = createElement("pswp__img", "img");
 
     if (this.data.srcset) {
       this.element.srcset = this.data.srcset;
@@ -308,7 +306,7 @@ class ImageContent extends Content {
 
     this.element.src = imageSrc;
 
-    this.element.alt = this.data.alt || '';
+    this.element.alt = this.data.alt || "";
 
     this.state = LOAD_STATE.LOADING;
 
@@ -328,27 +326,34 @@ class ImageContent extends Content {
   setDisplayedSize(width, height) {
     const image = this.element;
     if (image) {
-      setWidthHeight(image, width, 'auto');
+      setWidthHeight(image, width, "auto");
 
       // Handle srcset sizes attribute.
       //
       // Never lower quality, if it was increased previously.
       // Chrome does this automatically, Firefox and Safari do not,
       // so we store largest used size in dataset.
-      if (image.srcset
-          && (!image.dataset.largestUsedSize || width > image.dataset.largestUsedSize)) {
-        image.sizes = width + 'px';
+      if (
+        image.srcset &&
+        (!image.dataset.largestUsedSize ||
+          width > image.dataset.largestUsedSize)
+      ) {
+        image.sizes = width + "px";
         image.dataset.largestUsedSize = width;
       }
 
       if (this.slide) {
-        this.pswp.dispatch('imageSizeChange', { slide: this.slide, width, height });
+        this.pswp.dispatch("imageSizeChange", {
+          slide: this.slide,
+          width,
+          height,
+        });
       }
     }
   }
 
   isZoomable() {
-    return (this.state !== LOAD_STATE.ERROR);
+    return this.state !== LOAD_STATE.ERROR;
   }
 
   usePlaceholder() {
@@ -381,17 +386,20 @@ class ImageContent extends Content {
     // You might ask "why dont you just decode() and then append all images",
     // that's because I want to show image before it's fully loaded,
     // as browser can render parts of image while it is loading.
-    if (this.slide && !this.slide.isActive && ('decode' in this.element)) {
+    if (this.slide && !this.slide.isActive && "decode" in this.element) {
       this.isDecoding = true;
       // Make sure that we start decoding on the next frame
       requestAnimationFrame(() => {
         if (this.element) {
-          this.element.decode().then(() => {
-            this.isDecoding = false;
-            requestAnimationFrame(() => {
-              this.appendImageTo(container);
-            });
-          }).catch(() => {});
+          this.element
+            .decode()
+            .then(() => {
+              this.isDecoding = false;
+              requestAnimationFrame(() => {
+                this.appendImageTo(container);
+              });
+            })
+            .catch(() => {});
         }
       });
     } else {
@@ -408,9 +416,9 @@ class ImageContent extends Content {
   }
 
   getErrorElement() {
-    const el = createElement('pswp__error-msg-container');
+    const el = createElement("pswp__error-msg-container");
     el.innerHTML = this.options.errorMsg;
-    const linkEl = el.querySelector('a');
+    const linkEl = el.querySelector("a");
     if (linkEl) {
       linkEl.href = this.data.src;
     }
@@ -435,7 +443,7 @@ class PhotoSwipeBase extends Eventable {
     super();
     this.contentTypes = {
       image: ImageContent,
-      html: Content
+      html: Content,
     };
   }
 
@@ -462,11 +470,11 @@ class PhotoSwipeBase extends Eventable {
     }
 
     // legacy event, before filters were introduced
-    const event = this.dispatch('numItems', {
+    const event = this.dispatch("numItems", {
       dataSource,
-      numItems
+      numItems,
     });
-    return this.applyFilters('numItems', event.numItems, dataSource);
+    return this.applyFilters("numItems", event.numItems, dataSource);
   }
 
   /**
@@ -538,12 +546,12 @@ class PhotoSwipeBase extends Eventable {
 
     // Dispatching the itemData event,
     // it's a legacy verion before filters were introduced
-    const event = this.dispatch('itemData', {
+    const event = this.dispatch("itemData", {
       itemData: itemData || {},
-      index
+      index,
     });
 
-    return this.applyFilters('itemData', event.itemData, index);
+    return this.applyFilters("itemData", event.itemData, index);
   }
 
   /**
@@ -554,11 +562,13 @@ class PhotoSwipeBase extends Eventable {
    */
   _getGalleryDOMElements(galleryElement) {
     if (this.options.children || this.options.childSelector) {
-      return getElementsFromOption(
-        this.options.children,
-        this.options.childSelector,
-        galleryElement
-      ) || [];
+      return (
+        getElementsFromOption(
+          this.options.children,
+          this.options.childSelector,
+          galleryElement
+        ) || []
+      );
     }
 
     return [galleryElement];
@@ -572,10 +582,11 @@ class PhotoSwipeBase extends Eventable {
   // eslint-disable-next-line class-methods-use-this
   _domElementToItemData(element) {
     const itemData = {
-      element
+      element,
     };
 
-    const linkEl = element.tagName === 'A' ? element : element.querySelector('a');
+    const linkEl =
+      element.tagName === "A" ? element : element.querySelector("a");
 
     if (linkEl) {
       // src comes from data-pswp-src attribute,
@@ -591,13 +602,13 @@ class PhotoSwipeBase extends Eventable {
         itemData.type = linkEl.dataset.pswpType;
       }
 
-      const thumbnailEl = element.querySelector('img');
+      const thumbnailEl = element.querySelector("img");
 
       if (thumbnailEl) {
         // define msrc only if it's the first slide,
         // as rendering (even small stretched thumbnail) is an expensive operation
         itemData.msrc = thumbnailEl.currentSrc || thumbnailEl.src;
-        itemData.alt = thumbnailEl.getAttribute('alt');
+        itemData.alt = thumbnailEl.getAttribute("alt");
       }
 
       if (linkEl.dataset.pswpCropped || linkEl.dataset.cropped) {
@@ -605,7 +616,7 @@ class PhotoSwipeBase extends Eventable {
       }
     }
 
-    this.applyFilters('domItemData', itemData, element, linkEl);
+    this.applyFilters("domItemData", itemData, element, linkEl);
 
     return itemData;
   }
@@ -626,7 +637,7 @@ function getViewportSize(options, pswp) {
     // find a way to improve this
     //
     // document.documentElement.clientHeight - doesn't seem to work well
-    y: window.innerHeight
+    y: window.innerHeight,
   };
 }
 
@@ -671,7 +682,7 @@ function parsePaddingOption(prop, options, viewportSize) {
   } else if (options.padding) {
     paddingValue = options.padding[prop];
   } else {
-    const legacyPropName = 'padding' + prop[0].toUpperCase() + prop.slice(1);
+    const legacyPropName = "padding" + prop[0].toUpperCase() + prop.slice(1);
     if (options[legacyPropName]) {
       paddingValue = options[legacyPropName];
     }
@@ -680,15 +691,16 @@ function parsePaddingOption(prop, options, viewportSize) {
   return paddingValue || 0;
 }
 
-
-function getPanAreaSize(options, viewportSize/*, pswp*/) {
+function getPanAreaSize(options, viewportSize /*, pswp*/) {
   return {
-    x: viewportSize.x
-      - parsePaddingOption('left', options, viewportSize)
-      - parsePaddingOption('right', options, viewportSize),
-    y: viewportSize.y
-      - parsePaddingOption('top', options, viewportSize)
-      - parsePaddingOption('bottom', options, viewportSize)
+    x:
+      viewportSize.x -
+      parsePaddingOption("left", options, viewportSize) -
+      parsePaddingOption("right", options, viewportSize),
+    y:
+      viewportSize.y -
+      parsePaddingOption("top", options, viewportSize) -
+      parsePaddingOption("bottom", options, viewportSize),
   };
 }
 
@@ -723,7 +735,7 @@ class ZoomLevel {
   update(maxWidth, maxHeight, panAreaSize) {
     this.elementSize = {
       x: maxWidth,
-      y: maxHeight
+      y: maxHeight,
     };
 
     this.panAreaSize = panAreaSize;
@@ -740,20 +752,15 @@ class ZoomLevel {
 
     this.initial = this._getInitial();
     this.secondary = this._getSecondary();
-    this.max = Math.max(
-      this.initial,
-      this.secondary,
-      this._getMax()
-    );
+    this.max = Math.max(this.initial, this.secondary, this._getMax());
 
-    this.min = Math.min(
-      this.fit,
-      this.initial,
-      this.secondary
-    );
+    this.min = Math.min(this.fit, this.initial, this.secondary);
 
     if (this.pswp) {
-      this.pswp.dispatch('zoomLevelsUpdate', { zoomLevels: this, slideData: this.itemData });
+      this.pswp.dispatch("zoomLevelsUpdate", {
+        zoomLevels: this,
+        slideData: this.itemData,
+      });
     }
   }
 
@@ -766,21 +773,21 @@ class ZoomLevel {
     // zoom.initial
     // zoom.secondary
     // zoom.max
-    const optionValue = this.options[optionPrefix + 'ZoomLevel'];
+    const optionValue = this.options[optionPrefix + "ZoomLevel"];
 
     if (!optionValue) {
       return;
     }
 
-    if (typeof optionValue === 'function') {
+    if (typeof optionValue === "function") {
       return optionValue(this);
     }
 
-    if (optionValue === 'fill') {
+    if (optionValue === "fill") {
       return this.fill;
     }
 
-    if (optionValue === 'fit') {
+    if (optionValue === "fit") {
       return this.fit;
     }
 
@@ -796,7 +803,7 @@ class ZoomLevel {
    * @return {Number}
    */
   _getSecondary() {
-    let currZoomLevel = this._parseZoomLevelOption('secondary');
+    let currZoomLevel = this._parseZoomLevelOption("secondary");
 
     if (currZoomLevel) {
       return currZoomLevel;
@@ -818,7 +825,7 @@ class ZoomLevel {
    * @return {Number}
    */
   _getInitial() {
-    return this._parseZoomLevelOption('initial') || this.fit;
+    return this._parseZoomLevelOption("initial") || this.fit;
   }
 
   /**
@@ -829,7 +836,7 @@ class ZoomLevel {
    * @return {Number}
    */
   _getMax() {
-    const currZoomLevel = this._parseZoomLevelOption('max');
+    const currZoomLevel = this._parseZoomLevelOption("max");
 
     if (currZoomLevel) {
       return currZoomLevel;
@@ -850,11 +857,10 @@ class ZoomLevel {
  */
 function getKey(itemData, index) {
   if (itemData && itemData.src) {
-    return itemData.src + '_' + index;
+    return itemData.src + "_" + index;
   }
   return index;
 }
-
 
 /**
  * Lazy-load an image
@@ -895,7 +901,6 @@ function lazyLoadData(itemData, instance, index) {
   return content;
 }
 
-
 /**
  * Lazy-loads specific slide.
  * This function is used both by Lightbox and PhotoSwipe core,
@@ -909,7 +914,9 @@ function lazyLoadData(itemData, instance, index) {
 function lazyLoadSlide(index, instance) {
   const itemData = instance.getItemData(index);
 
-  if (instance.dispatch('lazyLoadSlide', { index, itemData }).defaultPrevented) {
+  if (
+    instance.dispatch("lazyLoadSlide", { index, itemData }).defaultPrevented
+  ) {
     return;
   }
 
@@ -943,17 +950,22 @@ class PhotoSwipeLightbox extends PhotoSwipeBase {
     this.onThumbnailsClick = this.onThumbnailsClick.bind(this);
 
     // Bind click events to each gallery
-    getElementsFromOption(this.options.gallery, this.options.gallerySelector)
-      .forEach((galleryElement) => {
-        galleryElement.addEventListener('click', this.onThumbnailsClick, false);
-      });
+    getElementsFromOption(
+      this.options.gallery,
+      this.options.gallerySelector
+    ).forEach((galleryElement) => {
+      galleryElement.addEventListener("click", this.onThumbnailsClick, false);
+    });
   }
 
   onThumbnailsClick(e) {
     // Exit and allow default browser action if:
-    if (specialKeyUsed(e) // ... if clicked with a special key (ctrl/cmd...)
-        || window.pswp // ... if PhotoSwipe is already open
-        || window.navigator.onLine === false) { // ... if offline
+    if (
+      specialKeyUsed(e) || // ... if clicked with a special key (ctrl/cmd...)
+      window.pswp || // ... if PhotoSwipe is already open
+      window.navigator.onLine === false
+    ) {
+      // ... if offline
       return;
     }
 
@@ -972,7 +984,7 @@ class PhotoSwipeLightbox extends PhotoSwipeBase {
 
     const clickedIndex = this.getClickedIndex(e);
     const dataSource = {
-      gallery: e.currentTarget
+      gallery: e.currentTarget,
     };
 
     if (clickedIndex >= 0) {
@@ -998,7 +1010,7 @@ class PhotoSwipeLightbox extends PhotoSwipeBase {
       e.currentTarget
     );
     const clickedChildIndex = childElements.findIndex(
-      child => child === clickedTarget || child.contains(clickedTarget)
+      (child) => child === clickedTarget || child.contains(clickedTarget)
     );
 
     if (clickedChildIndex !== -1) {
@@ -1052,7 +1064,7 @@ class PhotoSwipeLightbox extends PhotoSwipeBase {
     const promiseArray = [dynamicImportModule(options.pswpModule)];
 
     // Add custom-defined promise, if any
-    if (typeof options.openPromise === 'function') {
+    if (typeof options.openPromise === "function") {
       // allow developers to perform some task before opening
       promiseArray.push(options.openPromise());
     }
@@ -1089,7 +1101,8 @@ class PhotoSwipeLightbox extends PhotoSwipeBase {
     }
 
     // Pass data to PhotoSwipe and open init
-    const pswp = typeof module === 'object'
+    const pswp =
+      typeof module === "object"
         ? new module.default(null, this.options) // eslint-disable-line
         : new module(null, this.options); // eslint-disable-line
 
@@ -1118,7 +1131,7 @@ class PhotoSwipeLightbox extends PhotoSwipeBase {
       this._preloadedContent = null;
     }
 
-    pswp.on('destroy', () => {
+    pswp.on("destroy", () => {
       // clean up public variables
       this.pswp = null;
       window.pswp = null;
@@ -1135,10 +1148,16 @@ class PhotoSwipeLightbox extends PhotoSwipeBase {
     this.shouldOpen = false;
     this._listeners = null;
 
-    getElementsFromOption(this.options.gallery, this.options.gallerySelector)
-      .forEach((galleryElement) => {
-        galleryElement.removeEventListener('click', this.onThumbnailsClick, false);
-      });
+    getElementsFromOption(
+      this.options.gallery,
+      this.options.gallerySelector
+    ).forEach((galleryElement) => {
+      galleryElement.removeEventListener(
+        "click",
+        this.onThumbnailsClick,
+        false
+      );
+    });
   }
 }
 
