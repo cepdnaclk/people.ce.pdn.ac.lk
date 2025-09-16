@@ -46,7 +46,7 @@ exclude:
     "*.sh",
     "*.yml",
     "tests/",
-    "python_scripts"
+    "python_scripts",
   ]
 
 kramdown:
