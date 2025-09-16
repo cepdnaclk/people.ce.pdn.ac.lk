@@ -1,174 +1,174 @@
 {
-    "add_custom_html.PNG": {
-        "width": 1186,
-        "height": 623
-    },
-    "add_file_then_new_file.PNG": {
-        "width": 1439,
-        "height": 589
-    },
-    "below_frontmatter.PNG": {
-        "width": 1421,
-        "height": 907
-    },
-    "between_frontmatter.PNG": {
-        "width": 1233,
-        "height": 791
-    },
-    "change_image_url.PNG": {
-        "width": 814,
-        "height": 876
-    },
-    "click_academic_staff.PNG": {
-        "width": 549,
-        "height": 429
-    },
-    "click_academic_staff_2.PNG": {
-        "width": 528,
-        "height": 479
-    },
-    "click_edit_inside_github.png": {
-        "width": 1904,
-        "height": 802
-    },
-    "click_fork.png": {
-        "width": 749,
-        "height": 766
-    },
-    "click_images.PNG": {
-        "width": 678,
-        "height": 900
-    },
-    "click_on_commit_msg.PNG": {
-        "width": 1038,
-        "height": 646
-    },
-    "click_pages_staff.PNG": {
-        "width": 515,
-        "height": 506
-    },
-    "click_staff.PNG": {
-        "width": 488,
-        "height": 428
-    },
-    "click_students.PNG": {
-        "width": 814,
-        "height": 795
-    },
-    "click_your_batch.PNG": {
-        "width": 715,
-        "height": 761
-    },
-    "commit_changes.PNG": {
-        "width": 911,
-        "height": 591
-    },
-    "copy_new_file_path.PNG": {
-        "width": 844,
-        "height": 817
-    },
-    "copy_paste_template_staff.PNG": {
-        "width": 893,
-        "height": 886
-    },
-    "copy_paste_text.PNG": {
-        "width": 1825,
-        "height": 864
-    },
-    "create_new_file.PNG": {
-        "width": 1875,
-        "height": 677
-    },
-    "create_pull_req.png": {
-        "width": 1848,
-        "height": 686
-    },
-    "create_pull_req2.png": {
-        "width": 1399,
-        "height": 701
-    },
-    "drag_and_drop.PNG": {
-        "width": 1777,
-        "height": 833
-    },
-    "edit_file.PNG": {
-        "width": 1817,
-        "height": 768
-    },
-    "edit_this_on_github.png": {
-        "width": 1348,
-        "height": 772
-    },
-    "edit_this_on_github_staff.PNG": {
-        "width": 1151,
-        "height": 776
-    },
-    "edit_url_image_staff.PNG": {
-        "width": 899,
-        "height": 663
-    },
-    "file_name.PNG": {
-        "width": 1112,
-        "height": 566
-    },
-    "get_clone_url.png": {
-        "width": 1866,
-        "height": 657
-    },
-    "go_to_academic_staff_page.PNG": {
-        "width": 735,
-        "height": 853
-    },
-    "name_with_intials.png": {
-        "width": 1677,
-        "height": 762
-    },
-    "open_pull_request.PNG": {
-        "width": 1284,
-        "height": 781
-    },
-    "pages.PNG": {
-        "width": 856,
-        "height": 855
-    },
-    "propose_changes.png": {
-        "width": 715,
-        "height": 403
-    },
-    "propose_new_file.PNG": {
-        "width": 865,
-        "height": 661
-    },
-    "pull_req_title.PNG": {
-        "width": 1412,
-        "height": 880
-    },
-    "right_of_profile_page.PNG": {
-        "width": 1307,
-        "height": 819
-    },
-    "search_reg_no.PNG": {
-        "width": 1663,
-        "height": 800
-    },
-    "shift_right_click_open_linux.png": {
-        "width": 503,
-        "height": 670
-    },
-    "staff_page_html_name.PNG": {
-        "width": 1138,
-        "height": 505
-    },
-    "studentDetails_description.png": {
-        "width": 1643,
-        "height": 870
-    },
-    "students.PNG": {
-        "width": 825,
-        "height": 790
-    },
-    "upload_files.PNG": {
-        "width": 1260,
-        "height": 723
-    }
+  "add_custom_html.PNG": {
+    "width": 1186,
+    "height": 623
+  },
+  "add_file_then_new_file.PNG": {
+    "width": 1439,
+    "height": 589
+  },
+  "below_frontmatter.PNG": {
+    "width": 1421,
+    "height": 907
+  },
+  "between_frontmatter.PNG": {
+    "width": 1233,
+    "height": 791
+  },
+  "change_image_url.PNG": {
+    "width": 814,
+    "height": 876
+  },
+  "click_academic_staff.PNG": {
+    "width": 549,
+    "height": 429
+  },
+  "click_academic_staff_2.PNG": {
+    "width": 528,
+    "height": 479
+  },
+  "click_edit_inside_github.png": {
+    "width": 1904,
+    "height": 802
+  },
+  "click_fork.png": {
+    "width": 749,
+    "height": 766
+  },
+  "click_images.PNG": {
+    "width": 678,
+    "height": 900
+  },
+  "click_on_commit_msg.PNG": {
+    "width": 1038,
+    "height": 646
+  },
+  "click_pages_staff.PNG": {
+    "width": 515,
+    "height": 506
+  },
+  "click_staff.PNG": {
+    "width": 488,
+    "height": 428
+  },
+  "click_students.PNG": {
+    "width": 814,
+    "height": 795
+  },
+  "click_your_batch.PNG": {
+    "width": 715,
+    "height": 761
+  },
+  "commit_changes.PNG": {
+    "width": 911,
+    "height": 591
+  },
+  "copy_new_file_path.PNG": {
+    "width": 844,
+    "height": 817
+  },
+  "copy_paste_template_staff.PNG": {
+    "width": 893,
+    "height": 886
+  },
+  "copy_paste_text.PNG": {
+    "width": 1825,
+    "height": 864
+  },
+  "create_new_file.PNG": {
+    "width": 1875,
+    "height": 677
+  },
+  "create_pull_req.png": {
+    "width": 1848,
+    "height": 686
+  },
+  "create_pull_req2.png": {
+    "width": 1399,
+    "height": 701
+  },
+  "drag_and_drop.PNG": {
+    "width": 1777,
+    "height": 833
+  },
+  "edit_file.PNG": {
+    "width": 1817,
+    "height": 768
+  },
+  "edit_this_on_github.png": {
+    "width": 1348,
+    "height": 772
+  },
+  "edit_this_on_github_staff.PNG": {
+    "width": 1151,
+    "height": 776
+  },
+  "edit_url_image_staff.PNG": {
+    "width": 899,
+    "height": 663
+  },
+  "file_name.PNG": {
+    "width": 1112,
+    "height": 566
+  },
+  "get_clone_url.png": {
+    "width": 1866,
+    "height": 657
+  },
+  "go_to_academic_staff_page.PNG": {
+    "width": 735,
+    "height": 853
+  },
+  "name_with_intials.png": {
+    "width": 1677,
+    "height": 762
+  },
+  "open_pull_request.PNG": {
+    "width": 1284,
+    "height": 781
+  },
+  "pages.PNG": {
+    "width": 856,
+    "height": 855
+  },
+  "propose_changes.png": {
+    "width": 715,
+    "height": 403
+  },
+  "propose_new_file.PNG": {
+    "width": 865,
+    "height": 661
+  },
+  "pull_req_title.PNG": {
+    "width": 1412,
+    "height": 880
+  },
+  "right_of_profile_page.PNG": {
+    "width": 1307,
+    "height": 819
+  },
+  "search_reg_no.PNG": {
+    "width": 1663,
+    "height": 800
+  },
+  "shift_right_click_open_linux.png": {
+    "width": 503,
+    "height": 670
+  },
+  "staff_page_html_name.PNG": {
+    "width": 1138,
+    "height": 505
+  },
+  "studentDetails_description.png": {
+    "width": 1643,
+    "height": 870
+  },
+  "students.PNG": {
+    "width": 825,
+    "height": 790
+  },
+  "upload_files.PNG": {
+    "width": 1260,
+    "height": 723
+  }
 }

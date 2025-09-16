@@ -6,132 +6,182 @@ title: People
 
 <!-- breadcrumb -->
 <main class="container">
-    <div class="bg-secondary p-3 pb-1 rounded">
-        <h1 class="text-white">People</h1>
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
-                <li class="breadcrumb-item text-white">People</li>
-            </ol>
-        </nav>
-    </div>
+  <div class="bg-secondary p-3 pb-1 rounded">
+    <h1 class="text-white">People</h1>
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="{{ site.home }}" class="link-light">Home</a>
+        </li>
+        <li class="breadcrumb-item text-white">People</li>
+      </ol>
+    </nav>
+  </div>
 </main>
 
-<div class="container" style="min-height: 500px;">
-    <br />
-    <!-- search box -->
-    {% include search-box.html search_by_text=""%}
+<div class="container" style="min-height: 500px">
+  <br />
+  <!-- search box -->
+  {% include search-box.html search_by_text=""%}
 
-    <!-- results container -->
-    <div class="container">
-        <div class="row">
-            <div class="list-group col-lg-10 col p-2 mx-auto">
-                <div id="results-container">
-                </div>
-            </div>
-        </div>
-
-        <!-- 3 cards in home -->
-        <div id="main-container" class="container pt-2 px-5">
-            <div class="row justify-content-center">
-                <!-- staff -->
-                <div class="card text-center p-2 cardSpacingHome border-primary" style="width:18rem;">
-                    <div class="card-header">
-                        <h5>Staff</h5>
-                    </div>
-                    <img src="{{ '/images/homepage/staff.jpg'| relative_url }}" class="card-img-top p-3" alt="Staff">
-                    <div class="card-body">
-                        <ul class="list-group list-group-flush">
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                                href="{{ '/staff/academic/' | relative_url }}">Academic Staff</a>
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                                href="{{ '/staff/temporary-academic-staff/' | relative_url }}">Temporary Academic
-                                Staff</a>
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                                href="{{ '/staff/non-academic-staff/' | relative_url }}">Non-Academic Staff</a>
-
-                            <br>
-
-                            <!-- <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/visiting-lecturers/' | relative_url }}">Visiting Lecturers</a> -->
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                                href="{{ '/staff/visiting-research-fellows/' | relative_url }}">Honorary Visiting Research
-                                Fellows</a>
-
-                            <br>
-
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                                href="{{ '/staff/past-heads-of-dep/' | relative_url }}">Past HoDs</a>
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                                href="{{ '/staff/academic/past/' | relative_url }}">Past Academic Staff</a>
-                        </ul>
-                    </div>
-                </div>
-
-                <!-- students -->
-                <div class="card text-center p-2 cardSpacingHome border-primary" style="width:18rem;">
-                    <div class="card-header">
-                        <h5>Students</h5>
-                    </div>
-                    <img src="{{ '/images/homepage/student.jpg'| relative_url }}" class="card-img-top p-3"
-                        alt="Students">
-                    <div class="card-body">
-                        <!-- content is taken from _data/students.json -->
-                        {%- for batch in site.data.students -%}
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                            href="{{ batch.url | relative_url }}">{{
-                            batch.title }}</a>
-                        {%- endfor -%}
-                        <br><br>
-
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                            href="{{'/students/postgraduate/' | relative_url }}">Postgraduate</a>
-                        <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                            href="{{'/societies/' | relative_url }}">Student Committees</a>
-                    </div>
-                </div>
-
-                <!-- alumni -->
-                <div class="card text-center p-2 cardSpacingHome border-primary" style="width:18rem;">
-                    <div class="card-header">
-                        <h5>Alumni</h5>
-                    </div>
-                    <img src="{{ '/images/homepage/alumni.jpg'| relative_url }}" class="card-img-top p-3"
-                        alt="Students">
-                    <div class="card-body">
-                        <!-- content is taken from _data/alumni.json -->
-                        {%- for batch in site.data.alumini -%}
-                        {% if forloop.index < 5 %} <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                            href="{{ batch.url | relative_url }}">{{ batch.title }}</a>
-                            {% endif %}
-                            {%- endfor -%}
-                            <br><br>
-                            <a class="btn btn-outline-primary w-100 buttonBottomMargin"
-                                href="{{ '/alumni/' | relative_url }}">View more</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+  <!-- results container -->
+  <div class="container">
+    <div class="row">
+      <div class="list-group col-lg-10 col p-2 mx-auto">
+        <div id="results-container"></div>
+      </div>
     </div>
 
+    <!-- 3 cards in home -->
+    <div id="main-container" class="container pt-2 px-5">
+      <div class="row justify-content-center">
+        <!-- staff -->
+        <div
+          class="card text-center p-2 cardSpacingHome border-primary"
+          style="width: 18rem"
+        >
+          <div class="card-header">
+            <h5>Staff</h5>
+          </div>
+          <img
+            src="{{ '/images/homepage/staff.jpg'| relative_url }}"
+            class="card-img-top p-3"
+            alt="Staff"
+          />
+          <div class="card-body">
+            <ul class="list-group list-group-flush">
+              <a
+                class="btn btn-outline-primary w-100 buttonBottomMargin"
+                href="{{ '/staff/academic/' | relative_url }}"
+                >Academic Staff</a
+              >
+              <a
+                class="btn btn-outline-primary w-100 buttonBottomMargin"
+                href="{{ '/staff/temporary-academic-staff/' | relative_url }}"
+                >Temporary Academic Staff</a
+              >
+              <a
+                class="btn btn-outline-primary w-100 buttonBottomMargin"
+                href="{{ '/staff/non-academic-staff/' | relative_url }}"
+                >Non-Academic Staff</a
+              >
 
-    <!-- Script pointing to search-script.js -->
-    <script src="{{ 'assets/js/search-script.js' | relative_url}}" type="text/javascript"></script>
-    <!-- Configuration -->
-    <script>
-        //prevent submit by pressing enter
-        $(document).ready(function () {
-            $(window).keydown(function (event) {
-                if (event.keyCode == 13) {
-                    event.preventDefault();
-                    return false;
-                }
-            });
+              <br />
+
+              <!-- <a class="btn btn-outline-primary w-100 buttonBottomMargin" href="{{ '/staff/visiting-lecturers/' | relative_url }}">Visiting Lecturers</a> -->
+              <a
+                class="btn btn-outline-primary w-100 buttonBottomMargin"
+                href="{{ '/staff/visiting-research-fellows/' | relative_url }}"
+                >Honorary Visiting Research Fellows</a
+              >
+
+              <br />
+
+              <a
+                class="btn btn-outline-primary w-100 buttonBottomMargin"
+                href="{{ '/staff/past-heads-of-dep/' | relative_url }}"
+                >Past HoDs</a
+              >
+              <a
+                class="btn btn-outline-primary w-100 buttonBottomMargin"
+                href="{{ '/staff/academic/past/' | relative_url }}"
+                >Past Academic Staff</a
+              >
+            </ul>
+          </div>
+        </div>
+
+        <!-- students -->
+        <div
+          class="card text-center p-2 cardSpacingHome border-primary"
+          style="width: 18rem"
+        >
+          <div class="card-header">
+            <h5>Students</h5>
+          </div>
+          <img
+            src="{{ '/images/homepage/student.jpg'| relative_url }}"
+            class="card-img-top p-3"
+            alt="Students"
+          />
+          <div class="card-body">
+            <!-- content is taken from _data/students.json -->
+            {%- for batch in site.data.students -%}
+            <a
+              class="btn btn-outline-primary w-100 buttonBottomMargin"
+              href="{{ batch.url | relative_url }}"
+              >{{ batch.title }}</a
+            >
+            {%- endfor -%}
+            <br /><br />
+
+            <a
+              class="btn btn-outline-primary w-100 buttonBottomMargin"
+              href="{{'/students/postgraduate/' | relative_url }}"
+              >Postgraduate</a
+            >
+            <a
+              class="btn btn-outline-primary w-100 buttonBottomMargin"
+              href="{{'/societies/' | relative_url }}"
+              >Student Committees</a
+            >
+          </div>
+        </div>
+
+        <!-- alumni -->
+        <div
+          class="card text-center p-2 cardSpacingHome border-primary"
+          style="width: 18rem"
+        >
+          <div class="card-header">
+            <h5>Alumni</h5>
+          </div>
+          <img
+            src="{{ '/images/homepage/alumni.jpg'| relative_url }}"
+            class="card-img-top p-3"
+            alt="Students"
+          />
+          <div class="card-body">
+            <!-- content is taken from _data/alumni.json -->
+            {%- for batch in site.data.alumini -%} {% if forloop.index < 5 %}
+            <a
+              class="btn btn-outline-primary w-100 buttonBottomMargin"
+              href="{{ batch.url | relative_url }}"
+              >{{ batch.title }}</a
+            >
+            {% endif %} {%- endfor -%}
+            <br /><br />
+            <a
+              class="btn btn-outline-primary w-100 buttonBottomMargin"
+              href="{{ '/alumni/' | relative_url }}"
+              >View more</a
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Script pointing to search-script.js -->
+  <script
+    src="{{ 'assets/js/search-script.js' | relative_url}}"
+    type="text/javascript"
+  ></script>
+  <!-- Configuration -->
+  <script>
+    //prevent submit by pressing enter
+    $(document).ready(function () {
+        $(window).keydown(function (event) {
+            if (event.keyCode == 13) {
+                event.preventDefault();
+                return false;
+            }
         });
+    });
 
-        SimpleJekyllSearch({
-            searchInput: document.getElementById('search-input'),
-            resultsContainer: document.getElementById('results-container'),
-            json: '{{ ' / search / search.json' | remove:" " | relative_url}}'})
-    </script>
-
+    SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '{{ ' / search / search.json' | remove:" " | relative_url}}'})
+  </script>
 </div>

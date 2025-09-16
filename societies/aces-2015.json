@@ -1,80 +1,80 @@
 {
-    "title": "ACES Committee 2015",
-    "tag": "aces-2015",
-    "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2015",
-    "image": "images/badges/aces.png",
-    "show_in_profile": "false",
-    "criteria": "",
-    "students":[
-        {
-            "name": "N.J.A. Waruna Chandimal",
-            "eNumber": "E/10/064",
-            "position": "President"
-        },
-        {
-            "name": "H.P.T.N.K. Jayarathna",
-            "eNumber": "E/10/143",
-            "position": "Vice President"
-        },
-        {
-            "name": "K.N.M. Perera",
-            "eNumber": "E/11/297",
-            "position": "Secretary"
-        },
-        {
-            "name": "E.L. Waruna Shantha",
-            "eNumber": "E/11/384",
-            "position": "Junior Treasurer"
-        },
-        {
-            "name": "R.I.W. Fernando",
-            "eNumber": "E/10/100",
-            "position": "Editor"
-        },
-        {
-            "name": "H.P.D.B. Handunpathirana",
-            "eNumber": "E/10/119",
-            "position": "Committee Member"
-        },
-        {
-            "name": "D.M.A.M. Dissanayake",
-            "eNumber": "E/10/082",
-            "position": "Committee Member"
-        },
-        {
-            "name": "H.A.G.M. Kanchana",
-            "eNumber": "E/10/170",
-            "position": "Committee Member"
-        },
-        {
-            "name": "J.D.C. Jayalath",
-            "eNumber": "E/11/171",
-            "position": "Committee Member"
-        },
-        {
-            "name": "K.M.P Bandara",
-            "eNumber": "E/11/040",
-            "position": "Committee Member"
-        },
-        {
-            "name": "M.B.K. Jayawardhana",
-            "eNumber": "E/11/487",
-            "position": "Committee Member"
-        },
-        {
-            "name": "A.O. Wickramarachchi",
-            "eNumber": "E/12/376",
-            "position": "Committee Member"
-        },
-        {
-            "name": "K.M.R.S.B. Kulathunga",
-            "eNumber": "E/12/185",
-            "position": "Committee Member"
-        },
-        {
-            "name": "R.P.S.Prasadi",
-            "eNumber": "E/12/269",
-            "position": "Committee Member"
-        }
-    ]
+  "title": "ACES Committee 2015",
+  "tag": "aces-2015",
+  "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2015",
+  "image": "images/badges/aces.png",
+  "show_in_profile": "false",
+  "criteria": "",
+  "students": [
+    {
+      "name": "N.J.A. Waruna Chandimal",
+      "eNumber": "E/10/064",
+      "position": "President"
+    },
+    {
+      "name": "H.P.T.N.K. Jayarathna",
+      "eNumber": "E/10/143",
+      "position": "Vice President"
+    },
+    {
+      "name": "K.N.M. Perera",
+      "eNumber": "E/11/297",
+      "position": "Secretary"
+    },
+    {
+      "name": "E.L. Waruna Shantha",
+      "eNumber": "E/11/384",
+      "position": "Junior Treasurer"
+    },
+    {
+      "name": "R.I.W. Fernando",
+      "eNumber": "E/10/100",
+      "position": "Editor"
+    },
+    {
+      "name": "H.P.D.B. Handunpathirana",
+      "eNumber": "E/10/119",
+      "position": "Committee Member"
+    },
+    {
+      "name": "D.M.A.M. Dissanayake",
+      "eNumber": "E/10/082",
+      "position": "Committee Member"
+    },
+    {
+      "name": "H.A.G.M. Kanchana",
+      "eNumber": "E/10/170",
+      "position": "Committee Member"
+    },
+    {
+      "name": "J.D.C. Jayalath",
+      "eNumber": "E/11/171",
+      "position": "Committee Member"
+    },
+    {
+      "name": "K.M.P Bandara",
+      "eNumber": "E/11/040",
+      "position": "Committee Member"
+    },
+    {
+      "name": "M.B.K. Jayawardhana",
+      "eNumber": "E/11/487",
+      "position": "Committee Member"
+    },
+    {
+      "name": "A.O. Wickramarachchi",
+      "eNumber": "E/12/376",
+      "position": "Committee Member"
+    },
+    {
+      "name": "K.M.R.S.B. Kulathunga",
+      "eNumber": "E/12/185",
+      "position": "Committee Member"
+    },
+    {
+      "name": "R.P.S.Prasadi",
+      "eNumber": "E/12/269",
+      "position": "Committee Member"
+    }
+  ]
 }

@@ -1,65 +1,68 @@
 ---
 layout: default
 ---
-{%- comment -%}
-This layout is for creating the list of students in each batch, WITHOUT profile page link
 
-sample frontmatter,
----
-layout: studentList_no_prof_link
-permalink: /students/e09/
-
-batch: E09
-title_in_breadcrumb: E09 Batch
-
-title: E09 Batch
----
-
-{%- endcomment -%}
+{%- comment -%} This layout is for creating the list of students in each batch,
+WITHOUT profile page link sample frontmatter, --- layout:
+studentList_no_prof_link permalink: /students/e09/ batch: E09
+title_in_breadcrumb: E09 Batch title: E09 Batch --- {%- endcomment -%}
 
 <main class="container">
-    <div class="bg-secondary p-3 pb-1 rounded">
-        <h1 class="text-white">{{page.title_in_breadcrumb}}</h1>
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
-                <li class="breadcrumb-item text-white">Students</li>
-                <li class="breadcrumb-item text-white">{{page.title_in_breadcrumb}}</li>
-            </ol>
-        </nav>
-    </div>
+  <div class="bg-secondary p-3 pb-1 rounded">
+    <h1 class="text-white">{{page.title_in_breadcrumb}}</h1>
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="{{ site.home }}" class="link-light">Home</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="{{ '/' | relative_url }}" class="link-light">People</a>
+        </li>
+        <li class="breadcrumb-item text-white">Students</li>
+        <li class="breadcrumb-item text-white">{{page.title_in_breadcrumb}}</li>
+      </ol>
+    </nav>
+  </div>
 </main>
 
 <div class="container py-4 px-lg-5">
-    <div class="row justify-content-center">
-        {% assign batch_lower = page.batch | downcase %}
-        {% assign batch = site.data.stud[batch_lower] %}
+  <div class="row justify-content-center">
+    {% assign batch_lower = page.batch | downcase %} {% assign batch =
+    site.data.stud[batch_lower] %} {% for item in batch %}
+    <div class="card text-center p-2 m-1 border-primary" style="width: 11rem">
+      {% if item[1].image_url != "#" %}
+      <img
+        src="{{ item[1].image_url | relative_url }}"
+        style="border-radius: 7%; height: 158px; object-fit: cover"
+        class="card-img-top p-1"
+        alt="{{item.name_with_initials}}"
+      />
+      {% else %}
+      <img
+        src="{{ 'images/students/default.jpg' | relative_url }}"
+        style="border-radius: 7%"
+        class="card-img-top p-1"
+        alt="{{item[1].name_with_initials}}"
+      />
+      {% endif %}
 
-        {% for item in batch %}
-        <div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">
-
-            {% if item[1].image_url != "#" %}
-            <img src="{{ item[1].image_url | relative_url }}" style="border-radius: 7%;height:158px;object-fit: cover;" class="card-img-top p-1" alt="{{item.name_with_initials}}">
-            {% else %}
-            <img src="{{ 'images/students/default.jpg' | relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{item[1].name_with_initials}}">
-            {% endif %}
-
-            <div class="card-body d-flex flex-column">
-                <h6 class="card-title">
-                    {{ item[1].name_with_initials }}
-                </h6>
-                <p class="card-text">{{ item[1].reg_no }}</p>
-            </div>
-            {% if item[1].page_url %}
-            <!-- card button -->
-            <div class="d-flex flex-row justify-content-center mt-auto">
-                <a class="btn btn-outline-primary w-100" href="{{ item[1].page_url | relative_url }}">View</a>
-            </div>
-            {% endif %}
-        </div>
-        {% endfor %}
+      <div class="card-body d-flex flex-column">
+        <h6 class="card-title">{{ item[1].name_with_initials }}</h6>
+        <p class="card-text">{{ item[1].reg_no }}</p>
+      </div>
+      {% if item[1].page_url %}
+      <!-- card button -->
+      <div class="d-flex flex-row justify-content-center mt-auto">
+        <a
+          class="btn btn-outline-primary w-100"
+          href="{{ item[1].page_url | relative_url }}"
+          >View</a
+        >
+      </div>
+      {% endif %}
     </div>
+    {% endfor %}
+  </div>
 
-    {{ content }}
+  {{ content }}
 </div>

@@ -1,75 +1,75 @@
 {
-    "title": "ACES Committee 2020-2021",
-    "tag": "aces-2020",
-    "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2020-2021",
-    "image": "images/badges/aces.png",
-    "show_in_profile": "false",
-    "criteria": "",
-    "students":[
-        {
-            "eNumber": "E/15/299",
-            "name": "Malitha Liyanage",
-            "position": "President"
-        },
-        {
-            "eNumber": "E/16/275",
-            "name": "Hashan Eranga",
-            "position": "Secretary"
-        },
-        {
-            "eNumber": "E/15/187",
-            "name": "Devin Gallage",
-            "position": "Vice President"
-        },
-        {
-            "eNumber": "E/15/077",
-            "name": "Kshithija Dilhani",
-            "position": "Editor"
-        },
-        {
-            "eNumber": "E/15/065",
-            "name": "Prasad Madusanka",
-            "position": "Committee Member"
-        },
-        {
-            "eNumber": "E/15/316",
-            "name": "Suneth Samarasinghe",
-            "position": "Committee Member"
-        },
-        {
-            "eNumber": "E/15/265",
-            "name": "Risith Ravisara",
-            "position": "Committee Member"
-        },
-        {
-            "eNumber": "E/16/290",
-            "name": "Kalani Prabodha",
-            "position": "Committee Member"
-        },
-        {
-            "eNumber": "E/16/389",
-            "name": "Nadun Welikanda",
-            "position": "Committee Member"
-        },
-        {
-            "eNumber": "E/16/222",
-            "name": "Wishva Madushanka",
-            "position": "Committee Member"
-        },
-        {
-            "eNumber": "E/17/398",
-            "name": "Hashini Wijerathne",
-            "position": "Committee Member"
-        },
-        {
-            "eNumber": "E/17/065",
-            "name": "Kanishka Dilhan",
-            "position": "Committee Member"
-        },
-        {
-            "eNumber": "E/17/018",
-            "name": "Imesh Balasuriya",
-            "position": "Committee Member"
-        }
-    ]
+  "title": "ACES Committee 2020-2021",
+  "tag": "aces-2020",
+  "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2020-2021",
+  "image": "images/badges/aces.png",
+  "show_in_profile": "false",
+  "criteria": "",
+  "students": [
+    {
+      "eNumber": "E/15/299",
+      "name": "Malitha Liyanage",
+      "position": "President"
+    },
+    {
+      "eNumber": "E/16/275",
+      "name": "Hashan Eranga",
+      "position": "Secretary"
+    },
+    {
+      "eNumber": "E/15/187",
+      "name": "Devin Gallage",
+      "position": "Vice President"
+    },
+    {
+      "eNumber": "E/15/077",
+      "name": "Kshithija Dilhani",
+      "position": "Editor"
+    },
+    {
+      "eNumber": "E/15/065",
+      "name": "Prasad Madusanka",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/15/316",
+      "name": "Suneth Samarasinghe",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/15/265",
+      "name": "Risith Ravisara",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/16/290",
+      "name": "Kalani Prabodha",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/16/389",
+      "name": "Nadun Welikanda",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/16/222",
+      "name": "Wishva Madushanka",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/17/398",
+      "name": "Hashini Wijerathne",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/17/065",
+      "name": "Kanishka Dilhan",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/17/018",
+      "name": "Imesh Balasuriya",
+      "position": "Committee Member"
+    }
+  ]
 }

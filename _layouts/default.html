@@ -1,39 +1,32 @@
 ---
 layout: vendor/compress
 ---
-{%- comment -%}
-This is the basic layout of the page containg the head, navbar and footer
-{%- endcomment -%}
 
+{%- comment -%} This is the basic layout of the page containg the head, navbar
+and footer {%- endcomment -%}
 
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  <head>
+    {% include meta.html %} {%- if jekyll.environment == 'production' and
+    site.google_analytics -%} {%- include analytics.html -%} {%- endif -%} {%-
+    include head.html -%}
+  </head>
 
-<head>
-    {% include meta.html %}
-
-    {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include analytics.html -%}
-    {%- endif -%}
-
-    {%- include head.html -%}
-
-</head>
-
-<body>
-    {%- comment -%}
-    Scroll to top button
-    {%- endcomment -%}
-    <a href="#" id="toTopBtn" class="cd-top text-replace js-cd-top cd-top cd-top--fade-out bottomButtons" data-abc="true" style="display: none;"></a>
+  <body>
+    {%- comment -%} Scroll to top button {%- endcomment -%}
+    <a
+      href="#"
+      id="toTopBtn"
+      class="cd-top text-replace js-cd-top cd-top cd-top--fade-out bottomButtons"
+      data-abc="true"
+      style="display: none"
+    ></a>
 
     {% include navbar.html %}
 
-    <div class="container vh-75">
-        {{ content }}
-    </div>
+    <div class="container vh-75">{{ content }}</div>
 
     {% include footer.html %}
-
-</body>
-
+  </body>
 </html>

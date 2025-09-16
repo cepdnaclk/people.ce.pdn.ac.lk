@@ -9,17 +9,23 @@ title: How to run this website locally ?
 ---
 
 <ol>
-    <li>Install Jekyll using this <a href="https://jekyllrb.com/docs/installation/" target="_blank">link</a>.
-        Detailed instructions are given under "Guides" (Use Ruby version 2.7, later versions may give some errors with the Jekyll dependencies)</li>
-    <ul>
-        <li>
-            Note: If you are installing Jekyll to WSL Ubuntu, choose "<a
-                href="https://jekyllrb.com/docs/installation/ubuntu/" target="_blank">Ubuntu</a>"from the above
-            link.
-        </li>
-        <li>TLDR; run these command in order on Ubuntu or WSL Ubuntu</li>
+  <li>
+    Install Jekyll using this
+    <a href="https://jekyllrb.com/docs/installation/" target="_blank">link</a>.
+    Detailed instructions are given under "Guides" (Use Ruby version 2.7, later
+    versions may give some errors with the Jekyll dependencies)
+  </li>
+  <ul>
+    <li>
+      Note: If you are installing Jekyll to WSL Ubuntu, choose "<a
+        href="https://jekyllrb.com/docs/installation/ubuntu/"
+        target="_blank"
+        >Ubuntu</a
+      >"from the above link.
+    </li>
+    <li>TLDR; run these command in order on Ubuntu or WSL Ubuntu</li>
 
-        <pre>
+    <pre>
                     <code>
 sudo apt update ;
 sudo apt-get install ruby-full build-essential zlib1g-dev ;
@@ -29,73 +35,90 @@ echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc ;
 source ~/.bashrc ;
 gem install jekyll bundler ;</code>
 </pre>
+  </ul>
+
+  <li>Create a fork of the repository</li>
+  <ul>
+    <li>
+      Login to <a href="https://github.com/login" target="_blank">GitHub</a>
+    </li>
+    <li>
+      Go to the
+      <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk" target="_blank"
+        >GitHub Repo</a
+      >
+      of this site
+    </li>
+    <li>
+      Click {% include documentation_image.html
+      url_image='/images/docs/click_fork.png' text='"Fork"' %}
+    </li>
+    <li>
+      Copy the link from your {% include documentation_image.html
+      url_image='/images/docs/get_clone_url.png' text='forked repo' %}
+    </li>
+  </ul>
+  <br />
+
+  <li>Clone your forked repository of this site,</li>
+  <ul>
+    <li class="p-1">
+      For WSL Ubuntu, <kbd>SHIFT+RightClick</kbd> inside any folder. {% include
+      documentation_image.html
+      url_image='/images/docs/shift_right_click_open_linux.png' text='Click
+      "Open linux shell here"' %}
+    </li>
+    <li>
+      <pre><code>git clone **your copied URL here**</code></pre>
+    </li>
+    <ul>
+      <li>
+        Example,
+        <pre><code class="language-bash">git clone https://github.com/myGitHubUsername/people.ce.pdn.ac.lk.git</code></pre>
+      </li>
     </ul>
+    <li>
+      <pre><code class="language-bash">cd people.ce.pdn.ac.lk</code></pre>
+    </li>
+  </ul>
+  <br />
 
-    <li>Create a fork of the repository</li>
+  <li>Install plugins for Jekyll</li>
+  <ul>
+    <li>
+      <pre><code class="language-bash">bundle install</code></pre>
+    </li>
+  </ul>
+
+  <li>Start the webserver</li>
+  <ul>
+    <li>
+      <pre><code class="language-bash">bundle exec jekyll serve</code></pre>
+    </li>
+    <li>Note: On WSL you may need to add these options</li>
     <ul>
-        <li>Login to <a href="https://github.com/login" target="_blank">GitHub</a> </li>
-        <li>Go to the <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk" target="_blank">GitHub Repo</a> of this site</li>
-        <li>Click {% include documentation_image.html url_image='/images/docs/click_fork.png' text='"Fork"' %} </li>
-        <li>Copy the link from your {% include documentation_image.html url_image='/images/docs/get_clone_url.png'
-            text='forked repo' %}
-        </li>
+      <li>
+        <pre><code  class="language-bash">bundle exec jekyll serve --livereload --force_polling</code></pre>
+      </li>
     </ul>
-    <br>
+  </ul>
 
-    <li>Clone your forked repository of this site,</li>
-    <ul>
-        <li class="p-1">For WSL Ubuntu, <kbd>SHIFT+RightClick</kbd> inside any folder. {% include
-            documentation_image.html url_image='/images/docs/shift_right_click_open_linux.png' text='Click
-            "Open linux shell here"' %}</li>
-        <li>
-            <pre><code>git clone **your copied URL here**</code></pre>
-        </li>
-        <ul>
-            <li>Example,
-                <pre><code class="language-bash">git clone https://github.com/myGitHubUsername/people.ce.pdn.ac.lk.git</code></pre>
-            </li>
-        </ul>
-        <li>
-            <pre><code class="language-bash">cd people.ce.pdn.ac.lk</code></pre>
-        </li>
+  <li>
+    Open the link given in the command line on your webbrowser. It should look
+    like this,
+  </li>
+  <ul>
+    <li>
+      <a href="http://localhost:4000/" target="blank">http://localhost:4000/</a>
+    </li>
+  </ul>
+  <br />
 
-    </ul><br>
-
-
-    <li>Install plugins for Jekyll</li>
-    <ul>
-        <li>
-            <pre><code class="language-bash">bundle install</code></pre>
-        </li>
-    </ul>
-
-
-    <li>Start the webserver</li>
-    <ul>
-        <li>
-            <pre><code class="language-bash">bundle exec jekyll serve</code></pre>
-        </li>
-        <li>Note: On WSL you may need to add these options</li>
-        <ul>
-            <li>
-                <pre><code  class="language-bash">bundle exec jekyll serve --livereload --force_polling</code></pre>
-            </li>
-        </ul>
-    </ul>
-
-    <li>Open the link given in the command line on your webbrowser. It should look like this,</li>
-    <ul>
-        <li><a href="http://localhost:4000/"
-                target="blank">http://localhost:4000/</a></li>
-    </ul><br>
-
-
-    <li>Edit your local files and you can see the output using the above link</li>
+  <li>Edit your local files and you can see the output using the above link</li>
 </ol>
 
-
 <style>
-li{
+  li {
     margin-bottom: 16px !important;
-}
+  }
 </style>

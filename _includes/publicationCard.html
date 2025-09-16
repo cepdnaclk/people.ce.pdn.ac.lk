@@ -1,78 +1,95 @@
 {% assign pub = include.data %}
 
 <div class="my-1 p-0 pb-2">
-    <div class="row g-0">
-        <div class="container">
-            <div class="clearfix">
-                <b><span class="text-primary">{{ pub.title }}</span></b><br>
+  <div class="row g-0">
+    <div class="container">
+      <div class="clearfix">
+        <b><span class="text-primary">{{ pub.title }}</span></b
+        ><br />
 
-                <!-- Author list -->
-                <div>
-                    <!-- {{ pub.authors | join: ", " }}, -->
-                    {%- for author in pub.author_info -%}
-
-                    {%- if author.profile == "#" -%}
-                    <span class="me-1">{{ author.name }}</span>
-                    {%- else -%}
-                    <a class="text-decoration-none" href="{{ author.profile }}" target="_blank">
-                        {{ author.name }}
-                    </a>
-                    {%- endif -%}
-                    {% if forloop.last %}{% else %}, {% endif %}
-                    {%- endfor -%}
-                </div>
-
-                <i>{{ pub.venue }}</i>, {{ pub.year }}<br>
-                <span>
-                    doi: <a class="text-muted" href="{{p.doi}}" target="_blank">{{ p.doi | replace: "https://doi.org/",
-                        "" }}</a>
-                </span>
-            </div>
-
-            <div class="row pt-2">
-                <div class="col d-flex flex-wrap">
-                    <!-- PDF -->
-                    {%- if pub.pdf != "#" -%}
-                    <a class="btn-link me-2" href="{{ pub.pdf }}" target="_blank">[ PDF ]</a>
-                    {%- endif -%}
-
-                    <!-- PrePrint -->
-                    {%- if pub.preprint != "#" -%}
-                    <a class="btn-link me-2" href="{{ pub.preprint }}" target="_blank">[ PDF (Preprint) ]</a>
-                    {%- endif -%}
-
-                    <!-- Presentation -->
-                    {%- if pub.presentation != "#" -%}
-                    <a class="btn-link me-2" href="{{ pub.presentation }}" target="_blank">[ Presentation ]</a>
-                    {%- endif -%}
-
-                    <!-- Project -->
-                    {%- if pub.project != "#" -%}
-                    <a class="btn-link me-2" href="{{ pub.project }}" target="_blank">[ Project ]</a>
-                    {%- endif -%}
-
-                    <!-- Codebase -->
-                    {%- if pub.codebase != "#" -%}
-                    <a class="btn-link me-2" href="{{ pub.codebase }}" target="_blank">[ Codebase ]</a>
-                    {%- endif -%}
-                </div>
-
-                <div class="col-1">
-                    <a href="{{ pub.edit_url }}" class="ms-2 text-secondary" target="_blank">
-                        <i class="fa fa-edit"></i>
-                    </a>
-                </div>
-
-            </div>
-
-            {%- if pub.tags -%}
-            <!-- Tags: Not visible for now -->
-            <div class="mt-2 d-none">
-                {%- for tag in pub.tags -%}
-                <span class="me-2">#{{ tag }}</span>
-                {%- endfor -%}
-            </div>
-            {%- endif -%}
+        <!-- Author list -->
+        <div>
+          <!-- {{ pub.authors | join: ", " }}, -->
+          {%- for author in pub.author_info -%} {%- if author.profile == "#" -%}
+          <span class="me-1">{{ author.name }}</span>
+          {%- else -%}
+          <a
+            class="text-decoration-none"
+            href="{{ author.profile }}"
+            target="_blank"
+          >
+            {{ author.name }}
+          </a>
+          {%- endif -%} {% if forloop.last %}{% else %}, {% endif %} {%- endfor
+          -%}
         </div>
+
+        <i>{{ pub.venue }}</i>, {{ pub.year }}<br />
+        <span>
+          doi:
+          <a class="text-muted" href="{{p.doi}}" target="_blank"
+            >{{ p.doi | replace: "https://doi.org/", "" }}</a
+          >
+        </span>
+      </div>
+
+      <div class="row pt-2">
+        <div class="col d-flex flex-wrap">
+          <!-- PDF -->
+          {%- if pub.pdf != "#" -%}
+          <a class="btn-link me-2" href="{{ pub.pdf }}" target="_blank"
+            >[ PDF ]</a
+          >
+          {%- endif -%}
+
+          <!-- PrePrint -->
+          {%- if pub.preprint != "#" -%}
+          <a class="btn-link me-2" href="{{ pub.preprint }}" target="_blank"
+            >[ PDF (Preprint) ]</a
+          >
+          {%- endif -%}
+
+          <!-- Presentation -->
+          {%- if pub.presentation != "#" -%}
+          <a class="btn-link me-2" href="{{ pub.presentation }}" target="_blank"
+            >[ Presentation ]</a
+          >
+          {%- endif -%}
+
+          <!-- Project -->
+          {%- if pub.project != "#" -%}
+          <a class="btn-link me-2" href="{{ pub.project }}" target="_blank"
+            >[ Project ]</a
+          >
+          {%- endif -%}
+
+          <!-- Codebase -->
+          {%- if pub.codebase != "#" -%}
+          <a class="btn-link me-2" href="{{ pub.codebase }}" target="_blank"
+            >[ Codebase ]</a
+          >
+          {%- endif -%}
+        </div>
+
+        <div class="col-1">
+          <a
+            href="{{ pub.edit_url }}"
+            class="ms-2 text-secondary"
+            target="_blank"
+          >
+            <i class="fa fa-edit"></i>
+          </a>
+        </div>
+      </div>
+
+      {%- if pub.tags -%}
+      <!-- Tags: Not visible for now -->
+      <div class="mt-2 d-none">
+        {%- for tag in pub.tags -%}
+        <span class="me-2">#{{ tag }}</span>
+        {%- endfor -%}
+      </div>
+      {%- endif -%}
     </div>
+  </div>
 </div>

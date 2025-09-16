@@ -1,40 +1,20 @@
-{%- if student.image_url -%}
-{%- assign profile_url = student.image_url | prepend: '/' | prepend: site.absolute_url -%}
-{%- else -%}
-{%- assign profile_url = '/images/students/default.jpg' | prepend: site.absolute_url -%}
-{%- endif -%}
-"{{ student.reg_no }}" : {
-"eNumber": "{{ student.reg_no }}",
-"batch": "{{ student.batch }}",
-"department": "{{student.department}}",
-"current_affiliation": "{{student.current_affiliation}}",
-"honorific": "{{ student.honorific }}",
-"full_name": "{{ student.full_name }}",
+{%- if student.image_url -%} {%- assign profile_url = student.image_url |
+prepend: '/' | prepend: site.absolute_url -%} {%- else -%} {%- assign
+profile_url = '/images/students/default.jpg' | prepend: site.absolute_url -%}
+{%- endif -%} "{{ student.reg_no }}" : { "eNumber": "{{ student.reg_no }}",
+"batch": "{{ student.batch }}", "department": "{{student.department}}",
+"current_affiliation": "{{student.current_affiliation}}", "honorific": "{{
+student.honorific }}", "full_name": "{{ student.full_name }}",
 "name_with_initials": "{{ student.name_with_initials }}",
 "preferred_short_name": "{{ student.preferred_short_name }}",
-"preferred_long_name": "{{ student.preferred_long_name }}",
-"emails":{
-"personal": "{{ student.email_personal }}",
-"faculty": "{{ student.email_faculty }}"
-},
-"location": "{{ student.location }}",
-"interests": [
-{% assign interests_1 = student.interests | split: "," %}
-{% for member in interests_1 %}
-"{{ member | strip }}"{% if forloop.last %}{% else %},{% endif %}
-{% endfor %}
-],
-"profile_image": "{{profile_url}}",
-"urls":{
-"cv":"{{ student.url_cv }}",
-"website":"{{ student.url_website }}",
-"linkedin":"{{ student.url_linkedin }}",
-"github":"{{ student.url_github }}",
-"facebook":"{{ student.url_facebook }}",
-"researchgate":"{{ student.url_researchgate }}",
-"twitter":"{{ student.url_twitter }}"
-}}
-
-{%- comment -%}
-used in /api/students.json to generate json. Used by api.ce.pdn.ac.lk
-{%- endcomment -%}
+"preferred_long_name": "{{ student.preferred_long_name }}", "emails":{
+"personal": "{{ student.email_personal }}", "faculty": "{{ student.email_faculty
+}}" }, "location": "{{ student.location }}", "interests": [ {% assign
+interests_1 = student.interests | split: "," %} {% for member in interests_1 %}
+"{{ member | strip }}"{% if forloop.last %}{% else %},{% endif %} {% endfor %}
+], "profile_image": "{{profile_url}}", "urls":{ "cv":"{{ student.url_cv }}",
+"website":"{{ student.url_website }}", "linkedin":"{{ student.url_linkedin }}",
+"github":"{{ student.url_github }}", "facebook":"{{ student.url_facebook }}",
+"researchgate":"{{ student.url_researchgate }}", "twitter":"{{
+student.url_twitter }}" }} {%- comment -%} used in /api/students.json to
+generate json. Used by api.ce.pdn.ac.lk {%- endcomment -%}

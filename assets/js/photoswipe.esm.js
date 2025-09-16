@@ -1,16 +1,16 @@
 /*!
-  * PhotoSwipe 5.1.7 - https://photoswipe.com
-  * (c) 2021 Dmitry Semenov
-  */
+ * PhotoSwipe 5.1.7 - https://photoswipe.com
+ * (c) 2021 Dmitry Semenov
+ */
 /**
-  * Creates element and optionally appends it to another.
-  *
-  * @param {String} className
-  * @param {String|NULL} tagName
-  * @param {Element|NULL} appendToEl
-  */
+ * Creates element and optionally appends it to another.
+ *
+ * @param {String} className
+ * @param {String|NULL} tagName
+ * @param {Element|NULL} appendToEl
+ */
 function createElement(className, tagName, appendToEl) {
-  const el = document.createElement(tagName || 'div');
+  const el = document.createElement(tagName || "div");
   if (className) {
     el.className = className;
   }
@@ -29,7 +29,6 @@ function equalizePoints(p1, p2) {
   return p1;
 }
 
-
 function roundPoint(p) {
   p.x = Math.round(p.x);
   p.y = Math.round(p.y);
@@ -44,7 +43,7 @@ function roundPoint(p) {
 function getDistanceBetween(p1, p2) {
   const x = Math.abs(p1.x - p2.x);
   const y = Math.abs(p1.y - p2.y);
-  return Math.sqrt((x * x) + (y * y));
+  return Math.sqrt(x * x + y * y);
 }
 
 /**
@@ -76,14 +75,10 @@ function clamp(val, min, max) {
  * @param {Number|null} scale
  */
 function toTransformString(x, y, scale) {
-  let propValue = 'translate3d('
-    + x + 'px,' + (y || 0) + 'px'
-    + ',0)';
+  let propValue = "translate3d(" + x + "px," + (y || 0) + "px" + ",0)";
 
   if (scale !== undefined) {
-    propValue += ' scale3d('
-      + scale + ',' + scale
-      + ',1)';
+    propValue += " scale3d(" + scale + "," + scale + ",1)";
   }
 
   return propValue;
@@ -101,7 +96,7 @@ function setTransform(el, x, y, scale) {
   el.style.transform = toTransformString(x, y, scale);
 }
 
-const defaultCSSEasing = 'cubic-bezier(.4,0,.22,1)';
+const defaultCSSEasing = "cubic-bezier(.4,0,.22,1)";
 
 /**
  * Apply CSS transition to element
@@ -116,16 +111,16 @@ function setTransitionStyle(el, prop, duration, ease) {
   // out: 'cubic-bezier(0, 0, .22, 1)', // for "show" transitions
   // in: 'cubic-bezier(.4, 0, 1, 1)'// for "hide" transitions
   el.style.transition = prop
-    ? (prop + ' ' + duration + 'ms ' + (ease || defaultCSSEasing))
-    : 'none';
+    ? prop + " " + duration + "ms " + (ease || defaultCSSEasing)
+    : "none";
 }
 
 /**
  * Apply width and height CSS properties to element
  */
 function setWidthHeight(el, w, h) {
-  el.style.width = (typeof w === 'number') ? (w + 'px') : w;
-  el.style.height = (typeof h === 'number') ? (h + 'px') : h;
+  el.style.width = typeof w === "number" ? w + "px" : w;
+  el.style.height = typeof h === "number" ? h + "px" : h;
 }
 
 function removeTransitionStyle(el) {
@@ -133,7 +128,7 @@ function removeTransitionStyle(el) {
 }
 
 function decodeImage(img) {
-  if ('decode' in img) {
+  if ("decode" in img) {
     return img.decode();
   }
 
@@ -148,12 +143,11 @@ function decodeImage(img) {
 }
 
 const LOAD_STATE = {
-  IDLE: 'idle',
-  LOADING: 'loading',
-  LOADED: 'loaded',
-  ERROR: 'error',
+  IDLE: "idle",
+  LOADING: "loading",
+  LOADED: "loaded",
+  ERROR: "error",
 };
-
 
 /**
  * Check if click or keydown event was dispatched
@@ -183,7 +177,7 @@ function getElementsFromOption(option, legacySelector, parent = document) {
   } else if (option instanceof NodeList || Array.isArray(option)) {
     elements = Array.from(option);
   } else {
-    const selector = typeof option === 'string' ? option : legacySelector;
+    const selector = typeof option === "string" ? option : legacySelector;
     if (selector) {
       elements = Array.from(parent.querySelectorAll(selector));
     }
@@ -196,11 +190,15 @@ function getElementsFromOption(option, legacySelector, parent = document) {
 let supportsPassive = false;
 /* eslint-disable */
 try {
-  window.addEventListener('test', null, Object.defineProperty({}, 'passive', {
-    get: () => {
-      supportsPassive = true;
-    }
-  }));
+  window.addEventListener(
+    "test",
+    null,
+    Object.defineProperty({}, "passive", {
+      get: () => {
+        supportsPassive = true;
+      },
+    })
+  );
 } catch (e) {}
 /* eslint-enable */
 
@@ -265,8 +263,8 @@ class DOMEvents {
       return;
     }
 
-    const methodName = (unbind ? 'remove' : 'add') + 'EventListener';
-    type = type.split(' ');
+    const methodName = (unbind ? "remove" : "add") + "EventListener";
+    type = type.split(" ");
     type.forEach((eType) => {
       if (eType) {
         // Events pool is used to easily unbind all events when PhotoSwipe is closed,
@@ -275,9 +273,11 @@ class DOMEvents {
           if (unbind) {
             // Remove from the events pool
             this._pool = this._pool.filter((poolItem) => {
-              return poolItem.type !== eType
-                || poolItem.listener !== listener
-                || poolItem.target !== target;
+              return (
+                poolItem.type !== eType ||
+                poolItem.listener !== listener ||
+                poolItem.target !== target
+              );
             });
           } else {
             // Add to the events pool
@@ -285,21 +285,18 @@ class DOMEvents {
               target,
               type: eType,
               listener,
-              passive
+              passive,
             });
           }
         }
 
-
         // most PhotoSwipe events call preventDefault,
         // and we do not need browser to scroll the page
-        const eventOptions = supportsPassive ? { passive: (passive || false) } : false;
+        const eventOptions = supportsPassive
+          ? { passive: passive || false }
+          : false;
 
-        target[methodName](
-          eType,
-          listener,
-          eventOptions
-        );
+        target[methodName](eType, listener, eventOptions);
       }
     });
   }
@@ -320,7 +317,7 @@ function getViewportSize(options, pswp) {
     // find a way to improve this
     //
     // document.documentElement.clientHeight - doesn't seem to work well
-    y: window.innerHeight
+    y: window.innerHeight,
   };
 }
 
@@ -365,7 +362,7 @@ function parsePaddingOption(prop, options, viewportSize) {
   } else if (options.padding) {
     paddingValue = options.padding[prop];
   } else {
-    const legacyPropName = 'padding' + prop[0].toUpperCase() + prop.slice(1);
+    const legacyPropName = "padding" + prop[0].toUpperCase() + prop.slice(1);
     if (options[legacyPropName]) {
       paddingValue = options[legacyPropName];
     }
@@ -374,15 +371,16 @@ function parsePaddingOption(prop, options, viewportSize) {
   return paddingValue || 0;
 }
 
-
-function getPanAreaSize(options, viewportSize/*, pswp*/) {
+function getPanAreaSize(options, viewportSize /*, pswp*/) {
   return {
-    x: viewportSize.x
-      - parsePaddingOption('left', options, viewportSize)
-      - parsePaddingOption('right', options, viewportSize),
-    y: viewportSize.y
-      - parsePaddingOption('top', options, viewportSize)
-      - parsePaddingOption('bottom', options, viewportSize)
+    x:
+      viewportSize.x -
+      parsePaddingOption("left", options, viewportSize) -
+      parsePaddingOption("right", options, viewportSize),
+    y:
+      viewportSize.y -
+      parsePaddingOption("top", options, viewportSize) -
+      parsePaddingOption("bottom", options, viewportSize),
   };
 }
 
@@ -410,18 +408,23 @@ class PanBounds {
     if (!this.slide.width) {
       this.reset();
     } else {
-      this._updateAxis('x');
-      this._updateAxis('y');
-      this.slide.pswp.dispatch('calcBounds', { slide: this.slide });
+      this._updateAxis("x");
+      this._updateAxis("y");
+      this.slide.pswp.dispatch("calcBounds", { slide: this.slide });
     }
   }
 
   // _calculateItemBoundsForAxis
   _updateAxis(axis) {
     const { pswp } = this.slide;
-    const elSize = this.slide[axis === 'x' ? 'width' : 'height'] * this.currZoomLevel;
-    const paddingProp = axis === 'x' ? 'left' : 'top';
-    const padding = parsePaddingOption(paddingProp, pswp.options, pswp.viewportSize);
+    const elSize =
+      this.slide[axis === "x" ? "width" : "height"] * this.currZoomLevel;
+    const paddingProp = axis === "x" ? "left" : "top";
+    const padding = parsePaddingOption(
+      paddingProp,
+      pswp.options,
+      pswp.viewportSize
+    );
 
     const panAreaSize = this.slide.panAreaSize[axis];
 
@@ -430,14 +433,13 @@ class PanBounds {
     this.center[axis] = Math.round((panAreaSize - elSize) / 2) + padding;
 
     // maximum pan position
-    this.max[axis] = (elSize > panAreaSize)
-      ? Math.round(panAreaSize - elSize) + padding
-      : this.center[axis];
+    this.max[axis] =
+      elSize > panAreaSize
+        ? Math.round(panAreaSize - elSize) + padding
+        : this.center[axis];
 
     // minimum pan position
-    this.min[axis] = (elSize > panAreaSize)
-      ? padding
-      : this.center[axis];
+    this.min[axis] = elSize > panAreaSize ? padding : this.center[axis];
   }
 
   // _getZeroBounds
@@ -456,7 +458,8 @@ class PanBounds {
    * @param {String} axis x or y
    * @param {Object} panOffset
    */
-  correctPan(axis, panOffset) { // checkPanBounds
+  correctPan(axis, panOffset) {
+    // checkPanBounds
     return clamp(panOffset, this.max[axis], this.min[axis]);
   }
 }
@@ -492,7 +495,7 @@ class ZoomLevel {
   update(maxWidth, maxHeight, panAreaSize) {
     this.elementSize = {
       x: maxWidth,
-      y: maxHeight
+      y: maxHeight,
     };
 
     this.panAreaSize = panAreaSize;
@@ -509,20 +512,15 @@ class ZoomLevel {
 
     this.initial = this._getInitial();
     this.secondary = this._getSecondary();
-    this.max = Math.max(
-      this.initial,
-      this.secondary,
-      this._getMax()
-    );
+    this.max = Math.max(this.initial, this.secondary, this._getMax());
 
-    this.min = Math.min(
-      this.fit,
-      this.initial,
-      this.secondary
-    );
+    this.min = Math.min(this.fit, this.initial, this.secondary);
 
     if (this.pswp) {
-      this.pswp.dispatch('zoomLevelsUpdate', { zoomLevels: this, slideData: this.itemData });
+      this.pswp.dispatch("zoomLevelsUpdate", {
+        zoomLevels: this,
+        slideData: this.itemData,
+      });
     }
   }
 
@@ -535,21 +533,21 @@ class ZoomLevel {
     // zoom.initial
     // zoom.secondary
     // zoom.max
-    const optionValue = this.options[optionPrefix + 'ZoomLevel'];
+    const optionValue = this.options[optionPrefix + "ZoomLevel"];
 
     if (!optionValue) {
       return;
     }
 
-    if (typeof optionValue === 'function') {
+    if (typeof optionValue === "function") {
       return optionValue(this);
     }
 
-    if (optionValue === 'fill') {
+    if (optionValue === "fill") {
       return this.fill;
     }
 
-    if (optionValue === 'fit') {
+    if (optionValue === "fit") {
       return this.fit;
     }
 
@@ -565,7 +563,7 @@ class ZoomLevel {
    * @return {Number}
    */
   _getSecondary() {
-    let currZoomLevel = this._parseZoomLevelOption('secondary');
+    let currZoomLevel = this._parseZoomLevelOption("secondary");
 
     if (currZoomLevel) {
       return currZoomLevel;
@@ -587,7 +585,7 @@ class ZoomLevel {
    * @return {Number}
    */
   _getInitial() {
-    return this._parseZoomLevelOption('initial') || this.fit;
+    return this._parseZoomLevelOption("initial") || this.fit;
   }
 
   /**
@@ -598,7 +596,7 @@ class ZoomLevel {
    * @return {Number}
    */
   _getMax() {
-    const currZoomLevel = this._parseZoomLevelOption('max');
+    const currZoomLevel = this._parseZoomLevelOption("max");
 
     if (currZoomLevel) {
       return currZoomLevel;
@@ -619,19 +617,19 @@ class Placeholder {
     // Create placeholder
     // (stretched thumbnail or simple div behind the main image)
     this.element = createElement(
-      'pswp__img pswp__img--placeholder',
-      imageSrc ? 'img' : '',
+      "pswp__img pswp__img--placeholder",
+      imageSrc ? "img" : "",
       container
     );
 
     if (imageSrc) {
-      this.element.decoding = 'async';
-      this.element.alt = '';
+      this.element.decoding = "async";
+      this.element.alt = "";
       this.element.src = imageSrc;
-      this.element.setAttribute('role', 'presentation');
+      this.element.setAttribute("role", "presentation");
     }
 
-    this.element.setAttribute('aria-hiden', 'true');
+    this.element.setAttribute("aria-hiden", "true");
   }
 
   setDisplayedSize(width, height) {
@@ -639,12 +637,12 @@ class Placeholder {
       return;
     }
 
-    if (this.element.tagName === 'IMG') {
+    if (this.element.tagName === "IMG") {
       // Use transform scale() to modify img placeholder size
       // (instead of changing width/height directly).
       // This helps with performance, specifically in iOS15 Safari.
-      setWidthHeight(this.element, 250, 'auto');
-      this.element.style.transformOrigin = '0 0';
+      setWidthHeight(this.element, 250, "auto");
+      this.element.style.transformOrigin = "0 0";
       this.element.style.transform = toTransformString(0, 0, width / 250);
     } else {
       setWidthHeight(this.element, width, height);
@@ -668,23 +666,23 @@ class Slide {
     this.data = data;
     this.index = index;
     this.pswp = pswp;
-    this.isActive = (index === pswp.currIndex);
+    this.isActive = index === pswp.currIndex;
     this.currentResolution = 0;
     this.panAreaSize = {};
 
-    this.isFirstSlide = (this.isActive && !pswp.opener.isOpen);
+    this.isFirstSlide = this.isActive && !pswp.opener.isOpen;
 
     this.zoomLevels = new ZoomLevel(pswp.options, data, index, pswp);
 
-    this.pswp.dispatch('gettingData', {
+    this.pswp.dispatch("gettingData", {
       slide: this,
       data: this.data,
-      index
+      index,
     });
 
     this.pan = {
       x: 0,
-      y: 0
+      y: 0,
     };
 
     this.content = this.pswp.contentLoader.getContentBySlide(this);
@@ -698,7 +696,7 @@ class Slide {
     this.prevDisplayedWidth = -1;
     this.prevDisplayedHeight = -1;
 
-    this.pswp.dispatch('slideInit', { slide: this });
+    this.pswp.dispatch("slideInit", { slide: this });
   }
 
   /**
@@ -724,29 +722,29 @@ class Slide {
 
     // Slide appended to DOM
     if (!this.data) {
-      this.holderElement.innerHTML = '';
+      this.holderElement.innerHTML = "";
       return;
     }
 
     this.calculateSize();
 
-    this.container = createElement('pswp__zoom-wrap');
-    this.container.transformOrigin = '0 0';
+    this.container = createElement("pswp__zoom-wrap");
+    this.container.transformOrigin = "0 0";
 
     this.load();
     this.appendHeavy();
     this.updateContentSize();
 
-    this.holderElement.innerHTML = '';
+    this.holderElement.innerHTML = "";
     this.holderElement.appendChild(this.container);
 
     this.zoomAndPanToInitial();
 
-    this.pswp.dispatch('firstZoomPan', { slide: this });
+    this.pswp.dispatch("firstZoomPan", { slide: this });
 
     this.applyCurrentZoomPan();
 
-    this.pswp.dispatch('afterSetContent', { slide: this });
+    this.pswp.dispatch("afterSetContent", { slide: this });
 
     if (this.isActive) {
       this.activate();
@@ -768,18 +766,15 @@ class Slide {
   load() {
     if (this.usePlaceholder() && !this.placeholder) {
       const placeholderSrc = this.pswp.applyFilters(
-        'placeholderSrc',
-        (this.data.msrc && this.isFirstSlide) ? this.data.msrc : false,
+        "placeholderSrc",
+        this.data.msrc && this.isFirstSlide ? this.data.msrc : false,
         this
       );
-      this.placeholder = new Placeholder(
-        placeholderSrc,
-        this.container
-      );
+      this.placeholder = new Placeholder(placeholderSrc, this.container);
     }
 
     this.content.load();
-    this.pswp.dispatch('slideLoad', { slide: this });
+    this.pswp.dispatch("slideLoad", { slide: this });
   }
 
   /**
@@ -793,14 +788,16 @@ class Slide {
     const appendHeavyNearby = true;
 
     // Avoid appending heavy elements during animations
-    if (this.heavyAppended
-        || !pswp.opener.isOpen
-        || pswp.mainScroll.isShifted()
-        || (!this.isActive && !appendHeavyNearby)) {
+    if (
+      this.heavyAppended ||
+      !pswp.opener.isOpen ||
+      pswp.mainScroll.isShifted() ||
+      (!this.isActive && !appendHeavyNearby)
+    ) {
       return;
     }
 
-    if (this.pswp.dispatch('appendHeavy', { slide: this }).defaultPrevented) {
+    if (this.pswp.dispatch("appendHeavy", { slide: this }).defaultPrevented) {
       return;
     }
 
@@ -815,7 +812,7 @@ class Slide {
       }
     }
 
-    this.pswp.dispatch('appendHeavyContent', { slide: this });
+    this.pswp.dispatch("appendHeavyContent", { slide: this });
   }
 
   /**
@@ -836,7 +833,7 @@ class Slide {
 
   displayError() {
     const errorElement = this.content.getErrorElement();
-    errorElement.style.position = 'absolute';
+    errorElement.style.position = "absolute";
     errorElement.style.left = 0;
     errorElement.style.top = 0;
     this.activeErrorElement = errorElement;
@@ -854,7 +851,7 @@ class Slide {
     this.isActive = true;
     this.appendHeavy();
     this.content.activate();
-    this.pswp.dispatch('slideActivate', { slide: this });
+    this.pswp.dispatch("slideActivate", { slide: this });
   }
 
   /**
@@ -872,7 +869,7 @@ class Slide {
     this.applyCurrentZoomPan();
     this.updateContentSize();
 
-    this.pswp.dispatch('slideDeactivate', { slide: this });
+    this.pswp.dispatch("slideDeactivate", { slide: this });
   }
 
   /**
@@ -881,7 +878,7 @@ class Slide {
    */
   destroy() {
     this.content.remove();
-    this.pswp.dispatch('slideDestroy', { slide: this });
+    this.pswp.dispatch("slideDestroy", { slide: this });
   }
 
   resize() {
@@ -903,7 +900,6 @@ class Slide {
     }
   }
 
-
   /**
    * Apply size to current slide content,
    * based on the current resolution and scale.
@@ -919,8 +915,10 @@ class Slide {
       return;
     }
 
-    const width = Math.round(this.width * scaleMultiplier) || this.pswp.viewportSize.x;
-    const height = Math.round(this.height * scaleMultiplier) || this.pswp.viewportSize.y;
+    const width =
+      Math.round(this.width * scaleMultiplier) || this.pswp.viewportSize.x;
+    const height =
+      Math.round(this.height * scaleMultiplier) || this.pswp.viewportSize.y;
 
     if (!this.sizeChanged(width, height) && !force) {
       return;
@@ -938,8 +936,10 @@ class Slide {
   }
 
   sizeChanged(width, height) {
-    if (width !== this.prevDisplayedWidth
-        || height !== this.prevDisplayedHeight) {
+    if (
+      width !== this.prevDisplayedWidth ||
+      height !== this.prevDisplayedHeight
+    ) {
       this.prevDisplayedWidth = width;
       this.prevDisplayedHeight = height;
       return true;
@@ -966,13 +966,14 @@ class Slide {
    */
   zoomTo(destZoomLevel, centerPoint, transitionDuration, ignoreBounds) {
     const { pswp } = this;
-    if (!this.isZoomable()
-        || pswp.mainScroll.isShifted()) {
+    if (!this.isZoomable() || pswp.mainScroll.isShifted()) {
       return;
     }
 
-    pswp.dispatch('beforeZoomTo', {
-      destZoomLevel, centerPoint, transitionDuration
+    pswp.dispatch("beforeZoomTo", {
+      destZoomLevel,
+      centerPoint,
+      transitionDuration,
     });
 
     // stop all pan and zoom transitions
@@ -985,7 +986,11 @@ class Slide {
     const prevZoomLevel = this.currZoomLevel;
 
     if (!ignoreBounds) {
-      destZoomLevel = clamp(destZoomLevel, this.zoomLevels.min, this.zoomLevels.max);
+      destZoomLevel = clamp(
+        destZoomLevel,
+        this.zoomLevels.min,
+        this.zoomLevels.max
+      );
     }
 
     // if (transitionDuration === undefined) {
@@ -993,8 +998,8 @@ class Slide {
     // }
 
     this.setZoomLevel(destZoomLevel);
-    this.pan.x = this.calculateZoomToPanOffset('x', centerPoint, prevZoomLevel);
-    this.pan.y = this.calculateZoomToPanOffset('y', centerPoint, prevZoomLevel);
+    this.pan.x = this.calculateZoomToPanOffset("x", centerPoint, prevZoomLevel);
+    this.pan.y = this.calculateZoomToPanOffset("y", centerPoint, prevZoomLevel);
     roundPoint(this.pan);
 
     const finishTransition = () => {
@@ -1007,12 +1012,12 @@ class Slide {
     } else {
       pswp.animations.startTransition({
         isPan: true,
-        name: 'zoomTo',
+        name: "zoomTo",
         target: this.container,
         transform: this.getCurrentTransform(),
         onComplete: finishTransition,
         duration: transitionDuration,
-        easing: pswp.options.easing
+        easing: pswp.options.easing,
       });
     }
   }
@@ -1020,7 +1025,8 @@ class Slide {
   toggleZoom(centerPoint) {
     this.zoomTo(
       this.currZoomLevel === this.zoomLevels.initial
-        ? this.zoomLevels.secondary : this.zoomLevels.initial,
+        ? this.zoomLevels.secondary
+        : this.zoomLevels.initial,
       centerPoint,
       this.pswp.options.zoomAnimationDuration
     );
@@ -1073,8 +1079,8 @@ class Slide {
    * @param {Number} panY
    */
   panTo(panX, panY) {
-    this.pan.x = this.bounds.correctPan('x', panX);
-    this.pan.y = this.bounds.correctPan('y', panY);
+    this.pan.x = this.bounds.correctPan("x", panX);
+    this.pan.y = this.bounds.correctPan("y", panY);
     this.applyCurrentZoomPan();
   }
 
@@ -1082,7 +1088,7 @@ class Slide {
    * If the slide in the current state can be panned by the user
    */
   isPannable() {
-    return this.width && (this.currZoomLevel > this.zoomLevels.fit);
+    return this.width && this.currZoomLevel > this.zoomLevels.fit;
   }
 
   /**
@@ -1103,7 +1109,7 @@ class Slide {
   applyCurrentZoomPan() {
     this._applyZoomTransform(this.pan.x, this.pan.y, this.currZoomLevel);
     if (this === this.pswp.currSlide) {
-      this.pswp.dispatch('zoomPanUpdate', { slide: this });
+      this.pswp.dispatch("zoomPanUpdate", { slide: this });
     }
   }
 
@@ -1113,7 +1119,7 @@ class Slide {
     // pan according to the zoom level
     this.bounds.update(this.currZoomLevel);
     equalizePoints(this.pan, this.bounds.center);
-    this.pswp.dispatch('initialZoomPan', { slide: this });
+    this.pswp.dispatch("initialZoomPan", { slide: this });
   }
 
   /**
@@ -1142,13 +1148,14 @@ class Slide {
 
     this.zoomLevels.update(this.width, this.height, this.panAreaSize);
 
-    pswp.dispatch('calcSlideSize', {
-      slide: this
+    pswp.dispatch("calcSlideSize", {
+      slide: this,
     });
   }
 
   getCurrentTransform() {
-    const scale = this.currZoomLevel / (this.currentResolution || this.zoomLevels.initial);
+    const scale =
+      this.currZoomLevel / (this.currentResolution || this.zoomLevels.initial);
     return toTransformString(this.pan.x, this.pan.y, scale);
   }
 
@@ -1175,7 +1182,7 @@ class Slide {
     this.currentResolution = newResolution;
     this.updateContentSize();
 
-    this.pswp.dispatch('resolutionChanged');
+    this.pswp.dispatch("resolutionChanged");
   }
 }
 
@@ -1194,7 +1201,7 @@ const MIN_RATIO_TO_CLOSE = 0.4;
 const MIN_NEXT_SLIDE_SPEED = 0.5;
 
 function project(initialVelocity, decelerationRate) {
-  return initialVelocity * decelerationRate / (1 - decelerationRate);
+  return (initialVelocity * decelerationRate) / (1 - decelerationRate);
 }
 
 class DragHandler {
@@ -1213,22 +1220,25 @@ class DragHandler {
     const { p1, prevP1, dragAxis, pswp } = this.gestures;
     const { currSlide } = pswp;
 
-    if (dragAxis === 'y'
-        && pswp.options.closeOnVerticalDrag
-        && currSlide.currZoomLevel <= currSlide.zoomLevels.fit
-        && !this.gestures.isMultitouch) {
+    if (
+      dragAxis === "y" &&
+      pswp.options.closeOnVerticalDrag &&
+      currSlide.currZoomLevel <= currSlide.zoomLevels.fit &&
+      !this.gestures.isMultitouch
+    ) {
       // Handle vertical drag to close
       const panY = currSlide.pan.y + (p1.y - prevP1.y);
-      if (!pswp.dispatch('verticalDrag', { panY }).defaultPrevented) {
-        this._setPanWithFriction('y', panY, VERTICAL_DRAG_FRICTION);
-        const bgOpacity = 1 - Math.abs(this._getVerticalDragRatio(currSlide.pan.y));
+      if (!pswp.dispatch("verticalDrag", { panY }).defaultPrevented) {
+        this._setPanWithFriction("y", panY, VERTICAL_DRAG_FRICTION);
+        const bgOpacity =
+          1 - Math.abs(this._getVerticalDragRatio(currSlide.pan.y));
         pswp.applyBgOpacity(bgOpacity);
         currSlide.applyCurrentZoomPan();
       }
     } else {
-      const mainScrollChanged = this._panOrMoveMainScroll('x');
+      const mainScrollChanged = this._panOrMoveMainScroll("x");
       if (!mainScrollChanged) {
-        this._panOrMoveMainScroll('y');
+        this._panOrMoveMainScroll("y");
 
         roundPoint(currSlide.pan);
         currSlide.applyCurrentZoomPan();
@@ -1252,7 +1262,8 @@ class DragHandler {
       // 0 - slide is not visible at all,
       // 0.5 - half of the slide is vicible
       // 1 - slide is fully visible
-      const currentSlideVisibilityRatio = (mainScrollShiftDiff / pswp.viewportSize.x);
+      const currentSlideVisibilityRatio =
+        mainScrollShiftDiff / pswp.viewportSize.x;
 
       // Go next slide.
       //
@@ -1262,13 +1273,19 @@ class DragHandler {
       // - or if we see less than 50% of the current slide
       //   and velocity is close to 0
       //
-      if ((velocity.x < -MIN_NEXT_SLIDE_SPEED && currentSlideVisibilityRatio < 0)
-          || (velocity.x < 0.1 && currentSlideVisibilityRatio < -0.5)) {
+      if (
+        (velocity.x < -MIN_NEXT_SLIDE_SPEED &&
+          currentSlideVisibilityRatio < 0) ||
+        (velocity.x < 0.1 && currentSlideVisibilityRatio < -0.5)
+      ) {
         // Go to next slide
         indexDiff = 1;
         velocity.x = Math.min(velocity.x, 0);
-      } else if ((velocity.x > MIN_NEXT_SLIDE_SPEED && currentSlideVisibilityRatio > 0)
-          || (velocity.x > -0.1 && currentSlideVisibilityRatio > 0.5)) {
+      } else if (
+        (velocity.x > MIN_NEXT_SLIDE_SPEED &&
+          currentSlideVisibilityRatio > 0) ||
+        (velocity.x > -0.1 && currentSlideVisibilityRatio > 0.5)
+      ) {
         // Go to prev slide
         indexDiff = -1;
         velocity.x = Math.max(velocity.x, 0);
@@ -1278,17 +1295,19 @@ class DragHandler {
     }
 
     // Restore zoom level
-    if ((pswp.currSlide.currZoomLevel > pswp.currSlide.zoomLevels.max
-        && this.pswp.options.limitMaxZoom)
-        || this.gestures.isMultitouch) {
+    if (
+      (pswp.currSlide.currZoomLevel > pswp.currSlide.zoomLevels.max &&
+        this.pswp.options.limitMaxZoom) ||
+      this.gestures.isMultitouch
+    ) {
       this.gestures.zoomLevels.correctZoomPan(true);
     } else {
       // we run two animations instead of one,
       // as each axis has own pan boundaries and thus different spring function
       // (correctZoomPan does not have this functionality,
       //  it animates all properties with single timing function)
-      this._finishPanGestureForAxis('x');
-      this._finishPanGestureForAxis('y');
+      this._finishPanGestureForAxis("x");
+      this._finishPanGestureForAxis("y");
     }
   }
 
@@ -1298,14 +1317,15 @@ class DragHandler {
     const { velocity } = this.gestures;
     const { pan, bounds } = currSlide;
     const panPos = pan[axis];
-    const restoreBgOpacity = (pswp.bgOpacity < 1 && axis === 'y');
+    const restoreBgOpacity = pswp.bgOpacity < 1 && axis === "y";
 
     // 0.995 means - scroll view loses 0.5% of its velocity per millisecond
     // Inceasing this number will reduce travel distance
     const decelerationRate = 0.995; // 0.99
 
     // Pan position if there is no bounds
-    const projectedPosition = panPos + project(velocity[axis], decelerationRate);
+    const projectedPosition =
+      panPos + project(velocity[axis], decelerationRate);
 
     if (restoreBgOpacity) {
       const vDragRatio = this._getVerticalDragRatio(panPos);
@@ -1313,8 +1333,10 @@ class DragHandler {
 
       // If we are above and moving upwards,
       // or if we are below and moving downwards
-      if ((vDragRatio < 0 && projectedVDragRatio < -MIN_RATIO_TO_CLOSE)
-          || (vDragRatio > 0 && projectedVDragRatio > MIN_RATIO_TO_CLOSE)) {
+      if (
+        (vDragRatio < 0 && projectedVDragRatio < -MIN_RATIO_TO_CLOSE) ||
+        (vDragRatio > 0 && projectedVDragRatio > MIN_RATIO_TO_CLOSE)
+      ) {
         pswp.close();
         return;
       }
@@ -1330,13 +1352,13 @@ class DragHandler {
     }
 
     // Overshoot if the final position is out of pan bounds
-    const dampingRatio = (correctedPanPosition === projectedPosition) ? 1 : 0.82;
+    const dampingRatio = correctedPanPosition === projectedPosition ? 1 : 0.82;
 
     const initialBgOpacity = pswp.bgOpacity;
     const totalPanDist = correctedPanPosition - panPos;
 
     pswp.animations.startSpring({
-      name: 'panGesture' + axis,
+      name: "panGesture" + axis,
       isPan: true,
       start: panPos,
       end: correctedPanPosition,
@@ -1346,16 +1368,20 @@ class DragHandler {
         // Animate opacity of background relative to Y pan position of an image
         if (restoreBgOpacity && pswp.bgOpacity < 1) {
           // 0 - start of animation, 1 - end of animation
-          const animationProgressRatio = 1 - (correctedPanPosition - pos) / totalPanDist;
+          const animationProgressRatio =
+            1 - (correctedPanPosition - pos) / totalPanDist;
 
           // We clamp opacity to keep it between 0 and 1.
           // As progress ratio can be larger than 1 due to overshoot,
           // and we do not want to bounce opacity.
-          pswp.applyBgOpacity(clamp(
-            initialBgOpacity + (1 - initialBgOpacity) * animationProgressRatio,
-            0,
-            1
-          ));
+          pswp.applyBgOpacity(
+            clamp(
+              initialBgOpacity +
+                (1 - initialBgOpacity) * animationProgressRatio,
+              0,
+              1
+            )
+          );
         }
 
         pan[axis] = Math.floor(pos);
@@ -1375,7 +1401,7 @@ class DragHandler {
   _panOrMoveMainScroll(axis) {
     const { p1, pswp, dragAxis, prevP1, isMultitouch } = this.gestures;
     const { currSlide, mainScroll } = pswp;
-    const delta = (p1[axis] - prevP1[axis]);
+    const delta = p1[axis] - prevP1[axis];
     const newMainScrollX = mainScroll.x + delta;
 
     if (!delta) {
@@ -1383,7 +1409,7 @@ class DragHandler {
     }
 
     // Always move main scroll if image can not be panned
-    if (axis === 'x' && !currSlide.isPannable() && !isMultitouch) {
+    if (axis === "x" && !currSlide.isPannable() && !isMultitouch) {
       mainScroll.moveTo(newMainScrollX, true);
       return true; // changed main scroll
     }
@@ -1391,10 +1417,12 @@ class DragHandler {
     const { bounds } = currSlide;
     const newPan = currSlide.pan[axis] + delta;
 
-    if (pswp.options.allowPanToNext
-        && dragAxis === 'x'
-        && axis === 'x'
-        && !isMultitouch) {
+    if (
+      pswp.options.allowPanToNext &&
+      dragAxis === "x" &&
+      axis === "x" &&
+      !isMultitouch
+    ) {
       const currSlideMainScrollX = mainScroll.getCurrSlideX();
 
       // Position of the main scroll relative to the viewport
@@ -1409,7 +1437,7 @@ class DragHandler {
         // Wether the image was at minimum pan position (or less)
         // when this drag gesture started.
         // Minimum pan position refers to the left edge of the image.
-        const wasAtMinPanPosition = (bounds.min[axis] <= this.startPan[axis]);
+        const wasAtMinPanPosition = bounds.min[axis] <= this.startPan[axis];
 
         if (wasAtMinPanPosition) {
           mainScroll.moveTo(newMainScrollX, true);
@@ -1422,7 +1450,7 @@ class DragHandler {
         // Paning from right to left, beyond the right edge
 
         // Maximum pan position refers to the right edge of the image.
-        const wasAtMaxPanPosition = (this.startPan[axis] <= bounds.max[axis]);
+        const wasAtMaxPanPosition = this.startPan[axis] <= bounds.max[axis];
 
         if (wasAtMaxPanPosition) {
           mainScroll.moveTo(newMainScrollX, true);
@@ -1436,11 +1464,17 @@ class DragHandler {
         if (mainScrollShiftDiff !== 0) {
           // If main scroll is shifted right
           if (mainScrollShiftDiff > 0 /*&& isRightToLeft*/) {
-            mainScroll.moveTo(Math.max(newMainScrollX, currSlideMainScrollX), true);
+            mainScroll.moveTo(
+              Math.max(newMainScrollX, currSlideMainScrollX),
+              true
+            );
             return true;
           } else if (mainScrollShiftDiff < 0 /*&& isLeftToRight*/) {
             // Main scroll is shifted left (Position is less than 0 comparing to the viewport 0)
-            mainScroll.moveTo(Math.min(newMainScrollX, currSlideMainScrollX), true);
+            mainScroll.moveTo(
+              Math.min(newMainScrollX, currSlideMainScrollX),
+              true
+            );
             return true;
           }
         } else {
@@ -1449,7 +1483,7 @@ class DragHandler {
         }
       }
     } else {
-      if (axis === 'y') {
+      if (axis === "y") {
         // Do not pan vertically if main scroll is shifted o
         if (!mainScroll.isShifted() && bounds.min.y !== bounds.max.y) {
           this._setPanWithFriction(axis, newPan);
@@ -1473,8 +1507,10 @@ class DragHandler {
    * @param {Number} panY The current pan Y position.
    */
   _getVerticalDragRatio(panY) {
-    return (panY - this.pswp.currSlide.bounds.center.y)
-            / (this.pswp.viewportSize.y / 3);
+    return (
+      (panY - this.pswp.currSlide.bounds.center.y) /
+      (this.pswp.viewportSize.y / 3)
+    );
   }
 
   /**
@@ -1501,7 +1537,6 @@ class DragHandler {
 
 const UPPER_ZOOM_FRICTION = 0.05;
 const LOWER_ZOOM_FRICTION = 0.15;
-
 
 /**
  * Get center point between two points
@@ -1546,9 +1581,10 @@ class ZoomHandler {
     getZoomPointsCenter(this._startZoomPoint, startP1, startP2);
     getZoomPointsCenter(this._zoomPoint, p1, p2);
 
-    let currZoomLevel = (1 / getDistanceBetween(startP1, startP2))
-                      * getDistanceBetween(p1, p2)
-                      * this._startZoomLevel;
+    let currZoomLevel =
+      (1 / getDistanceBetween(startP1, startP2)) *
+      getDistanceBetween(p1, p2) *
+      this._startZoomLevel;
 
     // if (!this.zoomStarted) {
     //   this.zoomStarted = true;
@@ -1556,34 +1592,41 @@ class ZoomHandler {
     // }
 
     // slightly over the zoom.fit
-    if (currZoomLevel > currSlide.zoomLevels.initial + (currSlide.zoomLevels.initial / 15)) {
+    if (
+      currZoomLevel >
+      currSlide.zoomLevels.initial + currSlide.zoomLevels.initial / 15
+    ) {
       this._wasOverFitZoomLevel = true;
     }
 
     if (currZoomLevel < minZoomLevel) {
-      if (pswp.options.pinchToClose
-          && !this._wasOverFitZoomLevel
-          && this._startZoomLevel <= currSlide.zoomLevels.initial) {
+      if (
+        pswp.options.pinchToClose &&
+        !this._wasOverFitZoomLevel &&
+        this._startZoomLevel <= currSlide.zoomLevels.initial
+      ) {
         // fade out background if zooming out
-        const bgOpacity = 1 - ((minZoomLevel - currZoomLevel) / (minZoomLevel / 1.2));
-        if (!pswp.dispatch('pinchClose', { bgOpacity }).defaultPrevented) {
+        const bgOpacity =
+          1 - (minZoomLevel - currZoomLevel) / (minZoomLevel / 1.2);
+        if (!pswp.dispatch("pinchClose", { bgOpacity }).defaultPrevented) {
           pswp.applyBgOpacity(bgOpacity);
         }
       } else {
         // Apply the friction if zoom level is below the min
-        currZoomLevel = minZoomLevel - (minZoomLevel - currZoomLevel) * LOWER_ZOOM_FRICTION;
+        currZoomLevel =
+          minZoomLevel - (minZoomLevel - currZoomLevel) * LOWER_ZOOM_FRICTION;
       }
     } else if (currZoomLevel > maxZoomLevel) {
       // Apply the friction if zoom level is above the max
-      currZoomLevel = maxZoomLevel + (currZoomLevel - maxZoomLevel) * UPPER_ZOOM_FRICTION;
+      currZoomLevel =
+        maxZoomLevel + (currZoomLevel - maxZoomLevel) * UPPER_ZOOM_FRICTION;
     }
 
-    currSlide.pan.x = this._calculatePanForZoomLevel('x', currZoomLevel);
-    currSlide.pan.y = this._calculatePanForZoomLevel('y', currZoomLevel);
+    currSlide.pan.x = this._calculatePanForZoomLevel("x", currZoomLevel);
+    currSlide.pan.y = this._calculatePanForZoomLevel("y", currZoomLevel);
 
     currSlide.setZoomLevel(currZoomLevel);
     currSlide.applyCurrentZoomPan();
-
 
     //_isZoomingIn = currZoomLevel > _currZoomLevel;
     //_currZoomLevel = currZoomLevel;
@@ -1594,9 +1637,11 @@ class ZoomHandler {
   end() {
     const { pswp } = this;
     const { currSlide } = pswp;
-    if (currSlide.currZoomLevel < currSlide.zoomLevels.initial
-        && !this._wasOverFitZoomLevel
-        && pswp.options.pinchToClose) {
+    if (
+      currSlide.currZoomLevel < currSlide.zoomLevels.initial &&
+      !this._wasOverFitZoomLevel &&
+      pswp.options.pinchToClose
+    ) {
       pswp.close();
     } else {
       this.correctZoomPan();
@@ -1605,8 +1650,10 @@ class ZoomHandler {
 
   _calculatePanForZoomLevel(axis, currZoomLevel) {
     const zoomFactor = currZoomLevel / this._startZoomLevel;
-    return this._zoomPoint[axis]
-            - ((this._startZoomPoint[axis] - this._startPan[axis]) * zoomFactor);
+    return (
+      this._zoomPoint[axis] -
+      (this._startZoomPoint[axis] - this._startPan[axis]) * zoomFactor
+    );
   }
 
   /**
@@ -1662,8 +1709,8 @@ class ZoomHandler {
 
     if (currZoomLevelNeedsChange) {
       destinationPan = {
-        x: this._calculatePanForZoomLevel('x', destinationZoomLevel),
-        y: this._calculatePanForZoomLevel('y', destinationZoomLevel)
+        x: this._calculatePanForZoomLevel("x", destinationZoomLevel),
+        y: this._calculatePanForZoomLevel("y", destinationZoomLevel),
       };
     }
 
@@ -1671,8 +1718,8 @@ class ZoomHandler {
     currSlide.setZoomLevel(destinationZoomLevel);
 
     destinationPan = {
-      x: currSlide.bounds.correctPan('x', destinationPan.x),
-      y: currSlide.bounds.correctPan('y', destinationPan.y)
+      x: currSlide.bounds.correctPan("x", destinationPan.x),
+      y: currSlide.bounds.correctPan("y", destinationPan.y),
     };
 
     // return zoom level and its bounds to initial
@@ -1706,13 +1753,15 @@ class ZoomHandler {
 
         if (panNeedsChange || currZoomLevelNeedsChange) {
           if (panNeedsChange) {
-            currSlide.pan.x = initialPan.x + (destinationPan.x - initialPan.x) * now;
-            currSlide.pan.y = initialPan.y + (destinationPan.y - initialPan.y) * now;
+            currSlide.pan.x =
+              initialPan.x + (destinationPan.x - initialPan.x) * now;
+            currSlide.pan.y =
+              initialPan.y + (destinationPan.y - initialPan.y) * now;
           }
 
           if (currZoomLevelNeedsChange) {
-            const newZoomLevel = prevZoomLevel
-                        + (destinationZoomLevel - prevZoomLevel) * now;
+            const newZoomLevel =
+              prevZoomLevel + (destinationZoomLevel - prevZoomLevel) * now;
             currSlide.setZoomLevel(newZoomLevel);
           }
 
@@ -1724,16 +1773,16 @@ class ZoomHandler {
           // We clamp opacity to keep it between 0 and 1.
           // As progress ratio can be larger than 1 due to overshoot,
           // and we do not want to bounce opacity.
-          pswp.applyBgOpacity(clamp(
-            initialBgOpacity + (1 - initialBgOpacity) * now, 0, 1
-          ));
+          pswp.applyBgOpacity(
+            clamp(initialBgOpacity + (1 - initialBgOpacity) * now, 0, 1)
+          );
         }
       },
       onComplete: () => {
         // update resolution after transition ends
         currSlide._setResolution(destinationZoomLevel);
         currSlide.applyCurrentZoomPan();
-      }
+      },
     });
   }
 }
@@ -1749,7 +1798,7 @@ class ZoomHandler {
  * @param {Event} event
  */
 function didTapOnMainContent(event) {
-  return !!(event.target.closest('.pswp__container'));
+  return !!event.target.closest(".pswp__container");
 }
 
 class TapHandler {
@@ -1757,66 +1806,71 @@ class TapHandler {
     this.gestures = gestures;
   }
 
-
   click(point, originalEvent) {
     const targetClassList = originalEvent.target.classList;
-    const isImageClick = targetClassList.contains('pswp__img');
-    const isBackgroundClick = targetClassList.contains('pswp__item')
-                              || targetClassList.contains('pswp__zoom-wrap');
+    const isImageClick = targetClassList.contains("pswp__img");
+    const isBackgroundClick =
+      targetClassList.contains("pswp__item") ||
+      targetClassList.contains("pswp__zoom-wrap");
 
     if (isImageClick) {
-      this._doClickOrTapAction('imageClick', point, originalEvent);
+      this._doClickOrTapAction("imageClick", point, originalEvent);
     } else if (isBackgroundClick) {
-      this._doClickOrTapAction('bgClick', point, originalEvent);
+      this._doClickOrTapAction("bgClick", point, originalEvent);
     }
   }
 
   tap(point, originalEvent) {
     if (didTapOnMainContent(originalEvent)) {
-      this._doClickOrTapAction('tap', point, originalEvent);
+      this._doClickOrTapAction("tap", point, originalEvent);
     }
   }
 
   doubleTap(point, originalEvent) {
     if (didTapOnMainContent(originalEvent)) {
-      this._doClickOrTapAction('doubleTap', point, originalEvent);
+      this._doClickOrTapAction("doubleTap", point, originalEvent);
     }
   }
 
   _doClickOrTapAction(actionName, point, originalEvent) {
     const { pswp } = this.gestures;
     const { currSlide } = pswp;
-    const optionValue = pswp.options[actionName + 'Action'];
+    const optionValue = pswp.options[actionName + "Action"];
 
-    if (pswp.dispatch(actionName + 'Action', { point, originalEvent }).defaultPrevented) {
+    if (
+      pswp.dispatch(actionName + "Action", { point, originalEvent })
+        .defaultPrevented
+    ) {
       return;
     }
 
-    if (typeof optionValue === 'function') {
+    if (typeof optionValue === "function") {
       optionValue.call(pswp, point, originalEvent);
       return;
     }
 
     switch (optionValue) {
-      case 'close':
-      case 'next':
+      case "close":
+      case "next":
         pswp[optionValue]();
         break;
-      case 'zoom':
+      case "zoom":
         currSlide.toggleZoom(point);
         break;
-      case 'zoom-or-close':
+      case "zoom-or-close":
         // by default click zooms current image,
         // if it can not be zoomed - gallery will be closed
-        if (currSlide.isZoomable()
-            && currSlide.zoomLevels.secondary !== currSlide.zoomLevels.initial) {
+        if (
+          currSlide.isZoomable() &&
+          currSlide.zoomLevels.secondary !== currSlide.zoomLevels.initial
+        ) {
           currSlide.toggleZoom(point);
         } else if (pswp.options.clickToCloseNonZoomable) {
           pswp.close();
         }
         break;
-      case 'toggle-controls':
-        this.gestures.pswp.template.classList.toggle('pswp--ui-visible');
+      case "toggle-controls":
+        this.gestures.pswp.template.classList.toggle("pswp--ui-visible");
         // if (_controlsVisible) {
         //   _ui.hideControls();
         // } else {
@@ -1847,7 +1901,6 @@ class Gestures {
   constructor(pswp) {
     this.pswp = pswp;
 
-
     // point objects are defined once and reused
     // PhotoSwipe keeps track only of two pointers, others are ignored
     this.p1 = {}; // the first pressed pointer
@@ -1863,10 +1916,11 @@ class Gestures {
     this._numActivePoints = 0;
     this._ongoingPointers = [];
 
-    this._touchEventEnabled = 'ontouchstart' in window;
-    this._pointerEventEnabled = !!(window.PointerEvent);
-    this.supportsTouch = this._touchEventEnabled
-                          || (this._pointerEventEnabled && navigator.maxTouchPoints > 1);
+    this._touchEventEnabled = "ontouchstart" in window;
+    this._pointerEventEnabled = !!window.PointerEvent;
+    this.supportsTouch =
+      this._touchEventEnabled ||
+      (this._pointerEventEnabled && navigator.maxTouchPoints > 1);
 
     if (!this.supportsTouch) {
       // disable pan to next slide for non-touch devices
@@ -1877,13 +1931,13 @@ class Gestures {
     this.zoomLevels = new ZoomHandler(this);
     this.tapHandler = new TapHandler(this);
 
-    pswp.on('bindEvents', () => {
-      pswp.events.add(pswp.scrollWrap, 'click', e => this._onClick(e));
+    pswp.on("bindEvents", () => {
+      pswp.events.add(pswp.scrollWrap, "click", (e) => this._onClick(e));
 
       if (this._pointerEventEnabled) {
-        this._bindEvents('pointer', 'down', 'up', 'cancel');
+        this._bindEvents("pointer", "down", "up", "cancel");
       } else if (this._touchEventEnabled) {
-        this._bindEvents('touch', 'start', 'end', 'cancel');
+        this._bindEvents("touch", "start", "end", "cancel");
 
         // In previous versions we also bound mouse event here,
         // in case device supports both touch and mouse events,
@@ -1896,7 +1950,7 @@ class Gestures {
         pswp.scrollWrap.ontouchmove = () => {}; // eslint-disable-line
         pswp.scrollWrap.ontouchend = () => {}; // eslint-disable-line
       } else {
-        this._bindEvents('mouse', 'down', 'up');
+        this._bindEvents("mouse", "down", "up");
       }
     });
   }
@@ -1905,16 +1959,15 @@ class Gestures {
     const { pswp } = this;
     const { events } = pswp;
 
-    const cancelEvent = cancel ? pref + cancel : '';
+    const cancelEvent = cancel ? pref + cancel : "";
 
     events.add(pswp.scrollWrap, pref + down, this.onPointerDown.bind(this));
-    events.add(window, pref + 'move', this.onPointerMove.bind(this));
+    events.add(window, pref + "move", this.onPointerMove.bind(this));
     events.add(window, pref + up, this.onPointerUp.bind(this));
     if (cancelEvent) {
       events.add(pswp.scrollWrap, cancelEvent, this.onPointerUp.bind(this));
     }
   }
-
 
   onPointerDown(e) {
     // We do not call preventDefault for touch events
@@ -1924,7 +1977,7 @@ class Gestures {
     // Desktop Safari allows to drag images when preventDefault isn't called on mousedown,
     // even though preventDefault IS called on mousemove. That's why we preventDefault mousedown.
     let isMousePointer;
-    if (e.type === 'mousedown' || e.pointerType === 'mouse') {
+    if (e.type === "mousedown" || e.pointerType === "mouse") {
       isMousePointer = true;
     }
 
@@ -1943,7 +1996,7 @@ class Gestures {
       return;
     }
 
-    if (pswp.dispatch('pointerDown', { originalEvent: e }).defaultPrevented) {
+    if (pswp.dispatch("pointerDown", { originalEvent: e }).defaultPrevented) {
       return;
     }
 
@@ -1957,7 +2010,7 @@ class Gestures {
 
     pswp.animations.stopAll();
 
-    this._updatePoints(e, 'down');
+    this._updatePoints(e, "down");
 
     this.pointerDown = true;
 
@@ -1984,9 +2037,11 @@ class Gestures {
       return;
     }
 
-    this._updatePoints(e, 'move');
+    this._updatePoints(e, "move");
 
-    if (this.pswp.dispatch('pointerMove', { originalEvent: e }).defaultPrevented) {
+    if (
+      this.pswp.dispatch("pointerMove", { originalEvent: e }).defaultPrevented
+    ) {
       return;
     }
 
@@ -2048,15 +2103,16 @@ class Gestures {
     }
   }
 
-
   onPointerUp(e) {
     if (!this._numActivePoints) {
       return;
     }
 
-    this._updatePoints(e, 'up');
+    this._updatePoints(e, "up");
 
-    if (this.pswp.dispatch('pointerUp', { originalEvent: e }).defaultPrevented) {
+    if (
+      this.pswp.dispatch("pointerUp", { originalEvent: e }).defaultPrevented
+    ) {
       return;
     }
 
@@ -2084,7 +2140,6 @@ class Gestures {
     }
   }
 
-
   _rafRenderLoop() {
     if (this.isDragging || this.isZooming) {
       this._updateVelocity();
@@ -2094,9 +2149,11 @@ class Gestures {
         if (!pointsEqual(this.p1, this.prevP1)) {
           this.drag.change();
         }
-      } else /* if (this.isZooming) */ {
-        if (!pointsEqual(this.p1, this.prevP1)
-            || !pointsEqual(this.p2, this.prevP2)) {
+      } /* if (this.isZooming) */ else {
+        if (
+          !pointsEqual(this.p1, this.prevP1) ||
+          !pointsEqual(this.p2, this.prevP2)
+        ) {
           this.zoomLevels.change();
         }
       }
@@ -2117,9 +2174,8 @@ class Gestures {
       return;
     }
 
-
-    this.velocity.x = this._getVelocity('x', duration);
-    this.velocity.y = this._getVelocity('y', duration);
+    this.velocity.x = this._getVelocity("x", duration);
+    this.velocity.y = this._getVelocity("y", duration);
 
     this._intervalTime = time;
     equalizePoints(this._intervalP1, this.p1);
@@ -2138,12 +2194,12 @@ class Gestures {
     }
 
     // Do not trigger tap for touchcancel or pointercancel
-    if (e.type.indexOf('cancel') > 0) {
+    if (e.type.indexOf("cancel") > 0) {
       return;
     }
 
     // Trigger click instead of tap for mouse events
-    if (e.type === 'mouseup' || e.pointerType === 'mouse') {
+    if (e.type === "mouseup" || e.pointerType === "mouse") {
       this.tapHandler.click(this.startP1, e);
       return;
     }
@@ -2157,7 +2213,9 @@ class Gestures {
     if (this._tapTimer) {
       this._clearTapTimer();
       // Check if two taps were more or less on the same place
-      if (getDistanceBetween(this._lastStartP1, this.startP1) < MIN_TAP_DISTANCE) {
+      if (
+        getDistanceBetween(this._lastStartP1, this.startP1) < MIN_TAP_DISTANCE
+      ) {
         this.tapHandler.doubleTap(this.startP1, e);
       }
     } else {
@@ -2222,10 +2280,10 @@ class Gestures {
         return ongoingPoiner.id === e.pointerId;
       });
 
-      if (pointerType === 'up' && pointerIndex > -1) {
+      if (pointerType === "up" && pointerIndex > -1) {
         // release the pointer - remove it from ongoing
         this._ongoingPointers.splice(pointerIndex, 1);
-      } else if (pointerType === 'down' && pointerIndex === -1) {
+      } else if (pointerType === "down" && pointerIndex === -1) {
         // add new pointer
         this._ongoingPointers.push(this._convertEventPosToPoint(e, {}));
       } else if (pointerIndex > -1) {
@@ -2246,7 +2304,7 @@ class Gestures {
       }
     } else {
       this._numActivePoints = 0;
-      if (e.type.indexOf('touch') > -1) {
+      if (e.type.indexOf("touch") > -1) {
         // Touch Event
         // https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent
         if (e.touches && e.touches.length > 0) {
@@ -2260,7 +2318,7 @@ class Gestures {
       } else {
         // Mouse Event
         this._convertEventPosToPoint(e, this.p1);
-        if (pointerType === 'up') {
+        if (pointerType === "up") {
           // clear all points on mouseup
           this._numActivePoints = 0;
         } else {
@@ -2286,16 +2344,21 @@ class Gestures {
   _calculateDragDirection() {
     if (this.pswp.mainScroll.isShifted()) {
       // if main scroll position is shifted – direction is always horizontal
-      this.dragAxis = 'x';
+      this.dragAxis = "x";
     } else {
       // calculate delta of the last touchmove tick
-      const diff = Math.abs(this.p1.x - this.startP1.x) - Math.abs(this.p1.y - this.startP1.y);
+      const diff =
+        Math.abs(this.p1.x - this.startP1.x) -
+        Math.abs(this.p1.y - this.startP1.y);
 
       if (diff !== 0) {
         // check if pointer was shifted horizontally or vertically
-        const axisToCheck = diff > 0 ? 'x' : 'y';
+        const axisToCheck = diff > 0 ? "x" : "y";
 
-        if (Math.abs(this.p1[axisToCheck] - this.startP1[axisToCheck]) >= AXIS_SWIPE_HYSTERISIS) {
+        if (
+          Math.abs(this.p1[axisToCheck] - this.startP1[axisToCheck]) >=
+          AXIS_SWIPE_HYSTERISIS
+        ) {
           this.dragAxis = axisToCheck;
         }
       }
@@ -2341,7 +2404,6 @@ class Gestures {
 
 const MAIN_SCROLL_END_FRICTION = 0.35;
 
-
 // const MIN_SWIPE_TRANSITION_DURATION = 250;
 // const MAX_SWIPE_TRABSITION_DURATION = 500;
 // const DEFAULT_SWIPE_TRANSITION_DURATION = 333;
@@ -2371,7 +2433,7 @@ class MainScroll {
     // Mobile browsers might trigger a resize event during a gesture.
     // (due to toolbar appearing or hiding).
     // Avoid re-adjusting main scroll position if width wasn't changed
-    const slideWidthChanged = (newSlideWidth !== this.slideWidth);
+    const slideWidthChanged = newSlideWidth !== this.slideWidth;
 
     if (slideWidthChanged) {
       this.slideWidth = newSlideWidth;
@@ -2380,8 +2442,10 @@ class MainScroll {
 
     this.itemHolders.forEach((itemHolder, index) => {
       if (slideWidthChanged) {
-        setTransform(itemHolder.el, (index + this._containerShiftIndex)
-                                    * this.slideWidth);
+        setTransform(
+          itemHolder.el,
+          (index + this._containerShiftIndex) * this.slideWidth
+        );
       }
 
       if (resizeSlides && itemHolder.slide) {
@@ -2416,10 +2480,10 @@ class MainScroll {
     // append our three slide holders -
     // previous, current, and next
     for (let i = 0; i < 3; i++) {
-      const el = createElement('pswp__item', false, this.pswp.container);
+      const el = createElement("pswp__item", false, this.pswp.container);
 
       // hide nearby item holders until initial zoom animation finishes (to avoid extra Paints)
-      el.style.display = (i === 1) ? 'block' : 'none';
+      el.style.display = i === 1 ? "block" : "none";
 
       this.itemHolders.push({
         el,
@@ -2486,7 +2550,7 @@ class MainScroll {
         onComplete: () => {
           this.updateCurrItem();
           pswp.appendHeavy();
-        }
+        },
       });
 
       // Force-append new slides during transition
@@ -2522,7 +2586,8 @@ class MainScroll {
    */
   updateCurrItem() {
     const { pswp } = this;
-    const positionDifference = this._prevPositionIndex - this._currPositionIndex;
+    const positionDifference =
+      this._prevPositionIndex - this._currPositionIndex;
 
     if (!positionDifference) {
       return;
@@ -2536,7 +2601,8 @@ class MainScroll {
     let tempHolder;
 
     if (diffAbs >= 3) {
-      this._containerShiftIndex += positionDifference + (positionDifference > 0 ? -3 : 3);
+      this._containerShiftIndex +=
+        positionDifference + (positionDifference > 0 ? -3 : 3);
       diffAbs = 3;
     }
 
@@ -2547,18 +2613,24 @@ class MainScroll {
 
         this._containerShiftIndex++;
 
-        setTransform(tempHolder.el, (this._containerShiftIndex + 2) * this.slideWidth);
+        setTransform(
+          tempHolder.el,
+          (this._containerShiftIndex + 2) * this.slideWidth
+        );
 
-        pswp.setContent(tempHolder, (pswp.currIndex - diffAbs) + i + 2);
+        pswp.setContent(tempHolder, pswp.currIndex - diffAbs + i + 2);
       } else {
         tempHolder = this.itemHolders.pop();
         this.itemHolders.unshift(tempHolder); // move last to first
 
         this._containerShiftIndex--;
 
-        setTransform(tempHolder.el, this._containerShiftIndex * this.slideWidth);
+        setTransform(
+          tempHolder.el,
+          this._containerShiftIndex * this.slideWidth
+        );
 
-        pswp.setContent(tempHolder, (pswp.currIndex + diffAbs) - i - 2);
+        pswp.setContent(tempHolder, pswp.currIndex + diffAbs - i - 2);
       }
     }
 
@@ -2587,7 +2659,7 @@ class MainScroll {
     pswp.contentLoader.updateLazy(positionDifference);
 
     pswp.currSlide.applyCurrentZoomPan();
-    pswp.dispatch('change');
+    pswp.dispatch("change");
   }
 
   /**
@@ -2602,20 +2674,23 @@ class MainScroll {
 
     if (!this.pswp.options.loop && dragging) {
       // Apply friction
-      newSlideIndexOffset = ((this.slideWidth * this._currPositionIndex) - x) / this.slideWidth;
+      newSlideIndexOffset =
+        (this.slideWidth * this._currPositionIndex - x) / this.slideWidth;
       newSlideIndexOffset += this.pswp.currIndex;
       delta = Math.round(x - this.x);
 
-      if ((newSlideIndexOffset < 0 && delta > 0)
-          || (newSlideIndexOffset >= this.pswp.getNumItems() - 1 && delta < 0)) {
-        x = this.x + (delta * MAIN_SCROLL_END_FRICTION);
+      if (
+        (newSlideIndexOffset < 0 && delta > 0) ||
+        (newSlideIndexOffset >= this.pswp.getNumItems() - 1 && delta < 0)
+      ) {
+        x = this.x + delta * MAIN_SCROLL_END_FRICTION;
       }
     }
 
     this.x = x;
     setTransform(this.pswp.container, x);
 
-    this.pswp.dispatch('moveMainScroll', { x, dragging });
+    this.pswp.dispatch("moveMainScroll", { x, dragging });
   }
 }
 
@@ -2632,7 +2707,7 @@ class Keyboard {
   constructor(pswp) {
     this.pswp = pswp;
 
-    pswp.on('bindEvents', () => {
+    pswp.on("bindEvents", () => {
       // Dialog was likely opened by keyboard if initial point is not defined
       if (!pswp.options.initialPointerPos) {
         // focus causes layout,
@@ -2641,15 +2716,13 @@ class Keyboard {
         this._focusRoot();
       }
 
-      pswp.events.add(document, 'focusin', this._onFocusIn.bind(this));
-      pswp.events.add(document, 'keydown', this._onKeyDown.bind(this));
+      pswp.events.add(document, "focusin", this._onFocusIn.bind(this));
+      pswp.events.add(document, "keydown", this._onKeyDown.bind(this));
     });
 
     const lastActiveElement = document.activeElement;
-    pswp.on('destroy', () => {
-      if (pswp.options.returnFocus
-          && lastActiveElement
-          && this._wasFocused) {
+    pswp.on("destroy", () => {
+      if (pswp.options.returnFocus && lastActiveElement && this._wasFocused) {
         lastActiveElement.focus();
       }
     });
@@ -2665,7 +2738,7 @@ class Keyboard {
   _onKeyDown(e) {
     const { pswp } = this;
 
-    if (pswp.dispatch('keydown', { originalEvent: e }).defaultPrevented) {
+    if (pswp.dispatch("keydown", { originalEvent: e }).defaultPrevented) {
       return;
     }
 
@@ -2683,25 +2756,25 @@ class Keyboard {
     switch (e.keyCode) {
       case 27: // esc
         if (pswp.options.escKey) {
-          keydownAction = 'close';
+          keydownAction = "close";
         }
         break;
       case 90: // z key
-        keydownAction = 'toggleZoom';
+        keydownAction = "toggleZoom";
         break;
       case 37: // left
-        axis = 'x';
+        axis = "x";
         break;
       case 38: // top
-        axis = 'y';
+        axis = "y";
         break;
       case 39: // right
-        axis = 'x';
+        axis = "x";
         isForward = true;
         break;
       case 40: // bottom
         isForward = true;
-        axis = 'y';
+        axis = "y";
         break;
       case 9: // tab
         this._focusRoot();
@@ -2715,11 +2788,12 @@ class Keyboard {
 
       const { currSlide } = pswp;
 
-      if (pswp.options.arrowKeys
-          && axis === 'x'
-          && pswp.getNumItems() > 1) {
-        keydownAction = isForward ? 'next' : 'prev';
-      } else if (currSlide && currSlide.currZoomLevel > currSlide.zoomLevels.fit) {
+      if (pswp.options.arrowKeys && axis === "x" && pswp.getNumItems() > 1) {
+        keydownAction = isForward ? "next" : "prev";
+      } else if (
+        currSlide &&
+        currSlide.currZoomLevel > currSlide.zoomLevels.fit
+      ) {
         // up/down arrow keys pan the image vertically
         // left/right arrow keys pan horizontally.
         // Unless there is only one image,
@@ -2742,9 +2816,11 @@ class Keyboard {
    */
   _onFocusIn(e) {
     const { template } = this.pswp;
-    if (document !== e.target
-        && template !== e.target
-        && !template.contains(e.target)) {
+    if (
+      document !== e.target &&
+      template !== e.target &&
+      !template.contains(e.target)
+    ) {
       // focus root element
       template.focus();
     }
@@ -2755,7 +2831,7 @@ class Keyboard {
  * Runs CSS transition.
  */
 
-const DEFAULT_EASING = 'cubic-bezier(.4,0,.22,1)';
+const DEFAULT_EASING = "cubic-bezier(.4,0,.22,1)";
 
 class CSSAnimation {
   // onComplete can be unpredictable, be careful about current state
@@ -2768,13 +2844,10 @@ class CSSAnimation {
       // opacity
     } = props;
 
-    let {
-      duration,
-      easing,
-    } = props;
+    let { duration, easing } = props;
 
     // support only transform and opacity
-    const prop = transform ? 'transform' : 'opacity';
+    const prop = transform ? "transform" : "opacity";
     const propValue = props[prop];
 
     this._target = target;
@@ -2794,8 +2867,12 @@ class CSSAnimation {
     this._firstFrameTimeout = setTimeout(() => {
       setTransitionStyle(target, prop, duration, easing);
       this._firstFrameTimeout = setTimeout(() => {
-        target.addEventListener('transitionend', this._onTransitionEnd, false);
-        target.addEventListener('transitioncancel', this._onTransitionEnd, false);
+        target.addEventListener("transitionend", this._onTransitionEnd, false);
+        target.addEventListener(
+          "transitioncancel",
+          this._onTransitionEnd,
+          false
+        );
         target.style[prop] = propValue;
       }, 30); // Do not reduce this number
     }, 0);
@@ -2823,8 +2900,16 @@ class CSSAnimation {
       clearTimeout(this._firstFrameTimeout);
     }
     removeTransitionStyle(this._target);
-    this._target.removeEventListener('transitionend', this._onTransitionEnd, false);
-    this._target.removeEventListener('transitioncancel', this._onTransitionEnd, false);
+    this._target.removeEventListener(
+      "transitionend",
+      this._onTransitionEnd,
+      false
+    );
+    this._target.removeEventListener(
+      "transitioncancel",
+      this._onTransitionEnd,
+      false
+    );
     if (!this._finished) {
       this._finalizeAnimation();
     }
@@ -2862,8 +2947,9 @@ class SpringEaser {
     this._naturalFrequency = naturalFrequency || DEFAULT_NATURAL_FREQUENCY;
 
     if (this._dampingRatio < 1) {
-      this._dampedFrequency = this._naturalFrequency
-                         * Math.sqrt(1 - this._dampingRatio * this._dampingRatio);
+      this._dampedFrequency =
+        this._naturalFrequency *
+        Math.sqrt(1 - this._dampingRatio * this._dampingRatio);
     }
   }
 
@@ -2884,32 +2970,33 @@ class SpringEaser {
 
     deltaTime /= 1000;
 
-    const naturalDumpingPow = Math.E ** (-this._dampingRatio * this._naturalFrequency * deltaTime);
+    const naturalDumpingPow =
+      Math.E ** (-this._dampingRatio * this._naturalFrequency * deltaTime);
 
     if (this._dampingRatio === 1) {
       coeff = this.velocity + this._naturalFrequency * deltaPosition;
 
       displacement = (deltaPosition + coeff * deltaTime) * naturalDumpingPow;
 
-      this.velocity = displacement
-                        * (-this._naturalFrequency) + coeff
-                        * naturalDumpingPow;
+      this.velocity =
+        displacement * -this._naturalFrequency + coeff * naturalDumpingPow;
     } else if (this._dampingRatio < 1) {
-      coeff = (1 / this._dampedFrequency)
-                * (this._dampingRatio * this._naturalFrequency * deltaPosition + this.velocity);
+      coeff =
+        (1 / this._dampedFrequency) *
+        (this._dampingRatio * this._naturalFrequency * deltaPosition +
+          this.velocity);
 
       const dumpedFCos = Math.cos(this._dampedFrequency * deltaTime);
       const dumpedFSin = Math.sin(this._dampedFrequency * deltaTime);
 
-      displacement = naturalDumpingPow
-                       * (deltaPosition * dumpedFCos + coeff * dumpedFSin);
+      displacement =
+        naturalDumpingPow * (deltaPosition * dumpedFCos + coeff * dumpedFSin);
 
-      this.velocity = displacement
-                        * (-this._naturalFrequency)
-                        * this._dampingRatio
-                        + naturalDumpingPow
-                        * (-this._dampedFrequency * deltaPosition * dumpedFSin
-                        + this._dampedFrequency * coeff * dumpedFCos);
+      this.velocity =
+        displacement * -this._naturalFrequency * this._dampingRatio +
+        naturalDumpingPow *
+          (-this._dampedFrequency * deltaPosition * dumpedFSin +
+            this._dampedFrequency * coeff * dumpedFCos);
     }
 
     // Overdamped (>1) damping ratio is not supported
@@ -2930,7 +3017,7 @@ class SpringAnimation {
       onComplete,
       onFinish,
       dampingRatio,
-      naturalFrequency
+      naturalFrequency,
     } = props;
 
     const easer = new SpringEaser(velocity, dampingRatio, naturalFrequency);
@@ -3021,7 +3108,8 @@ class Animations {
     }
   }
 
-  stopAll() { // _stopAllAnimations
+  stopAll() {
+    // _stopAllAnimations
     this.activeAnimations.forEach((animation) => {
       animation.destroy();
     });
@@ -3079,7 +3167,7 @@ class Animations {
 class ScrollWheel {
   constructor(pswp) {
     this.pswp = pswp;
-    pswp.events.add(pswp.template, 'wheel', this._onWheel.bind(this));
+    pswp.events.add(pswp.template, "wheel", this._onWheel.bind(this));
   }
 
   _onWheel(e) {
@@ -3091,7 +3179,7 @@ class ScrollWheel {
       return;
     }
 
-    if (this.pswp.dispatch('wheel', { originalEvent: e }).defaultPrevented) {
+    if (this.pswp.dispatch("wheel", { originalEvent: e }).defaultPrevented) {
       return;
     }
 
@@ -3113,7 +3201,7 @@ class ScrollWheel {
         const destZoomLevel = currSlide.currZoomLevel * zoomFactor;
         currSlide.zoomTo(destZoomLevel, {
           x: e.clientX,
-          y: e.clientY
+          y: e.clientY,
         });
       }
     } else {
@@ -3125,17 +3213,14 @@ class ScrollWheel {
           deltaY *= 18;
         }
 
-        currSlide.panTo(
-          currSlide.pan.x - deltaX,
-          currSlide.pan.y - deltaY
-        );
+        currSlide.panTo(currSlide.pan.x - deltaX, currSlide.pan.y - deltaY);
       }
     }
   }
 }
 
 function addButtonHTML(htmlData) {
-  if (typeof htmlData === 'string') {
+  if (typeof htmlData === "string") {
     // Allow developers to provide full svg,
     // For example:
     // <svg viewBox="0 0 32 32" width="32" height="32" aria-hidden="true" class="pswp__icn">
@@ -3147,12 +3232,13 @@ function addButtonHTML(htmlData) {
   }
 
   if (!htmlData || !htmlData.isCustomSVG) {
-    return '';
+    return "";
   }
 
   const svgData = htmlData;
-  let out = '<svg aria-hidden="true" class="pswp__icn" viewBox="0 0 %d %d" width="%d" height="%d">';
-  out = out.split('%d').join(svgData.size || 32); // replace all %d with size
+  let out =
+    '<svg aria-hidden="true" class="pswp__icn" viewBox="0 0 %d %d" width="%d" height="%d">';
+  out = out.split("%d").join(svgData.size || 32); // replace all %d with size
 
   // Icons may contain outline/shadow,
   // to make it we "clone" base icon shape and add border to it.
@@ -3160,12 +3246,13 @@ function addButtonHTML(htmlData) {
   //
   // Property shadowID defines ID of element that should be cloned.
   if (svgData.outlineID) {
-    out += '<use class="pswp__icn-shadow" xlink:href="#' + svgData.outlineID + '"/>';
+    out +=
+      '<use class="pswp__icn-shadow" xlink:href="#' + svgData.outlineID + '"/>';
   }
 
   out += svgData.inner;
 
-  out += '</svg>';
+  out += "</svg>";
 
   return out;
 }
@@ -3181,32 +3268,32 @@ class UIElement {
     }
 
     // Allow to override SVG icons from options
-    if (typeof pswp.options[name + 'SVG'] === 'string') {
+    if (typeof pswp.options[name + "SVG"] === "string") {
       // arrowPrevSVG
       // arrowNextSVG
       // closeSVG
       // zoomSVG
-      elementHTML = pswp.options[name + 'SVG'];
+      elementHTML = pswp.options[name + "SVG"];
     }
 
-    pswp.dispatch('uiElementCreate', { data });
+    pswp.dispatch("uiElementCreate", { data });
 
-    let className = 'pswp__';
+    let className = "pswp__";
     if (data.isButton) {
-      className += 'button pswp__button--';
+      className += "button pswp__button--";
     }
-    className += (data.class || data.name);
+    className += data.class || data.name;
 
     let element;
     if (data.isButton) {
       // create button element
-      element = createElement(className, 'button');
-      element.type = 'button';
+      element = createElement(className, "button");
+      element.type = "button";
       // add either html or svg inside it
       element.innerHTML = addButtonHTML(elementHTML);
 
-      if (typeof pswp.options[name + 'Title'] === 'string') {
-        element.title = pswp.options[name + 'Title'];
+      if (typeof pswp.options[name + "Title"] === "string") {
+        element.title = pswp.options[name + "Title"];
       } else if (data.title) {
         element.title = data.title;
       }
@@ -3220,7 +3307,7 @@ class UIElement {
 
     if (data.onClick) {
       element.onclick = (e) => {
-        if (typeof data.onClick === 'string') {
+        if (typeof data.onClick === "string") {
           pswp[data.onClick]();
         } else {
           data.onClick(e, element, pswp);
@@ -3229,19 +3316,23 @@ class UIElement {
     }
 
     // Top bar is default position
-    const appendTo = data.appendTo || 'bar';
+    const appendTo = data.appendTo || "bar";
     let container;
-    if (appendTo === 'bar') {
+    if (appendTo === "bar") {
       if (!pswp.topBar) {
-        pswp.topBar = createElement('pswp__top-bar pswp__hide-on-close', false, pswp.scrollWrap);
+        pswp.topBar = createElement(
+          "pswp__top-bar pswp__hide-on-close",
+          false,
+          pswp.scrollWrap
+        );
       }
       container = pswp.topBar;
     } else {
       // element outside of top bar gets a secondary class
       // that makes element fade out on close
-      element.classList.add('pswp__hide-on-close');
+      element.classList.add("pswp__hide-on-close");
 
-      if (appendTo === 'wrapper') {
+      if (appendTo === "wrapper") {
         container = pswp.scrollWrap;
       } else {
         // root element
@@ -3258,8 +3349,8 @@ class UIElement {
  */
 
 function initArrowButton(element, pswp, isNextButton) {
-  element.classList.add('pswp__button--arrow');
-  pswp.on('change', () => {
+  element.classList.add("pswp__button--arrow");
+  pswp.on("change", () => {
     if (!pswp.options.loop) {
       if (isNextButton) {
         element.disabled = !(pswp.currIndex < pswp.getNumItems() - 1);
@@ -3271,67 +3362,70 @@ function initArrowButton(element, pswp, isNextButton) {
 }
 
 const arrowPrev = {
-  name: 'arrowPrev',
-  class: 'arrow--prev',
-  title: 'Previous',
+  name: "arrowPrev",
+  class: "arrow--prev",
+  title: "Previous",
   order: 10,
   isButton: true,
-  appendTo: 'wrapper',
+  appendTo: "wrapper",
   html: {
     isCustomSVG: true,
     size: 60,
-    inner: '<path d="M29 43l-3 3-16-16 16-16 3 3-13 13 13 13z" id="pswp__icn-arrow"/>',
-    outlineID: 'pswp__icn-arrow'
+    inner:
+      '<path d="M29 43l-3 3-16-16 16-16 3 3-13 13 13 13z" id="pswp__icn-arrow"/>',
+    outlineID: "pswp__icn-arrow",
   },
-  onClick: 'prev',
-  onInit: initArrowButton
+  onClick: "prev",
+  onInit: initArrowButton,
 };
 
 const arrowNext = {
-  name: 'arrowNext',
-  class: 'arrow--next',
-  title: 'Next',
+  name: "arrowNext",
+  class: "arrow--next",
+  title: "Next",
   order: 11,
   isButton: true,
-  appendTo: 'wrapper',
+  appendTo: "wrapper",
   html: {
     isCustomSVG: true,
     size: 60,
     inner: '<use xlink:href="#pswp__icn-arrow"/>',
-    outlineID: 'pswp__icn-arrow'
+    outlineID: "pswp__icn-arrow",
   },
-  onClick: 'next',
+  onClick: "next",
   onInit: (el, pswp) => {
     initArrowButton(el, pswp, true);
-  }
+  },
 };
 
 const closeButton = {
-  name: 'close',
-  title: 'Close',
+  name: "close",
+  title: "Close",
   order: 20,
   isButton: true,
   html: {
     isCustomSVG: true,
-    inner: '<path d="M24 10l-2-2-6 6-6-6-2 2 6 6-6 6 2 2 6-6 6 6 2-2-6-6z" id="pswp__icn-close"/>',
-    outlineID: 'pswp__icn-close'
+    inner:
+      '<path d="M24 10l-2-2-6 6-6-6-2 2 6 6-6 6 2 2 6-6 6 6 2-2-6-6z" id="pswp__icn-close"/>',
+    outlineID: "pswp__icn-close",
   },
-  onClick: 'close'
+  onClick: "close",
 };
 
 const zoomButton = {
-  name: 'zoom',
-  title: 'Zoom (z)',
+  name: "zoom",
+  title: "Zoom (z)",
   order: 10,
   isButton: true,
   html: {
     isCustomSVG: true,
-    inner: '<path d="M17.426 19.926a6 6 0 1 1 1.5-1.5L23 22.5 21.5 24l-4.074-4.074z" id="pswp__icn-zoom"/>'
-          + '<path fill="currentColor" class="pswp__zoom-icn-bar-h" d="M11 16v-2h6v2z"/>'
-          + '<path fill="currentColor" class="pswp__zoom-icn-bar-v" d="M13 12h2v6h-2z"/>',
-    outlineID: 'pswp__icn-zoom'
+    inner:
+      '<path d="M17.426 19.926a6 6 0 1 1 1.5-1.5L23 22.5 21.5 24l-4.074-4.074z" id="pswp__icn-zoom"/>' +
+      '<path fill="currentColor" class="pswp__zoom-icn-bar-h" d="M11 16v-2h6v2z"/>' +
+      '<path fill="currentColor" class="pswp__zoom-icn-bar-v" d="M13 12h2v6h-2z"/>',
+    outlineID: "pswp__icn-zoom",
   },
-  onClick: 'toggleZoom'
+  onClick: "toggleZoom",
 };
 
 // Delay before indicator will be shown
@@ -3347,8 +3441,8 @@ const FADE_OUT_DURATION = 350; // ms
 const INDICATOR_SIZE = 24;
 
 const loadingIndicator = {
-  name: 'preloader',
-  appendTo: 'wrapper',
+  name: "preloader",
+  appendTo: "wrapper",
   onInit: (indicatorElement, pswp) => {
     let isVisible;
     let delayTimeout;
@@ -3356,13 +3450,17 @@ const loadingIndicator = {
 
     const updateIndicatorPosition = () => {
       if (isVisible) {
-        indicatorElement.style.left = Math.round((pswp.viewportSize.x - INDICATOR_SIZE) / 2) + 'px';
-        indicatorElement.style.top = Math.round((pswp.viewportSize.y - INDICATOR_SIZE) / 2) + 'px';
+        indicatorElement.style.left =
+          Math.round((pswp.viewportSize.x - INDICATOR_SIZE) / 2) + "px";
+        indicatorElement.style.top =
+          Math.round((pswp.viewportSize.y - INDICATOR_SIZE) / 2) + "px";
       }
     };
 
     const toggleIndicatorClass = (className, add) => {
-      indicatorElement.classList[add ? 'add' : 'remove']('pswp__preloader--' + className);
+      indicatorElement.classList[add ? "add" : "remove"](
+        "pswp__preloader--" + className
+      );
     };
 
     const setIndicatorVisibility = (visible) => {
@@ -3370,22 +3468,22 @@ const loadingIndicator = {
         isVisible = visible;
 
         clearTimeout(hidingTimeout);
-        toggleIndicatorClass('hiding', !visible);
+        toggleIndicatorClass("hiding", !visible);
 
         if (!visible) {
           // Fade out
           hidingTimeout = setTimeout(() => {
-            toggleIndicatorClass('active', false);
+            toggleIndicatorClass("active", false);
           }, FADE_OUT_DURATION);
         } else {
           updateIndicatorPosition();
           // Fade in
-          toggleIndicatorClass('active', true);
+          toggleIndicatorClass("active", true);
         }
       }
     };
 
-    pswp.on('change', () => {
+    pswp.on("change", () => {
       if (!pswp.currSlide.isLoading) {
         setIndicatorVisibility(false);
         return;
@@ -3399,26 +3497,28 @@ const loadingIndicator = {
       }, SHOW_DELAY);
     });
 
-    pswp.on('loadComplete', (e) => {
+    pswp.on("loadComplete", (e) => {
       if (pswp.currSlide === e.slide) {
         setIndicatorVisibility(false);
       }
     });
 
-    pswp.on('resize', updateIndicatorPosition);
-  }
+    pswp.on("resize", updateIndicatorPosition);
+  },
 };
 
 const counterIndicator = {
-  name: 'counter',
+  name: "counter",
   order: 5,
   onInit: (counterElement, pswp) => {
-    pswp.on('change', () => {
-      counterElement.innerHTML = (pswp.currIndex + 1)
-                                  + pswp.options.indexIndicatorSep
-                                  + pswp.getNumItems();
+    pswp.on("change", () => {
+      counterElement.innerHTML =
+        pswp.currIndex +
+        1 +
+        pswp.options.indexIndicatorSep +
+        pswp.getNumItems();
     });
-  }
+  },
 };
 
 /**
@@ -3430,7 +3530,7 @@ const counterIndicator = {
  * @param {Boolean} isZoomedIn
  */
 function setZoomedIn(el, isZoomedIn) {
-  el.classList[isZoomedIn ? 'add' : 'remove']('pswp--zoomed-in');
+  el.classList[isZoomedIn ? "add" : "remove"]("pswp--zoomed-in");
 }
 
 class UI {
@@ -3447,10 +3547,10 @@ class UI {
       arrowNext,
       zoomButton,
       loadingIndicator,
-      counterIndicator
+      counterIndicator,
     ];
 
-    pswp.dispatch('uiRegister');
+    pswp.dispatch("uiRegister");
 
     // sort by order
     this.uiElementsData.sort((a, b) => {
@@ -3467,17 +3567,15 @@ class UI {
 
     // TODO: ensure this works when dynamically adding or removing slides
     if (pswp.getNumItems() === 1) {
-      pswp.template.classList.add('pswp--one-slide');
+      pswp.template.classList.add("pswp--one-slide");
     }
 
-    pswp.on('zoomPanUpdate', () => this._onZoomPanUpdate());
+    pswp.on("zoomPanUpdate", () => this._onZoomPanUpdate());
   }
 
   registerElement(elementData) {
     if (this.isRegistered) {
-      this.items.push(
-        new UIElement(this.pswp, elementData)
-      );
+      this.items.push(new UIElement(this.pswp, elementData));
     } else {
       this.uiElementsData.push(elementData);
     }
@@ -3505,18 +3603,19 @@ class UI {
     }
     this._lastUpdatedZoomLevel = currZoomLevel;
 
-    const currZoomLevelDiff = currSlide.zoomLevels.initial - currSlide.zoomLevels.secondary;
+    const currZoomLevelDiff =
+      currSlide.zoomLevels.initial - currSlide.zoomLevels.secondary;
 
     // Initial and secondary zoom levels are almost equal
     if (Math.abs(currZoomLevelDiff) < 0.01 || !currSlide.isZoomable()) {
       // disable zoom
       setZoomedIn(template, false);
-      template.classList.remove('pswp--zoom-allowed');
+      template.classList.remove("pswp--zoom-allowed");
       return;
     }
 
-    template.classList.add('pswp--zoom-allowed');
-    const secondaryIsHigher = (currZoomLevelDiff < 0);
+    template.classList.add("pswp--zoom-allowed");
+    const secondaryIsHigher = currZoomLevelDiff < 0;
 
     if (currZoomLevel === currSlide.zoomLevels.secondary) {
       setZoomedIn(template, secondaryIsHigher);
@@ -3527,9 +3626,11 @@ class UI {
       setZoomedIn(template, false);
     }
 
-    if (options.imageClickAction === 'zoom'
-        || options.imageClickAction === 'zoom-or-close') {
-      template.classList.add('pswp--click-to-zoom');
+    if (
+      options.imageClickAction === "zoom" ||
+      options.imageClickAction === "zoom-or-close"
+    ) {
+      template.classList.add("pswp--click-to-zoom");
     }
   }
 }
@@ -3539,7 +3640,7 @@ function getBoundsByElement(el) {
   return {
     x: thumbAreaRect.left,
     y: thumbAreaRect.top,
-    w: thumbAreaRect.width
+    w: thumbAreaRect.width,
   };
 }
 
@@ -3561,7 +3662,7 @@ function getCroppedBoundsByElement(el, imageWidth, imageHeight) {
   const bounds = {
     x: thumbAreaRect.left + offsetX,
     y: thumbAreaRect.top + offsetY,
-    w: imageWidth * fillZoomLevel
+    w: imageWidth * fillZoomLevel,
   };
 
   // Coordinates of inner crop area
@@ -3570,7 +3671,7 @@ function getCroppedBoundsByElement(el, imageWidth, imageHeight) {
     w: thumbAreaRect.width,
     h: thumbAreaRect.height,
     x: offsetX,
-    y: offsetY
+    y: offsetY,
   };
 
   return bounds;
@@ -3587,10 +3688,10 @@ function getCroppedBoundsByElement(el, imageWidth, imageHeight) {
  */
 function getThumbBounds(index, itemData, instance) {
   // legacy event, before filters were introduced
-  const event = instance.dispatch('thumbBounds', {
+  const event = instance.dispatch("thumbBounds", {
     index,
     itemData,
-    instance
+    instance,
   });
   if (event.thumbBounds) {
     return event.thumbBounds;
@@ -3600,9 +3701,10 @@ function getThumbBounds(index, itemData, instance) {
   let thumbBounds;
 
   if (element && instance.options.thumbSelector !== false) {
-    const thumbSelector = instance.options.thumbSelector || 'img';
+    const thumbSelector = instance.options.thumbSelector || "img";
     const thumbnail = element.matches(thumbSelector)
-      ? element : element.querySelector(thumbSelector);
+      ? element
+      : element.querySelector(thumbSelector);
 
     if (thumbnail) {
       if (!itemData.thumbCropped) {
@@ -3617,7 +3719,7 @@ function getThumbBounds(index, itemData, instance) {
     }
   }
 
-  return instance.applyFilters('thumbBounds', thumbBounds, itemData, index);
+  return instance.applyFilters("thumbBounds", thumbBounds, itemData, index);
 }
 
 /**
@@ -3661,7 +3763,9 @@ class Eventable {
 
   removeFilter(name, fn) {
     if (this._filters[name]) {
-      this._filters[name] = this._filters[name].filter(filter => (filter.fn !== fn));
+      this._filters[name] = this._filters[name].filter(
+        (filter) => filter.fn !== fn
+      );
     }
 
     if (this.pswp) {
@@ -3694,7 +3798,9 @@ class Eventable {
 
   off(name, fn) {
     if (this._listeners[name]) {
-      this._listeners[name] = this._listeners[name].filter(listener => (fn !== listener));
+      this._listeners[name] = this._listeners[name].filter(
+        (listener) => fn !== listener
+      );
     }
 
     if (this.pswp) {
@@ -3755,11 +3861,11 @@ class Content {
    */
   load(/* isLazy */) {
     if (!this.element) {
-      this.element = createElement('pswp__content');
-      this.element.style.position = 'absolute';
+      this.element = createElement("pswp__content");
+      this.element.style.position = "absolute";
       this.element.style.left = 0;
       this.element.style.top = 0;
-      this.element.innerHTML = this.data.html || '';
+      this.element.innerHTML = this.data.html || "";
     }
   }
 
@@ -3771,13 +3877,9 @@ class Content {
     return false;
   }
 
-  activate() {
+  activate() {}
 
-  }
-
-  deactivate() {
-
-  }
+  deactivate() {}
 
   setDisplayedSize(width, height) {
     if (this.element) {
@@ -3789,28 +3891,27 @@ class Content {
     this.state = LOAD_STATE.LOADED;
 
     if (this.slide) {
-      this.pswp.dispatch('loadComplete', { slide: this.slide });
+      this.pswp.dispatch("loadComplete", { slide: this.slide });
     }
   }
 
   // If the placeholder should be kept in DOM
   keepPlaceholder() {
-    return (this.state === LOAD_STATE.LOADING);
+    return this.state === LOAD_STATE.LOADING;
   }
 
   onError() {
     this.state = LOAD_STATE.ERROR;
 
     if (this.slide) {
-      this.pswp.dispatch('loadComplete', { slide: this.slide, isError: true });
-      this.pswp.dispatch('loadError', { slide: this.slide });
+      this.pswp.dispatch("loadComplete", { slide: this.slide, isError: true });
+      this.pswp.dispatch("loadError", { slide: this.slide });
     }
   }
 
   getErrorElement() {
     return false;
   }
-
 
   remove() {
     this.isAttached = false;
@@ -3826,9 +3927,7 @@ class Content {
     }
   }
 
-  destroy() {
-
-  }
+  destroy() {}
 }
 
 class ImageContent extends Content {
@@ -3843,7 +3942,7 @@ class ImageContent extends Content {
       return;
     }
 
-    this.element = createElement('pswp__img', 'img');
+    this.element = createElement("pswp__img", "img");
 
     if (this.data.srcset) {
       this.element.srcset = this.data.srcset;
@@ -3851,7 +3950,7 @@ class ImageContent extends Content {
 
     this.element.src = imageSrc;
 
-    this.element.alt = this.data.alt || '';
+    this.element.alt = this.data.alt || "";
 
     this.state = LOAD_STATE.LOADING;
 
@@ -3871,27 +3970,34 @@ class ImageContent extends Content {
   setDisplayedSize(width, height) {
     const image = this.element;
     if (image) {
-      setWidthHeight(image, width, 'auto');
+      setWidthHeight(image, width, "auto");
 
       // Handle srcset sizes attribute.
       //
       // Never lower quality, if it was increased previously.
       // Chrome does this automatically, Firefox and Safari do not,
       // so we store largest used size in dataset.
-      if (image.srcset
-          && (!image.dataset.largestUsedSize || width > image.dataset.largestUsedSize)) {
-        image.sizes = width + 'px';
+      if (
+        image.srcset &&
+        (!image.dataset.largestUsedSize ||
+          width > image.dataset.largestUsedSize)
+      ) {
+        image.sizes = width + "px";
         image.dataset.largestUsedSize = width;
       }
 
       if (this.slide) {
-        this.pswp.dispatch('imageSizeChange', { slide: this.slide, width, height });
+        this.pswp.dispatch("imageSizeChange", {
+          slide: this.slide,
+          width,
+          height,
+        });
       }
     }
   }
 
   isZoomable() {
-    return (this.state !== LOAD_STATE.ERROR);
+    return this.state !== LOAD_STATE.ERROR;
   }
 
   usePlaceholder() {
@@ -3924,17 +4030,20 @@ class ImageContent extends Content {
     // You might ask "why dont you just decode() and then append all images",
     // that's because I want to show image before it's fully loaded,
     // as browser can render parts of image while it is loading.
-    if (this.slide && !this.slide.isActive && ('decode' in this.element)) {
+    if (this.slide && !this.slide.isActive && "decode" in this.element) {
       this.isDecoding = true;
       // Make sure that we start decoding on the next frame
       requestAnimationFrame(() => {
         if (this.element) {
-          this.element.decode().then(() => {
-            this.isDecoding = false;
-            requestAnimationFrame(() => {
-              this.appendImageTo(container);
-            });
-          }).catch(() => {});
+          this.element
+            .decode()
+            .then(() => {
+              this.isDecoding = false;
+              requestAnimationFrame(() => {
+                this.appendImageTo(container);
+              });
+            })
+            .catch(() => {});
         }
       });
     } else {
@@ -3951,9 +4060,9 @@ class ImageContent extends Content {
   }
 
   getErrorElement() {
-    const el = createElement('pswp__error-msg-container');
+    const el = createElement("pswp__error-msg-container");
     el.innerHTML = this.options.errorMsg;
-    const linkEl = el.querySelector('a');
+    const linkEl = el.querySelector("a");
     if (linkEl) {
       linkEl.href = this.data.src;
     }
@@ -3978,7 +4087,7 @@ class PhotoSwipeBase extends Eventable {
     super();
     this.contentTypes = {
       image: ImageContent,
-      html: Content
+      html: Content,
     };
   }
 
@@ -4005,11 +4114,11 @@ class PhotoSwipeBase extends Eventable {
     }
 
     // legacy event, before filters were introduced
-    const event = this.dispatch('numItems', {
+    const event = this.dispatch("numItems", {
       dataSource,
-      numItems
+      numItems,
     });
-    return this.applyFilters('numItems', event.numItems, dataSource);
+    return this.applyFilters("numItems", event.numItems, dataSource);
   }
 
   /**
@@ -4081,12 +4190,12 @@ class PhotoSwipeBase extends Eventable {
 
     // Dispatching the itemData event,
     // it's a legacy verion before filters were introduced
-    const event = this.dispatch('itemData', {
+    const event = this.dispatch("itemData", {
       itemData: itemData || {},
-      index
+      index,
     });
 
-    return this.applyFilters('itemData', event.itemData, index);
+    return this.applyFilters("itemData", event.itemData, index);
   }
 
   /**
@@ -4097,11 +4206,13 @@ class PhotoSwipeBase extends Eventable {
    */
   _getGalleryDOMElements(galleryElement) {
     if (this.options.children || this.options.childSelector) {
-      return getElementsFromOption(
-        this.options.children,
-        this.options.childSelector,
-        galleryElement
-      ) || [];
+      return (
+        getElementsFromOption(
+          this.options.children,
+          this.options.childSelector,
+          galleryElement
+        ) || []
+      );
     }
 
     return [galleryElement];
@@ -4115,10 +4226,11 @@ class PhotoSwipeBase extends Eventable {
   // eslint-disable-next-line class-methods-use-this
   _domElementToItemData(element) {
     const itemData = {
-      element
+      element,
     };
 
-    const linkEl = element.tagName === 'A' ? element : element.querySelector('a');
+    const linkEl =
+      element.tagName === "A" ? element : element.querySelector("a");
 
     if (linkEl) {
       // src comes from data-pswp-src attribute,
@@ -4134,13 +4246,13 @@ class PhotoSwipeBase extends Eventable {
         itemData.type = linkEl.dataset.pswpType;
       }
 
-      const thumbnailEl = element.querySelector('img');
+      const thumbnailEl = element.querySelector("img");
 
       if (thumbnailEl) {
         // define msrc only if it's the first slide,
         // as rendering (even small stretched thumbnail) is an expensive operation
         itemData.msrc = thumbnailEl.currentSrc || thumbnailEl.src;
-        itemData.alt = thumbnailEl.getAttribute('alt');
+        itemData.alt = thumbnailEl.getAttribute("alt");
       }
 
       if (linkEl.dataset.pswpCropped || linkEl.dataset.cropped) {
@@ -4148,7 +4260,7 @@ class PhotoSwipeBase extends Eventable {
       }
     }
 
-    this.applyFilters('domItemData', itemData, element, linkEl);
+    this.applyFilters("domItemData", itemData, element, linkEl);
 
     return itemData;
   }
@@ -4176,7 +4288,7 @@ class Opener {
     this._prepareOpen = this._prepareOpen.bind(this);
 
     // Override initial zoom and pan position
-    pswp.on('firstZoomPan', this._prepareOpen);
+    pswp.on("firstZoomPan", this._prepareOpen);
   }
 
   open() {
@@ -4201,20 +4313,26 @@ class Opener {
 
     // Automatically disable transition if the current slide
     // is at MAX_SLIDE_WIDTH_TO_ANIMATE or wider
-    if (slide && slide.currZoomLevel * slide.width >= MAX_SLIDE_WIDTH_TO_ANIMATE) {
+    if (
+      slide &&
+      slide.currZoomLevel * slide.width >= MAX_SLIDE_WIDTH_TO_ANIMATE
+    ) {
       this._duration = 0;
     }
 
     this._applyStartProps();
-    setTimeout(() => {
-      this._start();
-    }, this._croppedZoom ? 30 : 0);
+    setTimeout(
+      () => {
+        this._start();
+      },
+      this._croppedZoom ? 30 : 0
+    );
 
     return true;
   }
 
   _prepareOpen() {
-    this.pswp.off('firstZoomPan', this._prepareOpen);
+    this.pswp.off("firstZoomPan", this._prepareOpen);
     if (!this.isOpening) {
       this.isOpening = true;
       this.isClosing = false;
@@ -4228,10 +4346,10 @@ class Opener {
     const slide = this.pswp.currSlide;
     const { options } = pswp;
 
-    if (options.showHideAnimationType === 'fade') {
+    if (options.showHideAnimationType === "fade") {
       options.showHideOpacity = true;
       this._thumbBounds = false;
-    } else if (options.showHideAnimationType === 'none') {
+    } else if (options.showHideAnimationType === "none") {
       options.showHideOpacity = false;
       this._duration = 0;
       this._thumbBounds = false;
@@ -4247,9 +4365,10 @@ class Opener {
     pswp.animations.stopAll();
 
     // Discard animations when duration is less than 50ms
-    this._useAnimation = (this._duration > 50);
-    this._animateZoom = Boolean(this._thumbBounds)
-                        && (!this.isClosing || !pswp.mainScroll.isShifted());
+    this._useAnimation = this._duration > 50;
+    this._animateZoom =
+      Boolean(this._thumbBounds) &&
+      (!this.isClosing || !pswp.mainScroll.isShifted());
     if (!this._animateZoom) {
       this._animateRootOpacity = true;
 
@@ -4281,8 +4400,8 @@ class Opener {
       this._cropContainer1 = this.pswp.container;
       this._cropContainer2 = this.pswp.currSlide.holderElement;
 
-      pswp.container.style.overflow = 'hidden';
-      pswp.container.style.width = pswp.viewportSize.x + 'px';
+      pswp.container.style.overflow = "hidden";
+      pswp.container.style.width = pswp.viewportSize.x + "px";
     } else {
       this._croppedZoom = false;
     }
@@ -4303,7 +4422,7 @@ class Opener {
         this._setClosedStateZoomPan();
         if (this._placeholder) {
           // tell browser that we plan to animate the placeholder
-          this._placeholder.willChange = 'transform';
+          this._placeholder.willChange = "transform";
 
           // hide placeholder to allow hiding of
           // elements that overlap it (such as icons over the thumbnail)
@@ -4313,8 +4432,8 @@ class Opener {
     } else if (this.isClosing) {
       // hide nearby slides to make sure that
       // they are not painted during the transition
-      pswp.mainScroll.itemHolders[0].el.style.display = 'none';
-      pswp.mainScroll.itemHolders[2].el.style.display = 'none';
+      pswp.mainScroll.itemHolders[0].el.style.display = "none";
+      pswp.mainScroll.itemHolders[2].el.style.display = "none";
 
       if (this._croppedZoom) {
         if (pswp.mainScroll.x !== 0) {
@@ -4327,10 +4446,12 @@ class Opener {
   }
 
   _start() {
-    if (this.isOpening
-        && this._useAnimation
-        && this._placeholder
-        && this._placeholder.tagName === 'IMG') {
+    if (
+      this.isOpening &&
+      this._useAnimation &&
+      this._placeholder &&
+      this._placeholder.tagName === "IMG"
+    ) {
       // To ensure smooth animation
       // we wait till the current slide image placeholder is decoded,
       // but no longer than 250ms,
@@ -4360,10 +4481,15 @@ class Opener {
   }
 
   _initiate() {
-    this.pswp.template.style.setProperty('--pswp-transition-duration', this._duration + 'ms');
+    this.pswp.template.style.setProperty(
+      "--pswp-transition-duration",
+      this._duration + "ms"
+    );
 
-    this.pswp.dispatch('initialZoom' + (this.isOpening ? 'In' : 'Out'));
-    this.pswp.template.classList[this.isOpening ? 'add' : 'remove']('pswp--ui-visible');
+    this.pswp.dispatch("initialZoom" + (this.isOpening ? "In" : "Out"));
+    this.pswp.template.classList[this.isOpening ? "add" : "remove"](
+      "pswp--ui-visible"
+    );
 
     if (this.isOpening) {
       if (this._placeholder) {
@@ -4387,14 +4513,14 @@ class Opener {
     this.isOpening = false;
     this.isClosing = false;
 
-    pswp.dispatch('initialZoom' + (this.isOpen ? 'InEnd' : 'OutEnd'));
+    pswp.dispatch("initialZoom" + (this.isOpen ? "InEnd" : "OutEnd"));
 
     if (this.isClosed) {
       pswp.destroy();
     } else if (this.isOpen) {
       if (this._animateZoom) {
-        pswp.container.style.overflow = 'visible';
-        pswp.container.style.width = '100%';
+        pswp.container.style.overflow = "visible";
+        pswp.container.style.width = "100%";
       }
       pswp.currSlide.applyCurrentZoomPan();
     }
@@ -4404,24 +4530,28 @@ class Opener {
     const { pswp } = this;
     if (this._animateZoom) {
       if (this._croppedZoom) {
-        this._animateTo(this._cropContainer1, 'transform', 'translate3d(0,0,0)');
-        this._animateTo(this._cropContainer2, 'transform', 'none');
+        this._animateTo(
+          this._cropContainer1,
+          "transform",
+          "translate3d(0,0,0)"
+        );
+        this._animateTo(this._cropContainer2, "transform", "none");
       }
 
       pswp.currSlide.zoomAndPanToInitial();
       this._animateTo(
         pswp.currSlide.container,
-        'transform',
+        "transform",
         pswp.currSlide.getCurrentTransform()
       );
     }
 
     if (this._animateBgOpacity) {
-      this._animateTo(pswp.bg, 'opacity', pswp.options.bgOpacity);
+      this._animateTo(pswp.bg, "opacity", pswp.options.bgOpacity);
     }
 
     if (this._animateRootOpacity) {
-      this._animateTo(pswp.template, 'opacity', 1);
+      this._animateTo(pswp.template, "opacity", 1);
     }
   }
 
@@ -4432,13 +4562,13 @@ class Opener {
       this._setClosedStateZoomPan(true);
     }
 
-    if (this._animateBgOpacity
-        && pswp.bgOpacity > 0.01) { // do not animate opacity if it's already at 0
-      this._animateTo(pswp.bg, 'opacity', 0);
+    if (this._animateBgOpacity && pswp.bgOpacity > 0.01) {
+      // do not animate opacity if it's already at 0
+      this._animateTo(pswp.bg, "opacity", 0);
     }
 
     if (this._animateRootOpacity) {
-      this._animateTo(pswp.template, 'opacity', 0);
+      this._animateTo(pswp.template, "opacity", 0);
     }
   }
 
@@ -4448,22 +4578,23 @@ class Opener {
     const { currSlide, viewportSize } = pswp;
 
     if (this._croppedZoom) {
-      const containerOnePanX = -viewportSize.x + (this._thumbBounds.x - innerRect.x) + innerRect.w;
-      const containerOnePanY = -viewportSize.y + (this._thumbBounds.y - innerRect.y) + innerRect.h;
+      const containerOnePanX =
+        -viewportSize.x + (this._thumbBounds.x - innerRect.x) + innerRect.w;
+      const containerOnePanY =
+        -viewportSize.y + (this._thumbBounds.y - innerRect.y) + innerRect.h;
       const containerTwoPanX = viewportSize.x - innerRect.w;
       const containerTwoPanY = viewportSize.y - innerRect.h;
-
 
       if (animate) {
         this._animateTo(
           this._cropContainer1,
-          'transform',
+          "transform",
           toTransformString(containerOnePanX, containerOnePanY)
         );
 
         this._animateTo(
           this._cropContainer2,
-          'transform',
+          "transform",
           toTransformString(containerTwoPanX, containerTwoPanY)
         );
       } else {
@@ -4476,7 +4607,11 @@ class Opener {
     currSlide.currZoomLevel = this._thumbBounds.w / currSlide.width;
 
     if (animate) {
-      this._animateTo(currSlide.container, 'transform', currSlide.getCurrentTransform());
+      this._animateTo(
+        currSlide.container,
+        "transform",
+        currSlide.getCurrentTransform()
+      );
     } else {
       currSlide.applyCurrentZoomPan();
     }
@@ -4520,11 +4655,10 @@ const MIN_SLIDES_TO_CACHE = 5;
  */
 function getKey(itemData, index) {
   if (itemData && itemData.src) {
-    return itemData.src + '_' + index;
+    return itemData.src + "_" + index;
   }
   return index;
 }
-
 
 /**
  * Lazy-load an image
@@ -4565,7 +4699,6 @@ function lazyLoadData(itemData, instance, index) {
   return content;
 }
 
-
 /**
  * Lazy-loads specific slide.
  * This function is used both by Lightbox and PhotoSwipe core,
@@ -4579,13 +4712,14 @@ function lazyLoadData(itemData, instance, index) {
 function lazyLoadSlide(index, instance) {
   const itemData = instance.getItemData(index);
 
-  if (instance.dispatch('lazyLoadSlide', { index, itemData }).defaultPrevented) {
+  if (
+    instance.dispatch("lazyLoadSlide", { index, itemData }).defaultPrevented
+  ) {
     return;
   }
 
   return lazyLoadData(itemData, instance, index);
 }
-
 
 class ContentLoader {
   constructor(pswp) {
@@ -4606,22 +4740,22 @@ class ContentLoader {
   updateLazy(diff) {
     const { pswp } = this;
 
-    if (pswp.dispatch('lazyLoad').defaultPrevented) {
+    if (pswp.dispatch("lazyLoad").defaultPrevented) {
       return;
     }
 
     const { preload } = pswp.options;
-    const isForward = diff === undefined ? true : (diff >= 0);
+    const isForward = diff === undefined ? true : diff >= 0;
     let i;
 
     // preload[1] - num items to preload in forward direction
     for (i = 0; i <= preload[1]; i++) {
-      this.loadSlideByIndex(pswp.currIndex + (isForward ? i : (-i)));
+      this.loadSlideByIndex(pswp.currIndex + (isForward ? i : -i));
     }
 
     // preload[0] - num items to preload in backward direction
     for (i = 1; i <= preload[0]; i++) {
-      this.loadSlideByIndex(pswp.currIndex + (isForward ? (-i) : i));
+      this.loadSlideByIndex(pswp.currIndex + (isForward ? -i : i));
     }
   }
 
@@ -4660,7 +4794,9 @@ class ContentLoader {
 
     if (this._cachedItems.length > this.limit) {
       // Destroy the first content that's not attached
-      const indexToRemove = this._cachedItems.findIndex(item => !item.isAttached);
+      const indexToRemove = this._cachedItems.findIndex(
+        (item) => !item.isAttached
+      );
       if (indexToRemove !== -1) {
         const removedItem = this._cachedItems.splice(indexToRemove, 1)[0];
         removedItem.destroy();
@@ -4674,14 +4810,16 @@ class ContentLoader {
    * @param {String} key
    */
   removeByKey(key) {
-    const indexToRemove = this._cachedItems.findIndex(item => item.key === key);
+    const indexToRemove = this._cachedItems.findIndex(
+      (item) => item.key === key
+    );
     if (indexToRemove !== -1) {
       this._cachedItems.splice(indexToRemove, 1);
     }
   }
 
   getContentByKey(key) {
-    return this._cachedItems.find(content => content.key === key);
+    return this._cachedItems.find((content) => content.key === key);
   }
 
   getKeyBySlide(slide) {
@@ -4689,7 +4827,7 @@ class ContentLoader {
   }
 
   destroy() {
-    this._cachedItems.forEach(content => content.destroy());
+    this._cachedItems.forEach((content) => content.destroy());
     this._cachedItems = null;
   }
 }
@@ -4709,19 +4847,20 @@ const defaultOptions = {
   limitMaxZoom: true,
 
   clickToCloseNonZoomable: true,
-  imageClickAction: 'zoom-or-close',
-  bgClickAction: 'close',
-  tapAction: 'toggle-controls',
-  doubleTapAction: 'zoom',
+  imageClickAction: "zoom-or-close",
+  bgClickAction: "close",
+  tapAction: "toggle-controls",
+  doubleTapAction: "zoom",
 
-  indexIndicatorSep: ' / ',
+  indexIndicatorSep: " / ",
 
   bgOpacity: 0.8,
 
   index: 0,
-  errorMsg: '<div class="pswp__error-msg"><a href="" target="_blank">The image</a> could not be loaded.</div>',
+  errorMsg:
+    '<div class="pswp__error-msg"><a href="" target="_blank">The image</a> could not be loaded.</div>',
   preload: [1, 2],
-  easing: 'cubic-bezier(.4,0,.22,1)'
+  easing: "cubic-bezier(.4,0,.22,1)",
 };
 
 class PhotoSwipe extends PhotoSwipeBase {
@@ -4768,7 +4907,7 @@ class PhotoSwipe extends PhotoSwipeBase {
       this.options.loop = false;
     }
 
-    this.dispatch('init');
+    this.dispatch("init");
 
     this._createMainStructure();
 
@@ -4778,29 +4917,31 @@ class PhotoSwipe extends PhotoSwipeBase {
     // });
 
     // add classes to the root element of PhotoSwipe
-    let rootClasses = 'pswp--open';
+    let rootClasses = "pswp--open";
     if (this.gestures.supportsTouch) {
-      rootClasses += ' pswp--touch';
+      rootClasses += " pswp--touch";
     }
     if (!this.options.allowMouseDrag) {
-      rootClasses += ' pswp--no-mouse-drag';
+      rootClasses += " pswp--no-mouse-drag";
     }
     if (this.options.mainClass) {
-      rootClasses += ' ' + this.options.mainClass;
+      rootClasses += " " + this.options.mainClass;
     }
-    this.template.className += ' ' + rootClasses;
+    this.template.className += " " + rootClasses;
 
     this.currIndex = this.options.index || 0;
     this.potentialIndex = this.currIndex;
-    this.dispatch('firstUpdate'); // starting index can be modified here
+    this.dispatch("firstUpdate"); // starting index can be modified here
 
     // initialize scroll wheel handler to block the scroll
     this.scrollWheel = new ScrollWheel(this);
 
     // sanitize index
-    if (Number.isNaN(this.currIndex)
-        || this.currIndex < 0
-        || this.currIndex >= this.getNumItems()) {
+    if (
+      Number.isNaN(this.currIndex) ||
+      this.currIndex < 0 ||
+      this.currIndex >= this.getNumItems()
+    ) {
       this.currIndex = 0;
     }
 
@@ -4815,37 +4956,41 @@ class PhotoSwipe extends PhotoSwipeBase {
     this.offset.y = window.pageYOffset;
 
     this._initialItemData = this.getItemData(this.currIndex);
-    this.dispatch('gettingData', this.currIndex, this._initialItemData, true);
+    this.dispatch("gettingData", this.currIndex, this._initialItemData, true);
 
     // *Layout* - calculate size and position of elements here
     this._initialThumbBounds = this.getThumbBounds();
-    this.dispatch('initialLayout');
+    this.dispatch("initialLayout");
 
-    this.on('initialZoomInEnd', () => {
+    this.on("initialZoomInEnd", () => {
       // Add content to the previous and next slide
       this.setContent(this.mainScroll.itemHolders[0], this.currIndex - 1);
       this.setContent(this.mainScroll.itemHolders[2], this.currIndex + 1);
 
-      this.mainScroll.itemHolders[0].el.style.display = 'block';
-      this.mainScroll.itemHolders[2].el.style.display = 'block';
+      this.mainScroll.itemHolders[0].el.style.display = "block";
+      this.mainScroll.itemHolders[2].el.style.display = "block";
 
       this.appendHeavy();
 
       this.contentLoader.updateLazy();
 
-      this.events.add(window, 'resize', this._handlePageResize.bind(this));
-      this.events.add(window, 'scroll', this._updatePageScrollOffset.bind(this));
-      this.dispatch('bindEvents');
+      this.events.add(window, "resize", this._handlePageResize.bind(this));
+      this.events.add(
+        window,
+        "scroll",
+        this._updatePageScrollOffset.bind(this)
+      );
+      this.dispatch("bindEvents");
     });
 
     // remove placeholder when slide is loaded
-    this.on('loadComplete', (e) => {
+    this.on("loadComplete", (e) => {
       if (e.slide.heavyAppended) {
         e.slide.removePlaceholder();
       }
     });
 
-    this.on('loadError', (e) => {
+    this.on("loadError", (e) => {
       if (e.slide.heavyAppended) {
         e.slide.removePlaceholder();
         e.slide.displayError();
@@ -4854,11 +4999,11 @@ class PhotoSwipe extends PhotoSwipeBase {
 
     // set content for center slide (first time)
     this.setContent(this.mainScroll.itemHolders[1], this.currIndex);
-    this.dispatch('change');
+    this.dispatch("change");
 
     this.opener.open();
 
-    this.dispatch('afterInit');
+    this.dispatch("afterInit");
 
     return true;
   }
@@ -4901,7 +5046,8 @@ class PhotoSwipe extends PhotoSwipeBase {
       if (this.currIndex === 0 && index === lastItemIndex) {
         // go back one slide
         return -1;
-      } if (this.currIndex === lastItemIndex && index === 0) {
+      }
+      if (this.currIndex === lastItemIndex && index === 0) {
         // go forward one slide
         return 1;
       }
@@ -4927,9 +5073,11 @@ class PhotoSwipe extends PhotoSwipeBase {
 
     // TODO: allow to pause the event propagation?
 
-    const indexChanged = this.mainScroll.moveIndexBy(index - this.potentialIndex);
+    const indexChanged = this.mainScroll.moveIndexBy(
+      index - this.potentialIndex
+    );
     if (indexChanged) {
-      this.dispatch('afterGoto');
+      this.dispatch("afterGoto");
     }
   }
 
@@ -4972,7 +5120,7 @@ class PhotoSwipe extends PhotoSwipeBase {
 
     this.isDestroying = true;
 
-    this.dispatch('close');
+    this.dispatch("close");
 
     this.events.removeAll();
     this.opener.close();
@@ -4990,7 +5138,7 @@ class PhotoSwipe extends PhotoSwipeBase {
       return;
     }
 
-    this.dispatch('destroy');
+    this.dispatch("destroy");
 
     this.listeners = null;
 
@@ -5012,7 +5160,7 @@ class PhotoSwipe extends PhotoSwipeBase {
       index = this.getLoopedIndex(index);
     } else if (index < 0 || index >= this.getNumItems()) {
       // empty holder
-      holder.el.innerHTML = '';
+      holder.el.innerHTML = "";
       return;
     }
 
@@ -5030,7 +5178,7 @@ class PhotoSwipe extends PhotoSwipeBase {
   getViewportCenterPoint() {
     return {
       x: this.viewportSize.x / 2,
-      y: this.viewportSize.y / 2
+      y: this.viewportSize.y / 2,
     };
   }
 
@@ -5064,23 +5212,23 @@ class PhotoSwipe extends PhotoSwipeBase {
     //this._prevViewportSize.y = newHeight;
     equalizePoints(this._prevViewportSize, newViewportSize);
 
-    this.dispatch('beforeResize');
+    this.dispatch("beforeResize");
 
     equalizePoints(this.viewportSize, this._prevViewportSize);
 
     this._updatePageScrollOffset();
 
-    this.dispatch('viewportSize');
+    this.dispatch("viewportSize");
 
     // Resize slides only after opener animation is finished
     // and don't re-calculate size on inital size update
     this.mainScroll.resize(this.opener.isOpen);
 
-    if (!this.hasMouse && window.matchMedia('(any-hover: hover)').matches) {
+    if (!this.hasMouse && window.matchMedia("(any-hover: hover)").matches) {
       this.mouseDetected();
     }
 
-    this.dispatch('resize');
+    this.dispatch("resize");
   }
 
   applyBgOpacity(opacity) {
@@ -5094,7 +5242,7 @@ class PhotoSwipe extends PhotoSwipeBase {
   mouseDetected() {
     if (!this.hasMouse) {
       this.hasMouse = true;
-      this.template.classList.add('pswp--has_mouse');
+      this.template.classList.add("pswp--has_mouse");
     }
   }
 
@@ -5128,7 +5276,7 @@ class PhotoSwipe extends PhotoSwipeBase {
   setScrollOffset(x, y) {
     this.offset.x = x;
     this.offset.y = y;
-    this.dispatch('updateScrollOffset');
+    this.dispatch("updateScrollOffset");
   }
 
   /**
@@ -5137,15 +5285,15 @@ class PhotoSwipe extends PhotoSwipeBase {
    */
   _createMainStructure() {
     // root DOM element of PhotoSwipe (.pswp)
-    this.template = createElement('pswp');
-    this.template.setAttribute('tabindex', -1);
-    this.template.setAttribute('role', 'dialog');
+    this.template = createElement("pswp");
+    this.template.setAttribute("tabindex", -1);
+    this.template.setAttribute("role", "dialog");
 
     // Background is added as a separate element,
     // as animating opacity is faster than animating rgba()
-    this.bg = createElement('pswp__bg', false, this.template);
-    this.scrollWrap = createElement('pswp__scroll-wrap', false, this.template);
-    this.container = createElement('pswp__container', false, this.scrollWrap);
+    this.bg = createElement("pswp__bg", false, this.template);
+    this.scrollWrap = createElement("pswp__scroll-wrap", false, this.template);
+    this.container = createElement("pswp__container", false, this.scrollWrap);
 
     this.mainScroll.appendHolders();
 
@@ -5155,7 +5303,6 @@ class PhotoSwipe extends PhotoSwipeBase {
     // append to DOM
     (this.options.appendToEl || document.body).appendChild(this.template);
   }
-
 
   /**
    * Get position and dimensions of small thumbnail
@@ -5172,14 +5319,14 @@ class PhotoSwipe extends PhotoSwipeBase {
   }
 
   _prepareOptions(options) {
-    if (window.matchMedia('(prefers-reduced-motion), (update: slow)').matches) {
-      options.showHideAnimationType = 'none';
+    if (window.matchMedia("(prefers-reduced-motion), (update: slow)").matches) {
+      options.showHideAnimationType = "none";
       options.zoomAnimationDuration = 0;
     }
 
     this.options = {
       ...defaultOptions,
-      ...options
+      ...options,
     };
   }
 }

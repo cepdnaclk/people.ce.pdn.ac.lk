@@ -1,79 +1,138 @@
-{%- comment -%}
-Navbar used in every page.
-Contains the logo, home staff students alumni links
-{%- endcomment -%}
+{%- comment -%} Navbar used in every page. Contains the logo, home staff
+students alumni links {%- endcomment -%}
 <div class="container">
-    <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
-        {%- comment -%}
-        logo
-        {%- endcomment -%}
-        <a href="{{ '/' | relative_url }}"
-            class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
-            <span class="fs-4"><img src="{{ '/assets/img/header-logo.png' | relative_url }}" alt=""></span>
-        </a>
+  <header
+    class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom"
+  >
+    {%- comment -%} logo {%- endcomment -%}
+    <a
+      href="{{ '/' | relative_url }}"
+      class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none"
+    >
+      <span class="fs-4"
+        ><img src="{{ '/assets/img/header-logo.png' | relative_url }}" alt=""
+      /></span>
+    </a>
 
-        <ul class="nav nav-pills">
-            {%- comment -%}
-            Home
-            {%- endcomment -%}
-            <li class="nav-item"><a href="{{ site.home }}" class="nav-link">Home</a></li>
-            <li class="nav-item"><a href="{{ '/' | relative_url }}" class="nav-link">People</a></li>
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown"
-                    aria-expanded="false">Staff</a>
-                <ul class="dropdown-menu" aria-labelledby="dropdown01">
-                    <li><a class="dropdown-item d-flex align-items-center gap-2 py-2"
-                            href="{{ '/staff/academic/' | relative_url }}"><span
-                                class="d-inline-block bg-primary rounded-circle"
-                                style="width: .5em; height: .5em;"></span>Academic Staff</a>
-                    </li>
-                    <li><a class="dropdown-item d-flex align-items-center gap-2 py-2"
-                            href="{{ '/staff/past-heads-of-dep/' | relative_url }}"><span
-                                class="d-inline-block bg-primary rounded-circle"
-                                style="width: .5em; height: .5em;"></span>Past Heads of the Department</a>
-                    </li>
-                    <li><a class="dropdown-item d-flex align-items-center gap-2 py-2"
-                            href="{{ '/staff/temporary-academic-staff/' | relative_url }}"><span
-                                class="d-inline-block bg-primary rounded-circle"
-                                style="width: .5em; height: .5em;"></span>Temporary Academic staff</a>
-                    </li>
-                    <li><a class="dropdown-item d-flex align-items-center gap-2 py-2"
-                            href="{{ '/staff/non-academic-staff/' | relative_url }}"><span
-                                class="d-inline-block bg-primary rounded-circle"
-                                style="width: .5em; height: .5em;"></span>Non-Academic Staff</a>
-                    </li>
-                </ul>
-            </li>
-
-            {%- comment -%}
-            students
-            {%- endcomment -%}
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown"
-                    aria-expanded="false">Students</a>
-                <ul class="dropdown-menu" aria-labelledby="dropdown01">
-                    {%- for batch in site.data.students -%}
-                    <li><a class="dropdown-item d-flex align-items-center gap-2 py-2"
-                            href="{{ batch.url | relative_url }}"><span class="d-inline-block bg-primary rounded-circle"
-                                style="width: .5em; height: .5em;"></span>{{ batch.title }}</a>
-                    </li>
-                    {%- endfor -%}
-                    <li><a class="dropdown-item d-flex align-items-center gap-2 py-2" href="{{ '/students/postgraduate/' | relative_url }}"><span class="d-inline-block bg-primary rounded-circle" style="width: .5em; height: .5em;"></span>Postgraduate</a>
-                    </li>
-                </ul>
-            </li>
-
-            {%- comment -%}
-            Alumni
-            {%- endcomment -%}
-            <li class="nav-item"><a href="{{ '/alumni/' | relative_url }}" class="nav-link">Alumni</a></li>
-
-            {%- comment -%}
-            <li class="nav-item"><a href="{{ '/search/' | relative_url }}" class="nav-link">Search</a></li>
-            <li class="nav-item"><a href="{{ '/documentation/' | relative_url }}" class="nav-link">Documentation</a>
-                {%- endcomment -%}
-            </li>
-            <!-- <li class="nav-item"><a href="{{ '/about/' | relative_url }}" class="nav-link">About</a></li> -->
+    <ul class="nav nav-pills">
+      {%- comment -%} Home {%- endcomment -%}
+      <li class="nav-item">
+        <a href="{{ site.home }}" class="nav-link">Home</a>
+      </li>
+      <li class="nav-item">
+        <a href="{{ '/' | relative_url }}" class="nav-link">People</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a
+          class="nav-link dropdown-toggle"
+          href="#"
+          id="dropdown01"
+          data-bs-toggle="dropdown"
+          aria-expanded="false"
+          >Staff</a
+        >
+        <ul class="dropdown-menu" aria-labelledby="dropdown01">
+          <li>
+            <a
+              class="dropdown-item d-flex align-items-center gap-2 py-2"
+              href="{{ '/staff/academic/' | relative_url }}"
+              ><span
+                class="d-inline-block bg-primary rounded-circle"
+                style="width: 0.5em; height: 0.5em"
+              ></span
+              >Academic Staff</a
+            >
+          </li>
+          <li>
+            <a
+              class="dropdown-item d-flex align-items-center gap-2 py-2"
+              href="{{ '/staff/past-heads-of-dep/' | relative_url }}"
+              ><span
+                class="d-inline-block bg-primary rounded-circle"
+                style="width: 0.5em; height: 0.5em"
+              ></span
+              >Past Heads of the Department</a
+            >
+          </li>
+          <li>
+            <a
+              class="dropdown-item d-flex align-items-center gap-2 py-2"
+              href="{{ '/staff/temporary-academic-staff/' | relative_url }}"
+              ><span
+                class="d-inline-block bg-primary rounded-circle"
+                style="width: 0.5em; height: 0.5em"
+              ></span
+              >Temporary Academic staff</a
+            >
+          </li>
+          <li>
+            <a
+              class="dropdown-item d-flex align-items-center gap-2 py-2"
+              href="{{ '/staff/non-academic-staff/' | relative_url }}"
+              ><span
+                class="d-inline-block bg-primary rounded-circle"
+                style="width: 0.5em; height: 0.5em"
+              ></span
+              >Non-Academic Staff</a
+            >
+          </li>
         </ul>
-    </header>
+      </li>
+
+      {%- comment -%} students {%- endcomment -%}
+      <li class="nav-item dropdown">
+        <a
+          class="nav-link dropdown-toggle"
+          href="#"
+          id="dropdown01"
+          data-bs-toggle="dropdown"
+          aria-expanded="false"
+          >Students</a
+        >
+        <ul class="dropdown-menu" aria-labelledby="dropdown01">
+          {%- for batch in site.data.students -%}
+          <li>
+            <a
+              class="dropdown-item d-flex align-items-center gap-2 py-2"
+              href="{{ batch.url | relative_url }}"
+              ><span
+                class="d-inline-block bg-primary rounded-circle"
+                style="width: 0.5em; height: 0.5em"
+              ></span
+              >{{ batch.title }}</a
+            >
+          </li>
+          {%- endfor -%}
+          <li>
+            <a
+              class="dropdown-item d-flex align-items-center gap-2 py-2"
+              href="{{ '/students/postgraduate/' | relative_url }}"
+              ><span
+                class="d-inline-block bg-primary rounded-circle"
+                style="width: 0.5em; height: 0.5em"
+              ></span
+              >Postgraduate</a
+            >
+          </li>
+        </ul>
+      </li>
+
+      {%- comment -%} Alumni {%- endcomment -%}
+      <li class="nav-item">
+        <a href="{{ '/alumni/' | relative_url }}" class="nav-link">Alumni</a>
+      </li>
+
+      {%- comment -%}
+      <li class="nav-item">
+        <a href="{{ '/search/' | relative_url }}" class="nav-link">Search</a>
+      </li>
+      <li class="nav-item">
+        <a href="{{ '/documentation/' | relative_url }}" class="nav-link"
+          >Documentation</a
+        >
+        {%- endcomment -%}
+      </li>
+      <!-- <li class="nav-item"><a href="{{ '/about/' | relative_url }}" class="nav-link">About</a></li> -->
+    </ul>
+  </header>
 </div>

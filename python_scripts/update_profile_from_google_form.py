@@ -5,24 +5,25 @@
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 
 
-import requests
-import os
-import gdown  # pip install gdown
 import json  # to edit _data/exx.json
-import student_profile_page_titles
+import os
 import subprocess  # to run git commands
 from datetime import datetime
-from pytz import timezone
 from os.path import exists
-from PIL import Image  # pip install pillow
 
+import gdown  # pip install gdown
+import requests
+import student_profile_page_titles
+from PIL import Image  # pip install pillow
+from pytz import timezone
 
 # run export GOOGLE_FORM_CSV_LINK="url" to set environment variables
 # file can be found in the drive folder
 # instructions to run the file can be found in the script
-googleFormCSV_link = os.environ['GOOGLE_FORM_CSV_LINK']
-googleFormCSV = requests.get(googleFormCSV_link, headers={
-                             'Cache-Control': 'no-cache'}).text.split("\n")
+googleFormCSV_link = os.environ["GOOGLE_FORM_CSV_LINK"]
+googleFormCSV = requests.get(
+    googleFormCSV_link, headers={"Cache-Control": "no-cache"}
+).text.split("\n")
 
 # Index of the CSV parameters
 TIMESTAMP = 0
@@ -52,10 +53,11 @@ URL_RESEARCHGATE = 22
 i = 0
 if __name__ == "__main__":
     for eachLine in googleFormCSV:
-        studentData = eachLine.replace('\r', '').split(",")
+        studentData = eachLine.replace("\r", "").split(",")
         if len(studentData) != 23:
             print(
-                f"WARNING! Splitted csv is longer/shorter than it should be! {len(studentData)}")
+                f"WARNING! Splitted csv is longer/shorter than it should be! {len(studentData)}"
+            )
             quit()
 
         if ":" not in studentData[TIMESTAMP]:
@@ -67,8 +69,7 @@ if __name__ == "__main__":
         #     continue
 
         # print(studentData)
-        print("Processing: " +
-              studentData[REG_NO] + " " + studentData[FULL_NAME])
+        print("Processing: " + studentData[REG_NO] + " " + studentData[FULL_NAME])
         # get batch and regNo
         batch = studentData[REG_NO].split("/")[1].lower()  # 18 or 02A
         regNo = studentData[REG_NO].split("/")[2]  # 098
@@ -76,13 +77,13 @@ if __name__ == "__main__":
         permalink = f"/students/e{batch}/{regNo}"
 
         # set department and curent affiliation if student
-        if (studentData[STUDENT_OR_ALUMNI] == "An past student / alumni"):
+        if studentData[STUDENT_OR_ALUMNI] == "An past student / alumni":
             department = "Computer Engineering"
-        elif (studentData[DEPARTMENT] == "Department of Computer Engineering"):
+        elif studentData[DEPARTMENT] == "Department of Computer Engineering":
             # if student, google form doesnt take current affiliation
             studentData[CURRENT_AFFILIATION] = "Department of Computer Engineering"
             department = "Computer Engineering"
-        elif (studentData[DEPARTMENT] == "Department of Mechanical Engineering"):
+        elif studentData[DEPARTMENT] == "Department of Mechanical Engineering":
             # if student, google form doesnt take current affiliation
             print("This is a mechanical engineering student")
             studentData[CURRENT_AFFILIATION] = "Department of Mechanical Engineering"
@@ -95,7 +96,7 @@ if __name__ == "__main__":
         location = ",".join(studentData[LOCATION].split(";"))
 
         # check if the file was updated using pull requests after the form was filed
-        file_url = "../"+f"pages/students/e{batch}/e{batch}{regNo}.html"
+        file_url = "../" + f"pages/students/e{batch}/e{batch}{regNo}.html"
 
         existingContentAfterFrontMatter = ""
         if exists(file_url):
@@ -109,21 +110,29 @@ if __name__ == "__main__":
                     else:
                         existingContentAfterFrontMatter += eachLine
                 if threeDashCount == 2:
-                    print("Existing custom HTML found: " +
-                          existingContentAfterFrontMatter)
+                    print(
+                        "Existing custom HTML found: " + existingContentAfterFrontMatter
+                    )
 
             # get last modified time from git log
-            fileLastEditedDateSTR = str(subprocess.run(
-                ['git', 'log', '-1', '--pretty="format:%ci"', file_url], stdout=subprocess.PIPE).stdout)
+            fileLastEditedDateSTR = str(
+                subprocess.run(
+                    ["git", "log", "-1", '--pretty="format:%ci"', file_url],
+                    stdout=subprocess.PIPE,
+                ).stdout
+            )
             firstIndex = fileLastEditedDateSTR.find(":") + 1
-            lastIndex = fileLastEditedDateSTR.find("\"", firstIndex)
+            lastIndex = fileLastEditedDateSTR.find('"', firstIndex)
             fileLastEditedDateSTR = fileLastEditedDateSTR[firstIndex:lastIndex]
             fileLastEditedDate = datetime.strptime(
-                fileLastEditedDateSTR, "%Y-%m-%d %H:%M:%S %z")
+                fileLastEditedDateSTR, "%Y-%m-%d %H:%M:%S %z"
+            )
             googleFormFilledDate = datetime.strptime(
-                studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z")
+                studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z"
+            )
             print(
-                f"fileLastEditedDate: {fileLastEditedDate}, googleFormFilledDate: {googleFormFilledDate}, Difference: {(fileLastEditedDate - googleFormFilledDate).total_seconds()}")
+                f"fileLastEditedDate: {fileLastEditedDate}, googleFormFilledDate: {googleFormFilledDate}, Difference: {(fileLastEditedDate - googleFormFilledDate).total_seconds()}"
+            )
 
             if (fileLastEditedDate - googleFormFilledDate).total_seconds() > 0:
                 print("File was updated after the google form was filled. Skipping...")
@@ -141,13 +150,17 @@ if __name__ == "__main__":
             print(f"Downloading image to {image_path}")
             # print(len(studentData[URL_IMAGE]))
             try:
-                tempImageName = 'image.temp'
-                gdown.download("https://drive.google.com/uc?id=" +
-                               studentData[URL_IMAGE].split("=")[1].strip(), "./" + tempImageName, quiet=True)
+                tempImageName = "image.temp"
+                gdown.download(
+                    "https://drive.google.com/uc?id="
+                    + studentData[URL_IMAGE].split("=")[1].strip(),
+                    "./" + tempImageName,
+                    quiet=True,
+                )
                 image = Image.open(tempImageName)
                 image.save("../" + image_path)
                 isImageDownloaded = True
-                os.system("rm '"+tempImageName + "'")
+                os.system("rm '" + tempImageName + "'")
 
                 # alternative to gdown
                 # os.system(
@@ -159,7 +172,7 @@ if __name__ == "__main__":
             print("Image not specified")
 
         # add # to all empty fields
-        for i in range(0, URL_IMAGE+1):
+        for i in range(0, URL_IMAGE + 1):
             if studentData[i] == "":
                 studentData[i] = "#"
 
@@ -196,7 +209,9 @@ url_twitter: {studentData[URL_TWITTER]}
 interests: \"{interests}\"
 
 image_url: {image_path}
----"""
+---
+
+"""
 
         os.makedirs(os.path.dirname(file_url), exist_ok=True)
         htmlFile = open(file_url, "w")
@@ -213,11 +228,14 @@ image_url: {image_path}
             try:
                 thisStudent = dataInJSON[studentData[REG_NO].upper()]
             except KeyError as e:
-                print("Student doesnt exist in the json files. Creating new entry", "*"*20)
+                print(
+                    "Student doesnt exist in the json files. Creating new entry",
+                    "*" * 20,
+                )
                 dataInJSON[studentData[REG_NO].upper()] = {}
                 thisStudent = dataInJSON[studentData[REG_NO].upper()]
-                thisStudent['reg_no'] = studentData[REG_NO].upper()
-                
+                thisStudent["reg_no"] = studentData[REG_NO].upper()
+
                 # reorder the dict
                 dataInJSON = dict(sorted(dataInJSON.items()))
 
