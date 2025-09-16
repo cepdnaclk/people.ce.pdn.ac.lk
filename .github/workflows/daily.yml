@@ -72,6 +72,12 @@ jobs:
           ref: main
           fetch-depth: 0
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
@@ -93,6 +99,13 @@ jobs:
           cd ./python_scripts
           python3 update_publications.py
           cd ../
+
+      - name: Format files
+        run: |
+          npm install --global prettier
+          prettier --write "**/*.{js,json,md,yml,yaml,html,css,scss}" \
+            --config .prettierrc.json \
+            --ignore-path .prettierignore
 
       - name: Commit and push changes
         run: |

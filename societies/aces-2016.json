@@ -1,60 +1,60 @@
 {
-    "title": "ACES Committee 2016",
-    "tag": "aces-2016",
-    "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2016",
-    "image": "images/badges/aces.png",
-    "show_in_profile": "false",
-    "criteria": "",
-    "students":[
-        {
-            "name": "A.S.P. Athukorala",
-            "eNumber": "E/11/024",
-            "position": "President"
-        },
-        {
-            "name": "R.M.L.S. Bandara",
-            "eNumber": "E/11/044",
-            "position": "Vice President"
-        },
-        {
-            "name": "G.B. Wijesinghe",
-            "eNumber": "E/12/391",
-            "position": "Secretary"
-        },
-        {
-            "name": "S.I. Rajapaksha",
-            "eNumber": "E/12/278",
-            "position": "Junior Treasurer"
-        },
-        {
-            "name": "S.S. Wijerathne",
-            "eNumber": "E/11/452",
-            "position": "Editor"
-        },
-        {
-            "name": "Prasanna Rodrigo",
-            "eNumber": "E/11/343",
-            "position": "Committee Member"
-        },
-        {
-            "name": "N.M. Amarasinghe",
-            "eNumber": "E/11/019",
-            "position": "Committee Member"
-        },
-        {
-            "name": "J.C. Samarasinghe",
-            "eNumber": "E/11/353",
-            "position": "Committee Member"
-        },
-        {
-            "name": "I.R.S.V.Ihalagama",
-            "eNumber": "E/12/130",
-            "position": "Committee Member"
-        },
-        {
-            "name": "U.P. Balasuriya",
-            "eNumber": "E/12/026",
-            "position": "Committee Member"
-        }
-    ]
+  "title": "ACES Committee 2016",
+  "tag": "aces-2016",
+  "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2016",
+  "image": "images/badges/aces.png",
+  "show_in_profile": "false",
+  "criteria": "",
+  "students": [
+    {
+      "name": "A.S.P. Athukorala",
+      "eNumber": "E/11/024",
+      "position": "President"
+    },
+    {
+      "name": "R.M.L.S. Bandara",
+      "eNumber": "E/11/044",
+      "position": "Vice President"
+    },
+    {
+      "name": "G.B. Wijesinghe",
+      "eNumber": "E/12/391",
+      "position": "Secretary"
+    },
+    {
+      "name": "S.I. Rajapaksha",
+      "eNumber": "E/12/278",
+      "position": "Junior Treasurer"
+    },
+    {
+      "name": "S.S. Wijerathne",
+      "eNumber": "E/11/452",
+      "position": "Editor"
+    },
+    {
+      "name": "Prasanna Rodrigo",
+      "eNumber": "E/11/343",
+      "position": "Committee Member"
+    },
+    {
+      "name": "N.M. Amarasinghe",
+      "eNumber": "E/11/019",
+      "position": "Committee Member"
+    },
+    {
+      "name": "J.C. Samarasinghe",
+      "eNumber": "E/11/353",
+      "position": "Committee Member"
+    },
+    {
+      "name": "I.R.S.V.Ihalagama",
+      "eNumber": "E/12/130",
+      "position": "Committee Member"
+    },
+    {
+      "name": "U.P. Balasuriya",
+      "eNumber": "E/12/026",
+      "position": "Committee Member"
+    }
+  ]
 }

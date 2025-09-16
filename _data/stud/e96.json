@@ -1,98 +1,98 @@
 {
-    "E/96/005": {
-        "reg_no": "E/96/005",
-        "name_with_initials": "Thushara Sampath Abeysooriya",
-        "image_url": "images/students/default.jpg",
-        "page_url": "/students/e96/005/"
-    },
-    "E/96/021": {
-        "reg_no": "E/96/021",
-        "name_with_initials": "M. Hassan Anver",
-        "image_url": "images/students/default.jpg",
-        "page_url": "/students/e96/021/"
-    },
-    "E/96/030": {
-        "reg_no": "E/96/030",
-        "name_with_initials": "Kanesamoorthy Balakumar",
-        "image_url": "images/students/default.jpg",
-        "page_url": "/students/e96/030/"
-    },
-    "E/96/037": {
-        "reg_no": "E/96/037",
-        "name_with_initials": "Asitha Bandaranayake",
-        "image_url": "images/staff/academic-staff/asitha-bandaranayake.jpg",
-        "page_url": "/students/e96/037/"
-    },
-    "E/96/038": {
-        "reg_no": "E/96/038",
-        "name_with_initials": "Namal Bandaranayake",
-        "image_url": "images/students/default.jpg",
-        "page_url": "/students/e96/038/"
-    },
-    "E/96/131": {
-        "reg_no": "E/96/131",
-        "name_with_initials": "Krishanthmohan Ratnam",
-        "image_url": "images/students/default.jpg",
-        "page_url": "/students/e96/131/"
-    },
-    "E/96/153": {
-        "reg_no": "E/96/153",
-        "name_with_initials": "Roshan Lenagala",
-        "image_url": "images/students/default.jpg",
-        "page_url": "/students/e96/153/"
-    },
-    "E/96/177": {
-        "reg_no": "E/96/177",
-        "name_with_initials": "Rasiah Nanthakumar",
-        "image_url": "images/students/default.jpg",
-        "page_url": "/students/e96/177/"
-    },
-    "E/96/190": {
-        "reg_no": "E/96/190",
-        "name_with_initials": "Chaminda Peiris",
-        "image_url": "images/students/default.jpg",
-        "page_url": "/students/e96/190/"
-    },
-    "E/96/204": {
-        "reg_no": "E/96/204",
-        "name_with_initials": "Roshan Ragel",
-        "image_url": "images/staff/academic-staff/roshan-ragel.jpg",
-        "page_url": "/students/e96/204/"
-    },
-    "E/96/205": {
-        "reg_no": "E/96/205",
-        "name_with_initials": "Arunasalam Rahunanthan",
-        "image_url": "images/students/default.jpg",
-        "page_url": "/students/e96/205/"
-    },
-    "E/96/264": {
-        "reg_no": "E/96/264",
-        "name_with_initials": "Suganthan Vallipuram",
-        "image_url": "images/students/default.jpg",
-        "page_url": "/students/e96/264/"
-    },
-    "E/96/277": {
-        "reg_no": "E/96/277",
-        "name_with_initials": "Sinnathamby Sutharman",
-        "image_url": "images/students/default.jpg",
-        "page_url": "/students/e96/277/"
-    },
-    "E/96/279": {
-        "reg_no": "E/96/279",
-        "name_with_initials": "Sutharsan Sivagnanam",
-        "image_url": "images/students/default.jpg",
-        "page_url": "/students/e96/279/"
-    },
-    "E/96/297": {
-        "reg_no": "E/96/297",
-        "name_with_initials": "Suhanthan Vanniyasingam",
-        "image_url": "images/students/default.jpg",
-        "page_url": "/students/e96/297/"
-    },
-    "E/96/301": {
-        "reg_no": "E/96/301",
-        "name_with_initials": "Chamila Walgampaya",
-        "image_url": "images/students/default.jpg",
-        "page_url": "/students/e96/301/"
-    }
+  "E/96/005": {
+    "reg_no": "E/96/005",
+    "name_with_initials": "Thushara Sampath Abeysooriya",
+    "image_url": "images/students/default.jpg",
+    "page_url": "/students/e96/005/"
+  },
+  "E/96/021": {
+    "reg_no": "E/96/021",
+    "name_with_initials": "M. Hassan Anver",
+    "image_url": "images/students/default.jpg",
+    "page_url": "/students/e96/021/"
+  },
+  "E/96/030": {
+    "reg_no": "E/96/030",
+    "name_with_initials": "Kanesamoorthy Balakumar",
+    "image_url": "images/students/default.jpg",
+    "page_url": "/students/e96/030/"
+  },
+  "E/96/037": {
+    "reg_no": "E/96/037",
+    "name_with_initials": "Asitha Bandaranayake",
+    "image_url": "images/staff/academic-staff/asitha-bandaranayake.jpg",
+    "page_url": "/students/e96/037/"
+  },
+  "E/96/038": {
+    "reg_no": "E/96/038",
+    "name_with_initials": "Namal Bandaranayake",
+    "image_url": "images/students/default.jpg",
+    "page_url": "/students/e96/038/"
+  },
+  "E/96/131": {
+    "reg_no": "E/96/131",
+    "name_with_initials": "Krishanthmohan Ratnam",
+    "image_url": "images/students/default.jpg",
+    "page_url": "/students/e96/131/"
+  },
+  "E/96/153": {
+    "reg_no": "E/96/153",
+    "name_with_initials": "Roshan Lenagala",
+    "image_url": "images/students/default.jpg",
+    "page_url": "/students/e96/153/"
+  },
+  "E/96/177": {
+    "reg_no": "E/96/177",
+    "name_with_initials": "Rasiah Nanthakumar",
+    "image_url": "images/students/default.jpg",
+    "page_url": "/students/e96/177/"
+  },
+  "E/96/190": {
+    "reg_no": "E/96/190",
+    "name_with_initials": "Chaminda Peiris",
+    "image_url": "images/students/default.jpg",
+    "page_url": "/students/e96/190/"
+  },
+  "E/96/204": {
+    "reg_no": "E/96/204",
+    "name_with_initials": "Roshan Ragel",
+    "image_url": "images/staff/academic-staff/roshan-ragel.jpg",
+    "page_url": "/students/e96/204/"
+  },
+  "E/96/205": {
+    "reg_no": "E/96/205",
+    "name_with_initials": "Arunasalam Rahunanthan",
+    "image_url": "images/students/default.jpg",
+    "page_url": "/students/e96/205/"
+  },
+  "E/96/264": {
+    "reg_no": "E/96/264",
+    "name_with_initials": "Suganthan Vallipuram",
+    "image_url": "images/students/default.jpg",
+    "page_url": "/students/e96/264/"
+  },
+  "E/96/277": {
+    "reg_no": "E/96/277",
+    "name_with_initials": "Sinnathamby Sutharman",
+    "image_url": "images/students/default.jpg",
+    "page_url": "/students/e96/277/"
+  },
+  "E/96/279": {
+    "reg_no": "E/96/279",
+    "name_with_initials": "Sutharsan Sivagnanam",
+    "image_url": "images/students/default.jpg",
+    "page_url": "/students/e96/279/"
+  },
+  "E/96/297": {
+    "reg_no": "E/96/297",
+    "name_with_initials": "Suhanthan Vanniyasingam",
+    "image_url": "images/students/default.jpg",
+    "page_url": "/students/e96/297/"
+  },
+  "E/96/301": {
+    "reg_no": "E/96/301",
+    "name_with_initials": "Chamila Walgampaya",
+    "image_url": "images/students/default.jpg",
+    "page_url": "/students/e96/301/"
+  }
 }

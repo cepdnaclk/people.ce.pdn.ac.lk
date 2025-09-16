@@ -121,8 +121,8 @@ if __name__ == "__main__":
         outputString = f"""---
 layout: postgraduateDetails
 permalink: "{permalink}"
-title: {studentData[NAME_WITH_INITIALS]}
-index_in_card_list: {int(elapsedTimeFromTheStartOfTime)}
+title: "{studentData[NAME_WITH_INITIALS]}"
+index_in_card_list: "{int(elapsedTimeFromTheStartOfTime)}"
 
 reg_no: "{reg_number}"
 name_with_initials: "{studentData[NAME_WITH_INITIALS]}"

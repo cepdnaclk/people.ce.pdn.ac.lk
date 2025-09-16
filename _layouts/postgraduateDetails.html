@@ -2,212 +2,194 @@
 layout: default
 ---
 
-{%- comment -%}
-This layout is for creating the single page containing the details of each student
-
-sample frontmatter,
----
-layout: postgraduateDetails
-permalink: "/students/postgraduate/098/"
-title: K.A.I. Fernando
-
-reg_no: E/18/098
-name_with_initials: K.A.I. Fernando
-email: e18098@eng.pdn.ac.lk
-url_website: something
-degree: degree1
-mode_of_study: modeofstudy1
-research_topic: research topic 1
-
-image_url: "images/students/e18/e18098.jpg"
----
-
-NOTES:
-1) if url = # it will show N/A, for everything else it will show the View button
-{%- endcomment -%}
-
-
-{%- comment -%}
-breadcrumb
-{%- endcomment -%}
+{%- comment -%} This layout is for creating the single page containing the details of each student
+sample frontmatter, --- layout: postgraduateDetails permalink: "/students/postgraduate/098/" title:
+K.A.I. Fernando reg_no: E/18/098 name_with_initials: K.A.I. Fernando email: e18098@eng.pdn.ac.lk
+url_website: something degree: degree1 mode_of_study: modeofstudy1 research_topic: research topic 1
+image_url: "images/students/e18/e18098.jpg" --- NOTES: 1) if url = # it will show N/A, for
+everything else it will show the View button {%- endcomment -%} {%- comment -%} breadcrumb {%-
+endcomment -%}
 <main class="container">
-    <div class="bg-secondary p-3 pb-1 rounded">
-        <!-- <h1 class="text-white">Student Details</h1> -->
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
-                <li class="breadcrumb-item"><a href="{{ '/students/postgraduate/' | relative_url }}"
-                        class="link-light">Postgraduate Students</a></li>
-                <li class="breadcrumb-item text-white">
-                    {{page.name_with_initials}}
-                </li>
-            </ol>
-        </nav>
-    </div>
+  <div class="bg-secondary p-3 pb-1 rounded">
+    <!-- <h1 class="text-white">Student Details</h1> -->
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="{{ site.home }}" class="link-light">Home</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="{{ '/' | relative_url }}" class="link-light">People</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="{{ '/students/postgraduate/' | relative_url }}" class="link-light">
+            Postgraduate Students
+          </a>
+        </li>
+        <li class="breadcrumb-item text-white">{{page.name_with_initials}}</li>
+      </ol>
+    </nav>
+  </div>
 </main>
 
 <div class="container pt-4">
-    <div class="row gutters-sm ">
-        <div class="col-md-4 mb-3">
-            <div class="card">
-                <div class="card-body">
-                    <div class="d-flex flex-column align-items-center text-center">
-                        {%- comment -%}
-                        Image
-                        {%- endcomment -%}
-                        {% if page.image_url %}
-                        <img src="{{ page.image_url | relative_url}}" alt="image" style="border-radius: 10%"
-                            width="250">
-                        {% else %}
-                        <img src="{{ 'images/students/default.jpg' | relative_url}}" alt="image"
-                            style="border-radius: 10%" width="175">
-                        {% endif %}
-
-                        <div class="mt-2">
-                            <h4>
-                                {{page.name_with_initials}}
-                            </h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            {% if page.url_website %}
-            <div class="card mt-3">
-                <ul class="list-group list-group-flush">
-                    <!-- Website -->
-
-                    <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                        <h6 class="mb-0"> <i class="fas fa-globe"></i> Website</h6>
-                        {% if page.url_website %}
-                        <span class="text-secondary"> <a href="{{page.url_website}}" target="_blank"><button
-                                    type="button" class="btn btn-outline-primary btn-sm">View</button></a></span>
-                        {% else %}
-                        <span class="text-secondary"> N/A</span>
-                        {% endif %}
-                    </li>
-
-                </ul>
-            </div>
+  <div class="row gutters-sm">
+    <div class="col-md-4 mb-3">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex flex-column align-items-center text-center">
+            {%- comment -%} Image {%- endcomment -%} {% if page.image_url %}
+            <img
+              src="{{ page.image_url | relative_url}}"
+              alt="image"
+              style="border-radius: 10%"
+              width="250"
+            />
+            {% else %}
+            <img
+              src="{{ 'images/students/default.jpg' | relative_url}}"
+              alt="image"
+              style="border-radius: 10%"
+              width="175"
+            />
             {% endif %}
-        </div>
-        <div class="col-md-8">
-            <div class="card mb-3">
-                <div class="card-body">
-                    <!-- full name -->
-                    {% if page.name_with_initials %}
-                    <div class="row">
-                        <div class="col-sm-3">
-                            <span class="mb-0" style="font-weight: 500">Full Name</span>
-                        </div>
-                        <div class="col-sm-9 text-secondary">
-                            {{page.name_with_initials}}
-                        </div>
-                    </div>
-                    <hr>
-                    {% endif %}
 
-                    <!-- reg number -->
-                    <div class="row">
-                        <div class="col-sm-3">
-                            <span class="mb-0" style="font-weight: 500">Registration Number</span>
-                        </div>
-                        <div class="col-sm-9 text-secondary">
-                            {{page.reg_no}}
-                        </div>
-                    </div>
-                    <hr>
-
-                    <!-- email -->
-                    {% if page.email %}
-                    <div class="row">
-                        <div class="col-sm-3">
-                            <span class="mb-0" style="font-weight: 500">Email</span>
-                        </div>
-                        <div class="col-sm-9 text-secondary">
-                            {% include email_reveal.html email=page.email %}
-                        </div>
-                    </div>
-                    <hr>
-                    {% endif %}
-
-                    <!-- degree -->
-                    {% if page.degree %}
-                    <div class="row">
-                        <div class="col-sm-3">
-                            <span class="mb-0" style="font-weight: 500">Degree</span>
-                        </div>
-                        <div class="col-sm-9 text-secondary">
-                            {{page.degree}}
-                        </div>
-                    </div>
-                    <hr>
-                    {% endif %}
-
-                    <!-- mode_of_study -->
-                    {% if page.mode_of_study %}
-                    <div class="row">
-                        <div class="col-sm-3">
-                            <span class="mb-0" style="font-weight: 500">Mode of Study</span>
-                        </div>
-                        <div class="col-sm-9 text-secondary">
-                            {{page.mode_of_study}}
-                        </div>
-                    </div>
-                    <hr>
-                    {% endif %}
-
-                    <!-- research_topic -->
-                    {% if page.research_topic %}
-                    <div class="row">
-                        <div class="col-sm-3">
-                            <span class="mb-0" style="font-weight: 500">Research Topic</span>
-                        </div>
-                        <div class="col-sm-9 text-secondary">
-                            {{page.research_topic}}
-                        </div>
-                    </div>
-                    {% endif %}
-                </div>
+            <div class="mt-2">
+              <h4>{{page.name_with_initials}}</h4>
             </div>
-
-            <!-- Publications -->
-            {%- assign publications = site.data.postgraduate_publications[page.email] -%}
-            {%- assign pub_count = publications | size -%}
-            {% if pub_count > 0 %}
-            <div class="card mt-3">
-                <div class="card-header" style="font-weight: 500">Publications</div>
-                <div class="card-body mx-2 p-3">
-                    <div class="row px-3">
-                        <ul>
-                            {%- for p in publications -%}
-                            <li>
-                                {%- include publicationCard.html data=p title=p.title path=page.path -%}
-                            </li>
-                            {%- endfor -%}
-                        </ul>
-
-                    </div>
-                    <div class="row">
-                        <hr>
-                        <p class="text-muted small">
-                            Please note that here only contain the <i>'Publications'</i> affiliated with the
-                            <i>Department of Computer Engineering</i>. To see the full publication profile, visit the
-                            {%- if page.url_researchgate -%}
-                            <span> <a href="{{ page.url_researchgate }}" target="_blank">ResearchGate</a> </span>
-                            {%- else -%}
-                            <span> ResearchGate </span>
-                            {%- endif -%} or Google Scholar profile of the student.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            {%- endif -%}
-
-            <br>
-            <br>
-            {{content}}
+          </div>
         </div>
+      </div>
+
+      {% if page.url_website %}
+      <div class="card mt-3">
+        <ul class="list-group list-group-flush">
+          <!-- Website -->
+
+          <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
+            <h6 class="mb-0">
+              <i class="fas fa-globe"></i>
+              Website
+            </h6>
+            {% if page.url_website %}
+            <span class="text-secondary">
+              <a href="{{page.url_website}}" target="_blank">
+                <button type="button" class="btn btn-outline-primary btn-sm">View</button>
+              </a>
+            </span>
+            {% else %}
+            <span class="text-secondary">N/A</span>
+            {% endif %}
+          </li>
+        </ul>
+      </div>
+      {% endif %}
     </div>
+    <div class="col-md-8">
+      <div class="card mb-3">
+        <div class="card-body">
+          <!-- full name -->
+          {% if page.name_with_initials %}
+          <div class="row">
+            <div class="col-sm-3">
+              <span class="mb-0" style="font-weight: 500">Full Name</span>
+            </div>
+            <div class="col-sm-9 text-secondary">{{page.name_with_initials}}</div>
+          </div>
+          <hr />
+          {% endif %}
+
+          <!-- reg number -->
+          <div class="row">
+            <div class="col-sm-3">
+              <span class="mb-0" style="font-weight: 500">Registration Number</span>
+            </div>
+            <div class="col-sm-9 text-secondary">{{page.reg_no}}</div>
+          </div>
+          <hr />
+
+          <!-- email -->
+          {% if page.email %}
+          <div class="row">
+            <div class="col-sm-3">
+              <span class="mb-0" style="font-weight: 500">Email</span>
+            </div>
+            <div class="col-sm-9 text-secondary">
+              {% include email_reveal.html email=page.email %}
+            </div>
+          </div>
+          <hr />
+          {% endif %}
+
+          <!-- degree -->
+          {% if page.degree %}
+          <div class="row">
+            <div class="col-sm-3">
+              <span class="mb-0" style="font-weight: 500">Degree</span>
+            </div>
+            <div class="col-sm-9 text-secondary">{{page.degree}}</div>
+          </div>
+          <hr />
+          {% endif %}
+
+          <!-- mode_of_study -->
+          {% if page.mode_of_study %}
+          <div class="row">
+            <div class="col-sm-3">
+              <span class="mb-0" style="font-weight: 500">Mode of Study</span>
+            </div>
+            <div class="col-sm-9 text-secondary">{{page.mode_of_study}}</div>
+          </div>
+          <hr />
+          {% endif %}
+
+          <!-- research_topic -->
+          {% if page.research_topic %}
+          <div class="row">
+            <div class="col-sm-3">
+              <span class="mb-0" style="font-weight: 500">Research Topic</span>
+            </div>
+            <div class="col-sm-9 text-secondary">{{page.research_topic}}</div>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+
+      <!-- Publications -->
+      {%- assign publications = site.data.postgraduate_publications[page.email] -%} {%- assign
+      pub_count = publications | size -%} {% if pub_count > 0 %}
+      <div class="card mt-3">
+        <div class="card-header" style="font-weight: 500">Publications</div>
+        <div class="card-body mx-2 p-3">
+          <div class="row px-3">
+            <ul>
+              {%- for p in publications -%}
+              <li>{%- include publicationCard.html data=p title=p.title path=page.path -%}</li>
+              {%- endfor -%}
+            </ul>
+          </div>
+          <div class="row">
+            <hr />
+            <p class="text-muted small">
+              Please note that here only contain the
+              <i>'Publications'</i>
+              affiliated with the
+              <i>Department of Computer Engineering</i>
+              . To see the full publication profile, visit the {%- if page.url_researchgate -%}
+              <span>
+                <a href="{{ page.url_researchgate }}" target="_blank">ResearchGate</a>
+              </span>
+              {%- else -%}
+              <span>ResearchGate</span>
+              {%- endif -%} or Google Scholar profile of the student.
+            </p>
+          </div>
+        </div>
+      </div>
+      {%- endif -%}
+
+      <br />
+      <br />
+      {{content}}
+    </div>
+  </div>
 </div>

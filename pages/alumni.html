@@ -3,27 +3,33 @@ layout: default
 permalink: /alumni/
 title: Alumni
 ---
+
 <!-- breadcrumb -->
 <main class="container">
-    <div class="bg-secondary p-3 pb-1 rounded">
-        <h1 class="text-white">Alumni</h1>
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
-                <li class="breadcrumb-item active text-white" aria-current="page"> Alumni</li>
-            </ol>
-        </nav>
-    </div>
+  <div class="bg-secondary p-3 pb-1 rounded">
+    <h1 class="text-white">Alumni</h1>
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="{{ site.home }}" class="link-light">Home</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="{{ '/' | relative_url }}" class="link-light">People</a>
+        </li>
+        <li class="breadcrumb-item active text-white" aria-current="page">Alumni</li>
+      </ol>
+    </nav>
+  </div>
 </main>
 
 <!-- buttons for pages -->
 <div class="container py-4 px-lg-5">
-    <div class="row justify-content-center">
-        <!-- content taken from _data/alumni.json -->
-        {%- for batch in site.data.alumini -%}
-        <a class="btn btn-outline-primary w-25  m-2" href="{{ batch.url | relative_url }}">{{
-            batch.title }}</a>
-        {%- endfor -%}
-    </div>
+  <div class="row justify-content-center">
+    <!-- content taken from _data/alumni.json -->
+    {%- for batch in site.data.alumini -%}
+    <a class="btn btn-outline-primary w-25 m-2" href="{{ batch.url | relative_url }}">
+      {{ batch.title }}
+    </a>
+    {%- endfor -%}
+  </div>
 </div>

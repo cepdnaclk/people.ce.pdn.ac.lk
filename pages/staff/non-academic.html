@@ -35,10 +35,7 @@ title: Non-Academic Staff
 
     <!-- Compare the left date with today -->
     {%- if each.left_date == "" or left_date > today_date -%}
-    <div
-      class="container card text-center p-2 border-primary m-1"
-      style="width: 14rem"
-    >
+    <div class="container card text-center p-2 border-primary m-1" style="width: 14rem">
       <img
         src="{{ each.url_image | relative_url }}"
         style="border-radius: 7%"
@@ -51,22 +48,14 @@ title: Non-Academic Staff
         <div class="d-flex flex-row justify-content-center mt-auto">
           <!-- Email -->
           {% if each.email != "" %}
-          <a
-            class="btn btn-link"
-            href="mailto:{{ each.email }}"
-            target="_blank"
-          >
+          <a class="btn btn-link" href="mailto:{{ each.email }}" target="_blank">
             <i class="fas fa-lg fa-envelope"></i>
           </a>
           {% endif %}
 
           <!-- Telephone -->
           {% if each.contact_number %}
-          <a
-            class="btn btn-link"
-            href="tel:{{ each.contact_number }}"
-            target="_blank"
-          >
+          <a class="btn btn-link" href="tel:{{ each.contact_number }}" target="_blank">
             <i class="fas fa-lg fa-phone"></i>
           </a>
           {% endif %}
@@ -86,10 +75,7 @@ title: Non-Academic Staff
 
     <!-- Compare the left date with today -->
     {%- if left_date != "" and left_date < today_date -%}
-    <div
-      class="container card text-center p-2 border-primary m-1"
-      style="width: 14rem"
-    >
+    <div class="container card text-center p-2 border-primary m-1" style="width: 14rem">
       <img
         src="{{ each.url_image | relative_url }}"
         style="border-radius: 7%"

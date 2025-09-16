@@ -1,53 +1,72 @@
 {%- if include.badge_details.show == "true" -%}
 
-<div class="card mb-2" data-bs-toggle="modal" data-bs-target="#{{ badge.tag }}" data-bs-toggle-tooltip="tooltip">
-    <div class="row g-0">
-        <div class="col-3 d-flex justify-content-center">
-            <img class="badge-image align-self-center" src="{{ include.badge_details.image | relative_url }}"
-                alt="{{ include.badge_details.title }}">
-        </div>
-        <div class="col-9">
-            <div class="card-body">
-                <h6 class="card-title">{{ include.badge_details.title }}</h6>
-                <p class="card-text">{{ include.position | markdownify }}</p>
-            </div>
-        </div>
+<div
+  class="card mb-2"
+  data-bs-toggle="modal"
+  data-bs-target="#{{ badge.tag }}"
+  data-bs-toggle-tooltip="tooltip"
+>
+  <div class="row g-0">
+    <div class="col-3 d-flex justify-content-center">
+      <img
+        class="badge-image align-self-center"
+        src="{{ include.badge_details.image | relative_url }}"
+        alt="{{ include.badge_details.title }}"
+      />
     </div>
+    <div class="col-9">
+      <div class="card-body">
+        <h6 class="card-title">{{ include.badge_details.title }}</h6>
+        <p class="card-text">{{ include.position | markdownify }}</p>
+      </div>
+    </div>
+  </div>
 </div>
 
 <!-- Modal -->
-<div class="modal fade" id="{{ badge.tag }}" tabindex="-1" aria-labelledby="{{ include.badge_details.title }}"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title">
-                    {{ include.badge_details.title }}
-                    {%- if p.subtitle != "" -%}
-                    <small class="text-muted ms-1">({{ include.badge_details.subtitle }})</small>
-                    {%- endif -%}
-                </h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <div class="row ">
-                    <div class="col-3 d-flex align-items-center">
-                        <img class="img-fluid" src="{{ include.badge_details.image | relative_url }}"
-                            alt="{{ include.badge_details.title }}">
-                    </div>
-                    <div class="col-9">
-                        {{ include.position | markdownify }}
-                        <hr>
-                        {{ include.badge_details.description | markdownify }}
-                    </div>
-                </div>
-
-            </div>
-            <div class="modal-footer">
-                <a href="{{ include.badge_details.page | relative_url }}" type="button" class="btn btn-primary">See
-                    more</a>
-            </div>
+<div
+  class="modal fade"
+  id="{{ badge.tag }}"
+  tabindex="-1"
+  aria-labelledby="{{ include.badge_details.title }}"
+  aria-hidden="true"
+>
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">
+          {{ include.badge_details.title }} {%- if p.subtitle != "" -%}
+          <small class="text-muted ms-1">({{ include.badge_details.subtitle }})</small>
+          {%- endif -%}
+        </h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-3 d-flex align-items-center">
+            <img
+              class="img-fluid"
+              src="{{ include.badge_details.image | relative_url }}"
+              alt="{{ include.badge_details.title }}"
+            />
+          </div>
+          <div class="col-9">
+            {{ include.position | markdownify }}
+            <hr />
+            {{ include.badge_details.description | markdownify }}
+          </div>
         </div>
+      </div>
+      <div class="modal-footer">
+        <a
+          href="{{ include.badge_details.page | relative_url }}"
+          type="button"
+          class="btn btn-primary"
+        >
+          See more
+        </a>
+      </div>
     </div>
+  </div>
 </div>
 {%- endif -%}

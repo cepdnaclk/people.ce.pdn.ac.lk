@@ -1,0 +1,10 @@
+**/node_modules/**
+**/dist/**
+_site/**
+_layouts/vendor/**
+.jekyll-cache/**
+.mypy_cache/**
+.venv/**
+api/**
+pages/search/advanced-search/**
+pages/search/search.json

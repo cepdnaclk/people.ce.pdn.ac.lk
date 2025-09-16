@@ -1,42 +1,76 @@
 <!-- <a> Edit this Page </a> -->
-{%- comment -%}
-Edit button
-{%- endcomment -%}
-<a href="#" id="editBtn" class="cd-top text-replace js-cd-top cd-top cd-top--fade-out bottomButtons0" rel="noreferrer" target="_blank" data-bs-toggle="modal" data-bs-target="#studentEditModel"></a>
+{%- comment -%} Edit button {%- endcomment -%}
+<a
+  href="#"
+  id="editBtn"
+  class="cd-top text-replace js-cd-top cd-top cd-top--fade-out bottomButtons0"
+  rel="noreferrer"
+  target="_blank"
+  data-bs-toggle="modal"
+  data-bs-target="#studentEditModel"
+></a>
 
 <!-- Edit Modal -->
-<br>
-<div class="modal fade" id="studentEditModel" tabindex="-1" aria-labelledby="editModelLable" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="editModelLable">Edit Student Profile Information</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <h5>Profile</h5>
-                <p>
-                    Option 1: <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/{{ include.path }}" rel="noreferrer" target="_blank">Edit this page on GitHub</a> <br>
-                    Option 2: <a href="{{ '/form/unified' | relative_url }}" target="_blank">Update by filling a Google Form</a>
-                </p>
-                <p class="text-muted small">Only use one option from above</p>
-                <hr>
+<br />
+<div
+  class="modal fade"
+  id="studentEditModel"
+  tabindex="-1"
+  aria-labelledby="editModelLable"
+  aria-hidden="true"
+>
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="editModelLable">Edit Student Profile Information</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <h5>Profile</h5>
+        <p>
+          Option 1:
+          <a
+            href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/{{ include.path }}"
+            rel="noreferrer"
+            target="_blank"
+          >
+            Edit this page on GitHub
+          </a>
+          <br />
+          Option 2:
+          <a href="{{ '/form/unified' | relative_url }}" target="_blank">
+            Update by filling a Google Form
+          </a>
+        </p>
+        <p class="text-muted small">Only use one option from above</p>
+        <hr />
 
-                <h5>Projects</h5>
-                <p>
-                    You need to add your project to <a href="https://projects.ce.pdn.ac.lk/" target="_blank">https://projects.ce.pdn.ac.lk/</a>. Read the guideline in <a href="https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project/" target="_blank">here</a> about it.
-                </p>
-                <hr>
+        <h5>Projects</h5>
+        <p>
+          You need to add your project to
+          <a href="https://projects.ce.pdn.ac.lk/" target="_blank">
+            https://projects.ce.pdn.ac.lk/
+          </a>
+          . Read the guideline in
+          <a href="https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project/" target="_blank">
+            here
+          </a>
+          about it.
+        </p>
+        <hr />
 
-                <h5>Publications</h5>
-                <p>
-                    You need to submit your publications (Only department affiliated and peer-reviewed publications) through this <a href="https://forms.gle/rT6Bt8JPzoMz4qGM9" target="_blank">Google Form</a>.
-                </p>
-
-            </div>
-            <div class="modal-footer text-muted small">
-                The content update is fully automated and will take upto 3 days based on the submitted time and Site Build Schedule.
-            </div>
-        </div>
+        <h5>Publications</h5>
+        <p>
+          You need to submit your publications (Only department affiliated and peer-reviewed
+          publications) through this
+          <a href="https://forms.gle/rT6Bt8JPzoMz4qGM9" target="_blank">Google Form</a>
+          .
+        </p>
+      </div>
+      <div class="modal-footer text-muted small">
+        The content update is fully automated and will take upto 3 days based on the submitted time
+        and Site Build Schedule.
+      </div>
     </div>
+  </div>
 </div>

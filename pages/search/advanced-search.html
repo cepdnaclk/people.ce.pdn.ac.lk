@@ -5,27 +5,52 @@ permalink: /search/
 
 <!-- breadcrumb -->
 <main class="container">
-    <div class="bg-secondary p-3 pb-1 rounded">
-        <h1 class="text-white">Advanced Search</h1>
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
-                <li class="breadcrumb-item text-white">Advanced Search</li>
-            </ol>
-        </nav>
-    </div>
+  <div class="bg-secondary p-3 pb-1 rounded">
+    <h1 class="text-white">Advanced Search</h1>
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="{{ site.home }}" class="link-light">Home</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="{{ '/' | relative_url }}" class="link-light">People</a>
+        </li>
+        <li class="breadcrumb-item text-white">Advanced Search</li>
+      </ol>
+    </nav>
+  </div>
 </main>
 
 <!-- buttons for pages -->
 <div class="container py-4 px-lg-5">
-    <div class="row justify-content-center">
-        <a class="btn btn-outline-primary w-25  m-2" href="{{ '/search/by-name/ ' | relative_url }}">By Name</a>
-        <!-- <a class="btn btn-outline-primary w-25  m-2" href="{{ '/search/by-contact-number/ ' | relative_url }}">By Contact Number</a> -->
-        <a class="btn btn-outline-primary w-25  m-2" href="{{ '/search/by-current-affiliation/ ' | relative_url }}">By Current Affiliation</a>
-        <a class="btn btn-outline-primary w-25  m-2" href="{{ '/search/by-interests/ ' | relative_url }}">By Interest (Student)</a>
-        <a class="btn btn-outline-primary w-25  m-2" href="{{ '/search/by-location/ ' | relative_url }}">By Location</a>
-        <a class="btn btn-outline-primary w-25  m-2" href="{{ '/search/by-reg-no/ ' | relative_url }}">By Registration Number</a>
-        <a class="btn btn-outline-primary w-25  m-2" href="{{ '/search/by-research-interests/ ' | relative_url }}">By Research Interests (Staff)</a>
-    </div>
+  <div class="row justify-content-center">
+    <a class="btn btn-outline-primary w-25 m-2" href="{{ '/search/by-name/ ' | relative_url }}">
+      By Name
+    </a>
+    <!-- <a class="btn btn-outline-primary w-25  m-2" href="{{ '/search/by-contact-number/ ' | relative_url }}">By Contact Number</a> -->
+    <a
+      class="btn btn-outline-primary w-25 m-2"
+      href="{{ '/search/by-current-affiliation/ ' | relative_url }}"
+    >
+      By Current Affiliation
+    </a>
+    <a
+      class="btn btn-outline-primary w-25 m-2"
+      href="{{ '/search/by-interests/ ' | relative_url }}"
+    >
+      By Interest (Student)
+    </a>
+    <a class="btn btn-outline-primary w-25 m-2" href="{{ '/search/by-location/ ' | relative_url }}">
+      By Location
+    </a>
+    <a class="btn btn-outline-primary w-25 m-2" href="{{ '/search/by-reg-no/ ' | relative_url }}">
+      By Registration Number
+    </a>
+    <a
+      class="btn btn-outline-primary w-25 m-2"
+      href="{{ '/search/by-research-interests/ ' | relative_url }}"
+    >
+      By Research Interests (Staff)
+    </a>
+  </div>
 </div>

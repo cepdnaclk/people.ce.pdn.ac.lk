@@ -1,27 +1,16 @@
-{%- comment -%}
-Only used in pages/staff/academic-staff/index.html to generate the cards in respective tabs
-{%- endcomment -%}
+{%- comment -%} Only used in pages/staff/academic-staff/index.html to generate the cards in
+respective tabs {%- endcomment -%} {%- comment -%} Is this for past academic staff or current {%-
+endcomment -%} {%- if include.past == true -%} {% assign profilePages = site.pages | where:
+"layout", "staffDetails" | where: "on_duty", false %} {%- else -%} {% assign profilePages =
+site.pages | where: "layout", "staffDetails" | where: "on_duty", true %} {%- endif -%} {%- comment
+-%} select all the staff pages according to given criteria {%- endcomment -%} {% assign folder1 =
+profilePages | where: {{include.filter_var}}, {{include.if_equal_to_this}} %} {% for item in folder1
+%} {%- comment -%} First render the HoD, so afterward, he will be excluded {%- endcomment -%}
 
-{%- comment -%}
-Is this for past academic staff or current
-{%- endcomment -%}
-{%- if include.past == true -%}
-{% assign profilePages = site.pages | where: "layout", "staffDetails" | where: "on_duty", false %}
-{%- else -%}
-{% assign profilePages = site.pages | where: "layout", "staffDetails" | where: "on_duty", true %}
-{%- endif -%}
+<!-- Designation -->
+{%- assign designation = item.designation | replace: " ", "_" | downcase -%}
 
-{%- comment -%}
-select all the staff pages according to given criteria
-{%- endcomment -%}
-{% assign folder1 = profilePages | where: {{include.filter_var}}, {{include.if_equal_to_this}} %}
-
-{% for item in folder1 %}
-
-{%- comment -%}
-First render the HoD, so afterward, he will be excluded
-{%- endcomment -%}
-
+<!--  -->
 {%- if include.filter_var == "is_hod" and item.is_hod == true -%}
 <div class="container card text-center p-2 border-primary m-1 filter
     {{ item.designation | replace: " ", "_" | downcase }} hod" style="width: 13rem;">
@@ -37,6 +26,7 @@ First render the HoD, so afterward, he will be excluded
             <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">Profile</a>
         </div>
     </div>
+  </div>
 </div>
 
 {% elsif item.is_hod != true %}
@@ -51,6 +41,6 @@ First render the HoD, so afterward, he will be excluded
             <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">Profile</a>
         </div>
     </div>
+  </div>
 </div>
-{% endif %}
-{% endfor %}
+{% endif %} {% endfor %}
