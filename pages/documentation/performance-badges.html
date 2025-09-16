@@ -9,31 +9,53 @@ title: Performance Badges
 ---
 
 <p>
-    <i>Badges</i> will be issued by the HoD of the Department of Computer Engineering, to the students to appreciate their performance and contribution to the Department/Faculty/University.
+  <i>Badges</i> will be issued by the HoD of the Department of Computer
+  Engineering, to the students to appreciate their performance and contribution
+  to the Department/Faculty/University.
 </p>
 
 <p>
-    The following guideline is for the site maintainers. Students may not try to create Badges for themself, without approval from the HoD.
+  The following guideline is for the site maintainers. Students may not try to
+  create Badges for themself, without approval from the HoD.
 </p>
 
 <div>
-    To create a new badge, it is required to
-    <ol>
-        <li>
-            Create an image for the badge (<a target="_blank" href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_graphics/badges_vector.ai">Template</a>) and save it in the folder, <a target="_blank" href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/images/badges">/images/badges/</a>
-        </li>
+  To create a new badge, it is required to
+  <ol>
+    <li>
+      Create an image for the badge (<a
+        target="_blank"
+        href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_graphics/badges_vector.ai"
+        >Template</a
+      >) and save it in the folder,
+      <a
+        target="_blank"
+        href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/images/badges"
+        >/images/badges/</a
+      >
+    </li>
 
-        <li>
-            Create a JSON file in the folder, <a target="_blank" href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/badges">/badges/</a>. (Template can be found below)
-        </li>
-    </ol>
+    <li>
+      Create a JSON file in the folder,
+      <a
+        target="_blank"
+        href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/badges"
+        >/badges/</a
+      >. (Template can be found below)
+    </li>
+  </ol>
 </div>
-
 
 <h4>JSON Template</h4>
 
 <p>
-    You need to create a JSON file in the folder, <a target="_blank" href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/badges">/badges/</a> to define a new <i>Badge</i>. The template is as below:
+  You need to create a JSON file in the folder,
+  <a
+    target="_blank"
+    href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/badges"
+    >/badges/</a
+  >
+  to define a new <i>Badge</i>. The template is as below:
 </p>
 
 <pre>
@@ -59,53 +81,113 @@ title: Performance Badges
 </pre>
 
 <div class="alert alert-warning d-flex align-items-center mb-2" role="alert">
-    <div>
-        <h6>
-            <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Warning:"><use xlink:href="#exclamation-triangle-fill"/></svg> Warning !
-        </h6>
-        <p>
-            <i>The "tag"</i> field should be compatible to be an URL, in such a way that the words are separated by '-' (Ex: For the <i>Web Consultation Team</i>, it must be something like "<i>web-consultation-team</i>"). This tag will be used as the path to the Badge's webpage, which can be accessed from <a href="{{ '/badges/' | relative_url }}">here</a>.
-        </p>
-    </div>
+  <div>
+    <h6>
+      <svg
+        class="bi flex-shrink-0 me-2"
+        width="24"
+        height="24"
+        role="img"
+        aria-label="Warning:"
+      >
+        <use xlink:href="#exclamation-triangle-fill" />
+      </svg>
+      Warning !
+    </h6>
+    <p>
+      <i>The "tag"</i> field should be compatible to be an URL, in such a way
+      that the words are separated by '-' (Ex: For the
+      <i>Web Consultation Team</i>, it must be something like
+      "<i>web-consultation-team</i>"). This tag will be used as the path to the
+      Badge's webpage, which can be accessed from
+      <a href="{{ '/badges/' | relative_url }}">here</a>.
+    </p>
+  </div>
 </div>
 
 <div class="alert alert-warning d-flex align-items-top mb-2" role="alert">
-    <div>
-        <h6>
-            <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Warning:"><use xlink:href="#exclamation-triangle-fill"/></svg>Warning !
-        </h6>
-        <p>
-            Once the JSON is edited, make sure to the syntax is correct. you can use <a href="https://jsonformatter.curiousconcept.com/#" target="_blank">this</a> online tool for it. Make sure to avoid <i>trailing commas</i> in the JSON file too.
-        </p>
-    </div>
+  <div>
+    <h6>
+      <svg
+        class="bi flex-shrink-0 me-2"
+        width="24"
+        height="24"
+        role="img"
+        aria-label="Warning:"
+      >
+        <use xlink:href="#exclamation-triangle-fill" /></svg
+      >Warning !
+    </h6>
+    <p>
+      Once the JSON is edited, make sure to the syntax is correct. you can use
+      <a href="https://jsonformatter.curiousconcept.com/#" target="_blank"
+        >this</a
+      >
+      online tool for it. Make sure to avoid <i>trailing commas</i> in the JSON
+      file too.
+    </p>
+  </div>
 </div>
-<br>
-<br>
+<br />
+<br />
 
 <h4>How this works</h4>
 
 <ol>
-    <li>
-        There is a <i>python script</i> in <a target="_blank" href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/python_scripts/update_badges.py">here</a>, which will be executed through <i>GitHub Action</i> at a scheduled time or can be executed manually the action, <b>Update Profile Details</b> from <a target="_blank" href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions">here</a>. (After you visit the Actions page, you need to expand the 'Run workflow', and select the 'main' branch and click on <b>Run workflow</b> button)
-    </li>
+  <li>
+    There is a <i>python script</i> in
+    <a
+      target="_blank"
+      href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/python_scripts/update_badges.py"
+      >here</a
+    >, which will be executed through <i>GitHub Action</i> at a scheduled time
+    or can be executed manually the action, <b>Update Profile Details</b> from
+    <a
+      target="_blank"
+      href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions"
+      >here</a
+    >. (After you visit the Actions page, you need to expand the 'Run workflow',
+    and select the 'main' branch and click on <b>Run workflow</b> button)
+  </li>
 
-    <li>
-        Within that <i>Python script</i>, JSON files will be read and populate the other required infromation from the APIs available in the <a href="https://api.ce.pdn.ac.lk/">api.ce.pdn.ac.lk</a>. Pre-processed details will be stored in <a target="_blank" href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/badges.json">/_data/badges.json</a> as a JSON file. (The data structure was specially designed to help the <i>Liquid Syntax</i> used in Jekyll to easily generate the HTML content)
-    </li>
+  <li>
+    Within that <i>Python script</i>, JSON files will be read and populate the
+    other required infromation from the APIs available in the
+    <a href="https://api.ce.pdn.ac.lk/">api.ce.pdn.ac.lk</a>. Pre-processed
+    details will be stored in
+    <a
+      target="_blank"
+      href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/badges.json"
+      >/_data/badges.json</a
+    >
+    as a JSON file. (The data structure was specially designed to help the
+    <i>Liquid Syntax</i> used in Jekyll to easily generate the HTML content)
+  </li>
 
-    <li>
-        Additionally, the script will generate pages for each Badge in the folder, <a target="_blank" href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/pages/badges/pages">/pages/badges/pages/</a> .
-    </li>
+  <li>
+    Additionally, the script will generate pages for each Badge in the folder,
+    <a
+      target="_blank"
+      href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/pages/badges/pages"
+      >/pages/badges/pages/</a
+    >
+    .
+  </li>
 
-    <li>
-        When Jekyll is building the website, the Badge information will be added to the student profiles.
-    </li>
+  <li>
+    When Jekyll is building the website, the Badge information will be added to
+    the student profiles.
+  </li>
 </ol>
 
-
-
-<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
-    <symbol id="exclamation-triangle-fill" fill="currentColor" viewBox="0 0 16 16">
-        <path d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
-    </symbol>
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none">
+  <symbol
+    id="exclamation-triangle-fill"
+    fill="currentColor"
+    viewBox="0 0 16 16"
+  >
+    <path
+      d="M8.982 1.566a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566zM8 5c.535 0 .954.462.9.995l-.35 3.507a.552.552 0 0 1-1.1 0L7.1 5.995A.905.905 0 0 1 8 5zm.002 6a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"
+    />
+  </symbol>
 </svg>

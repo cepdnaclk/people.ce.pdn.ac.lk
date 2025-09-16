@@ -3,109 +3,194 @@ layout: default
 permalink: /documentation/
 
 title: Documentation
-
 ---
-<style>
-    a {
-        color: #2c84fa;
-        text-decoration: none
-    }
 
-    a:hover {
-        text-decoration: underline;
-    }
+<style>
+  a {
+    color: #2c84fa;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
 </style>
 
 <!-- breadcrumb -->
 <main class="container">
-    <div class="bg-secondary p-3 pb-1 rounded">
-        <h1 class="text-white">Documentation</h1>
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
-                <li class="breadcrumb-item active text-white">Documentation</li>
-            </ol>
-        </nav>
-    </div>
+  <div class="bg-secondary p-3 pb-1 rounded">
+    <h1 class="text-white">Documentation</h1>
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="{{ site.home }}" class="link-light">Home</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="{{ '/' | relative_url }}" class="link-light">People</a>
+        </li>
+        <li class="breadcrumb-item active text-white">Documentation</li>
+      </ol>
+    </nav>
+  </div>
 </main>
 
 <main class="pb-5 px-1 pt-3">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-10 col-sm-12 col-lg-8">
-                <div class="container p-3">
-                    <!-- Add new files to pages/documentation/ then it will be added here automatically, and sorted according to value -->
-                    <!-- {% assign docPages = site.pages | where: "layout", "documentation" | sort: "index"%} -->
-                    <!-- {% for item in docPages %} -->
-                    <!-- <ul style="font-size: 1.1rem;"> -->
-                    <!-- <li><a href="{{item.permalink | relative_url}}">{{item.question}}</a></li> -->
-                    <!-- </ul> -->
-                    <!-- {% endfor %} -->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10 col-sm-12 col-lg-8">
+        <div class="container p-3">
+          <!-- Add new files to pages/documentation/ then it will be added here automatically, and sorted according to value -->
+          <!-- {% assign docPages = site.pages | where: "layout", "documentation" | sort: "index"%} -->
+          <!-- {% for item in docPages %} -->
+          <!-- <ul style="font-size: 1.1rem;"> -->
+          <!-- <li><a href="{{item.permalink | relative_url}}">{{item.question}}</a></li> -->
+          <!-- </ul> -->
+          <!-- {% endfor %} -->
 
-                    <h3>Student Profile Pages</h3>
-                    <ul style="font-size: 1.1rem;">
-                        <li><a href="{{ '/documentation/add-student-page/' | relative_url }}">How to add a new Student
-                                Profile page ?</a></li>
-                        <li><a href="{{ '/documentation/edit-student-page/' | relative_url }}">How to edit a Student
-                                Profile page ?</a></li>
-                        <li><a href="{{ '/documentation/change-add-student-profile-pic/' | relative_url }}">How to
-                                add/change a Student Profile image ?</a></li>
-                    </ul>
-                    <br>
+          <h3>Student Profile Pages</h3>
+          <ul style="font-size: 1.1rem">
+            <li>
+              <a href="{{ '/documentation/add-student-page/' | relative_url }}"
+                >How to add a new Student Profile page ?</a
+              >
+            </li>
+            <li>
+              <a href="{{ '/documentation/edit-student-page/' | relative_url }}"
+                >How to edit a Student Profile page ?</a
+              >
+            </li>
+            <li>
+              <a
+                href="{{ '/documentation/change-add-student-profile-pic/' | relative_url }}"
+                >How to add/change a Student Profile image ?</a
+              >
+            </li>
+          </ul>
+          <br />
 
-                    <h3>Staff Profile Pages</h3>
-                    <ul style="font-size: 1.1rem;">
-                        <li><a href="{{ '/documentation/add-academic-staff-page/' | relative_url }}">How to add a new
-                                Academic Staff Profile page ?</a></li>
-                        <li><a href="{{ '/documentation/edit-academic-staff-page/' | relative_url }}">How to edit an
-                                Academic Staff Profile page ?</a></li>
-                        <li><a href="{{ '/documentation/edit-academic-staff-page-from-gdrive/' | relative_url }}">How to
-                                edit an Academic Staff Profile page using Google Drive?</a></li>
-                        <li><a href="{{ '/documentation/change-add-staff-profile-pic/' | relative_url }}">How to
-                                add/change an Academic Staff Profile image ?</a></li>
-                    </ul>
+          <h3>Staff Profile Pages</h3>
+          <ul style="font-size: 1.1rem">
+            <li>
+              <a
+                href="{{ '/documentation/add-academic-staff-page/' | relative_url }}"
+                >How to add a new Academic Staff Profile page ?</a
+              >
+            </li>
+            <li>
+              <a
+                href="{{ '/documentation/edit-academic-staff-page/' | relative_url }}"
+                >How to edit an Academic Staff Profile page ?</a
+              >
+            </li>
+            <li>
+              <a
+                href="{{ '/documentation/edit-academic-staff-page-from-gdrive/' | relative_url }}"
+                >How to edit an Academic Staff Profile page using Google
+                Drive?</a
+              >
+            </li>
+            <li>
+              <a
+                href="{{ '/documentation/change-add-staff-profile-pic/' | relative_url }}"
+                >How to add/change an Academic Staff Profile image ?</a
+              >
+            </li>
+          </ul>
 
-                    <ul style="font-size: 1.1rem;">
-                        <li><a href="{{ '/documentation/update-temporary-academic-staff/' | relative_url }}">How to
-                                update Temporary Academic Staff page ?</a></li>
-                        <li><a href="{{ '/documentation/update-non-academic-staff/' | relative_url }}">How to update Non
-                                Academic Staff page ?</a></li>
-                        <li><a href="{{ '/documentation/update-visiting-staff/' | relative_url }}">How to update
-                                Visiting Staff page ?</a></li>
-                    </ul>
+          <ul style="font-size: 1.1rem">
+            <li>
+              <a
+                href="{{ '/documentation/update-temporary-academic-staff/' | relative_url }}"
+                >How to update Temporary Academic Staff page ?</a
+              >
+            </li>
+            <li>
+              <a
+                href="{{ '/documentation/update-non-academic-staff/' | relative_url }}"
+                >How to update Non Academic Staff page ?</a
+              >
+            </li>
+            <li>
+              <a
+                href="{{ '/documentation/update-visiting-staff/' | relative_url }}"
+                >How to update Visiting Staff page ?</a
+              >
+            </li>
+          </ul>
 
-                    <h3>Other</h3>
-                    <ul style="font-size: 1.1rem;">
-                        <li><a href="{{ '/documentation/run-locally/' | relative_url }}">How to run this website
-                                locally?</a></li>
-                        <li><a href="{{ '/documentation/run-on-gh-pages/' | relative_url }}">How to run this on GitHub
-                                pages?</a></li>
-                        <li><a href="{{ '/documentation/performance-badges/' | relative_url }}">Performance Badges</a>
-                        </li>
-                        <li><a href="https://docs.google.com/document/d/1vb9eTqLTf9tnCAtkQLbwsyixf76XjxqG4dza8b1AsY8/edit?usp=sharing"
-                                target="_blank">Guide for maintainers (External Document)</a></li>
-                        <li><a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk">Source Code</a></li>
-                    </ul>
-
-                </div>
-
-                <div class="container">
-                    <!-- contact us section -->
-                    <p><b>If you have any questions, Please contact any of the developers.</b></p>
-                    <ul style="font-size: 1rem;">
-                        <li><a href="{{ '/students/e18/098/' | relative_url }}">Ishan Fernando</a></li>
-                        <li><a href="{{ '/students/e15/140/' | relative_url }}">Nuwan Jaliyagoda</a></li>
-                        <li><a href="{{ '/students/e17/154/' | relative_url }}">Akila Karunanayake</a></li>
-                        <li><a href="{{ '/students/e18/297/' | relative_url }}">Piumal Rathnayake</a></li>
-                    </ul>
-                    <p><b>Special thanks to,</b></p>
-                    <ul>
-                        <li><a href="{{ '/students/e17/331/' | relative_url }}"> Sathira Silva </a>- Graphic Designer
-                        </li>
-                    </ul>
-                </div>
-            </div>
+          <h3>Other</h3>
+          <ul style="font-size: 1.1rem">
+            <li>
+              <a href="{{ '/documentation/run-locally/' | relative_url }}"
+                >How to run this website locally?</a
+              >
+            </li>
+            <li>
+              <a href="{{ '/documentation/run-on-gh-pages/' | relative_url }}"
+                >How to run this on GitHub pages?</a
+              >
+            </li>
+            <li>
+              <a
+                href="{{ '/documentation/performance-badges/' | relative_url }}"
+                >Performance Badges</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://docs.google.com/document/d/1vb9eTqLTf9tnCAtkQLbwsyixf76XjxqG4dza8b1AsY8/edit?usp=sharing"
+                target="_blank"
+                >Guide for maintainers (External Document)</a
+              >
+            </li>
+            <li>
+              <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk"
+                >Source Code</a
+              >
+            </li>
+          </ul>
         </div>
+
+        <div class="container">
+          <!-- contact us section -->
+          <p>
+            <b
+              >If you have any questions, Please contact any of the
+              developers.</b
+            >
+          </p>
+          <ul style="font-size: 1rem">
+            <li>
+              <a href="{{ '/students/e18/098/' | relative_url }}"
+                >Ishan Fernando</a
+              >
+            </li>
+            <li>
+              <a href="{{ '/students/e15/140/' | relative_url }}"
+                >Nuwan Jaliyagoda</a
+              >
+            </li>
+            <li>
+              <a href="{{ '/students/e17/154/' | relative_url }}"
+                >Akila Karunanayake</a
+              >
+            </li>
+            <li>
+              <a href="{{ '/students/e18/297/' | relative_url }}"
+                >Piumal Rathnayake</a
+              >
+            </li>
+          </ul>
+          <p><b>Special thanks to,</b></p>
+          <ul>
+            <li>
+              <a href="{{ '/students/e17/331/' | relative_url }}">
+                Sathira Silva </a
+              >- Graphic Designer
+            </li>
+          </ul>
+        </div>
+      </div>
     </div>
+  </div>
 </main>

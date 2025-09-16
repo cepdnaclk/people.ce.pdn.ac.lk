@@ -9,103 +9,155 @@ title: How to Edit an Academic Staff Profile page?
 ---
 
 <ol>
-    <li>Login to <a href="https://github.com/login" target="_blank">GitHub</a></li>
-    <br>
+  <li>
+    Login to <a href="https://github.com/login" target="_blank">GitHub</a>
+  </li>
+  <br />
 
-    <li>Go to the academic staff profile page that you want to edit on {% include documentation_image.html url_image='/images/docs/go_to_academic_staff_page.PNG' text='this' %} website</li>
-    <br>
+  <li>
+    Go to the academic staff profile page that you want to edit on {% include
+    documentation_image.html
+    url_image='/images/docs/go_to_academic_staff_page.PNG' text='this' %}
+    website
+  </li>
+  <br />
 
-    <li>At the bottom of the page, click {% include documentation_image.html url_image='/images/docs/edit_this_on_github_staff.PNG' text='"Edit this page on GitHub"' %}</li>
-    <br>
+  <li>
+    At the bottom of the page, click {% include documentation_image.html
+    url_image='/images/docs/edit_this_on_github_staff.PNG' text='"Edit this page
+    on GitHub"' %}
+  </li>
+  <br />
 
-    <li>Click the {% include documentation_image.html url_image='/images/docs/click_edit_inside_github.png' text='"Edit"' %} icon</li>
-    <br>
+  <li>
+    Click the {% include documentation_image.html
+    url_image='/images/docs/click_edit_inside_github.png' text='"Edit"' %} icon
+  </li>
+  <br />
 
-    <li>Make your changes to the text in {% include documentation_image.html url_image='/images/docs/between_frontmatter.PNG' text='between' %} "---" according to the table below
-        <br>
-        <div class="col-lg-6 col-md-12 col-sm-12">
-            <table class="table">
-                <thead>
-                    <tr>
-                        <th scope="col">Variable</th>
-                        <th scope="col">Description</th>
+  <li>
+    Make your changes to the text in {% include documentation_image.html
+    url_image='/images/docs/between_frontmatter.PNG' text='between' %} "---"
+    according to the table below
+    <br />
+    <div class="col-lg-6 col-md-12 col-sm-12">
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Variable</th>
+            <th scope="col">Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">layout</th>
+            <td>Used internally. Do not change.</td>
+          </tr>
+          <tr>
+            <th scope="row">permalink</th>
+            <td>The link to the profile page. Do not change</td>
+          </tr>
+          <tr>
+            <th scope="row">title</th>
+            <td>The title of the webpage</td>
+          </tr>
+          <tr>
+            <th scope="row">name_below_image</th>
+            <td>Name of the person</td>
+          </tr>
+          <tr>
+            <th scope="row">contact_number</th>
+            <td>Contact number of the person</td>
+          </tr>
+          <tr>
+            <th scope="row">email</th>
+            <td>Email address of the person</td>
+          </tr>
+          <tr>
+            <th scope="row">location</th>
+            <td>
+              Location (room) of the person, in the department building (Ex:
+              3-CE-01)
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">text_below_name</th>
+            <td>Text that will be shown below the name</td>
+          </tr>
+          <tr>
+            <th scope="row">url_image</th>
+            <td>Path to the image of the person in the <i>Gihub Repo</i></td>
+          </tr>
+          <tr>
+            <th scope="row">url_*site*</th>
+            <td>URL of the profile pages in other *sites*</td>
+          </tr>
+          <tr>
+            <th scope="row">designation</th>
+            <td>
+              Designation of the person. This is used to group the profiles in
+              academic staff listing page. Only "Professor", "Senior Lecturer"
+              and "Lecturer" are valid for now
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">is_hod</th>
+            <td>
+              Used to determine if this is the Head of the Department. Only
+              valid entries are "true" and "false".
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">on_duty</th>
+            <td>
+              Is this person on duty ? Only valid entries are "true" and
+              "false". If this is "false", the staff memeber will be considered
+              as a past academic staff.
+            </td>
+          </tr>
+          <tr>
+            <th scope="row">research_interests</th>
+            <td>
+              Research interests of the person. Must be written as an array
+              similar to a python list. Eg: ["interest1","interest2"]
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <br />
+  </li>
 
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <th scope="row">layout</th>
-                        <td>Used internally. Do not change.</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">permalink</th>
-                        <td>The link to the profile page. Do not change</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">title</th>
-                        <td>The title of the webpage</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">name_below_image</th>
-                        <td>Name of the person</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">contact_number</th>
-                        <td>Contact number of the person</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">email</th>
-                        <td>Email address of the person</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">location</th>
-                        <td>Location (room) of the person, in the department building (Ex: 3-CE-01)</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">text_below_name</th>
-                        <td>Text that will be shown below the name</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">url_image</th>
-                        <td>Path to the image of the person in the <i>Gihub Repo</i></td>
-                    </tr>
-                    <tr>
-                        <th scope="row">url_*site*</th>
-                        <td>URL of the profile pages in other *sites*</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">designation</th>
-                        <td>Designation of the person. This is used to group the profiles in academic staff listing page. Only "Professor", "Senior Lecturer" and "Lecturer" are valid for now</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">is_hod</th>
-                        <td>Used to determine if this is the Head of the Department. Only valid entries are "true" and "false".</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">on_duty</th>
-                        <td>Is this person on duty ? Only valid entries are "true" and "false". If this is "false", the staff memeber will be considered as a past academic staff.</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">research_interests</th>
-                        <td>Research interests of the person. Must be written as an array similar to a python list. Eg: ["interest1","interest2"]</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-        <br>
-    </li>
+  <li>
+    Make your changes to the text {% include documentation_image.html
+    url_image='/images/docs/below_frontmatter.PNG' text='below' %} the second
+    "---". This must be written in HTML and will be displayed to the {% include
+    documentation_image.html url_image='/images/docs/right_of_profile_page.PNG'
+    text='right' %} of the image in profile page. You can use
+    <i>Bootstrap 5 CSS Classes for styling</i>.
+  </li>
+  <br />
 
-    <li>Make your changes to the text {% include documentation_image.html url_image='/images/docs/below_frontmatter.PNG' text='below' %} the second "---". This must be written in HTML and will be displayed to the {% include documentation_image.html url_image='/images/docs/right_of_profile_page.PNG' text='right' %} of the image in profile page. You can use <i>Bootstrap 5 CSS Classes for styling</i>.</li>
-    <br>
+  <li>
+    Click the {% include documentation_image.html
+    url_image='/images/docs/propose_changes.png' text='"Propose changes"' %} at
+    the bottom of the page
+  </li>
+  <br />
 
-    <li>Click the {% include documentation_image.html url_image='/images/docs/propose_changes.png' text='"Propose changes"' %} at the bottom of the page</li>
-    <br>
+  <li>
+    Click the {% include documentation_image.html
+    url_image='/images/docs/create_pull_req.png' text='"Create pull request"' %}
+    button
+  </li>
+  <br />
 
-    <li>Click the {% include documentation_image.html url_image='/images/docs/create_pull_req.png' text='"Create pull request"' %} button</li>
-    <br>
+  <li>
+    Click the {% include documentation_image.html
+    url_image='/images/docs/create_pull_req2.png' text='"Create pull request"'
+    %} button again
+  </li>
+  <br />
 
-    <li>Click the {% include documentation_image.html url_image='/images/docs/create_pull_req2.png' text='"Create pull request"' %} button again</li>
-    <br>
-
-    <li>Now an admin/a maintainer will approve these changes within 48hrs.</li>
+  <li>Now an admin/a maintainer will approve these changes within 48hrs.</li>
 </ol>

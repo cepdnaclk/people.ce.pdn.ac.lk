@@ -1,24 +1,29 @@
 ---
 layout: default
 ---
-{%- comment -%}
-Basic layout for the documentation pages
-{%- endcomment -%}
+
+{%- comment -%} Basic layout for the documentation pages {%- endcomment -%}
 
 <main class="container">
-    <div class="bg-secondary p-3 pb-1 rounded">
-        <h1 class="text-white">{{page.question}}</h1>
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
-                <li class="breadcrumb-item"><a href="{{ '/documentation/' | relative_url }}" class="link-light">Documentation</a></li>
-                <li class="breadcrumb-item active text-white">{{page.question}}</li>
-            </ol>
-        </nav>
-    </div>
+  <div class="bg-secondary p-3 pb-1 rounded">
+    <h1 class="text-white">{{page.question}}</h1>
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="{{ site.home }}" class="link-light">Home</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="{{ '/' | relative_url }}" class="link-light">People</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="{{ '/documentation/' | relative_url }}" class="link-light"
+            >Documentation</a
+          >
+        </li>
+        <li class="breadcrumb-item active text-white">{{page.question}}</li>
+      </ol>
+    </nav>
+  </div>
 </main>
 
-<div class="container p-3 pt-4">
-    {{content}}
-</div>
+<div class="container p-3 pt-4">{{content}}</div>
