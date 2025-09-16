@@ -1,6 +1,0 @@
-**/node_modules/**
-**/dist/**
-_site/**
-.jekyll-cache/**
-.mypy_cache/**
-.venv/**

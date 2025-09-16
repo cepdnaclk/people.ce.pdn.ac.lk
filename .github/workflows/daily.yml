@@ -103,7 +103,9 @@ jobs:
       - name: Format files
         run: |
           npm install --global prettier
-          prettier --write "**/*.{js,json,md,yml,yaml,html,css,scss}" --config .prettierrc.json --ignore-path .prettierignore
+          prettier --write "**/*.{js,json,md,yml,yaml,html,css,scss}" \
+            --config .prettierrc.json \
+            --ignore-path .prettierignore
 
       - name: Commit and push changes
         run: |
