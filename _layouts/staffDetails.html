@@ -15,7 +15,6 @@ layout: default
         </li>
         {% if page.on_duty %}
         <li class="breadcrumb-item">
-          <<<<<<< HEAD
           <a href="{{ '/staff/academic/' | relative_url }}" class="link-light">Academic Staff</a>
         </li>
         {% else %}
@@ -23,15 +22,6 @@ layout: default
           <a href="{{ '/staff/academic/past/' | relative_url }}" class="link-light">
             Past Academic Staff
           </a>
-          =======
-          <a href="{{ '/staff/academic/' | relative_url }}" class="link-light">Academic Staff</a>
-        </li>
-        {% else %}
-        <li class="breadcrumb-item">
-          <a href="{{ '/staff/academic/past/' | relative_url }}" class="link-light">
-            Past Academic Staff
-          </a>
-          >>>>>>> origin/main
         </li>
         {% endif %} {% if page.designation=="Professor" %}
         <li class="breadcrumb-item">
@@ -39,23 +29,15 @@ layout: default
         </li>
         {% elsif page.designation == "Senior Lecturer" %}
         <li class="breadcrumb-item">
-          <<<<<<< HEAD
           <span class="link-light">Senior Lecturers</span>
         </li>
         {% elsif page.designation == "Lecturer" %}
         <li class="breadcrumb-item">
           <span class="link-light">Lecturers</span>
-          =======
-          <span class="link-light">Senior Lecturers</span>
-        </li>
-        {% elsif page.designation == "Lecturer" %}
-        <li class="breadcrumb-item">
-          <span class="link-light">Lecturers</span>
-          >>>>>>> origin/main
         </li>
         {% endif %}
 
-        <li class="breadcrumb-item text-white">{{page.name_below_image}}</li>
+        <li class="breadcrumb-item text-white">{{page.title}}</li>
       </ol>
     </nav>
   </div>
@@ -75,53 +57,32 @@ layout: default
               width=""
             />
             <div class="mt-2">
-              <h4>{{page.name_below_image}}</h4>
-              <<<<<<< HEAD
-              <p class="text-secondary mb-1" style="text-align: center">{{page.text_below_name}}</p>
-              =======
-              <p class="text-secondary mb-1" style="text-align: center">{{page.text_below_name}}</p>
-              >>>>>>> origin/main
+              <h4>{{page.title}}</h4>
+              <p class="text-secondary mb-1" style="text-align: center">{{page.designation}}</p>
               <!-- <p class="text-muted font-size-sm">{{page.location}}</p> -->
             </div>
           </div>
 
           <ul class="list-group list-group-flush border-top mt-2">
             <!-- Contact Number -->
-            {% if page.contact_number %} <<<<<<< HEAD
+            {% if page.contact_number %}
             <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
               <h6 class="mb-0">
                 <i class="fas fa-phone"></i>
                 Contact Number
               </h6>
-              =======
-            </li>
-
-            <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-              <h6 class="mb-0">
-                <i class="fas fa-phone"></i>
-                Contact Number
-              </h6>
-              >>>>>>> origin/main
               <a href="tel:{{page.contact_number}}">{{page.contact_number}}</a>
             </li>
             {% endif %}
 
             <!-- E-mail -->
-            {% if page.email %} <<<<<<< HEAD
+            {% if page.email %}
             <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
               <h6 class="mb-0">
                 <i class="fas fa-at"></i>
                 E-mail
               </h6>
-              =======
-            </li>
-
-            <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-              <h6 class="mb-0">
-                <i class="fas fa-at"></i>
-                E-mail
-              </h6>
-              >>>>>>> origin/main {% include email_reveal.html email=page.email %}
+              {% include email_reveal.html email=page.email %}
             </li>
             {% endif %}
 
