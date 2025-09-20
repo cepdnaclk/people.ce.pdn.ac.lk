@@ -18,6 +18,12 @@ jobs:
           ref: main
           fetch-depth: 0
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          package-manager-cache: false
+
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
@@ -65,12 +71,6 @@ jobs:
           cd ./python_scripts
           python3 update_publications.py
           cd ../
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v5
-        with:
-          node-version: 22
-          package-manager-cache: false
 
       - name: Format files
         run: |
