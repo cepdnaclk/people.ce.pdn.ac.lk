@@ -17,9 +17,8 @@ for (let i = 0; i < list1.length; i=i+2) {
 JSON.stringify(output)
 """
 
-import urllib.request
 import json
-
+import urllib.request
 
 # the output,
 
@@ -34,20 +33,22 @@ outputJSON = {}
 for i in range(len(data)):
     name = data[str(i)]["name"]
     batch = int(name[2:4])
-    regNo = int(name[5:5+3])
+    regNo = int(name[5 : 5 + 3])
     url = data[str(i)]["image"]
     name = name.split("-")[1].strip()
     print(name, batch, regNo, url)
     image_path = f"images/students/e{str(batch).zfill(2)}/e{str(batch).zfill(2)}{str(regNo).zfill(3)}.jpg"
     try:
-        urllib.request.urlretrieve(url, "../"+image_path)
+        urllib.request.urlretrieve(url, "../" + image_path)
     except:
         image_path = "images/students/default.jpg"
-    outputJSON[str(f"E/{str(batch).zfill(2)}/{str(regNo).zfill(3)}")] = {"reg_no": f"E/{str(batch).zfill(2)}/{str(regNo).zfill(3)}",
-                                                                         "name_with_initials": name,
-                                                                         "image_url": image_path}
+    outputJSON[str(f"E/{str(batch).zfill(2)}/{str(regNo).zfill(3)}")] = {
+        "reg_no": f"E/{str(batch).zfill(2)}/{str(regNo).zfill(3)}",
+        "name_with_initials": name,
+        "image_url": image_path,
+    }
 
 
 outputJSONFile = open(f"../_data/stud/e{str(batch).zfill(2)}.json", "w")
-outputJSONFile.write(json.dumps(outputJSON, indent=4))
+outputJSONFile.write(json.dumps(outputJSON, indent=2))
 outputJSONFile.close()

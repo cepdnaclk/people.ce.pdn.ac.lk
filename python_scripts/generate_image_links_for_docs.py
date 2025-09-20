@@ -3,9 +3,10 @@
 
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 
-import os
-from PIL import Image
 import json
+import os
+
+from PIL import Image
 
 filesPath = "../images/docs/"
 
@@ -19,11 +20,14 @@ for each in allFiles:
     filePath = filesPath + each
     image = Image.open(filePath)
     width, height = image.size
-    print("""{% include documentation_image.html url_image='""" +
-          filePath[2:]+"""' text='hi' %}""")
+    print(
+        """{% include documentation_image.html url_image='"""
+        + filePath[2:]
+        + """' text='hi' %}"""
+    )
     dataDict[each] = {"width": width, "height": height}
 
-data_imagesFile.write(json.dumps(dataDict, indent=4))
+data_imagesFile.write(json.dumps(dataDict, indent=2))
 
 """
 Output,

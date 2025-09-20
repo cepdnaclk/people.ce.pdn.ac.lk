@@ -69,7 +69,7 @@ if __name__ == "__main__":
             "Processing: " + studentData[REG_NO] + " " + studentData[NAME_WITH_INITIALS]
         )
 
-        print(json.dumps(studentData, indent=4))
+        print(json.dumps(studentData, indent=2))
 
         nameConverted = (
             studentData[NAME_WITH_INITIALS].replace(" ", "").replace(".", "")
@@ -133,7 +133,8 @@ mode_of_study: "{studentData[MODE_OF_STUDY]}"
 research_topic: "{studentData[RESEARCH_TOPIC]}"
 
 image_url: "{image_path}"
----"""
+---
+"""
 
         # write to html file
         file_url = "../" + f"pages/postgraudate/students/{nameConverted}.html"

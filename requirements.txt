@@ -14,3 +14,4 @@ soupsieve==2.8
 tqdm==4.67.1
 typing_extensions==4.15.0
 urllib3==2.5.0
+pandas==2.3.2

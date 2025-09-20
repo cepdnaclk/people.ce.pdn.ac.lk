@@ -22,7 +22,7 @@ try:
         filename = "../_data/student_publications.json"
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, "w") as f:
-            f.write(json.dumps(stud_pub, indent=4))
+            f.write(json.dumps(stud_pub, indent=2))
         print("Student: Success")
     else:
         print("Student: Failed")
@@ -79,7 +79,7 @@ try:
         filename = "../_data/staff_publications.json"
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, "w") as f:
-            f.write(json.dumps(staff_pub_year, indent=4))
+            f.write(json.dumps(staff_pub_year, indent=2))
 
         print("Staff: Success")
 

@@ -1,7 +1,8 @@
 # by E18098
 
-import pandas as pd
 import json
+
+import pandas as pd
 
 # Read the data
 df = pd.read_csv("data.csv")
@@ -17,9 +18,10 @@ for each in df.iterrows():
     # strip each element in courses
     courses = [course.strip() for course in courses]
 
-
-    data["students"].append({"eNumber": regno, "name": name, "position": ", ".join(courses)})
+    data["students"].append(
+        {"eNumber": regno, "name": name, "position": ", ".join(courses)}
+    )
 
 # write json
 with open("../badges/casual_instructors_2024.json", "w") as f:
-    json.dump(data, f, indent=4)
+    json.dump(data, f, indent=2)
