@@ -133,7 +133,8 @@ mode_of_study: "{studentData[MODE_OF_STUDY]}"
 research_topic: "{studentData[RESEARCH_TOPIC]}"
 
 image_url: "{image_path}"
----"""
+---
+"""
 
         # write to html file
         file_url = "../" + f"pages/postgraudate/students/{nameConverted}.html"
