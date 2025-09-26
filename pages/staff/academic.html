@@ -24,7 +24,7 @@ title: Academic Staff
 </main>
 
 <!-- cards -->
-<div class="container p-3">
+<div class="container p-3" style="min-height: 75vh">
   <div class="container">
     <ul class="nav nav-pills mb-3 nav-fill">
       <li class="nav-item">
@@ -50,11 +50,17 @@ title: Academic Staff
 
     <div class="row justify-content-center">
       <!-- add staff profile pages to pages/staff/academic-staff. it wil be automatically added here according to the frontmatter-->
-      {% include staff_academic_cards.html filter_var="is_hod" if_equal_to_this=true %} {% include
-      staff_academic_cards.html filter_var="designation" if_equal_to_this="Professor" %} {% include
-      staff_academic_cards.html filter_var="designation" if_equal_to_this="Senior Lecturer" %} {%
-      include staff_academic_cards.html filter_var="designation" if_equal_to_this="Lecturer" %} {%
-      include staff_academic_cards.html filter_var="designation" if_equal_to_this="Lecturer_Prob" %}
+      {% include staff_academic_cards.html filter_var="is_hod" if_equal_to_this=true %}
+      <!--  -->
+      {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Professor" %}
+      <!--  -->
+      {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Senior
+      Lecturer" %}
+      <!--  -->
+      {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Lecturer" %}
+      <!--  -->
+      {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Lecturer_Prob"
+      %}
     </div>
   </div>
 </div>
