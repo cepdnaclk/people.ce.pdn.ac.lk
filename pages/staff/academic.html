@@ -32,35 +32,33 @@ title: Academic Staff
       </li>
       <!-- <li class="nav-item"><a class="nav-link filter-button" data-filter="hod" href="#">Head of Department</a></li> -->
       <li class="nav-item">
-        <a class="nav-link filter-button" data-filter="professor" href="#">Professors</a>
+        <a class="nav-link filter-button" data-filter="professors" href="#">Professors</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link filter-button" data-filter="senior_lecturer" href="#">
+        <a class="nav-link filter-button" data-filter="senior_lecturers" href="#">
           Senior Lecturers
         </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link filter-button" data-filter="lecturer" href="#">Lecturers</a>
+        <a class="nav-link filter-button" data-filter="lecturers" href="#">Lecturers</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link filter-button" data-filter="lecturer_prob" href="#">Lecturers (Prob)</a>
+        <a class="nav-link filter-button" data-filter="lecturers_prob" href="#">Lecturers (Prob)</a>
       </li>
       <!-- <li class="nav-item"><a class="nav-link filter-button" data-filter="past" href="#">Past Staff</a></li> -->
     </ul>
 
     <div class="row justify-content-center">
       <!-- add staff profile pages to pages/staff/academic-staff. it wil be automatically added here according to the frontmatter-->
-      {% include staff_academic_cards.html filter_var="is_hod" if_equal_to_this=true %}
+      {% include staff_academic_cards.html filter_var="is_hod" filter=true %}
       <!--  -->
-      {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Professor" %}
+      {% include staff_academic_cards.html filter_var="role" filter="Professors" %}
       <!--  -->
-      {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Senior
-      Lecturer" %}
+      {% include staff_academic_cards.html filter_var="role" filter="Senior Lecturers" %}
       <!--  -->
-      {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Lecturer" %}
+      {% include staff_academic_cards.html filter_var="role" filter="Lecturers" %}
       <!--  -->
-      {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Lecturer_Prob"
-      %}
+      {% include staff_academic_cards.html filter_var="role" filter="Lecturers (Prob)" %}
     </div>
   </div>
 </div>

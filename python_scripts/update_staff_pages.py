@@ -114,6 +114,7 @@ for role in academic_staff_raw:
         data = {
             "layout": "staff_details",
             "permalink": f"/staff/academic/{s.get('code', '').strip()}/",
+            "role": role.get("name", "NA").strip(),
             "title": s.get("name", "").strip(),
             "contact_number": metadata.get("telephone", "").strip(),
             "email": metadata.get("email", "").strip(),

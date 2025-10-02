@@ -8,12 +8,12 @@
 <!--  -->
 {%- endif -%}
 <!--  -->
-{% assign folder1 = profilePages | where: {{include.filter_var}}, {{include.if_equal_to_this}} %}
+{% assign folder1 = profilePages | where: {{include.filter_var}}, {{include.filter}} %}
 
 <!--  -->
 {% for item in folder1 %}
 <!-- Designation -->
-{%- assign designation = item.designation | replace: " ", "_" | downcase -%}
+{%- assign role = item.role | replace: " ", "_" | replace: "(", "" | replace: ")", "" | downcase -%}
 <!--  -->
 {%- if include.filter_var == "is_hod" and item.is_hod == true -%}
 <div
@@ -42,7 +42,7 @@
 
 {% elsif item.is_hod != true %}
 <div
-  class="container card text-center p-2 border-primary m-1 filter  {{ designation }}"
+  class="container card text-center p-2 border-primary m-1 filter  {{ role }}"
   style="width: 13rem"
 >
   <img
