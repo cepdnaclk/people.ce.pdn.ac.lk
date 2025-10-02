@@ -7,6 +7,7 @@
 
 import json
 import os
+import re
 
 import requests
 import yaml
@@ -135,8 +136,9 @@ for role in academic_staff_raw:
             "is_hod": metadata.get("is_hod", False),
             "on_duty": metadata.get("on_duty", False),
             "research_interests": [
-                interest.strip('"').strip("'").strip()
+                re.sub(r"^['\"]|['\"]$", "", interest.strip())
                 for interest in metadata.get("research_interests", "").split(",")
+                if interest.strip()
             ],
             "page": metadata.get("profile_content", "").strip(),
         }
