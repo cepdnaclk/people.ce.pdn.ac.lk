@@ -4,7 +4,7 @@ layout: default
 
 <main class="container">
   <div class="bg-secondary p-3 pb-1 rounded">
-    <h1 class="text-white">{{page.name_below_image}}</h1>
+    <h1 class="text-white">{{page.title}}</h1>
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb">
         <li class="breadcrumb-item">
@@ -23,20 +23,10 @@ layout: default
             Past Academic Staff
           </a>
         </li>
-        {% endif %} {% if page.designation=="Professor" %}
-        <li class="breadcrumb-item">
-          <span class="link-light">Professors</span>
-        </li>
-        {% elsif page.designation == "Senior Lecturer" %}
-        <li class="breadcrumb-item">
-          <span class="link-light">Senior Lecturers</span>
-        </li>
-        {% elsif page.designation == "Lecturer" %}
-        <li class="breadcrumb-item">
-          <span class="link-light">Lecturers</span>
-        </li>
         {% endif %}
-
+        <li class="breadcrumb-item">
+          <span class="link-light">{{ page.designation }}</span>
+        </li>
         <li class="breadcrumb-item text-white">{{page.title}}</li>
       </ol>
     </nav>
