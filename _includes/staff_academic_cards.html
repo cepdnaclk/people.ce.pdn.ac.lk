@@ -1,10 +1,10 @@
 {%- if include.past == true -%}
 <!--  -->
-{% assign profilePages = site.pages | where: "layout", "staffDetails" | where: "on_duty", false %}
+{% assign profilePages = site.pages | where: "layout", "staff_details" | where: "on_duty", false %}
 <!--  -->
 {%- else -%}
 <!--  -->
-{% assign profilePages = site.pages | where: "layout", "staffDetails" | where: "on_duty", true %}
+{% assign profilePages = site.pages | where: "layout", "staff_details" | where: "on_duty", true %}
 <!--  -->
 {%- endif -%}
 <!--  -->

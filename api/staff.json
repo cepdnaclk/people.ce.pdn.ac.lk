@@ -23,7 +23,7 @@ sitemap: false
             },
             "research_interests": []
         },
-        {%- assign staff_list = site.html_pages | where: "layout", "staffDetails" -%}
+        {%- assign staff_list = site.html_pages | where: "layout", "staff_details" -%}
         {% for staff in staff_list -%}
 {%- include api_staff.html staff=staff -%}{% if forloop.last %}{% else %},{% endif %}
         {% endfor -%}

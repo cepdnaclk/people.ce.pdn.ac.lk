@@ -4,7 +4,7 @@ permalink : /search/by-name.json
 [
   {% for post in site.pages %}
   {%- comment -%}Add staff first so that it comes up at the top of search results{%- endcomment -%}
-    {% if post.layout == "staffDetails" %}
+    {% if post.layout == "staff_details" %}
       {%- comment -%}Staff profile page{%- endcomment -%}
         {
         "title" : "{{post.name_below_image}} ",
@@ -13,7 +13,7 @@ permalink : /search/by-name.json
     {% endif %}
   {% endfor %}
 
-  
+
   {% for eachPerson in site.data.visiting-research-fellows %}
         {%- if eachPerson.name != "#" -%}
         {
@@ -23,7 +23,7 @@ permalink : /search/by-name.json
         {%- endif -%}
 
   {% endfor %}
-  
+
   {% for post in site.pages %}
       {% if post.layout == "studentDetails" %}
       {%- comment -%}Student profile page{%- endcomment -%}
