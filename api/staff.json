@@ -29,7 +29,7 @@ sitemap: false
         {% endfor -%}
     },
     "temporary-academic":{
-        {%- assign temp_staff_list = site.data.temporary_academic_staff -%}
+        {%- assign temp_staff_list = site.data.temporary_academic_staff.data -%}
         {% for staff in temp_staff_list -%}
         "{{ staff.email }}":{
             "name": "{{staff.staff_name}}",
@@ -45,7 +45,7 @@ sitemap: false
         {% endfor -%}
     },
     "support-academic":{
-        {%- assign temp_staff_list = site.data.non_academic_staff -%}
+        {%- assign temp_staff_list = site.data.non_academic_staff.data -%}
         {% for staff in temp_staff_list -%}
         {%- if staff.email != "" -%}
         "{{ staff.email }}":{

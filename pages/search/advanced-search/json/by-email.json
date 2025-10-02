@@ -36,7 +36,7 @@ permalink : /search/by-email.json
       {% endif %}
   {% endfor %}
 
-  {% for post in site.data.non_academic_staff %}
+  {% for post in site.data.non_academic_staff.data %}
   {%- comment -%} Non Academic Staff pages{%- endcomment -%}
     {
         "title" : "{{ post.staff_name }} - Non Academic Staff",
@@ -45,7 +45,7 @@ permalink : /search/by-email.json
     },
   {% endfor %}
 
-  {% for post in site.data.temporary_academic_staff %}
+  {% for post in site.data.temporary_academic_staff.data %}
   {%- comment -%}temporary academic staff pages{%- endcomment -%}
     {
         "title" : "{{ post.staff_name }} - Temporary Academic Staff",
