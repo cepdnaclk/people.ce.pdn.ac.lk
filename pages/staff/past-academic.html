@@ -31,25 +31,31 @@ title: Past Academic Staff
         <a class="nav-link filter-button active" data-filter="all" href="#">All</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link filter-button" data-filter="professor" href="#">Professors</a>
+        <a class="nav-link filter-button" data-filter="professors" href="#">Professors</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link filter-button" data-filter="senior_lecturer" href="#">
+        <a class="nav-link filter-button" data-filter="senior_lecturers" href="#">
           Senior Lecturers
         </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link filter-button" data-filter="lecturer" href="#">Lecturers</a>
+        <a class="nav-link filter-button" data-filter="lecturers" href="#">Lecturers</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link filter-button" data-filter="lecturers_prob" href="#">Lecturers (Prob)</a>
       </li>
       <!-- <li class="nav-item"><a class="nav-link filter-button" data-filter="past" href="#">Past Staff</a></li> -->
     </ul>
 
     <div class="row justify-content-center">
       <!-- add profile page to pages/staff/academic-staff. it will be added here automatically if on_duty = false -->
-      {% include staff_academic_cards.html filter_var="designation" if_equal_to_this="Professor"
-      past=true %} {% include staff_academic_cards.html filter_var="designation"
-      if_equal_to_this="Senior Lecturer" past=true %} {% include staff_academic_cards.html
-      filter_var="designation" if_equal_to_this="Lecturer" past=true %}
+      {% include staff_academic_cards.html filter_var="role" filter="Professors" past=true %}
+      <!--  -->
+      {% include staff_academic_cards.html filter_var="role" filter="Senior Lecturers" past=true %}
+      <!--  -->
+      {% include staff_academic_cards.html filter_var="role" filter="Lecturers" past=true %}
+      <!--  -->
+      {% include staff_academic_cards.html filter_var="role" filter="Lecturers (Prob)" past=true %}
     </div>
   </div>
 </div>

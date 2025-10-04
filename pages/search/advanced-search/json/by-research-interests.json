@@ -5,7 +5,7 @@ permalink : /search/by-research-interests.json
 [
   {% for post in site.pages %}
   {%- comment -%}Add staff first so that it comes up at the top of search results{%- endcomment -%}
-    {% if post.layout == "staffDetails" %}
+    {% if post.layout == "staff_details" %}
       {%- comment -%}Staff profile page{%- endcomment -%}
         {
         "title" : "{{post.name_below_image}} ",
@@ -15,5 +15,5 @@ permalink : /search/by-research-interests.json
     {% endif %}
   {% endfor %}
     {"justFillerData":"toFixCommaAtLastIteration"}
-  
+
 ]
