@@ -113,7 +113,11 @@ def get_students_dict(url="https://api.ce.pdn.ac.lk/people/v1/students/all/"):
         return {}
 
 
-def get_taxonomy_page(page_url):
+def get_taxonomy_page_id(page_url):
+    return page_url.split("/")[-1]
+
+
+def get_taxonomy_page_content(page_url):
     try:
         response = requests.get(page_url, timeout=30)
         return response.text

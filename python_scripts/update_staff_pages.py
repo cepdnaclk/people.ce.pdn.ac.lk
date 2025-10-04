@@ -11,7 +11,11 @@ import re
 
 import requests
 import yaml
-from util.helpers import delete_folder, download_image, get_taxonomy_page
+from util.helpers import (
+    delete_folder,
+    download_image,
+    get_taxonomy_page_content,
+)
 
 DIRECTORY = "../_data/"
 BASE_URL = "https://portal.ce.pdn.ac.lk/api/taxonomy/v1/term"
@@ -73,7 +77,12 @@ def save_staff_list(staff_list, file_url: str, metadata: dict):
 
 def save_academic_staff_page(details: dict, file_url: str):
     page_url = details.pop("page")
-    page_content = get_taxonomy_page(page_url) if page_url and page_url != "#" else ""
+    page_content = (
+        get_taxonomy_page_content(page_url) if page_url and page_url != "#" else ""
+    )
+    page_id = (
+        "https://portal.ce.pdn.ac.lk/dashboard/taxonomy-pages?filters[taxonomy_id]=4"
+    )
     try:
         # Save the data to a HTML file with jekyll front matter
         if not os.path.exists(os.path.dirname(file_url)):
@@ -85,6 +94,7 @@ def save_academic_staff_page(details: dict, file_url: str):
             f.write("\n")
             f.write(
                 "<!-- This is automatically updated from portal.ce.pdn.ac.lk content -->"
+                f"<!-- To update, visit {page_id} -->"
             )
             f.write("\n")
             f.write(page_content)
