@@ -20,9 +20,9 @@ def download_image(image_url, save_dir):
     try:
         if image_url and image_url != "#":
             image_filename = f"/{save_dir}/{image_url.split('/')[-1]}"
-            file_url = "../" + image_filename
+            file_url = ".." + image_filename
             try:
-                image_response = requests.get(image_url, timeout=10)
+                image_response = requests.get(image_url, timeout=30)
                 if image_response.status_code == 200:
                     os.makedirs(os.path.dirname(file_url), exist_ok=True)
                     with open(file_url, "wb") as img_file:
@@ -102,7 +102,7 @@ def get_student_profile(data):
 def get_students_dict(url="https://api.ce.pdn.ac.lk/people/v1/students/all/"):
     # All student details
     try:
-        response = requests.get(url, timeout=10)
+        response = requests.get(url, timeout=30)
         api_data = response.json()
         return api_data
     except requests.RequestException as e:
@@ -111,3 +111,16 @@ def get_students_dict(url="https://api.ce.pdn.ac.lk/people/v1/students/all/"):
     except ValueError as e:
         print(f"Failed to parse JSON response from {url}: {e}")
         return {}
+
+
+def get_taxonomy_page_id(page_url):
+    return page_url.split("/")[-1]
+
+
+def get_taxonomy_page_content(page_url):
+    try:
+        response = requests.get(page_url, timeout=30)
+        return response.text
+    except requests.RequestException as e:
+        print(f"Failed to fetch taxonomy page data from {page_url}: {e}")
+        return ""

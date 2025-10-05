@@ -8,7 +8,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
 [
   {% for post in site.pages %}
   {%- comment -%}Add staff first so that it comes up at the top of search results{%- endcomment -%}
-    {% if post.layout == "staffDetails" %}
+    {% if post.layout == "staff_details" %}
       {%- comment -%}Staff profile page{%- endcomment -%}
         {
         "title" : "{{post.name_below_image}} ",
@@ -30,7 +30,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
         {%- endif -%}
 
   {% endfor %}
-  
+
   {% for post in site.pages %}
       {% if post.layout == "studentDetails" %}
       {%- comment -%}Student profile page{%- endcomment -%}
@@ -62,7 +62,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
 
   {% endfor %}
 
-  {% for post in site.data.non_academic_staff %}
+  {% for post in site.data.non_academic_staff.data %}
   {%- comment -%} non-academic staff pages{%- endcomment -%}
     {
         "title" : "{{ post.staff_name }} - Non-Academic Staff",
@@ -232,7 +232,7 @@ Permalinks should be changed in sync with the link inside pages/home.html
       },
   {% endfor %}
 
-  {% for post in site.data.temporary_academic_staff %}
+  {% for post in site.data.temporary_academic_staff.data %}
   {%- comment -%}temporary academic staff pages{%- endcomment -%}
     {
         "title" : "{{ post.staff_name }} - Temporary Academic Staff",
