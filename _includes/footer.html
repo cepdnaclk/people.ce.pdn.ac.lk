@@ -1,8 +1,12 @@
-{%- comment -%} This is the footer used in every page {%- endcomment -%} {% if page.layout ==
-"studentDetails" or page.layout == "studentDetails_temp" %} {% include student_edit_button.html
-path=page.path %} {% endif %} {% if page.layout == "staff_details" or page.permalink contains
-"documentation" %} {% include staff_edit_button.html path=page.path %} {% endif %}
+{%- comment -%} This is the footer used in every page {%- endcomment -%}
 
+<!--  -->
+{% if page.layout == "studentDetails" or page.layout == "studentDetails_temp" %} {% include
+student_edit_button.html path=page.path %} {% endif %}
+<!--  -->
+{% if page.layout == "staff_details" or page.permalink contains "documentation" %} {% include
+staff_edit_button.html path=page.path %} {% endif %}
+<!--  -->
 <div class="container text-end mt-4">
   {% if page.type == "Non Academic" %}
   <a
