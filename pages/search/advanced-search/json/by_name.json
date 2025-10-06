@@ -14,7 +14,7 @@ permalink : /search/by-name.json
   {% endfor %}
 
 
-  {% for eachPerson in site.data.visiting-research-fellows %}
+  {% for eachPerson in site.data.visiting-research-fellows.data %}
         {%- if eachPerson.name != "#" -%}
         {
           "title" : "{{eachPerson.name}}",
