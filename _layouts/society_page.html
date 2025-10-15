@@ -4,58 +4,70 @@ layout: default
 
 <!-- breadcrumb -->
 <main class="container">
-    <div class="bg-secondary p-3 pb-1 rounded">
-        <h1 class="text-white">{{page.title}}</h1>
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
-                <li class="breadcrumb-item"><a href="{{ '/societies/' | relative_url }}" class="link-light">Societies</a></li>
-                <li class="breadcrumb-item text-white">{{page.title}}</li>
-            </ol>
-        </nav>
-    </div>
+  <div class="bg-secondary p-3 pb-1 rounded">
+    <h1 class="text-white">{{page.title}}</h1>
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="{{ site.home }}" class="link-light">Home</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="{{ '/' | relative_url }}" class="link-light">People</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="{{ '/societies/' | relative_url }}" class="link-light">Societies</a>
+        </li>
+        <li class="breadcrumb-item text-white">{{page.title}}</li>
+      </ol>
+    </nav>
+  </div>
 </main>
 
 <!-- cards -->
 <div class="container py-4 px-lg-5">
-    <div class="d-none row pb-5">
-        <div class="col-sm-3 d-flex justify-content-center">
-            <img src="{{ page.badge_image | relative_url}}" alt="{{ page.title }}" class="img-fluid">
-        </div>
-        <div class="col-sm-9 d-flex align-items-center">
-            {{ page.badge_description }}
-        </div>
+  <div class="d-none row pb-5">
+    <div class="col-sm-3 d-flex justify-content-center">
+      <img src="{{ page.badge_image | relative_url}}" alt="{{ page.title }}" class="img-fluid" />
     </div>
-    <!-- <hr> -->
+    <div class="col-sm-9 d-flex align-items-center">{{ page.badge_description }}</div>
+  </div>
+  <!-- <hr> -->
 
-    <div class="row justify-content-center pb-5">
-        {%- comment -%}
-        {%- assign student = page.students | sort:"eNumber" -%}
-        {%- endcomment -%}
+  <div class="row justify-content-center pb-5">
+    {%- comment -%} {%- assign student = page.students | sort:"eNumber" -%} {%- endcomment -%} {%-
+    assign student = page.students -%} {% for item in student %}
+    <div class="card text-center p-2 m-1 border-primary" style="width: 11rem">
+      {% if item.profile_image %}
+      <img
+        src="{{ item.profile_image | relative_url }}"
+        style="border-radius: 7%; height: 158px; object-fit: cover"
+        class="card-img-top p-1"
+        alt="{{item.name}}"
+      />
+      {% else %}
+      <img
+        src="{{ 'images/students/default.jpg' | relative_url }}"
+        style="border-radius: 7%"
+        class="card-img-top p-1"
+        alt="{{item.name}}"
+      />
+      {% endif %}
+      <div class="card-body d-flex flex-column">
+        <h6 class="card-title">{{item.name}}</h6>
+        <p class="card-text text-muted">{{item.position}}</p>
 
-        {%- assign student = page.students -%}
-
-        {% for item in student %}
-        <div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">
-            {% if item.profile_image %}
-            <img src="{{ item.profile_image | relative_url }}" style="border-radius: 7%; height:158px;object-fit: cover;" class="card-img-top p-1" alt="{{item.name}}">
-            {% else %}
-            <img src="{{ 'images/students/default.jpg' | relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{item.name}}">
-            {% endif %}
-            <div class="card-body d-flex flex-column">
-                <h6 class="card-title">
-                    {{item.name}}
-                </h6>
-                <p class="card-text">{{item.position}}</p>
-
-                {%- if item.profile_url != "#" and item.profile_url != "" -%}
-                <div class="d-flex flex-row justify-content-center mt-auto">
-                    <a class="btn btn-sm btn-outline-primary w-100" href="{{ item.profile_url | relative_url }}">Profile</a>
-                </div>
-                {%- endif -%}
-            </div>
+        {%- if item.profile_url != "#" and item.profile_url != "" -%}
+        <div class="d-flex flex-row justify-content-center mt-auto">
+          <a
+            class="btn btn-sm btn-outline-primary w-100"
+            href="{{ item.profile_url | relative_url }}"
+          >
+            Profile
+          </a>
         </div>
-        {% endfor %}
+        {%- endif -%}
+      </div>
     </div>
+    {% endfor %}
+  </div>
 </div>

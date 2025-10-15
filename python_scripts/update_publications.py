@@ -1,11 +1,14 @@
+# -------------------------------------------------------------------------------------------
 # Update the Publication information from the Publication API, pre-process and
 # link with the student and staff profile pages
 
 # Author: E/15/150 Nuwan Jaliyagoda - nuwanjaliyagoda@eng.pdn.ac.lk
+# -------------------------------------------------------------------------------------------
+
+import json
+import os
 
 import requests
-import os
-import json
 
 # Get student publications
 try:
@@ -19,13 +22,13 @@ try:
         filename = "../_data/student_publications.json"
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, "w") as f:
-            f.write(json.dumps(stud_pub, indent=4))
+            f.write(json.dumps(stud_pub, indent=2))
         print("Student: Success")
     else:
         print("Student: Failed")
 
-except:
-    print("parse failed; " + url)
+except Exception as e:
+    print(f"Student Publications: Parse failed; {url}. Error: {e}")
 
 # Get staff publications
 try:
@@ -76,14 +79,14 @@ try:
         filename = "../_data/staff_publications.json"
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, "w") as f:
-            f.write(json.dumps(staff_pub_year, indent=4))
+            f.write(json.dumps(staff_pub_year, indent=2))
 
         print("Staff: Success")
 
     else:
         print("Staff: Failed")
 
-except:
-    print("parse failed; " + url)
+except Exception as e:
+    print(f"Staff Publications: Parse failed; {url}. Error: {e}")
 
 # PG Students will be updated and managed manually

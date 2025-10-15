@@ -1,56 +1,64 @@
-{%- comment -%}
-Only used in pages/staff/academic-staff/index.html to generate the cards in respective tabs
-{%- endcomment -%}
-
-{%- comment -%}
-Is this for past academic staff or current
-{%- endcomment -%}
 {%- if include.past == true -%}
-{% assign profilePages = site.pages | where: "layout", "staffDetails" | where: "on_duty", false %}
+<!--  -->
+{% assign profilePages = site.pages | where: "layout", "staff_details" | where: "on_duty", false %}
+<!--  -->
 {%- else -%}
-{% assign profilePages = site.pages | where: "layout", "staffDetails" | where: "on_duty", true %}
+<!--  -->
+{% assign profilePages = site.pages | where: "layout", "staff_details" | where: "on_duty", true %}
+<!--  -->
 {%- endif -%}
+<!--  -->
+{% assign folder1 = profilePages | where: {{include.filter_var}}, {{include.filter}} %}
 
-{%- comment -%}
-select all the staff pages according to given criteria
-{%- endcomment -%}
-{% assign folder1 = profilePages | where: {{include.filter_var}}, {{include.if_equal_to_this}} %}
-
+<!--  -->
 {% for item in folder1 %}
-
-{%- comment -%}
-First render the HoD, so afterward, he will be excluded
-{%- endcomment -%}
-
+<!-- Designation -->
+{%- assign role = item.role | replace: " ", "_" | replace: "(", "" | replace: ")", "" | downcase -%}
+<!--  -->
 {%- if include.filter_var == "is_hod" and item.is_hod == true -%}
-<div class="container card text-center p-2 border-primary m-1 filter
-    {{ item.designation | replace: " ", "_" | downcase }} hod" style="width: 13rem;">
-    <img src="{{ item.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
-        alt="{{item.student_name}}">
-    <div class="card-body d-flex flex-column">
-        <h6 class="card-title">{{item.name_below_image}}</h6>
-        <p class="card-text">
-            <span class="small">Head of the Department</span>
-            <span class="card-text text-muted">{{item.text_below_name}}</span>
-        </p>
-        <div class="d-flex flex-row justify-content-center mt-auto">
-            <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">Profile</a>
-        </div>
+<div
+  class="container card text-center p-2 border-primary m-1 filter {{ designation }} hod"
+  style="width: 13rem"
+>
+  <img
+    src="{{ item.url_image | relative_url }}"
+    style="border-radius: 7%"
+    class="card-img-top p-1"
+    alt="{{item.student_name}}"
+  />
+  <div class="card-body d-flex flex-column">
+    <h6 class="card-title">{{item.title}}</h6>
+    <p class="card-text">
+      <span class="small">Head of the Department</span>
+      <span class="card-text text-muted">{{item.designation}}</span>
+    </p>
+    <div class="d-flex flex-row justify-content-center mt-auto">
+      <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">
+        Profile
+      </a>
     </div>
+  </div>
 </div>
 
 {% elsif item.is_hod != true %}
-<div class="container card text-center p-2 border-primary m-1 filter
-    {{ item.designation | replace: " ", "_" | downcase }}" style="width: 13rem; ">
-    <img src="{{ item.url_image | relative_url }}" style="border-radius: 7%" class="card-img-top p-1"
-        alt="{{item.student_name}}">
-    <div class="card-body d-flex flex-column">
-        <h6 class="card-title">{{item.name_below_image}}</h6>
-        <p class="card-text text-muted">{{item.text_below_name}}</p>
-        <div class="d-flex flex-row justify-content-center mt-auto">
-            <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">Profile</a>
-        </div>
+<div
+  class="container card text-center p-2 border-primary m-1 filter  {{ role }}"
+  style="width: 13rem"
+>
+  <img
+    src="{{ item.url_image | relative_url }}"
+    style="border-radius: 7%"
+    class="card-img-top p-1"
+    alt="{{item.student_name}}"
+  />
+  <div class="card-body d-flex flex-column">
+    <h6 class="card-title">{{item.title}}</h6>
+    <p class="card-text text-muted">{{item.designation}}</p>
+    <div class="d-flex flex-row justify-content-center mt-auto">
+      <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">
+        Profile
+      </a>
     </div>
+  </div>
 </div>
-{% endif %}
-{% endfor %}
+{% endif %} {% endfor %}

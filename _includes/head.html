@@ -1,59 +1,57 @@
-<link rel="icon" href="{{ '/assets/img/favicon.png' | relative_url }}">
+<link rel="icon" href="{{ '/assets/img/favicon.png' | relative_url }}" />
 
 <!-- Stylesheets -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-<link href="{{ '/assets/css/index.css' | relative_url }}" rel="stylesheet">
+<link
+  href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+  rel="stylesheet"
+  integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+  crossorigin="anonymous"
+/>
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet" />
+<link href="{{ '/assets/css/index.css' | relative_url }}" rel="stylesheet" />
 
 <!-- Load brand icons -->
-<link href="{{ '/assets/fontawesome/fontawesome.min.css' | relative_url }}" rel="stylesheet">
-<link href="{{ '/assets/fontawesome/solid.min.css' | relative_url }}" rel="stylesheet">
-<link href="{{ '/assets/fontawesome/brands.min.css' | relative_url }}" rel="stylesheet">
+<link href="{{ '/assets/fontawesome/fontawesome.min.css' | relative_url }}" rel="stylesheet" />
+<link href="{{ '/assets/fontawesome/solid.min.css' | relative_url }}" rel="stylesheet" />
+<link href="{{ '/assets/fontawesome/brands.min.css' | relative_url }}" rel="stylesheet" />
 
 <!-- JavaScript files -->
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
-    integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p"
-    crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
-    integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
-    crossorigin="anonymous"></script>
+<script
+  src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
+  integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p"
+  crossorigin="anonymous"
+></script>
+<script
+  src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
+  integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
+  crossorigin="anonymous"
+></script>
 <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
 
-
-{%- if page.layout=="documentation" -%}
-{%- comment -%}
-Add the syntax highlighter for the documentation pages
-{%- endcomment -%}
-<link rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/atom-one-light.min.css" />
+{%- if page.layout=="documentation" -%} {%- comment -%} Add the syntax highlighter for the
+documentation pages {%- endcomment -%}
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/atom-one-light.min.css"
+/>
 <link rel="stylesheet" href="{{ '/assets/css/dracula.css' | relative_url }}" />
-{%- endif -%}
-
-{%- comment -%}
-Prevent the page from shifting a bit when there is no scrollbar
-{%- endcomment -%}
+{%- endif -%} {%- comment -%} Prevent the page from shifting a bit when there is no scrollbar {%-
+endcomment -%}
 <style>
-    body {
-        overflow-y: scroll;
-    }
+  body {
+    overflow-y: scroll;
+  }
 </style>
 
-{%- comment -%}
-Wrap the code block around the command in documentation pages
-{%- endcomment -%}
-{% if page.layout == "documentation" %}
+{%- comment -%} Wrap the code block around the command in documentation pages {%- endcomment -%} {%
+if page.layout == "documentation" %}
 <style>
-    pre {
-        display: flex;
-        flex-wrap: wrap;
-    }
+  pre {
+    display: flex;
+    flex-wrap: wrap;
+  }
 </style>
-{%- comment -%}
-PhotoSwipe 5.0 beta
-{%- endcomment -%}
+{%- comment -%} PhotoSwipe 5.0 beta {%- endcomment -%}
 <link rel="stylesheet" href="{{'assets/css/photoswipe.css' | relative_url}}" />
-{% endif %}
-
-{% include analytics.html %}
+{% endif %} {% include analytics.html %}

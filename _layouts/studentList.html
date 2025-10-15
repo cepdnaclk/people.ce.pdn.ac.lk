@@ -1,123 +1,131 @@
 ---
 layout: default
 ---
-{%- comment -%}
-This layout is for creating the list of students cards in each batch, has links to view profile page
 
-sameple frontmatter,
----
-layout: studentList
-permalink: /students/e18/
-
-batch: E18
-title_in_breadcrumb: E18 Batch
-
-title: E18 Batch
----
-
-{% assign folder1 = site.pages | where: "batch", page.batch | where: "studentDetails", page.layout | sort: "reg_no" %}
-{% for item in folder1 %}
-<div class="card text-center p-2 " style="width: 11rem;">
-    <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{item.student_name}}">
-    <div class="card-body">
-        <h6 class="card-title">{{item.name_with_initials}}</h6>
-        <p class="card-text">{{item.reg_no}}</p>
-        <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
-    </div>
+{%- comment -%} This layout is for creating the list of students cards in each batch, has links to
+view profile page sameple frontmatter, --- layout: studentList permalink: /students/e18/ batch: E18
+title_in_breadcrumb: E18 Batch title: E18 Batch --- {% assign folder1 = site.pages | where: "batch",
+page.batch | where: "studentDetails", page.layout | sort: "reg_no" %} {% for item in folder1 %}
+<div class="card text-center p-2" style="width: 11rem">
+  <img
+    src="{{ item.image_url | relative_url }}"
+    style="border-radius: 7%"
+    class="card-img-top p-1"
+    alt="{{item.student_name}}"
+  />
+  <div class="card-body">
+    <h6 class="card-title">{{item.name_with_initials}}</h6>
+    <p class="card-text">{{item.reg_no}}</p>
+    <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
+  </div>
 </div>
-{% endfor %}
-
-{%- endcomment -%}
-
+{% endfor %} {%- endcomment -%}
 
 <!-- breadcrumb -->
 <main class="container">
-    <div class="bg-secondary p-3 pb-1 rounded">
-        <h1 class="text-white">{{page.title_in_breadcrumb}}</h1>
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
-                <li class="breadcrumb-item text-white">Students</li>
-                <li class="breadcrumb-item text-white">{{page.title_in_breadcrumb}}</li>
-            </ol>
-        </nav>
-    </div>
+  <div class="bg-secondary p-3 pb-1 rounded">
+    <h1 class="text-white">{{page.title_in_breadcrumb}}</h1>
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="{{ site.home }}" class="link-light">Home</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="{{ '/' | relative_url }}" class="link-light">People</a>
+        </li>
+        <li class="breadcrumb-item text-white">Students</li>
+        <li class="breadcrumb-item text-white">{{page.title_in_breadcrumb}}</li>
+      </ol>
+    </nav>
+  </div>
 </main>
 
 <!-- cards -->
 <div class="container py-4 px-lg-5">
-    <div class="row justify-content-center pb-5">
-        <!-- Computer Students -->
-        {% assign profilePages = site.pages | where: "layout", "studentDetails" | where: "batch", page.batch | where:
-        "department", "Computer Engineering" |sort:
-        "reg_no"%}
-
-        {% for item in profilePages %}
-        <div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">
-            <!-- card image -->
-            {% if item.image_url %}
-            <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%; height:158px;object-fit: cover;" class="card-img-top p-1" alt="{{item.student_name}}">
-            {% else %}
-            <img src="{{ 'images/students/default.jpg' | relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{item.student_name}}">
-            {% endif %}
-            <!-- card name -->
-            <div class="card-body d-flex flex-column">
-                <h6 class="card-title">
-                    {% if item.name_with_initials %}
-                    {{item.name_with_initials}}
-                    {% elsif item.preferred_long_name %}
-                    {{item.preferred_long_name}}
-                    {%- endif -%}
-                </h6>
-                <!-- card reg number -->
-                <p class="card-text">{{item.reg_no}}</p>
-                <!-- card button -->
-                <div class="d-flex flex-row justify-content-center mt-auto">
-                    <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
-                </div>
-            </div>
+  <div class="row justify-content-center pb-5">
+    <!-- Computer Students -->
+    {% assign profilePages = site.pages | where: "layout", "studentDetails" | where: "batch",
+    page.batch | where: "department", "Computer Engineering" |sort: "reg_no"%} {% for item in
+    profilePages %}
+    <div class="card text-center p-2 m-1 border-primary" style="width: 11rem">
+      <!-- card image -->
+      {% if item.image_url %}
+      <img
+        src="{{ item.image_url | relative_url }}"
+        style="border-radius: 7%; height: 158px; object-fit: cover"
+        class="card-img-top p-1"
+        alt="{{item.student_name}}"
+      />
+      {% else %}
+      <img
+        src="{{ 'images/students/default.jpg' | relative_url }}"
+        style="border-radius: 7%"
+        class="card-img-top p-1"
+        alt="{{item.student_name}}"
+      />
+      {% endif %}
+      <!-- card name -->
+      <div class="card-body d-flex flex-column">
+        <h6 class="card-title">
+          {% if item.name_with_initials %} {{item.name_with_initials}} {% elsif
+          item.preferred_long_name %} {{item.preferred_long_name}} {%- endif -%}
+        </h6>
+        <!-- card reg number -->
+        <p class="card-text">{{item.reg_no}}</p>
+        <!-- card button -->
+        <div class="d-flex flex-row justify-content-center mt-auto">
+          <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">
+            View
+          </a>
         </div>
-        {% endfor %}
-
+      </div>
     </div>
+    {% endfor %}
+  </div>
 
-    <!-- Mechanical Students -->
-    {% assign mech_count = site.pages | where: "layout", "studentDetails" | where: "batch", page.batch | where: "department", "Mechanical Engineering" | size %}
-    {% if mech_count > 0 %}
-    <div class="row justify-content-center pb-5">
-        <h3 class="text-center pt-3">External Students - Department of Mechanical Engineering</h3>
-        <hr>
+  <!-- Mechanical Students -->
+  {% assign mech_count = site.pages | where: "layout", "studentDetails" | where: "batch", page.batch
+  | where: "department", "Mechanical Engineering" | size %} {% if mech_count > 0 %}
+  <div class="row justify-content-center pb-5">
+    <h3 class="text-center pt-3">External Students - Department of Mechanical Engineering</h3>
+    <hr />
 
-        {% assign profilePages = site.pages | where: "layout", "studentDetails" | where: "batch", page.batch | where:
-        "department", "Mechanical Engineering" |sort:
-        "reg_no"%}
-        {% for item in profilePages %}
-        <div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">
-            <!-- card image -->
-            {% if item.image_url %}
-            <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%;height:158px;object-fit: cover;" class="card-img-top p-1" alt="{{item.student_name}}">
-            {% else %}
-            <img src="{{ 'images/students/default.jpg' | relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{item.student_name}}">
-            {% endif %}
-            <!-- card name -->
-            <div class="card-body d-flex flex-column">
-                <h6 class="card-title">
-                    {% if item.name_with_initials %}
-                    {{item.name_with_initials}}
-                    {% elsif item.preferred_long_name %}
-                    {{item.preferred_long_name}}
-                    {%- endif -%}
-                </h6>
-                <!-- card reg number -->
-                <p class="card-text">{{item.reg_no}}</p>
-                <!-- card button -->
-                <div class="d-flex flex-row justify-content-center mt-auto">
-                    <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
-                </div>
-            </div>
+    {% assign profilePages = site.pages | where: "layout", "studentDetails" | where: "batch",
+    page.batch | where: "department", "Mechanical Engineering" |sort: "reg_no"%} {% for item in
+    profilePages %}
+    <div class="card text-center p-2 m-1 border-primary" style="width: 11rem">
+      <!-- card image -->
+      {% if item.image_url %}
+      <img
+        src="{{ item.image_url | relative_url }}"
+        style="border-radius: 7%; height: 158px; object-fit: cover"
+        class="card-img-top p-1"
+        alt="{{item.student_name}}"
+      />
+      {% else %}
+      <img
+        src="{{ 'images/students/default.jpg' | relative_url }}"
+        style="border-radius: 7%"
+        class="card-img-top p-1"
+        alt="{{item.student_name}}"
+      />
+      {% endif %}
+      <!-- card name -->
+      <div class="card-body d-flex flex-column">
+        <h6 class="card-title">
+          {% if item.name_with_initials %} {{item.name_with_initials}} {% elsif
+          item.preferred_long_name %} {{item.preferred_long_name}} {%- endif -%}
+        </h6>
+        <!-- card reg number -->
+        <p class="card-text">{{item.reg_no}}</p>
+        <!-- card button -->
+        <div class="d-flex flex-row justify-content-center mt-auto">
+          <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">
+            View
+          </a>
         </div>
-        {% endfor %}
-        {% endif %}
+      </div>
     </div>
+    {% endfor %} {% endif %}
+  </div>
 </div>

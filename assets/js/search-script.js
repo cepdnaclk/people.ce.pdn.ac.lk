@@ -13,9 +13,9 @@
       });
     },
     setOptions: function (t) {
-      (i.pattern = t.pattern || i.pattern),
+      ((i.pattern = t.pattern || i.pattern),
         (i.template = t.template || i.template),
-        "function" == typeof t.middleware && (i.middleware = t.middleware);
+        "function" == typeof t.middleware && (i.middleware = t.middleware));
     },
   };
   const i = { pattern: /\{(.*?)\}/g, template: "", middleware: function () {} };
@@ -25,8 +25,7 @@
       if (n < r) return !1;
       if (r === n) return t === e;
       t: for (var i = 0, o = 0; i < r; i++) {
-        for (var u = t.charCodeAt(i); o < n; )
-          if (e.charCodeAt(o++) === u) continue t;
+        for (var u = t.charCodeAt(i); o < n; ) if (e.charCodeAt(o++) === u) continue t;
         return !1;
       }
       return !0;
@@ -52,17 +51,13 @@
         if (l(t)) return a(t);
         if (
           (function (t) {
-            return (
-              Boolean(t) &&
-              "[object Array]" === Object.prototype.toString.call(t)
-            );
+            return Boolean(t) && "[object Array]" === Object.prototype.toString.call(t);
           })(t)
         )
           return (function (n) {
             const r = [];
             s();
-            for (let t = 0, e = n.length; t < e; t++)
-              l(n[t]) && r.push(a(n[t]));
+            for (let t = 0, e = n.length; t < e; t++) l(n[t]) && r.push(a(n[t]));
             return r;
           })(t);
         return undefined;
@@ -94,12 +89,12 @@
           : [];
       },
       setOptions: function (t) {
-        (c = t || {}),
+        ((c = t || {}),
           (c.fuzzy = t.fuzzy || !1),
           (c.limit = t.limit || 10),
           (c.searchStrategy = t.fuzzy ? e : r),
           (c.sort = t.sort || o),
-          (c.exclude = t.exclude || []);
+          (c.exclude = t.exclude || []));
       },
     };
   function o() {
@@ -108,27 +103,25 @@
   const u = [];
   let c = {};
   function s() {
-    return (u.length = 0), u;
+    return ((u.length = 0), u);
   }
   function l(t) {
-    return (
-      Boolean(t) && "[object Object]" === Object.prototype.toString.call(t)
-    );
+    return Boolean(t) && "[object Object]" === Object.prototype.toString.call(t);
   }
   function a(t) {
-    return u.push(t), u;
+    return (u.push(t), u);
   }
-  (c.fuzzy = !1),
+  ((c.fuzzy = !1),
     (c.limit = 10),
     (c.searchStrategy = c.fuzzy ? e : r),
     (c.sort = o),
-    (c.exclude = []);
+    (c.exclude = []));
   var p = {
     load: function (t, e) {
       const n = window.XMLHttpRequest
         ? new window.XMLHttpRequest()
         : new ActiveXObject("Microsoft.XMLHTTP");
-      n.open("GET", t, !0), (n.onreadystatechange = h(n, e)), n.send();
+      (n.open("GET", t, !0), (n.onreadystatechange = h(n, e)), n.send());
     },
   };
   function h(e, n) {
@@ -142,15 +135,12 @@
     };
   }
   var m = function y(t) {
-      if (
-        !(e = t) ||
-        !("undefined" != typeof e.required && e.required instanceof Array)
-      )
+      if (!(e = t) || !("undefined" != typeof e.required && e.required instanceof Array))
         throw new Error("-- OptionsValidator: required options missing");
       var e;
       if (!(this instanceof y)) return new y(t);
       const r = t.required;
-      (this.getRequiredOptions = function () {
+      ((this.getRequiredOptions = function () {
         return r;
       }),
         (this.validate = function (e) {
@@ -161,13 +151,12 @@
             }),
             n
           );
-        });
+        }));
     },
     w = {
       merge: function (t, e) {
         const n = {};
-        for (const r in t)
-          (n[r] = t[r]), "undefined" != typeof e[r] && (n[r] = e[r]);
+        for (const r in t) ((n[r] = t[r]), "undefined" != typeof e[r] && (n[r] = e[r]));
         return n;
       },
       isJSON: function (t) {
@@ -203,14 +192,14 @@
     var r = ["searchInput", "resultsContainer", "json"];
     const o = m({ required: r });
     function u(t) {
-      d.put(t),
+      (d.put(t),
         i.searchInput.addEventListener("input", function (t) {
           -1 === [13, 16, 20, 37, 38, 39, 40, 91].indexOf(t.which) &&
             (c(),
             e(function () {
               l(t.target.value);
             }, i.debounceTime));
-        });
+        }));
     }
     function c() {
       i.resultsContainer.innerHTML = "";
@@ -226,7 +215,7 @@
         (function (e, n) {
           var r = e.length;
           if (0 === r) return s(i.noResultsText);
-          for (let t = 0; t < r; t++) (e[t].query = n), s(f.compile(e[t]));
+          for (let t = 0; t < r; t++) ((e[t].query = n), s(f.compile(e[t])));
         })(d.search(t), t));
     }
     function a(t) {
@@ -234,8 +223,7 @@
     }
     t.SimpleJekyllSearch = function (t) {
       var n;
-      0 < o.validate(t).length &&
-        a("You must specify the following required options: " + r),
+      (0 < o.validate(t).length && a("You must specify the following required options: " + r),
         (i = w.merge(i, t)),
         f.setOptions({
           template: i.searchResultTemplate,
@@ -251,10 +239,10 @@
           ? u(i.json)
           : ((n = i.json),
             p.load(n, function (t, e) {
-              t && a("failed to get JSON (" + n + ")"), u(e);
-            }));
+              (t && a("failed to get JSON (" + n + ")"), u(e));
+            })));
       t = { search: l };
-      return "function" == typeof i.success && i.success.call(t), t;
+      return ("function" == typeof i.success && i.success.call(t), t);
     };
   })(window);
 })();

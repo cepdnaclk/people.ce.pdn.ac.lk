@@ -1,18 +1,24 @@
 <div class="card my-1 p-0 img-hover-zoom-card">
-    <div class="row g-0">
-        <div class="col-md-3 col-sm-3 d-flex align-items-center">
-            <div class="img-hover-zoom">
-                <img class="card-img-top app-thumb-img img-fluid" src="{{ include.thumb }}" alt="{{ include.title }}" />
-            </div>
-        </div>
-        <div class="col-md-9 col-sm-9 ">
-            <div class="card-body">
-                <h6 class="">{{ include.title }}</h6>
-                <div class="card-text d-flex justify-content-between pt-2">
-                    <i>{{ include.cat }}</i>
-                    <a href="{{ include.url }}" target="_blank"><button type="button" class="btn btn-outline-primary btn-sm ms-auto">View</button></a>
-                </div>
-            </div>
-        </div>
+  <div class="row g-0">
+    <div class="col-md-3 col-sm-3 d-flex align-items-center">
+      <div class="img-hover-zoom">
+        <img
+          class="card-img-top app-thumb-img img-fluid"
+          src="{{ include.thumb }}"
+          alt="{{ include.title }}"
+        />
+      </div>
     </div>
+    <div class="col-md-9 col-sm-9">
+      <div class="card-body">
+        <h6 class="">{{ include.title }}</h6>
+        <div class="card-text d-flex justify-content-between pt-2">
+          <i>{{ include.cat }}</i>
+          <a href="{{ include.url }}" target="_blank">
+            <button type="button" class="btn btn-outline-primary btn-sm ms-auto">View</button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>

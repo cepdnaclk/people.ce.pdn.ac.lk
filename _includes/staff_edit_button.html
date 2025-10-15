@@ -1,41 +1,62 @@
-<a href="#" id="editBtn" class="cd-top text-replace js-cd-top cd-top cd-top--fade-out bottomButtons0" rel="noreferrer" target="_blank" data-bs-toggle="modal" data-bs-target="#studentEditModel"></a>
+<a
+  href="#"
+  id="editBtn"
+  class="cd-top text-replace js-cd-top cd-top cd-top--fade-out bottomButtons0"
+  rel="noreferrer"
+  target="_blank"
+  data-bs-toggle="modal"
+  data-bs-target="#studentEditModel"
+></a>
 
 <!-- Edit Modal -->
-<br>
-<div class="modal fade" id="studentEditModel" tabindex="-1" aria-labelledby="editModelLable" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="editModelLable">Edit Staff Profile Information</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <h5>Profile</h5>
-                <p>
-                    Option 1: <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/{{ include.path }}" rel="noreferrer" target="_blank">Edit this page on GitHub</a>
-                        (Instructions can be found from <a href="{{ '/documentation/edit-academic-staff-page/' | relative_url}}" target="_blank">here</a>) <br><br>
-                    Option 2: Update the page from Google Drive
-                        (<a href="{{ '/documentation/edit-academic-staff-page-from-gdrive/' | relative_url}}" target="_blank">Instructions</a>
-                         | Please contact one of the <a href="{{ '/documentation/' | relative_url }}">site maintainer</a> for the initial configuration)
-                </p>
-                <p class="text-muted small">Only use one option from above</p>
-                <hr>
+<br />
+<div
+  class="modal fade"
+  id="studentEditModel"
+  tabindex="-1"
+  aria-labelledby="editModelLable"
+  aria-hidden="true"
+>
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="editModelLable">Edit Staff Profile Information</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <h5>Profile</h5>
+        <p>
+          Update the details through
+          <a
+            href="https://portal.ce.pdn.ac.lk/dashboard/taxonomy/4/terms"
+            rel="noreferrer"
+            target="_blank"
+          >
+            Staff Profile
+          </a>
+          editor in CE Portal.
+        </p>
+        <hr />
 
-                <h5>Projects</h5>
-                <p>
-                    This will be a automated process, if the students correctly configured the <i>project config file</i>
-                </p>
-                <hr>
+        <h5>Projects</h5>
+        <p>
+          This will be a automated process, if the students correctly configured the
+          <i>project config file</i>
+        </p>
+        <hr />
 
-                <h5>Publications</h5>
-                <p>
-                    You need to submit your publications (Only department affiliated and peer-reviewed publications) through this <a href="https://forms.gle/rT6Bt8JPzoMz4qGM9" target="_blank">Google Form</a>.
-                </p>
-
-            </div>
-            <div class="modal-footer text-muted small">
-                The content update is fully automated and will take upto 3 days based on the submitted time and Site Build Schedule.
-            </div>
-        </div>
+        <h5>Publications</h5>
+        <p>
+          You need to submit your publications (Only department affiliated and peer-reviewed
+          publications) through this
+          <a href="https://forms.gle/rT6Bt8JPzoMz4qGM9" target="_blank">Google Form</a>
+          .
+        </p>
+      </div>
+      <div class="modal-footer text-muted small">
+        The content update is fully automated and will take upto 3 days based on the submitted time
+        and Site Build Schedule.
+      </div>
     </div>
+  </div>
 </div>

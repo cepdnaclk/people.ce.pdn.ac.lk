@@ -5,15 +5,22 @@
 # Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
 
 
-import requests
-import os
-import gdown  # pip install gdown
-import datetime
-import shutil
-import json
 import csv
+import datetime
+import json
+import os
+import shutil
 
-TO_SKIP_EMAILS = ['arudchutha@gmail.com', 'imesheuk@eng.pdn.ac.lk' , 'pabudia@eng.pdn.ac.lk' , 'Suthaa78@gmail.com' , 'maheshi14d@gmail.com']
+import gdown  # pip install gdown
+import requests
+
+TO_SKIP_EMAILS = [
+    "arudchutha@gmail.com",
+    "imesheuk@eng.pdn.ac.lk",
+    "pabudia@eng.pdn.ac.lk",
+    "Suthaa78@gmail.com",
+    "maheshi14d@gmail.com",
+]
 
 googleFromCSV_link = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR6ntuDUUuzQS84Am7NMcCc6LCTYKmUfMbVhp4dvy1AXWoVxNrjWfeQntWg5cAfLsFvb4WASQRp-erT/pub?output=csv"
 googleFromCSV = requests.get(
@@ -62,15 +69,15 @@ if __name__ == "__main__":
             "Processing: " + studentData[REG_NO] + " " + studentData[NAME_WITH_INITIALS]
         )
 
-        print(json.dumps(studentData, indent=4))
+        print(json.dumps(studentData, indent=2))
 
         nameConverted = (
             studentData[NAME_WITH_INITIALS].replace(" ", "").replace(".", "")
         )
         permalink = f"/students/postgraduate/{nameConverted}/"
-        
+
         if studentData[EMAIL] in TO_SKIP_EMAILS:
-            print(f"Skipping {studentData[EMAIL]}") 
+            print(f"Skipping {studentData[EMAIL]}")
             continue
 
         # image
@@ -114,19 +121,20 @@ if __name__ == "__main__":
         outputString = f"""---
 layout: postgraduateDetails
 permalink: "{permalink}"
-title: {studentData[NAME_WITH_INITIALS]}
-index_in_card_list: {int(elapsedTimeFromTheStartOfTime)}
+title: "{studentData[NAME_WITH_INITIALS]}"
+index_in_card_list: "{int(elapsedTimeFromTheStartOfTime)}"
 
-reg_no: {reg_number}
-name_with_initials: {studentData[NAME_WITH_INITIALS]}
-email: {studentData[EMAIL]}
-url_website: {studentData[WEBSITE_URL]}
-degree: {studentData[DEGREE]}
-mode_of_study: {studentData[MODE_OF_STUDY]}
-research_topic: {studentData[RESEARCH_TOPIC]}
+reg_no: "{reg_number}"
+name_with_initials: "{studentData[NAME_WITH_INITIALS]}"
+email: "{studentData[EMAIL]}"
+url_website: "{studentData[WEBSITE_URL]}"
+degree: "{studentData[DEGREE]}"
+mode_of_study: "{studentData[MODE_OF_STUDY]}"
+research_topic: "{studentData[RESEARCH_TOPIC]}"
 
 image_url: "{image_path}"
----"""
+---
+"""
 
         # write to html file
         file_url = "../" + f"pages/postgraudate/students/{nameConverted}.html"

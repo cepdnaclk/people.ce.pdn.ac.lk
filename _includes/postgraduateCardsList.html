@@ -1,48 +1,44 @@
-{%- comment -%}
-Used to create the cards in the postgraduate index page
-
-inputs:
-degree
-{%- endcomment -%}
-
-{% assign profilePages = site.pages | where: "layout", "postgraduateDetails" | where: "degree", include.degree | sort: "index_in_card_list" | reverse%}
-
-{% if profilePages[0] %}
+{%- comment -%} Used to create the cards in the postgraduate index page inputs: degree {%-
+endcomment -%} {% assign profilePages = site.pages | where: "layout", "postgraduateDetails" | where:
+"degree", include.degree | sort: "index_in_card_list" | reverse%} {% if profilePages[0] %}
 <h3 id="{{ include.degree }}" class="text-center pt-2">
-
-    <!-- Will add some custom title in future -->
-    {%- if include.degree == "PhD" -%} PhD Students
-    {%- elsif include.degree == "MPhil" -%} MPhil Students
-    {%- elsif include.degree == "MSc" -%} MSc Students
-    {%- elsif include.degree == "MEng" -%} MEng Students
-    {%- elsif include.degree == "Provisional" -%} Other
-    {%- endif -%}
+  <!-- Will add some custom title in future -->
+  {%- if include.degree == "PhD" -%} PhD Students {%- elsif include.degree == "MPhil" -%} MPhil
+  Students {%- elsif include.degree == "MSc" -%} MSc Students {%- elsif include.degree == "MEng" -%}
+  MEng Students {%- elsif include.degree == "Provisional" -%} Other {%- endif -%}
 </h3>
-<hr>
+<hr />
 
 {% for item in profilePages %}
-<div class="card text-center p-2 m-1 border-primary" style="width: 11rem;">
-    {% if item.image_url %}
-    <img src="{{ item.image_url | relative_url }}" style="border-radius: 7%; height:158px;object-fit: cover;" class="card-img-top p-1" alt="{{item.name_with_initials}}">
-    {% else %}
-    <img src="{{ 'images/students/default.jpg' | relative_url }}" style="border-radius: 7%" class="card-img-top p-1" alt="{{item.name_with_initials}}">
+<div class="card text-center p-2 m-1 border-primary" style="width: 11rem">
+  {% if item.image_url %}
+  <img
+    src="{{ item.image_url | relative_url }}"
+    style="border-radius: 7%; height: 158px; object-fit: cover"
+    class="card-img-top p-1"
+    alt="{{item.name_with_initials}}"
+  />
+  {% else %}
+  <img
+    src="{{ 'images/students/default.jpg' | relative_url }}"
+    style="border-radius: 7%"
+    class="card-img-top p-1"
+    alt="{{item.name_with_initials}}"
+  />
+  {% endif %}
+  <!-- card name -->
+  <div class="card-body d-flex flex-column">
+    <h6 class="card-title">{{item.name_with_initials}}</h6>
+    <!-- card reg number -->
+    <!-- Hide the reg number, if it is selected as "Provisional" -->
+    {% if item.reg_no != 'Provisional' %}
+    <p class="card-text">{{item.reg_no}}</p>
     {% endif %}
-    <!-- card name -->
-    <div class="card-body d-flex flex-column">
-        <h6 class="card-title">
-            {{item.name_with_initials}}
-        </h6>
-        <!-- card reg number -->
-        <!-- Hide the reg number, if it is selected as "Provisional" -->
-        {% if item.reg_no != 'Provisional' %}
-        <p class="card-text">{{item.reg_no}}</p>
-        {% endif %}
-        <!-- card button -->
-        <div class="d-flex flex-row justify-content-center mt-auto">
-            <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
-        </div>
+    <!-- card button -->
+    <div class="d-flex flex-row justify-content-center mt-auto">
+      <a class="btn btn-outline-primary w-100" href="{{ item.permalink | relative_url }}">View</a>
     </div>
+  </div>
 </div>
 <!-- card image -->
-{% endfor %}
-{% endif %}
+{% endfor %} {% endif %}

@@ -3,53 +3,62 @@ layout: default
 ---
 
 <main class="container">
-    <div class="bg-secondary p-3 pb-1 rounded">
-        <h1 class="text-white">Search {{page.search_by}}</h1>
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="{{ site.home }}" class="link-light">Home</a></li>
-                <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}" class="link-light">People</a></li>
-                <li class="breadcrumb-item"><a href="{{ '/search/' | relative_url }}" class="link-light">Advanced Search</a></li>
-                <li class="breadcrumb-item text-white">Search {{page.search_by}}</li>
-            </ol>
-        </nav>
-    </div>
+  <div class="bg-secondary p-3 pb-1 rounded">
+    <h1 class="text-white">Search {{page.search_by}}</h1>
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="{{ site.home }}" class="link-light">Home</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="{{ '/' | relative_url }}" class="link-light">People</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href="{{ '/search/' | relative_url }}" class="link-light">Advanced Search</a>
+        </li>
+        <li class="breadcrumb-item text-white">Search {{page.search_by}}</li>
+      </ol>
+    </nav>
+  </div>
 </main>
 
-<div class="container" style="min-height: 500px;">
-    <br />
-    <!-- search box -->
-    {% include search-box.html search_by_text=page.search_by%}
+<div class="container" style="min-height: 500px">
+  <br />
+  <!-- search box -->
+  {% include search-box.html search_by_text=page.search_by%}
 
-    <!-- results container -->
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-2"></div>
-            <div class="list-group col p-2">
-                <div id="results-container"></div>
-            </div>
-            <div class="col-lg-2"></div>
-        </div>
+  <!-- results container -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-2"></div>
+      <div class="list-group col p-2">
+        <div id="results-container"></div>
+      </div>
+      <div class="col-lg-2"></div>
     </div>
+  </div>
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="{{ '/assets/js/search-script-for-advaced-search.js' | relative_url}}" type="text/javascript"></script>
+<script
+  src="{{ '/assets/js/search-script-for-advaced-search.js' | relative_url}}"
+  type="text/javascript"
+></script>
 <!-- Configuration -->
 <script>
-    //prevent submit by pressing enter
-    $(document).ready(function () {
-        $(window).keydown(function (event) {
-            if (event.keyCode == 13) {
-                event.preventDefault();
-                return false;
-            }
-        });
+  //prevent submit by pressing enter
+  $(document).ready(function () {
+    $(window).keydown(function (event) {
+      if (event.keyCode == 13) {
+        event.preventDefault();
+        return false;
+      }
     });
+  });
 
-    SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: '{{ site.baseurl }}{{ page.json_link }}'
-    })
+  SimpleJekyllSearch({
+    searchInput: document.getElementById("search-input"),
+    resultsContainer: document.getElementById("results-container"),
+    json: "{{ site.baseurl }}{{ page.json_link }}",
+  });
 </script>

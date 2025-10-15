@@ -3,9 +3,10 @@
 
 # Author: E/15/150 Nuwan Jaliyagoda - nuwanjaliyagoda@eng.pdn.ac.lk
 
-import requests
-import os
 import json
+import os
+
+import requests
 
 try:
     url = "https://api.ce.pdn.ac.lk/projects/v1/filter/students/index.json"
@@ -17,7 +18,7 @@ try:
         filename = "../_data/student_projects.json"
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, "w") as f:
-            f.write(json.dumps(stud_projects, indent=4))
+            f.write(json.dumps(stud_projects, indent=2))
 
         print("Students: Success")
     else:
@@ -58,7 +59,7 @@ try:
         filename = "../_data/staff_projects.json"
         os.makedirs(os.path.dirname(filename), exist_ok=True)
         with open(filename, "w") as f:
-            f.write(json.dumps(grouped_proj, indent=4))
+            f.write(json.dumps(grouped_proj, indent=2))
 
         print("Staff: Success")
     else:

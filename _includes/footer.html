@@ -1,119 +1,149 @@
-{%- comment -%}
-This is the footer used in every page
-{%- endcomment -%}
+{%- comment -%} This is the footer used in every page {%- endcomment -%}
 
-{% if page.layout == "studentDetails" or page.layout == "studentDetails_temp" %}
-{% include student_edit_button.html path=page.path %}
-{% endif %}
-
-{% if page.layout == "staffDetails" or page.permalink contains "documentation" %}
-{% include staff_edit_button.html path=page.path %}
-{% endif %}
-
-<div class="container text-end mt-4 ">
-    {% if page.type == "Non Academic" %}
-    <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/non_academic_staff.json" rel="noreferrer"
-        target="_blank"><i class="fab fa-github"></i> Edit Details</a>
-    {% endif %}
-
-
-    {% if page.type == "Temporary Academic" %}
-    <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/temporary_academic_staff.json"
-        rel="noreferrer" target="_blank"><i class="fab fa-github"></i> Edit Details</a>
-    {% endif %}
-
-    {% if page.type == "Visiting Research Fellows" %}
-    <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/visiting-research-fellows.json"
-        rel="noreferrer" target="_blank"><i class="fab fa-github"></i> Edit Details</a>
-    {% endif %}
-
-    {% if page.type == "Visiting Lecturers" %}
-    <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/visiting-lecturers.json" rel="noreferrer"
-        target="_blank"><i class="fab fa-github"></i> Edit Details</a>
-    {% endif %}
-
-    {% if page.type == "Past Heads of Dept" %}
-    <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/past_heads_of_dep.json" rel="noreferrer"
-        target="_blank"><i class="fab fa-github"></i> Edit Details</a>
-    {% endif %}
-
-    {% if page.edit_link == "postgraduate_form" %}
-    <!-- Show the link to Google Form -->
-    <a href="https://forms.gle/mpo2jarU7b9eWz9F7" rel="noreferrer" target="_blank">Update via Google
-        Form</a>
-    {% endif %}
-
-    {% if page.layout == 'postgraduateDetails' %}
-    <!-- Show the edit button -->
-    <a href="https://forms.gle/mpo2jarU7b9eWz9F7" id="editBtn"
-        class="cd-top text-replace js-cd-top cd-top cd-top--fade-out bottomButtons0" rel="noreferrer"
-        target="_blank"></a>
-    {% endif %}
-
-    {% if page.layout == 'society_page' %}
-    <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/societies" rel="noreferrer" target="_blank"><i
-            class="fab fa-github"></i> Edit Details</a>
-    {% endif %}
-
-    {% if page.layout == 'badge_page' %}
-    <a href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/badges" rel="noreferrer" target="_blank"><i
-            class="fab fa-github"></i> Edit Details</a>
-    {% endif %}
-
-    {% if page.layout == "studentDetails" %}
-    <!-- <a href="{{ '/form/unified' | relative_url }}" rel="noreferrer" target="_blank">
+<!--  -->
+{% if page.layout == "studentDetails" or page.layout == "studentDetails_temp" %} {% include
+student_edit_button.html path=page.path %} {% endif %}
+<!--  -->
+{% if page.layout == "staff_details" or page.permalink contains "documentation" %} {% include
+staff_edit_button.html path=page.path %} {% endif %}
+<!--  -->
+<div class="container text-end mt-4">
+  {% if page.type == "Non Academic" %}
+  <a
+    href="https://portal.ce.pdn.ac.lk/dashboard/taxonomy/alias/academic-support-staff"
+    rel="noreferrer"
+    target="_blank"
+  >
+    <i class="fa fa-solid fa-globe"></i>
+    Edit
+  </a>
+  {% endif %} {% if page.type == "Temporary Academic" %}
+  <a
+    href="https://portal.ce.pdn.ac.lk/dashboard/taxonomy/alias/temporary-academic-staff"
+    rel="noreferrer"
+    target="_blank"
+  >
+    <i class="fa fa-solid fa-globe"></i>
+    Edit
+  </a>
+  {% endif %} {% if page.type == "Visiting Research Fellows" %}
+  <a
+    href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/visiting-research-fellows.json"
+    rel="noreferrer"
+    target="_blank"
+  >
+    <i class="fab fa-github"></i>
+    Edit Details
+  </a>
+  {% endif %} {% if page.type == "Visiting Lecturers" %}
+  <a
+    href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/visiting-lecturers.json"
+    rel="noreferrer"
+    target="_blank"
+  >
+    <i class="fab fa-github"></i>
+    Edit Details
+  </a>
+  {% endif %} {% if page.type == "Past Heads of Dept" %}
+  <a
+    href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/blob/main/_data/past_heads_of_dep.json"
+    rel="noreferrer"
+    target="_blank"
+  >
+    <i class="fab fa-github"></i>
+    Edit Details
+  </a>
+  {% endif %} {% if page.edit_link == "postgraduate_form" %}
+  <!-- Show the link to Google Form -->
+  <a href="https://forms.gle/mpo2jarU7b9eWz9F7" rel="noreferrer" target="_blank">
+    Update via Google Form
+  </a>
+  {% endif %} {% if page.layout == 'postgraduateDetails' %}
+  <!-- Show the edit button -->
+  <a
+    href="https://forms.gle/mpo2jarU7b9eWz9F7"
+    id="editBtn"
+    class="cd-top text-replace js-cd-top cd-top cd-top--fade-out bottomButtons0"
+    rel="noreferrer"
+    target="_blank"
+  ></a>
+  {% endif %} {% if page.layout == 'society_page' %}
+  <a
+    href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/societies"
+    rel="noreferrer"
+    target="_blank"
+  >
+    <i class="fab fa-github"></i>
+    Edit Details
+  </a>
+  {% endif %} {% if page.layout == 'badge_page' %}
+  <a
+    href="https://github.com/cepdnaclk/people.ce.pdn.ac.lk/tree/main/badges"
+    rel="noreferrer"
+    target="_blank"
+  >
+    <i class="fab fa-github"></i>
+    Edit Details
+  </a>
+  {% endif %} {% if page.layout == "studentDetails" %}
+  <!-- <a href="{{ '/form/unified' | relative_url }}" rel="noreferrer" target="_blank">
         Update via Google Form </a> -->
-    {% endif %}
-
-    {% if page.layout == "studentList_no_prof_link" %}
-    <a href="{{ '/form/unified' | relative_url }}" rel="noreferrer" target="_blank">
-        Update via Google Form </a>
-    {% endif %}
+  {% endif %} {% if page.layout == "studentList_no_prof_link" %}
+  <a href="{{ '/form/unified' | relative_url }}" rel="noreferrer" target="_blank">
+    Update via Google Form
+  </a>
+  {% endif %}
 </div>
 
 <footer class="mt-3 pt-3 pb-4 bg-dark">
-    <div class="container">
-        <p class="m-2 text-center text-white">
-            Department of Computer Engineering - University of Peradeniya
-        </p>
-        <p class="text-center text-muted">
-            <a class="text-decoration-none small footer-link" href="{{ '/documentation/' | relative_url }}">
-                Documentation</a> |
-            <a class="text-decoration-none small footer-link" href="https://api.ce.pdn.ac.lk/" target="_blank">Data
-                APIs</a> |
-            <span class="small">Last Build: {{site.time | date: "%d-%m-%Y" }}</span>
-        </p>
-    </div>
+  <div class="container">
+    <p class="m-2 text-center text-white">
+      Department of Computer Engineering - University of Peradeniya
+    </p>
+    <p class="text-center text-muted">
+      <a
+        class="text-decoration-none small footer-link"
+        href="{{ '/documentation/' | relative_url }}"
+      >
+        Documentation
+      </a>
+      |
+      <a
+        class="text-decoration-none small footer-link"
+        href="https://api.ce.pdn.ac.lk/"
+        target="_blank"
+      >
+        Data APIs
+      </a>
+      |
+      <span class="small">Last Build: {{site.time | date: "%d-%m-%Y" }}</span>
+    </p>
+  </div>
 </footer>
 
-
-{%- if page.layout=="documentation" -%}
-{%- comment -%}
-Add the syntax highlighter for the documentation pages
-{%- endcomment -%}
+{%- if page.layout=="documentation" -%} {%- comment -%} Add the syntax highlighter for the
+documentation pages {%- endcomment -%}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
 <script>
-    hljs.initHighlightingOnLoad();
+  hljs.initHighlightingOnLoad();
 </script>
 
-{%- comment -%}
-PhotoSwipe 5.0 beta, only used in documentation
-{%- endcomment -%}
+{%- comment -%} PhotoSwipe 5.0 beta, only used in documentation {%- endcomment -%}
 <script type="module">
-    // Include Lightbox
-    import PhotoSwipeLightbox from "{{'assets / js / photoswipe - lightbox.esm.js' | remove:" " | relative_url}}";
+  // Include Lightbox
+  import PhotoSwipeLightbox from "{{'assets / js / photoswipe - lightbox.esm.js' | remove:" " | relative_url}}";
 
-    const lightbox = new PhotoSwipeLightbox({
-        // may select multiple "galleries"
-        gallery: '#gallery--simple',
+  const lightbox = new PhotoSwipeLightbox({
+      // may select multiple "galleries"
+      gallery: '#gallery--simple',
 
-        // Elements within gallery (slides)
-        children: 'a',
+      // Elements within gallery (slides)
+      children: 'a',
 
-        // Include PhotoSwipe Core
-        // and use absolute path (that starts with http(s)://)
-        pswpModule: "{{'assets/js/photoswipe.esm.js' | remove:" " | relative_url}}"
-            });
-    lightbox.init();
+      // Include PhotoSwipe Core
+      // and use absolute path (that starts with http(s)://)
+      pswpModule: "{{'assets/js/photoswipe.esm.js' | remove:" " | relative_url}}"
+          });
+  lightbox.init();
 </script>
 {%- endif -%}

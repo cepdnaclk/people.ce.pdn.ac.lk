@@ -1,22 +1,18 @@
 [
-    {
-        "title": "E23 Batch",
-        "url": "/students/e23/"
-    },
-    {
-        "title": "E22 Batch",
-        "url": "/students/e22/"
-    },
-    {
-        "title": "E21 Batch",
-        "url": "/students/e21/"
-    },
-    {
-        "title": "E20 Batch",
-        "url": "/students/e20/"
-    },
-    {
-        "title": "E19 Batch",
-        "url": "/students/e19/"
-    }
+  {
+    "title": "E23 Batch",
+    "url": "/students/e23/"
+  },
+  {
+    "title": "E22 Batch",
+    "url": "/students/e22/"
+  },
+  {
+    "title": "E21 Batch",
+    "url": "/students/e21/"
+  },
+  {
+    "title": "E20 Batch",
+    "url": "/students/e20/"
+  }
 ]
