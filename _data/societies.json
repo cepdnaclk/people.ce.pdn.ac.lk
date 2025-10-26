@@ -21,18 +21,11 @@
       "page": "/societies/aces-2016/",
       "show": "false"
     },
-    "aces-2025": {
-      "title": "ACES Committee 2025",
+    "aces-2021": {
+      "title": "ACES Committee 2021-2022",
       "image": "images/badges/aces.png",
-      "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2025",
-      "page": "/societies/aces-2025/",
-      "show": "false"
-    },
-    "aces-2019": {
-      "title": "ACES Committee 2019-2020",
-      "image": "images/badges/aces.png",
-      "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2019-2020",
-      "page": "/societies/aces-2019/",
+      "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2021-2022",
+      "page": "/societies/aces-2021/",
       "show": "false"
     },
     "aces-2024": {
@@ -42,18 +35,25 @@
       "page": "/societies/aces-2024/",
       "show": "false"
     },
-    "aces-2021": {
-      "title": "ACES Committee 2021-2022",
-      "image": "images/badges/aces.png",
-      "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2021-2022",
-      "page": "/societies/aces-2021/",
-      "show": "false"
-    },
     "aces-2020": {
       "title": "ACES Committee 2020-2021",
       "image": "images/badges/aces.png",
       "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2020-2021",
       "page": "/societies/aces-2020/",
+      "show": "false"
+    },
+    "aces-2019": {
+      "title": "ACES Committee 2019-2020",
+      "image": "images/badges/aces.png",
+      "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2019-2020",
+      "page": "/societies/aces-2019/",
+      "show": "false"
+    },
+    "aces-2025": {
+      "title": "ACES Committee 2025",
+      "image": "images/badges/aces.png",
+      "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the year 2025",
+      "page": "/societies/aces-2025/",
       "show": "false"
     },
     "aces-2023": {
@@ -437,362 +437,6 @@
         "link": "#"
       }
     ],
-    "E/19/409": [
-      {
-        "tag": "aces-2025",
-        "position": "President",
-        "link": "#"
-      },
-      {
-        "tag": "aces-2023",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/19/310": [
-      {
-        "tag": "aces-2025",
-        "position": "Vice President",
-        "link": "#"
-      }
-    ],
-    "E/21/231": [
-      {
-        "tag": "aces-2025",
-        "position": "Assistant Secretary",
-        "link": "#"
-      }
-    ],
-    "E/19/249": [
-      {
-        "tag": "aces-2025",
-        "position": "Editor",
-        "link": "#"
-      }
-    ],
-    "E/20/346": [
-      {
-        "tag": "aces-2025",
-        "position": "Junior Editor",
-        "link": "#"
-      }
-    ],
-    "E/19/095": [
-      {
-        "tag": "aces-2025",
-        "position": "Committee Member",
-        "link": "#"
-      },
-      {
-        "tag": "aces-2024",
-        "position": "General Secretary",
-        "link": "#"
-      }
-    ],
-    "E/20/199": [
-      {
-        "tag": "aces-2025",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/21/361": [
-      {
-        "tag": "aces-2025",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/21/148": [
-      {
-        "tag": "aces-2025",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/20/131": [
-      {
-        "tag": "aces-2025",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/20/069": [
-      {
-        "tag": "aces-2025",
-        "position": "Committee Member",
-        "link": "#"
-      },
-      {
-        "tag": "aces-2024",
-        "position": "Assistant Secretary",
-        "link": "#"
-      }
-    ],
-    "E/19/266": [
-      {
-        "tag": "aces-2025",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/21/442": [
-      {
-        "tag": "aces-2025",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/20/350": [
-      {
-        "tag": "aces-2025",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/21/269": [
-      {
-        "tag": "aces-2025",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/19/057": [
-      {
-        "tag": "aces-2025",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/19/275": [
-      {
-        "tag": "aces-2025",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/19/063": [
-      {
-        "tag": "aces-2025",
-        "position": "Committee Member",
-        "link": "#"
-      },
-      {
-        "tag": "aces-2024",
-        "position": "Junior Treasurer",
-        "link": "#"
-      }
-    ],
-    "E/14/336": [
-      {
-        "tag": "aces-2019",
-        "position": "President",
-        "link": "#"
-      }
-    ],
-    "E/15/154": [
-      {
-        "tag": "aces-2019",
-        "position": "Secretary",
-        "link": "#"
-      }
-    ],
-    "E/14/154": [
-      {
-        "tag": "aces-2019",
-        "position": "Vice President",
-        "link": "#"
-      }
-    ],
-    "E/15/220": [
-      {
-        "tag": "aces-2019",
-        "position": "Junior Treasurer",
-        "link": "#"
-      }
-    ],
-    "E/14/080": [
-      {
-        "tag": "aces-2019",
-        "position": "Editor",
-        "link": "#"
-      }
-    ],
-    "E/14/011": [
-      {
-        "tag": "aces-2019",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/14/277": [
-      {
-        "tag": "aces-2019",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/14/305": [
-      {
-        "tag": "aces-2019",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/15/048": [
-      {
-        "tag": "aces-2019",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/15/136": [
-      {
-        "tag": "aces-2019",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/15/076": [
-      {
-        "tag": "aces-2019",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/18/285": [
-      {
-        "tag": "aces-2024",
-        "position": "President",
-        "link": "#"
-      }
-    ],
-    "E/18/028": [
-      {
-        "tag": "aces-2024",
-        "position": "Vice President",
-        "link": "#"
-      }
-    ],
-    "E/18/147": [
-      {
-        "tag": "aces-2024",
-        "position": "Editor",
-        "link": "#"
-      }
-    ],
-    "E/19/142": [
-      {
-        "tag": "aces-2024",
-        "position": "Junior Editor",
-        "link": "#"
-      }
-    ],
-    "E/18/349": [
-      {
-        "tag": "aces-2024",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/18/412": [
-      {
-        "tag": "aces-2024",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/18/329": [
-      {
-        "tag": "aces-2024",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/18/402": [
-      {
-        "tag": "aces-2024",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/18/245": [
-      {
-        "tag": "aces-2024",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/19/163": [
-      {
-        "tag": "aces-2024",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/19/034": [
-      {
-        "tag": "aces-2024",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/19/060": [
-      {
-        "tag": "aces-2024",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/19/028": [
-      {
-        "tag": "aces-2024",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/19/413": [
-      {
-        "tag": "aces-2024",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/20/420": [
-      {
-        "tag": "aces-2024",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/20/271": [
-      {
-        "tag": "aces-2024",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/20/338": [
-      {
-        "tag": "aces-2024",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/20/049": [
-      {
-        "tag": "aces-2024",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
-    "E/20/036": [
-      {
-        "tag": "aces-2024",
-        "position": "Committee Member",
-        "link": "#"
-      }
-    ],
     "E/16/332": [
       {
         "tag": "aces-2021",
@@ -936,6 +580,175 @@
         "link": "#"
       }
     ],
+    "E/18/285": [
+      {
+        "tag": "aces-2024",
+        "position": "President",
+        "link": "#"
+      }
+    ],
+    "E/18/028": [
+      {
+        "tag": "aces-2024",
+        "position": "Vice President",
+        "link": "#"
+      }
+    ],
+    "E/19/095": [
+      {
+        "tag": "aces-2024",
+        "position": "General Secretary",
+        "link": "#"
+      },
+      {
+        "tag": "aces-2025",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/20/069": [
+      {
+        "tag": "aces-2024",
+        "position": "Assistant Secretary",
+        "link": "#"
+      },
+      {
+        "tag": "aces-2025",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/19/063": [
+      {
+        "tag": "aces-2024",
+        "position": "Junior Treasurer",
+        "link": "#"
+      },
+      {
+        "tag": "aces-2025",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/18/147": [
+      {
+        "tag": "aces-2024",
+        "position": "Editor",
+        "link": "#"
+      }
+    ],
+    "E/19/142": [
+      {
+        "tag": "aces-2024",
+        "position": "Junior Editor",
+        "link": "#"
+      }
+    ],
+    "E/18/349": [
+      {
+        "tag": "aces-2024",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/18/412": [
+      {
+        "tag": "aces-2024",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/18/329": [
+      {
+        "tag": "aces-2024",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/18/402": [
+      {
+        "tag": "aces-2024",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/18/245": [
+      {
+        "tag": "aces-2024",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/19/163": [
+      {
+        "tag": "aces-2024",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/19/034": [
+      {
+        "tag": "aces-2024",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/19/060": [
+      {
+        "tag": "aces-2024",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/19/028": [
+      {
+        "tag": "aces-2024",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/19/413": [
+      {
+        "tag": "aces-2024",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/20/420": [
+      {
+        "tag": "aces-2024",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/20/271": [
+      {
+        "tag": "aces-2024",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/20/338": [
+      {
+        "tag": "aces-2024",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/20/049": [
+      {
+        "tag": "aces-2024",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/20/036": [
+      {
+        "tag": "aces-2024",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
     "E/15/299": [
       {
         "tag": "aces-2020",
@@ -1016,6 +829,193 @@
     "E/17/065": [
       {
         "tag": "aces-2020",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/14/336": [
+      {
+        "tag": "aces-2019",
+        "position": "President",
+        "link": "#"
+      }
+    ],
+    "E/15/154": [
+      {
+        "tag": "aces-2019",
+        "position": "Secretary",
+        "link": "#"
+      }
+    ],
+    "E/14/154": [
+      {
+        "tag": "aces-2019",
+        "position": "Vice President",
+        "link": "#"
+      }
+    ],
+    "E/15/220": [
+      {
+        "tag": "aces-2019",
+        "position": "Junior Treasurer",
+        "link": "#"
+      }
+    ],
+    "E/14/080": [
+      {
+        "tag": "aces-2019",
+        "position": "Editor",
+        "link": "#"
+      }
+    ],
+    "E/14/011": [
+      {
+        "tag": "aces-2019",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/14/277": [
+      {
+        "tag": "aces-2019",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/14/305": [
+      {
+        "tag": "aces-2019",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/15/048": [
+      {
+        "tag": "aces-2019",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/15/136": [
+      {
+        "tag": "aces-2019",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/15/076": [
+      {
+        "tag": "aces-2019",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/19/409": [
+      {
+        "tag": "aces-2025",
+        "position": "President",
+        "link": "#"
+      },
+      {
+        "tag": "aces-2023",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/19/310": [
+      {
+        "tag": "aces-2025",
+        "position": "Vice President",
+        "link": "#"
+      }
+    ],
+    "E/21/231": [
+      {
+        "tag": "aces-2025",
+        "position": "Assistant Secretary",
+        "link": "#"
+      }
+    ],
+    "E/19/249": [
+      {
+        "tag": "aces-2025",
+        "position": "Editor",
+        "link": "#"
+      }
+    ],
+    "E/20/346": [
+      {
+        "tag": "aces-2025",
+        "position": "Junior Editor",
+        "link": "#"
+      }
+    ],
+    "E/20/199": [
+      {
+        "tag": "aces-2025",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/21/361": [
+      {
+        "tag": "aces-2025",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/21/148": [
+      {
+        "tag": "aces-2025",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/20/131": [
+      {
+        "tag": "aces-2025",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/19/266": [
+      {
+        "tag": "aces-2025",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/21/442": [
+      {
+        "tag": "aces-2025",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/20/350": [
+      {
+        "tag": "aces-2025",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/21/269": [
+      {
+        "tag": "aces-2025",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/19/057": [
+      {
+        "tag": "aces-2025",
+        "position": "Committee Member",
+        "link": "#"
+      }
+    ],
+    "E/19/275": [
+      {
+        "tag": "aces-2025",
         "position": "Committee Member",
         "link": "#"
       }
