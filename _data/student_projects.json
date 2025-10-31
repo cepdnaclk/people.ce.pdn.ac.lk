@@ -7569,19 +7569,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-based-patient-care-diagnostic/"
     },
     {
-      "title": "Automated Road Rule Detector",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Automated-Road-Rule-Detector/",
-      "repo_url": "https://github.com/cepdnaclk/e18-3yp-Automated-Road-Rule-Detector",
-      "page_url": "https://cepdnaclk.github.io/e18-3yp-Automated-Road-Rule-Detector",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Road-Rule-Detector/"
-    },
-    {
       "title": "Neuromorphic NoC Architecture for SNNs",
       "category": {
         "code": "4yp",
@@ -8548,19 +8535,6 @@
       "page_url": "https://cepdnaclk.github.io/e18-6sp-Machine-Learning-for-Weather-Forecasting",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Machine-Learning-for-Weather-Forecasting/"
-    },
-    {
-      "title": "Automated Road Rule Detector",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Automated-Road-Rule-Detector/",
-      "repo_url": "https://github.com/cepdnaclk/e18-3yp-Automated-Road-Rule-Detector",
-      "page_url": "https://cepdnaclk.github.io/e18-3yp-Automated-Road-Rule-Detector",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Road-Rule-Detector/"
     },
     {
       "title": "Reinforcement Learning enabled Recommendation System For Emotional Support",
@@ -9801,19 +9775,6 @@
       "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-based-patient-care-diagnostic",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-based-patient-care-diagnostic/"
-    },
-    {
-      "title": "Automated Road Rule Detector",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e18/Automated-Road-Rule-Detector/",
-      "repo_url": "https://github.com/cepdnaclk/e18-3yp-Automated-Road-Rule-Detector",
-      "page_url": "https://cepdnaclk.github.io/e18-3yp-Automated-Road-Rule-Detector",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Automated-Road-Rule-Detector/"
     },
     {
       "title": "Neuromorphic NoC Architecture for SNNs",
