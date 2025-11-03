@@ -48,6 +48,7 @@ exclude:
     "*.yml",
     "tests/",
     "python_scripts",
+    ".venv/",
   ]
 
 kramdown:

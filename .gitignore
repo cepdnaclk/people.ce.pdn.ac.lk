@@ -26,3 +26,5 @@ personalNotes.txt
 
 .vscode
 .DS_Store
+.venv/
+test-results/
