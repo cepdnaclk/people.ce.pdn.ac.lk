@@ -2774,19 +2774,6 @@
   ],
   "E/16/057": [
     {
-      "title": "waiterbot system",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/waiterbot-system/",
-      "repo_url": "https://github.com/cepdnaclk/e16-3yp-waiterbot-system",
-      "page_url": "https://cepdnaclk.github.io/e16-3yp-waiterbot-system",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/waiterbot-system/"
-    },
-    {
       "title": "Using Computer Vision and Agent Based Modelling to Explore the Human Elephant Conflict",
       "category": {
         "code": "4yp",
@@ -3137,19 +3124,6 @@
     }
   ],
   "E/16/094": [
-    {
-      "title": "waiterbot system",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/waiterbot-system/",
-      "repo_url": "https://github.com/cepdnaclk/e16-3yp-waiterbot-system",
-      "page_url": "https://cepdnaclk.github.io/e16-3yp-waiterbot-system",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/waiterbot-system/"
-    },
     {
       "title": "swarm intelligence programming framework",
       "category": {
@@ -3686,19 +3660,6 @@
     }
   ],
   "E/16/276": [
-    {
-      "title": "waiterbot system",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/waiterbot-system/",
-      "repo_url": "https://github.com/cepdnaclk/e16-3yp-waiterbot-system",
-      "page_url": "https://cepdnaclk.github.io/e16-3yp-waiterbot-system",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/waiterbot-system/"
-    },
     {
       "title": "neuromorphic architecture",
       "category": {
@@ -6638,19 +6599,6 @@
       "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-A",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-A/"
-    },
-    {
-      "title": "Patient monitoring system",
-      "category": {
-        "code": "co326",
-        "title": "Industrial Automation Projects (CO326)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Patient-monitoring-system/",
-      "repo_url": "https://github.com/cepdnaclk/e18-co326-Patient-monitoring-system",
-      "page_url": "https://cepdnaclk.github.io/e18-co326-Patient-monitoring-system",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Patient-monitoring-system/"
     }
   ],
   "E/18/017": [
@@ -7001,19 +6949,6 @@
       "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
-    },
-    {
-      "title": "Patient monitoring system",
-      "category": {
-        "code": "co326",
-        "title": "Industrial Automation Projects (CO326)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Patient-monitoring-system/",
-      "repo_url": "https://github.com/cepdnaclk/e18-co326-Patient-monitoring-system",
-      "page_url": "https://cepdnaclk.github.io/e18-co326-Patient-monitoring-system",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Patient-monitoring-system/"
     },
     {
       "title": "RV32IM pipeline implementation group03",
@@ -7444,19 +7379,6 @@
       "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
-    },
-    {
-      "title": "Patient monitoring system",
-      "category": {
-        "code": "co326",
-        "title": "Industrial Automation Projects (CO326)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co326/e18/Patient-monitoring-system/",
-      "repo_url": "https://github.com/cepdnaclk/e18-co326-Patient-monitoring-system",
-      "page_url": "https://cepdnaclk.github.io/e18-co326-Patient-monitoring-system",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E18/Patient-monitoring-system/"
     }
   ],
   "E/18/118": [
@@ -16656,6 +16578,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Shopping-Cart/"
     },
     {
+      "title": "Predictive Link Stablitiy and Trust Aware Routing in FANETs",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs/"
+    },
+    {
       "title": "e Conductor",
       "category": {
         "code": "co227",
@@ -16846,6 +16781,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Aquarium/"
+    },
+    {
+      "title": "Federated Privacy Aware Network Anomaly Detection",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Federated-Privacy-Aware-Network-Anomaly-Detection/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Federated-Privacy-Aware-Network-Anomaly-Detection",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Federated-Privacy-Aware-Network-Anomaly-Detection",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Federated-Privacy-Aware-Network-Anomaly-Detection/"
     },
     {
       "title": "Student Academic Tracker",
@@ -17150,6 +17098,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/MediFlow/"
     },
     {
+      "title": "Federated Privacy Aware Network Anomaly Detection",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Federated-Privacy-Aware-Network-Anomaly-Detection/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Federated-Privacy-Aware-Network-Anomaly-Detection",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Federated-Privacy-Aware-Network-Anomaly-Detection",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Federated-Privacy-Aware-Network-Anomaly-Detection/"
+    },
+    {
       "title": "Computer Engineering Portal",
       "category": {
         "code": "co227",
@@ -17261,6 +17222,19 @@
     }
   ],
   "E/20/122": [
+    {
+      "title": "OceanEyes",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
+      "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
+      "page_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
+    },
     {
       "title": "Erasmus plus Project Web and MIS",
       "category": {
@@ -17384,6 +17358,19 @@
     }
   ],
   "E/20/148": [
+    {
+      "title": "OceanEyes",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
+      "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
+      "page_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
+    },
     {
       "title": "XAI Driven Threat Intelligence for WiFi 7 6G Using FL and Blockchain Based Trust Sharing",
       "category": {
@@ -17562,6 +17549,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
     },
     {
+      "title": "Predictive Link Stablitiy and Trust Aware Routing in FANETs",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs/"
+    },
+    {
       "title": "MLink A Pharmacy Linking Platform",
       "category": {
         "code": "co227",
@@ -17576,6 +17576,32 @@
     }
   ],
   "E/20/178": [
+    {
+      "title": "OceanEyes",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
+      "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
+      "page_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
+    },
+    {
+      "title": "Predictive Link Stablitiy and Trust Aware Routing in FANETs",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs/"
+    },
     {
       "title": "Erasmus plus Project Web and MIS",
       "category": {
@@ -18399,6 +18425,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Train-Tracking-and-Smart-Ticketing/"
     },
     {
+      "title": "Federated Privacy Aware Network Anomaly Detection",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Federated-Privacy-Aware-Network-Anomaly-Detection/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Federated-Privacy-Aware-Network-Anomaly-Detection",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Federated-Privacy-Aware-Network-Anomaly-Detection",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Federated-Privacy-Aware-Network-Anomaly-Detection/"
+    },
+    {
       "title": "CathLab Management System",
       "category": {
         "code": "co227",
@@ -18670,6 +18709,19 @@
     }
   ],
   "E/20/316": [
+    {
+      "title": "OceanEyes",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
+      "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
+      "page_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
+    },
     {
       "title": "XAI Driven Threat Intelligence for WiFi 7 6G Using FL and Blockchain Based Trust Sharing",
       "category": {
@@ -19864,6 +19916,36 @@
       "page_url": "https://cepdnaclk.github.io/e20-co543-real-time-shadow-removal-from-images",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/real-time-shadow-removal-from-images/"
+    }
+  ],
+  "E/21/087": [
+    {
+      "title": "Neuromorphic Web Site",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Neuromorphic-Web-Site/",
+      "repo_url": "https://github.com/cepdnaclk/e21-CO227-Neuromorphic-Web-Site",
+      "page_url": "https://cepdnaclk.github.io/e21-CO227-Neuromorphic-Web-Site",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Neuromorphic-Web-Site/"
+    }
+  ],
+  "E/21/302": [
+    {
+      "title": "Neuromorphic Web Site",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Neuromorphic-Web-Site/",
+      "repo_url": "https://github.com/cepdnaclk/e21-CO227-Neuromorphic-Web-Site",
+      "page_url": "https://cepdnaclk.github.io/e21-CO227-Neuromorphic-Web-Site",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Neuromorphic-Web-Site/"
     }
   ]
 }
