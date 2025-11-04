@@ -19998,32 +19998,62 @@
   ],
   "E/21/087": [
     {
-      "title": "Neuromorphic Web Site",
+      "title": "PeraMorphiq",
       "category": {
         "code": "co227",
         "title": "Software Systems Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Neuromorphic-Web-Site/",
-      "repo_url": "https://github.com/cepdnaclk/e21-CO227-Neuromorphic-Web-Site",
-      "page_url": "https://cepdnaclk.github.io/e21-CO227-Neuromorphic-Web-Site",
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraMorphiq/",
+      "repo_url": "https://github.com/cepdnaclk/e21-CO227-PeraMorphiq",
+      "page_url": "https://cepdnaclk.github.io/e21-CO227-PeraMorphiq",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Neuromorphic-Web-Site/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraMorphiq/"
+    }
+  ],
+  "E/21/198": [
+    {
+      "title": "PeraMorphiq",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraMorphiq/",
+      "repo_url": "https://github.com/cepdnaclk/e21-CO227-PeraMorphiq",
+      "page_url": "https://cepdnaclk.github.io/e21-CO227-PeraMorphiq",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraMorphiq/"
     }
   ],
   "E/21/302": [
     {
-      "title": "Neuromorphic Web Site",
+      "title": "PeraMorphiq",
       "category": {
         "code": "co227",
         "title": "Software Systems Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Neuromorphic-Web-Site/",
-      "repo_url": "https://github.com/cepdnaclk/e21-CO227-Neuromorphic-Web-Site",
-      "page_url": "https://cepdnaclk.github.io/e21-CO227-Neuromorphic-Web-Site",
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraMorphiq/",
+      "repo_url": "https://github.com/cepdnaclk/e21-CO227-PeraMorphiq",
+      "page_url": "https://cepdnaclk.github.io/e21-CO227-PeraMorphiq",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Neuromorphic-Web-Site/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraMorphiq/"
+    }
+  ],
+  "E/21/353": [
+    {
+      "title": "PeraMorphiq",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraMorphiq/",
+      "repo_url": "https://github.com/cepdnaclk/e21-CO227-PeraMorphiq",
+      "page_url": "https://cepdnaclk.github.io/e21-CO227-PeraMorphiq",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraMorphiq/"
     }
   ]
 }
