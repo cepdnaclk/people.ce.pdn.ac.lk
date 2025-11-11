@@ -2663,7 +2663,7 @@
     }
   },
   "roshanr@eng.pdn.ac.lk": {
-    "count": 54,
+    "count": 55,
     "projects": {
       "e19": [
         {
@@ -3124,6 +3124,19 @@
           "page_url": "https://cepdnaclk.github.io/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/"
+        },
+        {
+          "title": "network anomaly detection",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/network-anomaly-detection/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-network-anomaly-detection",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-network-anomaly-detection",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/"
         },
         {
           "title": "novel compression methods for nanopore raw signal data",
@@ -3661,6 +3674,26 @@
   "sumudu.jayawardana@med.pdn.ac.lk": {
     "count": 0,
     "projects": {}
+  },
+  "sunethn@pdn.ac.lk": {
+    "count": 1,
+    "projects": {
+      "e17": [
+        {
+          "title": "network anomaly detection",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/network-anomaly-detection/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-network-anomaly-detection",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-network-anomaly-detection",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/"
+        }
+      ]
+    }
   },
   "supunj@eng.pdn.ac.lk": {
     "count": 1,

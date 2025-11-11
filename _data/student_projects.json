@@ -4506,6 +4506,19 @@
       "page_url": "https://cepdnaclk.github.io/e17-3yp-Covid-Tracer",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Covid-Tracer/"
+    },
+    {
+      "title": "network anomaly detection",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/network-anomaly-detection/",
+      "repo_url": "https://github.com/cepdnaclk/e17-4yp-network-anomaly-detection",
+      "page_url": "https://cepdnaclk.github.io/e17-4yp-network-anomaly-detection",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/"
     }
   ],
   "E/17/058": [
@@ -5600,6 +5613,19 @@
       "page_url": "https://cepdnaclk.github.io/e17-3yp-E-Parking-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/E-Parking-System/"
+    },
+    {
+      "title": "network anomaly detection",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/network-anomaly-detection/",
+      "repo_url": "https://github.com/cepdnaclk/e17-4yp-network-anomaly-detection",
+      "page_url": "https://cepdnaclk.github.io/e17-4yp-network-anomaly-detection",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/"
     }
   ],
   "E/17/252": [
@@ -5628,6 +5654,19 @@
       "page_url": "https://cepdnaclk.github.io/e17-3yp-Covid-Tracer",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Covid-Tracer/"
+    },
+    {
+      "title": "network anomaly detection",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/network-anomaly-detection/",
+      "repo_url": "https://github.com/cepdnaclk/e17-4yp-network-anomaly-detection",
+      "page_url": "https://cepdnaclk.github.io/e17-4yp-network-anomaly-detection",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/"
     }
   ],
   "E/17/256": [
