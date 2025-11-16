@@ -391,6 +391,24 @@
       "linkedin": "https://www.linkedin.com/in/kanishka-gunawardana-285aa4201",
       "joined_date": "2025-08-25",
       "left_date": "2026-08-24"
+    },
+    {
+      "staff_name": "Sethma Weerasinghe",
+      "text_below_name": "Temporary Instructor",
+      "url_image": "/images/staff/temporary-academic-staff/sethma.jpeg",
+      "email": "e19424@eng.pdn.ac.lk",
+      "linkedin": "https://www.linkedln.com/sethmanethminiweerasinghe",
+      "joined_date": "2025-11-03",
+      "left_date": "2026-10-31"
+    },
+    {
+      "staff_name": "Thiliru Samaradiwakara",
+      "text_below_name": "Temporary Instructor",
+      "url_image": "/images/staff/temporary-academic-staff/thiliru-samaradiwakara.jpeg",
+      "email": "e19489@eng.pdn.ac.lk",
+      "linkedin": "https://www.linkedin.com/in/thiliru-samaradiwakara/",
+      "joined_date": "2025-11-03",
+      "left_date": "2026-10-02"
     }
   ]
 }
