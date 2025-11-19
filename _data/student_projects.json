@@ -1,4 +1,19 @@
 {
+  " E/21/077": [
+    {
+      "title": "Online doctor appointment website 2yp",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Online-doctor-appointment-website-2yp/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Online-doctor-appointment-website-2yp",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Online-doctor-appointment-website-2yp",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Online-doctor-appointment-website-2yp/"
+    }
+  ],
   "E/14/009": [
     {
       "title": "Networked and Automated Weather Monitoring and Alerting System",
@@ -19998,17 +20013,17 @@
   ],
   "E/21/017": [
     {
-      "title": "PeraVerse Organizer Dashboard Team2",
+      "title": "PeraVerse Organizer Dashboard",
       "category": {
         "code": "co227",
         "title": "Software Systems Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Team2/",
-      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
-      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Team2/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard/"
     }
   ],
   "E/21/019": [
@@ -20024,6 +20039,36 @@
       "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-Details-Page",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-Details-Page/"
+    }
+  ],
+  "E/21/036": [
+    {
+      "title": "Online doctor appointment website 2yp",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Online-doctor-appointment-website-2yp/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Online-doctor-appointment-website-2yp",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Online-doctor-appointment-website-2yp",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Online-doctor-appointment-website-2yp/"
+    }
+  ],
+  "E/21/039": [
+    {
+      "title": "Peraverse integration",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Peraverse-integration/",
+      "repo_url": "https://github.com/cepdnaclk/e21-CO227-Peraverse-integration",
+      "page_url": "https://cepdnaclk.github.io/e21-CO227-Peraverse-integration",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Peraverse-integration/"
     }
   ],
   "E/21/050": [
@@ -20073,17 +20118,47 @@
   ],
   "E/21/137": [
     {
-      "title": "PeraVerse Organizer Dashboard Team2",
+      "title": "PeraVerse Organizer Dashboard",
       "category": {
         "code": "co227",
         "title": "Software Systems Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Team2/",
-      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
-      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Team2/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard/"
+    }
+  ],
+  "E/21/138": [
+    {
+      "title": "Peraverse integration",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Peraverse-integration/",
+      "repo_url": "https://github.com/cepdnaclk/e21-CO227-Peraverse-integration",
+      "page_url": "https://cepdnaclk.github.io/e21-CO227-Peraverse-integration",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Peraverse-integration/"
+    }
+  ],
+  "E/21/140": [
+    {
+      "title": "Online doctor appointment website 2yp",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Online-doctor-appointment-website-2yp/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Online-doctor-appointment-website-2yp",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Online-doctor-appointment-website-2yp",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Online-doctor-appointment-website-2yp/"
     }
   ],
   "E/21/148": [
@@ -20118,17 +20193,17 @@
   ],
   "E/21/157": [
     {
-      "title": "PeraVerse Organizer Dashboard Team2",
+      "title": "PeraVerse Organizer Dashboard",
       "category": {
         "code": "co227",
         "title": "Software Systems Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Team2/",
-      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
-      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Team2/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard/"
     }
   ],
   "E/21/198": [
@@ -20206,6 +20281,36 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/"
     }
   ],
+  "E/21/231": [
+    {
+      "title": "Peraverse integration",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Peraverse-integration/",
+      "repo_url": "https://github.com/cepdnaclk/e21-CO227-Peraverse-integration",
+      "page_url": "https://cepdnaclk.github.io/e21-CO227-Peraverse-integration",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Peraverse-integration/"
+    }
+  ],
+  "E/21/245": [
+    {
+      "title": "Online doctor appointment website 2yp",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Online-doctor-appointment-website-2yp/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Online-doctor-appointment-website-2yp",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Online-doctor-appointment-website-2yp",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Online-doctor-appointment-website-2yp/"
+    }
+  ],
   "E/21/287": [
     {
       "title": "QR AI Entry Exit Tracking System",
@@ -20268,17 +20373,32 @@
   ],
   "E/21/391": [
     {
-      "title": "PeraVerse Organizer Dashboard Team2",
+      "title": "PeraVerse Organizer Dashboard",
       "category": {
         "code": "co227",
         "title": "Software Systems Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Team2/",
-      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
-      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Team2/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard/"
+    }
+  ],
+  "E/21/415": [
+    {
+      "title": "Peraverse integration",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Peraverse-integration/",
+      "repo_url": "https://github.com/cepdnaclk/e21-CO227-Peraverse-integration",
+      "page_url": "https://cepdnaclk.github.io/e21-CO227-Peraverse-integration",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Peraverse-integration/"
     }
   ],
   "E/21/428": [
