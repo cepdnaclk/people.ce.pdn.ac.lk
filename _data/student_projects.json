@@ -20011,6 +20011,36 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/real-time-shadow-removal-from-images/"
     }
   ],
+  "E/21/006": [
+    {
+      "title": "PeraVerse Organizer Dashboard Core Frontend",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Core-Frontend/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Core-Frontend/"
+    }
+  ],
+  "E/21/007": [
+    {
+      "title": "PeraVerse Organizer Dashboard Core Frontend",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Core-Frontend/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Core-Frontend/"
+    }
+  ],
   "E/21/017": [
     {
       "title": "PeraVerse Organizer Dashboard Core Backend",
@@ -20099,6 +20129,36 @@
       "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-Details-Page",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-Details-Page/"
+    }
+  ],
+  "E/21/065": [
+    {
+      "title": "Crowd Balance Mobile App",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Crowd-Balance-Mobile-App/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Crowd-Balance-Mobile-App",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Crowd-Balance-Mobile-App",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Crowd-Balance-Mobile-App/"
+    }
+  ],
+  "E/21/068": [
+    {
+      "title": "PeraVerse Event List Page",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Event-List-Page/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-List-Page",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-List-Page",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-List-Page/"
     }
   ],
   "E/21/087": [
@@ -20311,6 +20371,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Online-doctor-appointment-website-2yp/"
     }
   ],
+  "E/21/277": [
+    {
+      "title": "Crowd Balance Mobile App",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Crowd-Balance-Mobile-App/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Crowd-Balance-Mobile-App",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Crowd-Balance-Mobile-App",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Crowd-Balance-Mobile-App/"
+    }
+  ],
   "E/21/287": [
     {
       "title": "QR AI Entry Exit Tracking System",
@@ -20326,6 +20401,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/"
     }
   ],
+  "E/21/289": [
+    {
+      "title": "PeraVerse Event List Page",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Event-List-Page/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-List-Page",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-List-Page",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-List-Page/"
+    }
+  ],
   "E/21/302": [
     {
       "title": "PeraMorphiq",
@@ -20339,6 +20429,21 @@
       "page_url": "https://cepdnaclk.github.io/e21-CO227-PeraMorphiq",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraMorphiq/"
+    }
+  ],
+  "E/21/328": [
+    {
+      "title": "PeraVerse Event List Page",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Event-List-Page/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-List-Page",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-List-Page",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-List-Page/"
     }
   ],
   "E/21/350": [
@@ -20414,6 +20519,51 @@
       "page_url": "https://cepdnaclk.github.io/e21-co227-QR-AI-Entry-Exit-Tracking-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/"
+    }
+  ],
+  "E/21/442": [
+    {
+      "title": "PeraVerse Event List Page",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Event-List-Page/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-List-Page",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-List-Page",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-List-Page/"
+    }
+  ],
+  "E/21/444": [
+    {
+      "title": "Crowd Balance Mobile App",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Crowd-Balance-Mobile-App/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Crowd-Balance-Mobile-App",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Crowd-Balance-Mobile-App",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Crowd-Balance-Mobile-App/"
+    }
+  ],
+  "E/YY/045": [
+    {
+      "title": "Crowd Balance Mobile App",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Crowd-Balance-Mobile-App/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Crowd-Balance-Mobile-App",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Crowd-Balance-Mobile-App",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Crowd-Balance-Mobile-App/"
     }
   ]
 }
