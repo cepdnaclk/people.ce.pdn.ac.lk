@@ -59,7 +59,7 @@ sitemap: false
         {% endfor -%}
     },
     "visiting":{
-        {% for each in site.data.visiting-research-fellows -%}
+        {% for each in site.data.visiting-research-fellows.data -%}
         {%- if each.name != "#" -%}
         "{{ each.email }}":{
             {%- comment -%}Each designation is seperated using a semicolon ( ; ){%- endcomment -%}
