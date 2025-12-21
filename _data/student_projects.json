@@ -16464,6 +16464,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co227-FoE-Room-Reservation",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/FoE-Room-Reservation/"
+    },
+    {
+      "title": "Handwritten Mathematical Equation Recognition Using CNN",
+      "category": {
+        "code": "co542",
+        "title": "Neural Networks Projects (CO542)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Handwritten-Mathematical-Equation-Recognition-Using-CNN/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
+      "page_url": "https://cepdnaclk.github.io/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Handwritten-Mathematical-Equation-Recognition-Using-CNN/"
     }
   ],
   "E/20/016": [
@@ -16699,19 +16712,6 @@
   ],
   "E/20/036": [
     {
-      "title": "Smart Locker System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Locker-System/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Locker-System",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Locker-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Locker-System/"
-    },
-    {
       "title": "Food Buddy",
       "category": {
         "code": "co227",
@@ -16767,19 +16767,6 @@
     }
   ],
   "E/20/049": [
-    {
-      "title": "Smart Waste Management System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Waste-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Waste-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Waste-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Waste-Management-System/"
-    },
     {
       "title": "Academic Staff Management Information System",
       "category": {
@@ -17136,19 +17123,6 @@
     }
   ],
   "E/20/093": [
-    {
-      "title": "Smart Waste Management System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Waste-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Waste-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Waste-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Waste-Management-System/"
-    },
     {
       "title": "Academic Staff Management Information System",
       "category": {
@@ -17897,6 +17871,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co227-FoE-Room-Reservation",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/FoE-Room-Reservation/"
+    },
+    {
+      "title": "Handwritten Mathematical Equation Recognition Using CNN",
+      "category": {
+        "code": "co542",
+        "title": "Neural Networks Projects (CO542)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Handwritten-Mathematical-Equation-Recognition-Using-CNN/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
+      "page_url": "https://cepdnaclk.github.io/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Handwritten-Mathematical-Equation-Recognition-Using-CNN/"
     }
   ],
   "E/20/211": [
@@ -17954,19 +17941,6 @@
     }
   ],
   "E/20/212": [
-    {
-      "title": "Smart Locker System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Locker-System/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Locker-System",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Locker-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Locker-System/"
-    },
     {
       "title": "Postgraduate Student Management System",
       "category": {
@@ -18092,19 +18066,6 @@
     }
   ],
   "E/20/244": [
-    {
-      "title": "Smart Waste Management System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Waste-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Waste-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Waste-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Waste-Management-System/"
-    },
     {
       "title": "Academic Staff Management Information System",
       "category": {
@@ -18287,19 +18248,6 @@
   ],
   "E/20/271": [
     {
-      "title": "Smart Waste Management System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Waste-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Waste-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Waste-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Waste-Management-System/"
-    },
-    {
       "title": "Academic Staff Management Information System",
       "category": {
         "code": "co227",
@@ -18337,7 +18285,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Vehicle-Tracking-and-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Vehicle-Tracking-and-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Vehicle-Tracking-and-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Vehicle-Tracking-and-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Vehicle-Tracking-and-Management-System/"
     },
     {
@@ -18950,6 +18898,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co227-FoE-Room-Reservation",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/FoE-Room-Reservation/"
+    },
+    {
+      "title": "Handwritten Mathematical Equation Recognition Using CNN",
+      "category": {
+        "code": "co542",
+        "title": "Neural Networks Projects (CO542)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Handwritten-Mathematical-Equation-Recognition-Using-CNN/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
+      "page_url": "https://cepdnaclk.github.io/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Handwritten-Mathematical-Equation-Recognition-Using-CNN/"
     }
   ],
   "E/20/339": [
@@ -18978,6 +18939,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co227-FoE-Room-Reservation",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/FoE-Room-Reservation/"
+    },
+    {
+      "title": "Handwritten Mathematical Equation Recognition Using CNN",
+      "category": {
+        "code": "co542",
+        "title": "Neural Networks Projects (CO542)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Handwritten-Mathematical-Equation-Recognition-Using-CNN/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
+      "page_url": "https://cepdnaclk.github.io/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Handwritten-Mathematical-Equation-Recognition-Using-CNN/"
     }
   ],
   "E/20/342": [
@@ -19076,19 +19050,6 @@
     }
   ],
   "E/20/350": [
-    {
-      "title": "Smart Locker System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Locker-System/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Locker-System",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Locker-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Locker-System/"
-    },
     {
       "title": "Food Buddy",
       "category": {
@@ -19408,19 +19369,6 @@
     }
   ],
   "E/20/377": [
-    {
-      "title": "Smart Locker System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Locker-System/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Locker-System",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Locker-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Locker-System/"
-    },
     {
       "title": "Food Buddy",
       "category": {
@@ -19968,7 +19916,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Vehicle-Tracking-and-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Vehicle-Tracking-and-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Vehicle-Tracking-and-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Vehicle-Tracking-and-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Vehicle-Tracking-and-Management-System/"
     },
     {
