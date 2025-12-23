@@ -150,6 +150,15 @@
       "left_date": "2023-06-01"
     },
     {
+      "staff_name": "Rusiru Thushara",
+      "text_below_name": "Temporary Instructor",
+      "url_image": "/images/staff/temporary-academic-staff/rusiru-thushara.jpeg",
+      "email": "rusiru@eng.pdn.ac.lk",
+      "linkedin": "https://www.linkedin.com/in/rusiru-thushara/",
+      "joined_date": "2023-03-05",
+      "left_date": "2023-08-11"
+    },
+    {
       "staff_name": "Isuru Pamuditha Thilakasiri",
       "text_below_name": "Temporary Instructor",
       "url_image": "/images/staff/temporary-academic-staff/isuru-pamuditha-thilakasiri.jpeg",
@@ -354,7 +363,7 @@
       "email": "e19324@eng.pdn.ac.lk",
       "linkedin": "https://linkedin.com/in/bimbara-ratnayake",
       "joined_date": "2025-08-18",
-      "left_date": "2026-08-17"
+      "left_date": "2025-12-10"
     },
     {
       "staff_name": "Chandula Adhikari",
@@ -409,6 +418,15 @@
       "linkedin": "https://www.linkedin.com/in/thiliru-samaradiwakara/",
       "joined_date": "2025-11-03",
       "left_date": "2026-10-02"
+    },
+    {
+      "staff_name": "Panchali Ekanayake",
+      "text_below_name": "Temporary Instructor",
+      "url_image": "/images/staff/temporary-academic-staff/panchali.jpeg",
+      "email": "panchaliekanayake1999@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/panchali-ekanayake/",
+      "joined_date": "2025-12-11",
+      "left_date": "2026-12-10"
     }
   ]
 }

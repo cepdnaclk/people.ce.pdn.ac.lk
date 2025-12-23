@@ -1,4 +1,19 @@
 {
+  " E/21/077": [
+    {
+      "title": "Online doctor appointment website 2yp",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Online-doctor-appointment-website-2yp/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Online-doctor-appointment-website-2yp",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Online-doctor-appointment-website-2yp",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Online-doctor-appointment-website-2yp/"
+    }
+  ],
   "E/14/009": [
     {
       "title": "Networked and Automated Weather Monitoring and Alerting System",
@@ -1372,7 +1387,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/",
       "repo_url": "https://github.com/cepdnaclk/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
       "page_url": "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/"
     },
     {
@@ -1523,7 +1538,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/",
       "repo_url": "https://github.com/cepdnaclk/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
       "page_url": "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/"
     },
     {
@@ -2376,7 +2391,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/",
       "repo_url": "https://github.com/cepdnaclk/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
       "page_url": "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/"
     },
     {
@@ -16434,7 +16449,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Cattle-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Cattle-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Cattle-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Cattle-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Cattle-Management-System/"
     },
     {
@@ -16449,6 +16464,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co227-FoE-Room-Reservation",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/FoE-Room-Reservation/"
+    },
+    {
+      "title": "Handwritten Mathematical Equation Recognition Using CNN",
+      "category": {
+        "code": "co542",
+        "title": "Neural Networks Projects (CO542)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Handwritten-Mathematical-Equation-Recognition-Using-CNN/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
+      "page_url": "https://cepdnaclk.github.io/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Handwritten-Mathematical-Equation-Recognition-Using-CNN/"
     }
   ],
   "E/20/016": [
@@ -16462,7 +16490,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Aquarium/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Aquarium",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Aquarium/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Aquarium/"
     },
     {
@@ -16490,7 +16518,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/P-E-BO-Desk-Companion/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-P-E-BO-Desk-Companion",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
     },
     {
@@ -16544,7 +16572,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SkyT/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SkyT/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
     },
     {
@@ -16598,7 +16626,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SkyT/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SkyT/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
     },
     {
@@ -16684,19 +16712,6 @@
   ],
   "E/20/036": [
     {
-      "title": "Smart Locker System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Locker-System/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Locker-System",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Locker-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Locker-System/"
-    },
-    {
       "title": "Food Buddy",
       "category": {
         "code": "co227",
@@ -16734,7 +16749,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Remote-Gait-Analysis/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Remote-Gait-Analysis",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Remote-Gait-Analysis/"
     },
     {
@@ -16752,19 +16767,6 @@
     }
   ],
   "E/20/049": [
-    {
-      "title": "Smart Waste Management System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Waste-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Waste-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Waste-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Waste-Management-System/"
-    },
     {
       "title": "Academic Staff Management Information System",
       "category": {
@@ -16803,7 +16805,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/"
     },
     {
@@ -16857,21 +16859,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Aquarium/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Aquarium",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Aquarium/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Aquarium/"
     },
     {
-      "title": "Federated Privacy Aware Network Anomaly Detection",
+      "title": "backdoor resilient federated nids",
       "category": {
         "code": "4yp",
         "title": "Undergraduate Research Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Federated-Privacy-Aware-Network-Anomaly-Detection/",
-      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Federated-Privacy-Aware-Network-Anomaly-Detection",
-      "page_url": "https://cepdnaclk.github.io/e20-4yp-Federated-Privacy-Aware-Network-Anomaly-Detection",
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/backdoor-resilient-federated-nids/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-backdoor-resilient-federated-nids",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-backdoor-resilient-federated-nids",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Federated-Privacy-Aware-Network-Anomaly-Detection/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/backdoor-resilient-federated-nids/"
     },
     {
       "title": "Student Academic Tracker",
@@ -16941,7 +16943,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Train-Tracking-and-Smart-Ticketing/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Train-Tracking-and-Smart-Ticketing",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Train-Tracking-and-Smart-Ticketing/"
     },
     {
@@ -16995,7 +16997,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Canteen-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Canteen-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Canteen-Management-System/"
     },
     {
@@ -17036,7 +17038,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/MediFlow/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-MediFlow",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-MediFlow/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/MediFlow/"
     },
     {
@@ -17090,7 +17092,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/P-E-BO-Desk-Companion/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-P-E-BO-Desk-Companion",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
     },
     {
@@ -17121,19 +17123,6 @@
     }
   ],
   "E/20/093": [
-    {
-      "title": "Smart Waste Management System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Waste-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Waste-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Waste-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Waste-Management-System/"
-    },
     {
       "title": "Academic Staff Management Information System",
       "category": {
@@ -17172,21 +17161,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/MediFlow/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-MediFlow",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-MediFlow/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/MediFlow/"
     },
     {
-      "title": "Federated Privacy Aware Network Anomaly Detection",
+      "title": "backdoor resilient federated nids",
       "category": {
         "code": "4yp",
         "title": "Undergraduate Research Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Federated-Privacy-Aware-Network-Anomaly-Detection/",
-      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Federated-Privacy-Aware-Network-Anomaly-Detection",
-      "page_url": "https://cepdnaclk.github.io/e20-4yp-Federated-Privacy-Aware-Network-Anomaly-Detection",
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/backdoor-resilient-federated-nids/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-backdoor-resilient-federated-nids",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-backdoor-resilient-federated-nids",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Federated-Privacy-Aware-Network-Anomaly-Detection/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/backdoor-resilient-federated-nids/"
     },
     {
       "title": "Computer Engineering Portal",
@@ -17295,7 +17284,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Canteen-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Canteen-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Canteen-Management-System/"
     }
   ],
@@ -17310,7 +17299,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-OceanEyes/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
     },
     {
@@ -17364,7 +17353,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/MediFlow/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-MediFlow",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-MediFlow/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/MediFlow/"
     },
     {
@@ -17446,7 +17435,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-OceanEyes/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
     },
     {
@@ -17513,7 +17502,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SkyT/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SkyT/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
     },
     {
@@ -17567,7 +17556,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vescueye/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vescueye",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
     },
     {
@@ -17623,7 +17612,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SkyT/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SkyT/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
     },
     {
@@ -17664,7 +17653,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-OceanEyes/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
     },
     {
@@ -17731,7 +17720,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/MediFlow/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-MediFlow",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-MediFlow/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/MediFlow/"
     },
     {
@@ -17813,7 +17802,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/"
     },
     {
@@ -17867,7 +17856,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Cattle-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Cattle-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Cattle-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Cattle-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Cattle-Management-System/"
     },
     {
@@ -17882,6 +17871,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co227-FoE-Room-Reservation",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/FoE-Room-Reservation/"
+    },
+    {
+      "title": "Handwritten Mathematical Equation Recognition Using CNN",
+      "category": {
+        "code": "co542",
+        "title": "Neural Networks Projects (CO542)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Handwritten-Mathematical-Equation-Recognition-Using-CNN/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
+      "page_url": "https://cepdnaclk.github.io/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Handwritten-Mathematical-Equation-Recognition-Using-CNN/"
     }
   ],
   "E/20/211": [
@@ -17895,7 +17897,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/"
     },
     {
@@ -17940,19 +17942,6 @@
   ],
   "E/20/212": [
     {
-      "title": "Smart Locker System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Locker-System/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Locker-System",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Locker-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Locker-System/"
-    },
-    {
       "title": "Postgraduate Student Management System",
       "category": {
         "code": "co227",
@@ -17977,7 +17966,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Aquarium/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Aquarium",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Aquarium/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Aquarium/"
     },
     {
@@ -18078,19 +18067,6 @@
   ],
   "E/20/244": [
     {
-      "title": "Smart Waste Management System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Waste-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Waste-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Waste-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Waste-Management-System/"
-    },
-    {
       "title": "Academic Staff Management Information System",
       "category": {
         "code": "co227",
@@ -18128,7 +18104,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vescueye/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vescueye",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
     },
     {
@@ -18156,7 +18132,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/VR-Multiplayer-Golf-Game/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-VR-Multiplayer-Golf-Game",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/VR-Multiplayer-Golf-Game/"
     },
     {
@@ -18210,7 +18186,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Canteen-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Canteen-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Canteen-Management-System/"
     }
   ],
@@ -18272,19 +18248,6 @@
   ],
   "E/20/271": [
     {
-      "title": "Smart Waste Management System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Waste-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Waste-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Waste-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Waste-Management-System/"
-    },
-    {
       "title": "Academic Staff Management Information System",
       "category": {
         "code": "co227",
@@ -18322,7 +18285,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Vehicle-Tracking-and-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Vehicle-Tracking-and-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Vehicle-Tracking-and-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Vehicle-Tracking-and-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Vehicle-Tracking-and-Management-System/"
     },
     {
@@ -18404,7 +18367,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Train-Tracking-and-Smart-Ticketing/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Train-Tracking-and-Smart-Ticketing",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Train-Tracking-and-Smart-Ticketing/"
     },
     {
@@ -18499,21 +18462,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Train-Tracking-and-Smart-Ticketing/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Train-Tracking-and-Smart-Ticketing",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Train-Tracking-and-Smart-Ticketing/"
     },
     {
-      "title": "Federated Privacy Aware Network Anomaly Detection",
+      "title": "backdoor resilient federated nids",
       "category": {
         "code": "4yp",
         "title": "Undergraduate Research Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Federated-Privacy-Aware-Network-Anomaly-Detection/",
-      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Federated-Privacy-Aware-Network-Anomaly-Detection",
-      "page_url": "https://cepdnaclk.github.io/e20-4yp-Federated-Privacy-Aware-Network-Anomaly-Detection",
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/backdoor-resilient-federated-nids/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-backdoor-resilient-federated-nids",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-backdoor-resilient-federated-nids",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Federated-Privacy-Aware-Network-Anomaly-Detection/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/backdoor-resilient-federated-nids/"
     },
     {
       "title": "CathLab Management System",
@@ -18566,7 +18529,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/"
     },
     {
@@ -18633,7 +18596,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Train-Tracking-and-Smart-Ticketing/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Train-Tracking-and-Smart-Ticketing",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Train-Tracking-and-Smart-Ticketing/"
     },
     {
@@ -18715,7 +18678,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vescueye/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vescueye",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
     },
     {
@@ -18797,7 +18760,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-OceanEyes/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
     },
     {
@@ -18920,7 +18883,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Cattle-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Cattle-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Cattle-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Cattle-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Cattle-Management-System/"
     },
     {
@@ -18935,6 +18898,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co227-FoE-Room-Reservation",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/FoE-Room-Reservation/"
+    },
+    {
+      "title": "Handwritten Mathematical Equation Recognition Using CNN",
+      "category": {
+        "code": "co542",
+        "title": "Neural Networks Projects (CO542)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Handwritten-Mathematical-Equation-Recognition-Using-CNN/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
+      "page_url": "https://cepdnaclk.github.io/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Handwritten-Mathematical-Equation-Recognition-Using-CNN/"
     }
   ],
   "E/20/339": [
@@ -18948,7 +18924,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Cattle-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Cattle-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Cattle-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Cattle-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Cattle-Management-System/"
     },
     {
@@ -18963,6 +18939,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co227-FoE-Room-Reservation",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/FoE-Room-Reservation/"
+    },
+    {
+      "title": "Handwritten Mathematical Equation Recognition Using CNN",
+      "category": {
+        "code": "co542",
+        "title": "Neural Networks Projects (CO542)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co542/e20/Handwritten-Mathematical-Equation-Recognition-Using-CNN/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
+      "page_url": "https://cepdnaclk.github.io/e20-co542-Handwritten-Mathematical-Equation-Recognition-Using-CNN",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Handwritten-Mathematical-Equation-Recognition-Using-CNN/"
     }
   ],
   "E/20/342": [
@@ -18976,7 +18965,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Remote-Gait-Analysis/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Remote-Gait-Analysis",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Remote-Gait-Analysis/"
     },
     {
@@ -19030,7 +19019,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SafePlus/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-SafePlus",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
     },
     {
@@ -19061,19 +19050,6 @@
     }
   ],
   "E/20/350": [
-    {
-      "title": "Smart Locker System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Locker-System/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Locker-System",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Locker-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Locker-System/"
-    },
     {
       "title": "Food Buddy",
       "category": {
@@ -19112,7 +19088,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/P-E-BO-Desk-Companion/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-P-E-BO-Desk-Companion",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
     },
     {
@@ -19153,7 +19129,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Remote-Gait-Analysis/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Remote-Gait-Analysis",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Remote-Gait-Analysis/"
     },
     {
@@ -19181,7 +19157,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Remote-Gait-Analysis/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Remote-Gait-Analysis",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Remote-Gait-Analysis/"
     },
     {
@@ -19209,7 +19185,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/P-E-BO-Desk-Companion/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-P-E-BO-Desk-Companion",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
     },
     {
@@ -19263,7 +19239,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/VR-Multiplayer-Golf-Game/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-VR-Multiplayer-Golf-Game",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/VR-Multiplayer-Golf-Game/"
     },
     {
@@ -19332,7 +19308,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/VR-Multiplayer-Golf-Game/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-VR-Multiplayer-Golf-Game",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/VR-Multiplayer-Golf-Game/"
     },
     {
@@ -19388,24 +19364,11 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Canteen-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Canteen-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Canteen-Management-System/"
     }
   ],
   "E/20/377": [
-    {
-      "title": "Smart Locker System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Locker-System/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Locker-System",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Locker-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Locker-System/"
-    },
     {
       "title": "Food Buddy",
       "category": {
@@ -19431,7 +19394,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SafePlus/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-SafePlus",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
     },
     {
@@ -19582,7 +19545,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Aquarium/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Aquarium",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Aquarium/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Aquarium/"
     },
     {
@@ -19638,7 +19601,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SafePlus/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-SafePlus",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
     },
     {
@@ -19692,7 +19655,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/VR-Multiplayer-Golf-Game/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-VR-Multiplayer-Golf-Game",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/VR-Multiplayer-Golf-Game/"
     },
     {
@@ -19774,7 +19737,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SafePlus/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-SafePlus",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
     },
     {
@@ -19897,7 +19860,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vescueye/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vescueye",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
     },
     {
@@ -19953,7 +19916,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Vehicle-Tracking-and-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Vehicle-Tracking-and-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Vehicle-Tracking-and-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Vehicle-Tracking-and-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Vehicle-Tracking-and-Management-System/"
     },
     {
@@ -19996,19 +19959,64 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/real-time-shadow-removal-from-images/"
     }
   ],
-  "E/21/017": [
+  "E/21/006": [
     {
-      "title": "PeraVerse Organizer Dashboard Team2",
+      "title": "PeraVerse Organizer Dashboard Core Frontend",
       "category": {
         "code": "co227",
         "title": "Software Systems Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Team2/",
-      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
-      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Core-Frontend/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Team2/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Core-Frontend/"
+    }
+  ],
+  "E/21/007": [
+    {
+      "title": "PeraVerse Organizer Dashboard Core Frontend",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Core-Frontend/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Core-Frontend",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Core-Frontend/"
+    }
+  ],
+  "E/21/009": [
+    {
+      "title": "Event Management System",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Event-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Event-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Event-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Event-Management-System/"
+    }
+  ],
+  "E/21/017": [
+    {
+      "title": "PeraVerse Organizer Dashboard Core Backend",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Core-Backend/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Core-Backend/"
     }
   ],
   "E/21/019": [
@@ -20024,6 +20032,96 @@
       "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-Details-Page",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-Details-Page/"
+    }
+  ],
+  "E/21/024": [
+    {
+      "title": "Heat_map",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Heat_map/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Heat_map",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Heat_map",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
+    }
+  ],
+  "E/21/031": [
+    {
+      "title": "EventStack Event Management System",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/EventStack-Event-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-EventStack-Event-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-EventStack-Event-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/EventStack-Event-Management-System/"
+    }
+  ],
+  "E/21/036": [
+    {
+      "title": "Online doctor appointment website 2yp",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Online-doctor-appointment-website-2yp/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Online-doctor-appointment-website-2yp",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Online-doctor-appointment-website-2yp",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Online-doctor-appointment-website-2yp/"
+    }
+  ],
+  "E/21/039": [
+    {
+      "title": "Peraverse integration",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Peraverse-integration/",
+      "repo_url": "https://github.com/cepdnaclk/e21-CO227-Peraverse-integration",
+      "page_url": "https://cepdnaclk.github.io/e21-CO227-Peraverse-integration",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Peraverse-integration/"
+    }
+  ],
+  "E/21/045": [
+    {
+      "title": "Crowd Balance Mobile App",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Crowd-Balance-Mobile-App/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Crowd-Balance-Mobile-App",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Crowd-Balance-Mobile-App",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Crowd-Balance-Mobile-App/"
+    }
+  ],
+  "E/21/049": [
+    {
+      "title": "Heat_map",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Heat_map/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Heat_map",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Heat_map",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
     }
   ],
   "E/21/050": [
@@ -20056,6 +20154,81 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-Details-Page/"
     }
   ],
+  "E/21/054": [
+    {
+      "title": "PeraVerse Kiosk System",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
+    }
+  ],
+  "E/21/055": [
+    {
+      "title": "PeraVerse Organizer Dashboard Analytics Backend",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Analytics-Backend/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Analytics-Backend/"
+    }
+  ],
+  "E/21/065": [
+    {
+      "title": "Crowd Balance Mobile App",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Crowd-Balance-Mobile-App/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Crowd-Balance-Mobile-App",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Crowd-Balance-Mobile-App",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Crowd-Balance-Mobile-App/"
+    }
+  ],
+  "E/21/067": [
+    {
+      "title": "PeraVerse Kiosk System",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
+    }
+  ],
+  "E/21/068": [
+    {
+      "title": "PeraVerse Event List Page",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Event-List-Page/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-List-Page",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-List-Page",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-List-Page/"
+    }
+  ],
   "E/21/087": [
     {
       "title": "PeraMorphiq",
@@ -20071,19 +20244,169 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraMorphiq/"
     }
   ],
-  "E/21/137": [
+  "E/21/096": [
     {
-      "title": "PeraVerse Organizer Dashboard Team2",
+      "title": "PeraVerse Kiosk System",
       "category": {
         "code": "co227",
         "title": "Software Systems Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Team2/",
-      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
-      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Team2/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
+    }
+  ],
+  "E/21/106": [
+    {
+      "title": "PeraVerse Kiosk System",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
+    }
+  ],
+  "E/21/113": [
+    {
+      "title": "SmartCityHeatMapGroup22",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/SmartCityHeatMapGroup22/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-SmartCityHeatMapGroup22",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-SmartCityHeatMapGroup22",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/SmartCityHeatMapGroup22/"
+    }
+  ],
+  "E/21/124": [
+    {
+      "title": "Smart Crowd Monitoring System Using Yolo And Deepsort",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/"
+    }
+  ],
+  "E/21/126": [
+    {
+      "title": "PeraVerse Organizer Dashboard Analytics Backend",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Analytics-Backend/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Analytics-Backend/"
+    }
+  ],
+  "E/21/127": [
+    {
+      "title": "EventStack Event Management System",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/EventStack-Event-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-EventStack-Event-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-EventStack-Event-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/EventStack-Event-Management-System/"
+    }
+  ],
+  "E/21/130": [
+    {
+      "title": "Interactive Exhibition Map Peraverse",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Interactive-Exhibition-Map-Peraverse/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Interactive-Exhibition-Map-Peraverse",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Interactive-Exhibition-Map-Peraverse",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Interactive-Exhibition-Map-Peraverse/"
+    }
+  ],
+  "E/21/137": [
+    {
+      "title": "PeraVerse Organizer Dashboard Core Backend",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Core-Backend/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Core-Backend/"
+    }
+  ],
+  "E/21/138": [
+    {
+      "title": "Peraverse integration",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Peraverse-integration/",
+      "repo_url": "https://github.com/cepdnaclk/e21-CO227-Peraverse-integration",
+      "page_url": "https://cepdnaclk.github.io/e21-CO227-Peraverse-integration",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Peraverse-integration/"
+    }
+  ],
+  "E/21/140": [
+    {
+      "title": "Online doctor appointment website 2yp",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Online-doctor-appointment-website-2yp/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Online-doctor-appointment-website-2yp",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Online-doctor-appointment-website-2yp",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Online-doctor-appointment-website-2yp/"
+    }
+  ],
+  "E/21/141": [
+    {
+      "title": "SmartCityHeatMapGroup22",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/SmartCityHeatMapGroup22/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-SmartCityHeatMapGroup22",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-SmartCityHeatMapGroup22",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/SmartCityHeatMapGroup22/"
     }
   ],
   "E/21/148": [
@@ -20116,19 +20439,79 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/RFID-Hardware-and-Tag-Lifecycle/"
     }
   ],
-  "E/21/157": [
+  "E/21/156": [
     {
-      "title": "PeraVerse Organizer Dashboard Team2",
+      "title": "Event Management System",
       "category": {
         "code": "co227",
         "title": "Software Systems Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Team2/",
-      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
-      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Event-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Event-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Event-Management-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Team2/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Event-Management-System/"
+    }
+  ],
+  "E/21/157": [
+    {
+      "title": "PeraVerse Organizer Dashboard Core Backend",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Core-Backend/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Core-Backend/"
+    }
+  ],
+  "E/21/180": [
+    {
+      "title": "Event Management System",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Event-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Event-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Event-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Event-Management-System/"
+    }
+  ],
+  "E/21/188": [
+    {
+      "title": "EventStack Event Management System",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/EventStack-Event-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-EventStack-Event-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-EventStack-Event-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/EventStack-Event-Management-System/"
+    }
+  ],
+  "E/21/193": [
+    {
+      "title": "SmartCityHeatMapGroup22",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/SmartCityHeatMapGroup22/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-SmartCityHeatMapGroup22",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-SmartCityHeatMapGroup22",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/SmartCityHeatMapGroup22/"
     }
   ],
   "E/21/198": [
@@ -20146,6 +20529,36 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraMorphiq/"
     }
   ],
+  "E/21/200": [
+    {
+      "title": "PeraVerse Heatmap Predictive Analysis",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
+    }
+  ],
+  "E/21/206": [
+    {
+      "title": "Registration Portal",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
+    }
+  ],
   "E/21/214": [
     {
       "title": "RFID Hardware and Tag Lifecycle",
@@ -20159,6 +20572,21 @@
       "page_url": "https://cepdnaclk.github.io/e21-co227-RFID-Hardware-and-Tag-Lifecycle",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/RFID-Hardware-and-Tag-Lifecycle/"
+    }
+  ],
+  "E/21/217": [
+    {
+      "title": "Event Management System",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Event-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Event-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Event-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Event-Management-System/"
     }
   ],
   "E/21/220": [
@@ -20206,6 +20634,111 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/"
     }
   ],
+  "E/21/231": [
+    {
+      "title": "Peraverse integration",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Peraverse-integration/",
+      "repo_url": "https://github.com/cepdnaclk/e21-CO227-Peraverse-integration",
+      "page_url": "https://cepdnaclk.github.io/e21-CO227-Peraverse-integration",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Peraverse-integration/"
+    }
+  ],
+  "E/21/245": [
+    {
+      "title": "Online doctor appointment website 2yp",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Online-doctor-appointment-website-2yp/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Online-doctor-appointment-website-2yp",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Online-doctor-appointment-website-2yp",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Online-doctor-appointment-website-2yp/"
+    }
+  ],
+  "E/21/253": [
+    {
+      "title": "PeraVerse Organizer Dashboard Analytics Backend",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Analytics-Backend/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Analytics-Backend/"
+    }
+  ],
+  "E/21/254": [
+    {
+      "title": "PeraVerse Heatmap Predictive Analysis",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
+    }
+  ],
+  "E/21/269": [
+    {
+      "title": "Heat_map",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Heat_map/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Heat_map",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Heat_map",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
+    }
+  ],
+  "E/21/277": [
+    {
+      "title": "Crowd Balance Mobile App",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Crowd-Balance-Mobile-App/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Crowd-Balance-Mobile-App",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Crowd-Balance-Mobile-App",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Crowd-Balance-Mobile-App/"
+    }
+  ],
+  "E/21/283": [
+    {
+      "title": "EventStack Event Management System",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/EventStack-Event-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-EventStack-Event-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-EventStack-Event-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/EventStack-Event-Management-System/"
+    }
+  ],
   "E/21/287": [
     {
       "title": "QR AI Entry Exit Tracking System",
@@ -20221,6 +20754,36 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/"
     }
   ],
+  "E/21/289": [
+    {
+      "title": "PeraVerse Event List Page",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Event-List-Page/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-List-Page",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-List-Page",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-List-Page/"
+    }
+  ],
+  "E/21/292": [
+    {
+      "title": "PeraVerse Heatmap Predictive Analysis",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
+    }
+  ],
   "E/21/302": [
     {
       "title": "PeraMorphiq",
@@ -20234,6 +20797,96 @@
       "page_url": "https://cepdnaclk.github.io/e21-CO227-PeraMorphiq",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraMorphiq/"
+    }
+  ],
+  "E/21/325": [
+    {
+      "title": "Heat_map",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Heat_map/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Heat_map",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Heat_map",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
+    }
+  ],
+  "E/21/328": [
+    {
+      "title": "PeraVerse Event List Page",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Event-List-Page/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-List-Page",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-List-Page",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-List-Page/"
+    }
+  ],
+  "E/21/335": [
+    {
+      "title": "Interactive Exhibition Map Peraverse",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Interactive-Exhibition-Map-Peraverse/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Interactive-Exhibition-Map-Peraverse",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Interactive-Exhibition-Map-Peraverse",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Interactive-Exhibition-Map-Peraverse/"
+    }
+  ],
+  "E/21/336": [
+    {
+      "title": "Interactive Exhibition Map Peraverse",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Interactive-Exhibition-Map-Peraverse/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Interactive-Exhibition-Map-Peraverse",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Interactive-Exhibition-Map-Peraverse",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Interactive-Exhibition-Map-Peraverse/"
+    }
+  ],
+  "E/21/339": [
+    {
+      "title": "PeraVerse Heatmap Predictive Analysis",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Heatmap-Predictive-Analysis/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Heatmap-Predictive-Analysis",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Heatmap-Predictive-Analysis/"
+    }
+  ],
+  "E/21/342": [
+    {
+      "title": "Registration Portal",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
     }
   ],
   "E/21/350": [
@@ -20266,19 +20919,229 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraMorphiq/"
     }
   ],
-  "E/21/391": [
+  "E/21/356": [
     {
-      "title": "PeraVerse Organizer Dashboard Team2",
+      "title": "EventStack Event Management System",
       "category": {
         "code": "co227",
         "title": "Software Systems Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Team2/",
-      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
-      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Team2",
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/EventStack-Event-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-EventStack-Event-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-EventStack-Event-Management-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Team2/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/EventStack-Event-Management-System/"
+    }
+  ],
+  "E/21/361": [
+    {
+      "title": "Smart Crowd Monitoring System Using Yolo And Deepsort",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/"
+    }
+  ],
+  "E/21/362": [
+    {
+      "title": "PeraVerse Kiosk System",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
+    }
+  ],
+  "E/21/363": [
+    {
+      "title": "PeraVerse Kiosk System",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
+    }
+  ],
+  "E/21/371": [
+    {
+      "title": "Smart Crowd Monitoring System Using Yolo And Deepsort",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/"
+    }
+  ],
+  "E/21/372": [
+    {
+      "title": "PeraVerse Kiosk System",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
+    }
+  ],
+  "E/21/375": [
+    {
+      "title": "Registration Portal",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
+    }
+  ],
+  "E/21/386": [
+    {
+      "title": "Registration Portal",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
+    }
+  ],
+  "E/21/391": [
+    {
+      "title": "PeraVerse Organizer Dashboard Core Backend",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Core-Backend/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Core-Backend",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Core-Backend/"
+    }
+  ],
+  "E/21/395": [
+    {
+      "title": "EventStack Event Management System",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/EventStack-Event-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-EventStack-Event-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-EventStack-Event-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/EventStack-Event-Management-System/"
+    }
+  ],
+  "E/21/407": [
+    {
+      "title": "SmartCityHeatMapGroup22",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/SmartCityHeatMapGroup22/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-SmartCityHeatMapGroup22",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-SmartCityHeatMapGroup22",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/SmartCityHeatMapGroup22/"
+    }
+  ],
+  "E/21/410": [
+    {
+      "title": "PeraVerse Organizer Dashboard Analytics Backend",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Organizer-Dashboard-Analytics-Backend/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Organizer-Dashboard-Analytics-Backend",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Analytics-Backend/"
+    }
+  ],
+  "E/21/412": [
+    {
+      "title": "Interactive Exhibition Map Peraverse",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Interactive-Exhibition-Map-Peraverse/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Interactive-Exhibition-Map-Peraverse",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Interactive-Exhibition-Map-Peraverse",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Interactive-Exhibition-Map-Peraverse/"
+    }
+  ],
+  "E/21/415": [
+    {
+      "title": "Peraverse integration",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Peraverse-integration/",
+      "repo_url": "https://github.com/cepdnaclk/e21-CO227-Peraverse-integration",
+      "page_url": "https://cepdnaclk.github.io/e21-CO227-Peraverse-integration",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Peraverse-integration/"
+    }
+  ],
+  "E/21/416": [
+    {
+      "title": "PeraVerse Kiosk System",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
     }
   ],
   "E/21/428": [
@@ -20294,6 +21157,81 @@
       "page_url": "https://cepdnaclk.github.io/e21-co227-QR-AI-Entry-Exit-Tracking-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/QR-AI-Entry-Exit-Tracking-System/"
+    }
+  ],
+  "E/21/433": [
+    {
+      "title": "Smart Crowd Monitoring System Using Yolo And Deepsort",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Smart-Crowd-Monitoring-System-Using-Yolo-And-Deepsort/"
+    }
+  ],
+  "E/21/442": [
+    {
+      "title": "PeraVerse Event List Page",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Event-List-Page/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-List-Page",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Event-List-Page",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Event-List-Page/"
+    }
+  ],
+  "E/21/444": [
+    {
+      "title": "Crowd Balance Mobile App",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Crowd-Balance-Mobile-App/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Crowd-Balance-Mobile-App",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Crowd-Balance-Mobile-App",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Crowd-Balance-Mobile-App/"
+    }
+  ],
+  "E/21/452": [
+    {
+      "title": "Interactive Exhibition Map Peraverse",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Interactive-Exhibition-Map-Peraverse/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Interactive-Exhibition-Map-Peraverse",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Interactive-Exhibition-Map-Peraverse",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Interactive-Exhibition-Map-Peraverse/"
+    }
+  ],
+  "E/21/453": [
+    {
+      "title": "PeraVerse Kiosk System",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/PeraVerse-Kiosk-System/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-PeraVerse-Kiosk-System",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
     }
   ]
 }
