@@ -19,6 +19,30 @@
       ]
     }
   },
+  "a.terhofstede@qut.edu.au": {
+    "count": 1,
+    "projects": {
+      "e18": [
+        {
+          "title": "Extending and Implementing Process Mining Techniques Prevention and Mitigation",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/"
+        }
+      ]
+    }
+  },
+  "adikari.nadeesha@gmail.com": {
+    "count": 0,
+    "projects": {}
+  },
   "agbc@pdn.ac.lk": {
     "count": 1,
     "projects": {
@@ -135,12 +159,32 @@
       ]
     }
   },
+  "amarasinghek@cmu.edu": {
+    "count": 1,
+    "projects": {
+      "e17": [
+        {
+          "title": "using machine learning in high stake settings",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/using-machine-learning-in-high-stake-settings/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-using-machine-learning-in-high-stake-settings",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-using-machine-learning-in-high-stake-settings",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/using-machine-learning-in-high-stake-settings/"
+        }
+      ]
+    }
+  },
   "amilaindika@eng.pdn.ac.lk": {
     "count": 0,
     "projects": {}
   },
   "asithab@eng.pdn.ac.lk": {
-    "count": 10,
+    "count": 17,
     "projects": {
       "e19": [
         {
@@ -194,6 +238,101 @@
           "page_url": "https://cepdnaclk.github.io/e19-4yp-Using-LMs-to-Write-Patient-Clinical-Letters",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Using-LMs-to-Write-Patient-Clinical-Letters/"
+        }
+      ],
+      "e18": [
+        {
+          "title": "An Empirical Study On Prompt Injection Attacks And Defences",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/"
+        },
+        {
+          "title": "Analyzing and predicting the volatile market patterns for trading using a Digital Twin",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Analyzing-and-predicting-the-volatile-market-patterns-for-trading-using-a-Digital-Twin/"
+        },
+        {
+          "title": "Automated PAR Index Calculation on Orthodontic Treatment Using Software and Machine Learning",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning/"
+        },
+        {
+          "title": "Extending and Implementing Process Mining Techniques Prevention and Mitigation",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/"
+        },
+        {
+          "title": "Generating Patient Clinical Letters Using LLMs",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Generating-Patient-Clinical-Letters-Using-LLMs/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Generating-Patient-Clinical-Letters-Using-LLMs/"
+        }
+      ],
+      "e17": [
+        {
+          "title": "Comparative Analysis of 2nd and 3rd Generation Sequencing",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing/"
+        },
+        {
+          "title": "OCR and Translation from Sinhala to Tamil for Printed Documents",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
         }
       ],
       "e16": [
@@ -332,12 +471,36 @@
     "count": 0,
     "projects": {}
   },
+  "chathura@wso2.com": {
+    "count": 1,
+    "projects": {
+      "e18": [
+        {
+          "title": "Extending and Implementing Process Mining Techniques Prevention and Mitigation",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/"
+        }
+      ]
+    }
+  },
   "contact@shyaman.me": {
     "count": 0,
     "projects": {}
   },
+  "damaanthiherath@eng.pdn.ac.lk": {
+    "count": 0,
+    "projects": {}
+  },
   "damayanthiherath@eng.pdn.ac.lk": {
-    "count": 15,
+    "count": 23,
     "projects": {
       "e19": [
         {
@@ -434,6 +597,45 @@
       ],
       "e18": [
         {
+          "title": "An Empirical Study On Prompt Injection Attacks And Defences",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/"
+        },
+        {
+          "title": "Extending and Implementing Process Mining Techniques Prevention and Mitigation",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/"
+        },
+        {
+          "title": "Generating Patient Clinical Letters Using LLMs",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Generating-Patient-Clinical-Letters-Using-LLMs/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Generating-Patient-Clinical-Letters-Using-LLMs/"
+        },
+        {
           "title": "Multi Kingdom Binning of Long Read Metagenomes",
           "category": {
             "code": "4yp",
@@ -458,6 +660,73 @@
           "page_url": "https://cepdnaclk.github.io/e18-4yp-Software-Package-To-Support-Agent-Based-Modelling-Based-Decision-Making",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Software-Package-To-Support-Agent-Based-Modelling-Based-Decision-Making/"
+        }
+      ],
+      "e17": [
+        {
+          "title": "Acceleration of deep neural network based nanopore super accuracy basecalling",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling/"
+        },
+        {
+          "title": "Deep Learning for Side Channel Attacks",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Deep-Learning-for-Side-Channel-Attacks/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Deep-Learning-for-Side-Channel-Attacks",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Deep-Learning-for-Side-Channel-Attacks",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Deep-Learning-for-Side-Channel-Attacks/"
+        },
+        {
+          "title": "Investigating Onchip Sensor Based RPA Attack Vulnerabilities of Light Weight Ciphers",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/"
+        },
+        {
+          "title": "Large Language Models in Education",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Large-Language-Models-in-Education/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Large-Language-Models-in-Education",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
+        },
+        {
+          "title": "using machine learning in high stake settings",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/using-machine-learning-in-high-stake-settings/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-using-machine-learning-in-high-stake-settings",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-using-machine-learning-in-high-stake-settings",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/using-machine-learning-in-high-stake-settings/"
         }
       ],
       "e16": [
@@ -548,6 +817,63 @@
     "count": 0,
     "projects": {}
   },
+  "damsara.nandadeva@med.pdn.ac.lk": {
+    "count": 0,
+    "projects": {}
+  },
+  "darshana.jayasinghe@gmail.com": {
+    "count": 2,
+    "projects": {
+      "e17": [
+        {
+          "title": "Deep Learning for Side Channel Attacks",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Deep-Learning-for-Side-Channel-Attacks/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Deep-Learning-for-Side-Channel-Attacks",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Deep-Learning-for-Side-Channel-Attacks",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Deep-Learning-for-Side-Channel-Attacks/"
+        },
+        {
+          "title": "Investigating Onchip Sensor Based RPA Attack Vulnerabilities of Light Weight Ciphers",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/"
+        }
+      ]
+    }
+  },
+  "darshana.jayasinghe@sydney.edu.au": {
+    "count": 1,
+    "projects": {
+      "e18": [
+        {
+          "title": "RPA attacks using Machine Learning Algorithms",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/RPA-attacks-using-Machine-Learning-Algorithms/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/RPA-attacks-using-Machine-Learning-Algorithms/"
+        }
+      ]
+    }
+  },
   "dgs@ucsc.cmb.ac.lk": {
     "count": 1,
     "projects": {
@@ -573,9 +899,22 @@
     "projects": {}
   },
   "dhanulb@dental.pdn.ac.lk": {
-    "count": 2,
+    "count": 4,
     "projects": {
       "e18": [
+        {
+          "title": "Using AI in determining alveolar bone loss in Dental X rays to aid in periodontal diagnosis",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis/"
+        },
         {
           "title": "Virtual Patient Simulator for Skill Training in Dentistry",
           "category": {
@@ -588,6 +927,21 @@
           "page_url": "https://cepdnaclk.github.io/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+        }
+      ],
+      "e17": [
+        {
+          "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
         }
       ],
       "e16": [
@@ -607,8 +961,28 @@
       ]
     }
   },
-  "dharshana.k@sliit.lk": {
+  "dhanumapitigama@eng.pdn.ac.lk": {
     "count": 1,
+    "projects": {
+      "e17": [
+        {
+          "title": "Music Emotion Recognition",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Music-Emotion-Recognition/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Music-Emotion-Recognition",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Music-Emotion-Recognition/"
+        }
+      ]
+    }
+  },
+  "dharshana.k@sliit.lk": {
+    "count": 2,
     "projects": {
       "e18": [
         {
@@ -623,6 +997,19 @@
           "page_url": "https://cepdnaclk.github.io/e18-4yp-Personalized-Multimodal-Emotion-Prediction",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Personalized-Multimodal-Emotion-Prediction/"
+        },
+        {
+          "title": "Reinforcement Learning enabled Recommendation System For Emotional Support",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support/"
         }
       ]
     }
@@ -646,6 +1033,10 @@
         }
       ]
     }
+  },
+  "dmayanthiherath@eng.pdn.ac.lk": {
+    "count": 0,
+    "projects": {}
   },
   "dsdeegalla@pdn.ac.lk": {
     "count": 1,
@@ -797,6 +1188,46 @@
       ]
     }
   },
+  "firstname_AT_umd_DOT_edu": {
+    "count": 1,
+    "projects": {
+      "e17": [
+        {
+          "title": "S2TPVFormer",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/S2TPVFormer/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-S2TPVFormer",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-S2TPVFormer",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/S2TPVFormer/"
+        }
+      ]
+    }
+  },
+  "ggeesara@gmail.com": {
+    "count": 1,
+    "projects": {
+      "e17": [
+        {
+          "title": "Improving Trajectory Guided Control Prediction for Autonomous Driving",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving/"
+        }
+      ]
+    }
+  },
   "gihan@umd.edu": {
     "count": 1,
     "projects": {
@@ -817,9 +1248,44 @@
       ]
     }
   },
-  "h.gamaarachchi@garvan.org.au": {
+  "gshasiri@gmail.com": {
     "count": 1,
     "projects": {
+      "e17": [
+        {
+          "title": "Large Language Models in Education",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Large-Language-Models-in-Education/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Large-Language-Models-in-Education",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
+        }
+      ]
+    }
+  },
+  "h.gamaarachchi@garvan.org.au": {
+    "count": 2,
+    "projects": {
+      "e17": [
+        {
+          "title": "Acceleration of deep neural network based nanopore super accuracy basecalling",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling/"
+        }
+      ],
       "e16": [
         {
           "title": "Acceleration of DTW algorithm for real time nanopore selective sequencing using GPUs",
@@ -836,6 +1302,10 @@
         }
       ]
     }
+  },
+  "hansasooriyagoda@gmail.com": {
+    "count": 0,
+    "projects": {}
   },
   "haris.javaid@amd.com": {
     "count": 1,
@@ -877,9 +1347,45 @@
       ]
     }
   },
+  "hasindu@unsw.edu.au": {
+    "count": 1,
+    "projects": {
+      "e17": [
+        {
+          "title": "novel compression methods for nanopore raw signal data",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/novel-compression-methods-for-nanopore-raw-signal-data/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/novel-compression-methods-for-nanopore-raw-signal-data/"
+        }
+      ]
+    }
+  },
   "imeshuek@eng.pdn.ac.lk": {
-    "count": 0,
-    "projects": {}
+    "count": 1,
+    "projects": {
+      "e18": [
+        {
+          "title": "Dengue outbreak prediction in Sri Lanka using machine learning techniques",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/"
+        }
+      ]
+    }
   },
   "indika.kahanda@unf.edu": {
     "count": 1,
@@ -902,8 +1408,23 @@
     }
   },
   "isurud@ee.pdn.ac.lk": {
-    "count": 1,
+    "count": 2,
     "projects": {
+      "e17": [
+        {
+          "title": "Neuromorphic NoC Architecture for SNNs",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Neuromorphic-NoC-Architecture-for-SNNs/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Neuromorphic-NoC-Architecture-for-SNNs/"
+        }
+      ],
       "e16": [
         {
           "title": "neuromorphic architecture",
@@ -926,7 +1447,7 @@
     "projects": {}
   },
   "isurunawinne@eng.pdn.ac.lk": {
-    "count": 24,
+    "count": 29,
     "projects": {
       "e19": [
         {
@@ -1073,6 +1594,73 @@
           "page_url": "https://cepdnaclk.github.io/e18-4yp-PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/"
+        },
+        {
+          "title": "Using AI in determining alveolar bone loss in Dental X rays to aid in periodontal diagnosis",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis/"
+        }
+      ],
+      "e17": [
+        {
+          "title": "Comprehensive ECG analysis with Deep Learning on GPU accelerators",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators/"
+        },
+        {
+          "title": "Large Language Models in Education",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Large-Language-Models-in-Education/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Large-Language-Models-in-Education",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
+        },
+        {
+          "title": "Neuromorphic NoC Architecture for SNNs",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Neuromorphic-NoC-Architecture-for-SNNs/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Neuromorphic-NoC-Architecture-for-SNNs/"
+        },
+        {
+          "title": "develop a programming and compiler toolchain for multi agent systems",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/"
         }
       ],
       "e16": [
@@ -1284,13 +1872,91 @@
     "count": 0,
     "projects": {}
   },
+  "ksandamala2002@dental.pdn.ac.lk": {
+    "count": 1,
+    "projects": {
+      "e18": [
+        {
+          "title": "Automated PAR Index Calculation on Orthodontic Treatment Using Software and Machine Learning",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Automated-PAR-Index-Calculation-on-Orthodontic-Treatment-Using-Software-and-Machine-Learning/"
+        }
+      ]
+    }
+  },
   "lankaniperera@eng.pdn.ac.lk": {
     "count": 0,
     "projects": {}
   },
+  "maged.abidou@eng.asu.edu.eg": {
+    "count": 0,
+    "projects": {}
+  },
   "mahanamaw@eng.pdn.ac.lk": {
-    "count": 6,
+    "count": 10,
     "projects": {
+      "e17": [
+        {
+          "title": "Comprehensive ECG analysis with Deep Learning on GPU accelerators",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators/"
+        },
+        {
+          "title": "Investigating Onchip Sensor Based RPA Attack Vulnerabilities of Light Weight Ciphers",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/"
+        },
+        {
+          "title": "Neuromorphic NoC Architecture for SNNs",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Neuromorphic-NoC-Architecture-for-SNNs/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Neuromorphic-NoC-Architecture-for-SNNs/"
+        },
+        {
+          "title": "develop a programming and compiler toolchain for multi agent systems",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/"
+        }
+      ],
       "e16": [
         {
           "title": "Configurable ECU Emulator",
@@ -1394,7 +2060,7 @@
     }
   },
   "manjula.sandirigama@eng.pdn.ac.lk": {
-    "count": 3,
+    "count": 5,
     "projects": {
       "e19": [
         {
@@ -1436,6 +2102,36 @@
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/blockchain-based-e-voting-system/"
         }
+      ],
+      "e18": [
+        {
+          "title": "RPA attacks using Machine Learning Algorithms",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/RPA-attacks-using-Machine-Learning-Algorithms/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-RPA-attacks-using-Machine-Learning-Algorithms",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/RPA-attacks-using-Machine-Learning-Algorithms/"
+        }
+      ],
+      "e17": [
+        {
+          "title": "Deep Learning for Side Channel Attacks",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Deep-Learning-for-Side-Channel-Attacks/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Deep-Learning-for-Side-Channel-Attacks",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Deep-Learning-for-Side-Channel-Attacks",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Deep-Learning-for-Side-Channel-Attacks/"
+        }
       ]
     }
   },
@@ -1462,6 +2158,26 @@
   "mmathusha@eng.pdn.ac.lk": {
     "count": 0,
     "projects": {}
+  },
+  "muhammad.haris@mbzuai.ac.ae": {
+    "count": 1,
+    "projects": {
+      "e17": [
+        {
+          "title": "S2TPVFormer",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/S2TPVFormer/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-S2TPVFormer",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-S2TPVFormer",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/S2TPVFormer/"
+        }
+      ]
+    }
   },
   "nadeeshaa@eng.pdn.ac.lk": {
     "count": 1,
@@ -1564,7 +2280,7 @@
     }
   },
   "namal@eng.pdn.ac.lk": {
-    "count": 6,
+    "count": 8,
     "projects": {
       "e20": [
         {
@@ -1620,6 +2336,34 @@
           "page_url": "https://cepdnaclk.github.io/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/"
+        }
+      ],
+      "e18": [
+        {
+          "title": "Dengue outbreak prediction in Sri Lanka using machine learning techniques",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/"
+        },
+        {
+          "title": "Predicting Forex Currency Exchange Rate using Machine Learning",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/"
         }
       ],
       "e16": [
@@ -1707,6 +2451,10 @@
       ]
     }
   },
+  "pandukaneluwala@eng.pdn.ac.lk": {
+    "count": 0,
+    "projects": {}
+  },
   "pcgunathilake@gmail.com": {
     "count": 1,
     "projects": {
@@ -1787,6 +2535,26 @@
   "pradeepag@pdn.ac.lk": {
     "count": 0,
     "projects": {}
+  },
+  "pratheepan@uwu.ac.lk": {
+    "count": 1,
+    "projects": {
+      "e17": [
+        {
+          "title": "Applying deep learning on histological images of lymph tissues",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Applying-deep-learning-on-histological-images-of-lymph-tissues/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Applying-deep-learning-on-histological-images-of-lymph-tissues",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Applying-deep-learning-on-histological-images-of-lymph-tissues",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Applying-deep-learning-on-histological-images-of-lymph-tissues/"
+        }
+      ]
+    }
   },
   "qinyi.li@griffith.edu.au": {
     "count": 2,
@@ -1895,7 +2663,7 @@
     }
   },
   "roshanr@eng.pdn.ac.lk": {
-    "count": 38,
+    "count": 55,
     "projects": {
       "e19": [
         {
@@ -2070,6 +2838,19 @@
       ],
       "e18": [
         {
+          "title": "An Empirical Study On Prompt Injection Attacks And Defences",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/An-Empirical-Study-On-Prompt-Injection-Attacks-And-Defences/"
+        },
+        {
           "title": "Automated Medical Image Annotation for Dataset Building",
           "category": {
             "code": "4yp",
@@ -2096,6 +2877,19 @@
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/DL-Based-Stereo-Matching-Estimation/"
         },
         {
+          "title": "Extending and Implementing Process Mining Techniques Prevention and Mitigation",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Extending-and-Implementing-Process-Mining-Techniques-Prevention-and-Mitigation/"
+        },
+        {
           "title": "GPU Acceleration for Deep Learning based Comprehensive ECG analysis",
           "category": {
             "code": "4yp",
@@ -2107,6 +2901,19 @@
           "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
+        },
+        {
+          "title": "Generating Patient Clinical Letters Using LLMs",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Generating-Patient-Clinical-Letters-Using-LLMs/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Generating-Patient-Clinical-Letters-Using-LLMs/"
         },
         {
           "title": "Machine Vision For Quality Inspection",
@@ -2148,6 +2955,19 @@
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/PeraSwarm-Simultaneous-Localization-and-Mapping-in-Mixed-Reality-Environment/"
         },
         {
+          "title": "Using AI in determining alveolar bone loss in Dental X rays to aid in periodontal diagnosis",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis/"
+        },
+        {
           "title": "Virtual Patient Simulator for Skill Training in Dentistry",
           "category": {
             "code": "4yp",
@@ -2159,6 +2979,177 @@
           "page_url": "https://cepdnaclk.github.io/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+        }
+      ],
+      "e17": [
+        {
+          "title": "Acceleration of deep neural network based nanopore super accuracy basecalling",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Acceleration-of-deep-neural-network-based-nanopore-super-accuracy-basecalling/"
+        },
+        {
+          "title": "Comprehensive ECG analysis with Deep Learning on GPU accelerators",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators/"
+        },
+        {
+          "title": "Improving Trajectory Guided Control Prediction for Autonomous Driving",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Improving-Trajectory-Guided-Control-Prediction-for-Autonomous-Driving/"
+        },
+        {
+          "title": "Large Language Models in Education",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Large-Language-Models-in-Education/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Large-Language-Models-in-Education",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Large-Language-Models-in-Education",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Large-Language-Models-in-Education/"
+        },
+        {
+          "title": "Low Complexity Algorithm for Arrhythmia Detection",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/"
+        },
+        {
+          "title": "Music Emotion Recognition",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Music-Emotion-Recognition/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Music-Emotion-Recognition",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Music-Emotion-Recognition",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Music-Emotion-Recognition/"
+        },
+        {
+          "title": "Neuromorphic NoC Architecture for SNNs",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Neuromorphic-NoC-Architecture-for-SNNs/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Neuromorphic-NoC-Architecture-for-SNNs/"
+        },
+        {
+          "title": "OCR and Translation from Sinhala to Tamil for Printed Documents",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
+        },
+        {
+          "title": "S2TPVFormer",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/S2TPVFormer/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-S2TPVFormer",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-S2TPVFormer",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/S2TPVFormer/"
+        },
+        {
+          "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+        },
+        {
+          "title": "develop a programming and compiler toolchain for multi agent systems",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/"
+        },
+        {
+          "title": "network anomaly detection",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/network-anomaly-detection/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-network-anomaly-detection",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-network-anomaly-detection",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/"
+        },
+        {
+          "title": "novel compression methods for nanopore raw signal data",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/novel-compression-methods-for-nanopore-raw-signal-data/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/novel-compression-methods-for-nanopore-raw-signal-data/"
         }
       ],
       "e16": [
@@ -2401,6 +3392,26 @@
       ]
     }
   },
+  "roshanr@pdn.ac.lk": {
+    "count": 1,
+    "projects": {
+      "e17": [
+        {
+          "title": "flexible glove for real time tracking and analysis of hand and finger movements",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/"
+        }
+      ]
+    }
+  },
   "ruwan.tennakoon@rmit.edu.au": {
     "count": 1,
     "projects": {
@@ -2521,6 +3532,10 @@
       ]
     }
   },
+  "samithbuddika@eng.pdn.ac.lk": {
+    "count": 0,
+    "projects": {}
+  },
   "sampath@eng.pdn.ac.lk": {
     "count": 5,
     "projects": {
@@ -2597,9 +3612,28 @@
       ]
     }
   },
+  "sampath@eng.pdn.ac.lkk": {
+    "count": 0,
+    "projects": {}
+  },
   "sithuminie@eng.pdn.ac.lk": {
-    "count": 1,
+    "count": 2,
     "projects": {
+      "e17": [
+        {
+          "title": "develop a programming and compiler toolchain for multi agent systems",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/"
+        }
+      ],
       "e16": [
         {
           "title": "swarm intelligence programming framework",
@@ -2613,6 +3647,50 @@
           "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
+        }
+      ]
+    }
+  },
+  "srasnayaka@dental.pdn.ac.lk": {
+    "count": 1,
+    "projects": {
+      "e18": [
+        {
+          "title": "Using AI in determining alveolar bone loss in Dental X rays to aid in periodontal diagnosis",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis/"
+        }
+      ]
+    }
+  },
+  "sumudu.jayawardana@med.pdn.ac.lk": {
+    "count": 0,
+    "projects": {}
+  },
+  "sunethn@pdn.ac.lk": {
+    "count": 1,
+    "projects": {
+      "e17": [
+        {
+          "title": "network anomaly detection",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/network-anomaly-detection/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-network-anomaly-detection",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-network-anomaly-detection",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/network-anomaly-detection/"
         }
       ]
     }
@@ -2668,6 +3746,26 @@
           "page_url": "https://cepdnaclk.github.io/e15-4yp-Real-Time-Emotion-Recognition-using-Electrocardiogram-Analysis",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Real-Time-Emotion-Recognition-using-Electrocardiogram-Analysis/"
+        }
+      ]
+    }
+  },
+  "swarnar@eng.pdn.ac.lk": {
+    "count": 1,
+    "projects": {
+      "e17": [
+        {
+          "title": "Applying deep learning on histological images of lymph tissues",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Applying-deep-learning-on-histological-images-of-lymph-tissues/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Applying-deep-learning-on-histological-images-of-lymph-tissues",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Applying-deep-learning-on-histological-images-of-lymph-tissues",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Applying-deep-learning-on-histological-images-of-lymph-tissues/"
         }
       ]
     }
@@ -2770,8 +3868,61 @@
       ]
     }
   },
+  "titus.nandakumara@gmail.com": {
+    "count": 1,
+    "projects": {
+      "e17": [
+        {
+          "title": "Low Complexity Algorithm for Arrhythmia Detection",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/"
+        }
+      ]
+    }
+  },
+  "titus@eng.pdn.ac.lk": {
+    "count": 2,
+    "projects": {
+      "e17": [
+        {
+          "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+        },
+        {
+          "title": "flexible glove for real time tracking and analysis of hand and finger movements",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/"
+        }
+      ]
+    }
+  },
   "upuljm@eng.pdn.ac.lk": {
-    "count": 11,
+    "count": 13,
     "projects": {
       "e20": [
         {
@@ -2842,6 +3993,34 @@
           "page_url": "https://cepdnaclk.github.io/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+        }
+      ],
+      "e17": [
+        {
+          "title": "Virtual Patient Simulator for Skill Training in Dentistry",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
+        },
+        {
+          "title": "using machine learning in high stake settings",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/using-machine-learning-in-high-stake-settings/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-using-machine-learning-in-high-stake-settings",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-using-machine-learning-in-high-stake-settings",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/using-machine-learning-in-high-stake-settings/"
         }
       ],
       "e16": [
@@ -2949,7 +4128,7 @@
     }
   },
   "vajira@simula.no": {
-    "count": 1,
+    "count": 3,
     "projects": {
       "e18": [
         {
@@ -2964,6 +4143,34 @@
           "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
+        },
+        {
+          "title": "Using AI in determining alveolar bone loss in Dental X rays to aid in periodontal diagnosis",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis/"
+        }
+      ],
+      "e17": [
+        {
+          "title": "Comprehensive ECG analysis with Deep Learning on GPU accelerators",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comprehensive-ECG-analysis-with-Deep-Learning-on-GPU-accelerators/"
         }
       ]
     }
@@ -3009,7 +4216,7 @@
     }
   },
   "yasodhav@eng.pdn.ac.lk": {
-    "count": 3,
+    "count": 4,
     "projects": {
       "e19": [
         {
@@ -3052,6 +4259,19 @@
           "page_url": "https://cepdnaclk.github.io/e18-4yp-Personalized-Multimodal-Emotion-Prediction",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Personalized-Multimodal-Emotion-Prediction/"
+        },
+        {
+          "title": "Reinforcement Learning enabled Recommendation System For Emotional Support",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support/",
+          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support",
+          "page_url": "https://cepdnaclk.github.io/e18-4yp-Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support/"
         }
       ]
     }
