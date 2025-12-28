@@ -3922,7 +3922,7 @@
     }
   },
   "upuljm@eng.pdn.ac.lk": {
-    "count": 13,
+    "count": 14,
     "projects": {
       "e20": [
         {
@@ -3937,6 +3937,19 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-Optimizing-Communication-Efficiency-and-Latency-in-Blockchain-Enabled-FL-Systems",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Optimizing-Communication-Efficiency-and-Latency-in-Blockchain-Enabled-FL-Systems/"
+        },
+        {
+          "title": "Predictive Link Stablitiy and Trust Aware Routing in FANETs",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Predictive-Link-Stablitiy-and-Trust-Aware-Routing-in-FANETs/"
         },
         {
           "title": "backdoor resilient federated nids",
