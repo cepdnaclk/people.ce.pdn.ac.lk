@@ -2280,9 +2280,22 @@
     }
   },
   "namal@eng.pdn.ac.lk": {
-    "count": 8,
+    "count": 9,
     "projects": {
       "e20": [
+        {
+          "title": "Federated Agentic Defense For Zero Day Attacks",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Federated-Agentic-Defense-For-Zero-Day-Attacks/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Federated-Agentic-Defense-For-Zero-Day-Attacks",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Federated-Agentic-Defense-For-Zero-Day-Attacks",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Federated-Agentic-Defense-For-Zero-Day-Attacks/"
+        },
         {
           "title": "Optimizing Communication Efficiency and Latency in Blockchain Enabled FL Systems",
           "category": {
@@ -3922,9 +3935,22 @@
     }
   },
   "upuljm@eng.pdn.ac.lk": {
-    "count": 14,
+    "count": 15,
     "projects": {
       "e20": [
+        {
+          "title": "Federated Agentic Defense For Zero Day Attacks",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Federated-Agentic-Defense-For-Zero-Day-Attacks/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Federated-Agentic-Defense-For-Zero-Day-Attacks",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Federated-Agentic-Defense-For-Zero-Day-Attacks",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Federated-Agentic-Defense-For-Zero-Day-Attacks/"
+        },
         {
           "title": "Optimizing Communication Efficiency and Latency in Blockchain Enabled FL Systems",
           "category": {
