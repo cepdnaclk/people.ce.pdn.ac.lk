@@ -16453,6 +16453,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Cattle-Management-System/"
     },
     {
+      "title": "voice enabled llm agentic construction scheduler",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
+    },
+    {
       "title": "FoE Room Reservation",
       "category": {
         "code": "co227",
@@ -17873,6 +17886,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Cattle-Management-System/"
     },
     {
+      "title": "voice enabled llm agentic construction scheduler",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
+    },
+    {
       "title": "FoE Room Reservation",
       "category": {
         "code": "co227",
@@ -18952,6 +18978,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Cattle-Management-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Cattle-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Cattle-Management-System/"
+    },
+    {
+      "title": "voice enabled llm agentic construction scheduler",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
     },
     {
       "title": "FoE Room Reservation",

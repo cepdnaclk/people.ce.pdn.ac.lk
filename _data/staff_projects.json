@@ -500,8 +500,23 @@
     "projects": {}
   },
   "damayanthiherath@eng.pdn.ac.lk": {
-    "count": 23,
+    "count": 24,
     "projects": {
+      "e20": [
+        {
+          "title": "voice enabled llm agentic construction scheduler",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
+        }
+      ],
       "e19": [
         {
           "title": "Extending the Growing Self Organizing Map for Unsupervised Learning Based Modelling",
@@ -1447,8 +1462,23 @@
     "projects": {}
   },
   "isurunawinne@eng.pdn.ac.lk": {
-    "count": 29,
+    "count": 30,
     "projects": {
+      "e20": [
+        {
+          "title": "voice enabled llm agentic construction scheduler",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
+        }
+      ],
       "e19": [
         {
           "title": "AI Dirven Latency Constrained Resource Management In Kubernetes",
@@ -3935,7 +3965,7 @@
     }
   },
   "upuljm@eng.pdn.ac.lk": {
-    "count": 15,
+    "count": 16,
     "projects": {
       "e20": [
         {
@@ -3989,6 +4019,19 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-backdoor-resilient-federated-nids",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/backdoor-resilient-federated-nids/"
+        },
+        {
+          "title": "voice enabled llm agentic construction scheduler",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
         }
       ],
       "e19": [
