@@ -1,0 +1,24 @@
+{
+  "recommendations": [
+    "alexcvzz.vscode-sqlite",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "bmewburn.vscode-intelephense-client",
+    "davidanson.vscode-markdownlint",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "junstyle.php-cs-fixer",
+    "ms-azuretools.vscode-docker",
+    "mtxr.sqltools",
+    "onecentlin.laravel-blade",
+    "redhat.vscode-yaml",
+    "ryannaddy.laravel-artisan",
+    "shufo.vscode-blade-formatter",
+    "streetsidesoftware.code-spell-checker",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "visualstudioexptteam.vscodeintellicode",
+    "xdebug.php-debug",
+    "cierra.livewire-vscode",
+    "thekalinga.bootstrap5-vscode",
+    "ritwickdey.bootstrap-snippets"
+  ]
+}

@@ -24,5 +24,4 @@ personalNotes.txt
 *.pyc
 # force rebuild
 
-.vscode
 .DS_Store

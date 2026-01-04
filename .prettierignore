@@ -5,6 +5,8 @@ _layouts/vendor/**
 .jekyll-cache/**
 .mypy_cache/**
 .venv/**
+**/*.min.css
+**/*.min.js
 api/**
 pages/search/advanced-search/**
 pages/search/search.json
