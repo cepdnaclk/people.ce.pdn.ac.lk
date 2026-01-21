@@ -515,9 +515,22 @@
     "projects": {}
   },
   "damayanthiherath@eng.pdn.ac.lk": {
-    "count": 24,
+    "count": 25,
     "projects": {
       "e20": [
+        {
+          "title": "metagenomics",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/metagenomics/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-metagenomics",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/"
+        },
         {
           "title": "voice enabled llm agentic construction scheduler",
           "category": {
@@ -2661,8 +2674,23 @@
     }
   },
   "rajith.v@unimelb.edu.au": {
-    "count": 1,
+    "count": 2,
     "projects": {
+      "e20": [
+        {
+          "title": "metagenomics",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/metagenomics/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-metagenomics",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/"
+        }
+      ],
       "e18": [
         {
           "title": "Software Package To Support Agent Based Modelling Based Decision Making",
@@ -4342,8 +4370,23 @@
     }
   },
   "vijini.mallawaarachchi@flinders.edu.au": {
-    "count": 1,
+    "count": 2,
     "projects": {
+      "e20": [
+        {
+          "title": "metagenomics",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/metagenomics/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-metagenomics",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/"
+        }
+      ],
       "e18": [
         {
           "title": "Multi Kingdom Binning of Long Read Metagenomes",
