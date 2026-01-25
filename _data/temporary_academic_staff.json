@@ -282,7 +282,7 @@
       "email": "ridmajayasundara@eng.pdn.ac.lk",
       "linkedin": "https://www.linkedin.com/in/ridma-jayasundara-9471b8213",
       "joined_date": "2024-10-01",
-      "left_date": ""
+      "left_date": "2026-01-21"
     },
     {
       "staff_name": "Saadia Jameel",
@@ -328,15 +328,6 @@
       "linkedin": "https://www.linkedin.com/in/savindu-wannigama-a62141216/",
       "joined_date": "2024-12-30",
       "left_date": "2025-07-10"
-    },
-    {
-      "staff_name": "Sayumi Muthukumarana",
-      "text_below_name": "Temporary Instructor",
-      "url_image": "/images/staff/temporary-academic-staff/sayumi.jpeg",
-      "email": "e19249@eng.pdn.ac.lk",
-      "linkedin": "https://www.linkedin.com/in/sayumi-muthukumarana-267148216/",
-      "joined_date": "2025-01-01",
-      "left_date": "2026-09-30"
     },
     {
       "staff_name": "Akila Premathilaka",
@@ -400,6 +391,15 @@
       "linkedin": "https://www.linkedin.com/in/kanishka-gunawardana-285aa4201",
       "joined_date": "2025-08-25",
       "left_date": "2026-08-24"
+    },
+    {
+      "staff_name": "Sayumi Muthukumarana",
+      "text_below_name": "Temporary Instructor",
+      "url_image": "/images/staff/temporary-academic-staff/sayumi.jpeg",
+      "email": "e19249@eng.pdn.ac.lk",
+      "linkedin": "https://www.linkedin.com/in/sayumi-muthukumarana-267148216/",
+      "joined_date": "2025-10-01",
+      "left_date": "2026-09-30"
     },
     {
       "staff_name": "Sethma Weerasinghe",
