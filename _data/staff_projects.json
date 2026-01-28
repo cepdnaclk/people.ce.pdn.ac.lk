@@ -515,9 +515,22 @@
     "projects": {}
   },
   "damayanthiherath@eng.pdn.ac.lk": {
-    "count": 25,
+    "count": 26,
     "projects": {
       "e20": [
+        {
+          "title": "AI legal chain resolver II",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-legal-chain-resolver-II/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
+          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
+        },
         {
           "title": "metagenomics",
           "category": {
@@ -4468,8 +4481,23 @@
     }
   },
   "yasodhav@eng.pdn.ac.lk": {
-    "count": 4,
+    "count": 5,
     "projects": {
+      "e20": [
+        {
+          "title": "AI legal chain resolver II",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-legal-chain-resolver-II/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
+          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
+        }
+      ],
       "e19": [
         {
           "title": "Detection of Biological Chemical Degradation on Concrete Structures Using Computer Vision",

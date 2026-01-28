@@ -18251,6 +18251,19 @@
   ],
   "E/20/248": [
     {
+      "title": "AI legal chain resolver II",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-legal-chain-resolver-II/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
+    },
+    {
       "title": "Vescueye",
       "category": {
         "code": "3yp",
@@ -20136,6 +20149,19 @@
     }
   ],
   "E/20/453": [
+    {
+      "title": "AI legal chain resolver II",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-legal-chain-resolver-II/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
+    },
     {
       "title": "Vescueye",
       "category": {
