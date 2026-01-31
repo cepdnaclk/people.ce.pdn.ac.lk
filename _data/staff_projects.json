@@ -2364,7 +2364,7 @@
     }
   },
   "namal@eng.pdn.ac.lk": {
-    "count": 10,
+    "count": 9,
     "projects": {
       "e20": [
         {
@@ -2431,21 +2431,6 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-backdoor-resilient-federated-nids",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/backdoor-resilient-federated-nids/"
-        }
-      ],
-      "e19": [
-        {
-          "title": "NLP Driven IBN Layered Architecture for SDNs",
-          "category": {
-            "code": "4yp",
-            "title": "Undergraduate Research Projects",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-          },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/",
-          "repo_url": "https://github.com/cepdnaclk/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
-          "page_url": "https://cepdnaclk.github.io/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/"
         }
       ],
       "e18": [
