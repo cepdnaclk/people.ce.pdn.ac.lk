@@ -8189,19 +8189,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support/"
     },
     {
-      "title": "ML For Structural Health Monitoring",
-      "category": {
-        "code": "6sp",
-        "title": "Sixth Semester Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-For-Structural-Health-Monitoring/",
-      "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-For-Structural-Health-Monitoring",
-      "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-For-Structural-Health-Monitoring",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/"
-    },
-    {
       "title": "Smart Locker System",
       "category": {
         "code": "3yp",
@@ -8712,19 +8699,6 @@
       "page_url": "https://cepdnaclk.github.io/e18-4yp-Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Reinforcement-Learning-enabled-Recommendation-System-For-Emotional-Support/"
-    },
-    {
-      "title": "ML For Structural Health Monitoring",
-      "category": {
-        "code": "6sp",
-        "title": "Sixth Semester Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-For-Structural-Health-Monitoring/",
-      "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-For-Structural-Health-Monitoring",
-      "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-For-Structural-Health-Monitoring",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/"
     },
     {
       "title": "Smart Locker System",
@@ -9924,19 +9898,6 @@
       "page_url": "https://cepdnaclk.github.io/e18-4yp-Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Using-AI-in-determining-alveolar-bone-loss-in-Dental-X-rays-to-aid-in-periodontal-diagnosis/"
-    },
-    {
-      "title": "ML For Structural Health Monitoring",
-      "category": {
-        "code": "6sp",
-        "title": "Sixth Semester Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/ML-For-Structural-Health-Monitoring/",
-      "repo_url": "https://github.com/cepdnaclk/e18-6sp-ML-For-Structural-Health-Monitoring",
-      "page_url": "https://cepdnaclk.github.io/e18-6sp-ML-For-Structural-Health-Monitoring",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/ML-For-Structural-Health-Monitoring/"
     },
     {
       "title": "Smart Locker System",
@@ -20504,6 +20465,19 @@
   ],
   "E/21/087": [
     {
+      "title": "SlideSense Project",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense-Project/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense-Project",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense-Project",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense-Project/"
+    },
+    {
       "title": "PeraMorphiq",
       "category": {
         "code": "co227",
@@ -20664,6 +20638,19 @@
     }
   ],
   "E/21/138": [
+    {
+      "title": "SlideSense Project",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense-Project/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense-Project",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense-Project",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense-Project/"
+    },
     {
       "title": "Peraverse integration",
       "category": {
@@ -21176,6 +21163,19 @@
   ],
   "E/21/302": [
     {
+      "title": "SlideSense Project",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense-Project/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense-Project",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense-Project",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense-Project/"
+    },
+    {
       "title": "PeraMorphiq",
       "category": {
         "code": "co227",
@@ -21634,6 +21634,19 @@
     }
   ],
   "E/21/452": [
+    {
+      "title": "SlideSense Project",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense-Project/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense-Project",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense-Project",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense-Project/"
+    },
     {
       "title": "Interactive Exhibition Map Peraverse",
       "category": {
