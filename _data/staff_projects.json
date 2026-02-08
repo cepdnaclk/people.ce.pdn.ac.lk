@@ -1090,6 +1090,10 @@
       ]
     }
   },
+  "dinakad@dental.pdn.ac.lk": {
+    "count": 0,
+    "projects": {}
+  },
   "dmayanthiherath@eng.pdn.ac.lk": {
     "count": 0,
     "projects": {}
@@ -1225,6 +1229,14 @@
     }
   },
   "e21005@eng.pdn.ac.lk": {
+    "count": 0,
+    "projects": {}
+  },
+  "e21077@eng.pdn.ac.lk": {
+    "count": 0,
+    "projects": {}
+  },
+  "e21148@eng.pdn.ac.lk": {
     "count": 0,
     "projects": {}
   },
@@ -2368,7 +2380,7 @@
     }
   },
   "namal@eng.pdn.ac.lk": {
-    "count": 9,
+    "count": 10,
     "projects": {
       "e20": [
         {
@@ -2396,6 +2408,19 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-Federated-Agentic-Defense-For-Zero-Day-Attacks",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Federated-Agentic-Defense-For-Zero-Day-Attacks/"
+        },
+        {
+          "title": "Generative Digital Twin Framework for Airport Surveillance Networks",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks/"
         },
         {
           "title": "Optimizing Communication Efficiency and Latency in Blockchain Enabled FL Systems",
@@ -4101,7 +4126,7 @@
     }
   },
   "upuljm@eng.pdn.ac.lk": {
-    "count": 18,
+    "count": 19,
     "projects": {
       "e20": [
         {
@@ -4142,6 +4167,19 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-Federated-Agentic-Defense-For-Zero-Day-Attacks",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Federated-Agentic-Defense-For-Zero-Day-Attacks/"
+        },
+        {
+          "title": "Generative Digital Twin Framework for Airport Surveillance Networks",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks/"
         },
         {
           "title": "Optimizing Communication Efficiency and Latency in Blockchain Enabled FL Systems",
