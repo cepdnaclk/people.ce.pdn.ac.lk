@@ -20357,6 +20357,19 @@
   ],
   "E/21/009": [
     {
+      "title": "Drone Swarm ",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm-/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm-",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm-",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm-/"
+    },
+    {
       "title": "Event Management System",
       "category": {
         "code": "co227",
@@ -20894,19 +20907,6 @@
   ],
   "E/21/148": [
     {
-      "title": "manikin auscultation",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/manikin-auscultation/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-manikin-auscultation",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-manikin-auscultation",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/manikin-auscultation/"
-    },
-    {
       "title": "RFID Hardware and Tag Lifecycle",
       "category": {
         "code": "co227",
@@ -20922,19 +20922,6 @@
   ],
   "E/21/152": [
     {
-      "title": "manikin auscultation",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/manikin-auscultation/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-manikin-auscultation",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-manikin-auscultation",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/manikin-auscultation/"
-    },
-    {
       "title": "RFID Hardware and Tag Lifecycle",
       "category": {
         "code": "co227",
@@ -20949,6 +20936,19 @@
     }
   ],
   "E/21/156": [
+    {
+      "title": "Drone Swarm ",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm-/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm-",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm-",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm-/"
+    },
     {
       "title": "Event Management System",
       "category": {
@@ -20979,6 +20979,19 @@
     }
   ],
   "E/21/180": [
+    {
+      "title": "Drone Swarm ",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm-/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm-",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm-",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm-/"
+    },
     {
       "title": "Event Management System",
       "category": {
@@ -21083,19 +21096,6 @@
   ],
   "E/21/214": [
     {
-      "title": "manikin auscultation",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/manikin-auscultation/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-manikin-auscultation",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-manikin-auscultation",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/manikin-auscultation/"
-    },
-    {
       "title": "RFID Hardware and Tag Lifecycle",
       "category": {
         "code": "co227",
@@ -21111,6 +21111,19 @@
   ],
   "E/21/217": [
     {
+      "title": "Drone Swarm ",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm-/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm-",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm-",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm-/"
+    },
+    {
       "title": "Event Management System",
       "category": {
         "code": "co227",
@@ -21125,19 +21138,6 @@
     }
   ],
   "E/21/220": [
-    {
-      "title": "manikin auscultation",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/manikin-auscultation/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-manikin-auscultation",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-manikin-auscultation",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/manikin-auscultation/"
-    },
     {
       "title": "RFID Hardware and Tag Lifecycle",
       "category": {
@@ -21951,6 +21951,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
     }
   ],
+  "E/22/008": [
+    {
+      "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
+    }
+  ],
   "E/22/010": [
     {
       "title": "MediTriage",
@@ -21979,21 +21994,6 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/"
-    }
-  ],
-  "E/22/051": [
-    {
-      "title": "DMS",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/DMS/",
-      "repo_url": "https://github.com/cepdnaclk/e22-co2060-DMS",
-      "page_url": "https://cepdnaclk.github.io/e22-co2060-DMS",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/DMS/"
     }
   ],
   "E/22/052": [
@@ -22086,6 +22086,51 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PearlPath/"
     }
   ],
+  "E/22/126": [
+    {
+      "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
+    }
+  ],
+  "E/22/130": [
+    {
+      "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
+    }
+  ],
+  "E/22/135": [
+    {
+      "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
+    }
+  ],
   "E/22/141": [
     {
       "title": "Real Time Public Bus Tracking System",
@@ -22129,21 +22174,6 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-OrthoPAR-Web-Platform",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OrthoPAR-Web-Platform/"
-    }
-  ],
-  "E/22/176": [
-    {
-      "title": "DMS",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/DMS/",
-      "repo_url": "https://github.com/cepdnaclk/e22-co2060-DMS",
-      "page_url": "https://cepdnaclk.github.io/e22-co2060-DMS",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/DMS/"
     }
   ],
   "E/22/184": [
@@ -22249,21 +22279,6 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-Real-Time-Public-Bus-Tracking-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Real-Time-Public-Bus-Tracking-System/"
-    }
-  ],
-  "E/22/271": [
-    {
-      "title": "DMS",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/DMS/",
-      "repo_url": "https://github.com/cepdnaclk/e22-co2060-DMS",
-      "page_url": "https://cepdnaclk.github.io/e22-co2060-DMS",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/DMS/"
     }
   ],
   "E/22/280": [
