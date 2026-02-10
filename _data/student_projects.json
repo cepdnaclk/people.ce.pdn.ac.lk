@@ -20327,6 +20327,19 @@
   ],
   "E/21/006": [
     {
+      "title": "GloveXcel",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/GloveXcel/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-GloveXcel",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-GloveXcel",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/GloveXcel/"
+    },
+    {
       "title": "PeraVerse Organizer Dashboard Core Frontend",
       "category": {
         "code": "co227",
@@ -20341,6 +20354,19 @@
     }
   ],
   "E/21/007": [
+    {
+      "title": "GloveXcel",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/GloveXcel/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-GloveXcel",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-GloveXcel",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/GloveXcel/"
+    },
     {
       "title": "PeraVerse Organizer Dashboard Core Frontend",
       "category": {
@@ -20734,6 +20760,19 @@
     }
   ],
   "E/21/124": [
+    {
+      "title": "GloveXcel",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/GloveXcel/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-GloveXcel",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-GloveXcel",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/GloveXcel/"
+    },
     {
       "title": "Smart Crowd Monitoring System Using Yolo And Deepsort",
       "category": {
@@ -21738,6 +21777,19 @@
   ],
   "E/21/410": [
     {
+      "title": "GloveXcel",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/GloveXcel/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-GloveXcel",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-GloveXcel",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/GloveXcel/"
+    },
+    {
       "title": "PeraVerse Organizer Dashboard Analytics Backend",
       "category": {
         "code": "co227",
@@ -21951,6 +22003,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
     }
   ],
+  "E/22/001": [
+    {
+      "title": "MyStay Boarding Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
+    }
+  ],
   "E/22/008": [
     {
       "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
@@ -21979,6 +22046,21 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/"
+    }
+  ],
+  "E/22/027": [
+    {
+      "title": "MyStay Boarding Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
     }
   ],
   "E/22/044": [
@@ -22054,6 +22136,21 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/"
+    }
+  ],
+  "E/22/120": [
+    {
+      "title": "MyStay Boarding Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
     }
   ],
   "E/22/121": [
@@ -22296,6 +22393,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Project-KNOT/"
     }
   ],
+  "E/22/324": [
+    {
+      "title": "MyStay Boarding Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
+    }
+  ],
   "E/22/336": [
     {
       "title": "PERA SAM",
@@ -22416,21 +22528,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PearlPath/"
     }
   ],
-  "E/23/001": [
-    {
-      "title": "Kitchen Foods Platform",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Kitchen-Foods-Platform/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Kitchen-Foods-Platform",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-Kitchen-Foods-Platform",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
-    }
-  ],
   "E/23/015": [
     {
       "title": "Hotel Management System",
@@ -22491,21 +22588,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
     }
   ],
-  "E/23/043": [
-    {
-      "title": "Kitchen Foods Platform",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Kitchen-Foods-Platform/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Kitchen-Foods-Platform",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-Kitchen-Foods-Platform",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
-    }
-  ],
   "E/23/075": [
     {
       "title": "Alumnet",
@@ -22536,21 +22618,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
     }
   ],
-  "E/23/082": [
-    {
-      "title": "Kitchen Foods Platform",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Kitchen-Foods-Platform/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Kitchen-Foods-Platform",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-Kitchen-Foods-Platform",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
-    }
-  ],
   "E/23/118": [
     {
       "title": "MPhil PhD Lifecycle Management System",
@@ -22564,21 +22631,6 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
-    }
-  ],
-  "E/23/130": [
-    {
-      "title": "Kitchen Foods Platform",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Kitchen-Foods-Platform/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Kitchen-Foods-Platform",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-Kitchen-Foods-Platform",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
     }
   ],
   "E/23/149": [
