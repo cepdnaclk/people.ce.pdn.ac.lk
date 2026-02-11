@@ -519,7 +519,7 @@
     "projects": {}
   },
   "damayanthiherath@eng.pdn.ac.lk": {
-    "count": 26,
+    "count": 25,
     "projects": {
       "e20": [
         {
@@ -601,19 +601,6 @@
           "page_url": "https://cepdnaclk.github.io/e19-4yp-Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance/"
-        },
-        {
-          "title": "Out of domain generalization in Computer Vision",
-          "category": {
-            "code": "4yp",
-            "title": "Undergraduate Research Projects",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-          },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Out-of-domain-generalization-in-Computer-Vision/",
-          "repo_url": "https://github.com/cepdnaclk/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
-          "page_url": "https://cepdnaclk.github.io/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Out-of-domain-generalization-in-Computer-Vision/"
         },
         {
           "title": "Solve Issues In Large Code Repositories",
@@ -1162,6 +1149,26 @@
       ]
     }
   },
+  "e16088@eng.pdn.ac.lk": {
+    "count": 1,
+    "projects": {
+      "e20": [
+        {
+          "title": "Reducing context switching latency in RTES",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-context-switching-latency-in-RTES/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-context-switching-latency-in-RTES",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-context-switching-latency-in-RTES",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-context-switching-latency-in-RTES/"
+        }
+      ]
+    }
+  },
   "e17058@eng.pdn.ac.lk": {
     "count": 2,
     "projects": {
@@ -1232,6 +1239,10 @@
       ]
     }
   },
+  "e19489@eng.pdn.ac.lk": {
+    "count": 0,
+    "projects": {}
+  },
   "e20254@eng.pdn.ac.lk": {
     "count": 0,
     "projects": {}
@@ -1245,6 +1256,10 @@
     "projects": {}
   },
   "e21148@eng.pdn.ac.lk": {
+    "count": 0,
+    "projects": {}
+  },
+  "e21180@eng.pdn.ac.lk": {
     "count": 0,
     "projects": {}
   },
@@ -1522,14 +1537,31 @@
       ]
     }
   },
+  "isurun@eng.pdn.ac.lk": {
+    "count": 0,
+    "projects": {}
+  },
   "isurunawinne@ce.pdn.ac.lk": {
     "count": 0,
     "projects": {}
   },
   "isurunawinne@eng.pdn.ac.lk": {
-    "count": 31,
+    "count": 32,
     "projects": {
       "e20": [
+        {
+          "title": "Reducing context switching latency in RTES",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-context-switching-latency-in-RTES/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-context-switching-latency-in-RTES",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-context-switching-latency-in-RTES",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-context-switching-latency-in-RTES/"
+        },
         {
           "title": "Synthetic Cardiac MRI Image Generation using Deep Generative Models",
           "category": {
@@ -2810,9 +2842,22 @@
     }
   },
   "roshanr@eng.pdn.ac.lk": {
-    "count": 56,
+    "count": 57,
     "projects": {
       "e20": [
+        {
+          "title": "Reducing context switching latency in RTES",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-context-switching-latency-in-RTES/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-context-switching-latency-in-RTES",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-context-switching-latency-in-RTES",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-context-switching-latency-in-RTES/"
+        },
         {
           "title": "Synthetic Cardiac MRI Image Generation using Deep Generative Models",
           "category": {
@@ -3570,26 +3615,6 @@
           "page_url": "https://cepdnaclk.github.io/e17-4yp-flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/flexible-glove-for-real-time-tracking-and-analysis-of-hand-and-finger-movements/"
-        }
-      ]
-    }
-  },
-  "ruwan.tennakoon@rmit.edu.au": {
-    "count": 1,
-    "projects": {
-      "e19": [
-        {
-          "title": "Out of domain generalization in Computer Vision",
-          "category": {
-            "code": "4yp",
-            "title": "Undergraduate Research Projects",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-          },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Out-of-domain-generalization-in-Computer-Vision/",
-          "repo_url": "https://github.com/cepdnaclk/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
-          "page_url": "https://cepdnaclk.github.io/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Out-of-domain-generalization-in-Computer-Vision/"
         }
       ]
     }
