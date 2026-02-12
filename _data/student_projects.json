@@ -22031,21 +22031,6 @@
   ],
   "E/21/386": [
     {
-      "title": "Registration Portal",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
-      "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
-      "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
-    }
-  ],
-  "E/21/3866": [
-    {
       "title": "dia smart",
       "category": {
         "code": "3yp",
@@ -22057,6 +22042,19 @@
       "page_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart",
       "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/dia-smart/"
+    },
+    {
+      "title": "Registration Portal",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/Registration-Portal/",
+      "repo_url": "https://github.com/cepdnaclk/e21-co227-Registration-Portal",
+      "page_url": "https://cepdnaclk.github.io/e21-co227-Registration-Portal",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Registration-Portal/"
     }
   ],
   "E/21/391": [
@@ -23072,6 +23070,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/floodguard/"
     }
   ],
+  "E/22/400": [
+    {
+      "title": "Tour guide",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Tour-guide/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Tour-guide",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Tour-guide/"
+    }
+  ],
   "E/22/402": [
     {
       "title": "gympappa spooty app",
@@ -23503,7 +23516,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/ChronoCampus/",
       "repo_url": "https://github.com/cepdnaclk/e23-co2060-ChronoCampus",
       "page_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/ChronoCampus/"
     }
   ],
@@ -23653,7 +23666,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/ChronoCampus/",
       "repo_url": "https://github.com/cepdnaclk/e23-co2060-ChronoCampus",
       "page_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/ChronoCampus/"
     }
   ],
@@ -23713,7 +23726,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/ChronoCampus/",
       "repo_url": "https://github.com/cepdnaclk/e23-co2060-ChronoCampus",
       "page_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/ChronoCampus/"
     }
   ],
@@ -23728,7 +23741,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/ChronoCampus/",
       "repo_url": "https://github.com/cepdnaclk/e23-co2060-ChronoCampus",
       "page_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/ChronoCampus/"
     }
   ],
