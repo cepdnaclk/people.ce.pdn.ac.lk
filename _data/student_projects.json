@@ -22545,6 +22545,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OrthoPAR-Web-Platform/"
     }
   ],
+  "E/22/084": [
+    {
+      "title": "Tour guide",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Tour-guide/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Tour-guide",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Tour-guide/"
+    }
+  ],
   "E/22/102": [
     {
       "title": "MediTriage",
@@ -22678,6 +22693,21 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
+    }
+  ],
+  "E/22/138": [
+    {
+      "title": "Tour guide",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Tour-guide/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Tour-guide",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Tour-guide/"
     }
   ],
   "E/22/141": [
@@ -22905,6 +22935,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Real-Time-Public-Bus-Tracking-System/"
     }
   ],
+  "E/22/250": [
+    {
+      "title": "Tour guide",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Tour-guide/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Tour-guide",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Tour-guide/"
+    }
+  ],
   "E/22/280": [
     {
       "title": "Project KNOT",
@@ -23068,6 +23113,21 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-floodguard",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/floodguard/"
+    }
+  ],
+  "E/22/400": [
+    {
+      "title": "Tour guide",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Tour-guide/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Tour-guide",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Tour-guide/"
     }
   ],
   "E/22/402": [
