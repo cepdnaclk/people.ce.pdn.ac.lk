@@ -1554,9 +1554,22 @@
     "projects": {}
   },
   "isurunawinne@eng.pdn.ac.lk": {
-    "count": 32,
+    "count": 33,
     "projects": {
       "e20": [
+        {
+          "title": "On Chip Online Learning For Neuromorphic Hardware",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
+        },
         {
           "title": "Reducing context switching latency in RTES",
           "category": {
@@ -2850,9 +2863,22 @@
     }
   },
   "roshanr@eng.pdn.ac.lk": {
-    "count": 57,
+    "count": 59,
     "projects": {
       "e20": [
+        {
+          "title": "On Chip Online Learning For Neuromorphic Hardware",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
+        },
         {
           "title": "Reducing context switching latency in RTES",
           "category": {
@@ -2878,6 +2904,19 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
+        },
+        {
+          "title": "ai driven automated feedback and tutoring system for higher education",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
+          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education/data/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/"
         }
       ],
       "e19": [
@@ -3663,6 +3702,26 @@
           "page_url": "https://cepdnaclk.github.io/e16-4yp-Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Using-Computer-Vision-and-Agent-Based-Modelling-to-Explore-the-Human-Elephant-Conflict/"
+        }
+      ]
+    }
+  },
+  "sakuyatigammana@arts.pdn.ac.lk": {
+    "count": 1,
+    "projects": {
+      "e20": [
+        {
+          "title": "ai driven automated feedback and tutoring system for higher education",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
+          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education/data/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/"
         }
       ]
     }
