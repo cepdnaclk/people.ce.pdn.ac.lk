@@ -1387,7 +1387,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/",
       "repo_url": "https://github.com/cepdnaclk/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
       "page_url": "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/"
     },
     {
@@ -1538,7 +1538,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/",
       "repo_url": "https://github.com/cepdnaclk/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
       "page_url": "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/"
     },
     {
@@ -2391,7 +2391,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/",
       "repo_url": "https://github.com/cepdnaclk/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
       "page_url": "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e15-3yp-A-GUI-for-controlling-and-supervising-multiple-robots-remotely/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/A-GUI-for-controlling-and-supervising-multiple-robots-remotely/"
     },
     {
@@ -11467,19 +11467,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/impact-tracker/"
     },
     {
-      "title": "Out of domain generalization in Computer Vision",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Out-of-domain-generalization-in-Computer-Vision/",
-      "repo_url": "https://github.com/cepdnaclk/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
-      "page_url": "https://cepdnaclk.github.io/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Out-of-domain-generalization-in-Computer-Vision/"
-    },
-    {
       "title": "Leaf Colour Quantifier",
       "category": {
         "code": "co227",
@@ -12855,8 +12842,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Green-House-Automation/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Green-House-Automation",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Green-House-Automation",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Green-House-Automation/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Green-House-Automation/"
+    },
+    {
+      "title": "A Hierarchical Hybrid Framework for Intrusion Detection in Network and Application Layers",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers/"
     },
     {
       "title": "Plants disease dataset collection in SriLanka",
@@ -14843,19 +14843,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/impact-tracker/"
     },
     {
-      "title": "Out of domain generalization in Computer Vision",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Out-of-domain-generalization-in-Computer-Vision/",
-      "repo_url": "https://github.com/cepdnaclk/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
-      "page_url": "https://cepdnaclk.github.io/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Out-of-domain-generalization-in-Computer-Vision/"
-    },
-    {
       "title": "Leaf Colour Quantifier",
       "category": {
         "code": "co227",
@@ -15087,19 +15074,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/impact-tracker/"
     },
     {
-      "title": "Out of domain generalization in Computer Vision",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Out-of-domain-generalization-in-Computer-Vision/",
-      "repo_url": "https://github.com/cepdnaclk/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
-      "page_url": "https://cepdnaclk.github.io/e19-4yp-Out-of-domain-generalization-in-Computer-Vision",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Out-of-domain-generalization-in-Computer-Vision/"
-    },
-    {
       "title": "Leaf Colour Quantifier",
       "category": {
         "code": "co227",
@@ -15167,19 +15141,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/smart-supermarket-navigation-system/"
     },
     {
-      "title": "NLP Driven IBN Layered Architecture for SDNs",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/",
-      "repo_url": "https://github.com/cepdnaclk/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
-      "page_url": "https://cepdnaclk.github.io/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/"
-    },
-    {
       "title": "subclinical mastitis prediction gui",
       "category": {
         "code": "co227",
@@ -15232,19 +15193,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-3yp-smart-supermarket-navigation-system",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/smart-supermarket-navigation-system/"
-    },
-    {
-      "title": "NLP Driven IBN Layered Architecture for SDNs",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/",
-      "repo_url": "https://github.com/cepdnaclk/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
-      "page_url": "https://cepdnaclk.github.io/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/"
     },
     {
       "title": "Online Retail System",
@@ -15794,19 +15742,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-3yp-Pera-Swarm-Modular-Robots",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E19/Pera-Swarm-Modular-Robots/"
-    },
-    {
-      "title": "NLP Driven IBN Layered Architecture for SDNs",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/",
-      "repo_url": "https://github.com/cepdnaclk/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
-      "page_url": "https://cepdnaclk.github.io/e19-4yp-NLP-Driven-IBN-Layered-Architecture-for-SDNs",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/NLP-Driven-IBN-Layered-Architecture-for-SDNs/"
     },
     {
       "title": "digital signage content management system",
@@ -16449,8 +16384,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Cattle-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Cattle-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Cattle-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Cattle-Management-System/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Cattle-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Cattle-Management-System/"
+    },
+    {
+      "title": "voice enabled llm agentic construction scheduler",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
     },
     {
       "title": "FoE Room Reservation",
@@ -16490,8 +16438,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Aquarium/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Aquarium",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Aquarium/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Aquarium/"
+    },
+    {
+      "title": "AI Enabled Digital Twin for Crack Evolution in Concrete Beams ",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-/"
     },
     {
       "title": "Student Academic Tracker",
@@ -16518,7 +16479,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/P-E-BO-Desk-Companion/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-P-E-BO-Desk-Companion",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
     },
     {
@@ -16572,8 +16533,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SkyT/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SkyT/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-SkyT/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
+    },
+    {
+      "title": "Reducing context switching latency in RTES",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-context-switching-latency-in-RTES/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-context-switching-latency-in-RTES",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-context-switching-latency-in-RTES",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-context-switching-latency-in-RTES/"
     },
     {
       "title": "e Conductor",
@@ -16626,8 +16600,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SkyT/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SkyT/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-SkyT/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
+    },
+    {
+      "title": "On Chip Online Learning For Neuromorphic Hardware",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
     },
     {
       "title": "MLink A Pharmacy Linking Platform",
@@ -16749,7 +16736,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Remote-Gait-Analysis/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Remote-Gait-Analysis",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Remote-Gait-Analysis/"
     },
     {
@@ -16767,6 +16754,19 @@
     }
   ],
   "E/20/049": [
+    {
+      "title": "Context Aware Ai Sybil Mitigation WBAN IOMT",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT/"
+    },
     {
       "title": "Academic Staff Management Information System",
       "category": {
@@ -16805,7 +16805,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/"
     },
     {
@@ -16859,7 +16859,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Aquarium/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Aquarium",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Aquarium/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Aquarium/"
     },
     {
@@ -16943,7 +16943,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Train-Tracking-and-Smart-Ticketing/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Train-Tracking-and-Smart-Ticketing",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Train-Tracking-and-Smart-Ticketing/"
     },
     {
@@ -16997,7 +16997,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Canteen-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Canteen-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Canteen-Management-System/"
     },
     {
@@ -17038,8 +17038,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/MediFlow/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-MediFlow",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-MediFlow/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/MediFlow/"
+    },
+    {
+      "title": "Generative Digital Twin Framework for Airport Surveillance Networks",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks/"
     },
     {
       "title": "Computer Engineering Portal",
@@ -17092,8 +17105,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/P-E-BO-Desk-Companion/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-P-E-BO-Desk-Companion",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
+    },
+    {
+      "title": "ai driven automated feedback and tutoring system for higher education",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/"
     },
     {
       "title": "MONA Dashboard",
@@ -17123,6 +17149,19 @@
     }
   ],
   "E/20/093": [
+    {
+      "title": "Synthetic Cardiac MRI Image Generation using Deep Generative Models",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
+    },
     {
       "title": "Academic Staff Management Information System",
       "category": {
@@ -17161,7 +17200,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/MediFlow/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-MediFlow",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-MediFlow/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/MediFlow/"
     },
     {
@@ -17228,8 +17267,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Green-House-Automation/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Green-House-Automation",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Green-House-Automation",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Green-House-Automation/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Green-House-Automation/"
+    },
+    {
+      "title": "A Hierarchical Hybrid Framework for Intrusion Detection in Network and Application Layers",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers/"
     },
     {
       "title": "MIS for Non Academic Establishment Division",
@@ -17284,7 +17336,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Canteen-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Canteen-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Canteen-Management-System/"
     }
   ],
@@ -17299,7 +17351,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-OceanEyes/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
     },
     {
@@ -17353,8 +17405,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/MediFlow/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-MediFlow",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-MediFlow/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/MediFlow/"
+    },
+    {
+      "title": "Generative Digital Twin Framework for Airport Surveillance Networks",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks/"
     },
     {
       "title": "Computer Engineering Portal",
@@ -17435,7 +17500,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-OceanEyes/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
     },
     {
@@ -17502,8 +17567,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SkyT/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SkyT/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-SkyT/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
+    },
+    {
+      "title": "Reducing context switching latency in RTES",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-context-switching-latency-in-RTES/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-context-switching-latency-in-RTES",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-context-switching-latency-in-RTES",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-context-switching-latency-in-RTES/"
     },
     {
       "title": "e Conductor",
@@ -17556,8 +17634,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vescueye/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vescueye",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
+    },
+    {
+      "title": "metagenomics",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/metagenomics/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-metagenomics",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/"
     },
     {
       "title": "TourMate",
@@ -17569,7 +17660,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/TourMate/",
       "repo_url": "https://github.com/cepdnaclk/e20-CO227-TourMate",
       "page_url": "https://cepdnaclk.github.io/e20-CO227-TourMate",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-CO227-TourMate/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/TourMate/"
     }
   ],
@@ -17586,6 +17677,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-3yp-GEOnex",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/GEOnex/"
+    },
+    {
+      "title": "Federated Agentic Defense For Zero Day Attacks",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Federated-Agentic-Defense-For-Zero-Day-Attacks/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Federated-Agentic-Defense-For-Zero-Day-Attacks",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Federated-Agentic-Defense-For-Zero-Day-Attacks",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Federated-Agentic-Defense-For-Zero-Day-Attacks/"
     },
     {
       "title": "MLink A Pharmacy Linking Platform",
@@ -17612,7 +17716,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SkyT/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SkyT/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-SkyT/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
     },
     {
@@ -17653,7 +17757,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-OceanEyes/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
     },
     {
@@ -17720,8 +17824,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/MediFlow/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-MediFlow",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-MediFlow/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-MediFlow/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/MediFlow/"
+    },
+    {
+      "title": "Generative Digital Twin Framework for Airport Surveillance Networks",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks/"
     },
     {
       "title": "Computer Engineering Portal",
@@ -17802,8 +17919,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/"
+    },
+    {
+      "title": "Synthetic Cardiac MRI Image Generation using Deep Generative Models",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
     },
     {
       "title": "Postgraduate Student Management System",
@@ -17856,8 +17986,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Cattle-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Cattle-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Cattle-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Cattle-Management-System/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Cattle-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Cattle-Management-System/"
+    },
+    {
+      "title": "voice enabled llm agentic construction scheduler",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
     },
     {
       "title": "FoE Room Reservation",
@@ -17897,8 +18040,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/"
+    },
+    {
+      "title": "Synthetic Cardiac MRI Image Generation using Deep Generative Models",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
     },
     {
       "title": "Postgraduate Student Management System",
@@ -17966,8 +18122,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Aquarium/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Aquarium",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Aquarium/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Aquarium/"
+    },
+    {
+      "title": "AI Enabled Digital Twin for Crack Evolution in Concrete Beams ",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-/"
     },
     {
       "title": "Student Academic Tracker",
@@ -18067,6 +18236,19 @@
   ],
   "E/20/244": [
     {
+      "title": "metagenomics",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/metagenomics/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-metagenomics",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/"
+    },
+    {
       "title": "Academic Staff Management Information System",
       "category": {
         "code": "co227",
@@ -18104,8 +18286,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vescueye/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vescueye",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
+    },
+    {
+      "title": "AI legal chain resolver II",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-legal-chain-resolver-II/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
     },
     {
       "title": "TourMate",
@@ -18117,7 +18312,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/TourMate/",
       "repo_url": "https://github.com/cepdnaclk/e20-CO227-TourMate",
       "page_url": "https://cepdnaclk.github.io/e20-CO227-TourMate",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-CO227-TourMate/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/TourMate/"
     }
   ],
@@ -18132,8 +18327,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/VR-Multiplayer-Golf-Game/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-VR-Multiplayer-Golf-Game",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/VR-Multiplayer-Golf-Game/"
+    },
+    {
+      "title": "Reducing context switching latency in RTES",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-context-switching-latency-in-RTES/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-context-switching-latency-in-RTES",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-context-switching-latency-in-RTES",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-context-switching-latency-in-RTES/"
     },
     {
       "title": "Cardiac Patient Data Management System",
@@ -18186,7 +18394,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Canteen-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Canteen-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Canteen-Management-System/"
     }
   ],
@@ -18285,8 +18493,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Vehicle-Tracking-and-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Vehicle-Tracking-and-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Vehicle-Tracking-and-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Vehicle-Tracking-and-Management-System/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Vehicle-Tracking-and-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Vehicle-Tracking-and-Management-System/"
+    },
+    {
+      "title": "Federated Agentic Defense For Zero Day Attacks",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Federated-Agentic-Defense-For-Zero-Day-Attacks/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Federated-Agentic-Defense-For-Zero-Day-Attacks",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Federated-Agentic-Defense-For-Zero-Day-Attacks",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Federated-Agentic-Defense-For-Zero-Day-Attacks/"
     },
     {
       "title": "Village Management System",
@@ -18367,7 +18588,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Train-Tracking-and-Smart-Ticketing/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Train-Tracking-and-Smart-Ticketing",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Train-Tracking-and-Smart-Ticketing/"
     },
     {
@@ -18425,6 +18646,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/The_Robot_Waiter/"
     },
     {
+      "title": "On Chip Online Learning For Neuromorphic Hardware",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
+    },
+    {
       "title": "BookWallet",
       "category": {
         "code": "co227",
@@ -18462,7 +18696,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Train-Tracking-and-Smart-Ticketing/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Train-Tracking-and-Smart-Ticketing",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Train-Tracking-and-Smart-Ticketing/"
     },
     {
@@ -18529,7 +18763,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/"
     },
     {
@@ -18596,7 +18830,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Train-Tracking-and-Smart-Ticketing/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Train-Tracking-and-Smart-Ticketing",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Train-Tracking-and-Smart-Ticketing/"
     },
     {
@@ -18654,6 +18888,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-IOT-Indoor-Lighting-System/"
     },
     {
+      "title": "Explainable AI Driven Zero Trust Anomaly Detection for Encrypted Traffic",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Explainable-AI-Driven-Zero-Trust-Anomaly-Detection-for-Encrypted-Traffic/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Explainable-AI-Driven-Zero-Trust-Anomaly-Detection-for-Encrypted-Traffic",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Explainable-AI-Driven-Zero-Trust-Anomaly-Detection-for-Encrypted-Traffic",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Explainable-AI-Driven-Zero-Trust-Anomaly-Detection-for-Encrypted-Traffic/"
+    },
+    {
       "title": "Artery Resolver",
       "category": {
         "code": "co227",
@@ -18678,8 +18925,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vescueye/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vescueye",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
+    },
+    {
+      "title": "metagenomics",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/metagenomics/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-metagenomics",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/"
     },
     {
       "title": "TourMate",
@@ -18691,7 +18951,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/TourMate/",
       "repo_url": "https://github.com/cepdnaclk/e20-CO227-TourMate",
       "page_url": "https://cepdnaclk.github.io/e20-CO227-TourMate",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-CO227-TourMate/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/TourMate/"
     }
   ],
@@ -18760,7 +19020,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/OceanEyes/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-OceanEyes",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-OceanEyes/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-OceanEyes/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/OceanEyes/"
     },
     {
@@ -18831,6 +19091,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Shopping-Cart/"
     },
     {
+      "title": "Context Aware Ai Sybil Mitigation WBAN IOMT",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT/"
+    },
+    {
       "title": "ACES fund and inventory management system",
       "category": {
         "code": "co227",
@@ -18883,7 +19156,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Cattle-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Cattle-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Cattle-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Cattle-Management-System/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Cattle-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Cattle-Management-System/"
     },
     {
@@ -18924,8 +19197,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Cattle-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Cattle-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Cattle-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Cattle-Management-System/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Cattle-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Cattle-Management-System/"
+    },
+    {
+      "title": "voice enabled llm agentic construction scheduler",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
     },
     {
       "title": "FoE Room Reservation",
@@ -18965,7 +19251,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Remote-Gait-Analysis/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Remote-Gait-Analysis",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Remote-Gait-Analysis/"
     },
     {
@@ -19019,7 +19305,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SafePlus/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-SafePlus",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
     },
     {
@@ -19088,8 +19374,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/P-E-BO-Desk-Companion/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-P-E-BO-Desk-Companion",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
+    },
+    {
+      "title": "ai driven automated feedback and tutoring system for higher education",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/"
     },
     {
       "title": "MONA Dashboard",
@@ -19129,7 +19428,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Remote-Gait-Analysis/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Remote-Gait-Analysis",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Remote-Gait-Analysis/"
     },
     {
@@ -19157,7 +19456,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Remote-Gait-Analysis/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Remote-Gait-Analysis",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Remote-Gait-Analysis/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Remote-Gait-Analysis/"
     },
     {
@@ -19185,8 +19484,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/P-E-BO-Desk-Companion/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-P-E-BO-Desk-Companion",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-P-E-BO-Desk-Companion/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
+    },
+    {
+      "title": "ai driven automated feedback and tutoring system for higher education",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/"
     },
     {
       "title": "MONA Dashboard",
@@ -19239,7 +19551,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/VR-Multiplayer-Golf-Game/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-VR-Multiplayer-Golf-Game",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/VR-Multiplayer-Golf-Game/"
     },
     {
@@ -19269,6 +19581,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-3yp-GEOnex",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/GEOnex/"
+    },
+    {
+      "title": "Federated Agentic Defense For Zero Day Attacks",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Federated-Agentic-Defense-For-Zero-Day-Attacks/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Federated-Agentic-Defense-For-Zero-Day-Attacks",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Federated-Agentic-Defense-For-Zero-Day-Attacks",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Federated-Agentic-Defense-For-Zero-Day-Attacks/"
     },
     {
       "title": "MLink A Pharmacy Linking Platform",
@@ -19308,8 +19633,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/VR-Multiplayer-Golf-Game/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-VR-Multiplayer-Golf-Game",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/VR-Multiplayer-Golf-Game/"
+    },
+    {
+      "title": "Context Aware Ai Sybil Mitigation WBAN IOMT",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT/"
     },
     {
       "title": "Mentormate",
@@ -19336,7 +19674,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Green-House-Automation/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Green-House-Automation",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Green-House-Automation",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Green-House-Automation/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Green-House-Automation/"
     },
     {
@@ -19364,7 +19702,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Canteen-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Canteen-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Canteen-Management-System/"
     }
   ],
@@ -19394,7 +19732,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SafePlus/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-SafePlus",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
     },
     {
@@ -19480,6 +19818,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Monitoring-and-controlling-soilless-agricultural-plantations/"
     },
     {
+      "title": "On Chip Online Learning For Neuromorphic Hardware",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
+    },
+    {
       "title": "OASIS Teledentistry Mobile Application",
       "category": {
         "code": "co227",
@@ -19521,6 +19872,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Shopping-Cart/"
     },
     {
+      "title": "SinhSafe",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/SinhSafe/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-SinhSafe",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-SinhSafe",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/SinhSafe/"
+    },
+    {
       "title": "Cardiac Patient Data Management System",
       "category": {
         "code": "co227",
@@ -19545,8 +19909,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Aquarium/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Aquarium",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Aquarium/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Aquarium/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Aquarium/"
+    },
+    {
+      "title": "AI Enabled Digital Twin for Crack Evolution in Concrete Beams ",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-/"
     },
     {
       "title": "Student Academic Tracker",
@@ -19573,8 +19950,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Green-House-Automation/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Green-House-Automation",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Green-House-Automation",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Green-House-Automation/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Green-House-Automation/"
+    },
+    {
+      "title": "A Hierarchical Hybrid Framework for Intrusion Detection in Network and Application Layers",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers/"
     },
     {
       "title": "MIS for Non Academic Establishment Division",
@@ -19601,7 +19991,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SafePlus/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-SafePlus",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
     },
     {
@@ -19655,8 +20045,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/VR-Multiplayer-Golf-Game/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-VR-Multiplayer-Golf-Game",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-VR-Multiplayer-Golf-Game/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/VR-Multiplayer-Golf-Game/"
+    },
+    {
+      "title": "Explainable AI Driven Zero Trust Anomaly Detection for Encrypted Traffic",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Explainable-AI-Driven-Zero-Trust-Anomaly-Detection-for-Encrypted-Traffic/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Explainable-AI-Driven-Zero-Trust-Anomaly-Detection-for-Encrypted-Traffic",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Explainable-AI-Driven-Zero-Trust-Anomaly-Detection-for-Encrypted-Traffic",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Explainable-AI-Driven-Zero-Trust-Anomaly-Detection-for-Encrypted-Traffic/"
     },
     {
       "title": "OASIS Teledentistry Mobile Application",
@@ -19737,7 +20140,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SafePlus/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-SafePlus",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
     },
     {
@@ -19836,6 +20239,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-IOT-Indoor-Lighting-System/"
     },
     {
+      "title": "Explainable AI Driven Zero Trust Anomaly Detection for Encrypted Traffic",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Explainable-AI-Driven-Zero-Trust-Anomaly-Detection-for-Encrypted-Traffic/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Explainable-AI-Driven-Zero-Trust-Anomaly-Detection-for-Encrypted-Traffic",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Explainable-AI-Driven-Zero-Trust-Anomaly-Detection-for-Encrypted-Traffic",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Explainable-AI-Driven-Zero-Trust-Anomaly-Detection-for-Encrypted-Traffic/"
+    },
+    {
       "title": "Artery Resolver",
       "category": {
         "code": "co227",
@@ -19860,8 +20276,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Vescueye/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Vescueye",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
+    },
+    {
+      "title": "AI legal chain resolver II",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-legal-chain-resolver-II/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
     },
     {
       "title": "TourMate",
@@ -19873,7 +20302,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/TourMate/",
       "repo_url": "https://github.com/cepdnaclk/e20-CO227-TourMate",
       "page_url": "https://cepdnaclk.github.io/e20-CO227-TourMate",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-CO227-TourMate/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/TourMate/"
     }
   ],
@@ -19916,7 +20345,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Vehicle-Tracking-and-Management-System/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Vehicle-Tracking-and-Management-System",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Vehicle-Tracking-and-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lkhttps://cepdnaclk.github.io/e20-3yp-Smart-Vehicle-Tracking-and-Management-System/data/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Vehicle-Tracking-and-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Vehicle-Tracking-and-Management-System/"
     },
     {
@@ -19959,7 +20388,35 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/real-time-shadow-removal-from-images/"
     }
   ],
+  "E/21/005": [
+    {
+      "title": "LOX",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/LOX/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-LOX",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-LOX",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/LOX/"
+    }
+  ],
   "E/21/006": [
+    {
+      "title": "GloveXcel",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/GloveXcel/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-GloveXcel",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-GloveXcel",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/GloveXcel/"
+    },
     {
       "title": "PeraVerse Organizer Dashboard Core Frontend",
       "category": {
@@ -19976,6 +20433,19 @@
   ],
   "E/21/007": [
     {
+      "title": "GloveXcel",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/GloveXcel/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-GloveXcel",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-GloveXcel",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/GloveXcel/"
+    },
+    {
       "title": "PeraVerse Organizer Dashboard Core Frontend",
       "category": {
         "code": "co227",
@@ -19990,6 +20460,19 @@
     }
   ],
   "E/21/009": [
+    {
+      "title": "Drone Swarm ",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm-/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm-",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm-",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm-/"
+    },
     {
       "title": "Event Management System",
       "category": {
@@ -20006,6 +20489,19 @@
   ],
   "E/21/017": [
     {
+      "title": "RouteLK",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RouteLK/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-RouteLK",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
+    },
+    {
       "title": "PeraVerse Organizer Dashboard Core Backend",
       "category": {
         "code": "co227",
@@ -20020,6 +20516,19 @@
     }
   ],
   "E/21/019": [
+    {
+      "title": "RoadEye",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RoadEye/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-RoadEye",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RoadEye/"
+    },
     {
       "title": "PeraVerse Event Details Page",
       "category": {
@@ -20036,6 +20545,19 @@
   ],
   "E/21/024": [
     {
+      "title": "AURA",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
+    },
+    {
       "title": "Heat_map",
       "category": {
         "code": "co227",
@@ -20051,6 +20573,19 @@
   ],
   "E/21/031": [
     {
+      "title": "dia smart",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/dia-smart/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-dia-smart",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/dia-smart/"
+    },
+    {
       "title": "EventStack Event Management System",
       "category": {
         "code": "co227",
@@ -20065,6 +20600,19 @@
     }
   ],
   "E/21/036": [
+    {
+      "title": "dia smart",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/dia-smart/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-dia-smart",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/dia-smart/"
+    },
     {
       "title": "Online doctor appointment website 2yp",
       "category": {
@@ -20096,6 +20644,19 @@
   ],
   "E/21/045": [
     {
+      "title": "LOX",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/LOX/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-LOX",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-LOX",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/LOX/"
+    },
+    {
       "title": "Crowd Balance Mobile App",
       "category": {
         "code": "co227",
@@ -20110,6 +20671,19 @@
     }
   ],
   "E/21/049": [
+    {
+      "title": "SPECTRA LEAF",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
+    },
     {
       "title": "Heat_map",
       "category": {
@@ -20155,6 +20729,19 @@
     }
   ],
   "E/21/054": [
+    {
+      "title": "SPECTRA LEAF",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
+    },
     {
       "title": "PeraVerse Kiosk System",
       "category": {
@@ -20231,6 +20818,19 @@
   ],
   "E/21/087": [
     {
+      "title": "SlideSense",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense/"
+    },
+    {
       "title": "PeraMorphiq",
       "category": {
         "code": "co227",
@@ -20245,6 +20845,19 @@
     }
   ],
   "E/21/096": [
+    {
+      "title": "RAID",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RAID/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-RAID",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-RAID",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RAID/"
+    },
     {
       "title": "PeraVerse Kiosk System",
       "category": {
@@ -20261,6 +20874,19 @@
   ],
   "E/21/106": [
     {
+      "title": "Smart Dog Collar",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Dog-Collar/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Dog-Collar",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Dog-Collar",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Dog-Collar/"
+    },
+    {
       "title": "PeraVerse Kiosk System",
       "category": {
         "code": "co227",
@@ -20275,6 +20901,19 @@
     }
   ],
   "E/21/113": [
+    {
+      "title": "AURA",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
+    },
     {
       "title": "SmartCityHeatMapGroup22",
       "category": {
@@ -20291,6 +20930,19 @@
   ],
   "E/21/124": [
     {
+      "title": "GloveXcel",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/GloveXcel/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-GloveXcel",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-GloveXcel",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/GloveXcel/"
+    },
+    {
       "title": "Smart Crowd Monitoring System Using Yolo And Deepsort",
       "category": {
         "code": "co227",
@@ -20306,6 +20958,19 @@
   ],
   "E/21/126": [
     {
+      "title": "RouteLK",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RouteLK/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-RouteLK",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
+    },
+    {
       "title": "PeraVerse Organizer Dashboard Analytics Backend",
       "category": {
         "code": "co227",
@@ -20320,6 +20985,19 @@
     }
   ],
   "E/21/127": [
+    {
+      "title": "RAID",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RAID/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-RAID",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-RAID",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RAID/"
+    },
     {
       "title": "EventStack Event Management System",
       "category": {
@@ -20351,6 +21029,19 @@
   ],
   "E/21/137": [
     {
+      "title": "Smart Dog Collar",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Dog-Collar/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Dog-Collar",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Dog-Collar",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Dog-Collar/"
+    },
+    {
       "title": "PeraVerse Organizer Dashboard Core Backend",
       "category": {
         "code": "co227",
@@ -20365,6 +21056,19 @@
     }
   ],
   "E/21/138": [
+    {
+      "title": "SlideSense",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense/"
+    },
     {
       "title": "Peraverse integration",
       "category": {
@@ -20381,6 +21085,19 @@
   ],
   "E/21/140": [
     {
+      "title": "RAID",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RAID/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-RAID",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-RAID",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RAID/"
+    },
+    {
       "title": "Online doctor appointment website 2yp",
       "category": {
         "code": "co227",
@@ -20395,6 +21112,19 @@
     }
   ],
   "E/21/141": [
+    {
+      "title": "PathFinder",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PathFinder/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-PathFinder",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
+    },
     {
       "title": "SmartCityHeatMapGroup22",
       "category": {
@@ -20411,6 +21141,19 @@
   ],
   "E/21/148": [
     {
+      "title": "ResQ",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ResQ/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-ResQ",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-ResQ",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ResQ/"
+    },
+    {
       "title": "RFID Hardware and Tag Lifecycle",
       "category": {
         "code": "co227",
@@ -20425,6 +21168,19 @@
     }
   ],
   "E/21/152": [
+    {
+      "title": "ResQ",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ResQ/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-ResQ",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-ResQ",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ResQ/"
+    },
     {
       "title": "RFID Hardware and Tag Lifecycle",
       "category": {
@@ -20441,6 +21197,19 @@
   ],
   "E/21/156": [
     {
+      "title": "Drone Swarm ",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm-/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm-",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm-",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm-/"
+    },
+    {
       "title": "Event Management System",
       "category": {
         "code": "co227",
@@ -20456,6 +21225,19 @@
   ],
   "E/21/157": [
     {
+      "title": "PathFinder",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PathFinder/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-PathFinder",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
+    },
+    {
       "title": "PeraVerse Organizer Dashboard Core Backend",
       "category": {
         "code": "co227",
@@ -20470,6 +21252,19 @@
     }
   ],
   "E/21/180": [
+    {
+      "title": "Drone Swarm ",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm-/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm-",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm-",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm-/"
+    },
     {
       "title": "Event Management System",
       "category": {
@@ -20501,6 +21296,19 @@
   ],
   "E/21/193": [
     {
+      "title": "HYDRA",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/HYDRA/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-HYDRA",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-HYDRA",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/HYDRA/"
+    },
+    {
       "title": "SmartCityHeatMapGroup22",
       "category": {
         "code": "co227",
@@ -20514,7 +21322,35 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/SmartCityHeatMapGroup22/"
     }
   ],
+  "E/21/196": [
+    {
+      "title": "HYDRA",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/HYDRA/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-HYDRA",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-HYDRA",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/HYDRA/"
+    }
+  ],
   "E/21/198": [
+    {
+      "title": "Mountain Climber Health and GPS Tracker",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Mountain-Climber-Health-and-GPS-Tracker/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Mountain-Climber-Health-and-GPS-Tracker",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Mountain-Climber-Health-and-GPS-Tracker",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Mountain-Climber-Health-and-GPS-Tracker/"
+    },
     {
       "title": "PeraMorphiq",
       "category": {
@@ -20531,6 +21367,19 @@
   ],
   "E/21/200": [
     {
+      "title": "SPECTRA LEAF",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
+    },
+    {
       "title": "PeraVerse Heatmap Predictive Analysis",
       "category": {
         "code": "co227",
@@ -20545,6 +21394,19 @@
     }
   ],
   "E/21/206": [
+    {
+      "title": "Smart IV",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-IV/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-IV",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-IV",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-IV/"
+    },
     {
       "title": "Registration Portal",
       "category": {
@@ -20561,6 +21423,19 @@
   ],
   "E/21/214": [
     {
+      "title": "ResQ",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ResQ/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-ResQ",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-ResQ",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ResQ/"
+    },
+    {
       "title": "RFID Hardware and Tag Lifecycle",
       "category": {
         "code": "co227",
@@ -20575,6 +21450,19 @@
     }
   ],
   "E/21/217": [
+    {
+      "title": "Drone Swarm ",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm-/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm-",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm-",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm-/"
+    },
     {
       "title": "Event Management System",
       "category": {
@@ -20591,6 +21479,19 @@
   ],
   "E/21/220": [
     {
+      "title": "ResQ",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ResQ/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-ResQ",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-ResQ",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ResQ/"
+    },
+    {
       "title": "RFID Hardware and Tag Lifecycle",
       "category": {
         "code": "co227",
@@ -20605,6 +21506,19 @@
     }
   ],
   "E/21/226": [
+    {
+      "title": "SPECTRA LEAF",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
+    },
     {
       "title": "PeraVerse Event Details Page",
       "category": {
@@ -20650,6 +21564,19 @@
     }
   ],
   "E/21/245": [
+    {
+      "title": "AURA",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
+    },
     {
       "title": "Online doctor appointment website 2yp",
       "category": {
@@ -20726,6 +21653,19 @@
   ],
   "E/21/283": [
     {
+      "title": "Smart IV",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-IV/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-IV",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-IV",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-IV/"
+    },
+    {
       "title": "EventStack Event Management System",
       "category": {
         "code": "co227",
@@ -20755,6 +21695,19 @@
     }
   ],
   "E/21/289": [
+    {
+      "title": "HYDRA",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/HYDRA/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-HYDRA",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-HYDRA",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/HYDRA/"
+    },
     {
       "title": "PeraVerse Event List Page",
       "category": {
@@ -20786,6 +21739,19 @@
   ],
   "E/21/302": [
     {
+      "title": "SlideSense",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense/"
+    },
+    {
       "title": "PeraMorphiq",
       "category": {
         "code": "co227",
@@ -20815,6 +21781,19 @@
     }
   ],
   "E/21/328": [
+    {
+      "title": "Mountain Climber Health and GPS Tracker",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Mountain-Climber-Health-and-GPS-Tracker/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Mountain-Climber-Health-and-GPS-Tracker",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Mountain-Climber-Health-and-GPS-Tracker",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Mountain-Climber-Health-and-GPS-Tracker/"
+    },
     {
       "title": "PeraVerse Event List Page",
       "category": {
@@ -20891,6 +21870,19 @@
   ],
   "E/21/350": [
     {
+      "title": "Smart Dog Collar",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Dog-Collar/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Dog-Collar",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Dog-Collar",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Dog-Collar/"
+    },
+    {
       "title": "QR AI Entry Exit Tracking System",
       "category": {
         "code": "co227",
@@ -20905,6 +21897,19 @@
     }
   ],
   "E/21/353": [
+    {
+      "title": "Mountain Climber Health and GPS Tracker",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Mountain-Climber-Health-and-GPS-Tracker/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Mountain-Climber-Health-and-GPS-Tracker",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Mountain-Climber-Health-and-GPS-Tracker",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Mountain-Climber-Health-and-GPS-Tracker/"
+    },
     {
       "title": "PeraMorphiq",
       "category": {
@@ -20921,6 +21926,19 @@
   ],
   "E/21/356": [
     {
+      "title": "dia smart",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/dia-smart/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-dia-smart",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/dia-smart/"
+    },
+    {
       "title": "EventStack Event Management System",
       "category": {
         "code": "co227",
@@ -20935,6 +21953,19 @@
     }
   ],
   "E/21/361": [
+    {
+      "title": "PathFinder",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PathFinder/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-PathFinder",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
+    },
     {
       "title": "Smart Crowd Monitoring System Using Yolo And Deepsort",
       "category": {
@@ -20966,6 +21997,19 @@
   ],
   "E/21/363": [
     {
+      "title": "RAID",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RAID/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-RAID",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-RAID",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RAID/"
+    },
+    {
       "title": "PeraVerse Kiosk System",
       "category": {
         "code": "co227",
@@ -20980,6 +22024,19 @@
     }
   ],
   "E/21/371": [
+    {
+      "title": "RoadEye",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RoadEye/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-RoadEye",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RoadEye/"
+    },
     {
       "title": "Smart Crowd Monitoring System Using Yolo And Deepsort",
       "category": {
@@ -20996,6 +22053,19 @@
   ],
   "E/21/372": [
     {
+      "title": "RouteLK",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RouteLK/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-RouteLK",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
+    },
+    {
       "title": "PeraVerse Kiosk System",
       "category": {
         "code": "co227",
@@ -21010,6 +22080,19 @@
     }
   ],
   "E/21/375": [
+    {
+      "title": "Smart IV",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-IV/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-IV",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-IV",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-IV/"
+    },
     {
       "title": "Registration Portal",
       "category": {
@@ -21026,6 +22109,19 @@
   ],
   "E/21/386": [
     {
+      "title": "dia smart",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/dia-smart/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-dia-smart",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/dia-smart/"
+    },
+    {
       "title": "Registration Portal",
       "category": {
         "code": "co227",
@@ -21040,6 +22136,19 @@
     }
   ],
   "E/21/391": [
+    {
+      "title": "RouteLK",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RouteLK/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-RouteLK",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
+    },
     {
       "title": "PeraVerse Organizer Dashboard Core Backend",
       "category": {
@@ -21056,6 +22165,19 @@
   ],
   "E/21/395": [
     {
+      "title": "Smart IV",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-IV/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-IV",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-IV",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-IV/"
+    },
+    {
       "title": "EventStack Event Management System",
       "category": {
         "code": "co227",
@@ -21071,6 +22193,19 @@
   ],
   "E/21/407": [
     {
+      "title": "AURA",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
+    },
+    {
       "title": "SmartCityHeatMapGroup22",
       "category": {
         "code": "co227",
@@ -21085,6 +22220,19 @@
     }
   ],
   "E/21/410": [
+    {
+      "title": "GloveXcel",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/GloveXcel/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-GloveXcel",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-GloveXcel",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/GloveXcel/"
+    },
     {
       "title": "PeraVerse Organizer Dashboard Analytics Backend",
       "category": {
@@ -21116,6 +22264,19 @@
   ],
   "E/21/415": [
     {
+      "title": "LOX",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/LOX/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-LOX",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-LOX",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/LOX/"
+    },
+    {
       "title": "Peraverse integration",
       "category": {
         "code": "co227",
@@ -21130,6 +22291,19 @@
     }
   ],
   "E/21/416": [
+    {
+      "title": "RoadEye",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RoadEye/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-RoadEye",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RoadEye/"
+    },
     {
       "title": "PeraVerse Kiosk System",
       "category": {
@@ -21146,6 +22320,19 @@
   ],
   "E/21/428": [
     {
+      "title": "Smart Dog Collar",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Dog-Collar/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Dog-Collar",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Dog-Collar",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Dog-Collar/"
+    },
+    {
       "title": "QR AI Entry Exit Tracking System",
       "category": {
         "code": "co227",
@@ -21160,6 +22347,19 @@
     }
   ],
   "E/21/433": [
+    {
+      "title": "RoadEye",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RoadEye/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-RoadEye",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RoadEye/"
+    },
     {
       "title": "Smart Crowd Monitoring System Using Yolo And Deepsort",
       "category": {
@@ -21176,6 +22376,19 @@
   ],
   "E/21/442": [
     {
+      "title": "PathFinder",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PathFinder/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-PathFinder",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-PathFinder",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PathFinder/"
+    },
+    {
       "title": "PeraVerse Event List Page",
       "category": {
         "code": "co227",
@@ -21191,6 +22404,19 @@
   ],
   "E/21/444": [
     {
+      "title": "LOX",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/LOX/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-LOX",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-LOX",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/LOX/"
+    },
+    {
       "title": "Crowd Balance Mobile App",
       "category": {
         "code": "co227",
@@ -21205,6 +22431,19 @@
     }
   ],
   "E/21/452": [
+    {
+      "title": "SlideSense",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SlideSense/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SlideSense",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SlideSense",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SlideSense/"
+    },
     {
       "title": "Interactive Exhibition Map Peraverse",
       "category": {
@@ -21232,6 +22471,1551 @@
       "page_url": "https://cepdnaclk.github.io/e21-co227-PeraVerse-Kiosk-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
+    }
+  ],
+  "E/22/001": [
+    {
+      "title": "MyStay Boarding Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
+    }
+  ],
+  "E/22/004": [
+    {
+      "title": "Patient Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Patient-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Patient-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Patient-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Patient-Management-System/"
+    }
+  ],
+  "E/22/008": [
+    {
+      "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
+    }
+  ],
+  "E/22/010": [
+    {
+      "title": "MediTriage",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MediTriage/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-MediTriage",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/"
+    }
+  ],
+  "E/22/018": [
+    {
+      "title": "gympappa spooty app",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/gympappa-spooty-app/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-gympappa-spooty-app",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-gympappa-spooty-app",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/gympappa-spooty-app/"
+    }
+  ],
+  "E/22/027": [
+    {
+      "title": "MyStay Boarding Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
+    }
+  ],
+  "E/22/044": [
+    {
+      "title": "MediTriage",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MediTriage/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-MediTriage",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/"
+    }
+  ],
+  "E/22/052": [
+    {
+      "title": "Syncro",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Syncro/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Syncro",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Syncro",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Syncro/"
+    }
+  ],
+  "E/22/056": [
+    {
+      "title": "OrthoPAR Web Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OrthoPAR-Web-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-OrthoPAR-Web-Platform",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-OrthoPAR-Web-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OrthoPAR-Web-Platform/"
+    }
+  ],
+  "E/22/058": [
+    {
+      "title": "Syncro",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Syncro/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Syncro",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Syncro",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Syncro/"
+    }
+  ],
+  "E/22/060": [
+    {
+      "title": "OrthoPAR Web Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OrthoPAR-Web-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-OrthoPAR-Web-Platform",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-OrthoPAR-Web-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OrthoPAR-Web-Platform/"
+    }
+  ],
+  "E/22/084": [
+    {
+      "title": "Tour guide",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Tour-guide/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Tour-guide",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Tour-guide/"
+    }
+  ],
+  "E/22/102": [
+    {
+      "title": "MediTriage",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MediTriage/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-MediTriage",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/"
+    }
+  ],
+  "E/22/120": [
+    {
+      "title": "MyStay Boarding Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
+    }
+  ],
+  "E/22/121": [
+    {
+      "title": "Syncro",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Syncro/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Syncro",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Syncro",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Syncro/"
+    }
+  ],
+  "E/22/124": [
+    {
+      "title": "PearlPath",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PearlPath/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-PearlPath",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-PearlPath",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PearlPath/"
+    }
+  ],
+  "E/22/125": [
+    {
+      "title": "Patient Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Patient-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Patient-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Patient-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Patient-Management-System/"
+    }
+  ],
+  "E/22/126": [
+    {
+      "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
+    }
+  ],
+  "E/22/130": [
+    {
+      "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
+    }
+  ],
+  "E/22/132": [
+    {
+      "title": "AI Integrated Ecommerce Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/AI-Integrated-Ecommerce-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-AI-Integrated-Ecommerce-Platform",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-AI-Integrated-Ecommerce-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Integrated-Ecommerce-Platform/"
+    }
+  ],
+  "E/22/135": [
+    {
+      "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
+    }
+  ],
+  "E/22/138": [
+    {
+      "title": "Tour guide",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Tour-guide/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Tour-guide",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Tour-guide/"
+    }
+  ],
+  "E/22/141": [
+    {
+      "title": "Real Time Public Bus Tracking System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Real-Time-Public-Bus-Tracking-System/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Real-Time-Public-Bus-Tracking-System",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Real-Time-Public-Bus-Tracking-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Real-Time-Public-Bus-Tracking-System/"
+    }
+  ],
+  "E/22/142": [
+    {
+      "title": "Real Time Public Bus Tracking System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Real-Time-Public-Bus-Tracking-System/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Real-Time-Public-Bus-Tracking-System",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Real-Time-Public-Bus-Tracking-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Real-Time-Public-Bus-Tracking-System/"
+    }
+  ],
+  "E/22/151": [
+    {
+      "title": "OrthoPAR Web Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OrthoPAR-Web-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-OrthoPAR-Web-Platform",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-OrthoPAR-Web-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OrthoPAR-Web-Platform/"
+    }
+  ],
+  "E/22/154": [
+    {
+      "title": "AI Integrated Ecommerce Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/AI-Integrated-Ecommerce-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-AI-Integrated-Ecommerce-Platform",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-AI-Integrated-Ecommerce-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Integrated-Ecommerce-Platform/"
+    }
+  ],
+  "E/22/157": [
+    {
+      "title": "gympappa spooty app",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/gympappa-spooty-app/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-gympappa-spooty-app",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-gympappa-spooty-app",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/gympappa-spooty-app/"
+    }
+  ],
+  "E/22/159": [
+    {
+      "title": "Patient Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Patient-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Patient-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Patient-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Patient-Management-System/"
+    }
+  ],
+  "E/22/180": [
+    {
+      "title": "AI Integrated Ecommerce Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/AI-Integrated-Ecommerce-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-AI-Integrated-Ecommerce-Platform",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-AI-Integrated-Ecommerce-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Integrated-Ecommerce-Platform/"
+    }
+  ],
+  "E/22/184": [
+    {
+      "title": "PERA SAM",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PERA-SAM/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-PERA-SAM",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PERA-SAM/"
+    }
+  ],
+  "E/22/188": [
+    {
+      "title": "PERA SAM",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PERA-SAM/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-PERA-SAM",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PERA-SAM/"
+    }
+  ],
+  "E/22/193": [
+    {
+      "title": "floodguard",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/floodguard/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-floodguard",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-floodguard",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/floodguard/"
+    }
+  ],
+  "E/22/211": [
+    {
+      "title": "MediTriage",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MediTriage/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-MediTriage",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/"
+    }
+  ],
+  "E/22/228": [
+    {
+      "title": "PearlPath",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PearlPath/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-PearlPath",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-PearlPath",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PearlPath/"
+    }
+  ],
+  "E/22/232": [
+    {
+      "title": "PearlPath",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PearlPath/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-PearlPath",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-PearlPath",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PearlPath/"
+    }
+  ],
+  "E/22/237": [
+    {
+      "title": "Project KNOT",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Project-KNOT/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Project-KNOT",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Project-KNOT/"
+    }
+  ],
+  "E/22/248": [
+    {
+      "title": "Real Time Public Bus Tracking System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Real-Time-Public-Bus-Tracking-System/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Real-Time-Public-Bus-Tracking-System",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Real-Time-Public-Bus-Tracking-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Real-Time-Public-Bus-Tracking-System/"
+    }
+  ],
+  "E/22/250": [
+    {
+      "title": "Tour guide",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Tour-guide/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Tour-guide",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Tour-guide/"
+    }
+  ],
+  "E/22/280": [
+    {
+      "title": "Project KNOT",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Project-KNOT/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Project-KNOT",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Project-KNOT/"
+    }
+  ],
+  "E/22/288": [
+    {
+      "title": "AI Integrated Ecommerce Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/AI-Integrated-Ecommerce-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-AI-Integrated-Ecommerce-Platform",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-AI-Integrated-Ecommerce-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Integrated-Ecommerce-Platform/"
+    }
+  ],
+  "E/22/324": [
+    {
+      "title": "MyStay Boarding Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
+    }
+  ],
+  "E/22/336": [
+    {
+      "title": "PERA SAM",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PERA-SAM/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-PERA-SAM",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PERA-SAM/"
+    }
+  ],
+  "E/22/362": [
+    {
+      "title": "Real Time Public Bus Tracking System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Real-Time-Public-Bus-Tracking-System/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Real-Time-Public-Bus-Tracking-System",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Real-Time-Public-Bus-Tracking-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Real-Time-Public-Bus-Tracking-System/"
+    }
+  ],
+  "E/22/364": [
+    {
+      "title": "Patient Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Patient-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Patient-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Patient-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Patient-Management-System/"
+    }
+  ],
+  "E/22/366": [
+    {
+      "title": "Project KNOT",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Project-KNOT/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Project-KNOT",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Project-KNOT/"
+    }
+  ],
+  "E/22/373": [
+    {
+      "title": "floodguard",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/floodguard/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-floodguard",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-floodguard",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/floodguard/"
+    }
+  ],
+  "E/22/382": [
+    {
+      "title": "floodguard",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/floodguard/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-floodguard",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-floodguard",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/floodguard/"
+    }
+  ],
+  "E/22/396": [
+    {
+      "title": "PERA SAM",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PERA-SAM/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-PERA-SAM",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PERA-SAM/"
+    }
+  ],
+  "E/22/397": [
+    {
+      "title": "floodguard",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/floodguard/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-floodguard",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-floodguard",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/floodguard/"
+    }
+  ],
+  "E/22/400": [
+    {
+      "title": "Tour guide",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Tour-guide/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Tour-guide",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Tour-guide/"
+    }
+  ],
+  "E/22/402": [
+    {
+      "title": "gympappa spooty app",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/gympappa-spooty-app/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-gympappa-spooty-app",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-gympappa-spooty-app",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/gympappa-spooty-app/"
+    }
+  ],
+  "E/22/405": [
+    {
+      "title": "OrthoPAR Web Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OrthoPAR-Web-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-OrthoPAR-Web-Platform",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-OrthoPAR-Web-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OrthoPAR-Web-Platform/"
+    }
+  ],
+  "E/22/419": [
+    {
+      "title": "Syncro",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Syncro/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Syncro",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Syncro",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Syncro/"
+    }
+  ],
+  "E/22/425": [
+    {
+      "title": "gympappa spooty app",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/gympappa-spooty-app/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-gympappa-spooty-app",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-gympappa-spooty-app",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/gympappa-spooty-app/"
+    }
+  ],
+  "E/22/443": [
+    {
+      "title": "Project KNOT",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/Project-KNOT/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-Project-KNOT",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Project-KNOT/"
+    }
+  ],
+  "E/22/452": [
+    {
+      "title": "PearlPath",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PearlPath/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-PearlPath",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-PearlPath",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PearlPath/"
+    }
+  ],
+  "E/23/001": [
+    {
+      "title": "Kitchen Foods Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Kitchen-Foods-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Kitchen-Foods-Platform",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Kitchen-Foods-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
+    }
+  ],
+  "E/23/015": [
+    {
+      "title": "Hotel Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Hotel-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Hotel-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Hotel-Management-System",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Hotel-Management-System/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Hotel-Management-System/"
+    }
+  ],
+  "E/23/016": [
+    {
+      "title": "Hotel Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Hotel-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Hotel-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Hotel-Management-System",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Hotel-Management-System/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Hotel-Management-System/"
+    }
+  ],
+  "E/23/017": [
+    {
+      "title": "TransitPro",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/TransitPro/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-TransitPro",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
+    }
+  ],
+  "E/23/023": [
+    {
+      "title": "MPhil PhD Lifecycle Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
+    }
+  ],
+  "E/23/035": [
+    {
+      "title": "2YP SkillShare",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/2YP-SkillShare/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-2YP-SkillShare",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-2YP-SkillShare",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/2YP-SkillShare/"
+    }
+  ],
+  "E/23/043": [
+    {
+      "title": "Kitchen Foods Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Kitchen-Foods-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Kitchen-Foods-Platform",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Kitchen-Foods-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
+    }
+  ],
+  "E/23/075": [
+    {
+      "title": "Alumnet",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Alumnet/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Alumnet",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Alumnet",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Alumnet/"
+    }
+  ],
+  "E/23/077": [
+    {
+      "title": "TransitPro",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/TransitPro/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-TransitPro",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
+    }
+  ],
+  "E/23/082": [
+    {
+      "title": "Kitchen Foods Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Kitchen-Foods-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Kitchen-Foods-Platform",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Kitchen-Foods-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
+    }
+  ],
+  "E/23/104": [
+    {
+      "title": "2YP SkillShare",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/2YP-SkillShare/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-2YP-SkillShare",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-2YP-SkillShare",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/2YP-SkillShare/"
+    }
+  ],
+  "E/23/116": [
+    {
+      "title": "GoTravel",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/GoTravel/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-GoTravel",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-GoTravel",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-GoTravel/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/GoTravel/"
+    }
+  ],
+  "E/23/118": [
+    {
+      "title": "MPhil PhD Lifecycle Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
+    }
+  ],
+  "E/23/122": [
+    {
+      "title": "GoTravel",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/GoTravel/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-GoTravel",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-GoTravel",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-GoTravel/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/GoTravel/"
+    }
+  ],
+  "E/23/130": [
+    {
+      "title": "Kitchen Foods Platform",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Kitchen-Foods-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Kitchen-Foods-Platform",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Kitchen-Foods-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
+    }
+  ],
+  "E/23/149": [
+    {
+      "title": "FindIT",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/FindIT/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-FindIT",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-FindIT",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/FindIT/"
+    }
+  ],
+  "E/23/167": [
+    {
+      "title": "GiftBox Customization Marketplace",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/GiftBox-Customization-Marketplace/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-GiftBox-Customization-Marketplace",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-GiftBox-Customization-Marketplace",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/GiftBox-Customization-Marketplace/"
+    }
+  ],
+  "E/23/178": [
+    {
+      "title": "MPhil PhD Lifecycle Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
+    }
+  ],
+  "E/23/182": [
+    {
+      "title": "Orthodontics Workflow Automation System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Orthodontics-Workflow-Automation-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Orthodontics-Workflow-Automation-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Orthodontics-Workflow-Automation-System/"
+    }
+  ],
+  "E/23/196": [
+    {
+      "title": "Hotel Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Hotel-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Hotel-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Hotel-Management-System",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Hotel-Management-System/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Hotel-Management-System/"
+    }
+  ],
+  "E/23/211": [
+    {
+      "title": "Maathacare",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Maathacare/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Maathacare",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Maathacare/"
+    }
+  ],
+  "E/23/244": [
+    {
+      "title": "Maathacare",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Maathacare/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Maathacare",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Maathacare/"
+    }
+  ],
+  "E/23/256": [
+    {
+      "title": "ChronoCampus",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/ChronoCampus/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-ChronoCampus",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/ChronoCampus/"
+    }
+  ],
+  "E/23/270": [
+    {
+      "title": "GoTravel",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/GoTravel/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-GoTravel",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-GoTravel",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-GoTravel/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/GoTravel/"
+    }
+  ],
+  "E/23/271": [
+    {
+      "title": "GoTravel",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/GoTravel/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-GoTravel",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-GoTravel",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-GoTravel/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/GoTravel/"
+    }
+  ],
+  "E/23/274": [
+    {
+      "title": "FindIT",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/FindIT/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-FindIT",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-FindIT",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/FindIT/"
+    }
+  ],
+  "E/23/292": [
+    {
+      "title": "Orthodontics Workflow Automation System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Orthodontics-Workflow-Automation-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Orthodontics-Workflow-Automation-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Orthodontics-Workflow-Automation-System/"
+    }
+  ],
+  "E/23/299": [
+    {
+      "title": "Orthodontics Workflow Automation System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Orthodontics-Workflow-Automation-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Orthodontics-Workflow-Automation-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Orthodontics-Workflow-Automation-System/"
+    }
+  ],
+  "E/23/302": [
+    {
+      "title": "Orthodontics Workflow Automation System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Orthodontics-Workflow-Automation-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Orthodontics-Workflow-Automation-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Orthodontics-Workflow-Automation-System/"
+    }
+  ],
+  "E/23/317": [
+    {
+      "title": "2YP SkillShare",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/2YP-SkillShare/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-2YP-SkillShare",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-2YP-SkillShare",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/2YP-SkillShare/"
+    }
+  ],
+  "E/23/340": [
+    {
+      "title": "Alumnet",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Alumnet/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Alumnet",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Alumnet",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Alumnet/"
+    }
+  ],
+  "E/23/351": [
+    {
+      "title": "GiftBox Customization Marketplace",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/GiftBox-Customization-Marketplace/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-GiftBox-Customization-Marketplace",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-GiftBox-Customization-Marketplace",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/GiftBox-Customization-Marketplace/"
+    }
+  ],
+  "E/23/352": [
+    {
+      "title": "ChronoCampus",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/ChronoCampus/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-ChronoCampus",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/ChronoCampus/"
+    }
+  ],
+  "E/23/360": [
+    {
+      "title": "Maathacare",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Maathacare/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Maathacare",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Maathacare/"
+    }
+  ],
+  "E/23/362": [
+    {
+      "title": "Alumnet",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Alumnet/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Alumnet",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Alumnet",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Alumnet/"
+    }
+  ],
+  "E/23/382": [
+    {
+      "title": "FindIT",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/FindIT/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-FindIT",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-FindIT",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/FindIT/"
+    }
+  ],
+  "E/23/384": [
+    {
+      "title": "ChronoCampus",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/ChronoCampus/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-ChronoCampus",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/ChronoCampus/"
+    }
+  ],
+  "E/23/392": [
+    {
+      "title": "ChronoCampus",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/ChronoCampus/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-ChronoCampus",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/ChronoCampus/"
+    }
+  ],
+  "E/23/412": [
+    {
+      "title": "GiftBox Customization Marketplace",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/GiftBox-Customization-Marketplace/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-GiftBox-Customization-Marketplace",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-GiftBox-Customization-Marketplace",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/GiftBox-Customization-Marketplace/"
+    }
+  ],
+  "E/23/416": [
+    {
+      "title": "GiftBox Customization Marketplace",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/GiftBox-Customization-Marketplace/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-GiftBox-Customization-Marketplace",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-GiftBox-Customization-Marketplace",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/GiftBox-Customization-Marketplace/"
+    }
+  ],
+  "E/23/427": [
+    {
+      "title": "Maathacare",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Maathacare/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Maathacare",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Maathacare/"
+    }
+  ],
+  "E/23/430": [
+    {
+      "title": "2YP SkillShare",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/2YP-SkillShare/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-2YP-SkillShare",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-2YP-SkillShare",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/2YP-SkillShare/"
+    }
+  ],
+  "E/23/431": [
+    {
+      "title": "FindIT",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/FindIT/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-FindIT",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-FindIT",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/FindIT/"
+    }
+  ],
+  "E/23/435": [
+    {
+      "title": "Alumnet",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Alumnet/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Alumnet",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Alumnet",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Alumnet/"
+    }
+  ],
+  "E/23/442": [
+    {
+      "title": "MPhil PhD Lifecycle Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
+    }
+  ],
+  "E/23/454": [
+    {
+      "title": "TransitPro",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/TransitPro/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-TransitPro",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
+    }
+  ],
+  "E/23/455": [
+    {
+      "title": "TransitPro",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/TransitPro/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-TransitPro",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
     }
   ]
 }

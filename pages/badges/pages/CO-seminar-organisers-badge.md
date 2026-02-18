@@ -17,7 +17,7 @@ students:
     profile_image: https://people.ce.pdn.ac.lk/images/students/e18/e18118.jpg
     link: "#"
   - eNumber: E/16/012
-    name: Adikari
+    name: A.M.I.N. Adikari
     position: Organiser
     profile_url: /students/e16/012/
     profile_image: https://people.ce.pdn.ac.lk/images/students/e16/e16012.jpg

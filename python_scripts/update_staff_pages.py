@@ -105,15 +105,20 @@ def save_academic_staff_page(details: dict, file_url: str):
 
 # ---------------------------------------------------------------------------
 
-# Clean up existing academic staff folders
-delete_folder("../images/staff/academic-staff")
-delete_folder("../pages/staff/academic-staff")
 
 print("\n>> Fetching and saving academic staff list...")
 
 # Fetch and save support staff list
 academic_staff_raw = get_staff_list(api_metadata["ACADEMIC_STAFF"]["source"])
 academic_staff = []
+
+if len(academic_staff_raw) == 0:
+    print("No academic staff data found. Exiting.")
+    exit(1)
+
+# Clean up existing academic staff folders
+delete_folder("../images/staff/academic-staff")
+delete_folder("../pages/staff/academic-staff")
 
 for role in academic_staff_raw:
     for s in role.get("terms", []):
@@ -158,14 +163,19 @@ for role in academic_staff_raw:
 
 # ---------------------------------------------------------------------------
 
-# Clean up existing support staff folders
-delete_folder("../images/staff/non-academic-staff")
 
 print("\n>> Fetching and saving academic support staff list...")
 
 # Fetch and save academic support staff list
 support_staff_raw = get_staff_list(api_metadata["SUPPORT_STAFF"]["source"])
 support_staff = []
+
+if len(support_staff_raw) == 0:
+    print("No academic staff data found. Exiting.")
+    exit(1)
+
+# Clean up existing support staff folders
+delete_folder("../images/staff/non-academic-staff")
 
 for s in support_staff_raw:
     metadata = s.get("metadata", {})
@@ -189,14 +199,19 @@ file_url = f"{DIRECTORY}/non_academic_staff.json"
 save_staff_list(support_staff, file_url, api_metadata["SUPPORT_STAFF"])
 
 # ---------------------------------------------------------------------------
-# Clean up existing temporary staff folders
-delete_folder("../images/staff/temporary-academic-staff")
 
 print("\n>> Fetching and saving temporary academic staff list...")
 
 # Fetch and save the temporary academic staff list
 temporary_staff_raw = get_staff_list(api_metadata["TEMPORARY_STAFF"]["source"])
 temporary_staff = []
+
+if len(temporary_staff_raw) == 0:
+    print("No temporary academic staff data found. Exiting.")
+    exit(1)
+
+# Clean up existing temporary staff folders
+delete_folder("../images/staff/temporary-academic-staff")
 
 for s in temporary_staff_raw:
     metadata = s.get("metadata", {})
