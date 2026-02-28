@@ -124,3 +124,18 @@ def get_taxonomy_page_content(page_url):
     except requests.RequestException as e:
         print(f"Failed to fetch taxonomy page data from {page_url}: {e}")
         return ""
+
+def safe_str(value):
+    """
+    Safely convert a value to a string, stripping whitespace. If the value is None, return None.
+    """
+    return None if value is None else str(value).strip()
+
+def load_env_var(name: str) -> str:
+    """
+    Load an environment variable and raise an error if it's missing.
+    """
+    v = os.getenv(name)
+    if not v:
+        raise RuntimeError(f"Missing env {name}")
+    return v

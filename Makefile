@@ -1,6 +1,11 @@
 # This is used as shortcuts to run commands
 
 # 'make serve'
+
+setup:
+	gem install bundler
+	bundle install
+
 serve: clean
 	bundle exec jekyll serve --livereload --incremental --force-polling
 
