@@ -1,1 +1,3 @@
 # Algolia-Crawler-Verif: DB94CE3A392DE3B7
+
+Sitemap: http://people.ce.pdn.ac.lk/sitemap.xml
