@@ -16563,6 +16563,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/e-Conductor/"
     },
     {
+      "title": "Measuring Light Intensity in a Company Before It Dies",
+      "category": {
+        "code": "co326",
+        "title": "Industrial Automation Projects (CO326)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/"
+    },
+    {
       "title": "ProVision",
       "category": {
         "code": "co543",
@@ -17636,6 +17649,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/e-Conductor/"
     },
     {
+      "title": "Measuring Light Intensity in a Company Before It Dies",
+      "category": {
+        "code": "co326",
+        "title": "Industrial Automation Projects (CO326)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/"
+    },
+    {
       "title": "ProVision",
       "category": {
         "code": "co543",
@@ -18420,6 +18446,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co227-Cardiac-Patient-Data-Management-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Cardiac-Patient-Data-Management-System/"
+    },
+    {
+      "title": "Measuring Light Intensity in a Company Before It Dies",
+      "category": {
+        "code": "co326",
+        "title": "Industrial Automation Projects (CO326)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-Measuring-Light-Intensity-in-a-Company-Before-It-Dies",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Measuring-Light-Intensity-in-a-Company-Before-It-Dies/"
     },
     {
       "title": "Colorization of Grayscale Images Using Image Processing Techniques",
