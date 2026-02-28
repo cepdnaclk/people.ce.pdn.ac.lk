@@ -17,7 +17,7 @@ from util.helpers import (
 )
 
 DIRECTORY = "../_data"
-BASE_URL = "https://portal.ce.pdn.ac.lk/api/taxonomy/v1/visiting-research-fellows"
+BASE_URL = "https://portal.ce.pdn.ac.lk/api/taxonomy/v2/cepdnaclk/visiting-research-fellows"
 
 api_metadata = {
     "VISITING_RESEARCH_FELLOWS": {
