@@ -28,7 +28,7 @@ title: Honorary Visiting Research Fellows
 <div class="container py-4 px-lg-5">
   <div class="row justify-content-center">
     {%- comment -%} To create unique modal id s{%- endcomment -%} {% assign currentIndex = 0 %} {%-
-    for each in site.data.visiting-research-fellows -%} {%- if each.name != "#" -%}
+    for each in site.data.visiting-research-fellows.data -%} {%- if each.name != "#" -%}
     <div class="container card text-center p-2 border-primary m-1" style="width: 13rem">
       <img
         src="{{ each.image | relative_url }}"
