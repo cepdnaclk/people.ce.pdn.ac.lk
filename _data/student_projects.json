@@ -16617,19 +16617,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
     },
     {
-      "title": "On Chip Online Learning For Neuromorphic Hardware",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
-      "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
-      "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
-    },
-    {
       "title": "MLink A Pharmacy Linking Platform",
       "category": {
         "code": "co227",
@@ -18763,19 +18750,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/The_Robot_Waiter/"
     },
     {
-      "title": "On Chip Online Learning For Neuromorphic Hardware",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
-      "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
-      "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
-    },
-    {
       "title": "BookWallet",
       "category": {
         "code": "co227",
@@ -19961,19 +19935,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Monitoring-and-controlling-soilless-agricultural-plantations/"
     },
     {
-      "title": "On Chip Online Learning For Neuromorphic Hardware",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
-      "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
-      "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
-    },
-    {
       "title": "OASIS Teledentistry Mobile Application",
       "category": {
         "code": "co227",
@@ -20617,17 +20578,17 @@
   ],
   "E/21/009": [
     {
-      "title": "Drone Swarm ",
+      "title": "Drone Swarm",
       "category": {
         "code": "3yp",
         "title": "Cyber-Physical Systems Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm-/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm-",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm-",
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm-/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm/"
     },
     {
       "title": "Event Management System",
@@ -21327,17 +21288,17 @@
   ],
   "E/21/156": [
     {
-      "title": "Drone Swarm ",
+      "title": "Drone Swarm",
       "category": {
         "code": "3yp",
         "title": "Cyber-Physical Systems Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm-/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm-",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm-",
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm-/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm/"
     },
     {
       "title": "Event Management System",
@@ -21383,17 +21344,17 @@
   ],
   "E/21/180": [
     {
-      "title": "Drone Swarm ",
+      "title": "Drone Swarm",
       "category": {
         "code": "3yp",
         "title": "Cyber-Physical Systems Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm-/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm-",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm-",
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm-/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm/"
     },
     {
       "title": "Event Management System",
@@ -21594,17 +21555,17 @@
   ],
   "E/21/217": [
     {
-      "title": "Drone Swarm ",
+      "title": "Drone Swarm",
       "category": {
         "code": "3yp",
         "title": "Cyber-Physical Systems Projects",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm-/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm-",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm-",
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Drone-Swarm/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Drone-Swarm",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Drone-Swarm",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm-/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Drone-Swarm/"
     },
     {
       "title": "Event Management System",
@@ -23302,6 +23263,36 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Tour-guide/"
     }
   ],
+  "E/22/260": [
+    {
+      "title": "NagroMS",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/NagroMS/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-NagroMS",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-NagroMS",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/NagroMS/"
+    }
+  ],
+  "E/22/261": [
+    {
+      "title": "NagroMS",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/NagroMS/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-NagroMS",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-NagroMS",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/NagroMS/"
+    }
+  ],
   "E/22/271": [
     {
       "title": "DMS",
@@ -23360,6 +23351,21 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
+    }
+  ],
+  "E/22/330": [
+    {
+      "title": "NagroMS",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/NagroMS/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-NagroMS",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-NagroMS",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/NagroMS/"
     }
   ],
   "E/22/336": [
@@ -23450,6 +23456,21 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-AI-Smart-Assistant",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Smart-Assistant/"
+    }
+  ],
+  "E/22/381": [
+    {
+      "title": "NagroMS",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/NagroMS/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-NagroMS",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-NagroMS",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/NagroMS/"
     }
   ],
   "E/22/382": [
@@ -23883,7 +23904,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Orthodontics-Workflow-Automation-System/",
       "repo_url": "https://github.com/cepdnaclk/e23-co2060-Orthodontics-Workflow-Automation-System",
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Orthodontics-Workflow-Automation-System/"
     }
   ],
@@ -24003,7 +24024,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Orthodontics-Workflow-Automation-System/",
       "repo_url": "https://github.com/cepdnaclk/e23-co2060-Orthodontics-Workflow-Automation-System",
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Orthodontics-Workflow-Automation-System/"
     }
   ],
@@ -24018,7 +24039,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Orthodontics-Workflow-Automation-System/",
       "repo_url": "https://github.com/cepdnaclk/e23-co2060-Orthodontics-Workflow-Automation-System",
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Orthodontics-Workflow-Automation-System/"
     }
   ],
@@ -24033,7 +24054,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Orthodontics-Workflow-Automation-System/",
       "repo_url": "https://github.com/cepdnaclk/e23-co2060-Orthodontics-Workflow-Automation-System",
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Orthodontics-Workflow-Automation-System/"
     }
   ],

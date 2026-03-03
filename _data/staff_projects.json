@@ -1275,6 +1275,10 @@
     "count": 0,
     "projects": {}
   },
+  "e21188@eng.pdn.ac.lk": {
+    "count": 0,
+    "projects": {}
+  },
   "e21415@eng.pdn.ac.lk": {
     "count": 0,
     "projects": {}
@@ -1558,22 +1562,9 @@
     "projects": {}
   },
   "isurunawinne@eng.pdn.ac.lk": {
-    "count": 33,
+    "count": 32,
     "projects": {
       "e20": [
-        {
-          "title": "On Chip Online Learning For Neuromorphic Hardware",
-          "category": {
-            "code": "4yp",
-            "title": "Undergraduate Research Projects",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-          },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
-          "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
-          "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
-        },
         {
           "title": "Reducing context switching latency in RTES",
           "category": {
@@ -2867,22 +2858,9 @@
     }
   },
   "roshanr@eng.pdn.ac.lk": {
-    "count": 59,
+    "count": 58,
     "projects": {
       "e20": [
-        {
-          "title": "On Chip Online Learning For Neuromorphic Hardware",
-          "category": {
-            "code": "4yp",
-            "title": "Undergraduate Research Projects",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-          },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
-          "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
-          "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
-        },
         {
           "title": "Reducing context switching latency in RTES",
           "category": {
