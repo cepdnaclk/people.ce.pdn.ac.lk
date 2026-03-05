@@ -22798,6 +22798,36 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OrthoPAR-Web-Platform/"
     }
   ],
+  "E/22/061": [
+    {
+      "title": "travel plan assistant",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/travel-plan-assistant/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-travel-plan-assistant",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/travel-plan-assistant/"
+    }
+  ],
+  "E/22/074": [
+    {
+      "title": "travel plan assistant",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/travel-plan-assistant/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-travel-plan-assistant",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/travel-plan-assistant/"
+    }
+  ],
   "E/22/084": [
     {
       "title": "Tour guide",
@@ -23218,6 +23248,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PearlPath/"
     }
   ],
+  "E/22/233": [
+    {
+      "title": "travel plan assistant",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/travel-plan-assistant/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-travel-plan-assistant",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/travel-plan-assistant/"
+    }
+  ],
   "E/22/237": [
     {
       "title": "Project KNOT",
@@ -23261,6 +23306,21 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide",
       "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Tour-guide/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Tour-guide/"
+    }
+  ],
+  "E/22/253": [
+    {
+      "title": "travel plan assistant",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/travel-plan-assistant/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-travel-plan-assistant",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/travel-plan-assistant/"
     }
   ],
   "E/22/260": [
