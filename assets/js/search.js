@@ -275,19 +275,6 @@
     renderPage(page);
   }
 
-  // function sortHits(hits) {
-  //   return hits.sort(function (a, b) {
-  //     var scoreA = a._rankingInfo ? a._rankingInfo.userScore || 0 : 0;
-  //     var scoreB = b._rankingInfo ? b._rankingInfo.userScore || 0 : 0;
-  //     if (scoreA === scoreB) {
-  //       var tyA = a.type || "";
-  //       var tyB = b.type || "";
-  //       return tyA.localeCompare(tyB);
-  //     }
-  //     return scoreB - scoreA;
-  //   });
-  // }
-
   function performSearch(query) {
     if (!hasValidConfig || !client) {
       return;
@@ -374,8 +361,8 @@
 
   function buildSearchQueries(query, params) {
     var queries = [];
+    queries.push({ indexName: "staff_profiles", query: query, params: params });
     queries.push({ indexName: "student_profiles", query: query, params: params });
-    // queries.push({ indexName: "staff_profiles", query: query, params: params });
 
     return queries;
   }

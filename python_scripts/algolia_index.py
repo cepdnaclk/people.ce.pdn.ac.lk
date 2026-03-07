@@ -9,13 +9,16 @@ from pathlib import Path
 
 import yaml
 from algoliasearch.search_client import SearchClient
-from util.configs import STUDENTS_IDX_SETTINGS
+from util.configs import STAFF_IDX_SETTINGS, STUDENTS_IDX_SETTINGS
 from util.helpers import load_env_var, safe_str
 
 BUILD_DIR = Path(os.environ.get("JEKYLL_BUILD_DIR", "_site"))
 
 
 def load_student_profiles():
+    """
+    Load student profiles from Jekyll pages, parse their frontmatter and content, and return a list of records.
+    """
     students_dir = Path("../pages") / "students"
     output_path = Path("../_data") / "temp" / "students.json"
 
@@ -95,6 +98,112 @@ def load_student_profiles():
     return records
 
 
+def load_staff_profiles():
+    """
+    Load staff profiles from Jekyll pages and temporary JSON, and combine them into a single list of records.
+    """
+    staff_dir = Path("../pages") / "staff" / "academic-staff"
+    temp_staff_path = Path("../_data") / "temporary_academic_staff.json"
+    output_path = Path("../_data") / "temp" / "students.json"
+
+    records = []
+
+    for file_path in staff_dir.rglob("*.html"):
+        text = file_path.read_text(encoding="utf-8")
+        if not text.startswith("---"):
+            continue
+
+        parts = text.split("---", 2)
+        if len(parts) < 3:
+            continue
+
+        metadata = yaml.safe_load(parts[1]) or {}
+        if not isinstance(metadata, dict):
+            continue
+
+        research_interests = metadata.get("research_interests") or []
+        if not isinstance(research_interests, list):
+            research_interests = [research_interests]
+
+        records.append(
+            {
+                "objectID": f"staff_{file_path.stem}",
+                "url": safe_str(metadata.get("permalink", "")),
+                "role": "Academic Staff",
+                "title": safe_str(metadata.get("title", "")),
+                "interests": [safe_str(item) for item in research_interests if item]
+                or [],
+                "batch": None,
+                "reg_no": None,
+                "current_affiliation": safe_str(metadata.get("designation", "")),
+                "name_formats": {
+                    "full_name": safe_str(metadata.get("title", "")),
+                    "name_with_initials": None,
+                    "preferred_short_name": None,
+                    "preferred_long_name": None,
+                    "honorific": None,
+                },
+                "department": "Computer Engineering",
+                "location": None,
+                "metadata": {
+                    "urls": {
+                        "website": safe_str(metadata.get("url_website")),
+                        "linkedin": safe_str(metadata.get("url_linkedin")),
+                        "researchgate": safe_str(metadata.get("url_researchgate")),
+                        "google_scholar": safe_str(metadata.get("url_google_scholar")),
+                        "orcid": safe_str(metadata.get("url_orcid")),
+                        "ad_scientific_index": safe_str(
+                            metadata.get("url_ad_scientific_index")
+                        ),
+                    },
+                    "emails": {
+                        "university": safe_str(metadata.get("email", "")),
+                    },
+                },
+                "content": safe_str(parts[2].lstrip("\n")),
+            }
+        )
+
+    temp_staff = json.loads(temp_staff_path.read_text(encoding="utf-8")).get("data", [])
+    for staff in temp_staff:
+        email = safe_str(staff.get("email", ""))
+        staff_name = safe_str(staff.get("staff_name", ""))
+        records.append(
+            {
+                "objectID": f"temp_staff_{email or safe_str(staff.get('staff_name', '')).lower().replace(' ', '_')}",
+                "url": f"/staff/temporary-academic-staff/#:~:text={staff_name.replace(' ', '%20')}",
+                "role": "Temporary Academic Staff",
+                "title": staff_name,
+                "interests": [],
+                "batch": None,
+                "reg_no": None,
+                "name_formats": {"full_name": safe_str(staff.get("staff_name", ""))},
+                "department": "Computer Engineering",
+                "location": None,
+                "metadata": {
+                    "urls": {
+                        "linkedin": safe_str(staff.get("linkedin")),
+                    },
+                    "emails": {
+                        "university": email,
+                    },
+                },
+            }
+        )
+
+    existing_records = []
+    if output_path.exists():
+        existing_records = json.loads(output_path.read_text(encoding="utf-8"))
+
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    output_path.write_text(
+        json.dumps([*existing_records, *records], ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+    return records
+
+
 def sync(index, records, settings):
     MAX_CONTENT = 1000
 
@@ -121,7 +230,8 @@ def sync(index, records, settings):
         #         chunk_idx += 1
         #     continue
 
-        rec["content"] = rec.get("content").strip()[:MAX_CONTENT]
+        if rec.get("content"):
+            rec["content"] = rec.get("content").strip()[:MAX_CONTENT]
 
         updated_records.append(rec)
 
@@ -154,6 +264,12 @@ def main():
         )
 
         # Staff Profiles
+        staff_profiles = load_staff_profiles()
+        sync(
+            client.init_index("staff_profiles"),
+            staff_profiles,
+            STAFF_IDX_SETTINGS,
+        )
         return 0
 
     except Exception as e:
