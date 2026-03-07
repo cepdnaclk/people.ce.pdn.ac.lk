@@ -1,10 +1,11 @@
 STUDENTS_IDX_SETTINGS = {
     "minWordSizefor1Typo": 4,
     "minWordSizefor2Typos": 8,
-    "hitsPerPage": 20,
+    "hitsPerPage": 10,
     "maxValuesPerFacet": 100,
     "searchableAttributes": [
         "title",
+        "reg_no",
         "name_formats.preferred_short_name",
         "unordered(name_formats.full_name)",
         "unordered(name_formats.preferred_long_name)",
@@ -24,7 +25,7 @@ STUDENTS_IDX_SETTINGS = {
         "searchable(interests)",
         "batch",
         "searchable(current_affiliation)",
-        "type",
+        "role",
     ],
     "attributesToSnippet": ["snippet:20", "content:10"],
     "attributesToHighlight": None,
@@ -32,6 +33,9 @@ STUDENTS_IDX_SETTINGS = {
     "attributeForDistinct": "chunk",
     "exactOnSingleWordQuery": "attribute",
     "disableTypoToleranceOnAttributes": [
+        "location",
+        "metadata.emails.personal",
+        "metadata.emails.university",
         "name_formats.full_name",
         "name_formats.preferred_short_name",
     ],

@@ -29,6 +29,16 @@
 ></script>
 <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
 
+<!-- Algolia Search -->
+<script>
+  window.ALGOLIA_CONFIG = {
+    appId:
+      "{{ site.env.ALGOLIA_APP_ID | default: site.algolia.application_id | default: '' | escape }}",
+    searchApiKey:
+      "{{ site.env.ALGOLIA_SEARCH_API_KEY | default: site.algolia.search_api_key | default: '' | escape }}",
+  };
+</script>
+
 {%- if page.layout=="documentation" -%} {%- comment -%} Add the syntax highlighter for the
 documentation pages {%- endcomment -%}
 <link

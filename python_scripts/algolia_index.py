@@ -43,7 +43,8 @@ def load_student_profiles():
 
         record = {
             "objectID": f"student_{str(metadata.get('reg_no', '')).strip().replace('/', '')}",
-            "type": "student_profile",
+            "url": safe_str(metadata["permalink"]),
+            "role": "Student",
             "title": safe_str(metadata.get("title", "")),
             "interests": [
                 str(cat).strip()

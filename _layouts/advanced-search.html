@@ -26,39 +26,4 @@ layout: default
   <br />
   <!-- search box -->
   {% include search-box.html search_by_text=page.search_by%}
-
-  <!-- results container -->
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-2"></div>
-      <div class="list-group col p-2">
-        <div id="results-container"></div>
-      </div>
-      <div class="col-lg-2"></div>
-    </div>
-  </div>
 </div>
-
-<!-- Script pointing to search-script.js -->
-<script
-  src="{{ '/assets/js/search-script-for-advaced-search.js' | relative_url}}"
-  type="text/javascript"
-></script>
-<!-- Configuration -->
-<script>
-  //prevent submit by pressing enter
-  $(document).ready(function () {
-    $(window).keydown(function (event) {
-      if (event.keyCode == 13) {
-        event.preventDefault();
-        return false;
-      }
-    });
-  });
-
-  SimpleJekyllSearch({
-    searchInput: document.getElementById("search-input"),
-    resultsContainer: document.getElementById("results-container"),
-    json: "{{ site.baseurl }}{{ page.json_link }}",
-  });
-</script>

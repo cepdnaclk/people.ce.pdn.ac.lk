@@ -1,0 +1,34 @@
+<div
+  class="modal fade show"
+  id="algoliaSearchModal"
+  tabindex="-1"
+  aria-labelledby="algoliaSearchModalLabel"
+  aria-hidden="true"
+  data-bs-backdrop="static"
+  data-bs-keyboard="false"
+>
+  <div class="search-modal modal-dialog modal-xl modal-fullscreen-sm-down">
+    <div class="modal-content theme-bg-light border-0 shadow-lg">
+      <div class="modal-header theme-bg-light border-0">
+        <h5 class="modal-title" id="algoliaSearchModalLabel">Search Results</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body theme-bg-light" style="min-height: 25vh">
+        {% include search_form.html id_suffix="modal" %}
+        <div id="algolia-search-status" class="small text-muted mb-3"></div>
+        <div id="algolia-search-loader" class="d-none text-center my-4" role="status">
+          <div class="spinner-border text-primary" aria-hidden="true"></div>
+          <p class="mt-3 mb-0">Searching...</p>
+        </div>
+        <div id="algolia-search-results" class="list-group list-group-flush theme-bg-light"></div>
+      </div>
+      <div class="modal-footer theme-bg-light border-0 justify-content-between flex-wrap pb-2">
+        <nav id="algolia-search-pagination" class="d-none" aria-label="Search results pagination">
+          <ul class="pagination pagination-sm mb-0"></ul>
+        </nav>
+        <div class="small text-muted" id="algolia-search-count"></div>
+        <div class="small text-muted" id="algolia-search-note">Powered by Algolia Search</div>
+      </div>
+    </div>
+  </div>
+</div>

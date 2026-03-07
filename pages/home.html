@@ -22,7 +22,13 @@ title: People
 <div class="container" style="min-height: 500px">
   <br />
   <!-- search box -->
-  {% include search-box.html search_by_text=""%}
+  <div class="row justify-content-center">
+    <div class="col-12 col-md-10 col-lg-9">
+      <div class="pt-4">{% include search_form.html %}</div>
+    </div>
+  </div>
+  {% include search_modal.html %}
+  <!-- -->
 
   <!-- results container -->
   <div class="container">
@@ -165,24 +171,4 @@ title: People
       </div>
     </div>
   </div>
-
-  <!-- Script pointing to search-script.js -->
-  <script src="{{ 'assets/js/search-script.js' | relative_url}}" type="text/javascript"></script>
-  <!-- Configuration -->
-  <script>
-    //prevent submit by pressing enter
-    $(document).ready(function () {
-        $(window).keydown(function (event) {
-            if (event.keyCode == 13) {
-                event.preventDefault();
-                return false;
-            }
-        });
-    });
-
-    SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: '{{ ' / search / search.json' | remove:" " | relative_url}}'})
-  </script>
 </div>

@@ -121,6 +121,11 @@ staff_edit_button.html path=page.path %} {% endif %}
   </div>
 </footer>
 
+<!-- Algolia Search -->
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js" crossorigin="anonymous"></script>
+<script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+
+
 {%- if page.layout=="documentation" -%} {%- comment -%} Add the syntax highlighter for the
 documentation pages {%- endcomment -%}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
