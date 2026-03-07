@@ -42,6 +42,10 @@
   var searchModal =
     modalElement && bootstrap && bootstrap.Modal ? new bootstrap.Modal(modalElement) : null;
 
+  function trimText(value, maxLength) {
+    return value.length > maxLength ? `${value.substring(0, maxLength)}...` : value;
+  }
+
   function escapeHtml(value) {
     return String(value)
       .replace(/&/g, "&amp;")
@@ -51,7 +55,8 @@
       .replace(/'/g, "&#39;");
   }
 
-  const HITS_PER_PAGE = 10;
+  const TEXT_TRIM_LEN = 48;
+  const HITS_PER_PAGE = 8;
   var allHits = [];
   var currentPage = 0;
   var currentQuery = "";
@@ -110,50 +115,44 @@
     $status.text(message);
   }
 
-  function formatDate(value) {
-    try {
-      if (!value) {
-        return "";
-      }
-      var date = new Date(value);
-      if (Number.isNaN(date.getTime())) {
-        return "";
-      }
-      return date.toLocaleDateString(undefined, {
-        year: "numeric",
-        month: "short",
-        day: "numeric",
-      });
-    } catch (error) {
-      return "";
-    }
-  }
-
   function buildHitHtml(hit) {
     const url = hit.url || hit.relUrl || "#";
-    const title =
-      (hit._highlightResult && hit._highlightResult.title && hit._highlightResult.title.value) ||
-      hit.title ||
-      "Untitled";
-
-    const subtitle =
-      (hit._highlightResult && hit._highlightResult.reg_no && hit._highlightResult.reg_no.value) ||
-      `(${hit.reg_no})` ||
-      "";
     var metadata = [];
+    const affiliation = hit.current_affiliation;
+    const location = hit.location;
 
-    var affiliation = String(hit.current_affiliation || "");
-    if (
-      affiliation &&
-      !affiliation.includes("University of Peradeniya") &&
-      !affiliation.includes("Department of Computer Engineering")
-    ) {
+    var highlight = hit._highlightResult || {};
+    var highlightedFields = [
+      highlight.name_formats && highlight.name_formats.preferred_long_name,
+      highlight.name_formats && highlight.name_formats.full_name,
+      highlight.title,
+    ];
+    var matchedField = highlightedFields.find(function (field) {
+      return field && field.value && field.matchLevel == "full";
+    });
+
+    // Use highlighted matched field, preferred_long_name, or title
+    const title =
+      (matchedField && matchedField.value) ||
+      (hit.name_formats && hit.name_formats.preferred_long_name) ||
+      hit.title ||
+      "-";
+
+    // Use reg_no for the subtitle for students
+    const subtitle = hit.reg_no ? `(${hit.reg_no})` : "";
+
+    if (affiliation) {
       // Skip the default values to avoid noise in the results
-      metadata.push({ text: affiliation, color: "bg-success" });
+      const affiliation_text = String(affiliation);
+      if (
+        !affiliation_text.includes("University of Peradeniya") &&
+        !affiliation_text.includes("Department of Computer Engineering")
+      )
+        metadata.push({ text: trimText(affiliation_text, TEXT_TRIM_LEN), color: "bg-success" });
     }
 
-    if (hit.location) {
-      metadata.push({ text: hit.location, color: "bg-secondary" });
+    if (location) {
+      metadata.push({ text: trimText(location, TEXT_TRIM_LEN), color: "bg-secondary" });
     }
 
     if (hit.role) {
