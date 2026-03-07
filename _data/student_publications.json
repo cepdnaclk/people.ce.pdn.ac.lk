@@ -4201,6 +4201,152 @@
       "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.3390/agriengineering7060185/index.json"
     }
   ],
+  "E/17/331": [
+    {
+      "title": "Unified Spatio-Temporal Tri-Perspective View Representation for 3D Semantic Occupancy Prediction",
+      "venue": "Machine Learning for Autonomous Driving Workshop, The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-W) 2025",
+      "year": "2025",
+      "authors": [
+        "Sathira Silva",
+        "Savindu Wannigama",
+        "Gihan Jayatilaka",
+        "Muhammad Haris Khan",
+        "Roshan Ragel"
+      ],
+      "author_info": [
+        {
+          "name": "Sathira Silva",
+          "profile": "https://people.ce.pdn.ac.lk/students/e17/331/",
+          "type": "STUDENT",
+          "id": "E/17/331",
+          "email": "e17331@eng.pdn.ac.lk",
+          "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17331.jpg",
+          "profile_url": "https://people.ce.pdn.ac.lk/students/e17/331/"
+        },
+        {
+          "name": "Savindu Wannigama",
+          "profile": "https://people.ce.pdn.ac.lk/students/e17/369/",
+          "type": "STUDENT",
+          "id": "E/17/369",
+          "email": "e17369@eng.pdn.ac.lk",
+          "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17369.jpg",
+          "profile_url": "https://people.ce.pdn.ac.lk/students/e17/369/"
+        },
+        {
+          "name": "Gihan Jayatilaka",
+          "profile": "#",
+          "type": "OUTSIDER",
+          "id": "",
+          "email": "",
+          "profile_image": "#",
+          "profile_url": "#"
+        },
+        {
+          "name": "Muhammad Haris Khan",
+          "profile": "#",
+          "type": "OUTSIDER",
+          "id": "",
+          "email": "",
+          "profile_image": "#",
+          "profile_url": "#"
+        },
+        {
+          "name": "Roshan Ragel",
+          "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+          "type": "STAFF",
+          "id": "roshanr",
+          "email": "roshanr@eng.pdn.ac.lk",
+          "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/roshan-ragel.jpg",
+          "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+        }
+      ],
+      "doi": "https://doi.org/10.48550/arXiv.2401.13785",
+      "is_dept_affiliated": true,
+      "preprint": "https://arxiv.org/pdf/2401.13785",
+      "pdf": "https://ml4ad.github.io/files/papers2025/A%20Spatiotemporal%20Approach%20to%20Tri-Perspective%20Representation%20for%203D%20Semantic%20Occupancy%20Prediction.pdf",
+      "presentation": "https://www.cs.umd.edu/~gihan/projects/s2tpv/aaai-presentation.pdf",
+      "project": "https://projects.ce.pdn.ac.lk/4yp/e17/S2TPVFormer/",
+      "codebase": "https://github.com/cepdnaclk/e17-4yp-S2TPVFormer",
+      "researchgroups": ["Computer Vision"],
+      "funding": "",
+      "tags": [],
+      "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.48550/arXiv.2401.13785/",
+      "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.48550/arXiv.2401.13785/index.json"
+    }
+  ],
+  "E/17/369": [
+    {
+      "title": "Unified Spatio-Temporal Tri-Perspective View Representation for 3D Semantic Occupancy Prediction",
+      "venue": "Machine Learning for Autonomous Driving Workshop, The 39th Annual AAAI Conference on Artificial Intelligence (AAAI-W) 2025",
+      "year": "2025",
+      "authors": [
+        "Sathira Silva",
+        "Savindu Wannigama",
+        "Gihan Jayatilaka",
+        "Muhammad Haris Khan",
+        "Roshan Ragel"
+      ],
+      "author_info": [
+        {
+          "name": "Sathira Silva",
+          "profile": "https://people.ce.pdn.ac.lk/students/e17/331/",
+          "type": "STUDENT",
+          "id": "E/17/331",
+          "email": "e17331@eng.pdn.ac.lk",
+          "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17331.jpg",
+          "profile_url": "https://people.ce.pdn.ac.lk/students/e17/331/"
+        },
+        {
+          "name": "Savindu Wannigama",
+          "profile": "https://people.ce.pdn.ac.lk/students/e17/369/",
+          "type": "STUDENT",
+          "id": "E/17/369",
+          "email": "e17369@eng.pdn.ac.lk",
+          "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17369.jpg",
+          "profile_url": "https://people.ce.pdn.ac.lk/students/e17/369/"
+        },
+        {
+          "name": "Gihan Jayatilaka",
+          "profile": "#",
+          "type": "OUTSIDER",
+          "id": "",
+          "email": "",
+          "profile_image": "#",
+          "profile_url": "#"
+        },
+        {
+          "name": "Muhammad Haris Khan",
+          "profile": "#",
+          "type": "OUTSIDER",
+          "id": "",
+          "email": "",
+          "profile_image": "#",
+          "profile_url": "#"
+        },
+        {
+          "name": "Roshan Ragel",
+          "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+          "type": "STAFF",
+          "id": "roshanr",
+          "email": "roshanr@eng.pdn.ac.lk",
+          "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/roshan-ragel.jpg",
+          "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+        }
+      ],
+      "doi": "https://doi.org/10.48550/arXiv.2401.13785",
+      "is_dept_affiliated": true,
+      "preprint": "https://arxiv.org/pdf/2401.13785",
+      "pdf": "https://ml4ad.github.io/files/papers2025/A%20Spatiotemporal%20Approach%20to%20Tri-Perspective%20Representation%20for%203D%20Semantic%20Occupancy%20Prediction.pdf",
+      "presentation": "https://www.cs.umd.edu/~gihan/projects/s2tpv/aaai-presentation.pdf",
+      "project": "https://projects.ce.pdn.ac.lk/4yp/e17/S2TPVFormer/",
+      "codebase": "https://github.com/cepdnaclk/e17-4yp-S2TPVFormer",
+      "researchgroups": ["Computer Vision"],
+      "funding": "",
+      "tags": [],
+      "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.48550/arXiv.2401.13785/",
+      "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.48550/arXiv.2401.13785/index.json"
+    }
+  ],
   "E/18/036": [
     {
       "title": "Analyzing and Predicting the Volatile Market Patterns for Trading in International Markets Using a Digital Twin",

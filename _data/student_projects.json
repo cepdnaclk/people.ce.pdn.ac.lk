@@ -20746,6 +20746,19 @@
   ],
   "E/21/039": [
     {
+      "title": "GUARD",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/GUARD/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-GUARD",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-GUARD",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/GUARD/"
+    },
+    {
       "title": "Peraverse integration",
       "category": {
         "code": "co227",
@@ -20917,6 +20930,19 @@
     }
   ],
   "E/21/067": [
+    {
+      "title": "GUARD",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/GUARD/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-GUARD",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-GUARD",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/GUARD/"
+    },
     {
       "title": "PeraVerse Kiosk System",
       "category": {
@@ -21667,6 +21693,19 @@
   ],
   "E/21/231": [
     {
+      "title": "GUARD",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/GUARD/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-GUARD",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-GUARD",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/GUARD/"
+    },
+    {
       "title": "Peraverse integration",
       "category": {
         "code": "co227",
@@ -22124,6 +22163,19 @@
     }
   ],
   "E/21/362": [
+    {
+      "title": "GUARD",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/GUARD/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-GUARD",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-GUARD",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/GUARD/"
+    },
     {
       "title": "PeraVerse Kiosk System",
       "category": {
@@ -22614,7 +22666,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
       "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
       "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
     }
   ],
@@ -22689,7 +22741,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
       "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
       "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
     }
   ],
@@ -22869,7 +22921,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
       "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
       "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
     }
   ],
@@ -23409,7 +23461,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
       "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
       "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
     }
   ],
@@ -23760,17 +23812,17 @@
   ],
   "E/23/035": [
     {
-      "title": "2YP SkillShare",
+      "title": "SkillShare",
       "category": {
         "code": "co2060",
         "title": "Software Systems Design Project (CO2060)",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/2YP-SkillShare/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-2YP-SkillShare",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-2YP-SkillShare",
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/SkillShare/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-SkillShare",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/2YP-SkillShare/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
     }
   ],
   "E/23/043": [
@@ -23835,17 +23887,17 @@
   ],
   "E/23/104": [
     {
-      "title": "2YP SkillShare",
+      "title": "SkillShare",
       "category": {
         "code": "co2060",
         "title": "Software Systems Design Project (CO2060)",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/2YP-SkillShare/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-2YP-SkillShare",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-2YP-SkillShare",
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/SkillShare/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-SkillShare",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/2YP-SkillShare/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
     }
   ],
   "E/23/116": [
@@ -24120,17 +24172,17 @@
   ],
   "E/23/317": [
     {
-      "title": "2YP SkillShare",
+      "title": "SkillShare",
       "category": {
         "code": "co2060",
         "title": "Software Systems Design Project (CO2060)",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/2YP-SkillShare/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-2YP-SkillShare",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-2YP-SkillShare",
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/SkillShare/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-SkillShare",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/2YP-SkillShare/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
     }
   ],
   "E/23/340": [
@@ -24300,17 +24352,17 @@
   ],
   "E/23/430": [
     {
-      "title": "2YP SkillShare",
+      "title": "SkillShare",
       "category": {
         "code": "co2060",
         "title": "Software Systems Design Project (CO2060)",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/2YP-SkillShare/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-2YP-SkillShare",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-2YP-SkillShare",
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/SkillShare/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-SkillShare",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/2YP-SkillShare/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
     }
   ],
   "E/23/431": [
