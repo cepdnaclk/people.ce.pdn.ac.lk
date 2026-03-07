@@ -19,7 +19,9 @@ def download_image(image_url, save_dir):
     """Download an image from a URL and save it to a local path."""
     try:
         if image_url and image_url != "#":
-            image_filename = f"/{save_dir}/{image_url.split('/')[-1]}"
+            filename = image_url.split("/")[-1].split("?")[0]
+            name, ext = os.path.splitext(filename)
+            image_filename = f"/{save_dir}/{name}{ext.lower()}"
             file_url = ".." + image_filename
             try:
                 image_response = requests.get(image_url, timeout=30)
