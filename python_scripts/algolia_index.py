@@ -44,6 +44,10 @@ def load_student_profiles():
         if not isinstance(metadata, dict):
             metadata = {"front_matter": metadata}
 
+        if "permalink" not in metadata:
+            # Skip if permalink is missing, as it's essential for URL generation
+            continue
+
         record = {
             "objectID": f"student_{str(metadata.get('reg_no', '')).strip().replace('/', '')}",
             "url": safe_str(metadata["permalink"]),
@@ -104,7 +108,7 @@ def load_staff_profiles():
     """
     staff_dir = Path("../pages") / "staff" / "academic-staff"
     temp_staff_path = Path("../_data") / "temporary_academic_staff.json"
-    output_path = Path("../_data") / "temp" / "students.json"
+    output_path = Path("../_data") / "temp" / "staff.json"
 
     records = []
 
@@ -119,6 +123,10 @@ def load_staff_profiles():
 
         metadata = yaml.safe_load(parts[1]) or {}
         if not isinstance(metadata, dict):
+            continue
+
+        if "permalink" not in metadata:
+            # Skip if permalink is missing, as it's essential for URL generation
             continue
 
         research_interests = metadata.get("research_interests") or []

@@ -314,7 +314,6 @@
             }
 
             hits.forEach(function (hit) {
-              console.log(hit);
               var pageId = hit.url;
               if (pageId && combined._seenTargets.has(pageId)) {
                 return; // Skip duplicate

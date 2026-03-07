@@ -25,7 +25,7 @@ plugins:
 ga_tracking: G-RV3PFV0QLS
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
-# This configs were provisioned using Algolia Account
+# This configs were provisioned using Algolia account
 # by 'nuwanjaliyagoda@eng.pdn.ac.lk'.
 algolia:
   application_id: "A7FBSKDQKJ"
@@ -54,7 +54,7 @@ exclude:
     "*.yml",
     "tests/",
     "python_scripts",
-    "requirements.txt"
+    "requirements.txt",
   ]
 
 kramdown:
