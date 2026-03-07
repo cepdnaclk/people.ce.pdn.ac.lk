@@ -1,8 +1,12 @@
 name: Algolia Search Index
 
 on:
-  push:
-    branches: [main]
+  # push:
+  #   branches: [main]
+
+  schedule:
+    # Every Monday 12:00 AM GMT+5:30 (runs at Sunday 18:30 UTC)
+    - cron: "30 18 * * 0"
 
   workflow_dispatch:
 
