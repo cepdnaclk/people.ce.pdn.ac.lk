@@ -159,6 +159,17 @@
       metadata.push({ text: hit.role, color: "bg-danger" });
     }
 
+    if (highlight.interests) {
+      // If result is based on an interest, add it as a metadata tag
+      const interests = highlight.interests
+        .filter((i) => i.matchLevel == "full")
+        .map((i) => {
+          const result = String(i.value).replaceAll("<mark>", "").replaceAll("</mark>", "");
+          return { text: trimText(result, TEXT_TRIM_LEN), color: "bg-info text-dark" };
+        });
+      metadata = metadata.concat(interests);
+    }
+
     const tagsString = metadata.length
       ? `<div class="mb-2 d-flex align-items-center flex-wrap gap-2">
         ${metadata.map((m) => `<span class="badge rounded-pill ${m.color}">${m.text}</span>`).join("")} </div>`

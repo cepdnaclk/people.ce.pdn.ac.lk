@@ -11,7 +11,6 @@ GLOBAL_IDX_SETTINGS = {
     "paginationLimitedTo": 100,
     "exactOnSingleWordQuery": "attribute",
     "ranking": [
-        "typo",
         "geo",
         "words",
         "filters",
@@ -19,12 +18,14 @@ GLOBAL_IDX_SETTINGS = {
         "attribute",
         "exact",
         "custom",
+        "typo",
     ],
     "separatorsToIndex": "",
     "removeWordsIfNoResults": "none",
     "queryType": "prefixLast",
     "highlightPreTag": "<em>",
     "highlightPostTag": "</em>",
+    "typoTolerance": "false",
     "alternativesAsExact": ["ignorePlurals", "singleWordSynonym"],
 }
 
