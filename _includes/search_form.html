@@ -1,0 +1,39 @@
+{% assign suffix_raw = include.id_suffix | default: '' | strip %}
+<!-- -->
+{% if suffix_raw != '' %} {% capture suffix %}-{{suffix_raw | replace: ' ', '-' }}{% endcapture %}
+<!-- -->
+{% else %}
+<!-- -->
+{% assign suffix = '' %}
+<!-- -->
+{% endif %}
+
+<div class="search-form w-100 mb-3">
+  <form
+    id="algolia-search-form{{ suffix }}"
+    role="search"
+    data-algolia-search-form="true"
+  >
+    <div class="input-group flex-nowrap rounded-3 border-1 border-light" style="flex-wrap: nowrap; white-space: nowrap">
+      <input
+        type="search"
+        class="algolia-search-input form-control flex-grow-1"
+        id="algolia-search-input{{ suffix }}"
+        name="query"
+        placeholder="Search..."
+        aria-label="Search"
+        autocomplete="off"
+        data-algolia-search-input="true"
+      />
+      <button class="btn btn-primary flex-shrink-1" type="submit" aria-label="Run search">
+        <span class="visually-hidden">Search</span>
+        <i class="fas fa-search"></i>
+      </button>
+    </div>
+  </form>
+  <div
+    class="search-form-help text-muted small mt-2 d-none"
+    id="algolia-search-help{{ suffix }}"
+    data-algolia-search-help="true"
+  ></div>
+</div>

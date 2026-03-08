@@ -10,7 +10,7 @@
 <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet" />
 <link href="{{ '/assets/css/index.css' | relative_url }}" rel="stylesheet" />
 
-<!-- Load brand icons -->
+<!-- Brand icons -->
 <link href="{{ '/assets/fontawesome/fontawesome.min.css' | relative_url }}" rel="stylesheet" />
 <link href="{{ '/assets/fontawesome/solid.min.css' | relative_url }}" rel="stylesheet" />
 <link href="{{ '/assets/fontawesome/brands.min.css' | relative_url }}" rel="stylesheet" />
@@ -29,29 +29,32 @@
 ></script>
 <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
 
-{%- if page.layout=="documentation" -%} {%- comment -%} Add the syntax highlighter for the
-documentation pages {%- endcomment -%}
+<!-- Algolia Search -->
+<script>
+  window.ALGOLIA_CONFIG = {
+    appId:
+      "{{ site.env.ALGOLIA_APP_ID | default: site.algolia.application_id | default: '' | escape }}",
+    searchApiKey:
+      "{{ site.env.ALGOLIA_SEARCH_API_KEY | default: site.algolia.search_api_key | default: '' | escape }}",
+  };
+</script>
+
+<!-- Google Analytics -->
+{% include analytics.html %}
+
+<!-- Documentation -->
+{%- if page.layout=="documentation" -%}
 <link
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/atom-one-light.min.css"
 />
 <link rel="stylesheet" href="{{ '/assets/css/dracula.css' | relative_url }}" />
-{%- endif -%} {%- comment -%} Prevent the page from shifting a bit when there is no scrollbar {%-
-endcomment -%}
-<style>
-  body {
-    overflow-y: scroll;
-  }
-</style>
-
-{%- comment -%} Wrap the code block around the command in documentation pages {%- endcomment -%} {%
-if page.layout == "documentation" %}
+<link rel="stylesheet" href="{{'assets/css/photoswipe.css' | relative_url}}" />
 <style>
   pre {
     display: flex;
     flex-wrap: wrap;
   }
 </style>
-{%- comment -%} PhotoSwipe 5.0 beta {%- endcomment -%}
-<link rel="stylesheet" href="{{'assets/css/photoswipe.css' | relative_url}}" />
-{% endif %} {% include analytics.html %}
+
+{% endif %}
