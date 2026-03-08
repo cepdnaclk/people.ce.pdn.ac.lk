@@ -1,0 +1,174 @@
+---
+layout: documentation
+permalink: /demo/algolia-search/
+
+question: How Algolia Search works in this website ?
+title: How Algolia Search works in this website ?
+search_exclude: true
+---
+
+<p>
+  This website uses
+  <a href="https://www.algolia.com/" target="_blank">Algolia Search</a>
+  to power the search form shown on the homepage and the search modal. The Algolia account used for
+  this integration is managed through
+  <code>nuwanjaliyagoda[at]eng.pdn.ac.lk</code>
+  and the CE GitHub webmaster account.
+</p>
+
+<h3>1. Where the frontend gets the Algolia credentials</h3>
+
+<p>
+  The browser-side configuration is injected from
+  <code>_includes/head.html</code>
+  . It publishes:
+</p>
+
+<pre>
+<code class="language-html w-100">window.ALGOLIA_CONFIG = {
+  appId: "...",
+  searchApiKey: "..."
+};</code>
+</pre>
+
+<p>
+  These values come from environment variables first, and fall back to the values in
+  <code>_config.yml</code>
+  .
+</p>
+
+<h3>2. How the search UI works</h3>
+
+<p>
+  The search box markup is in
+  <code>_includes/search_form.html</code>
+  , and the search results modal is in
+  <code>_includes/search_modal.html</code>
+  . The client-side logic lives in
+  <code>assets/js/search.js</code>
+  .
+</p>
+
+<p>When a user submits a query, the script:</p>
+
+<ol>
+  <li>Reads the query from the search form.</li>
+  <li>
+    Builds Algolia requests for two indices:
+    <code>staff_profiles</code>
+    and
+    <code>student_profiles</code>
+    .
+  </li>
+  <li>Sends both requests using the Algolia JavaScript client.</li>
+  <li>
+    Merges the hits, removes duplicates using the page URL, and renders the results in the modal.
+  </li>
+  <li>Shows pagination in the modal when the number of matches is large.</li>
+</ol>
+
+<pre><code class="language-javascript  w-100">queries.push({ indexName: "staff_profiles", query: query, params: params });
+queries.push({ indexName: "student_profiles", query: query, params: params });</code></pre>
+
+<h3>3. How data is prepared for Algolia</h3>
+
+<p>
+  The indexing script is
+  <code>python_scripts/algolia_index.py</code>
+  . It reads the site content and converts it into Algolia records.
+</p>
+
+<ul>
+  <li>
+    Student records are collected from
+    <code>pages/students/**/*.html</code>
+    .
+  </li>
+  <li>
+    Academic staff records are collected from
+    <code>pages/staff/academic-staff/**/*.html</code>
+    .
+  </li>
+  <li>
+    Temporary academic staff are added from
+    <code>_data/temporary_academic_staff.json</code>
+    .
+  </li>
+</ul>
+
+<p>
+  For each record, the script extracts key searchable fields such as name, title, registration
+  number, interests, current affiliation, email addresses, and page content.
+</p>
+
+<p>
+  Index settings such as searchable attributes, facets, typo rules, and ranking are defined in
+  <code>python_scripts/util/configs.py</code>
+  .
+</p>
+
+<h3>4. How the Algolia indices are updated</h3>
+
+<p>
+  The index update job is defined in
+  <code>.github/workflows/algolia-index.yml</code>
+  . It can run in two ways:
+</p>
+
+<ul>
+  <li>On a scheduled run every week.</li>
+  <li>
+    Manually using
+    <code>workflow_dispatch</code>
+    from GitHub Actions.
+  </li>
+</ul>
+
+<p>The workflow does the following:</p>
+
+<ol>
+  <li>Checks out the repository.</li>
+  <li>Builds the Jekyll site.</li>
+  <li>
+    Installs Python dependencies from
+    <code>requirements.txt</code>
+    .
+  </li>
+  <li>
+    Runs
+    <code>python_scripts/algolia_index.py</code>
+    .
+  </li>
+  <li>Replaces the contents of the Algolia indices and reapplies index settings.</li>
+</ol>
+
+<p>
+  The script uses the Algolia Admin API key for indexing, while the website itself uses only the
+  search API key for read-only client-side queries. All the credentials are stored securely in
+  GitHub Actions secrets and environment variables.
+</p>
+
+<h3>5. What to update if search stops working</h3>
+
+<ul>
+  <li>
+    Check the Algolia values in
+    <code>_config.yml</code>
+    and the GitHub Action variables/secrets.
+  </li>
+  <li>
+    Check whether
+    <code>.github/workflows/algolia-index.yml</code>
+    completed successfully.
+  </li>
+  <li>
+    Check whether recently added pages contain valid front matter and a correct
+    <code>permalink</code>
+    .
+  </li>
+  <li>
+    Check
+    <code>assets/js/search.js</code>
+    for client-side errors or disabled search state.
+  </li>
+</ul>
