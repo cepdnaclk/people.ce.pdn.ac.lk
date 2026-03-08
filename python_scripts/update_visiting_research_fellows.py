@@ -63,12 +63,14 @@ def save_fellows_list(fellows_list, file_url: str, metadata: dict):
 print("\n>> Fetching and saving visiting research fellows' list...")
 
 # Fetch and save visiting research fellows' list
+# Sorted in alphabetical order by name
 fellows_raw = get_fellows_list(api_metadata["VISITING_RESEARCH_FELLOWS"]["source"])
 fellows = []
 
 if len(fellows_raw) == 0:
     print("No visiting research fellows' data found. Exiting.")
     exit(1)
+
 
 # Clean up existing visiting research fellows' folders
 delete_folder("../images/staff/fellows")
