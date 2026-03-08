@@ -1,5 +1,3 @@
-{%- comment -%} This is the footer used in every page {%- endcomment -%}
-
 <!--  -->
 {% if page.layout == "studentDetails" or page.layout == "studentDetails_temp" %} {% include
 student_edit_button.html path=page.path %} {% endif %}
@@ -10,7 +8,7 @@ staff_edit_button.html path=page.path %} {% endif %}
 <div class="container text-end mt-4">
   {% if page.type == "Non Academic" %}
   <a
-    href="https://portal.ce.pdn.ac.lk/dashboard/taxonomy/alias/academic-support-staff"
+    href="https://portal.ce.pdn.ac.lk/dashboard/taxonomy/alias/term/academic-support-staff"
     rel="noreferrer"
     target="_blank"
   >
@@ -19,7 +17,7 @@ staff_edit_button.html path=page.path %} {% endif %}
   </a>
   {% endif %} {% if page.type == "Temporary Academic" %}
   <a
-    href="https://portal.ce.pdn.ac.lk/dashboard/taxonomy/alias/temporary-academic-staff"
+    href="https://portal.ce.pdn.ac.lk/dashboard/taxonomy/alias/term/temporary-academic-staff"
     rel="noreferrer"
     target="_blank"
   >
@@ -121,14 +119,20 @@ staff_edit_button.html path=page.path %} {% endif %}
   </div>
 </footer>
 
-{%- if page.layout=="documentation" -%} {%- comment -%} Add the syntax highlighter for the
-documentation pages {%- endcomment -%}
+<!-- Algolia Search -->
+<script
+  src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"
+  crossorigin="anonymous"
+></script>
+<script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+
+<!-- Documentation -->
+{%- if page.layout=="documentation" -%}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
 <script>
   hljs.initHighlightingOnLoad();
 </script>
 
-{%- comment -%} PhotoSwipe 5.0 beta, only used in documentation {%- endcomment -%}
 <script type="module">
   // Include Lightbox
   import PhotoSwipeLightbox from "{{'assets / js / photoswipe - lightbox.esm.js' | remove:" " | relative_url}}";

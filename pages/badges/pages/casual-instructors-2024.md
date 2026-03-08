@@ -251,7 +251,7 @@ students:
     profile_image: https://people.ce.pdn.ac.lk/images/students/e20/e20316.jpg
     link: "#"
   - eNumber: E/20/157
-    name: S.M.B.G.Janakantha
+    name: S.M.B.G. Janakantha
     position: GP106
     profile_url: /students/e20/157/
     profile_image: https://people.ce.pdn.ac.lk/images/students/e20/e20157.jpg

@@ -1,7 +1,7 @@
 [![Daily Updates](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/daily.yml/badge.svg)](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/daily.yml)
 [![Weekly Updates](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/weekly.yml/badge.svg)](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/weekly.yml)
 [![pages-build-deployment](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/pages/pages-build-deployment)
-[![Python Tests](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/test.yml/badge.svg)](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/test.yml)
+[![Algolia Search Index](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/algolia-index.yml/badge.svg)](https://github.com/cepdnaclk/people.ce.pdn.ac.lk/actions/workflows/algolia-index.yml)
 
 # people.ce.pdn.ac.lk
 

@@ -6,5 +6,3 @@ _layouts/vendor/**
 .mypy_cache/**
 .venv/**
 api/**
-pages/search/advanced-search/**
-pages/search/search.json
