@@ -1,32 +1,32 @@
 # -------------------------------------------------------------------------------------------
-# Gets the list of visiting research fellows by fetching data from the CE Portal API and saves it in the JSON file: 'visiting-research-fellows.json"
+# Gets the list of visiting research fellows by fetching data from the CE Portal API and saves
+# it in the JSON file: 'visiting-research-fellows.json"
 
 # Author: E/22/151 Imaadh Ifthikar - e22151@eng.pdn.ac.lk
 # -------------------------------------------------------------------------------------------
 
 import json
 import os
-#import re
 
 import requests
-#import yaml
 from util.helpers import (
-    #get_taxonomy_page_content,
     delete_folder,
     download_image,
 )
 
 DIRECTORY = "../_data"
-BASE_URL = "https://portal.ce.pdn.ac.lk/api/taxonomy/v2/cepdnaclk/visiting-research-fellows"
+BASE_URL = (
+    "https://portal.ce.pdn.ac.lk/api/taxonomy/v2/cepdnaclk/visiting-research-fellows"
+)
 
 api_metadata = {
     "VISITING_RESEARCH_FELLOWS": {
         "title": "Visiting Research Fellows",
         "description": "List of visiting research fellows.",
         "source": f"{BASE_URL}",
-        # "last_updated": datetime.now().isoformat(),
     }
 }
+
 
 def get_fellows_list(url):
     """Fetch the visiting fellows' list from the given API URL."""
@@ -41,14 +41,12 @@ def get_fellows_list(url):
         print(f"Failed to parse JSON response from {url}: {e}")
         return []
 
+
 def save_fellows_list(fellows_list, file_url: str, metadata: dict):
     """Saves the visiting research fellows' list to a JSON file."""
     # Sort the list by the 'name' value alphabetically
     fellows_list.sort(key=lambda x: x.get("name", ""))
-    data = {
-        "metadata": metadata,
-        "data": fellows_list
-    }
+    data = {"metadata": metadata, "data": fellows_list}
 
     try:
         # Save the data to a JSON file
@@ -59,8 +57,8 @@ def save_fellows_list(fellows_list, file_url: str, metadata: dict):
     except IOError as e:
         print(f"Failed to save visiting research fellows' list to {file_url}: {e}")
 
- #---------------------------------------------------------------------------
 
+# ---------------------------------------------------------------------------
 
 print("\n>> Fetching and saving visiting research fellows' list...")
 
@@ -80,7 +78,7 @@ for f in fellows_raw:
 
     designations_raw = metadata.get("designations", "")
     designations = [d.strip() for d in designations_raw.split("|") if d.strip()]
-    
+
     remarks_raw = metadata.get("remarks", "")
     remarks = [r.strip() for r in remarks_raw.split("|") if r.strip()]
 
@@ -98,10 +96,10 @@ for f in fellows_raw:
             "profile": metadata.get("profile", "#").strip(),
             "google_scholar": metadata.get("google_scholar", "#").strip(),
             "researchgate": metadata.get("researchgate", "#").strip(),
-            "remarks": remarks
+            "remarks": remarks,
         }
     )
 
 
-file_url = f"{DIRECTORY}/visiting-research-fellows.json"
-save_fellows_list(fellows, file_url, api_metadata["VISITING_RESEARCH_FELLOWS"])
+FILE_URL = f"{DIRECTORY}/visiting-research-fellows.json"
+save_fellows_list(fellows, FILE_URL, api_metadata["VISITING_RESEARCH_FELLOWS"])
