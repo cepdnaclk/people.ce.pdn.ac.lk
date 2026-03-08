@@ -34,43 +34,42 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Update staff pages from portal
+      - name: Update staff pages from CE-Portal
+        working-directory: ./python_scripts
         run: |
-          cd ./python_scripts
           python3 update_staff_pages.py
-          cd ../
+
+      - name: Update Visiting Research Fellows pages from CE-Portal
+        working-directory: ./python_scripts
+        run: |
+          python3 update_visiting_research_fellows.py
 
       - name: Update student profiles from Google Form
+        working-directory: ./python_scripts
         env:
           GOOGLE_FORM_CSV_LINK: ${{ secrets.GOOGLE_FORM_CSV_LINK }}
         run: |
-          cd ./python_scripts
           python3 update_profile_from_google_form.py
-          cd ../
 
       - name: Update postgrad students from Google Form
+        working-directory: ./python_scripts
         run: |
-          cd ./python_scripts
           python3 update_postgrad_from_google_form.py
-          cd ../
 
       - name: Resize student images
+        working-directory: ./python_scripts
         run: |
-          cd ./python_scripts
           python3 resize_student_images.py
-          cd ../
 
       - name: Update Student Project Details
+        working-directory: ./python_scripts
         run: |
-          cd ./python_scripts
           python3 update_projects.py
-          cd ../
 
       - name: Update Student/Staff Publication Details
+        working-directory: ./python_scripts
         run: |
-          cd ./python_scripts
           python3 update_publications.py
-          cd ../
 
       - name: Format files
         run: |
