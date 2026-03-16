@@ -1562,9 +1562,22 @@
     "projects": {}
   },
   "isurunawinne@eng.pdn.ac.lk": {
-    "count": 32,
+    "count": 33,
     "projects": {
       "e20": [
+        {
+          "title": "ECG Based MI Detection",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/ECG-Based-MI-Detection/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-ECG-Based-MI-Detection",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-ECG-Based-MI-Detection",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ECG-Based-MI-Detection/"
+        },
         {
           "title": "Reducing context switching latency in RTES",
           "category": {
