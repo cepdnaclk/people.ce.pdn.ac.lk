@@ -24,74 +24,81 @@ def load_student_profiles():
 
     records = []
     for file_path in students_dir.rglob("*.html"):
-        text = file_path.read_text(encoding="utf-8")
-        front_matter = ""
-        content = text
-        if text.startswith("---"):
-            parts = text.split("---", 2)
-            if len(parts) >= 3:
-                front_matter = parts[1]
-                content = parts[2].lstrip("\n")
-            else:
-                front_matter = None
-                content = ""
+        try:
+            text = file_path.read_text(encoding="utf-8")
+            front_matter = ""
+            content = text
+            if text.startswith("---"):
+                parts = text.split("---", 2)
+                if len(parts) >= 3:
+                    front_matter = parts[1]
+                    content = parts[2].lstrip("\n")
+                else:
+                    front_matter = None
+                    content = ""
 
-        if front_matter is None:
-            # Skip processing if no frontmatter there
-            continue
+            if front_matter is None:
+                # Skip processing if no frontmatter there
+                continue
 
-        metadata = yaml.safe_load(front_matter) or {}
-        if not isinstance(metadata, dict):
-            metadata = {"front_matter": metadata}
+            metadata = yaml.safe_load(front_matter) or {}
+            if not isinstance(metadata, dict):
+                metadata = {"front_matter": metadata}
 
-        if "permalink" not in metadata:
-            # Skip if permalink is missing, as it's essential for URL generation
-            continue
+            if "permalink" not in metadata:
+                # Skip if permalink is missing, as it's essential for URL generation
+                continue
 
-        record = {
-            "objectID": f"student_{str(metadata.get('reg_no', '')).strip().replace('/', '')}",
-            "url": safe_str(metadata["permalink"]),
-            "role": "Student",
-            "title": safe_str(metadata.get("title", "")),
-            "interests": [
-                str(cat).strip()
-                for cat in str(metadata.get("interests")).split(",")
-                if metadata.get("interests")
-            ]
-            or [],
-            "batch": safe_str(metadata.get("batch", "")),
-            "reg_no": safe_str(metadata.get("reg_no", "")),
-            "current_affiliation": safe_str(metadata.get("current_affiliation", "")),
-            "name_formats": {
-                "full_name": safe_str(metadata.get("full_name", "")),
-                "name_with_initials": safe_str(metadata.get("name_with_initials", "")),
-                "preferred_short_name": safe_str(
-                    metadata.get("preferred_short_name", "")
+            record = {
+                "objectID": f"student_{str(metadata.get('reg_no', '')).strip().replace('/', '')}",
+                "url": safe_str(metadata["permalink"]),
+                "role": "Student",
+                "title": safe_str(metadata.get("title", "")),
+                "interests": [
+                    str(cat).strip()
+                    for cat in str(metadata.get("interests")).split(",")
+                    if metadata.get("interests")
+                ]
+                or [],
+                "batch": safe_str(metadata.get("batch", "")),
+                "reg_no": safe_str(metadata.get("reg_no", "")),
+                "current_affiliation": safe_str(
+                    metadata.get("current_affiliation", "")
                 ),
-                "preferred_long_name": safe_str(
-                    metadata.get("preferred_long_name", "")
-                ),
-                "honorific": safe_str(metadata.get("honorific", "")),
-            },
-            "department": safe_str(metadata.get("department", "")),
-            "location": safe_str(metadata.get("location", "")),
-            "metadata": {
-                "urls": {
-                    "website": safe_str(metadata.get("url_website")),
-                    "linkedin": safe_str(metadata.get("url_linkedin")),
-                    "github": safe_str(metadata.get("url_github")),
-                    "facebook": safe_str(metadata.get("url_facebook")),
-                    "researchgate": safe_str(metadata.get("url_researchgate")),
-                    "twitter": safe_str(metadata.get("url_twitter")),
+                "name_formats": {
+                    "full_name": safe_str(metadata.get("full_name", "")),
+                    "name_with_initials": safe_str(
+                        metadata.get("name_with_initials", "")
+                    ),
+                    "preferred_short_name": safe_str(
+                        metadata.get("preferred_short_name", "")
+                    ),
+                    "preferred_long_name": safe_str(
+                        metadata.get("preferred_long_name", "")
+                    ),
+                    "honorific": safe_str(metadata.get("honorific", "")),
                 },
-                "emails": {
-                    "personal": safe_str(metadata.get("email_personal", "")),
-                    "university": safe_str(metadata.get("email_faculty", "")),
+                "department": safe_str(metadata.get("department", "")),
+                "location": safe_str(metadata.get("location", "")),
+                "metadata": {
+                    "urls": {
+                        "website": safe_str(metadata.get("url_website")),
+                        "linkedin": safe_str(metadata.get("url_linkedin")),
+                        "github": safe_str(metadata.get("url_github")),
+                        "facebook": safe_str(metadata.get("url_facebook")),
+                        "researchgate": safe_str(metadata.get("url_researchgate")),
+                        "twitter": safe_str(metadata.get("url_twitter")),
+                    },
+                    "emails": {
+                        "personal": safe_str(metadata.get("email_personal", "")),
+                        "university": safe_str(metadata.get("email_faculty", "")),
+                    },
                 },
-            },
-            "content": safe_str(content),
-        }
-        records.append(record)
+                "content": safe_str(content),
+            }
+            records.append(record)
+        except Exception as e:
+            print(f"Error processing {file_path}: {e}", file=sys.stderr)
 
     # Note: This is a temporary step, only for development and testing.
     output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -113,91 +120,101 @@ def load_staff_profiles():
     records = []
 
     for file_path in staff_dir.rglob("*.html"):
-        text = file_path.read_text(encoding="utf-8")
-        if not text.startswith("---"):
-            continue
+        try:
+            text = file_path.read_text(encoding="utf-8")
+            if not text.startswith("---"):
+                continue
 
-        parts = text.split("---", 2)
-        if len(parts) < 3:
-            continue
+            parts = text.split("---", 2)
+            if len(parts) < 3:
+                continue
 
-        metadata = yaml.safe_load(parts[1]) or {}
-        if not isinstance(metadata, dict):
-            continue
+            metadata = yaml.safe_load(parts[1]) or {}
+            if not isinstance(metadata, dict):
+                continue
 
-        if "permalink" not in metadata:
-            # Skip if permalink is missing, as it's essential for URL generation
-            continue
+            if "permalink" not in metadata:
+                # Skip if permalink is missing, as it's essential for URL generation
+                continue
 
-        research_interests = metadata.get("research_interests") or []
-        if not isinstance(research_interests, list):
-            research_interests = [research_interests]
+            research_interests = metadata.get("research_interests") or []
+            if not isinstance(research_interests, list):
+                research_interests = [research_interests]
 
-        records.append(
-            {
-                "objectID": f"staff_{file_path.stem}",
-                "url": safe_str(metadata.get("permalink", "")),
-                "role": "Academic Staff",
-                "title": safe_str(metadata.get("title", "")),
-                "interests": [safe_str(item) for item in research_interests if item]
-                or [],
-                "batch": None,
-                "reg_no": None,
-                "current_affiliation": safe_str(metadata.get("designation", "")),
-                "name_formats": {
-                    "full_name": safe_str(metadata.get("title", "")),
-                    "name_with_initials": None,
-                    "preferred_short_name": None,
-                    "preferred_long_name": None,
-                    "honorific": None,
-                },
-                "department": "Computer Engineering",
-                "location": None,
-                "metadata": {
-                    "urls": {
-                        "website": safe_str(metadata.get("url_website")),
-                        "linkedin": safe_str(metadata.get("url_linkedin")),
-                        "researchgate": safe_str(metadata.get("url_researchgate")),
-                        "google_scholar": safe_str(metadata.get("url_google_scholar")),
-                        "orcid": safe_str(metadata.get("url_orcid")),
-                        "ad_scientific_index": safe_str(
-                            metadata.get("url_ad_scientific_index")
-                        ),
+            records.append(
+                {
+                    "objectID": f"staff_{file_path.stem}",
+                    "url": safe_str(metadata.get("permalink", "")),
+                    "role": "Academic Staff",
+                    "title": safe_str(metadata.get("title", "")),
+                    "interests": [safe_str(item) for item in research_interests if item]
+                    or [],
+                    "batch": None,
+                    "reg_no": None,
+                    "current_affiliation": safe_str(metadata.get("designation", "")),
+                    "name_formats": {
+                        "full_name": safe_str(metadata.get("title", "")),
+                        "name_with_initials": None,
+                        "preferred_short_name": None,
+                        "preferred_long_name": None,
+                        "honorific": None,
                     },
-                    "emails": {
-                        "university": safe_str(metadata.get("email", "")),
+                    "department": "Computer Engineering",
+                    "location": None,
+                    "metadata": {
+                        "urls": {
+                            "website": safe_str(metadata.get("url_website")),
+                            "linkedin": safe_str(metadata.get("url_linkedin")),
+                            "researchgate": safe_str(metadata.get("url_researchgate")),
+                            "google_scholar": safe_str(
+                                metadata.get("url_google_scholar")
+                            ),
+                            "orcid": safe_str(metadata.get("url_orcid")),
+                            "ad_scientific_index": safe_str(
+                                metadata.get("url_ad_scientific_index")
+                            ),
+                        },
+                        "emails": {
+                            "university": safe_str(metadata.get("email", "")),
+                        },
                     },
-                },
-                "content": safe_str(parts[2].lstrip("\n")),
-            }
-        )
+                    "content": safe_str(parts[2].lstrip("\n")),
+                }
+            )
+        except Exception as e:
+            print(f"Error processing {file_path}: {e}", file=sys.stderr)
 
     temp_staff = json.loads(temp_staff_path.read_text(encoding="utf-8")).get("data", [])
     for staff in temp_staff:
-        email = safe_str(staff.get("email", ""))
-        staff_name = safe_str(staff.get("staff_name", ""))
-        records.append(
-            {
-                "objectID": f"temp_staff_{email or safe_str(staff.get('staff_name', '')).lower().replace(' ', '_')}",
-                "url": f"/staff/temporary-academic-staff/#:~:text={staff_name.replace(' ', '%20')}",
-                "role": "Temporary Academic Staff",
-                "title": staff_name,
-                "interests": [],
-                "batch": None,
-                "reg_no": None,
-                "name_formats": {"full_name": safe_str(staff.get("staff_name", ""))},
-                "department": "Computer Engineering",
-                "location": None,
-                "metadata": {
-                    "urls": {
-                        "linkedin": safe_str(staff.get("linkedin")),
+        try:
+            email = safe_str(staff.get("email", ""))
+            staff_name = safe_str(staff.get("staff_name", ""))
+            records.append(
+                {
+                    "objectID": f"temp_staff_{email or safe_str(staff.get('staff_name', '')).lower().replace(' ', '_')}",
+                    "url": f"/staff/temporary-academic-staff/#:~:text={staff_name.replace(' ', '%20')}",
+                    "role": "Temporary Academic Staff",
+                    "title": staff_name,
+                    "interests": [],
+                    "batch": None,
+                    "reg_no": None,
+                    "name_formats": {
+                        "full_name": safe_str(staff.get("staff_name", ""))
                     },
-                    "emails": {
-                        "university": email,
+                    "department": "Computer Engineering",
+                    "location": None,
+                    "metadata": {
+                        "urls": {
+                            "linkedin": safe_str(staff.get("linkedin")),
+                        },
+                        "emails": {
+                            "university": email,
+                        },
                     },
-                },
-            }
-        )
+                }
+            )
+        except Exception as e:
+            print(f"Error processing temp staff record {staff}: {e}", file=sys.stderr)
 
     existing_records = []
     if output_path.exists():
