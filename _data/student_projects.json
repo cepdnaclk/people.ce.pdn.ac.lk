@@ -16617,6 +16617,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
     },
     {
+      "title": "On Chip Online Learning For Neuromorphic Hardware",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
+    },
+    {
       "title": "MLink A Pharmacy Linking Platform",
       "category": {
         "code": "co227",
@@ -16956,6 +16969,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-3yp-FlickNest",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/FlickNest/"
+    },
+    {
+      "title": "ai atrial fib detection",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/ai-atrial-fib-detection/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-ai-atrial-fib-detection",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-ai-atrial-fib-detection",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ai-atrial-fib-detection/"
     },
     {
       "title": "OASIS Teledentistry Mobile Application",
@@ -17377,6 +17403,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/The_Robot_Waiter/"
     },
     {
+      "title": "Multi Agent LLM Framework for Automated Feedback in VR Nursing Training",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training/"
+    },
+    {
       "title": "BookWallet",
       "category": {
         "code": "co227",
@@ -17539,6 +17578,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Monitoring-and-controlling-soilless-agricultural-plantations",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Monitoring-and-controlling-soilless-agricultural-plantations/"
+    },
+    {
+      "title": "Impact of Hybrid Structured Random Projections on GNN Performance",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Impact-of-Hybrid-Structured-Random-Projections-on-GNN-Performance/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Impact-of-Hybrid-Structured-Random-Projections-on-GNN-Performance",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Impact-of-Hybrid-Structured-Random-Projections-on-GNN-Performance",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Impact-of-Hybrid-Structured-Random-Projections-on-GNN-Performance/"
     },
     {
       "title": "e Conductor",
@@ -17986,6 +18038,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/FlickNest/"
     },
     {
+      "title": "ai atrial fib detection",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/ai-atrial-fib-detection/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-ai-atrial-fib-detection",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-ai-atrial-fib-detection",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ai-atrial-fib-detection/"
+    },
+    {
       "title": "OASIS Teledentistry Mobile Application",
       "category": {
         "code": "co227",
@@ -18323,6 +18388,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-3yp-The_Robot_Waiter",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/The_Robot_Waiter/"
+    },
+    {
+      "title": "Multi Agent LLM Framework for Automated Feedback in VR Nursing Training",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training/"
     },
     {
       "title": "BookWallet",
@@ -18841,6 +18919,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/The_Robot_Waiter/"
     },
     {
+      "title": "On Chip Online Learning For Neuromorphic Hardware",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
+    },
+    {
       "title": "BookWallet",
       "category": {
         "code": "co227",
@@ -19163,6 +19254,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Monitoring-and-controlling-soilless-agricultural-plantations",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Monitoring-and-controlling-soilless-agricultural-plantations/"
+    },
+    {
+      "title": "Impact of Hybrid Structured Random Projections on GNN Performance",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Impact-of-Hybrid-Structured-Random-Projections-on-GNN-Performance/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Impact-of-Hybrid-Structured-Random-Projections-on-GNN-Performance",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Impact-of-Hybrid-Structured-Random-Projections-on-GNN-Performance",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Impact-of-Hybrid-Structured-Random-Projections-on-GNN-Performance/"
     },
     {
       "title": "ACES fund and inventory management system",
@@ -20024,6 +20128,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Monitoring-and-controlling-soilless-agricultural-plantations/"
     },
     {
+      "title": "Impact of Hybrid Structured Random Projections on GNN Performance",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Impact-of-Hybrid-Structured-Random-Projections-on-GNN-Performance/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Impact-of-Hybrid-Structured-Random-Projections-on-GNN-Performance",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Impact-of-Hybrid-Structured-Random-Projections-on-GNN-Performance",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Impact-of-Hybrid-Structured-Random-Projections-on-GNN-Performance/"
+    },
+    {
       "title": "OASIS Teledentistry Mobile Application",
       "category": {
         "code": "co227",
@@ -20063,6 +20180,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Monitoring-and-controlling-soilless-agricultural-plantations",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Monitoring-and-controlling-soilless-agricultural-plantations/"
+    },
+    {
+      "title": "On Chip Online Learning For Neuromorphic Hardware",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
     },
     {
       "title": "OASIS Teledentistry Mobile Application",
@@ -20348,6 +20478,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-3yp-The_Robot_Waiter",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/The_Robot_Waiter/"
+    },
+    {
+      "title": "Multi Agent LLM Framework for Automated Feedback in VR Nursing Training",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training/"
     },
     {
       "title": "BookWallet",
@@ -21287,6 +21430,19 @@
   ],
   "E/21/130": [
     {
+      "title": "CluckNet",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/CluckNet/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-CluckNet",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-CluckNet",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/CluckNet/"
+    },
+    {
       "title": "Interactive Exhibition Map Peraverse",
       "category": {
         "code": "co227",
@@ -21920,6 +22076,19 @@
   ],
   "E/21/254": [
     {
+      "title": "Smart Metrolac",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Metrolac/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Metrolac",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Metrolac/"
+    },
+    {
       "title": "PeraVerse Heatmap Predictive Analysis",
       "category": {
         "code": "co227",
@@ -22049,6 +22218,19 @@
   ],
   "E/21/292": [
     {
+      "title": "Smart Metrolac",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Metrolac/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Metrolac",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Metrolac/"
+    },
+    {
       "title": "PeraVerse Heatmap Predictive Analysis",
       "category": {
         "code": "co227",
@@ -22135,6 +22317,19 @@
   ],
   "E/21/335": [
     {
+      "title": "CluckNet",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/CluckNet/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-CluckNet",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-CluckNet",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/CluckNet/"
+    },
+    {
       "title": "Interactive Exhibition Map Peraverse",
       "category": {
         "code": "co227",
@@ -22149,6 +22344,19 @@
     }
   ],
   "E/21/336": [
+    {
+      "title": "CluckNet",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/CluckNet/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-CluckNet",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-CluckNet",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/CluckNet/"
+    },
     {
       "title": "Interactive Exhibition Map Peraverse",
       "category": {
@@ -22165,6 +22373,19 @@
   ],
   "E/21/339": [
     {
+      "title": "Smart Metrolac",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Metrolac/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Metrolac",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Metrolac/"
+    },
+    {
       "title": "PeraVerse Heatmap Predictive Analysis",
       "category": {
         "code": "co227",
@@ -22179,6 +22400,19 @@
     }
   ],
   "E/21/342": [
+    {
+      "title": "CluckNet",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/CluckNet/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-CluckNet",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-CluckNet",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/CluckNet/"
+    },
     {
       "title": "Registration Portal",
       "category": {
@@ -22784,6 +23018,19 @@
     }
   ],
   "E/21/453": [
+    {
+      "title": "Smart Metrolac",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Metrolac/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Metrolac",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Metrolac/"
+    },
     {
       "title": "PeraVerse Kiosk System",
       "category": {
