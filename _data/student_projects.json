@@ -4864,19 +4864,6 @@
       "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Pour",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Pour/"
-    },
-    {
-      "title": "OCR and Translation from Sinhala to Tamil for Printed Documents",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
-      "repo_url": "https://github.com/cepdnaclk/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
-      "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
     }
   ],
   "E/17/134": [
@@ -5000,19 +4987,6 @@
       "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Pour",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Pour/"
-    },
-    {
-      "title": "OCR and Translation from Sinhala to Tamil for Printed Documents",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
-      "repo_url": "https://github.com/cepdnaclk/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
-      "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
     }
   ],
   "E/17/154": [
@@ -5848,19 +5822,6 @@
       "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Pour",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Pour/"
-    },
-    {
-      "title": "OCR and Translation from Sinhala to Tamil for Printed Documents",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
-      "repo_url": "https://github.com/cepdnaclk/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
-      "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
     }
   ],
   "E/17/296": [
@@ -16563,17 +16524,17 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/e-Conductor/"
     },
     {
-      "title": "digital twin led luminaire monitor",
+      "title": "Digital Twin LED Luminaire Monitor",
       "category": {
         "code": "co326",
         "title": "Industrial Automation Projects (CO326)",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/digital-twin-led-luminaire-monitor/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co326-digital-twin-led-luminaire-monitor",
-      "page_url": "https://cepdnaclk.github.io/e20-co326-digital-twin-led-luminaire-monitor",
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Digital-Twin-LED-Luminaire-Monitor/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-Digital-Twin-LED-Luminaire-Monitor",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-Digital-Twin-LED-Luminaire-Monitor",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/digital-twin-led-luminaire-monitor/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Digital-Twin-LED-Luminaire-Monitor/"
     },
     {
       "title": "ProVision",
@@ -16587,6 +16548,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co543-ProVision",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/ProVision/"
+    },
+    {
+      "title": "C Lite Interpreter",
+      "category": {
+        "code": "co523",
+        "title": "Programming Languages (CO523)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/C-Lite-Interpreter/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co523-C-Lite-Interpreter",
+      "page_url": "https://cepdnaclk.github.io/e20-co523-C-Lite-Interpreter",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co523/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C-Lite-Interpreter/"
     },
     {
       "title": "RV32IM_Pipelined_Processor_Group 04",
@@ -17714,17 +17688,17 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/e-Conductor/"
     },
     {
-      "title": "digital twin led luminaire monitor",
+      "title": "Digital Twin LED Luminaire Monitor",
       "category": {
         "code": "co326",
         "title": "Industrial Automation Projects (CO326)",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/digital-twin-led-luminaire-monitor/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co326-digital-twin-led-luminaire-monitor",
-      "page_url": "https://cepdnaclk.github.io/e20-co326-digital-twin-led-luminaire-monitor",
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Digital-Twin-LED-Luminaire-Monitor/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-Digital-Twin-LED-Luminaire-Monitor",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-Digital-Twin-LED-Luminaire-Monitor",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/digital-twin-led-luminaire-monitor/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Digital-Twin-LED-Luminaire-Monitor/"
     },
     {
       "title": "ProVision",
@@ -17805,6 +17779,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co542-heart-disease-prediction",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/heart-disease-prediction/"
+    },
+    {
+      "title": "Department Engagement and Career Platform",
+      "category": {
+        "code": "co528",
+        "title": "Applied Software Architecture Projects (CO528)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/Department-Engagement-and-Career-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co528-Department-Engagement-and-Career-Platform",
+      "page_url": "https://cepdnaclk.github.io/e20-co528-Department-Engagement-and-Career-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co528/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/Department-Engagement-and-Career-Platform/"
     }
   ],
   "E/20/168": [
@@ -18522,6 +18509,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co542-heart-disease-prediction",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/heart-disease-prediction/"
+    },
+    {
+      "title": "Department Engagement and Career Platform",
+      "category": {
+        "code": "co528",
+        "title": "Applied Software Architecture Projects (CO528)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/Department-Engagement-and-Career-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co528-Department-Engagement-and-Career-Platform",
+      "page_url": "https://cepdnaclk.github.io/e20-co528-Department-Engagement-and-Career-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co528/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/Department-Engagement-and-Career-Platform/"
     }
   ],
   "E/20/254": [
@@ -18565,17 +18565,17 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Cardiac-Patient-Data-Management-System/"
     },
     {
-      "title": "digital twin led luminaire monitor",
+      "title": "Digital Twin LED Luminaire Monitor",
       "category": {
         "code": "co326",
         "title": "Industrial Automation Projects (CO326)",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/digital-twin-led-luminaire-monitor/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co326-digital-twin-led-luminaire-monitor",
-      "page_url": "https://cepdnaclk.github.io/e20-co326-digital-twin-led-luminaire-monitor",
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Digital-Twin-LED-Luminaire-Monitor/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-Digital-Twin-LED-Luminaire-Monitor",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-Digital-Twin-LED-Luminaire-Monitor",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/digital-twin-led-luminaire-monitor/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Digital-Twin-LED-Luminaire-Monitor/"
     },
     {
       "title": "Colorization of Grayscale Images Using Image Processing Techniques",
@@ -19239,6 +19239,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co542-heart-disease-prediction",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/heart-disease-prediction/"
+    },
+    {
+      "title": "Department Engagement and Career Platform",
+      "category": {
+        "code": "co528",
+        "title": "Applied Software Architecture Projects (CO528)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/Department-Engagement-and-Career-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co528-Department-Engagement-and-Career-Platform",
+      "page_url": "https://cepdnaclk.github.io/e20-co528-Department-Engagement-and-Career-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co528/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/Department-Engagement-and-Career-Platform/"
     }
   ],
   "E/20/305": [
@@ -20694,6 +20707,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co542-heart-disease-prediction",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/heart-disease-prediction/"
+    },
+    {
+      "title": "Department Engagement and Career Platform",
+      "category": {
+        "code": "co528",
+        "title": "Applied Software Architecture Projects (CO528)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/Department-Engagement-and-Career-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co528-Department-Engagement-and-Career-Platform",
+      "page_url": "https://cepdnaclk.github.io/e20-co528-Department-Engagement-and-Career-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co528/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/Department-Engagement-and-Career-Platform/"
     }
   ],
   "E/20/455": [
