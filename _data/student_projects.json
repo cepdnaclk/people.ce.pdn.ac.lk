@@ -4864,6 +4864,19 @@
       "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Pour",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Pour/"
+    },
+    {
+      "title": "OCR and Translation from Sinhala to Tamil for Printed Documents",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+      "repo_url": "https://github.com/cepdnaclk/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+      "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
     }
   ],
   "E/17/134": [
@@ -4987,6 +5000,19 @@
       "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Pour",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Pour/"
+    },
+    {
+      "title": "OCR and Translation from Sinhala to Tamil for Printed Documents",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+      "repo_url": "https://github.com/cepdnaclk/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+      "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
     }
   ],
   "E/17/154": [
@@ -5822,6 +5848,19 @@
       "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Pour",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Pour/"
+    },
+    {
+      "title": "OCR and Translation from Sinhala to Tamil for Printed Documents",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+      "repo_url": "https://github.com/cepdnaclk/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+      "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
     }
   ],
   "E/17/296": [
@@ -16559,7 +16598,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/C-Lite-Interpreter/",
       "repo_url": "https://github.com/cepdnaclk/e20-co523-C-Lite-Interpreter",
       "page_url": "https://cepdnaclk.github.io/e20-co523-C-Lite-Interpreter",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co523/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-C-Lite-Interpreter/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C-Lite-Interpreter/"
     },
     {

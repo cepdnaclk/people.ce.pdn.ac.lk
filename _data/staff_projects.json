@@ -188,7 +188,7 @@
     "projects": {}
   },
   "asithab@eng.pdn.ac.lk": {
-    "count": 16,
+    "count": 17,
     "projects": {
       "e19": [
         {
@@ -324,6 +324,19 @@
           "page_url": "https://cepdnaclk.github.io/e17-4yp-Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Comparative-Analysis-of-2nd-and-3rd-Generation-Sequencing/"
+        },
+        {
+          "title": "OCR and Translation from Sinhala to Tamil for Printed Documents",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
         }
       ],
       "e16": [
@@ -2914,7 +2927,7 @@
     }
   },
   "roshanr@eng.pdn.ac.lk": {
-    "count": 59,
+    "count": 60,
     "projects": {
       "e20": [
         {
@@ -3390,6 +3403,19 @@
           "page_url": "https://cepdnaclk.github.io/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Neuromorphic-NoC-Architecture-for-SNNs/"
+        },
+        {
+          "title": "OCR and Translation from Sinhala to Tamil for Printed Documents",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/",
+          "repo_url": "https://github.com/cepdnaclk/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+          "page_url": "https://cepdnaclk.github.io/e17-4yp-OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/OCR-and-Translation-from-Sinhala-to-Tamil-for-Printed-Documents/"
         },
         {
           "title": "S2TPVFormer",
