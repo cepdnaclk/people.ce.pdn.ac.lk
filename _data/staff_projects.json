@@ -519,7 +519,7 @@
     "projects": {}
   },
   "damayanthiherath@eng.pdn.ac.lk": {
-    "count": 25,
+    "count": 24,
     "projects": {
       "e20": [
         {
@@ -547,19 +547,6 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-metagenomics",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/metagenomics/"
-        },
-        {
-          "title": "voice enabled llm agentic construction scheduler",
-          "category": {
-            "code": "4yp",
-            "title": "Undergraduate Research Projects",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-          },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
-          "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
-          "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
         }
       ],
       "e19": [
@@ -1566,7 +1553,7 @@
     "projects": {}
   },
   "isurunawinne@eng.pdn.ac.lk": {
-    "count": 34,
+    "count": 33,
     "projects": {
       "e20": [
         {
@@ -1633,19 +1620,6 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-ai-atrial-fib-detection",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ai-atrial-fib-detection/"
-        },
-        {
-          "title": "voice enabled llm agentic construction scheduler",
-          "category": {
-            "code": "4yp",
-            "title": "Undergraduate Research Projects",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-          },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
-          "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
-          "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
         }
       ],
       "e19": [
@@ -4274,7 +4248,7 @@
     }
   },
   "upuljm@eng.pdn.ac.lk": {
-    "count": 21,
+    "count": 20,
     "projects": {
       "e20": [
         {
@@ -4380,19 +4354,6 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-backdoor-resilient-federated-nids",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/backdoor-resilient-federated-nids/"
-        },
-        {
-          "title": "voice enabled llm agentic construction scheduler",
-          "category": {
-            "code": "4yp",
-            "title": "Undergraduate Research Projects",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-          },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/voice-enabled-llm-agentic-construction-scheduler/",
-          "repo_url": "https://github.com/cepdnaclk/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
-          "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
         },
         {
           "title": "wifi 7 backoff security testing and threat prediction",
