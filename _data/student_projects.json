@@ -85,21 +85,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E14/ipb/"
     }
   ],
-  "E/14/017": [
-    {
-      "title": "Smart Shopping Cart",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Smart-Shopping-Cart/",
-      "repo_url": "https://github.com/cepdnaclk/e14-3yp-Smart-Shopping-Cart",
-      "page_url": "https://cepdnaclk.github.io/e14-3yp-Smart-Shopping-Cart",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Smart-Shopping-Cart/"
-    }
-  ],
   "E/14/018": [
     {
       "title": "Automated Attendance system",
@@ -439,21 +424,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Train-Movement-Tracking-and-Level-Crossing-Safety-Control/"
     }
   ],
-  "E/14/216": [
-    {
-      "title": "Smart Shopping Cart",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Smart-Shopping-Cart/",
-      "repo_url": "https://github.com/cepdnaclk/e14-3yp-Smart-Shopping-Cart",
-      "page_url": "https://cepdnaclk.github.io/e14-3yp-Smart-Shopping-Cart",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Smart-Shopping-Cart/"
-    }
-  ],
   "E/14/222": [
     {
       "title": "Automated Fishing Bot",
@@ -630,21 +600,6 @@
       "page_url": "https://cepdnaclk.github.io/e14-3yp-Telepresence-Robot",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Telepresence-Robot/"
-    }
-  ],
-  "E/14/311": [
-    {
-      "title": "Smart Shopping Cart",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Smart-Shopping-Cart/",
-      "repo_url": "https://github.com/cepdnaclk/e14-3yp-Smart-Shopping-Cart",
-      "page_url": "https://cepdnaclk.github.io/e14-3yp-Smart-Shopping-Cart",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Smart-Shopping-Cart/"
     }
   ],
   "E/14/314": [
@@ -3601,19 +3556,6 @@
       "page_url": "https://cepdnaclk.github.io/e16-3yp-computerized-timetabling-and-attendance-marking-system",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/computerized-timetabling-and-attendance-marking-system/"
-    },
-    {
-      "title": "an artificial intelligence inspired zero trust model in decentralized edge environment",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/",
-      "repo_url": "https://github.com/cepdnaclk/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
-      "page_url": "https://cepdnaclk.github.io/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/"
     }
   ],
   "E/16/261": [
@@ -3754,19 +3696,6 @@
       "page_url": "https://cepdnaclk.github.io/e16-3yp-computerized-timetabling-and-attendance-marking-system",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/computerized-timetabling-and-attendance-marking-system/"
-    },
-    {
-      "title": "an artificial intelligence inspired zero trust model in decentralized edge environment",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/",
-      "repo_url": "https://github.com/cepdnaclk/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
-      "page_url": "https://cepdnaclk.github.io/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/"
     }
   ],
   "E/16/290": [
@@ -4042,19 +3971,6 @@
   ],
   "E/16/388": [
     {
-      "title": "water quality monitoring and usage monitoring system",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/water-quality-monitoring-and-usage-monitoring-system/",
-      "repo_url": "https://github.com/cepdnaclk/e16-3yp-water-quality-monitoring-and-usage-monitoring-system",
-      "page_url": "https://cepdnaclk.github.io/e16-3yp-water-quality-monitoring-and-usage-monitoring-system",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/water-quality-monitoring-and-usage-monitoring-system/"
-    },
-    {
       "title": "post quantum cryptographic schemes based on plain lattices",
       "category": {
         "code": "4yp",
@@ -4165,19 +4081,6 @@
       "page_url": "https://cepdnaclk.github.io/e16-3yp-computerized-timetabling-and-attendance-marking-system",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/computerized-timetabling-and-attendance-marking-system/"
-    },
-    {
-      "title": "an artificial intelligence inspired zero trust model in decentralized edge environment",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/",
-      "repo_url": "https://github.com/cepdnaclk/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
-      "page_url": "https://cepdnaclk.github.io/e16-4yp-an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/an-artificial-intelligence-inspired-zero-trust-model-in-decentralized-edge-environment/"
     }
   ],
   "E/17/005": [
@@ -4263,32 +4166,6 @@
     }
   ],
   "E/17/012": [
-    {
-      "title": "History of Music",
-      "category": {
-        "code": "6sp",
-        "title": "Sixth Semester Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/History-of-Music/",
-      "repo_url": "https://github.com/cepdnaclk/e17-6sp-History-of-Music",
-      "page_url": "https://cepdnaclk.github.io/e17-6sp-History-of-Music",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/History-of-Music/"
-    },
-    {
-      "title": "Milk Testing and Collecting System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Milk-Testing-and-Collecting-System/",
-      "repo_url": "https://github.com/cepdnaclk/e17-3yp-Milk-Testing-and-Collecting-System",
-      "page_url": "https://cepdnaclk.github.io/e17-3yp-Milk-Testing-and-Collecting-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Milk-Testing-and-Collecting-System/"
-    },
     {
       "title": "Acceleration of deep neural network based nanopore super accuracy basecalling",
       "category": {
@@ -4400,19 +4277,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/road-accident-analyzer/"
     },
     {
-      "title": "Remote Gatekeeping System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Remote-Gatekeeping-System/",
-      "repo_url": "https://github.com/cepdnaclk/e17-3yp-Remote-Gatekeeping-System",
-      "page_url": "https://cepdnaclk.github.io/e17-3yp-Remote-Gatekeeping-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Remote-Gatekeeping-System/"
-    },
-    {
       "title": "Investigating Onchip Sensor Based RPA Attack Vulnerabilities of Light Weight Ciphers",
       "category": {
         "code": "4yp",
@@ -4424,34 +4288,6 @@
       "page_url": "https://cepdnaclk.github.io/e17-4yp-Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Investigating-Onchip-Sensor-Based-RPA-Attack-Vulnerabilities-of-Light-Weight-Ciphers/"
-    }
-  ],
-  "E/17/038": [
-    {
-      "title": "History of Music",
-      "category": {
-        "code": "6sp",
-        "title": "Sixth Semester Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/History-of-Music/",
-      "repo_url": "https://github.com/cepdnaclk/e17-6sp-History-of-Music",
-      "page_url": "https://cepdnaclk.github.io/e17-6sp-History-of-Music",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/History-of-Music/"
-    },
-    {
-      "title": "Milk Testing and Collecting System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Milk-Testing-and-Collecting-System/",
-      "repo_url": "https://github.com/cepdnaclk/e17-3yp-Milk-Testing-and-Collecting-System",
-      "page_url": "https://cepdnaclk.github.io/e17-3yp-Milk-Testing-and-Collecting-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Milk-Testing-and-Collecting-System/"
     }
   ],
   "E/17/040": [
@@ -4467,19 +4303,6 @@
       "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
-    },
-    {
-      "title": "Smart Cradle",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Smart-Cradle/",
-      "repo_url": "https://github.com/cepdnaclk/e17-3yp-Smart-Cradle",
-      "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Cradle",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Cradle/"
     },
     {
       "title": "Music Emotion Recognition",
@@ -4620,19 +4443,6 @@
   ],
   "E/17/072": [
     {
-      "title": "Analysis Tool for Industrial Images",
-      "category": {
-        "code": "6sp",
-        "title": "Sixth Semester Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Analysis-Tool-for-Industrial-Images/",
-      "repo_url": "https://github.com/cepdnaclk/e17-6sp-Analysis-Tool-for-Industrial-Images",
-      "page_url": "https://cepdnaclk.github.io/e17-6sp-Analysis-Tool-for-Industrial-Images",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Analysis-Tool-for-Industrial-Images/"
-    },
-    {
       "title": "remote keyboard tutoring system",
       "category": {
         "code": "3yp",
@@ -4726,19 +4536,6 @@
       "page_url": "https://cepdnaclk.github.io/e17-6sp-Oral-Cavity-Region-Detection",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Oral-Cavity-Region-Detection/"
-    },
-    {
-      "title": "Remote Gatekeeping System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Remote-Gatekeeping-System/",
-      "repo_url": "https://github.com/cepdnaclk/e17-3yp-Remote-Gatekeeping-System",
-      "page_url": "https://cepdnaclk.github.io/e17-3yp-Remote-Gatekeeping-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Remote-Gatekeeping-System/"
     }
   ],
   "E/17/091": [
@@ -4798,32 +4595,6 @@
     }
   ],
   "E/17/101": [
-    {
-      "title": "History of Music",
-      "category": {
-        "code": "6sp",
-        "title": "Sixth Semester Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/History-of-Music/",
-      "repo_url": "https://github.com/cepdnaclk/e17-6sp-History-of-Music",
-      "page_url": "https://cepdnaclk.github.io/e17-6sp-History-of-Music",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/History-of-Music/"
-    },
-    {
-      "title": "Milk Testing and Collecting System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Milk-Testing-and-Collecting-System/",
-      "repo_url": "https://github.com/cepdnaclk/e17-3yp-Milk-Testing-and-Collecting-System",
-      "page_url": "https://cepdnaclk.github.io/e17-3yp-Milk-Testing-and-Collecting-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Milk-Testing-and-Collecting-System/"
-    },
     {
       "title": "Deep Learning for Side Channel Attacks",
       "category": {
@@ -5016,19 +4787,6 @@
     }
   ],
   "E/17/154": [
-    {
-      "title": "Analysis Tool for Industrial Images",
-      "category": {
-        "code": "6sp",
-        "title": "Sixth Semester Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Analysis-Tool-for-Industrial-Images/",
-      "repo_url": "https://github.com/cepdnaclk/e17-6sp-Analysis-Tool-for-Industrial-Images",
-      "page_url": "https://cepdnaclk.github.io/e17-6sp-Analysis-Tool-for-Industrial-Images",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Analysis-Tool-for-Industrial-Images/"
-    },
     {
       "title": "Landmine Detector",
       "category": {
@@ -5248,19 +5006,6 @@
   ],
   "E/17/201": [
     {
-      "title": "Visualization of Teacher Student Activities",
-      "category": {
-        "code": "6sp",
-        "title": "Sixth Semester Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Visualization-of-Teacher-Student-Activities/",
-      "repo_url": "https://github.com/cepdnaclk/e17-6sp-Visualization-of-Teacher-Student-Activities",
-      "page_url": "https://cepdnaclk.github.io/e17-6sp-Visualization-of-Teacher-Student-Activities",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Visualization-of-Teacher-Student-Activities/"
-    },
-    {
       "title": "maker mate",
       "category": {
         "code": "3yp",
@@ -5410,19 +5155,6 @@
       "page_url": "https://cepdnaclk.github.io/e17-6sp-road-accident-analyzer",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/road-accident-analyzer/"
-    },
-    {
-      "title": "Remote Gatekeeping System",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Remote-Gatekeeping-System/",
-      "repo_url": "https://github.com/cepdnaclk/e17-3yp-Remote-Gatekeeping-System",
-      "page_url": "https://cepdnaclk.github.io/e17-3yp-Remote-Gatekeeping-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Remote-Gatekeeping-System/"
     },
     {
       "title": "Investigating Onchip Sensor Based RPA Attack Vulnerabilities of Light Weight Ciphers",
@@ -6193,19 +5925,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Host-Pathogen-Interaction/"
     },
     {
-      "title": "Visualization of Teacher Student Activities",
-      "category": {
-        "code": "6sp",
-        "title": "Sixth Semester Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Visualization-of-Teacher-Student-Activities/",
-      "repo_url": "https://github.com/cepdnaclk/e17-6sp-Visualization-of-Teacher-Student-Activities",
-      "page_url": "https://cepdnaclk.github.io/e17-6sp-Visualization-of-Teacher-Student-Activities",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Visualization-of-Teacher-Student-Activities/"
-    },
-    {
       "title": "smart garbage collection",
       "category": {
         "code": "3yp",
@@ -6245,19 +5964,6 @@
       "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
-    },
-    {
-      "title": "Smart Cradle",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Smart-Cradle/",
-      "repo_url": "https://github.com/cepdnaclk/e17-3yp-Smart-Cradle",
-      "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Cradle",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Cradle/"
     },
     {
       "title": "Music Emotion Recognition",
@@ -6385,19 +6091,6 @@
   ],
   "E/17/380": [
     {
-      "title": "Analysis Tool for Industrial Images",
-      "category": {
-        "code": "6sp",
-        "title": "Sixth Semester Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Analysis-Tool-for-Industrial-Images/",
-      "repo_url": "https://github.com/cepdnaclk/e17-6sp-Analysis-Tool-for-Industrial-Images",
-      "page_url": "https://cepdnaclk.github.io/e17-6sp-Analysis-Tool-for-Industrial-Images",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Analysis-Tool-for-Industrial-Images/"
-    },
-    {
       "title": "remote keyboard tutoring system",
       "category": {
         "code": "3yp",
@@ -6425,19 +6118,6 @@
     }
   ],
   "E/17/398": [
-    {
-      "title": "Visualization of Teacher Student Activities",
-      "category": {
-        "code": "6sp",
-        "title": "Sixth Semester Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/6sp/e17/Visualization-of-Teacher-Student-Activities/",
-      "repo_url": "https://github.com/cepdnaclk/e17-6sp-Visualization-of-Teacher-Student-Activities",
-      "page_url": "https://cepdnaclk.github.io/e17-6sp-Visualization-of-Teacher-Student-Activities",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Visualization-of-Teacher-Student-Activities/"
-    },
     {
       "title": "smart garbage collection",
       "category": {
@@ -6493,19 +6173,6 @@
       "page_url": "https://cepdnaclk.github.io/e17-6sp-Prediction-of-risks-associated-with-mass-corona-vaccination",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E17/Prediction-of-risks-associated-with-mass-corona-vaccination/"
-    },
-    {
-      "title": "Smart Cradle",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e17/Smart-Cradle/",
-      "repo_url": "https://github.com/cepdnaclk/e17-3yp-Smart-Cradle",
-      "page_url": "https://cepdnaclk.github.io/e17-3yp-Smart-Cradle",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E17/Smart-Cradle/"
     },
     {
       "title": "Music Emotion Recognition",
@@ -6897,19 +6564,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Multi-Kingdom-Binning-of-Long-Read-Metagenomes/"
     },
     {
-      "title": "SnaT Meal Tracking App Group B",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/SnaT-Meal-Tracking-App-Group-B/",
-      "repo_url": "https://github.com/cepdnaclk/e18-co227-SnaT-Meal-Tracking-App-Group-B",
-      "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-B",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-B/"
-    },
-    {
       "title": "water level monitoring and control system",
       "category": {
         "code": "co326",
@@ -7003,19 +6657,6 @@
       "page_url": "https://cepdnaclk.github.io/e18-4yp-Generating-Patient-Clinical-Letters-Using-LLMs",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Generating-Patient-Clinical-Letters-Using-LLMs/"
-    },
-    {
-      "title": "Smart Inventory Management System Group C",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-C/",
-      "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-C",
-      "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
     },
     {
       "title": "Patient monitoring system",
@@ -7124,19 +6765,6 @@
       "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Gate-Keeping-and-Authentication-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Gate-Keeping-and-Authentication-System/"
-    },
-    {
-      "title": "SnaT Meal Tracking App Group B",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/SnaT-Meal-Tracking-App-Group-B/",
-      "repo_url": "https://github.com/cepdnaclk/e18-co227-SnaT-Meal-Tracking-App-Group-B",
-      "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-B",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-B/"
     },
     {
       "title": "Smart automation door",
@@ -7446,19 +7074,6 @@
       "page_url": "https://cepdnaclk.github.io/e18-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/"
-    },
-    {
-      "title": "Smart Inventory Management System Group C",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-C/",
-      "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-C",
-      "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
     },
     {
       "title": "Patient monitoring system",
@@ -7971,19 +7586,6 @@
       "page_url": "https://cepdnaclk.github.io/e18-4yp-Machine-Vision-For-Quality-Inspection",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Machine-Vision-For-Quality-Inspection/"
-    },
-    {
-      "title": "Smart Inventory Management System Group C",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/Smart-Inventory-Management-System-Group-C/",
-      "repo_url": "https://github.com/cepdnaclk/e18-co227-Smart-Inventory-Management-System-Group-C",
-      "page_url": "https://cepdnaclk.github.io/e18-co227-Smart-Inventory-Management-System-Group-C",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/Smart-Inventory-Management-System-Group-C/"
     }
   ],
   "E/18/170": [
@@ -8551,19 +8153,6 @@
     }
   ],
   "E/18/242": [
-    {
-      "title": "Machine Learning for Weather Forecasting",
-      "category": {
-        "code": "6sp",
-        "title": "Sixth Semester Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Machine-Learning-for-Weather-Forecasting/",
-      "repo_url": "https://github.com/cepdnaclk/e18-6sp-Machine-Learning-for-Weather-Forecasting",
-      "page_url": "https://cepdnaclk.github.io/e18-6sp-Machine-Learning-for-Weather-Forecasting",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Machine-Learning-for-Weather-Forecasting/"
-    },
     {
       "title": "Automated Road Rule Detector",
       "category": {
@@ -9656,19 +9245,6 @@
   ],
   "E/18/368": [
     {
-      "title": "Machine Learning for Weather Forecasting",
-      "category": {
-        "code": "6sp",
-        "title": "Sixth Semester Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Machine-Learning-for-Weather-Forecasting/",
-      "repo_url": "https://github.com/cepdnaclk/e18-6sp-Machine-Learning-for-Weather-Forecasting",
-      "page_url": "https://cepdnaclk.github.io/e18-6sp-Machine-Learning-for-Weather-Forecasting",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Machine-Learning-for-Weather-Forecasting/"
-    },
-    {
       "title": "Smart Gate Keeping and Authentication System",
       "category": {
         "code": "3yp",
@@ -9693,19 +9269,6 @@
       "page_url": "https://cepdnaclk.github.io/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/"
-    },
-    {
-      "title": "SnaT Meal Tracking App Group B",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e18/SnaT-Meal-Tracking-App-Group-B/",
-      "repo_url": "https://github.com/cepdnaclk/e18-co227-SnaT-Meal-Tracking-App-Group-B",
-      "page_url": "https://cepdnaclk.github.io/e18-co227-SnaT-Meal-Tracking-App-Group-B",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E18/SnaT-Meal-Tracking-App-Group-B/"
     }
   ],
   "E/18/373": [
@@ -9992,19 +9555,6 @@
     }
   ],
   "E/18/398": [
-    {
-      "title": "Machine Learning for Weather Forecasting",
-      "category": {
-        "code": "6sp",
-        "title": "Sixth Semester Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/6sp/e18/Machine-Learning-for-Weather-Forecasting/",
-      "repo_url": "https://github.com/cepdnaclk/e18-6sp-Machine-Learning-for-Weather-Forecasting",
-      "page_url": "https://cepdnaclk.github.io/e18-6sp-Machine-Learning-for-Weather-Forecasting",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/6sp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/6sp/E18/Machine-Learning-for-Weather-Forecasting/"
-    },
     {
       "title": "Automated Mini Greenhouse Monitoring And Control System",
       "category": {
@@ -16753,17 +16303,17 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Food-Buddy/"
     },
     {
-      "title": "Motor Health Monitoring Digital Twin with Edge Anomaly Detection",
+      "title": "Motor Thermal Monitoring Digital Twin",
       "category": {
         "code": "co326",
         "title": "Industrial Automation Projects (CO326)",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co326-Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection",
-      "page_url": "https://cepdnaclk.github.io/e20-co326-Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection",
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Motor-Thermal-Monitoring-Digital-Twin/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-Motor-Thermal-Monitoring-Digital-Twin",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-Motor-Thermal-Monitoring-Digital-Twin",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Motor-Thermal-Monitoring-Digital-Twin/"
     }
   ],
   "E/20/049": [
@@ -16872,19 +16422,6 @@
       "page_url": "https://cepdnaclk.github.io/e20-co542-Panic-Attack-Prediction",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Panic-Attack-Prediction/"
-    },
-    {
-      "title": "Historical Image Restoration",
-      "category": {
-        "code": "co543",
-        "title": "Image Processing Projects (CO543)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/Historical-Image-Restoration/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co543-Historical-Image-Restoration",
-      "page_url": "https://cepdnaclk.github.io/e20-co543-Historical-Image-Restoration",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Historical-Image-Restoration/"
     }
   ],
   "E/20/055": [
@@ -18485,19 +18022,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
     },
     {
-      "title": "AI legal chain resolver II",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-legal-chain-resolver-II/",
-      "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
-      "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
-      "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
-    },
-    {
       "title": "TourMate",
       "category": {
         "code": "co227",
@@ -18848,19 +18372,6 @@
       "page_url": "https://cepdnaclk.github.io/e20-co542-Panic-Attack-Prediction",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Panic-Attack-Prediction/"
-    },
-    {
-      "title": "Historical Image Restoration",
-      "category": {
-        "code": "co543",
-        "title": "Image Processing Projects (CO543)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/Historical-Image-Restoration/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co543-Historical-Image-Restoration",
-      "page_url": "https://cepdnaclk.github.io/e20-co543-Historical-Image-Restoration",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Historical-Image-Restoration/"
     }
   ],
   "E/20/279": [
@@ -19319,19 +18830,6 @@
       "page_url": "https://cepdnaclk.github.io/e20-co542-Panic-Attack-Prediction",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Panic-Attack-Prediction/"
-    },
-    {
-      "title": "Historical Image Restoration",
-      "category": {
-        "code": "co543",
-        "title": "Image Processing Projects (CO543)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/Historical-Image-Restoration/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co543-Historical-Image-Restoration",
-      "page_url": "https://cepdnaclk.github.io/e20-co543-Historical-Image-Restoration",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Historical-Image-Restoration/"
     }
   ],
   "E/20/316": [
@@ -19617,19 +19115,6 @@
       "page_url": "https://cepdnaclk.github.io/e20-co542-Panic-Attack-Prediction",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Panic-Attack-Prediction/"
-    },
-    {
-      "title": "Historical Image Restoration",
-      "category": {
-        "code": "co543",
-        "title": "Image Processing Projects (CO543)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/Historical-Image-Restoration/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co543-Historical-Image-Restoration",
-      "page_url": "https://cepdnaclk.github.io/e20-co543-Historical-Image-Restoration",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Historical-Image-Restoration/"
     }
   ],
   "E/20/346": [
@@ -19796,17 +19281,17 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Mentormate/"
     },
     {
-      "title": "Motor Health Monitoring Digital Twin with Edge Anomaly Detection",
+      "title": "Motor Thermal Monitoring Digital Twin",
       "category": {
         "code": "co326",
         "title": "Industrial Automation Projects (CO326)",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co326-Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection",
-      "page_url": "https://cepdnaclk.github.io/e20-co326-Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection",
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Motor-Thermal-Monitoring-Digital-Twin/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-Motor-Thermal-Monitoring-Digital-Twin",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-Motor-Thermal-Monitoring-Digital-Twin",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Motor-Thermal-Monitoring-Digital-Twin/"
     }
   ],
   "E/20/365": [
@@ -19837,17 +19322,17 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Mentormate/"
     },
     {
-      "title": "Motor Health Monitoring Digital Twin with Edge Anomaly Detection",
+      "title": "Motor Thermal Monitoring Digital Twin",
       "category": {
         "code": "co326",
         "title": "Industrial Automation Projects (CO326)",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co326-Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection",
-      "page_url": "https://cepdnaclk.github.io/e20-co326-Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection",
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Motor-Thermal-Monitoring-Digital-Twin/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-Motor-Thermal-Monitoring-Digital-Twin",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-Motor-Thermal-Monitoring-Digital-Twin",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Motor-Thermal-Monitoring-Digital-Twin/"
     }
   ],
   "E/20/366": [
@@ -20491,17 +19976,17 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/OASIS-Teledentistry-Mobile-Application/"
     },
     {
-      "title": "Motor Health Monitoring Digital Twin with Edge Anomaly Detection",
+      "title": "Motor Thermal Monitoring Digital Twin",
       "category": {
         "code": "co326",
         "title": "Industrial Automation Projects (CO326)",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co326-Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection",
-      "page_url": "https://cepdnaclk.github.io/e20-co326-Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection",
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Motor-Thermal-Monitoring-Digital-Twin/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-Motor-Thermal-Monitoring-Digital-Twin",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-Motor-Thermal-Monitoring-Digital-Twin",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Motor-Health-Monitoring-Digital-Twin-with-Edge-Anomaly-Detection/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Motor-Thermal-Monitoring-Digital-Twin/"
     },
     {
       "title": "NeuronGlow",
@@ -20651,19 +20136,6 @@
       "page_url": "https://cepdnaclk.github.io/e20-co542-Panic-Attack-Prediction",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co542/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E20/Panic-Attack-Prediction/"
-    },
-    {
-      "title": "Historical Image Restoration",
-      "category": {
-        "code": "co543",
-        "title": "Image Processing Projects (CO543)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co543/e20/Historical-Image-Restoration/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co543-Historical-Image-Restoration",
-      "page_url": "https://cepdnaclk.github.io/e20-co543-Historical-Image-Restoration",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Historical-Image-Restoration/"
     }
   ],
   "E/20/449": [
@@ -20720,19 +20192,6 @@
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye",
       "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Vescueye/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Vescueye/"
-    },
-    {
-      "title": "AI legal chain resolver II",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/AI-legal-chain-resolver-II/",
-      "repo_url": "https://github.com/cepdnaclk/e20-4yp-AI-legal-chain-resolver-II",
-      "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
-      "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
     },
     {
       "title": "TourMate",
@@ -23674,36 +23133,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/AI-Integrated-Ecommerce-Platform/"
     }
   ],
-  "E/22/184": [
-    {
-      "title": "PERA SAM",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PERA-SAM/",
-      "repo_url": "https://github.com/cepdnaclk/e22-co2060-PERA-SAM",
-      "page_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM",
-      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PERA-SAM/"
-    }
-  ],
-  "E/22/188": [
-    {
-      "title": "PERA SAM",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PERA-SAM/",
-      "repo_url": "https://github.com/cepdnaclk/e22-co2060-PERA-SAM",
-      "page_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM",
-      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PERA-SAM/"
-    }
-  ],
   "E/22/193": [
     {
       "title": "floodguard",
@@ -23987,21 +23416,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/NagroMS/"
     }
   ],
-  "E/22/336": [
-    {
-      "title": "PERA SAM",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PERA-SAM/",
-      "repo_url": "https://github.com/cepdnaclk/e22-co2060-PERA-SAM",
-      "page_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM",
-      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PERA-SAM/"
-    }
-  ],
   "E/22/362": [
     {
       "title": "PowerShare SL",
@@ -24118,21 +23532,6 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-floodguard",
       "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-floodguard/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/floodguard/"
-    }
-  ],
-  "E/22/396": [
-    {
-      "title": "PERA SAM",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/PERA-SAM/",
-      "repo_url": "https://github.com/cepdnaclk/e22-co2060-PERA-SAM",
-      "page_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM",
-      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PERA-SAM/"
     }
   ],
   "E/22/397": [
