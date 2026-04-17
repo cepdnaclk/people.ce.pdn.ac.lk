@@ -1561,6 +1561,26 @@
       ]
     }
   },
+  "isurun@eng.pdn.ac.lk": {
+    "count": 1,
+    "projects": {
+      "e20": [
+        {
+          "title": "onchip offline neuromorphic computing",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/onchip-offline-neuromorphic-computing/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-onchip-offline-neuromorphic-computing",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-onchip-offline-neuromorphic-computing",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/onchip-offline-neuromorphic-computing/"
+        }
+      ]
+    }
+  },
   "isurunawinne@ce.pdn.ac.lk": {
     "count": 0,
     "projects": {}
@@ -2914,7 +2934,7 @@
     }
   },
   "roshanr@eng.pdn.ac.lk": {
-    "count": 59,
+    "count": 60,
     "projects": {
       "e20": [
         {
@@ -2981,6 +3001,19 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
           "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education/data/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/"
+        },
+        {
+          "title": "onchip offline neuromorphic computing",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/onchip-offline-neuromorphic-computing/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-onchip-offline-neuromorphic-computing",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-onchip-offline-neuromorphic-computing",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/onchip-offline-neuromorphic-computing/"
         }
       ],
       "e19": [
