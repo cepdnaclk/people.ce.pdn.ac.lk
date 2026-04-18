@@ -519,7 +519,7 @@
     "projects": {}
   },
   "damayanthiherath@eng.pdn.ac.lk": {
-    "count": 25,
+    "count": 26,
     "projects": {
       "e20": [
         {
@@ -534,6 +534,19 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
           "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
+        },
+        {
+          "title": "VLM Guided Phenotyping of KOA",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/VLM-Guided-Phenotyping-of-KOA/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-VLM-Guided-Phenotyping-of-KOA",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-VLM-Guided-Phenotyping-of-KOA",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/VLM-Guided-Phenotyping-of-KOA/"
         },
         {
           "title": "metagenomics",
@@ -2241,6 +2254,26 @@
           "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
+        }
+      ]
+    }
+  },
+  "mailtorikaz.abde@gmail.com": {
+    "count": 1,
+    "projects": {
+      "e20": [
+        {
+          "title": "VLM Guided Phenotyping of KOA",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/VLM-Guided-Phenotyping-of-KOA/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-VLM-Guided-Phenotyping-of-KOA",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-VLM-Guided-Phenotyping-of-KOA",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/VLM-Guided-Phenotyping-of-KOA/"
         }
       ]
     }
@@ -4735,7 +4768,7 @@
     }
   },
   "yasodhav@eng.pdn.ac.lk": {
-    "count": 6,
+    "count": 7,
     "projects": {
       "e20": [
         {
@@ -4763,6 +4796,19 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training/"
+        },
+        {
+          "title": "VLM Guided Phenotyping of KOA",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/VLM-Guided-Phenotyping-of-KOA/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-VLM-Guided-Phenotyping-of-KOA",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-VLM-Guided-Phenotyping-of-KOA",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/VLM-Guided-Phenotyping-of-KOA/"
         }
       ],
       "e19": [
