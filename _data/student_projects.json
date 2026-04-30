@@ -21249,19 +21249,6 @@
   ],
   "E/21/031": [
     {
-      "title": "dia smart",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/dia-smart/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-dia-smart",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart",
-      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/dia-smart/"
-    },
-    {
       "title": "EventStack Event Management System",
       "category": {
         "code": "co227",
@@ -21276,19 +21263,6 @@
     }
   ],
   "E/21/036": [
-    {
-      "title": "dia smart",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/dia-smart/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-dia-smart",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart",
-      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/dia-smart/"
-    },
     {
       "title": "Online doctor appointment website 2yp",
       "category": {
@@ -22760,19 +22734,6 @@
   ],
   "E/21/356": [
     {
-      "title": "dia smart",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/dia-smart/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-dia-smart",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart",
-      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/dia-smart/"
-    },
-    {
       "title": "EventStack Event Management System",
       "category": {
         "code": "co227",
@@ -22942,19 +22903,6 @@
     }
   ],
   "E/21/386": [
-    {
-      "title": "dia smart",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/dia-smart/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-dia-smart",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart",
-      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-dia-smart/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/dia-smart/"
-    },
     {
       "title": "Registration Portal",
       "category": {
@@ -24527,6 +24475,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
     }
   ],
+  "E/23/012": [
+    {
+      "title": "Health Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Health-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Health-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Health-Management-System/"
+    }
+  ],
   "E/23/015": [
     {
       "title": "Hotel Management System",
@@ -24675,6 +24638,51 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Kitchen-Foods-Platform",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
+    }
+  ],
+  "E/23/093": [
+    {
+      "title": "Health Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Health-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Health-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Health-Management-System/"
+    }
+  ],
+  "E/23/098": [
+    {
+      "title": "Health Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Health-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Health-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Health-Management-System/"
+    }
+  ],
+  "E/23/100": [
+    {
+      "title": "Health Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Health-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Health-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Health-Management-System/"
     }
   ],
   "E/23/104": [
