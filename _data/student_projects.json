@@ -16563,6 +16563,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C-Lite-Interpreter/"
     },
     {
+      "title": "pera com decp",
+      "category": {
+        "code": "co528",
+        "title": "Applied Software Architecture Projects (CO528)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/pera-com-decp/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co528-pera-com-decp",
+      "page_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/pera-com-decp/"
+    },
+    {
       "title": "RV32IM_Pipelined_Processor_Group 04",
       "category": {
         "code": "co502",
@@ -17766,6 +17779,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/ProVision/"
     },
     {
+      "title": "pera com decp",
+      "category": {
+        "code": "co528",
+        "title": "Applied Software Architecture Projects (CO528)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/pera-com-decp/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co528-pera-com-decp",
+      "page_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/pera-com-decp/"
+    },
+    {
       "title": "RV32IM_Pipelined_Processor_Group 04",
       "category": {
         "code": "co502",
@@ -18656,6 +18682,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Colorization-of-Grayscale-Images-Using-Image-Processing-Techniques/"
     },
     {
+      "title": "pera com decp",
+      "category": {
+        "code": "co528",
+        "title": "Applied Software Architecture Projects (CO528)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/pera-com-decp/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co528-pera-com-decp",
+      "page_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/pera-com-decp/"
+    },
+    {
       "title": "RV32IM_Pipelined_Processor_Group 06",
       "category": {
         "code": "co502",
@@ -18682,6 +18721,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System",
       "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Canteen-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Canteen-Management-System/"
+    },
+    {
+      "title": "MQTT Data Anomaly Detection",
+      "category": {
+        "code": "co326",
+        "title": "Industrial Automation Projects (CO326)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/MQTT-Data-Anomaly-Detection/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-MQTT-Data-Anomaly-Detection",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-MQTT-Data-Anomaly-Detection",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/MQTT-Data-Anomaly-Detection/"
     }
   ],
   "E/20/262": [
@@ -19546,6 +19598,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co227-Village-Management-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Village-Management-System/"
+    },
+    {
+      "title": "MQTT Data Anomaly Detection",
+      "category": {
+        "code": "co326",
+        "title": "Industrial Automation Projects (CO326)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/MQTT-Data-Anomaly-Detection/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-MQTT-Data-Anomaly-Detection",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-MQTT-Data-Anomaly-Detection",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/MQTT-Data-Anomaly-Detection/"
     }
   ],
   "E/20/338": [
@@ -20982,6 +21047,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co227-Village-Management-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Village-Management-System/"
+    },
+    {
+      "title": "MQTT Data Anomaly Detection",
+      "category": {
+        "code": "co326",
+        "title": "Industrial Automation Projects (CO326)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/MQTT-Data-Anomaly-Detection/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-MQTT-Data-Anomaly-Detection",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-MQTT-Data-Anomaly-Detection",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/MQTT-Data-Anomaly-Detection/"
     }
   ],
   "E/20/456": [
@@ -21023,6 +21101,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co227-Village-Management-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Village-Management-System/"
+    },
+    {
+      "title": "MQTT Data Anomaly Detection",
+      "category": {
+        "code": "co326",
+        "title": "Industrial Automation Projects (CO326)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/MQTT-Data-Anomaly-Detection/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-MQTT-Data-Anomaly-Detection",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-MQTT-Data-Anomaly-Detection",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/MQTT-Data-Anomaly-Detection/"
     },
     {
       "title": "Detect AI vs Human Generated Images",
