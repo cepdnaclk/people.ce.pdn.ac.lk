@@ -23415,7 +23415,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MediTriage/",
       "repo_url": "https://github.com/cepdnaclk/e22-co2060-MediTriage",
       "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/"
     }
   ],
@@ -23460,7 +23460,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MediTriage/",
       "repo_url": "https://github.com/cepdnaclk/e22-co2060-MediTriage",
       "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/"
     }
   ],
@@ -23610,7 +23610,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MediTriage/",
       "repo_url": "https://github.com/cepdnaclk/e22-co2060-MediTriage",
       "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/"
     }
   ],
@@ -23996,7 +23996,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MediTriage/",
       "repo_url": "https://github.com/cepdnaclk/e22-co2060-MediTriage",
       "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/"
     }
   ],
@@ -24791,6 +24791,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
     }
   ],
+  "E/23/108": [
+    {
+      "title": "stress detection and analyzing system",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/stress-detection-and-analyzing-system/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-stress-detection-and-analyzing-system",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-stress-detection-and-analyzing-system",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/stress-detection-and-analyzing-system/"
+    }
+  ],
   "E/23/116": [
     {
       "title": "GoTravel",
@@ -24804,6 +24819,21 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-GoTravel",
       "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-GoTravel/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/GoTravel/"
+    }
+  ],
+  "E/23/117": [
+    {
+      "title": "stress detection and analyzing system",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/stress-detection-and-analyzing-system/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-stress-detection-and-analyzing-system",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-stress-detection-and-analyzing-system",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/stress-detection-and-analyzing-system/"
     }
   ],
   "E/23/118": [
@@ -24924,6 +24954,21 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System",
       "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Orthodontics-Workflow-Automation-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Orthodontics-Workflow-Automation-System/"
+    }
+  ],
+  "E/23/188": [
+    {
+      "title": "stress detection and analyzing system",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/stress-detection-and-analyzing-system/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-stress-detection-and-analyzing-system",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-stress-detection-and-analyzing-system",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/stress-detection-and-analyzing-system/"
     }
   ],
   "E/23/196": [
