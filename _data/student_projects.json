@@ -16563,17 +16563,17 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C-Lite-Interpreter/"
     },
     {
-      "title": "pera com decp",
+      "title": "PeraCom DECP",
       "category": {
         "code": "co528",
         "title": "Applied Software Architecture Projects (CO528)",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/pera-com-decp/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co528-pera-com-decp",
-      "page_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp",
-      "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/pera-com-decp/"
+      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/PeraCom-DECP/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
+      "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/"
     },
     {
       "title": "RV32IM_Pipelined_Processor_Group 04",
@@ -17276,7 +17276,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
       "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
       "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
     },
     {
@@ -17779,17 +17779,30 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/ProVision/"
     },
     {
-      "title": "pera com decp",
+      "title": "C_LITE Interpreter",
+      "category": {
+        "code": "co523",
+        "title": "Programming Languages (CO523)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/C_LITE-Interpreter/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co523-C_LITE-Interpreter",
+      "page_url": "https://cepdnaclk.github.io/e20-co523-C_LITE-Interpreter",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co523/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C_LITE-Interpreter/"
+    },
+    {
+      "title": "PeraCom DECP",
       "category": {
         "code": "co528",
         "title": "Applied Software Architecture Projects (CO528)",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/pera-com-decp/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co528-pera-com-decp",
-      "page_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp",
-      "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/pera-com-decp/"
+      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/PeraCom-DECP/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
+      "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/"
     },
     {
       "title": "RV32IM_Pipelined_Processor_Group 04",
@@ -18153,7 +18166,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
       "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
       "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
     },
     {
@@ -18274,7 +18287,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
       "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
       "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
     },
     {
@@ -18535,6 +18548,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Academic-Staff-Management-Information-System/"
     },
     {
+      "title": "Peak Load Detection System",
+      "category": {
+        "code": "co326",
+        "title": "Industrial Automation Projects (CO326)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Peak-Load-Detection-System/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-Peak-Load-Detection-System",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-Peak-Load-Detection-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Peak-Load-Detection-System/"
+    },
+    {
       "title": "stock price prediction",
       "category": {
         "code": "co542",
@@ -18682,17 +18708,30 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E20/Colorization-of-Grayscale-Images-Using-Image-Processing-Techniques/"
     },
     {
-      "title": "pera com decp",
+      "title": "Mini C Interpreter",
+      "category": {
+        "code": "co523",
+        "title": "Programming Languages (CO523)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/Mini-C-Interpreter/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co523-Mini-C-Interpreter",
+      "page_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/Mini-C-Interpreter/"
+    },
+    {
+      "title": "PeraCom DECP",
       "category": {
         "code": "co528",
         "title": "Applied Software Architecture Projects (CO528)",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/pera-com-decp/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co528-pera-com-decp",
-      "page_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp",
-      "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-pera-com-decp/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/pera-com-decp/"
+      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/PeraCom-DECP/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
+      "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/"
     },
     {
       "title": "RV32IM_Pipelined_Processor_Group 06",
@@ -20645,6 +20684,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Denture-Design-Studio/"
     },
     {
+      "title": "Peak Load Detection System",
+      "category": {
+        "code": "co326",
+        "title": "Industrial Automation Projects (CO326)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Peak-Load-Detection-System/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-Peak-Load-Detection-System",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-Peak-Load-Detection-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Peak-Load-Detection-System/"
+    },
+    {
       "title": "real time shadow removal from images",
       "category": {
         "code": "co543",
@@ -20831,6 +20883,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co227-Denture-Design-Studio",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Denture-Design-Studio/"
+    },
+    {
+      "title": "Peak Load Detection System",
+      "category": {
+        "code": "co326",
+        "title": "Industrial Automation Projects (CO326)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co326/e20/Peak-Load-Detection-System/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co326-Peak-Load-Detection-System",
+      "page_url": "https://cepdnaclk.github.io/e20-co326-Peak-Load-Detection-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co326/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co326/E20/Peak-Load-Detection-System/"
     },
     {
       "title": "real time shadow removal from images",
@@ -23921,7 +23986,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/hydro-risk-management/",
       "repo_url": "https://github.com/cepdnaclk/e22-co2060-hydro-risk-management",
       "page_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/hydro-risk-management/"
     }
   ],
@@ -24219,7 +24284,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/hydro-risk-management/",
       "repo_url": "https://github.com/cepdnaclk/e22-co2060-hydro-risk-management",
       "page_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/hydro-risk-management/"
     }
   ],
@@ -24487,7 +24552,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/hydro-risk-management/",
       "repo_url": "https://github.com/cepdnaclk/e22-co2060-hydro-risk-management",
       "page_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/hydro-risk-management/"
     }
   ],
@@ -24532,7 +24597,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/hydro-risk-management/",
       "repo_url": "https://github.com/cepdnaclk/e22-co2060-hydro-risk-management",
       "page_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/hydro-risk-management/"
     }
   ],
@@ -24624,21 +24689,6 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
-    }
-  ],
-  "E/23/023": [
-    {
-      "title": "MPhil PhD Lifecycle Management System",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
     }
   ],
   "E/23/035": [
@@ -24836,21 +24886,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/stress-detection-and-analyzing-system/"
     }
   ],
-  "E/23/118": [
-    {
-      "title": "MPhil PhD Lifecycle Management System",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
-    }
-  ],
   "E/23/122": [
     {
       "title": "GoTravel",
@@ -24924,21 +24959,6 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-GiftBox-Customization-Marketplace",
       "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-GiftBox-Customization-Marketplace/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/GiftBox-Customization-Marketplace/"
-    }
-  ],
-  "E/23/178": [
-    {
-      "title": "MPhil PhD Lifecycle Management System",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
     }
   ],
   "E/23/182": [
@@ -25344,21 +25364,6 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Alumnet",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Alumnet/"
-    }
-  ],
-  "E/23/442": [
-    {
-      "title": "MPhil PhD Lifecycle Management System",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
     }
   ],
   "E/23/454": [

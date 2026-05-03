@@ -4133,7 +4133,7 @@
     }
   },
   "isurunawinne@eng.pdn.ac.lk": {
-    "publication_count": 10,
+    "publication_count": 11,
     "year_count": 7,
     "publications": {
       "2025": [
@@ -4336,6 +4336,77 @@
           ],
           "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/SCSE65633.2025.11030968/",
           "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/SCSE65633.2025.11030968/index.json"
+        },
+        {
+          "title": "Integrated Programming and Compiler Toolchain for Swarm Robotic Systems",
+          "venue": "2025 IEEE 19th International Conference on Industrial and Information Systems (ICIIS)",
+          "year": "2025",
+          "authors": [
+            "Isara Tillekeratne",
+            "Kavinaya Yogendran",
+            "Hashini Wijerathne",
+            "Isuru Nawinne",
+            "Roshan Ragel"
+          ],
+          "author_info": [
+            {
+              "name": "Isara Tillekeratne",
+              "profile": "https://people.ce.pdn.ac.lk/students/e17/352/",
+              "type": "STUDENT",
+              "id": "E/17/352",
+              "email": "e17352@eng.pdn.ac.lk",
+              "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17352.jpg",
+              "profile_url": "https://people.ce.pdn.ac.lk/students/e17/352/"
+            },
+            {
+              "name": "Kavinaya Yogendran",
+              "profile": "https://people.ce.pdn.ac.lk/students/e17/159/",
+              "type": "STUDENT",
+              "id": "E/17/159",
+              "email": "e17159@eng.pdn.ac.lk",
+              "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17159.jpg",
+              "profile_url": "https://people.ce.pdn.ac.lk/students/e17/159/"
+            },
+            {
+              "name": "Hashini Wijerathne",
+              "profile": "https://people.ce.pdn.ac.lk/students/e17/398/",
+              "type": "STUDENT",
+              "id": "E/17/398",
+              "email": "e17398@eng.pdn.ac.lk",
+              "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17398.jpg",
+              "profile_url": "https://people.ce.pdn.ac.lk/students/e17/398/"
+            },
+            {
+              "name": "Isuru Nawinne",
+              "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+              "type": "STAFF",
+              "id": "isurunawinne",
+              "email": "isurunawinne@eng.pdn.ac.lk",
+              "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+              "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+            },
+            {
+              "name": "Roshan Ragel",
+              "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+              "type": "STAFF",
+              "id": "roshanr",
+              "email": "roshanr@eng.pdn.ac.lk",
+              "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/roshan-ragel.jpg",
+              "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            }
+          ],
+          "doi": "https://doi.org/10.1109/ICIIS69028.2026.11450833",
+          "is_dept_affiliated": true,
+          "preprint": "#",
+          "pdf": "#",
+          "presentation": "#",
+          "project": "https://projects.ce.pdn.ac.lk/4yp/e17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/",
+          "codebase": "https://github.com/cepdnaclk/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
+          "funding": "",
+          "tags": [],
+          "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS69028.2026.11450833/",
+          "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS69028.2026.11450833/index.json"
         }
       ],
       "2024": [
@@ -6017,7 +6088,7 @@
     }
   },
   "roshanr@eng.pdn.ac.lk": {
-    "publication_count": 48,
+    "publication_count": 49,
     "year_count": 17,
     "publications": {
       "2025": [
@@ -6291,6 +6362,77 @@
           "tags": [],
           "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.48550/arXiv.2401.13785/",
           "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.48550/arXiv.2401.13785/index.json"
+        },
+        {
+          "title": "Integrated Programming and Compiler Toolchain for Swarm Robotic Systems",
+          "venue": "2025 IEEE 19th International Conference on Industrial and Information Systems (ICIIS)",
+          "year": "2025",
+          "authors": [
+            "Isara Tillekeratne",
+            "Kavinaya Yogendran",
+            "Hashini Wijerathne",
+            "Isuru Nawinne",
+            "Roshan Ragel"
+          ],
+          "author_info": [
+            {
+              "name": "Isara Tillekeratne",
+              "profile": "https://people.ce.pdn.ac.lk/students/e17/352/",
+              "type": "STUDENT",
+              "id": "E/17/352",
+              "email": "e17352@eng.pdn.ac.lk",
+              "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17352.jpg",
+              "profile_url": "https://people.ce.pdn.ac.lk/students/e17/352/"
+            },
+            {
+              "name": "Kavinaya Yogendran",
+              "profile": "https://people.ce.pdn.ac.lk/students/e17/159/",
+              "type": "STUDENT",
+              "id": "E/17/159",
+              "email": "e17159@eng.pdn.ac.lk",
+              "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17159.jpg",
+              "profile_url": "https://people.ce.pdn.ac.lk/students/e17/159/"
+            },
+            {
+              "name": "Hashini Wijerathne",
+              "profile": "https://people.ce.pdn.ac.lk/students/e17/398/",
+              "type": "STUDENT",
+              "id": "E/17/398",
+              "email": "e17398@eng.pdn.ac.lk",
+              "profile_image": "https://people.ce.pdn.ac.lk/images/students/e17/e17398.jpg",
+              "profile_url": "https://people.ce.pdn.ac.lk/students/e17/398/"
+            },
+            {
+              "name": "Isuru Nawinne",
+              "profile": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/",
+              "type": "STAFF",
+              "id": "isurunawinne",
+              "email": "isurunawinne@eng.pdn.ac.lk",
+              "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/isuru-nawinne.png",
+              "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/isuru-nawinne/"
+            },
+            {
+              "name": "Roshan Ragel",
+              "profile": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/",
+              "type": "STAFF",
+              "id": "roshanr",
+              "email": "roshanr@eng.pdn.ac.lk",
+              "profile_image": "https://people.ce.pdn.ac.lk//images/staff/academic-staff/roshan-ragel.jpg",
+              "profile_url": "https://people.ce.pdn.ac.lk/staff/academic/roshan-ragel/"
+            }
+          ],
+          "doi": "https://doi.org/10.1109/ICIIS69028.2026.11450833",
+          "is_dept_affiliated": true,
+          "preprint": "#",
+          "pdf": "#",
+          "presentation": "#",
+          "project": "https://projects.ce.pdn.ac.lk/4yp/e17/develop-a-programming-and-compiler-toolchain-for-multi-agent-systems/",
+          "codebase": "https://github.com/cepdnaclk/e17-4yp-develop-a-programming-and-compiler-toolchain-for-multi-agent-systems",
+          "researchgroups": ["ESCAL: Computer Systems (Embedded Systems / Robotics )"],
+          "funding": "",
+          "tags": [],
+          "api_url": "https://api.ce.pdn.ac.lk/publications/v1/10.1109/ICIIS69028.2026.11450833/",
+          "edit_url": "https://github.com/cepdnaclk/api.ce.pdn.ac.lk/blob/main/publications/v1/10.1109/ICIIS69028.2026.11450833/index.json"
         }
       ],
       "2023": [
