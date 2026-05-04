@@ -16563,19 +16563,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C-Lite-Interpreter/"
     },
     {
-      "title": "PeraCom DECP",
-      "category": {
-        "code": "co528",
-        "title": "Applied Software Architecture Projects (CO528)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/PeraCom-DECP/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
-      "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
-      "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/"
-    },
-    {
       "title": "RV32IM_Pipelined_Processor_Group 04",
       "category": {
         "code": "co502",
@@ -17788,21 +17775,8 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co523/e20/C_LITE-Interpreter/",
       "repo_url": "https://github.com/cepdnaclk/e20-co523-C_LITE-Interpreter",
       "page_url": "https://cepdnaclk.github.io/e20-co523-C_LITE-Interpreter",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co523/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-C_LITE-Interpreter/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C_LITE-Interpreter/"
-    },
-    {
-      "title": "PeraCom DECP",
-      "category": {
-        "code": "co528",
-        "title": "Applied Software Architecture Projects (CO528)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/PeraCom-DECP/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
-      "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
-      "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/"
     },
     {
       "title": "RV32IM_Pipelined_Processor_Group 04",
@@ -18719,19 +18693,6 @@
       "page_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter",
       "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/Mini-C-Interpreter/"
-    },
-    {
-      "title": "PeraCom DECP",
-      "category": {
-        "code": "co528",
-        "title": "Applied Software Architecture Projects (CO528)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/PeraCom-DECP/",
-      "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
-      "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
-      "thumbnail_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/"
     },
     {
       "title": "RV32IM_Pipelined_Processor_Group 06",
@@ -24751,6 +24712,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Alumnet/"
     }
   ],
+  "E/23/076": [
+    {
+      "title": "NexClinic",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/NexClinic/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-NexClinic",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/NexClinic/"
+    }
+  ],
   "E/23/077": [
     {
       "title": "TransitPro",
@@ -25017,8 +24993,23 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Maathacare/",
       "repo_url": "https://github.com/cepdnaclk/e23-co2060-Maathacare",
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Maathacare/"
+    }
+  ],
+  "E/23/226": [
+    {
+      "title": "NexClinic",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/NexClinic/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-NexClinic",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/NexClinic/"
     }
   ],
   "E/23/244": [
@@ -25032,7 +25023,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Maathacare/",
       "repo_url": "https://github.com/cepdnaclk/e23-co2060-Maathacare",
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Maathacare/"
     }
   ],
@@ -25049,6 +25040,21 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus",
       "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-ChronoCampus/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/ChronoCampus/"
+    }
+  ],
+  "E/23/266": [
+    {
+      "title": "NexClinic",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/NexClinic/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-NexClinic",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/NexClinic/"
     }
   ],
   "E/23/270": [
@@ -25156,6 +25162,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
     }
   ],
+  "E/23/336": [
+    {
+      "title": "NexClinic",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/NexClinic/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-NexClinic",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/NexClinic/"
+    }
+  ],
   "E/23/340": [
     {
       "title": "Alumnet",
@@ -25212,7 +25233,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Maathacare/",
       "repo_url": "https://github.com/cepdnaclk/e23-co2060-Maathacare",
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Maathacare/"
     }
   ],
@@ -25317,7 +25338,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Maathacare/",
       "repo_url": "https://github.com/cepdnaclk/e23-co2060-Maathacare",
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Maathacare/"
     }
   ],
