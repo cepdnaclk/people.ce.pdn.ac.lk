@@ -16563,6 +16563,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C-Lite-Interpreter/"
     },
     {
+      "title": "PeraCom DECP",
+      "category": {
+        "code": "co528",
+        "title": "Applied Software Architecture Projects (CO528)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/PeraCom-DECP/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
+      "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co528/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/"
+    },
+    {
       "title": "RV32IM_Pipelined_Processor_Group 04",
       "category": {
         "code": "co502",
@@ -17779,6 +17792,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/C_LITE-Interpreter/"
     },
     {
+      "title": "PeraCom DECP",
+      "category": {
+        "code": "co528",
+        "title": "Applied Software Architecture Projects (CO528)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/PeraCom-DECP/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
+      "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co528/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/"
+    },
+    {
       "title": "RV32IM_Pipelined_Processor_Group 04",
       "category": {
         "code": "co502",
@@ -18693,6 +18719,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter",
       "thumbnail_url": "https://cepdnaclk.github.io/e20-co523-Mini-C-Interpreter/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co523/E20/Mini-C-Interpreter/"
+    },
+    {
+      "title": "PeraCom DECP",
+      "category": {
+        "code": "co528",
+        "title": "Applied Software Architecture Projects (CO528)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co528/e20/PeraCom-DECP/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co528-PeraCom-DECP",
+      "page_url": "https://cepdnaclk.github.io/e20-co528-PeraCom-DECP",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co528/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co528/E20/PeraCom-DECP/"
     },
     {
       "title": "RV32IM_Pipelined_Processor_Group 06",
