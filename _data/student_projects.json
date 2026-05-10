@@ -23424,21 +23424,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
     }
   ],
-  "E/22/001": [
-    {
-      "title": "MyStay Boarding Platform",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
-      "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
-      "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
-      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
-    }
-  ],
   "E/22/004": [
     {
       "title": "Patient Management System",
@@ -23497,21 +23482,6 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-gympappa-spooty-app",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/gympappa-spooty-app/"
-    }
-  ],
-  "E/22/027": [
-    {
-      "title": "MyStay Boarding Platform",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
-      "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
-      "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
-      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
     }
   ],
   "E/22/044": [
@@ -23677,21 +23647,6 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
       "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/"
-    }
-  ],
-  "E/22/120": [
-    {
-      "title": "MyStay Boarding Platform",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
-      "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
-      "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
-      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
     }
   ],
   "E/22/121": [
@@ -24286,21 +24241,6 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management",
       "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/hydro-risk-management/"
-    }
-  ],
-  "E/22/324": [
-    {
-      "title": "MyStay Boarding Platform",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/MyStay-Boarding-Platform/",
-      "repo_url": "https://github.com/cepdnaclk/e22-co2060-MyStay-Boarding-Platform",
-      "page_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform",
-      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MyStay-Boarding-Platform/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MyStay-Boarding-Platform/"
     }
   ],
   "E/22/330": [
