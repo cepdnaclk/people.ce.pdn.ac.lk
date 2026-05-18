@@ -448,7 +448,7 @@
     }
   },
   "biswajithd@eng.pdn.ac.lk": {
-    "count": 2,
+    "count": 3,
     "projects": {
       "e20": [
         {
@@ -463,6 +463,19 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/A-Hierarchical-Hybrid-Framework-for-Intrusion-Detection-in-Network-and-Application-Layers/"
+        },
+        {
+          "title": "Automated Code Smell Detection and Refactoring with LLMs",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Automated-Code-Smell-Detection-and-Refactoring-with-LLMs/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Automated-Code-Smell-Detection-and-Refactoring-with-LLMs",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Automated-Code-Smell-Detection-and-Refactoring-with-LLMs",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Automated-Code-Smell-Detection-and-Refactoring-with-LLMs/"
         }
       ],
       "e19": [
@@ -519,7 +532,7 @@
     "projects": {}
   },
   "damayanthiherath@eng.pdn.ac.lk": {
-    "count": 25,
+    "count": 26,
     "projects": {
       "e20": [
         {
@@ -534,6 +547,19 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
           "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
+        },
+        {
+          "title": "VLM Guided Phenotyping of KOA",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/VLM-Guided-Phenotyping-of-KOA/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-VLM-Guided-Phenotyping-of-KOA",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-VLM-Guided-Phenotyping-of-KOA",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/VLM-Guided-Phenotyping-of-KOA/"
         },
         {
           "title": "metagenomics",
@@ -1154,17 +1180,17 @@
     "projects": {
       "e20": [
         {
-          "title": "Reducing context switching latency in RTES",
+          "title": "Reducing Context Switching Latency in RTES Using RFP",
           "category": {
             "code": "4yp",
             "title": "Undergraduate Research Projects",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
           },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-context-switching-latency-in-RTES/",
-          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-context-switching-latency-in-RTES",
-          "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-context-switching-latency-in-RTES",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-context-switching-latency-in-RTES/"
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-Context-Switching-Latency-in-RTES-Using-RFP/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP",
+          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP/data/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-Context-Switching-Latency-in-RTES-Using-RFP/"
         }
       ]
     }
@@ -1239,6 +1265,10 @@
       ]
     }
   },
+  "e19008@eng.pdn.ac.lk": {
+    "count": 0,
+    "projects": {}
+  },
   "e19249@eng.pdn.ac.lk": {
     "count": 0,
     "projects": {}
@@ -1276,10 +1306,6 @@
     "projects": {}
   },
   "e21188@eng.pdn.ac.lk": {
-    "count": 0,
-    "projects": {}
-  },
-  "e21245@eng.pdn.ac.lk": {
     "count": 0,
     "projects": {}
   },
@@ -1526,6 +1552,26 @@
       ]
     }
   },
+  "isurid@eng.pdn.ac.lk": {
+    "count": 1,
+    "projects": {
+      "e20": [
+        {
+          "title": "symbolic music generation with xLSTM",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/symbolic-music-generation-with-xLSTM/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-symbolic-music-generation-with-xLSTM",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-symbolic-music-generation-with-xLSTM",
+          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-symbolic-music-generation-with-xLSTM/data/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/symbolic-music-generation-with-xLSTM/"
+        }
+      ]
+    }
+  },
   "isurud@ee.pdn.ac.lk": {
     "count": 2,
     "projects": {
@@ -1561,26 +1607,72 @@
       ]
     }
   },
-  "isurunawinne@ce.pdn.ac.lk": {
-    "count": 0,
-    "projects": {}
-  },
-  "isurunawinne@eng.pdn.ac.lk": {
-    "count": 32,
+  "isurun@eng.pdn.ac.lk": {
+    "count": 1,
     "projects": {
       "e20": [
         {
-          "title": "Reducing context switching latency in RTES",
+          "title": "onchip offline neuromorphic computing",
           "category": {
             "code": "4yp",
             "title": "Undergraduate Research Projects",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
           },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-context-switching-latency-in-RTES/",
-          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-context-switching-latency-in-RTES",
-          "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-context-switching-latency-in-RTES",
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/onchip-offline-neuromorphic-computing/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-onchip-offline-neuromorphic-computing",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-onchip-offline-neuromorphic-computing",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-context-switching-latency-in-RTES/"
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/onchip-offline-neuromorphic-computing/"
+        }
+      ]
+    }
+  },
+  "isurunawinne@ce.pdn.ac.lk": {
+    "count": 0,
+    "projects": {}
+  },
+  "isurunawinne@eng.pdn.ac.lk": {
+    "count": 35,
+    "projects": {
+      "e20": [
+        {
+          "title": "ECG Based MI Detection",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/ECG-Based-MI-Detection/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-ECG-Based-MI-Detection",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-ECG-Based-MI-Detection",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ECG-Based-MI-Detection/"
+        },
+        {
+          "title": "On Chip Online Learning For Neuromorphic Hardware",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
+        },
+        {
+          "title": "Reducing Context Switching Latency in RTES Using RFP",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-Context-Switching-Latency-in-RTES-Using-RFP/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP",
+          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP/data/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-Context-Switching-Latency-in-RTES-Using-RFP/"
         },
         {
           "title": "Synthetic Cardiac MRI Image Generation using Deep Generative Models",
@@ -1592,8 +1684,34 @@
           "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
           "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
           "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/data/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
+        },
+        {
+          "title": "ai atrial fib detection",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/ai-atrial-fib-detection/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-ai-atrial-fib-detection",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-ai-atrial-fib-detection",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ai-atrial-fib-detection/"
+        },
+        {
+          "title": "symbolic music generation with xLSTM",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/symbolic-music-generation-with-xLSTM/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-symbolic-music-generation-with-xLSTM",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-symbolic-music-generation-with-xLSTM",
+          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-symbolic-music-generation-with-xLSTM/data/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/symbolic-music-generation-with-xLSTM/"
         },
         {
           "title": "voice enabled llm agentic construction scheduler",
@@ -1648,19 +1766,6 @@
           "page_url": "https://cepdnaclk.github.io/e19-4YP-Peraswarm-Active-Localization-and-Navigation",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Peraswarm-Active-Localization-and-Navigation/"
-        },
-        {
-          "title": "Quality Assessment of Final Root Canal Treatment Using Intra Oral Periapical Radiographs",
-          "category": {
-            "code": "4yp",
-            "title": "Undergraduate Research Projects",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-          },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs/",
-          "repo_url": "https://github.com/cepdnaclk/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
-          "page_url": "https://cepdnaclk.github.io/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs/"
         },
         {
           "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
@@ -2005,8 +2110,23 @@
     "projects": {}
   },
   "kamalanath@eng.pdn.ac.lk": {
-    "count": 1,
+    "count": 2,
     "projects": {
+      "e20": [
+        {
+          "title": "Neuromorphic Smart Sensor for Autonomous Underwater Vehicles",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Neuromorphic-Smart-Sensor-for-Autonomous-Underwater-Vehicles/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Neuromorphic-Smart-Sensor-for-Autonomous-Underwater-Vehicles",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Neuromorphic-Smart-Sensor-for-Autonomous-Underwater-Vehicles",
+          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Neuromorphic-Smart-Sensor-for-Autonomous-Underwater-Vehicles/data/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Neuromorphic-Smart-Sensor-for-Autonomous-Underwater-Vehicles/"
+        }
+      ],
       "e15": [
         {
           "title": "Adaptive people movement and action prediction using CCTV to control appliances",
@@ -2195,6 +2315,26 @@
           "page_url": "https://cepdnaclk.github.io/e16-4yp-swarm-intelligence-programming-framework",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/swarm-intelligence-programming-framework/"
+        }
+      ]
+    }
+  },
+  "mailtorikaz.abde@gmail.com": {
+    "count": 1,
+    "projects": {
+      "e20": [
+        {
+          "title": "VLM Guided Phenotyping of KOA",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/VLM-Guided-Phenotyping-of-KOA/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-VLM-Guided-Phenotyping-of-KOA",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-VLM-Guided-Phenotyping-of-KOA",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/VLM-Guided-Phenotyping-of-KOA/"
         }
       ]
     }
@@ -2440,9 +2580,22 @@
     }
   },
   "namal@eng.pdn.ac.lk": {
-    "count": 10,
+    "count": 12,
     "projects": {
       "e20": [
+        {
+          "title": "Context Aware Ai Sybil Mitigation WBAN IOMT",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT/"
+        },
         {
           "title": "Explainable AI Driven Zero Trust Anomaly Detection for Encrypted Traffic",
           "category": {
@@ -2520,6 +2673,19 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-backdoor-resilient-federated-nids",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/backdoor-resilient-federated-nids/"
+        },
+        {
+          "title": "wifi 7 backoff security testing and threat prediction",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/wifi-7-backoff-security-testing-and-threat-prediction/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-wifi-7-backoff-security-testing-and-threat-prediction",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-wifi-7-backoff-security-testing-and-threat-prediction",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/wifi-7-backoff-security-testing-and-threat-prediction/"
         }
       ],
       "e18": [
@@ -2596,6 +2762,26 @@
           "page_url": "https://cepdnaclk.github.io/e19-4YP-Peraswarm-Active-Localization-and-Navigation",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Peraswarm-Active-Localization-and-Navigation/"
+        }
+      ]
+    }
+  },
+  "nimishan@css.sab.ac.lk": {
+    "count": 1,
+    "projects": {
+      "e20": [
+        {
+          "title": "Lightweight Deep Learning Models for Detection of Neurological Disorders Using EEG Signals",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals",
+          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals/data/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals/"
         }
       ]
     }
@@ -2862,21 +3048,47 @@
     }
   },
   "roshanr@eng.pdn.ac.lk": {
-    "count": 58,
+    "count": 60,
     "projects": {
       "e20": [
         {
-          "title": "Reducing context switching latency in RTES",
+          "title": "Lightweight Deep Learning Models for Detection of Neurological Disorders Using EEG Signals",
           "category": {
             "code": "4yp",
             "title": "Undergraduate Research Projects",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
           },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-context-switching-latency-in-RTES/",
-          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-context-switching-latency-in-RTES",
-          "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-context-switching-latency-in-RTES",
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals",
+          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals/data/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Lightweight-Deep-Learning-Models-for-Detection-of-Neurological-Disorders-Using-EEG-Signals/"
+        },
+        {
+          "title": "On Chip Online Learning For Neuromorphic Hardware",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-context-switching-latency-in-RTES/"
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
+        },
+        {
+          "title": "Reducing Context Switching Latency in RTES Using RFP",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Reducing-Context-Switching-Latency-in-RTES-Using-RFP/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP",
+          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Reducing-Context-Switching-Latency-in-RTES-Using-RFP/data/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Reducing-Context-Switching-Latency-in-RTES-Using-RFP/"
         },
         {
           "title": "Synthetic Cardiac MRI Image Generation using Deep Generative Models",
@@ -2888,21 +3100,34 @@
           "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
           "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
           "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/data/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
         },
         {
-          "title": "ai driven automated feedback and tutoring system for higher education",
+          "title": "ai atrial fib detection",
           "category": {
             "code": "4yp",
             "title": "Undergraduate Research Projects",
             "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
           },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/",
-          "repo_url": "https://github.com/cepdnaclk/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
-          "page_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
-          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education/data/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/"
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/ai-atrial-fib-detection/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-ai-atrial-fib-detection",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-ai-atrial-fib-detection",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ai-atrial-fib-detection/"
+        },
+        {
+          "title": "onchip offline neuromorphic computing",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/onchip-offline-neuromorphic-computing/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-onchip-offline-neuromorphic-computing",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-onchip-offline-neuromorphic-computing",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/onchip-offline-neuromorphic-computing/"
         }
       ],
       "e19": [
@@ -3022,19 +3247,6 @@
           "page_url": "https://cepdnaclk.github.io/e19-4yp-Putting-Privacy-into-Practice",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Putting-Privacy-into-Practice/"
-        },
-        {
-          "title": "Quality Assessment of Final Root Canal Treatment Using Intra Oral Periapical Radiographs",
-          "category": {
-            "code": "4yp",
-            "title": "Undergraduate Research Projects",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-          },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs/",
-          "repo_url": "https://github.com/cepdnaclk/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
-          "page_url": "https://cepdnaclk.github.io/e19-4yp-Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Quality-Assessment-of-Final-Root-Canal-Treatment-Using-Intra-Oral-Periapical-Radiographs/"
         },
         {
           "title": "RISC V Based ASIP for Accelerating DNA Sequence Alignment on Embedded Systems",
@@ -3692,26 +3904,6 @@
       ]
     }
   },
-  "sakuyatigammana@arts.pdn.ac.lk": {
-    "count": 1,
-    "projects": {
-      "e20": [
-        {
-          "title": "ai driven automated feedback and tutoring system for higher education",
-          "category": {
-            "code": "4yp",
-            "title": "Undergraduate Research Projects",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-          },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/",
-          "repo_url": "https://github.com/cepdnaclk/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
-          "page_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education",
-          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-ai-driven-automated-feedback-and-tutoring-system-for-higher-education/data/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/ai-driven-automated-feedback-and-tutoring-system-for-higher-education/"
-        }
-      ]
-    }
-  },
   "salman.khan@mbzuai.ac.ae": {
     "count": 1,
     "projects": {
@@ -3777,9 +3969,22 @@
     "projects": {}
   },
   "sampath@eng.pdn.ac.lk": {
-    "count": 6,
+    "count": 7,
     "projects": {
       "e20": [
+        {
+          "title": "Impact of Hybrid Structured Random Projections on GNN Performance",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Impact-of-Hybrid-Structured-Random-Projections-on-GNN-Performance/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Impact-of-Hybrid-Structured-Random-Projections-on-GNN-Performance",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Impact-of-Hybrid-Structured-Random-Projections-on-GNN-Performance",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Impact-of-Hybrid-Structured-Random-Projections-on-GNN-Performance/"
+        },
         {
           "title": "SinhSafe",
           "category": {
@@ -3930,26 +4135,6 @@
     "count": 0,
     "projects": {}
   },
-  "suneth@eng.pdn.ac.lk": {
-    "count": 1,
-    "projects": {
-      "e20": [
-        {
-          "title": "Context Aware Ai Sybil Mitigation WBAN IOMT",
-          "category": {
-            "code": "4yp",
-            "title": "Undergraduate Research Projects",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-          },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT/",
-          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT",
-          "page_url": "https://cepdnaclk.github.io/e20-4yp-Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Context-Aware-Ai-Sybil-Mitigation-WBAN-IOMT/"
-        }
-      ]
-    }
-  },
   "sunethn@pdn.ac.lk": {
     "count": 1,
     "projects": {
@@ -3969,6 +4154,10 @@
         }
       ]
     }
+  },
+  "supervisor@eng.pdn.ac.lk": {
+    "count": 0,
+    "projects": {}
   },
   "supunj@eng.pdn.ac.lk": {
     "count": 2,
@@ -4135,8 +4324,24 @@
     }
   },
   "thilinag@eng.pdn.ac.lk": {
-    "count": 0,
-    "projects": {}
+    "count": 1,
+    "projects": {
+      "e20": [
+        {
+          "title": "Automated Code Smell Detection and Refactoring with LLMs",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Automated-Code-Smell-Detection-and-Refactoring-with-LLMs/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Automated-Code-Smell-Detection-and-Refactoring-with-LLMs",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Automated-Code-Smell-Detection-and-Refactoring-with-LLMs",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Automated-Code-Smell-Detection-and-Refactoring-with-LLMs/"
+        }
+      ]
+    }
   },
   "thusharab@eng.pdn.ac.lk": {
     "count": 0,
@@ -4216,7 +4421,7 @@
     }
   },
   "upuljm@eng.pdn.ac.lk": {
-    "count": 19,
+    "count": 21,
     "projects": {
       "e20": [
         {
@@ -4272,6 +4477,19 @@
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Generative-Digital-Twin-Framework-for-Airport-Surveillance-Networks/"
         },
         {
+          "title": "Multi Agent LLM Framework for Automated Feedback in VR Nursing Training",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training/"
+        },
+        {
           "title": "Optimizing Communication Efficiency and Latency in Blockchain Enabled FL Systems",
           "category": {
             "code": "4yp",
@@ -4322,6 +4540,19 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-voice-enabled-llm-agentic-construction-scheduler",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/voice-enabled-llm-agentic-construction-scheduler/"
+        },
+        {
+          "title": "wifi 7 backoff security testing and threat prediction",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/wifi-7-backoff-security-testing-and-threat-prediction/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-wifi-7-backoff-security-testing-and-threat-prediction",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-wifi-7-backoff-security-testing-and-threat-prediction",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/wifi-7-backoff-security-testing-and-threat-prediction/"
         }
       ],
       "e19": [
@@ -4513,7 +4744,7 @@
           "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/",
           "repo_url": "https://github.com/cepdnaclk/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
           "page_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/data/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Synthetic-Cardiac-MRI-Image-Generation-using-Deep-Generative-Models/"
         }
       ],
@@ -4618,7 +4849,7 @@
     }
   },
   "yasodhav@eng.pdn.ac.lk": {
-    "count": 5,
+    "count": 7,
     "projects": {
       "e20": [
         {
@@ -4633,6 +4864,32 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II",
           "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-AI-legal-chain-resolver-II/data/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-legal-chain-resolver-II/"
+        },
+        {
+          "title": "Multi Agent LLM Framework for Automated Feedback in VR Nursing Training",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Multi-Agent-LLM-Framework-for-Automated-Feedback-in-VR-Nursing-Training/"
+        },
+        {
+          "title": "VLM Guided Phenotyping of KOA",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/VLM-Guided-Phenotyping-of-KOA/",
+          "repo_url": "https://github.com/cepdnaclk/e20-4yp-VLM-Guided-Phenotyping-of-KOA",
+          "page_url": "https://cepdnaclk.github.io/e20-4yp-VLM-Guided-Phenotyping-of-KOA",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/VLM-Guided-Phenotyping-of-KOA/"
         }
       ],
       "e19": [
