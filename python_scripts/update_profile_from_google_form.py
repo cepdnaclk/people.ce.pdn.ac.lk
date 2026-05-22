@@ -100,7 +100,7 @@ if __name__ == "__main__":
 
         existingContentAfterFrontMatter = ""
         if exists(file_url):
-            # TODO: Read the content after the frontmatter, and keep it to avoid overwridden by Google Form data
+            # TODO: Read the content after the frontmatter, and keep it to avoid overridden by Google Form data
             with open(file_url) as existingFile:
                 threeDashCount = 0
                 for eachLine in existingFile:
@@ -140,14 +140,15 @@ if __name__ == "__main__":
                 continue
 
         # image
-        image_path = f"images/students/e{batch}/e{batch}{regNo}.jpg"
+        image_base = f"images/students/e{batch}/e{batch}{regNo}"
+        image_path = f"{image_base}.jpg"  # default, updated after detecting actual format
 
         # Create folder if not exists
         os.makedirs(os.path.dirname("../" + image_path), exist_ok=True)
 
         isImageDownloaded = False  # used to create the json file for alumni
         if studentData[URL_IMAGE] != "" and len(studentData[URL_IMAGE]) > 1:
-            print(f"Downloading image to {image_path}")
+            print(f"Downloading image for {studentData[REG_NO]}")
             # print(len(studentData[URL_IMAGE]))
             try:
                 tempImageName = "image.temp"
@@ -158,6 +159,10 @@ if __name__ == "__main__":
                     quiet=True,
                 )
                 image = Image.open(tempImageName)
+                format_to_ext = {"JPEG": "jpg", "PNG": "png", "GIF": "gif", "WEBP": "webp", "BMP": "bmp"}
+                ext = format_to_ext.get(image.format, "jpg")
+                image_path = f"{image_base}.{ext}"
+                print(f"Saving image as {image_path} (format: {image.format})")
                 image.save("../" + image_path)
                 isImageDownloaded = True
                 os.system("rm '" + tempImageName + "'")
