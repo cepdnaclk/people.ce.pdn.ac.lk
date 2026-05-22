@@ -14,9 +14,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
-        with:
-          ref: main
-          fetch-depth: 0
 
       - name: Set up Node.js
         uses: actions/setup-node@v5
@@ -56,10 +53,11 @@ jobs:
         run: |
           python3 update_postgrad_from_google_form.py
 
-      - name: Resize student images
-        working-directory: ./python_scripts
-        run: |
-          python3 resize_student_images.py
+      # This step is temporary disabled as it identified this logic is corrupting some correct images
+      # - name: Resize student images
+      #   working-directory: ./python_scripts
+      #   run: |
+      #     python3 resize_student_images.py
 
       - name: Update Student Project Details
         working-directory: ./python_scripts

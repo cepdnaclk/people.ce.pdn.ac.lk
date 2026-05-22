@@ -56,7 +56,7 @@ if __name__ == "__main__":
             # if there is no timestamp in this line or this is the header line
             continue
 
-        # calcualte a number from the time the form is filled
+        # calculate a number from the time the form is filled
         # based on the time elapsed from the start of time (1970 something)
         parsedDateTimeObject = datetime.datetime.strptime(
             studentData[FORM_FILLED_DATE], "%m/%d/%Y %H:%M:%S"
@@ -69,7 +69,7 @@ if __name__ == "__main__":
             "Processing: " + studentData[REG_NO] + " " + studentData[NAME_WITH_INITIALS]
         )
 
-        print(json.dumps(studentData, indent=2))
+        # print(json.dumps(studentData, indent=2))
 
         nameConverted = (
             studentData[NAME_WITH_INITIALS].replace(" ", "").replace(".", "")

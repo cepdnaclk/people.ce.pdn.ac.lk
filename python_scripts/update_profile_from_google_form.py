@@ -2,19 +2,20 @@
 # Form URL - https://forms.gle/Q4LfzATdAF8AXTCA8 Owned by: nuwanjaliyagoda@eng.pdn.ac.lk
 # This uses the latest unified google form
 
-# Author: E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
+# Authors:
+# E/18/098 Ishan Fernando - e18098@eng.pdn.ac.lk
+# E/15/140 Nuwan Jaliyagoda - nuwanjaliyagoda@eng.pdn.ac.lk
 
-
-import json  # to edit _data/exx.json
+import json
 import os
-import subprocess  # to run git commands
+import subprocess
 from datetime import datetime
 from os.path import exists
 
-import gdown  # pip install gdown
+import gdown
 import requests
 import student_profile_page_titles
-from PIL import Image  # pip install pillow
+from PIL import Image
 from pytz import timezone
 
 # run export GOOGLE_FORM_CSV_LINK="url" to set environment variables
@@ -65,29 +66,38 @@ if __name__ == "__main__":
             continue
 
         # If timestamp is older than 10 days, skip the record
-        # if (datetime.now(timezone('Asia/Colombo')) - datetime.strptime(studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z")).days > 10:
-        #     continue
+        if (
+            datetime.now(timezone("Asia/Colombo"))
+            - datetime.strptime(
+                studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z"
+            )
+        ).days > 2:
+            continue
 
-        # print(studentData)
         print("Processing: " + studentData[REG_NO] + " " + studentData[FULL_NAME])
-        # get batch and regNo
-        batch = studentData[REG_NO].split("/")[1].lower()  # 18 or 02A
-        regNo = studentData[REG_NO].split("/")[2]  # 098
+
+        # Get batch and regNo
+        batch = studentData[REG_NO].split("/")[1].lower()  # Ex: 18 or 02A
+        regNo = studentData[REG_NO].split("/")[2]  # Ex: 098
 
         permalink = f"/students/e{batch}/{regNo}"
 
-        # set department and curent affiliation if student
+        # set department and current affiliation if student
         if studentData[STUDENT_OR_ALUMNI] == "An past student / alumni":
             department = "Computer Engineering"
+
         elif studentData[DEPARTMENT] == "Department of Computer Engineering":
-            # if student, google form doesnt take current affiliation
+            # if student, google form doesn't take current affiliation
             studentData[CURRENT_AFFILIATION] = "Department of Computer Engineering"
             department = "Computer Engineering"
+
         elif studentData[DEPARTMENT] == "Department of Mechanical Engineering":
-            # if student, google form doesnt take current affiliation
-            print("This is a mechanical engineering student")
+            # if student, google form doesn't take current affiliation
             studentData[CURRENT_AFFILIATION] = "Department of Mechanical Engineering"
             department = "Mechanical Engineering"
+        else:
+            # Default option
+            department = "Computer Engineering"
 
         # interests
         interests = ",".join(studentData[INTERESTS].split(";"))
@@ -98,55 +108,56 @@ if __name__ == "__main__":
         # check if the file was updated using pull requests after the form was filed
         file_url = "../" + f"pages/students/e{batch}/e{batch}{regNo}.html"
 
-        existingContentAfterFrontMatter = ""
+        existing_content_after_frontmatter = ""
+
         if exists(file_url):
             # TODO: Read the content after the frontmatter, and keep it to avoid overridden by Google Form data
-            with open(file_url) as existingFile:
-                threeDashCount = 0
+            with open(file_url, encoding="utf-8") as existingFile:
+                three_dash_count = 0
                 for eachLine in existingFile:
-                    if threeDashCount != 2:
+                    if three_dash_count != 2:
                         if eachLine == "---\n":
-                            threeDashCount += 1
+                            three_dash_count += 1
                     else:
-                        existingContentAfterFrontMatter += eachLine
-                if threeDashCount == 2:
-                    print(
-                        "Existing custom HTML found: " + existingContentAfterFrontMatter
-                    )
+                        existing_content_after_frontmatter += eachLine
 
-            # get last modified time from git log
-            fileLastEditedDateSTR = str(
+            # Get last modified time from git log
+            file_last_edited_date_str = str(
                 subprocess.run(
                     ["git", "log", "-1", '--pretty="format:%ci"', file_url],
                     stdout=subprocess.PIPE,
                 ).stdout
             )
-            firstIndex = fileLastEditedDateSTR.find(":") + 1
-            lastIndex = fileLastEditedDateSTR.find('"', firstIndex)
-            fileLastEditedDateSTR = fileLastEditedDateSTR[firstIndex:lastIndex]
-            fileLastEditedDate = datetime.strptime(
-                fileLastEditedDateSTR, "%Y-%m-%d %H:%M:%S %z"
+            first_index = file_last_edited_date_str.find(":") + 1
+            last_index = file_last_edited_date_str.find('"', first_index)
+            file_last_edited_date_str = file_last_edited_date_str[
+                first_index:last_index
+            ]
+            file_last_edited_date = datetime.strptime(
+                file_last_edited_date_str, "%Y-%m-%d %H:%M:%S %z"
             )
-            googleFormFilledDate = datetime.strptime(
+            google_form_filled_date = datetime.strptime(
                 studentData[TIMESTAMP] + " +05:30", "%m/%d/%Y %H:%M:%S %z"
             )
             print(
-                f"fileLastEditedDate: {fileLastEditedDate}, googleFormFilledDate: {googleFormFilledDate}, Difference: {(fileLastEditedDate - googleFormFilledDate).total_seconds()}"
+                f"file_last_edited_date: {file_last_edited_date}, google_form_filled_date: {google_form_filled_date}, Difference: {(file_last_edited_date - google_form_filled_date).total_seconds()}"
             )
 
-            if (fileLastEditedDate - googleFormFilledDate).total_seconds() > 0:
-                print("File was updated after the google form was filled. Skipping...")
-                print("-------------")
-                continue
+            # if (file_last_edited_date - google_form_filled_date).total_seconds() > 0:
+            #     print("File was updated after the google form was filled. Skipping...")
+            #     print("-------------")
+            #     continue
 
         # image
         image_base = f"images/students/e{batch}/e{batch}{regNo}"
-        image_path = f"{image_base}.jpg"  # default, updated after detecting actual format
+
+        # default, updated after detecting actual format
+        image_path = f"{image_base}.jpg"
 
         # Create folder if not exists
         os.makedirs(os.path.dirname("../" + image_path), exist_ok=True)
 
-        isImageDownloaded = False  # used to create the json file for alumni
+        is_image_downloaded = False  # used to create the json file for alumni
         if studentData[URL_IMAGE] != "" and len(studentData[URL_IMAGE]) > 1:
             print(f"Downloading image for {studentData[REG_NO]}")
             # print(len(studentData[URL_IMAGE]))
@@ -159,12 +170,18 @@ if __name__ == "__main__":
                     quiet=True,
                 )
                 image = Image.open(tempImageName)
-                format_to_ext = {"JPEG": "jpg", "PNG": "png", "GIF": "gif", "WEBP": "webp", "BMP": "bmp"}
+                format_to_ext = {
+                    "JPEG": "jpg",
+                    "PNG": "png",
+                    "GIF": "gif",
+                    "WEBP": "webp",
+                    "BMP": "bmp",
+                }
                 ext = format_to_ext.get(image.format, "jpg")
                 image_path = f"{image_base}.{ext}"
                 print(f"Saving image as {image_path} (format: {image.format})")
                 image.save("../" + image_path)
-                isImageDownloaded = True
+                is_image_downloaded = True
                 os.system("rm '" + tempImageName + "'")
 
                 # alternative to gdown
@@ -219,22 +236,22 @@ image_url: {image_path}
 """
 
         os.makedirs(os.path.dirname(file_url), exist_ok=True)
-        htmlFile = open(file_url, "w")
-        htmlFile.write(outputString + existingContentAfterFrontMatter)
-        htmlFile.close()
+        with open(file_url, "w", encoding="utf-8") as htmlFile:
+            htmlFile.write(outputString + existing_content_after_frontmatter)
 
         # update json if below E14
         if (int(batch[0:2]) < 14) or int(batch[0:2]) == 99 or int(batch[0:2]) == 98:
             print("Updating JSON in _data folder")
 
             # select student from json file
-            jsonPath = f"../_data/stud/e{batch.lower()}.json"
-            dataInJSON = json.load(open(jsonPath))
+            json_path = f"../_data/stud/e{batch.lower()}.json"
+            with open(json_path, encoding="utf-8") as f:
+                dataInJSON = json.load(f)
             try:
                 thisStudent = dataInJSON[studentData[REG_NO].upper()]
             except KeyError as e:
                 print(
-                    "Student doesnt exist in the json files. Creating new entry",
+                    "Student doesn't exist in the json files. Creating new entry",
                     "*" * 20,
                 )
                 dataInJSON[studentData[REG_NO].upper()] = {}
@@ -247,12 +264,12 @@ image_url: {image_path}
             # change data
             thisStudent["page_url"] = f"/students/e{batch.lower()}/{regNo}/"
             thisStudent["name_with_initials"] = f"{studentData[NAME_WITH_INITIALS]}"
-            if isImageDownloaded:
+            if is_image_downloaded:
                 thisStudent["image_url"] = image_path
 
             # write data back into json file
-            jsonFile = open(jsonPath, "w")
-            jsonFile.write(json.dumps(dataInJSON, indent=2))
+            with open(json_path, "w", encoding="utf-8") as jsonFile:
+                jsonFile.write(json.dumps(dataInJSON, indent=2))
 
         print("-------------")
 
