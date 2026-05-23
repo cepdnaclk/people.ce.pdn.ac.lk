@@ -532,7 +532,7 @@
     "projects": {}
   },
   "damayanthiherath@eng.pdn.ac.lk": {
-    "count": 25,
+    "count": 26,
     "projects": {
       "e20": [
         {
@@ -614,6 +614,19 @@
           "page_url": "https://cepdnaclk.github.io/e19-4yp-Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Integrating-Neuro-Symbolic-AI-for-Pneumonia-Diagnosis-from-Chest-X-trays/"
+        },
+        {
+          "title": "Legal Chain Resolver With Mixture of Experts and Multi Agent System for Legal Assistance",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance/",
+          "repo_url": "https://github.com/cepdnaclk/e19-4yp-Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance",
+          "page_url": "https://cepdnaclk.github.io/e19-4yp-Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance/"
         },
         {
           "title": "Solve Issues In Large Code Repositories",
@@ -1439,6 +1452,26 @@
     "count": 0,
     "projects": {}
   },
+  "haris.javaid@amd.com": {
+    "count": 1,
+    "projects": {
+      "e16": [
+        {
+          "title": "Hardware Cache Switching with Operating System Context Switches",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/",
+          "repo_url": "https://github.com/cepdnaclk/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+          "page_url": "https://cepdnaclk.github.io/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
+        }
+      ]
+    }
+  },
   "hasindu2008@gmail.com": {
     "count": 1,
     "projects": {
@@ -1599,7 +1632,7 @@
     "projects": {}
   },
   "isurunawinne@eng.pdn.ac.lk": {
-    "count": 34,
+    "count": 35,
     "projects": {
       "e20": [
         {
@@ -1923,6 +1956,19 @@
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/"
         },
         {
+          "title": "Hardware Cache Switching with Operating System Context Switches",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/",
+          "repo_url": "https://github.com/cepdnaclk/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+          "page_url": "https://cepdnaclk.github.io/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
+        },
+        {
           "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
           "category": {
             "code": "4yp",
@@ -2135,7 +2181,7 @@
     "projects": {}
   },
   "mahanamaw@eng.pdn.ac.lk": {
-    "count": 9,
+    "count": 10,
     "projects": {
       "e17": [
         {
@@ -2217,6 +2263,19 @@
           "page_url": "https://cepdnaclk.github.io/e16-4yp-Enhancing-Video-Game-Experience-With-Brain-Computer-Interface",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/"
+        },
+        {
+          "title": "Hardware Cache Switching with Operating System Context Switches",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/",
+          "repo_url": "https://github.com/cepdnaclk/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+          "page_url": "https://cepdnaclk.github.io/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
         },
         {
           "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
@@ -2989,7 +3048,7 @@
     }
   },
   "roshanr@eng.pdn.ac.lk": {
-    "count": 59,
+    "count": 60,
     "projects": {
       "e20": [
         {
@@ -3573,6 +3632,19 @@
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Enhancing-Video-Game-Experience-With-Brain-Computer-Interface/"
         },
         {
+          "title": "Hardware Cache Switching with Operating System Context Switches",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/",
+          "repo_url": "https://github.com/cepdnaclk/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+          "page_url": "https://cepdnaclk.github.io/e16-4yp-Hardware-Cache-Switching-with-Operating-System-Context-Switches",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E16/Hardware-Cache-Switching-with-Operating-System-Context-Switches/"
+        },
+        {
           "title": "Human Animal Emotion Detection Using ECG and ML Techniques",
           "category": {
             "code": "4yp",
@@ -4088,7 +4160,7 @@
     "projects": {}
   },
   "supunj@eng.pdn.ac.lk": {
-    "count": 1,
+    "count": 2,
     "projects": {
       "e20": [
         {
@@ -4103,6 +4175,21 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams-/"
+        }
+      ],
+      "e19": [
+        {
+          "title": "Detection of Biological Chemical Degradation on Concrete Structures Using Computer Vision",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision/",
+          "repo_url": "https://github.com/cepdnaclk/e19-4yp-Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision",
+          "page_url": "https://cepdnaclk.github.io/e19-4yp-Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision/"
         }
       ]
     }
@@ -4742,11 +4829,27 @@
     }
   },
   "yashodhav@eng.pdn.ac.lk": {
-    "count": 0,
-    "projects": {}
+    "count": 1,
+    "projects": {
+      "e19": [
+        {
+          "title": "Legal Chain Resolver With Mixture of Experts and Multi Agent System for Legal Assistance",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance/",
+          "repo_url": "https://github.com/cepdnaclk/e19-4yp-Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance",
+          "page_url": "https://cepdnaclk.github.io/e19-4yp-Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Legal-Chain-Resolver-With-Mixture-of-Experts-and-Multi-Agent-System-for-Legal-Assistance/"
+        }
+      ]
+    }
   },
   "yasodhav@eng.pdn.ac.lk": {
-    "count": 6,
+    "count": 7,
     "projects": {
       "e20": [
         {
@@ -4790,6 +4893,19 @@
         }
       ],
       "e19": [
+        {
+          "title": "Detection of Biological Chemical Degradation on Concrete Structures Using Computer Vision",
+          "category": {
+            "code": "4yp",
+            "title": "Undergraduate Research Projects",
+            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+          },
+          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e19/Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision/",
+          "repo_url": "https://github.com/cepdnaclk/e19-4yp-Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision",
+          "page_url": "https://cepdnaclk.github.io/e19-4yp-Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision",
+          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Detection-of-Biological-Chemical-Degradation-on-Concrete-Structures-Using-Computer-Vision/"
+        },
         {
           "title": "NursingVR WoundCareAI",
           "category": {
