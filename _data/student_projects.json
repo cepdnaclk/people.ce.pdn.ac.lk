@@ -18788,6 +18788,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Canteen-Management-System/"
     },
     {
+      "title": "Self Supervised Learning for CNN Transformer Hybrids under Parameter and Label Constraints",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/Self-Supervised-Learning-for-CNN-Transformer-Hybrids-under-Parameter-and-Label-Constraints/",
+      "repo_url": "https://github.com/cepdnaclk/e20-4yp-Self-Supervised-Learning-for-CNN-Transformer-Hybrids-under-Parameter-and-Label-Constraints",
+      "page_url": "https://cepdnaclk.github.io/e20-4yp-Self-Supervised-Learning-for-CNN-Transformer-Hybrids-under-Parameter-and-Label-Constraints",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Self-Supervised-Learning-for-CNN-Transformer-Hybrids-under-Parameter-and-Label-Constraints/"
+    },
+    {
       "title": "MQTT Data Anomaly Detection",
       "category": {
         "code": "co326",
