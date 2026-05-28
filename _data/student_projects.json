@@ -2761,19 +2761,6 @@
   ],
   "E/16/055": [
     {
-      "title": "smart vending machine",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-vending-machine/",
-      "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-vending-machine",
-      "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-vending-machine",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-vending-machine/"
-    },
-    {
       "title": "Enhancement of Efficiency of Vehicular Communication using SDN",
       "category": {
         "code": "4yp",
@@ -3209,19 +3196,6 @@
   ],
   "E/16/115": [
     {
-      "title": "smart vending machine",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-vending-machine/",
-      "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-vending-machine",
-      "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-vending-machine",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-vending-machine/"
-    },
-    {
       "title": "Enhancement of Efficiency of Vehicular Communication using SDN",
       "category": {
         "code": "4yp",
@@ -3363,19 +3337,6 @@
     }
   ],
   "E/16/172": [
-    {
-      "title": "smart vending machine",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e16/smart-vending-machine/",
-      "repo_url": "https://github.com/cepdnaclk/e16-3yp-smart-vending-machine",
-      "page_url": "https://cepdnaclk.github.io/e16-3yp-smart-vending-machine",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E16/smart-vending-machine/"
-    },
     {
       "title": "Enhancement of Efficiency of Vehicular Communication using SDN",
       "category": {
@@ -21795,7 +21756,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PetGuard-Pro/",
       "repo_url": "https://github.com/cepdnaclk/e21-3yp-PetGuard-Pro",
       "page_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PetGuard-Pro/"
     },
     {
@@ -21950,7 +21911,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PetGuard-Pro/",
       "repo_url": "https://github.com/cepdnaclk/e21-3yp-PetGuard-Pro",
       "page_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PetGuard-Pro/"
     },
     {
@@ -22895,7 +22856,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PetGuard-Pro/",
       "repo_url": "https://github.com/cepdnaclk/e21-3yp-PetGuard-Pro",
       "page_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PetGuard-Pro/"
     },
     {
@@ -23319,7 +23280,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/PetGuard-Pro/",
       "repo_url": "https://github.com/cepdnaclk/e21-3yp-PetGuard-Pro",
       "page_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-PetGuard-Pro/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/PetGuard-Pro/"
     },
     {
