@@ -21429,19 +21429,6 @@
   ],
   "E/21/024": [
     {
-      "title": "AURA",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
-      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
-    },
-    {
       "title": "Heat_map",
       "category": {
         "code": "co227",
@@ -21813,19 +21800,6 @@
     }
   ],
   "E/21/113": [
-    {
-      "title": "AURA",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
-      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
-    },
     {
       "title": "SmartCityHeatMapGroup22",
       "category": {
@@ -22489,19 +22463,6 @@
     }
   ],
   "E/21/245": [
-    {
-      "title": "AURA",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
-      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
-    },
     {
       "title": "Online doctor appointment website 2yp",
       "category": {
@@ -23182,19 +23143,6 @@
     }
   ],
   "E/21/407": [
-    {
-      "title": "AURA",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/AURA/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-AURA",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-AURA",
-      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-AURA/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/AURA/"
-    },
     {
       "title": "SmartCityHeatMapGroup22",
       "category": {
