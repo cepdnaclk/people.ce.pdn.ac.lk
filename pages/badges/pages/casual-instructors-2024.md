@@ -329,7 +329,7 @@ students:
     profile_image: https://people.ce.pdn.ac.lk/images/students/e20/e20447.jpg
     link: "#"
   - eNumber: E/20/259
-    name: Munasinghe S.L.
+    name: S.L. Munasinghe
     position: GP106
     profile_url: /students/e20/259/
     profile_image: https://people.ce.pdn.ac.lk/images/students/e20/e20259.jpg
