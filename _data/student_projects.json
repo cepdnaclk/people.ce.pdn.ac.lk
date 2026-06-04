@@ -11454,6 +11454,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
     },
     {
+      "title": "Department Space Management System Web Application",
+      "category": {
+        "code": "co225",
+        "title": "Software Constructions Projects (CO225)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Department-Space-Management-System-Web-Application/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co225-Department-Space-Management-System-Web-Application",
+      "page_url": "https://cepdnaclk.github.io/e19-co225-Department-Space-Management-System-Web-Application",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Department-Space-Management-System-Web-Application/"
+    },
+    {
       "title": "cricket analytics and prediction",
       "category": {
         "code": "co544",
@@ -12066,6 +12079,19 @@
       "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Cricket-Statistics",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Cricket-Statistics/"
+    },
+    {
+      "title": "Department Space Management System Web Application",
+      "category": {
+        "code": "co225",
+        "title": "Software Constructions Projects (CO225)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Department-Space-Management-System-Web-Application/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co225-Department-Space-Management-System-Web-Application",
+      "page_url": "https://cepdnaclk.github.io/e19-co225-Department-Space-Management-System-Web-Application",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Department-Space-Management-System-Web-Application/"
     },
     {
       "title": "RV32IM Pipeline Implementation Group1",
@@ -14817,6 +14843,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Cricket-Statistics/"
     },
     {
+      "title": "Department Space Management System Web Application",
+      "category": {
+        "code": "co225",
+        "title": "Software Constructions Projects (CO225)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Department-Space-Management-System-Web-Application/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co225-Department-Space-Management-System-Web-Application",
+      "page_url": "https://cepdnaclk.github.io/e19-co225-Department-Space-Management-System-Web-Application",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Department-Space-Management-System-Web-Application/"
+    },
+    {
       "title": "cricket analytics and prediction",
       "category": {
         "code": "co544",
@@ -15033,6 +15072,19 @@
       "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Cricket-Statistics",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Cricket-Statistics/"
+    },
+    {
+      "title": "Department Space Management System Web Application",
+      "category": {
+        "code": "co225",
+        "title": "Software Constructions Projects (CO225)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co225/e19/Department-Space-Management-System-Web-Application/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co225-Department-Space-Management-System-Web-Application",
+      "page_url": "https://cepdnaclk.github.io/e19-co225-Department-Space-Management-System-Web-Application",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co225/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co225/E19/Department-Space-Management-System-Web-Application/"
     }
   ],
   "E/19/409": [
