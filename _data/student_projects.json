@@ -21608,19 +21608,6 @@
   ],
   "E/21/049": [
     {
-      "title": "SPECTRA LEAF",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
-    },
-    {
       "title": "Heat_map",
       "category": {
         "code": "co227",
@@ -21691,19 +21678,6 @@
     }
   ],
   "E/21/054": [
-    {
-      "title": "SPECTRA LEAF",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
-    },
     {
       "title": "PeraVerse Kiosk System",
       "category": {
@@ -22331,19 +22305,6 @@
   ],
   "E/21/200": [
     {
-      "title": "SPECTRA LEAF",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
-    },
-    {
       "title": "PeraVerse Heatmap Predictive Analysis",
       "category": {
         "code": "co227",
@@ -22470,19 +22431,6 @@
     }
   ],
   "E/21/226": [
-    {
-      "title": "SPECTRA LEAF",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
-    },
     {
       "title": "PeraVerse Event Details Page",
       "category": {
