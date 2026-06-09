@@ -336,7 +336,7 @@
       "email": "akilapr@eng.pdn.ac.lk",
       "linkedin": "https://www.linkedin.com/in/akila-premathilake/",
       "joined_date": "2025-05-02",
-      "left_date": "2026-05-01"
+      "left_date": "2026-11-01"
     },
     {
       "staff_name": "Umesha Tilakarathna",
@@ -363,7 +363,7 @@
       "email": "e19008@eng.pdn.ac.lk",
       "linkedin": "https://www.linkedin.com/in/janith-chandula-adhikari-5543a5223",
       "joined_date": "2025-08-18",
-      "left_date": "2026-08-17"
+      "left_date": "2026-06-01"
     },
     {
       "staff_name": "Sandeep Dassanayake",
@@ -436,6 +436,15 @@
       "linkedin": "https://www.linkedin.com/in/arulhari/",
       "joined_date": "2026-02-09",
       "left_date": "2027-02-08"
+    },
+    {
+      "staff_name": "Chamanga Ekanayake",
+      "text_below_name": "Temporary Instructor",
+      "url_image": "/images/staff/temporary-academic-staff/chamanga-ekanayake.jpeg",
+      "email": "e19096@eng.pdn.ac.lk",
+      "linkedin": "https://www.linkedin.com/in/chamanga-ekanayake/",
+      "joined_date": "2026-06-01",
+      "left_date": "2027-05-30"
     }
   ]
 }
