@@ -1,0 +1,145 @@
+{
+  "title": "ACES Committee 2027",
+  "tag": "aces-2027",
+  "description": "Office bearers of the Association of Computer Engineering Students (ACES) for the term 2027",
+  "image": "images/badges/aces.png",
+  "show_in_profile": "false",
+  "criteria": "",
+  "students": [
+    {
+      "eNumber": "E/21/226",
+      "name": "Nadeera Kothalawala",
+      "position": "President"
+    },
+    {
+      "eNumber": "E/21/141",
+      "name": "Dinira Francisco",
+      "position": "Vice President"
+    },
+    {
+      "eNumber": "E/22/184",
+      "name": "Bhagya Karunarathne",
+      "position": "Secretary"
+    },
+    {
+      "eNumber": "E/23/300",
+      "name": "Ravindu Ranathunga",
+      "position": "Assistant Secretary"
+    },
+    {
+      "eNumber": "E/22/396",
+      "name": "Pahan Prabash",
+      "position": "Junior Treasurer"
+    },
+    {
+      "eNumber": "E/21/019",
+      "name": "Hirushi Adikari",
+      "position": "Editor"
+    },
+    {
+      "eNumber": "E/22/291",
+      "name": "Rameesha Prathapasinghe",
+      "position": "Junior Editor"
+    },
+    {
+      "eNumber": "E/21/254",
+      "name": "Nandun Manilgama",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/21/415",
+      "name": "Chamika Uduwaka",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/21/049",
+      "name": "Lahiru Bandara",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/21/362",
+      "name": "Shashika Sathsarani",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/21/386",
+      "name": "Sivasuthan J.",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/22/054",
+      "name": "Danuja Nirodhana",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/22/159",
+      "name": "Moksitha Jayanga",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/22/303",
+      "name": "Malindu Rajapaksha",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/22/228",
+      "name": "Sithumini Manujitha",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/22/373",
+      "name": "Sharmilan Logasingam",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/23/051",
+      "name": "Thisum Danthanarayana",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/23/159",
+      "name": "Kaveesha Kalhara",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/23/407",
+      "name": "Anuda Upek",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/23/340",
+      "name": "Chalindi Samarasinghe",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/23/009",
+      "name": "Yogendran Akalyan",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/24/247",
+      "name": "Thisaga Munasinghe",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/24/113",
+      "name": "Theshan Gamage",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/24/121",
+      "name": "Kavindi Gimsara",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/24/399",
+      "name": "Amod Uddeepa",
+      "position": "Committee Member"
+    },
+    {
+      "eNumber": "E/24/315",
+      "name": "Athayi Rasool",
+      "position": "Committee Member"
+    }
+  ]
+}
