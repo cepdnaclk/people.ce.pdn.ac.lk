@@ -16444,19 +16444,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/P-E-BO-Desk-Companion/"
     },
     {
-      "title": "neuromorphic memory optimization",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/neuromorphic-memory-optimization/",
-      "repo_url": "https://github.com/cepdnaclk/e20-4yp-neuromorphic-memory-optimization",
-      "page_url": "https://cepdnaclk.github.io/e20-4yp-neuromorphic-memory-optimization",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/neuromorphic-memory-optimization/"
-    },
-    {
       "title": "MONA Dashboard",
       "category": {
         "code": "co227",
@@ -18466,19 +18453,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/GEOnex/"
     },
     {
-      "title": "neuromorphic memory optimization",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/neuromorphic-memory-optimization/",
-      "repo_url": "https://github.com/cepdnaclk/e20-4yp-neuromorphic-memory-optimization",
-      "page_url": "https://cepdnaclk.github.io/e20-4yp-neuromorphic-memory-optimization",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/neuromorphic-memory-optimization/"
-    },
-    {
       "title": "Postgraduate Student Management System",
       "category": {
         "code": "co227",
@@ -19097,19 +19071,6 @@
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing",
       "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Train-Tracking-and-Smart-Ticketing/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Train-Tracking-and-Smart-Ticketing/"
-    },
-    {
-      "title": "neuromorphic memory optimization",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/neuromorphic-memory-optimization/",
-      "repo_url": "https://github.com/cepdnaclk/e20-4yp-neuromorphic-memory-optimization",
-      "page_url": "https://cepdnaclk.github.io/e20-4yp-neuromorphic-memory-optimization",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/neuromorphic-memory-optimization/"
     },
     {
       "title": "CathLab Management System",
