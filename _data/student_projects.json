@@ -4538,6 +4538,19 @@
   ],
   "E/17/058": [
     {
+      "title": "business to business database",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
+      "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
+      "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/"
+    },
+    {
       "title": "Oral Cavity Region Detection",
       "category": {
         "code": "6sp",
@@ -4575,19 +4588,6 @@
       "page_url": "https://cepdnaclk.github.io/e17-4yp-Low-Complexity-Algorithm-for-Arrhythmia-Detection",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/Low-Complexity-Algorithm-for-Arrhythmia-Detection/"
-    },
-    {
-      "title": "business to business database",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
-      "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
-      "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/"
     }
   ],
   "E/17/065": [
@@ -4881,6 +4881,19 @@
   ],
   "E/17/134": [
     {
+      "title": "business to business database",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
+      "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
+      "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/"
+    },
+    {
       "title": "apparel industry performance analyser",
       "category": {
         "code": "6sp",
@@ -4918,19 +4931,6 @@
       "page_url": "https://cepdnaclk.github.io/e17-4yp-novel-compression-methods-for-nanopore-raw-signal-data",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/novel-compression-methods-for-nanopore-raw-signal-data/"
-    },
-    {
-      "title": "business to business database",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
-      "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
-      "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/"
     }
   ],
   "E/17/148": [
@@ -5194,6 +5194,19 @@
   ],
   "E/17/194": [
     {
+      "title": "business to business database",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
+      "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
+      "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/"
+    },
+    {
       "title": "Skim Sequencing Analysis",
       "category": {
         "code": "6sp",
@@ -5231,19 +5244,6 @@
       "page_url": "https://cepdnaclk.github.io/e17-4yp-using-machine-learning-in-high-stake-settings",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E17/using-machine-learning-in-high-stake-settings/"
-    },
-    {
-      "title": "business to business database",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e17/business-to-business-database/",
-      "repo_url": "https://github.com/cepdnaclk/e17-co226-business-to-business-database",
-      "page_url": "https://cepdnaclk.github.io/e17-co226-business-to-business-database",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E17/business-to-business-database/"
     }
   ],
   "E/17/201": [
@@ -7046,6 +7046,19 @@
   ],
   "E/18/059": [
     {
+      "title": "Database for Bank Management System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-for-Bank-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-for-Bank-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Bank-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Bank-Management-System/"
+    },
+    {
       "title": "automated sun tracking solar pv power plant monitoring",
       "category": {
         "code": "3yp",
@@ -7083,19 +7096,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co227-aiesec-local-committee-manangement-system",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/aiesec-local-committee-manangement-system/"
-    },
-    {
-      "title": "Database for Bank Management System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-for-Bank-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-for-Bank-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Bank-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Bank-Management-System/"
     },
     {
       "title": "student results management system webapp",
@@ -10181,19 +10181,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/"
     },
     {
-      "title": "Keyboard for Visually Impaired",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Keyboard-for-Visually-Impaired/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co227-Keyboard-for-Visually-Impaired",
-      "page_url": "https://cepdnaclk.github.io/e19-co227-Keyboard-for-Visually-Impaired",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Keyboard-for-Visually-Impaired/"
-    },
-    {
       "title": "Baby Developement Tracking System Mobileapplication",
       "category": {
         "code": "co225",
@@ -10246,19 +10233,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Powered-Knowledge-Management-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Powered-Knowledge-Management-System/"
-    },
-    {
-      "title": "Keyboard for Visually Impaired",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Keyboard-for-Visually-Impaired/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co227-Keyboard-for-Visually-Impaired",
-      "page_url": "https://cepdnaclk.github.io/e19-co227-Keyboard-for-Visually-Impaired",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Keyboard-for-Visually-Impaired/"
     },
     {
       "title": "Baby Developement Tracking System Mobileapplication",
@@ -10397,6 +10371,19 @@
   ],
   "E/19/008": [
     {
+      "title": "database management system for a restaurant",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-management-system-for-a-restaurant/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-database-management-system-for-a-restaurant",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-database-management-system-for-a-restaurant",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-management-system-for-a-restaurant/"
+    },
+    {
       "title": "beehive monitoring system",
       "category": {
         "code": "3yp",
@@ -10434,19 +10421,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
-    },
-    {
-      "title": "database management system for a restaurant",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-management-system-for-a-restaurant/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-database-management-system-for-a-restaurant",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-database-management-system-for-a-restaurant",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-management-system-for-a-restaurant/"
     },
     {
       "title": "Baby Developing Tracking System Web Application",
@@ -10490,6 +10464,19 @@
   ],
   "E/19/009": [
     {
+      "title": "database management system for a restaurant",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-management-system-for-a-restaurant/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-database-management-system-for-a-restaurant",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-database-management-system-for-a-restaurant",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-management-system-for-a-restaurant/"
+    },
+    {
       "title": "beehive monitoring system",
       "category": {
         "code": "3yp",
@@ -10529,19 +10516,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
     },
     {
-      "title": "database management system for a restaurant",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-management-system-for-a-restaurant/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-database-management-system-for-a-restaurant",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-database-management-system-for-a-restaurant",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-management-system-for-a-restaurant/"
-    },
-    {
       "title": "Baby Developing Tracking System Web Application",
       "category": {
         "code": "co225",
@@ -10569,6 +10543,19 @@
     }
   ],
   "E/19/017": [
+    {
+      "title": "Medical Clinic Manager",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Medical-Clinic-Manager/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Medical-Clinic-Manager",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Medical-Clinic-Manager",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Medical-Clinic-Manager/"
+    },
     {
       "title": "smart supermarket navigation system",
       "category": {
@@ -10622,19 +10609,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
     },
     {
-      "title": "Medical Clinic Manager",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Medical-Clinic-Manager/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Medical-Clinic-Manager",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Medical-Clinic-Manager",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Medical-Clinic-Manager/"
-    },
-    {
       "title": "Baby Developement Tracking System Mobileapplication",
       "category": {
         "code": "co225",
@@ -10649,6 +10623,19 @@
     }
   ],
   "E/19/028": [
+    {
+      "title": "Medical Clinic Manager",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Medical-Clinic-Manager/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Medical-Clinic-Manager",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Medical-Clinic-Manager",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Medical-Clinic-Manager/"
+    },
     {
       "title": "Event Attendance Management System",
       "category": {
@@ -10687,19 +10674,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co227-TecHub-help-desk-ticketing-system",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/TecHub-help-desk-ticketing-system/"
-    },
-    {
-      "title": "Medical Clinic Manager",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Medical-Clinic-Manager/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Medical-Clinic-Manager",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Medical-Clinic-Manager",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Medical-Clinic-Manager/"
     },
     {
       "title": "Mobile app for Inpatient Management System",
@@ -10892,6 +10866,19 @@
   ],
   "E/19/060": [
     {
+      "title": "library management system",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/library-management-system/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-library-management-system",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-library-management-system",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/library-management-system/"
+    },
+    {
       "title": "Automated Hydroponic System",
       "category": {
         "code": "3yp",
@@ -10931,19 +10918,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Engineering-Education-Unit/"
     },
     {
-      "title": "library management system",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/library-management-system/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-library-management-system",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-library-management-system",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/library-management-system/"
-    },
-    {
       "title": "school attendance management system",
       "category": {
         "code": "co225",
@@ -10958,6 +10932,19 @@
     }
   ],
   "E/19/063": [
+    {
+      "title": "database management system for a restaurant",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-management-system-for-a-restaurant/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-database-management-system-for-a-restaurant",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-database-management-system-for-a-restaurant",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-management-system-for-a-restaurant/"
+    },
     {
       "title": "beehive monitoring system",
       "category": {
@@ -10998,19 +10985,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
     },
     {
-      "title": "database management system for a restaurant",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-management-system-for-a-restaurant/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-database-management-system-for-a-restaurant",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-database-management-system-for-a-restaurant",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-management-system-for-a-restaurant/"
-    },
-    {
       "title": "Baby Developing Tracking System Web Application",
       "category": {
         "code": "co225",
@@ -11038,6 +11012,19 @@
     }
   ],
   "E/19/069": [
+    {
+      "title": "library management system",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/library-management-system/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-library-management-system",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-library-management-system",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/library-management-system/"
+    },
     {
       "title": "Automated grass cutter",
       "category": {
@@ -11078,19 +11065,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Plants-disease-dataset-collection-in-SriLanka/"
     },
     {
-      "title": "library management system",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/library-management-system/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-library-management-system",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-library-management-system",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/library-management-system/"
-    },
-    {
       "title": "school attendance management system",
       "category": {
         "code": "co225",
@@ -11105,6 +11079,19 @@
     }
   ],
   "E/19/074": [
+    {
+      "title": "Database for Bank Management System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-for-Bank-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-for-Bank-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Bank-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Bank-Management-System/"
+    },
     {
       "title": "beehive monitoring system",
       "category": {
@@ -11158,19 +11145,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
     },
     {
-      "title": "Database for Bank Management System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-for-Bank-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-for-Bank-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Bank-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Bank-Management-System/"
-    },
-    {
       "title": "Baby Developing Tracking System Web Application",
       "category": {
         "code": "co225",
@@ -11214,6 +11188,19 @@
   ],
   "E/19/087": [
     {
+      "title": "Airline Booking System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Airline-Booking-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Airline-Booking-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Airline-Booking-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Airline-Booking-System/"
+    },
+    {
       "title": "Project Smart Water Tank",
       "category": {
         "code": "3yp",
@@ -11251,19 +11238,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/"
-    },
-    {
-      "title": "Airline Booking System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Airline-Booking-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Airline-Booking-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Airline-Booking-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Airline-Booking-System/"
     },
     {
       "title": "Baby Developing Tracking System Web Application",
@@ -11482,6 +11456,19 @@
   ],
   "E/19/095": [
     {
+      "title": "Online Learning Platform",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Learning-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Learning-Platform",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Learning-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Learning-Platform/"
+    },
+    {
       "title": "First Person AR Game with Localization",
       "category": {
         "code": "3yp",
@@ -11521,19 +11508,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Training-Management-System/"
     },
     {
-      "title": "Online Learning Platform",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Learning-Platform/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Learning-Platform",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Learning-Platform",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Learning-Platform/"
-    },
-    {
       "title": "In Patient Management System For a Hospital",
       "category": {
         "code": "co225",
@@ -11561,6 +11535,19 @@
     }
   ],
   "E/19/096": [
+    {
+      "title": "Online Student Registration System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Student-Registration-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Student-Registration-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Student-Registration-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Student-Registration-System/"
+    },
     {
       "title": "Smart Chessboard",
       "category": {
@@ -11601,19 +11588,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/"
     },
     {
-      "title": "Online Student Registration System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Student-Registration-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Student-Registration-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Student-Registration-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Student-Registration-System/"
-    },
-    {
       "title": "In Patient Management System For a Hospital",
       "category": {
         "code": "co225",
@@ -11628,6 +11602,19 @@
     }
   ],
   "E/19/100": [
+    {
+      "title": "Online Student Registration System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Student-Registration-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Student-Registration-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Student-Registration-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Student-Registration-System/"
+    },
     {
       "title": "Smart Chessboard",
       "category": {
@@ -11668,19 +11655,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Engineering-Education-Unit/"
     },
     {
-      "title": "Online Student Registration System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Student-Registration-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Student-Registration-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Student-Registration-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Student-Registration-System/"
-    },
-    {
       "title": "Library Management System",
       "category": {
         "code": "co225",
@@ -11695,6 +11669,19 @@
     }
   ],
   "E/19/105": [
+    {
+      "title": "Online Shopping",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping/"
+    },
     {
       "title": "Smart Waste Management System",
       "category": {
@@ -11733,19 +11720,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co227-Remote-Controlled-PLC-Training-Kit",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Remote-Controlled-PLC-Training-Kit/"
-    },
-    {
-      "title": "Online Shopping",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping/"
     },
     {
       "title": "Student Result Management System",
@@ -11776,6 +11750,19 @@
   ],
   "E/19/106": [
     {
+      "title": "Online Shopping",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping/"
+    },
+    {
       "title": "Smart Waste Management System",
       "category": {
         "code": "3yp",
@@ -11815,19 +11802,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Remote-Controlled-PLC-Training-Kit/"
     },
     {
-      "title": "Online Shopping",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping/"
-    },
-    {
       "title": "Student Result Management System",
       "category": {
         "code": "co225",
@@ -11855,6 +11829,19 @@
     }
   ],
   "E/19/111": [
+    {
+      "title": "Online Shopping",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping/"
+    },
     {
       "title": "Smart Billing System",
       "category": {
@@ -11908,19 +11895,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
     },
     {
-      "title": "Online Shopping",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping/"
-    },
-    {
       "title": "School Attendance Management System Mobile Application",
       "category": {
         "code": "co225",
@@ -11948,6 +11922,19 @@
     }
   ],
   "E/19/124": [
+    {
+      "title": "Airline Booking System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Airline-Booking-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Airline-Booking-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Airline-Booking-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Airline-Booking-System/"
+    },
     {
       "title": "impact tracker",
       "category": {
@@ -12001,19 +11988,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
     },
     {
-      "title": "Airline Booking System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Airline-Booking-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Airline-Booking-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Airline-Booking-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Airline-Booking-System/"
-    },
-    {
       "title": "Library Management System Web App",
       "category": {
         "code": "co225",
@@ -12028,6 +12002,19 @@
     }
   ],
   "E/19/129": [
+    {
+      "title": "Database for Cricket Statistics",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-for-Cricket-Statistics/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-for-Cricket-Statistics",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Cricket-Statistics",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Cricket-Statistics/"
+    },
     {
       "title": "impact tracker",
       "category": {
@@ -12066,19 +12053,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
-    },
-    {
-      "title": "Database for Cricket Statistics",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-for-Cricket-Statistics/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-for-Cricket-Statistics",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Cricket-Statistics",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Cricket-Statistics/"
     },
     {
       "title": "Department Space Management System Web Application",
@@ -12150,6 +12124,19 @@
   ],
   "E/19/133": [
     {
+      "title": "Election_Data_Base_Management_System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Election_Data_Base_Management_System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Election_Data_Base_Management_System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Election_Data_Base_Management_System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Election_Data_Base_Management_System/"
+    },
+    {
       "title": "School Van Tracking System",
       "category": {
         "code": "3yp",
@@ -12187,19 +12174,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co227-Crop-Modelling-Tool-For-SriLanka",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Crop-Modelling-Tool-For-SriLanka/"
-    },
-    {
-      "title": "Election_Data_Base_Management_System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Election_Data_Base_Management_System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Election_Data_Base_Management_System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Election_Data_Base_Management_System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Election_Data_Base_Management_System/"
     },
     {
       "title": "Library Management System",
@@ -12284,6 +12258,19 @@
   ],
   "E/19/137": [
     {
+      "title": "Election_Data_Base_Management_System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Election_Data_Base_Management_System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Election_Data_Base_Management_System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Election_Data_Base_Management_System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Election_Data_Base_Management_System/"
+    },
+    {
       "title": "School Van Tracking System",
       "category": {
         "code": "3yp",
@@ -12321,19 +12308,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co227-Crop-Modelling-Tool-For-SriLanka",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Crop-Modelling-Tool-For-SriLanka/"
-    },
-    {
-      "title": "Election_Data_Base_Management_System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Election_Data_Base_Management_System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Election_Data_Base_Management_System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Election_Data_Base_Management_System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Election_Data_Base_Management_System/"
     },
     {
       "title": "Library Management System",
@@ -12487,6 +12461,19 @@
   ],
   "E/19/163": [
     {
+      "title": "Medical Clinic Manager",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Medical-Clinic-Manager/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Medical-Clinic-Manager",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Medical-Clinic-Manager",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Medical-Clinic-Manager/"
+    },
+    {
       "title": "First Person AR Game with Localization",
       "category": {
         "code": "3yp",
@@ -12526,19 +12513,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Training-Management-System/"
     },
     {
-      "title": "Medical Clinic Manager",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Medical-Clinic-Manager/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Medical-Clinic-Manager",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Medical-Clinic-Manager",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Medical-Clinic-Manager/"
-    },
-    {
       "title": "Department Space Management System Mobile App",
       "category": {
         "code": "co225",
@@ -12566,6 +12540,19 @@
     }
   ],
   "E/19/166": [
+    {
+      "title": "Online Shopping System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping-System/"
+    },
     {
       "title": "Automated Hydroponic System",
       "category": {
@@ -12617,19 +12604,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co328-ACES-Project-Fund-Requests",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
-    },
-    {
-      "title": "Online Shopping System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping-System/"
     },
     {
       "title": "Library Management System Web App",
@@ -12714,6 +12688,19 @@
   ],
   "E/19/170": [
     {
+      "title": "E Commerce Website",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/E-Commerce-Website/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-E-Commerce-Website",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-E-Commerce-Website",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/E-Commerce-Website/"
+    },
+    {
       "title": "Pera Swarm Modular Robots",
       "category": {
         "code": "3yp",
@@ -12751,19 +12738,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co227-Online-Retail-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Online-Retail-System/"
-    },
-    {
-      "title": "E Commerce Website",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/E-Commerce-Website/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-E-Commerce-Website",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-E-Commerce-Website",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/E-Commerce-Website/"
     },
     {
       "title": "Library Management System",
@@ -12848,6 +12822,19 @@
   ],
   "E/19/193": [
     {
+      "title": "Database project Hospital Management System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-project-Hospital-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-project-Hospital-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-project-Hospital-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-project-Hospital-Management-System/"
+    },
+    {
       "title": "Smart Billing System",
       "category": {
         "code": "3yp",
@@ -12887,19 +12874,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Online-Retail-System/"
     },
     {
-      "title": "Database project Hospital Management System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-project-Hospital-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-project-Hospital-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-project-Hospital-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-project-Hospital-Management-System/"
-    },
-    {
       "title": "School Attendance Management System Mobile Application",
       "category": {
         "code": "co225",
@@ -12914,6 +12888,19 @@
     }
   ],
   "E/19/205": [
+    {
+      "title": "Database project Hospital Management System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-project-Hospital-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-project-Hospital-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-project-Hospital-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-project-Hospital-Management-System/"
+    },
     {
       "title": "Smart Waste Management System",
       "category": {
@@ -12954,19 +12941,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/subclinical-mastitis-prediction-gui/"
     },
     {
-      "title": "Database project Hospital Management System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-project-Hospital-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-project-Hospital-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-project-Hospital-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-project-Hospital-Management-System/"
-    },
-    {
       "title": "Baby Developement Tracking System Mobileapplication",
       "category": {
         "code": "co225",
@@ -12981,6 +12955,19 @@
     }
   ],
   "E/19/210": [
+    {
+      "title": "Database project Hospital Management System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-project-Hospital-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-project-Hospital-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-project-Hospital-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-project-Hospital-Management-System/"
+    },
     {
       "title": "smart supermarket navigation system",
       "category": {
@@ -13019,19 +13006,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co227-ACES-Project-Fund-Requests",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ACES-Project-Fund-Requests/"
-    },
-    {
-      "title": "Database project Hospital Management System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-project-Hospital-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-project-Hospital-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-project-Hospital-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-project-Hospital-Management-System/"
     },
     {
       "title": "Student Result Management System",
@@ -13261,19 +13235,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-4yp-Solve-Issues-In-Large-Code-Repositories",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Solve-Issues-In-Large-Code-Repositories/"
-    },
-    {
-      "title": "Keyboard for Visually Impaired",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Keyboard-for-Visually-Impaired/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co227-Keyboard-for-Visually-Impaired",
-      "page_url": "https://cepdnaclk.github.io/e19-co227-Keyboard-for-Visually-Impaired",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Keyboard-for-Visually-Impaired/"
     },
     {
       "title": "In Patient Management System For a Hospital",
@@ -13533,6 +13494,19 @@
   ],
   "E/19/253": [
     {
+      "title": "Online Learning Platform",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Learning-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Learning-Platform",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Learning-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Learning-Platform/"
+    },
+    {
       "title": "Smart Chessboard",
       "category": {
         "code": "3yp",
@@ -13585,19 +13559,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
     },
     {
-      "title": "Online Learning Platform",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Learning-Platform/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Learning-Platform",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Learning-Platform",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Learning-Platform/"
-    },
-    {
       "title": "In Patient Management System For a Hospital",
       "category": {
         "code": "co225",
@@ -13612,6 +13573,19 @@
     }
   ],
   "E/19/260": [
+    {
+      "title": "Airline Booking System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Airline-Booking-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Airline-Booking-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Airline-Booking-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Airline-Booking-System/"
+    },
     {
       "title": "Project Smart Water Tank",
       "category": {
@@ -13650,19 +13624,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co227-Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Empowering-Counselors-and-Students-through-Interactive-Web-and-Mobile-App/"
-    },
-    {
-      "title": "Airline Booking System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Airline-Booking-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Airline-Booking-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Airline-Booking-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Airline-Booking-System/"
     },
     {
       "title": "Baby Developing Tracking System Web Application",
@@ -13868,6 +13829,19 @@
   ],
   "E/19/278": [
     {
+      "title": "Faculty Management System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Faculty-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Faculty-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Faculty-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Faculty-Management-System/"
+    },
+    {
       "title": "Attendance Monitoring and Access Authentication with Face Recognition",
       "category": {
         "code": "3yp",
@@ -13907,19 +13881,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/ESCAL-Reservations-and-Borrowing/"
     },
     {
-      "title": "Faculty Management System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Faculty-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Faculty-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Faculty-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Faculty-Management-System/"
-    },
-    {
       "title": "Student Result Management System",
       "category": {
         "code": "co225",
@@ -13947,6 +13908,19 @@
     }
   ],
   "E/19/295": [
+    {
+      "title": "agriculture management system",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/agriculture-management-system/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-agriculture-management-system",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-agriculture-management-system",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/agriculture-management-system/"
+    },
     {
       "title": "Attendance Monitoring and Access Authentication with Face Recognition",
       "category": {
@@ -13985,19 +13959,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co227-Automatic-IC-Testing-Application-Using-FPGA",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application-Using-FPGA/"
-    },
-    {
-      "title": "agriculture management system",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/agriculture-management-system/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-agriculture-management-system",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-agriculture-management-system",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/agriculture-management-system/"
     },
     {
       "title": "school attendance management system",
@@ -14028,6 +13989,19 @@
   ],
   "E/19/300": [
     {
+      "title": "agriculture management system",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/agriculture-management-system/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-agriculture-management-system",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-agriculture-management-system",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/agriculture-management-system/"
+    },
+    {
       "title": "Attendance Monitoring and Access Authentication with Face Recognition",
       "category": {
         "code": "3yp",
@@ -14067,19 +14041,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application-Using-FPGA/"
     },
     {
-      "title": "agriculture management system",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/agriculture-management-system/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-agriculture-management-system",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-agriculture-management-system",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/agriculture-management-system/"
-    },
-    {
       "title": "school attendance management system",
       "category": {
         "code": "co225",
@@ -14107,6 +14068,19 @@
     }
   ],
   "E/19/304": [
+    {
+      "title": "agriculture management system",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/agriculture-management-system/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-agriculture-management-system",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-agriculture-management-system",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/agriculture-management-system/"
+    },
     {
       "title": "automated warehouse management and monitoring system",
       "category": {
@@ -14147,19 +14121,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/ACES-Project-Fund-Requests/"
     },
     {
-      "title": "agriculture management system",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/agriculture-management-system/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-agriculture-management-system",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-agriculture-management-system",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/agriculture-management-system/"
-    },
-    {
       "title": "School Attendance Management System Mobile Application",
       "category": {
         "code": "co225",
@@ -14187,6 +14148,19 @@
     }
   ],
   "E/19/306": [
+    {
+      "title": "Online Learning Platform",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Learning-Platform/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Learning-Platform",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Learning-Platform",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Learning-Platform/"
+    },
     {
       "title": "Smart Chessboard",
       "category": {
@@ -14227,19 +14201,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/"
     },
     {
-      "title": "Online Learning Platform",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Learning-Platform/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Learning-Platform",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Learning-Platform",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Learning-Platform/"
-    },
-    {
       "title": "In Patient Management System For a Hospital",
       "category": {
         "code": "co225",
@@ -14254,6 +14215,19 @@
     }
   ],
   "E/19/309": [
+    {
+      "title": "database for a social media site",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-for-a-social-media-site/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-database-for-a-social-media-site",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-database-for-a-social-media-site",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-for-a-social-media-site/"
+    },
     {
       "title": "automated sun tracking solar pv power plant monitoring",
       "category": {
@@ -14279,19 +14253,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co227-digital-signage-content-management-system",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-signage-content-management-system/"
-    },
-    {
-      "title": "database for a social media site",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-for-a-social-media-site/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-database-for-a-social-media-site",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-database-for-a-social-media-site",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-for-a-social-media-site/"
     },
     {
       "title": "student results management system webapp",
@@ -14321,6 +14282,19 @@
     }
   ],
   "E/19/310": [
+    {
+      "title": "Flight Management System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Flight-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Flight-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Flight-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Flight-Management-System/"
+    },
     {
       "title": "Smart Billing System",
       "category": {
@@ -14374,19 +14348,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
     },
     {
-      "title": "Flight Management System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Flight-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Flight-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Flight-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Flight-Management-System/"
-    },
-    {
       "title": "Mobile app for Inpatient Management System",
       "category": {
         "code": "co225",
@@ -14414,6 +14375,19 @@
     }
   ],
   "E/19/324": [
+    {
+      "title": "Online Shopping System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping-System/"
+    },
     {
       "title": "beehive monitoring system",
       "category": {
@@ -14467,19 +14441,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
     },
     {
-      "title": "Online Shopping System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Shopping-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Shopping-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Shopping-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Shopping-System/"
-    },
-    {
       "title": "Library Management System Web App",
       "category": {
         "code": "co225",
@@ -14507,6 +14468,19 @@
     }
   ],
   "E/19/349": [
+    {
+      "title": "E Commerce Website",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/E-Commerce-Website/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-E-Commerce-Website",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-E-Commerce-Website",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/E-Commerce-Website/"
+    },
     {
       "title": "automated sun tracking solar pv power plant monitoring",
       "category": {
@@ -14545,19 +14519,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co227-Online-Retail-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Online-Retail-System/"
-    },
-    {
-      "title": "E Commerce Website",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/E-Commerce-Website/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-E-Commerce-Website",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-E-Commerce-Website",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/E-Commerce-Website/"
     },
     {
       "title": "Library Management System",
@@ -14644,6 +14605,19 @@
   ],
   "E/19/366": [
     {
+      "title": "Database for Bank Management System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-for-Bank-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-for-Bank-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Bank-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Bank-Management-System/"
+    },
+    {
       "title": "Pera Swarm Modular Robots",
       "category": {
         "code": "3yp",
@@ -14683,19 +14657,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/aiesec-local-committee-manangement-system/"
     },
     {
-      "title": "Database for Bank Management System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-for-Bank-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-for-Bank-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Bank-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Bank-Management-System/"
-    },
-    {
       "title": "student results management system webapp",
       "category": {
         "code": "co225",
@@ -14710,6 +14671,19 @@
     }
   ],
   "E/19/371": [
+    {
+      "title": "Election_Data_Base_Management_System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Election_Data_Base_Management_System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Election_Data_Base_Management_System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Election_Data_Base_Management_System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Election_Data_Base_Management_System/"
+    },
     {
       "title": "School Van Tracking System",
       "category": {
@@ -14750,19 +14724,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Crop-Modelling-Tool-For-SriLanka/"
     },
     {
-      "title": "Election_Data_Base_Management_System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Election_Data_Base_Management_System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Election_Data_Base_Management_System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Election_Data_Base_Management_System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Election_Data_Base_Management_System/"
-    },
-    {
       "title": "Library Management System",
       "category": {
         "code": "co225",
@@ -14790,6 +14751,19 @@
     }
   ],
   "E/19/372": [
+    {
+      "title": "Database for Cricket Statistics",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-for-Cricket-Statistics/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-for-Cricket-Statistics",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Cricket-Statistics",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Cricket-Statistics/"
+    },
     {
       "title": "impact tracker",
       "category": {
@@ -14828,19 +14802,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
-    },
-    {
-      "title": "Database for Cricket Statistics",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-for-Cricket-Statistics/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-for-Cricket-Statistics",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Cricket-Statistics",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Cricket-Statistics/"
     },
     {
       "title": "Department Space Management System Web Application",
@@ -15022,6 +14983,19 @@
   ],
   "E/19/408": [
     {
+      "title": "Database for Cricket Statistics",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-for-Cricket-Statistics/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-for-Cricket-Statistics",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Cricket-Statistics",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Cricket-Statistics/"
+    },
+    {
       "title": "impact tracker",
       "category": {
         "code": "3yp",
@@ -15059,19 +15033,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co328-Digital-Reporting-of-Technical-Visits",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Digital-Reporting-of-Technical-Visits/"
-    },
-    {
-      "title": "Database for Cricket Statistics",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Database-for-Cricket-Statistics/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Database-for-Cricket-Statistics",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Database-for-Cricket-Statistics",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Database-for-Cricket-Statistics/"
     },
     {
       "title": "Department Space Management System Web Application",
@@ -15143,6 +15104,19 @@
   ],
   "E/19/413": [
     {
+      "title": "E Commerce Website",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/E-Commerce-Website/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-E-Commerce-Website",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-E-Commerce-Website",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/E-Commerce-Website/"
+    },
+    {
       "title": "smart supermarket navigation system",
       "category": {
         "code": "3yp",
@@ -15167,19 +15141,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co227-Online-Retail-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Online-Retail-System/"
-    },
-    {
-      "title": "E Commerce Website",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/E-Commerce-Website/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-E-Commerce-Website",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-E-Commerce-Website",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/E-Commerce-Website/"
     },
     {
       "title": "Library Management System",
@@ -15318,6 +15279,19 @@
   ],
   "E/19/426": [
     {
+      "title": "Flight Management System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Flight-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Flight-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Flight-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Flight-Management-System/"
+    },
+    {
       "title": "Smart Billing System",
       "category": {
         "code": "3yp",
@@ -15368,19 +15342,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
-    },
-    {
-      "title": "Flight Management System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Flight-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Flight-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Flight-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Flight-Management-System/"
     },
     {
       "title": "Mobile app for Inpatient Management System",
@@ -15558,6 +15519,19 @@
   ],
   "E/19/436": [
     {
+      "title": "database for a social media site",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-for-a-social-media-site/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-database-for-a-social-media-site",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-database-for-a-social-media-site",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-for-a-social-media-site/"
+    },
+    {
       "title": "Pera Swarm Modular Robots",
       "category": {
         "code": "3yp",
@@ -15595,19 +15569,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co227-digital-signage-content-management-system",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-signage-content-management-system/"
-    },
-    {
-      "title": "database for a social media site",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-for-a-social-media-site/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-database-for-a-social-media-site",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-database-for-a-social-media-site",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-for-a-social-media-site/"
     },
     {
       "title": "student results management system webapp",
@@ -15651,19 +15612,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Voluntary-Computing-Operating-System/"
     },
     {
-      "title": "Keyboard for Visually Impaired",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Keyboard-for-Visually-Impaired/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co227-Keyboard-for-Visually-Impaired",
-      "page_url": "https://cepdnaclk.github.io/e19-co227-Keyboard-for-Visually-Impaired",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Keyboard-for-Visually-Impaired/"
-    },
-    {
       "title": "Baby Developement Tracking System Mobileapplication",
       "category": {
         "code": "co225",
@@ -15692,6 +15640,19 @@
   ],
   "E/19/446": [
     {
+      "title": "database for a social media site",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-for-a-social-media-site/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-database-for-a-social-media-site",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-database-for-a-social-media-site",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-for-a-social-media-site/"
+    },
+    {
       "title": "Pera Swarm Modular Robots",
       "category": {
         "code": "3yp",
@@ -15718,19 +15679,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/digital-signage-content-management-system/"
     },
     {
-      "title": "database for a social media site",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/database-for-a-social-media-site/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-database-for-a-social-media-site",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-database-for-a-social-media-site",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/database-for-a-social-media-site/"
-    },
-    {
       "title": "student results management system webapp",
       "category": {
         "code": "co225",
@@ -15745,6 +15693,19 @@
     }
   ],
   "E/19/452": [
+    {
+      "title": "Faculty Management System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Faculty-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Faculty-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Faculty-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Faculty-Management-System/"
+    },
     {
       "title": "Attendance Monitoring and Access Authentication with Face Recognition",
       "category": {
@@ -15785,19 +15746,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application-Using-FPGA/"
     },
     {
-      "title": "Faculty Management System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Faculty-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Faculty-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Faculty-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Faculty-Management-System/"
-    },
-    {
       "title": "school attendance management system",
       "category": {
         "code": "co225",
@@ -15825,6 +15773,19 @@
     }
   ],
   "E/19/453": [
+    {
+      "title": "Flight Management System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Flight-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Flight-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Flight-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Flight-Management-System/"
+    },
     {
       "title": "Smart Billing System",
       "category": {
@@ -15876,19 +15837,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co328-Helpdesk-Ticketing-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co328/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co328/E19/Helpdesk-Ticketing-System/"
-    },
-    {
-      "title": "Flight Management System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Flight-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Flight-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Flight-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Flight-Management-System/"
     },
     {
       "title": "Library Management System Web App",
@@ -16055,6 +16003,19 @@
   ],
   "E/19/492": [
     {
+      "title": "Faculty Management System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Faculty-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Faculty-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Faculty-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Faculty-Management-System/"
+    },
+    {
       "title": "Attendance Monitoring and Access Authentication with Face Recognition",
       "category": {
         "code": "3yp",
@@ -16094,19 +16055,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Automatic-IC-Testing-Application-Using-FPGA/"
     },
     {
-      "title": "Faculty Management System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Faculty-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Faculty-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Faculty-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Faculty-Management-System/"
-    },
-    {
       "title": "school attendance management system",
       "category": {
         "code": "co225",
@@ -16134,6 +16082,19 @@
     }
   ],
   "E/19/494": [
+    {
+      "title": "library management system",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/library-management-system/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-library-management-system",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-library-management-system",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/library-management-system/"
+    },
     {
       "title": "Automated grass cutter",
       "category": {
@@ -16174,19 +16135,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Crop-Modelling-Tool-For-SriLanka/"
     },
     {
-      "title": "library management system",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/library-management-system/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-library-management-system",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-library-management-system",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/library-management-system/"
-    },
-    {
       "title": "school attendance management system",
       "category": {
         "code": "co225",
@@ -16201,6 +16149,19 @@
     }
   ],
   "E/19/495": [
+    {
+      "title": "Online Student Registration System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Student-Registration-System/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Student-Registration-System",
+      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Student-Registration-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Student-Registration-System/"
+    },
     {
       "title": "Pera Ride",
       "category": {
@@ -16239,19 +16200,6 @@
       "page_url": "https://cepdnaclk.github.io/e19-co227-Inventory-Management-System-of-Agricultural-Biotechnology-Centre",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Inventory-Management-System-of-Agricultural-Biotechnology-Centre/"
-    },
-    {
-      "title": "Online Student Registration System",
-      "category": {
-        "code": "co226",
-        "title": "Database Projects (CO226)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co226/e19/Online-Student-Registration-System/",
-      "repo_url": "https://github.com/cepdnaclk/e19-co226-Online-Student-Registration-System",
-      "page_url": "https://cepdnaclk.github.io/e19-co226-Online-Student-Registration-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E19/Online-Student-Registration-System/"
     },
     {
       "title": "In Patient Management System For a Hospital",
