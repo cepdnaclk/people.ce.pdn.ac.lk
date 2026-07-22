@@ -10181,6 +10181,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Dirven-Latency-Constrained-Resource-Management-In-Kubernetes/"
     },
     {
+      "title": "Keyboard for Visually Impaired",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Keyboard-for-Visually-Impaired/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co227-Keyboard-for-Visually-Impaired",
+      "page_url": "https://cepdnaclk.github.io/e19-co227-Keyboard-for-Visually-Impaired",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Keyboard-for-Visually-Impaired/"
+    },
+    {
       "title": "Baby Developement Tracking System Mobileapplication",
       "category": {
         "code": "co225",
@@ -10233,6 +10246,19 @@
       "page_url": "https://cepdnaclk.github.io/e19-4yp-AI-Powered-Knowledge-Management-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/AI-Powered-Knowledge-Management-System/"
+    },
+    {
+      "title": "Keyboard for Visually Impaired",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Keyboard-for-Visually-Impaired/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co227-Keyboard-for-Visually-Impaired",
+      "page_url": "https://cepdnaclk.github.io/e19-co227-Keyboard-for-Visually-Impaired",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Keyboard-for-Visually-Impaired/"
     },
     {
       "title": "Baby Developement Tracking System Mobileapplication",
@@ -13237,6 +13263,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Solve-Issues-In-Large-Code-Repositories/"
     },
     {
+      "title": "Keyboard for Visually Impaired",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Keyboard-for-Visually-Impaired/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co227-Keyboard-for-Visually-Impaired",
+      "page_url": "https://cepdnaclk.github.io/e19-co227-Keyboard-for-Visually-Impaired",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Keyboard-for-Visually-Impaired/"
+    },
+    {
       "title": "In Patient Management System For a Hospital",
       "category": {
         "code": "co225",
@@ -15610,6 +15649,19 @@
       "page_url": "https://cepdnaclk.github.io/e19-4yp-Voluntary-Computing-Operating-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E19/Voluntary-Computing-Operating-System/"
+    },
+    {
+      "title": "Keyboard for Visually Impaired",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e19/Keyboard-for-Visually-Impaired/",
+      "repo_url": "https://github.com/cepdnaclk/e19-co227-Keyboard-for-Visually-Impaired",
+      "page_url": "https://cepdnaclk.github.io/e19-co227-Keyboard-for-Visually-Impaired",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E19/Keyboard-for-Visually-Impaired/"
     },
     {
       "title": "Baby Developement Tracking System Mobileapplication",
@@ -24192,6 +24244,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/hydro-risk-management/"
     }
   ],
+  "E/22/320": [
+    {
+      "title": "OptiFlow",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OptiFlow/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-OptiFlow",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-OptiFlow",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OptiFlow/"
+    }
+  ],
   "E/22/324": [
     {
       "title": "MyStay Boarding Platform",
@@ -24235,6 +24302,21 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM",
       "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-PERA-SAM/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/PERA-SAM/"
+    }
+  ],
+  "E/22/337": [
+    {
+      "title": "OptiFlow",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OptiFlow/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-OptiFlow",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-OptiFlow",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OptiFlow/"
     }
   ],
   "E/22/362": [
@@ -24355,6 +24437,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/floodguard/"
     }
   ],
+  "E/22/385": [
+    {
+      "title": "OptiFlow",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OptiFlow/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-OptiFlow",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-OptiFlow",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OptiFlow/"
+    }
+  ],
   "E/22/396": [
     {
       "title": "PERA SAM",
@@ -24428,6 +24525,21 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-OrthoPAR-Web-Platform",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OrthoPAR-Web-Platform/"
+    }
+  ],
+  "E/22/409": [
+    {
+      "title": "OptiFlow",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/OptiFlow/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-OptiFlow",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-OptiFlow",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OptiFlow/"
     }
   ],
   "E/22/419": [
