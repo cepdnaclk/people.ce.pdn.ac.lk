@@ -24720,19 +24720,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
     }
   ],
-  "E/23/021": [
+  "E/23/023": [
     {
-      "title": "RoadAid",
+      "title": "MPhil PhD Lifecycle Management System",
       "category": {
         "code": "co2060",
         "title": "Software Systems Design Project (CO2060)",
         "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
       },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/RoadAid/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-RoadAid",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-RoadAid",
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/RoadAid/"
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
     }
   ],
   "E/23/035": [
@@ -24853,21 +24853,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
     }
   ],
-  "E/23/084": [
-    {
-      "title": "RoadAid",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/RoadAid/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-RoadAid",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-RoadAid",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/RoadAid/"
-    }
-  ],
   "E/23/093": [
     {
       "title": "Health Management System",
@@ -24973,6 +24958,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/stress-detection-and-analyzing-system/"
     }
   ],
+  "E/23/118": [
+    {
+      "title": "MPhil PhD Lifecycle Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
+    }
+  ],
   "E/23/122": [
     {
       "title": "GoTravel",
@@ -25046,6 +25046,21 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-GiftBox-Customization-Marketplace",
       "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-GiftBox-Customization-Marketplace/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/GiftBox-Customization-Marketplace/"
+    }
+  ],
+  "E/23/178": [
+    {
+      "title": "MPhil PhD Lifecycle Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
     }
   ],
   "E/23/182": [
@@ -25136,21 +25151,6 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare",
       "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Maathacare/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Maathacare/"
-    }
-  ],
-  "E/23/249": [
-    {
-      "title": "RoadAid",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/RoadAid/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-RoadAid",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-RoadAid",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/RoadAid/"
     }
   ],
   "E/23/256": [
@@ -25391,21 +25391,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Alumnet/"
     }
   ],
-  "E/23/369": [
-    {
-      "title": "RoadAid",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/RoadAid/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-RoadAid",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-RoadAid",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/RoadAid/"
-    }
-  ],
   "E/23/382": [
     {
       "title": "FindIT",
@@ -25539,6 +25524,21 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Alumnet",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Alumnet/"
+    }
+  ],
+  "E/23/442": [
+    {
+      "title": "MPhil PhD Lifecycle Management System",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/MPhil-PhD-Lifecycle-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
     }
   ],
   "E/23/454": [
