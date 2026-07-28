@@ -2560,7 +2560,7 @@
     }
   },
   "namal@eng.pdn.ac.lk": {
-    "count": 12,
+    "count": 11,
     "projects": {
       "e20": [
         {
@@ -2681,19 +2681,6 @@
           "page_url": "https://cepdnaclk.github.io/e18-4yp-Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques",
           "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Dengue-outbreak-prediction-in-Sri-Lanka-using-machine-learning-techniques/"
-        },
-        {
-          "title": "Predicting Forex Currency Exchange Rate using Machine Learning",
-          "category": {
-            "code": "4yp",
-            "title": "Undergraduate Research Projects",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-          },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/",
-          "repo_url": "https://github.com/cepdnaclk/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
-          "page_url": "https://cepdnaclk.github.io/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/"
         }
       ],
       "e16": [

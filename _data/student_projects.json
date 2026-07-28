@@ -9211,19 +9211,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/smart-polling-booth/"
     },
     {
-      "title": "Predicting Forex Currency Exchange Rate using Machine Learning",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/",
-      "repo_url": "https://github.com/cepdnaclk/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
-      "page_url": "https://cepdnaclk.github.io/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/"
-    },
-    {
       "title": "Auto Marking and Student Performance Analyser System for Continuous Assessments Group B",
       "category": {
         "code": "co227",
@@ -9397,19 +9384,6 @@
       "page_url": "https://cepdnaclk.github.io/e18-3yp-Smart-Gate-Keeping-and-Authentication-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Smart-Gate-Keeping-and-Authentication-System/"
-    },
-    {
-      "title": "Predicting Forex Currency Exchange Rate using Machine Learning",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/",
-      "repo_url": "https://github.com/cepdnaclk/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
-      "page_url": "https://cepdnaclk.github.io/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/"
     },
     {
       "title": "Auto Marking and Student Performance Analyser System for Continuous Assessments Group B",
@@ -9775,19 +9749,6 @@
       "page_url": "https://cepdnaclk.github.io/e18-3yp-Road-Accident-Detection-And-Notification-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Road-Accident-Detection-And-Notification-System/"
-    },
-    {
-      "title": "Predicting Forex Currency Exchange Rate using Machine Learning",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/",
-      "repo_url": "https://github.com/cepdnaclk/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
-      "page_url": "https://cepdnaclk.github.io/e18-4yp-Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/Predicting-Forex-Currency-Exchange-Rate-using-Machine-Learning/"
     },
     {
       "title": "Auto Marking and Student Performance Analyser System for Continuous Assessments Group B",
@@ -23367,6 +23328,19 @@
   ],
   "E/22/010": [
     {
+      "title": "ForensicSys Medico Forensic DBMS",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForensicSys-Medico-Forensic-DBMS/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co226-ForensicSys-Medico-Forensic-DBMS",
+      "page_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForensicSys-Medico-Forensic-DBMS/"
+    },
+    {
       "title": "MediTriage",
       "category": {
         "code": "co2060",
@@ -23471,6 +23445,19 @@
     }
   ],
   "E/22/044": [
+    {
+      "title": "ForensicSys Medico Forensic DBMS",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForensicSys-Medico-Forensic-DBMS/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co226-ForensicSys-Medico-Forensic-DBMS",
+      "page_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForensicSys-Medico-Forensic-DBMS/"
+    },
     {
       "title": "MediTriage",
       "category": {
@@ -23621,6 +23608,19 @@
     }
   ],
   "E/22/102": [
+    {
+      "title": "ForensicSys Medico Forensic DBMS",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForensicSys-Medico-Forensic-DBMS/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co226-ForensicSys-Medico-Forensic-DBMS",
+      "page_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForensicSys-Medico-Forensic-DBMS/"
+    },
     {
       "title": "MediTriage",
       "category": {
@@ -24020,6 +24020,19 @@
     }
   ],
   "E/22/211": [
+    {
+      "title": "ForensicSys Medico Forensic DBMS",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForensicSys-Medico-Forensic-DBMS/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co226-ForensicSys-Medico-Forensic-DBMS",
+      "page_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForensicSys-Medico-Forensic-DBMS/"
+    },
     {
       "title": "MediTriage",
       "category": {
