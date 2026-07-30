@@ -7301,6 +7301,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
     },
     {
+      "title": "GPU Acceleration for Deep Learning based Comprehensive ECG analysis",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/",
+      "repo_url": "https://github.com/cepdnaclk/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+      "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
+    },
+    {
       "title": "Smart Inventory Management System Group A",
       "category": {
         "code": "co227",
@@ -7353,6 +7366,19 @@
       "page_url": "https://cepdnaclk.github.io/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
+    },
+    {
+      "title": "GPU Acceleration for Deep Learning based Comprehensive ECG analysis",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/",
+      "repo_url": "https://github.com/cepdnaclk/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+      "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
     },
     {
       "title": "Smart Inventory Management System Group A",
@@ -7798,6 +7824,19 @@
       "page_url": "https://cepdnaclk.github.io/e18-3yp-Weather-Analytics-And-Travel-Path-Guider",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E18/Weather-Analytics-And-Travel-Path-Guider/"
+    },
+    {
+      "title": "GPU Acceleration for Deep Learning based Comprehensive ECG analysis",
+      "category": {
+        "code": "4yp",
+        "title": "Undergraduate Research Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/",
+      "repo_url": "https://github.com/cepdnaclk/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+      "page_url": "https://cepdnaclk.github.io/e18-4yp-GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E18/GPU-Acceleration-for-Deep-Learning-based-Comprehensive-ECG-analysis/"
     },
     {
       "title": "Smart Inventory Management System Group A",
@@ -21358,7 +21397,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RoadEye/",
       "repo_url": "https://github.com/cepdnaclk/e21-3yp-RoadEye",
       "page_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RoadEye/"
     },
     {
@@ -21491,6 +21530,19 @@
   ],
   "E/21/049": [
     {
+      "title": "SPECTRA LEAF",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
+    },
+    {
       "title": "Heat_map",
       "category": {
         "code": "co227",
@@ -21561,6 +21613,19 @@
     }
   ],
   "E/21/054": [
+    {
+      "title": "SPECTRA LEAF",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
+    },
     {
       "title": "PeraVerse Kiosk System",
       "category": {
@@ -22188,6 +22253,19 @@
   ],
   "E/21/200": [
     {
+      "title": "SPECTRA LEAF",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
+    },
+    {
       "title": "PeraVerse Heatmap Predictive Analysis",
       "category": {
         "code": "co227",
@@ -22315,6 +22393,19 @@
   ],
   "E/21/226": [
     {
+      "title": "SPECTRA LEAF",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
+    },
+    {
       "title": "PeraVerse Event Details Page",
       "category": {
         "code": "co227",
@@ -22415,6 +22506,19 @@
     }
   ],
   "E/21/254": [
+    {
+      "title": "Smart Metrolac",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Metrolac/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Metrolac",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Metrolac/"
+    },
     {
       "title": "PeraVerse Heatmap Predictive Analysis",
       "category": {
@@ -22544,6 +22648,19 @@
     }
   ],
   "E/21/292": [
+    {
+      "title": "Smart Metrolac",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Metrolac/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Metrolac",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Metrolac/"
+    },
     {
       "title": "PeraVerse Heatmap Predictive Analysis",
       "category": {
@@ -22686,6 +22803,19 @@
     }
   ],
   "E/21/339": [
+    {
+      "title": "Smart Metrolac",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Metrolac/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Metrolac",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Metrolac/"
+    },
     {
       "title": "PeraVerse Heatmap Predictive Analysis",
       "category": {
@@ -22881,7 +23011,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RoadEye/",
       "repo_url": "https://github.com/cepdnaclk/e21-3yp-RoadEye",
       "page_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RoadEye/"
     },
     {
@@ -23109,7 +23239,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RoadEye/",
       "repo_url": "https://github.com/cepdnaclk/e21-3yp-RoadEye",
       "page_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RoadEye/"
     },
     {
@@ -23165,7 +23295,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RoadEye/",
       "repo_url": "https://github.com/cepdnaclk/e21-3yp-RoadEye",
       "page_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RoadEye/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RoadEye/"
     },
     {
@@ -23267,6 +23397,19 @@
     }
   ],
   "E/21/453": [
+    {
+      "title": "Smart Metrolac",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/Smart-Metrolac/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-Smart-Metrolac",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-Smart-Metrolac/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-Metrolac/"
+    },
     {
       "title": "PeraVerse Kiosk System",
       "category": {
@@ -23496,6 +23639,19 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
       "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/"
+    },
+    {
+      "title": "Medical Image Abnormality Cassification Segmentation",
+      "category": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/Medical-Image-Abnormality-Cassification-Segmentation/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+      "page_url": "https://cepdnaclk.github.io/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/Medical-Image-Abnormality-Cassification-Segmentation/"
     }
   ],
   "E/22/051": [
@@ -23762,6 +23918,19 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis",
       "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
+    },
+    {
+      "title": "Medical Image Abnormality Cassification Segmentation",
+      "category": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/Medical-Image-Abnormality-Cassification-Segmentation/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+      "page_url": "https://cepdnaclk.github.io/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/Medical-Image-Abnormality-Cassification-Segmentation/"
     }
   ],
   "E/22/132": [
@@ -24084,6 +24253,19 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage",
       "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-MediTriage/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/MediTriage/"
+    },
+    {
+      "title": "Medical Image Abnormality Cassification Segmentation",
+      "category": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/Medical-Image-Abnormality-Cassification-Segmentation/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+      "page_url": "https://cepdnaclk.github.io/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/Medical-Image-Abnormality-Cassification-Segmentation/"
     }
   ],
   "E/22/227": [
@@ -24674,6 +24856,19 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management",
       "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-hydro-risk-management/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/hydro-risk-management/"
+    },
+    {
+      "title": "Medical Image Abnormality Cassification Segmentation",
+      "category": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/Medical-Image-Abnormality-Cassification-Segmentation/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+      "page_url": "https://cepdnaclk.github.io/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/Medical-Image-Abnormality-Cassification-Segmentation/"
     }
   ],
   "E/22/425": [
