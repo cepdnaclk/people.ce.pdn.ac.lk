@@ -21373,6 +21373,19 @@
   ],
   "E/21/017": [
     {
+      "title": "RouteLK",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RouteLK/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-RouteLK",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
+    },
+    {
       "title": "PeraVerse Organizer Dashboard Core Backend",
       "category": {
         "code": "co227",
@@ -21856,6 +21869,19 @@
     }
   ],
   "E/21/126": [
+    {
+      "title": "RouteLK",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RouteLK/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-RouteLK",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
+    },
     {
       "title": "PeraVerse Organizer Dashboard Analytics Backend",
       "category": {
@@ -23030,6 +23056,19 @@
   ],
   "E/21/372": [
     {
+      "title": "RouteLK",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RouteLK/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-RouteLK",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
+    },
+    {
       "title": "PeraVerse Kiosk System",
       "category": {
         "code": "co227",
@@ -23087,6 +23126,19 @@
     }
   ],
   "E/21/391": [
+    {
+      "title": "RouteLK",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/RouteLK/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-RouteLK",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-RouteLK/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/RouteLK/"
+    },
     {
       "title": "PeraVerse Organizer Dashboard Core Backend",
       "category": {
