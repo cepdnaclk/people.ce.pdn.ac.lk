@@ -1322,6 +1322,19 @@
   ],
   "E/15/138": [
     {
+      "title": "An automated system for monitoring and controlling the water supply to a large farmland",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland/",
+      "repo_url": "https://github.com/cepdnaclk/e15-3yp-An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland",
+      "page_url": "https://cepdnaclk.github.io/e15-3yp-An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland/"
+    },
+    {
       "title": "online proctoring system",
       "category": {
         "code": "4yp",
@@ -1751,6 +1764,19 @@
   ],
   "E/15/209": [
     {
+      "title": "An automated system for monitoring and controlling the water supply to a large farmland",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland/",
+      "repo_url": "https://github.com/cepdnaclk/e15-3yp-An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland",
+      "page_url": "https://cepdnaclk.github.io/e15-3yp-An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland/"
+    },
+    {
       "title": "Optimizing chloroplast genome assembly and annotation with skim sequencing data",
       "category": {
         "code": "4yp",
@@ -2128,6 +2154,21 @@
       "page_url": "https://cepdnaclk.github.io/e15-4yp-Real-Time-Emotion-Recognition-using-Electrocardiogram-Analysis",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Real-Time-Emotion-Recognition-using-Electrocardiogram-Analysis/"
+    }
+  ],
+  "E/15/307": [
+    {
+      "title": "An automated system for monitoring and controlling the water supply to a large farmland",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e15/An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland/",
+      "repo_url": "https://github.com/cepdnaclk/e15-3yp-An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland",
+      "page_url": "https://cepdnaclk.github.io/e15-3yp-An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E15/An-automated-system-for-monitoring-and-controlling-the-water-supply-to-a-large-farmland/"
     }
   ],
   "E/15/316": [
@@ -25133,6 +25174,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/NexClinic/"
     },
     {
+      "title": "Fabric Defect Detection and Localisation Using Deep Neural Networks",
+      "category": {
+        "code": "co542",
+        "title": "Neural Networks Projects (CO542)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co542/e23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+      "page_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/"
+    },
+    {
       "title": "DefectVision Intelligent Surface Defect Detection Using Deep Learning",
       "category": {
         "code": "co543",
@@ -25506,6 +25560,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/NexClinic/"
     },
     {
+      "title": "Fabric Defect Detection and Localisation Using Deep Neural Networks",
+      "category": {
+        "code": "co542",
+        "title": "Neural Networks Projects (CO542)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co542/e23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+      "page_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/"
+    },
+    {
       "title": "DefectVision Intelligent Surface Defect Detection Using Deep Learning",
       "category": {
         "code": "co543",
@@ -25622,6 +25689,19 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
+    },
+    {
+      "title": "Fabric Defect Detection and Localisation Using Deep Neural Networks",
+      "category": {
+        "code": "co542",
+        "title": "Neural Networks Projects (CO542)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co542/e23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+      "page_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/"
     }
   ],
   "E/23/336": [
@@ -25744,6 +25824,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/ChronoCampus/"
     }
   ],
+  "E/23/387": [
+    {
+      "title": "Fabric Defect Detection and Localisation Using Deep Neural Networks",
+      "category": {
+        "code": "co542",
+        "title": "Neural Networks Projects (CO542)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co542/e23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+      "page_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/"
+    }
+  ],
   "E/23/392": [
     {
       "title": "ChronoCampus",
@@ -25817,6 +25912,19 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
+    },
+    {
+      "title": "Fabric Defect Detection and Localisation Using Deep Neural Networks",
+      "category": {
+        "code": "co542",
+        "title": "Neural Networks Projects (CO542)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co542/e23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+      "page_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co542-Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E23/Fabric-Defect-Detection-and-Localisation-Using-Deep-Neural-Networks/"
     }
   ],
   "E/23/431": [
