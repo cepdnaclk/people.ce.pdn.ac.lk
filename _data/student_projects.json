@@ -102,6 +102,19 @@
   ],
   "E/14/018": [
     {
+      "title": "Automated Attendance system",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Automated-Attendance-system/",
+      "repo_url": "https://github.com/cepdnaclk/e14-3yp-Automated-Attendance-system",
+      "page_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Attendance-system",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Automated-Attendance-system/"
+    },
+    {
       "title": "Automated Electricity Billing System",
       "category": {
         "code": "3yp",
@@ -191,6 +204,19 @@
     }
   ],
   "E/14/068": [
+    {
+      "title": "Automated Attendance system",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Automated-Attendance-system/",
+      "repo_url": "https://github.com/cepdnaclk/e14-3yp-Automated-Attendance-system",
+      "page_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Attendance-system",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Automated-Attendance-system/"
+    },
     {
       "title": "Automated Electricity Billing System",
       "category": {
@@ -501,6 +527,21 @@
       "page_url": "https://cepdnaclk.github.io/e14-3yp-River-water-level-and-speed-monitoring-and-alert-system",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/River-water-level-and-speed-monitoring-and-alert-system/"
+    }
+  ],
+  "E/14/243": [
+    {
+      "title": "Automated Attendance system",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Automated-Attendance-system/",
+      "repo_url": "https://github.com/cepdnaclk/e14-3yp-Automated-Attendance-system",
+      "page_url": "https://cepdnaclk.github.io/e14-3yp-Automated-Attendance-system",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Automated-Attendance-system/"
     }
   ],
   "E/14/243 ": [
@@ -16829,7 +16870,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
-      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/data/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/"
     },
     {
@@ -18138,7 +18179,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
-      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/data/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/"
     },
     {
@@ -18259,7 +18300,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
-      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/data/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/"
     },
     {
@@ -19203,7 +19244,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/",
       "repo_url": "https://github.com/cepdnaclk/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation",
-      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/data/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation/"
     },
     {
