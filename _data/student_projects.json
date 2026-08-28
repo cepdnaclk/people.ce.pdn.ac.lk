@@ -366,36 +366,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Automated-Bike-Sharing-System/"
     }
   ],
-  "E/14/178": [
-    {
-      "title": "Bus tracking system",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Bus-tracking-system/",
-      "repo_url": "https://github.com/cepdnaclk/e14-3yp-Bus-tracking-system",
-      "page_url": "https://cepdnaclk.github.io/e14-3yp-Bus-tracking-system",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Bus-tracking-system/"
-    }
-  ],
-  "E/14/181": [
-    {
-      "title": "Bus tracking system",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Bus-tracking-system/",
-      "repo_url": "https://github.com/cepdnaclk/e14-3yp-Bus-tracking-system",
-      "page_url": "https://cepdnaclk.github.io/e14-3yp-Bus-tracking-system",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Bus-tracking-system/"
-    }
-  ],
   "E/14/194": [
     {
       "title": "Automated Bike Sharing System",
@@ -590,19 +560,6 @@
     }
   ],
   "E/14/298": [
-    {
-      "title": "Bus tracking system",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Bus-tracking-system/",
-      "repo_url": "https://github.com/cepdnaclk/e14-3yp-Bus-tracking-system",
-      "page_url": "https://cepdnaclk.github.io/e14-3yp-Bus-tracking-system",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Bus-tracking-system/"
-    },
     {
       "title": "ipb",
       "category": {
@@ -16643,19 +16600,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
     },
     {
-      "title": "On Chip Online Learning For Neuromorphic Hardware",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
-      "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
-      "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
-    },
-    {
       "title": "MLink A Pharmacy Linking Platform",
       "category": {
         "code": "co227",
@@ -19166,19 +19110,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/The_Robot_Waiter/"
     },
     {
-      "title": "On Chip Online Learning For Neuromorphic Hardware",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
-      "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
-      "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
-    },
-    {
       "title": "BookWallet",
       "category": {
         "code": "co227",
@@ -20596,19 +20527,6 @@
       "page_url": "https://cepdnaclk.github.io/e20-3yp-Monitoring-and-controlling-soilless-agricultural-plantations",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/Monitoring-and-controlling-soilless-agricultural-plantations/"
-    },
-    {
-      "title": "On Chip Online Learning For Neuromorphic Hardware",
-      "category": {
-        "code": "4yp",
-        "title": "Undergraduate Research Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/4yp/e20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/",
-      "repo_url": "https://github.com/cepdnaclk/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
-      "page_url": "https://cepdnaclk.github.io/e20-4yp-On-Chip-Online-Learning-For-Neuromorphic-Hardware",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/On-Chip-Online-Learning-For-Neuromorphic-Hardware/"
     },
     {
       "title": "OASIS Teledentistry Mobile Application",
