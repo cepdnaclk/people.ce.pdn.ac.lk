@@ -23996,6 +23996,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Crop-Yield-Optimization-and-Intelligent-Plant-Disease-Analysis/"
     }
   ],
+  "E/22/127": [
+    {
+      "title": "traffic sign detection",
+      "category": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/traffic-sign-detection/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co543-traffic-sign-detection",
+      "page_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/traffic-sign-detection/"
+    }
+  ],
   "E/22/130": [
     {
       "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
@@ -24303,6 +24318,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/floodguard/"
     }
   ],
+  "E/22/203": [
+    {
+      "title": "traffic sign detection",
+      "category": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/traffic-sign-detection/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co543-traffic-sign-detection",
+      "page_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/traffic-sign-detection/"
+    }
+  ],
   "E/22/205": [
     {
       "title": "AI Smart Assistant",
@@ -24522,6 +24552,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/NagroMS/"
     }
   ],
+  "E/22/269": [
+    {
+      "title": "traffic sign detection",
+      "category": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/traffic-sign-detection/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co543-traffic-sign-detection",
+      "page_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/traffic-sign-detection/"
+    }
+  ],
   "E/22/271": [
     {
       "title": "DMS",
@@ -24739,6 +24784,21 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT",
       "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-Project-KNOT/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Project-KNOT/"
+    }
+  ],
+  "E/22/372": [
+    {
+      "title": "traffic sign detection",
+      "category": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/traffic-sign-detection/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co543-traffic-sign-detection",
+      "page_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co543-traffic-sign-detection/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/traffic-sign-detection/"
     }
   ],
   "E/22/373": [
