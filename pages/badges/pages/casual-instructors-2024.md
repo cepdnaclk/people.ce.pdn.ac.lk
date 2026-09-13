@@ -119,7 +119,7 @@ students:
     profile_image: https://people.ce.pdn.ac.lk/images/students/e19/e19226.jpg
     link: "#"
   - eNumber: E/19/409
-    name: Udugamasooriya D.P.
+    name: D.P. Udugamasooriya
     position: CO225, CO226
     profile_url: /students/e19/409/
     profile_image: https://people.ce.pdn.ac.lk/images/students/e19/e19409.jpg
