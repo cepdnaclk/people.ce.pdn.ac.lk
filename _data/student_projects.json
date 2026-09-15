@@ -23573,6 +23573,19 @@
   ],
   "E/22/008": [
     {
+      "title": "Forensic Medical Records Management System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensic-Medical-Records-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensic-Medical-Records-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensic-Medical-Records-Management-System/"
+    },
+    {
       "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
       "category": {
         "code": "co2060",
@@ -24022,6 +24035,19 @@
   ],
   "E/22/126": [
     {
+      "title": "Forensic Medical Records Management System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensic-Medical-Records-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensic-Medical-Records-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensic-Medical-Records-Management-System/"
+    },
+    {
       "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
       "category": {
         "code": "co2060",
@@ -24051,6 +24077,19 @@
     }
   ],
   "E/22/130": [
+    {
+      "title": "Forensic Medical Records Management System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensic-Medical-Records-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensic-Medical-Records-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensic-Medical-Records-Management-System/"
+    },
     {
       "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
       "category": {
@@ -24107,6 +24146,19 @@
     }
   ],
   "E/22/135": [
+    {
+      "title": "Forensic Medical Records Management System",
+      "category": {
+        "code": "co226",
+        "title": "Database Projects (CO226)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/Forensic-Medical-Records-Management-System/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co226-Forensic-Medical-Records-Management-System",
+      "page_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-Forensic-Medical-Records-Management-System/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensic-Medical-Records-Management-System/"
+    },
     {
       "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
       "category": {
@@ -25276,6 +25328,19 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
+    },
+    {
+      "title": "PCB Bare Board Defect Detection",
+      "category": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/PCB-Bare-Board-Defect-Detection/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co543-PCB-Bare-Board-Defect-Detection",
+      "page_url": "https://cepdnaclk.github.io/e23-co543-PCB-Bare-Board-Defect-Detection",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/PCB-Bare-Board-Defect-Detection/"
     }
   ],
   "E/23/043": [
@@ -25452,6 +25517,19 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
+    },
+    {
+      "title": "PCB Bare Board Defect Detection",
+      "category": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/PCB-Bare-Board-Defect-Detection/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co543-PCB-Bare-Board-Defect-Detection",
+      "page_url": "https://cepdnaclk.github.io/e23-co543-PCB-Bare-Board-Defect-Detection",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/PCB-Bare-Board-Defect-Detection/"
     }
   ],
   "E/23/108": [
@@ -25497,6 +25575,19 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-stress-detection-and-analyzing-system",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/stress-detection-and-analyzing-system/"
+    },
+    {
+      "title": "PCB Bare Board Defect Detection",
+      "category": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/PCB-Bare-Board-Defect-Detection/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co543-PCB-Bare-Board-Defect-Detection",
+      "page_url": "https://cepdnaclk.github.io/e23-co543-PCB-Bare-Board-Defect-Detection",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/PCB-Bare-Board-Defect-Detection/"
     }
   ],
   "E/23/118": [
@@ -25881,6 +25972,19 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic",
       "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-NexClinic/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/NexClinic/"
+    },
+    {
+      "title": "PCB Bare Board Defect Detection",
+      "category": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co543/e23/PCB-Bare-Board-Defect-Detection/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co543-PCB-Bare-Board-Defect-Detection",
+      "page_url": "https://cepdnaclk.github.io/e23-co543-PCB-Bare-Board-Defect-Detection",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/PCB-Bare-Board-Defect-Detection/"
     }
   ],
   "E/23/340": [
