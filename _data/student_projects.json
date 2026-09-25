@@ -25233,21 +25233,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Hotel-Management-System/"
     }
   ],
-  "E/23/017": [
-    {
-      "title": "TransitPro",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/TransitPro/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-TransitPro",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
-    }
-  ],
   "E/23/023": [
     {
       "title": "MPhil PhD Lifecycle Management System",
@@ -25375,21 +25360,6 @@
       "page_url": "https://cepdnaclk.github.io/e23-co543-DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E23/DefectVision-Intelligent-Surface-Defect-Detection-Using-Deep-Learning/"
-    }
-  ],
-  "E/23/077": [
-    {
-      "title": "TransitPro",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/TransitPro/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-TransitPro",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
     }
   ],
   "E/23/082": [
@@ -26186,36 +26156,6 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
-    }
-  ],
-  "E/23/454": [
-    {
-      "title": "TransitPro",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/TransitPro/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-TransitPro",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
-    }
-  ],
-  "E/23/455": [
-    {
-      "title": "TransitPro",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/TransitPro/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-TransitPro",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
     }
   ]
 }
