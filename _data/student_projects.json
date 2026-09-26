@@ -23659,6 +23659,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co542/E22/Air-Pollution-Forecasting-Using-Temporal-NNs-Team-VectorX/"
     }
   ],
+  "E/22/032": [
+    {
+      "title": "bloodmsystem",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/bloodmsystem/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-bloodmsystem",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/bloodmsystem/"
+    }
+  ],
   "E/22/034": [
     {
       "title": "Web_Based_PAR_Index_System",
@@ -24372,6 +24387,19 @@
   ],
   "E/22/203": [
     {
+      "title": "bloodmsystem",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/bloodmsystem/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-bloodmsystem",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/bloodmsystem/"
+    },
+    {
       "title": "traffic sign detection",
       "category": {
         "code": "co543",
@@ -24606,6 +24634,19 @@
   ],
   "E/22/269": [
     {
+      "title": "bloodmsystem",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/bloodmsystem/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-bloodmsystem",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/bloodmsystem/"
+    },
+    {
       "title": "traffic sign detection",
       "category": {
         "code": "co543",
@@ -24778,6 +24819,21 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-OptiFlow",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OptiFlow/"
+    }
+  ],
+  "E/22/353": [
+    {
+      "title": "bloodmsystem",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/bloodmsystem/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co2060-bloodmsystem",
+      "page_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-bloodmsystem/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/bloodmsystem/"
     }
   ],
   "E/22/362": [
@@ -25259,7 +25315,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/SkillShare/",
       "repo_url": "https://github.com/cepdnaclk/e23-co2060-SkillShare",
       "page_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
     },
     {
@@ -25289,6 +25345,21 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Kitchen-Foods-Platform",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
+    }
+  ],
+  "E/23/050": [
+    {
+      "title": "Merch4Change",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Merch4Change/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Merch4Change",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Merch4Change/"
     }
   ],
   "E/23/054": [
@@ -25377,6 +25448,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Kitchen-Foods-Platform/"
     }
   ],
+  "E/23/089": [
+    {
+      "title": "Merch4Change",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Merch4Change/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Merch4Change",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Merch4Change/"
+    }
+  ],
   "E/23/093": [
     {
       "title": "Health Management System",
@@ -25433,7 +25519,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/SkillShare/",
       "repo_url": "https://github.com/cepdnaclk/e23-co2060-SkillShare",
       "page_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
     },
     {
@@ -25583,6 +25669,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/FindIT/"
     }
   ],
+  "E/23/161": [
+    {
+      "title": "Smart Tourism",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Smart-Tourism/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Smart-Tourism",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Smart-Tourism",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Smart-Tourism/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Smart-Tourism/"
+    }
+  ],
   "E/23/167": [
     {
       "title": "GiftBox Customization Marketplace",
@@ -25628,6 +25729,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Orthodontics-Workflow-Automation-System/"
     }
   ],
+  "E/23/187": [
+    {
+      "title": "Smart Tourism",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Smart-Tourism/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Smart-Tourism",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Smart-Tourism",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Smart-Tourism/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Smart-Tourism/"
+    }
+  ],
   "E/23/188": [
     {
       "title": "stress detection and analyzing system",
@@ -25656,6 +25772,21 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Hotel-Management-System",
       "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Hotel-Management-System/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Hotel-Management-System/"
+    }
+  ],
+  "E/23/202": [
+    {
+      "title": "Smart Tourism",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Smart-Tourism/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Smart-Tourism",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Smart-Tourism",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Smart-Tourism/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Smart-Tourism/"
     }
   ],
   "E/23/211": [
@@ -25860,7 +25991,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/SkillShare/",
       "repo_url": "https://github.com/cepdnaclk/e23-co2060-SkillShare",
       "page_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
     },
     {
@@ -25918,6 +26049,36 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Alumnet",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Alumnet/"
+    }
+  ],
+  "E/23/343": [
+    {
+      "title": "Merch4Change",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Merch4Change/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Merch4Change",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Merch4Change/"
+    }
+  ],
+  "E/23/347": [
+    {
+      "title": "Merch4Change",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Merch4Change/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Merch4Change",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Merch4Change/"
     }
   ],
   "E/23/351": [
@@ -26096,7 +26257,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/SkillShare/",
       "repo_url": "https://github.com/cepdnaclk/e23-co2060-SkillShare",
       "page_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-SkillShare/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/SkillShare/"
     },
     {
