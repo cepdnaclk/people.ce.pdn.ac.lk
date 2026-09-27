@@ -23861,7 +23861,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/travel-plan-assistant/",
       "repo_url": "https://github.com/cepdnaclk/e22-co2060-travel-plan-assistant",
       "page_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/travel-plan-assistant/"
     }
   ],
@@ -23876,7 +23876,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/travel-plan-assistant/",
       "repo_url": "https://github.com/cepdnaclk/e22-co2060-travel-plan-assistant",
       "page_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/travel-plan-assistant/"
     }
   ],
@@ -24525,7 +24525,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/travel-plan-assistant/",
       "repo_url": "https://github.com/cepdnaclk/e22-co2060-travel-plan-assistant",
       "page_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/travel-plan-assistant/"
     }
   ],
@@ -24598,7 +24598,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co2060/e22/travel-plan-assistant/",
       "repo_url": "https://github.com/cepdnaclk/e22-co2060-travel-plan-assistant",
       "page_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co2060-travel-plan-assistant/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/travel-plan-assistant/"
     }
   ],
@@ -25289,6 +25289,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Hotel-Management-System/"
     }
   ],
+  "E/23/017": [
+    {
+      "title": "TransitPro",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/TransitPro/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-TransitPro",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
+    }
+  ],
   "E/23/023": [
     {
       "title": "MPhil PhD Lifecycle Management System",
@@ -25965,6 +25980,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Orthodontics-Workflow-Automation-System/"
     }
   ],
+  "E/23/300": [
+    {
+      "title": "Smart Tourism",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Smart-Tourism/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Smart-Tourism",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-Smart-Tourism",
+      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Smart-Tourism/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Smart-Tourism/"
+    }
+  ],
   "E/23/302": [
     {
       "title": "Orthodontics Workflow Automation System",
@@ -26317,6 +26347,36 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-MPhil-PhD-Lifecycle-Management-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/MPhil-PhD-Lifecycle-Management-System/"
+    }
+  ],
+  "E/23/454": [
+    {
+      "title": "TransitPro",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/TransitPro/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-TransitPro",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
+    }
+  ],
+  "E/23/455": [
+    {
+      "title": "TransitPro",
+      "category": {
+        "code": "co2060",
+        "title": "Software Systems Design Project (CO2060)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/TransitPro/",
+      "repo_url": "https://github.com/cepdnaclk/e23-co2060-TransitPro",
+      "page_url": "https://cepdnaclk.github.io/e23-co2060-TransitPro",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/TransitPro/"
     }
   ]
 }
