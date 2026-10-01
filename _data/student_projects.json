@@ -21494,21 +21494,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Heat_map/"
     }
   ],
-  "E/21/031": [
-    {
-      "title": "EventStack Event Management System",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/EventStack-Event-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e21-co227-EventStack-Event-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e21-co227-EventStack-Event-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/EventStack-Event-Management-System/"
-    }
-  ],
   "E/21/036": [
     {
       "title": "Online doctor appointment website 2yp",
@@ -21935,21 +21920,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Organizer-Dashboard-Analytics-Backend/"
     }
   ],
-  "E/21/127": [
-    {
-      "title": "EventStack Event Management System",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/EventStack-Event-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e21-co227-EventStack-Event-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e21-co227-EventStack-Event-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/EventStack-Event-Management-System/"
-    }
-  ],
   "E/21/130": [
     {
       "title": "Interactive Exhibition Map Peraverse",
@@ -22202,21 +22172,6 @@
       "page_url": "https://cepdnaclk.github.io/e21-co227-Event-Management-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/Event-Management-System/"
-    }
-  ],
-  "E/21/188": [
-    {
-      "title": "EventStack Event Management System",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/EventStack-Event-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e21-co227-EventStack-Event-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e21-co227-EventStack-Event-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/EventStack-Event-Management-System/"
     }
   ],
   "E/21/193": [
@@ -22641,19 +22596,6 @@
       "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-IV",
       "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-Smart-IV/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-IV/"
-    },
-    {
-      "title": "EventStack Event Management System",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/EventStack-Event-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e21-co227-EventStack-Event-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e21-co227-EventStack-Event-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/EventStack-Event-Management-System/"
     }
   ],
   "E/21/287": [
@@ -22927,21 +22869,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraMorphiq/"
     }
   ],
-  "E/21/356": [
-    {
-      "title": "EventStack Event Management System",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/EventStack-Event-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e21-co227-EventStack-Event-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e21-co227-EventStack-Event-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/EventStack-Event-Management-System/"
-    }
-  ],
   "E/21/361": [
     {
       "title": "PathFinder",
@@ -23153,19 +23080,6 @@
       "page_url": "https://cepdnaclk.github.io/e21-3yp-Smart-IV",
       "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-Smart-IV/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/Smart-IV/"
-    },
-    {
-      "title": "EventStack Event Management System",
-      "category": {
-        "code": "co227",
-        "title": "Software Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co227/e21/EventStack-Event-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e21-co227-EventStack-Event-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e21-co227-EventStack-Event-Management-System",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/EventStack-Event-Management-System/"
     }
   ],
   "E/21/407": [
