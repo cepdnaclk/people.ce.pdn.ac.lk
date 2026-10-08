@@ -19907,6 +19907,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
     },
     {
+      "title": "Denture Design Studio",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Denture-Design-Studio/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co227-Denture-Design-Studio",
+      "page_url": "https://cepdnaclk.github.io/e20-co227-Denture-Design-Studio",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Denture-Design-Studio/"
+    },
+    {
       "title": "real time shadow removal from images",
       "category": {
         "code": "co543",
@@ -20255,6 +20268,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-4yp-Automated-Code-Smell-Detection-and-Refactoring-with-LLMs",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Automated-Code-Smell-Detection-and-Refactoring-with-LLMs/"
+    },
+    {
+      "title": "Denture Design Studio",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Denture-Design-Studio/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co227-Denture-Design-Studio",
+      "page_url": "https://cepdnaclk.github.io/e20-co227-Denture-Design-Studio",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Denture-Design-Studio/"
     }
   ],
   "E/20/369": [
@@ -20749,6 +20775,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
     },
     {
+      "title": "Denture Design Studio",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Denture-Design-Studio/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co227-Denture-Design-Studio",
+      "page_url": "https://cepdnaclk.github.io/e20-co227-Denture-Design-Studio",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Denture-Design-Studio/"
+    },
+    {
       "title": "Peak Load Detection System",
       "category": {
         "code": "co326",
@@ -20922,6 +20961,19 @@
       "page_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus",
       "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-SafePlus/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SafePlus/"
+    },
+    {
+      "title": "Denture Design Studio",
+      "category": {
+        "code": "co227",
+        "title": "Software Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co227/e20/Denture-Design-Studio/",
+      "repo_url": "https://github.com/cepdnaclk/e20-co227-Denture-Design-Studio",
+      "page_url": "https://cepdnaclk.github.io/e20-co227-Denture-Design-Studio",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co227/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E20/Denture-Design-Studio/"
     },
     {
       "title": "Peak Load Detection System",
@@ -21530,19 +21582,6 @@
   ],
   "E/21/049": [
     {
-      "title": "SPECTRA LEAF",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
-      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
-    },
-    {
       "title": "Heat_map",
       "category": {
         "code": "co227",
@@ -21613,19 +21652,6 @@
     }
   ],
   "E/21/054": [
-    {
-      "title": "SPECTRA LEAF",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
-      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
-    },
     {
       "title": "PeraVerse Kiosk System",
       "category": {
@@ -22253,19 +22279,6 @@
   ],
   "E/21/200": [
     {
-      "title": "SPECTRA LEAF",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
-      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
-    },
-    {
       "title": "PeraVerse Heatmap Predictive Analysis",
       "category": {
         "code": "co227",
@@ -22392,19 +22405,6 @@
     }
   ],
   "E/21/226": [
-    {
-      "title": "SPECTRA LEAF",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
-      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
-    },
     {
       "title": "PeraVerse Event Details Page",
       "category": {
@@ -24172,6 +24172,19 @@
   ],
   "E/22/154": [
     {
+      "title": "MedFlow",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/MedFlow/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-MedFlow",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-MedFlow",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/MedFlow/"
+    },
+    {
       "title": "AI Integrated Ecommerce Platform",
       "category": {
         "code": "co2060",
@@ -24335,6 +24348,19 @@
   ],
   "E/22/203": [
     {
+      "title": "MedFlow",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/MedFlow/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-MedFlow",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-MedFlow",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/MedFlow/"
+    },
+    {
       "title": "bloodmsystem",
       "category": {
         "code": "co2060",
@@ -24389,6 +24415,19 @@
       "page_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS",
       "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForensicSys-Medico-Forensic-DBMS/"
+    },
+    {
+      "title": "MedFlow",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/MedFlow/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-MedFlow",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-MedFlow",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/MedFlow/"
     },
     {
       "title": "MediTriage",
@@ -24581,6 +24620,19 @@
     }
   ],
   "E/22/269": [
+    {
+      "title": "MedFlow",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/MedFlow/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-MedFlow",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-MedFlow",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/MedFlow/"
+    },
     {
       "title": "bloodmsystem",
       "category": {
