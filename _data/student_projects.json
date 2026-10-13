@@ -21668,6 +21668,19 @@
   ],
   "E/21/055": [
     {
+      "title": "ReflectStudio",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ReflectStudio/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-ReflectStudio",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-ReflectStudio",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ReflectStudio/"
+    },
+    {
       "title": "PeraVerse Organizer Dashboard Analytics Backend",
       "category": {
         "code": "co227",
@@ -22505,6 +22518,19 @@
   ],
   "E/21/253": [
     {
+      "title": "ReflectStudio",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ReflectStudio/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-ReflectStudio",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-ReflectStudio",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ReflectStudio/"
+    },
+    {
       "title": "PeraVerse Organizer Dashboard Analytics Backend",
       "category": {
         "code": "co227",
@@ -22618,6 +22644,19 @@
     }
   ],
   "E/21/287": [
+    {
+      "title": "ReflectStudio",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ReflectStudio/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-ReflectStudio",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-ReflectStudio",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ReflectStudio/"
+    },
     {
       "title": "QR AI Entry Exit Tracking System",
       "category": {
@@ -23424,21 +23463,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co227/E21/PeraVerse-Kiosk-System/"
     }
   ],
-  "E/21/XXX": [
-    {
-      "title": "ReflectStudio",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/ReflectStudio/",
-      "repo_url": "https://github.com/cepdnaclk/e21-3yp-ReflectStudio",
-      "page_url": "https://cepdnaclk.github.io/e21-3yp-ReflectStudio",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/ReflectStudio/"
-    }
-  ],
   "E/22/001": [
     {
       "title": "Forensa Fronsic Database Management System",
@@ -23566,6 +23590,19 @@
   ],
   "E/22/014": [
     {
+      "title": "Smart_STEM_Experiment_Kit",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Smart_STEM_Experiment_Kit/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Smart_STEM_Experiment_Kit",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Smart_STEM_Experiment_Kit/"
+    },
+    {
       "title": "Web_Based_PAR_Index_System",
       "category": {
         "code": "co2060",
@@ -23652,6 +23689,19 @@
   ],
   "E/22/034": [
     {
+      "title": "Smart_STEM_Experiment_Kit",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Smart_STEM_Experiment_Kit/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Smart_STEM_Experiment_Kit",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Smart_STEM_Experiment_Kit/"
+    },
+    {
       "title": "Web_Based_PAR_Index_System",
       "category": {
         "code": "co2060",
@@ -23667,6 +23717,19 @@
   ],
   "E/22/035": [
     {
+      "title": "Smart_STEM_Experiment_Kit",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Smart_STEM_Experiment_Kit/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Smart_STEM_Experiment_Kit",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Smart_STEM_Experiment_Kit/"
+    },
+    {
       "title": "Web_Based_PAR_Index_System",
       "category": {
         "code": "co2060",
@@ -23681,6 +23744,19 @@
     }
   ],
   "E/22/036": [
+    {
+      "title": "Smart_STEM_Experiment_Kit",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Smart_STEM_Experiment_Kit/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Smart_STEM_Experiment_Kit",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Smart_STEM_Experiment_Kit/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Smart_STEM_Experiment_Kit/"
+    },
     {
       "title": "Web_Based_PAR_Index_System",
       "category": {
@@ -23828,6 +23904,19 @@
   ],
   "E/22/061": [
     {
+      "title": "Echo",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Echo/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Echo",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Echo",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Echo/"
+    },
+    {
       "title": "travel plan assistant",
       "category": {
         "code": "co2060",
@@ -23842,6 +23931,19 @@
     }
   ],
   "E/22/074": [
+    {
+      "title": "Echo",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Echo/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Echo",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Echo",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Echo/"
+    },
     {
       "title": "travel plan assistant",
       "category": {
@@ -23970,6 +24072,19 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-Patient-Management-System",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/Patient-Management-System/"
+    },
+    {
+      "title": "Road ane sidewalk segmentation",
+      "category": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/Road-ane-sidewalk-segmentation/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co543-Road-ane-sidewalk-segmentation",
+      "page_url": "https://cepdnaclk.github.io/e22-co543-Road-ane-sidewalk-segmentation",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/Road-ane-sidewalk-segmentation/"
     }
   ],
   "E/22/126": [
@@ -24531,6 +24646,19 @@
   ],
   "E/22/233": [
     {
+      "title": "Echo",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Echo/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Echo",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Echo",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Echo/"
+    },
+    {
       "title": "travel plan assistant",
       "category": {
         "code": "co2060",
@@ -24603,6 +24731,19 @@
     }
   ],
   "E/22/253": [
+    {
+      "title": "Echo",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Echo/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Echo",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Echo",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Echo/"
+    },
     {
       "title": "travel plan assistant",
       "category": {
@@ -24761,6 +24902,21 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/hydro-risk-management/"
     }
   ],
+  "E/22/303": [
+    {
+      "title": "Road ane sidewalk segmentation",
+      "category": {
+        "code": "co543",
+        "title": "Image Processing Projects (CO543)",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/co543/e22/Road-ane-sidewalk-segmentation/",
+      "repo_url": "https://github.com/cepdnaclk/e22-co543-Road-ane-sidewalk-segmentation",
+      "page_url": "https://cepdnaclk.github.io/e22-co543-Road-ane-sidewalk-segmentation",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/Road-ane-sidewalk-segmentation/"
+    }
+  ],
   "E/22/320": [
     {
       "title": "OptiFlow",
@@ -24835,6 +24991,19 @@
     }
   ],
   "E/22/337": [
+    {
+      "title": "Ventra",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Ventra/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Ventra",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Ventra",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Ventra/"
+    },
     {
       "title": "OptiFlow",
       "category": {
@@ -24982,6 +25151,19 @@
   ],
   "E/22/381": [
     {
+      "title": "Ventra",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Ventra/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Ventra",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Ventra",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Ventra/"
+    },
+    {
       "title": "NagroMS",
       "category": {
         "code": "co2060",
@@ -25042,6 +25224,19 @@
   ],
   "E/22/397": [
     {
+      "title": "Ventra",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Ventra/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Ventra",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Ventra",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Ventra/"
+    },
+    {
       "title": "floodguard",
       "category": {
         "code": "co2060",
@@ -25101,6 +25296,19 @@
     }
   ],
   "E/22/409": [
+    {
+      "title": "Ventra",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Ventra/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Ventra",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Ventra",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Ventra/"
+    },
     {
       "title": "OptiFlow",
       "category": {
