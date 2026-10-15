@@ -23534,6 +23534,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensic-Medical-Records-Management-System/"
     },
     {
+      "title": "Ciora",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Ciora/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Ciora",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Ciora",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Ciora/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Ciora/"
+    },
+    {
       "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
       "category": {
         "code": "co2060",
@@ -23571,8 +23584,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForensicSys-Medico-Forensic-DBMS/",
       "repo_url": "https://github.com/cepdnaclk/e22-co226-ForensicSys-Medico-Forensic-DBMS",
       "page_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS",
-      "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS/data/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForensicSys-Medico-Forensic-DBMS/"
+    },
+    {
+      "title": "Ciora",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Ciora/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Ciora",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Ciora",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Ciora/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Ciora/"
     },
     {
       "title": "MediTriage",
@@ -23782,7 +23808,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForensicSys-Medico-Forensic-DBMS/",
       "repo_url": "https://github.com/cepdnaclk/e22-co226-ForensicSys-Medico-Forensic-DBMS",
       "page_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS",
-      "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS/data/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForensicSys-Medico-Forensic-DBMS/"
     },
     {
@@ -23813,6 +23839,19 @@
     }
   ],
   "E/22/051": [
+    {
+      "title": "Smart_Jaundice",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Smart_Jaundice/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Smart_Jaundice",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Smart_Jaundice",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Smart_Jaundice/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Smart_Jaundice/"
+    },
     {
       "title": "DMS",
       "category": {
@@ -23984,8 +24023,21 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForensicSys-Medico-Forensic-DBMS/",
       "repo_url": "https://github.com/cepdnaclk/e22-co226-ForensicSys-Medico-Forensic-DBMS",
       "page_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS",
-      "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS/data/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForensicSys-Medico-Forensic-DBMS/"
+    },
+    {
+      "title": "Ciora",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Ciora/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Ciora",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Ciora",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Ciora/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Ciora/"
     },
     {
       "title": "MediTriage",
@@ -24145,6 +24197,19 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/Forensic-Medical-Records-Management-System/"
     },
     {
+      "title": "Ciora",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Ciora/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Ciora",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Ciora",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Ciora/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Ciora/"
+    },
+    {
       "title": "Crop Yield Optimization and Intelligent Plant Disease Analysis",
       "category": {
         "code": "co2060",
@@ -24182,6 +24247,21 @@
       "page_url": "https://cepdnaclk.github.io/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/Medical-Image-Abnormality-Cassification-Segmentation/"
+    }
+  ],
+  "E/22/131": [
+    {
+      "title": "Agricultural Hexabot Robot",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Agricultural-Hexabot-Robot/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Agricultural-Hexabot-Robot",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Agricultural-Hexabot-Robot",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Agricultural-Hexabot-Robot/"
     }
   ],
   "E/22/132": [
@@ -24373,6 +24453,19 @@
   ],
   "E/22/176": [
     {
+      "title": "Smart_Jaundice",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Smart_Jaundice/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Smart_Jaundice",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Smart_Jaundice",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Smart_Jaundice/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Smart_Jaundice/"
+    },
+    {
       "title": "DMS",
       "category": {
         "code": "co2060",
@@ -24556,7 +24649,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForensicSys-Medico-Forensic-DBMS/",
       "repo_url": "https://github.com/cepdnaclk/e22-co226-ForensicSys-Medico-Forensic-DBMS",
       "page_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS",
-      "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS/data/thumbnail.jpg",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForensicSys-Medico-Forensic-DBMS/"
     },
     {
@@ -24600,6 +24693,19 @@
     }
   ],
   "E/22/227": [
+    {
+      "title": "Smart_Jaundice",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Smart_Jaundice/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Smart_Jaundice",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Smart_Jaundice",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Smart_Jaundice/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Smart_Jaundice/"
+    },
     {
       "title": "DMS",
       "category": {
@@ -24831,6 +24937,19 @@
   ],
   "E/22/271": [
     {
+      "title": "Smart_Jaundice",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Smart_Jaundice/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Smart_Jaundice",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Smart_Jaundice",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-Smart_Jaundice/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Smart_Jaundice/"
+    },
+    {
       "title": "DMS",
       "category": {
         "code": "co2060",
@@ -24930,6 +25049,36 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-OptiFlow",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/OptiFlow/"
+    }
+  ],
+  "E/22/322": [
+    {
+      "title": "Agricultural Hexabot Robot",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Agricultural-Hexabot-Robot/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Agricultural-Hexabot-Robot",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Agricultural-Hexabot-Robot",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Agricultural-Hexabot-Robot/"
+    }
+  ],
+  "E/22/323": [
+    {
+      "title": "Agricultural Hexabot Robot",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Agricultural-Hexabot-Robot/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Agricultural-Hexabot-Robot",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Agricultural-Hexabot-Robot",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Agricultural-Hexabot-Robot/"
     }
   ],
   "E/22/324": [
@@ -25392,6 +25541,21 @@
       "page_url": "https://cepdnaclk.github.io/e22-co2060-gympappa-spooty-app",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co2060/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E22/gympappa-spooty-app/"
+    }
+  ],
+  "E/22/427": [
+    {
+      "title": "Agricultural Hexabot Robot",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/Agricultural-Hexabot-Robot/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-Agricultural-Hexabot-Robot",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-Agricultural-Hexabot-Robot",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/Agricultural-Hexabot-Robot/"
     }
   ],
   "E/22/443": [
