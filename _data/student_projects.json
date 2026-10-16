@@ -21582,6 +21582,19 @@
   ],
   "E/21/049": [
     {
+      "title": "SPECTRA LEAF",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
+    },
+    {
       "title": "Heat_map",
       "category": {
         "code": "co227",
@@ -21652,6 +21665,19 @@
     }
   ],
   "E/21/054": [
+    {
+      "title": "SPECTRA LEAF",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
+    },
     {
       "title": "PeraVerse Kiosk System",
       "category": {
@@ -22292,6 +22318,19 @@
   ],
   "E/21/200": [
     {
+      "title": "SPECTRA LEAF",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
+    },
+    {
       "title": "PeraVerse Heatmap Predictive Analysis",
       "category": {
         "code": "co227",
@@ -22418,6 +22457,19 @@
     }
   ],
   "E/21/226": [
+    {
+      "title": "SPECTRA LEAF",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e21/SPECTRA-LEAF/",
+      "repo_url": "https://github.com/cepdnaclk/e21-3yp-SPECTRA-LEAF",
+      "page_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF",
+      "thumbnail_url": "https://cepdnaclk.github.io/e21-3yp-SPECTRA-LEAF/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E21/SPECTRA-LEAF/"
+    },
     {
       "title": "PeraVerse Event Details Page",
       "category": {
@@ -23584,7 +23636,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForensicSys-Medico-Forensic-DBMS/",
       "repo_url": "https://github.com/cepdnaclk/e22-co226-ForensicSys-Medico-Forensic-DBMS",
       "page_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForensicSys-Medico-Forensic-DBMS/"
     },
     {
@@ -23808,7 +23860,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForensicSys-Medico-Forensic-DBMS/",
       "repo_url": "https://github.com/cepdnaclk/e22-co226-ForensicSys-Medico-Forensic-DBMS",
       "page_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForensicSys-Medico-Forensic-DBMS/"
     },
     {
@@ -23897,6 +23949,19 @@
     }
   ],
   "E/22/056": [
+    {
+      "title": "NETH",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/NETH/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-NETH",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-NETH",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-NETH/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/NETH/"
+    },
     {
       "title": "OrthoPAR Web Platform",
       "category": {
@@ -24023,7 +24088,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForensicSys-Medico-Forensic-DBMS/",
       "repo_url": "https://github.com/cepdnaclk/e22-co226-ForensicSys-Medico-Forensic-DBMS",
       "page_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForensicSys-Medico-Forensic-DBMS/"
     },
     {
@@ -24097,6 +24162,19 @@
     }
   ],
   "E/22/124": [
+    {
+      "title": "AgriScout",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/AgriScout/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-AgriScout",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-AgriScout",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/AgriScout/"
+    },
     {
       "title": "PearlPath",
       "category": {
@@ -24380,6 +24458,19 @@
   ],
   "E/22/151": [
     {
+      "title": "NETH",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/NETH/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-NETH",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-NETH",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-NETH/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/NETH/"
+    },
+    {
       "title": "OrthoPAR Web Platform",
       "category": {
         "code": "co2060",
@@ -24539,6 +24630,19 @@
   ],
   "E/22/184": [
     {
+      "title": "NETH",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/NETH/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-NETH",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-NETH",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-NETH/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/NETH/"
+    },
+    {
       "title": "PERA SAM",
       "category": {
         "code": "co2060",
@@ -24649,7 +24753,7 @@
       "project_url": "https://projects.ce.pdn.ac.lk/co226/e22/ForensicSys-Medico-Forensic-DBMS/",
       "repo_url": "https://github.com/cepdnaclk/e22-co226-ForensicSys-Medico-Forensic-DBMS",
       "page_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co226/thumbnail.jpg",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-co226-ForensicSys-Medico-Forensic-DBMS/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co226/E22/ForensicSys-Medico-Forensic-DBMS/"
     },
     {
@@ -24690,6 +24794,21 @@
       "page_url": "https://cepdnaclk.github.io/e22-co543-Medical-Image-Abnormality-Cassification-Segmentation",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/co543/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co543/E22/Medical-Image-Abnormality-Cassification-Segmentation/"
+    }
+  ],
+  "E/22/214": [
+    {
+      "title": "NETH",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/NETH/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-NETH",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-NETH",
+      "thumbnail_url": "https://cepdnaclk.github.io/e22-3yp-NETH/data/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/NETH/"
     }
   ],
   "E/22/227": [
@@ -24736,6 +24855,19 @@
     }
   ],
   "E/22/232": [
+    {
+      "title": "AgriScout",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/AgriScout/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-AgriScout",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-AgriScout",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/AgriScout/"
+    },
     {
       "title": "PearlPath",
       "category": {
@@ -25240,6 +25372,19 @@
   ],
   "E/22/366": [
     {
+      "title": "AgriScout",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/AgriScout/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-AgriScout",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-AgriScout",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/AgriScout/"
+    },
+    {
       "title": "Project KNOT",
       "category": {
         "code": "co2060",
@@ -25559,6 +25704,19 @@
     }
   ],
   "E/22/443": [
+    {
+      "title": "AgriScout",
+      "category": {
+        "code": "3yp",
+        "title": "Cyber-Physical Systems Projects",
+        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
+      },
+      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e22/AgriScout/",
+      "repo_url": "https://github.com/cepdnaclk/e22-3yp-AgriScout",
+      "page_url": "https://cepdnaclk.github.io/e22-3yp-AgriScout",
+      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
+      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E22/AgriScout/"
+    },
     {
       "title": "Project KNOT",
       "category": {
