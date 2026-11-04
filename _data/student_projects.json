@@ -25895,19 +25895,6 @@
   ],
   "E/23/012": [
     {
-      "title": "Health Management System",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Health-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Health-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System",
-      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Health-Management-System/"
-    },
-    {
       "title": "DefectVision Intelligent Surface Defect Detection Using Deep Learning",
       "category": {
         "code": "co543",
@@ -26192,51 +26179,6 @@
       "page_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change",
       "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Merch4Change/data/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Merch4Change/"
-    }
-  ],
-  "E/23/093": [
-    {
-      "title": "Health Management System",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Health-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Health-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System",
-      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Health-Management-System/"
-    }
-  ],
-  "E/23/098": [
-    {
-      "title": "Health Management System",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Health-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Health-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System",
-      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Health-Management-System/"
-    }
-  ],
-  "E/23/100": [
-    {
-      "title": "Health Management System",
-      "category": {
-        "code": "co2060",
-        "title": "Software Systems Design Project (CO2060)",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/co2060/e23/Health-Management-System/",
-      "repo_url": "https://github.com/cepdnaclk/e23-co2060-Health-Management-System",
-      "page_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System",
-      "thumbnail_url": "https://cepdnaclk.github.io/e23-co2060-Health-Management-System/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/co2060/E23/Health-Management-System/"
     }
   ],
   "E/23/104": [
