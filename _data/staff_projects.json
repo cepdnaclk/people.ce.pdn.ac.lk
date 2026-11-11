@@ -2090,7 +2090,7 @@
     "projects": {}
   },
   "kamalanath@eng.pdn.ac.lk": {
-    "count": 2,
+    "count": 1,
     "projects": {
       "e20": [
         {
@@ -2105,21 +2105,6 @@
           "page_url": "https://cepdnaclk.github.io/e20-4yp-Neuromorphic-Smart-Sensor-for-Autonomous-Underwater-Vehicles",
           "thumbnail_url": "https://cepdnaclk.github.io/e20-4yp-Neuromorphic-Smart-Sensor-for-Autonomous-Underwater-Vehicles/data/thumbnail.jpg",
           "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E20/Neuromorphic-Smart-Sensor-for-Autonomous-Underwater-Vehicles/"
-        }
-      ],
-      "e15": [
-        {
-          "title": "Adaptive people movement and action prediction using CCTV to control appliances",
-          "category": {
-            "code": "4yp",
-            "title": "Undergraduate Research Projects",
-            "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/"
-          },
-          "project_url": "https://projects.ce.pdn.ac.lk/4yp/e15/Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances/",
-          "repo_url": "https://github.com/cepdnaclk/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances",
-          "page_url": "https://cepdnaclk.github.io/e15-4yp-Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances",
-          "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/4yp/thumbnail.jpg",
-          "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E15/Adaptive-people-movement-and-action-prediction-using-CCTV-to-control-appliances/"
         }
       ]
     }
