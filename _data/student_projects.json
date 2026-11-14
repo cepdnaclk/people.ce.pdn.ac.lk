@@ -16485,19 +16485,6 @@
   ],
   "E/20/032": [
     {
-      "title": "SkyT",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SkyT/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
-      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-SkyT/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
-    },
-    {
       "title": "Reducing Context Switching Latency in RTES Using RFP",
       "category": {
         "code": "4yp",
@@ -16590,19 +16577,6 @@
     }
   ],
   "E/20/034": [
-    {
-      "title": "SkyT",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SkyT/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
-      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-SkyT/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
-    },
     {
       "title": "On Chip Online Learning For Neuromorphic Hardware",
       "category": {
@@ -17740,19 +17714,6 @@
   ],
   "E/20/157": [
     {
-      "title": "SkyT",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SkyT/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
-      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-SkyT/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
-    },
-    {
       "title": "Reducing Context Switching Latency in RTES Using RFP",
       "category": {
         "code": "4yp",
@@ -17953,19 +17914,6 @@
     }
   ],
   "E/20/173": [
-    {
-      "title": "SkyT",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e20/SkyT/",
-      "repo_url": "https://github.com/cepdnaclk/e20-3yp-SkyT",
-      "page_url": "https://cepdnaclk.github.io/e20-3yp-SkyT",
-      "thumbnail_url": "https://cepdnaclk.github.io/e20-3yp-SkyT/data/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E20/SkyT/"
-    },
     {
       "title": "Predictive Link Stablitiy and Trust Aware Routing in FANETs",
       "category": {
