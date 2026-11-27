@@ -85,21 +85,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/4yp/E14/ipb/"
     }
   ],
-  "E/14/017": [
-    {
-      "title": "Smart Shopping Cart",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Smart-Shopping-Cart/",
-      "repo_url": "https://github.com/cepdnaclk/e14-3yp-Smart-Shopping-Cart",
-      "page_url": "https://cepdnaclk.github.io/e14-3yp-Smart-Shopping-Cart",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Smart-Shopping-Cart/"
-    }
-  ],
   "E/14/018": [
     {
       "title": "Automated Attendance system",
@@ -439,21 +424,6 @@
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Train-Movement-Tracking-and-Level-Crossing-Safety-Control/"
     }
   ],
-  "E/14/216": [
-    {
-      "title": "Smart Shopping Cart",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Smart-Shopping-Cart/",
-      "repo_url": "https://github.com/cepdnaclk/e14-3yp-Smart-Shopping-Cart",
-      "page_url": "https://cepdnaclk.github.io/e14-3yp-Smart-Shopping-Cart",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Smart-Shopping-Cart/"
-    }
-  ],
   "E/14/222": [
     {
       "title": "Automated Fishing Bot",
@@ -630,21 +600,6 @@
       "page_url": "https://cepdnaclk.github.io/e14-3yp-Telepresence-Robot",
       "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
       "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Telepresence-Robot/"
-    }
-  ],
-  "E/14/311": [
-    {
-      "title": "Smart Shopping Cart",
-      "category": {
-        "code": "3yp",
-        "title": "Cyber-Physical Systems Projects",
-        "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/"
-      },
-      "project_url": "https://projects.ce.pdn.ac.lk/3yp/e14/Smart-Shopping-Cart/",
-      "repo_url": "https://github.com/cepdnaclk/e14-3yp-Smart-Shopping-Cart",
-      "page_url": "https://cepdnaclk.github.io/e14-3yp-Smart-Shopping-Cart",
-      "thumbnail_url": "https://projects.ce.pdn.ac.lk/data/categories/3yp/thumbnail.jpg",
-      "api_url": "https://api.ce.pdn.ac.lk/projects/v1/3yp/E14/Smart-Shopping-Cart/"
     }
   ],
   "E/14/314": [
